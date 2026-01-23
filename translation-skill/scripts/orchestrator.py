@@ -93,9 +93,44 @@ def scrape_url(url):
         else:
             context_text = "No definition found."
         
-    print(f"Found Term: {term}")
     print(f"Description: {context_text}")
     return term, context_text
+
+def scrape_index_page(index_url):
+    """
+    Scrapes the index page for all concept URLs matching the pattern.
+    """
+    print(f"Scraping index page: {index_url}...")
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    try:
+        response = requests.get(index_url, headers=headers)
+        response.raise_for_status()
+    except Exception as e:
+        print(f"Error fetching index page: {e}")
+        return []
+        
+    soup = BeautifulSoup(response.text, "html.parser")
+    # Base pattern based on inspection: /understanding-disaster-risk/terminology/hips/
+    # We look for all 'a' tags with href containing this pattern
+    links = set()
+    base_domain = "https://www.preventionweb.net"
+    
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if "/understanding-disaster-risk/terminology/hips/" in href:
+            # Ensure full URL
+            if href.startswith("/"):
+                full_url = base_domain + href
+            else:
+                full_url = href
+            
+            # Simple validation: it should end with code usually, but let's just accept unique URLs that match the path
+            links.add(full_url)
+            
+    print(f"Found {len(links)} unique concept URLs.")
+    return list(links)
 
 def _query_model(term, context, languages, model, voter_prompt_template):
     """Helper to query a single model and return parsed results."""
@@ -357,6 +392,7 @@ def main():
     parser = argparse.ArgumentParser(description="Orchestrator for Multilingual CV Skill")
     parser.add_argument("--input-file", "--input_file", dest="input_file", help="Path to source CSV")
     parser.add_argument("--url", help="URL to scrape term from (overrides input_file)")
+    parser.add_argument("--index-url", help="Index page URL to scrape multiple concepts from")
     parser.add_argument("--output-dir", "--output_dir", dest="output_dir", default="data", help="Directory for output CSV")
     parser.add_argument("--languages", default="fr,es,de", help="Comma-separated target languages")
     parser.add_argument("--models", default="gpt-oss:latest", help="Comma-separated LLM models to use")
@@ -383,13 +419,31 @@ def main():
         except Exception as e:
             print(f"Error scraping URL: {e}")
             return
+    elif args.index_url:
+        urls = scrape_index_page(args.index_url)
+        if not urls:
+            print("No URLs found in index page.")
+            return
+        
+        # Scrape each URL found
+        rows = []
+        print(f"Processing {len(urls)} concepts from index...")
+        for i, u in enumerate(urls):
+            print(f"[{i+1}/{len(urls)}] Scraping {u}")
+            try:
+                t, c = scrape_url(u)
+                rows.append({"term": t, "context": c})
+                # Be searching friendly
+                time.sleep(1) 
+            except Exception as e:
+                print(f"Skipping {u}: {e}")
+
     elif args.input_file:
         with open(args.input_file, "r") as f:
             reader = csv.DictReader(f)
-            for row in reader:
-                rows.append(row)
+            rows = list(reader)
     else:
-        print("Error: Must provide either --input_file or --url")
+        print("Error: Must provide --url, --index-url, or --input-file")
         return
             
             
