@@ -1,32 +1,50 @@
-# Agent Architecture and Prompts
+# Agent Architecture & Technical History
 
-This document outlines the agent-based architecture used for the Multilingual Controlled Vocabulary project and provides the exact prompts required to recreate the pipeline.
+This document provides a comprehensive blueprint for the Multilingual Controlled Vocabulary project. It details the system architecture, the evolution of its logic, and the prompt engineering required to reproduce the entire pipeline.
 
-## System Architecture
+---
 
-The project uses an **Orchestrator** script that coordinates two main types of agents in a multi-model translation pipeline:
+## 1. Project Vision & History
 
-1.  **Voter Agent**: A specialized technical translator that generates candidate translations for a term in multiple languages, using a "Scope Note" for context.
-2.  **Arbitrator Agent** (Optional framework): A high-level agent capable of selecting the best candidate or synthesizing a consensus when multiple models provide conflicting translations.
+The project was conceived to automate the translation of highly specialized technical terms (e.g., Disaster Risk Reduction, AI) using a multi-agent system. The core challenge was to move beyond literal translation and ensure **conceptual accuracy** using "Scope Notes" (definitions).
+
+### Technical Evolution:
+1.  **Phase 1: Direct Translation**: Initially, single LLM calls were made using a basic prompt.
+2.  **Phase 2: Contextualization**: Added "Scope Notes" to the prompt, requiring agents to analyze the definition before translating.
+3.  **Phase 3: Multi-Model Voting**: To increase confidence, the system was evolved to query multiple models (gpt-oss, gemma3, deepseek) and record their outputs.
+4.  **Phase 4: Semantic Provenance**: The final evolution added formal row-level provenance. Each translation in the CSV and `metadata.json` is explicitly linked back to the specific model (SoftwareAgent) that produced it.
+
+---
+
+## 2. System Architecture
+
+The project is orchestrated by `orchestrator.py`, which acts as the "Brain" of the pipeline.
 
 ```mermaid
 graph TD
-    A[Orchestrator] --> B[External Source / CSV]
-    B -->|Context + Term| A
-    A --> C[Voter Agents]
-    C -->|gpt-oss:latest| D[Translations]
-    C -->|gemma3:27b| E[Translations]
-    C -->|deepseek-r1:14b| F[Translations]
-    D & E & F --> G{CSV Storage}
-    G --> H[Croissant Generator]
-    H --> I[metadata.json with Provenance]
+    A[Orchestrator] --> B{Input Task}
+    B -->|URL| C[Web Scraper]
+    B -->|CSV| D[Local Reader]
+    C & D -->|Term + Scope Note| E[Processing Loop]
+    E --> F[Voter Agents]
+    F -->|Parallel API Calls| G[LLM Selection]
+    G -->|gpt-oss:latest| H[Translation JSON]
+    G -->|gemma3:27b| I[Translation JSON]
+    G -->|deepseek-r1:14b| J[Translation JSON]
+    H & I & J --> K[Consolidated CSV]
+    K --> L[Croissant Generator]
+    L --> M[metadata.json]
 ```
 
-## Agent Prompts
+---
 
-### 1. Voter Agent Prompt
-This prompt is used to generate translations. It expects `{{target_languages}}`, `{{term}}`, and `{{scope_note}}` as variables.
+## 3. Prompt Engineering
 
+### A. The Voter Agent
+**Role**: A technical linguist specializing in precise terminology.
+**Logic**: Receives a list of target languages and a single conceptual context. Its goal is to provide a JSON map of translations.
+
+**Standard Prompt:**
 ```markdown
 You are a highly specialized technical translator agent.
 Your task is to translate the given technical term from English into the target language.
@@ -45,25 +63,24 @@ A "Scope Note" will be provided to give you the exact context of the term.
 - Term: {{term}}
 - Scope Note: {{scope_note}}
 
-**Output JSON:**
+**Output JSON Template:**
 {
   "fr": {
     "translation": "...",
     "confidence_score": 0.95
   },
-  "es": {
-    "translation": "...",
-    "confidence_score": 0.98
-  }
+  ...
 }
 ```
 
-### 2. Arbitrator Agent Prompt
-Used for consensus and validation across candidates. It expects `{{term}}`, `{{scope_note}}`, and `{{candidates}}` (a JSON dump of results).
+### B. The Arbitrator Agent (System Framework)
+**Role**: A consensus-builder and quality control agent.
+**Logic**: When multiple models disagree, the Arbitrator is invoked to verify reasoning and select the "Winning Term".
 
+**Arbitrator Prompt:**
 ```markdown
 You are the **Arbitrator Agent**.
-You have received translations from multiple sources (or just one verified source) for a technical term.
+You have received translations from multiple sources for a technical term.
 Your job is to select the BEST translation or synthesize a better one if all are flawed.
 
 **Source Term:** {{term}}
@@ -75,24 +92,49 @@ Your job is to select the BEST translation or synthesize a better one if all are
 **Instructions:**
 1. Review the candidates and their confidence scores.
 2. Select the winning translation.
-3. If the consensus is weak (different translations), use your reasoning capabilities to decide the most accurate technical term.
-4. Assign a final confidence score.
+3. If the consensus is weak, use your reasoning capabilities to decide.
+4. Assign a final confidence score and explain your selection.
 
 **Output Format (JSON):**
-```json
 {
   "selected_translation": "...",
   "reasoning": "...",
   "final_confidence_score": 0.98,
-  "winning_model": "Gemini 3 Flash",
-  "rai_flags": []
+  "winning_model": "..."
 }
 ```
-```
 
-## Technical Implementation Notes
+---
 
-*   **Models Supported**: `gpt-oss:latest`, `gemma3:27b`, `deepseek-r1:14b`.
-*   **Infrastructure**: Calls are made via the Ollama API.
-*   **Provenance**: The `winning_model` column in the final CSV tracks which model generated which row. In the Croissant metadata, this is formally linked via `@id` to the `creator` section.
-*   **Multilingual Metadata**: The dataset name includes translations for the primary term in all languages, with each entry linked to its generating model.
+## 4. Internal Processing Logic
+
+### Scraping Logic (`orchestrator.py`)
+- **Target**: `preventionweb.net` and similar REST-like structures.
+- **Method**: Uses `BeautifulSoup` to find the primary `<h1>` (Term) and the "Scope Note" (usually found in a specific list or div class like `field--name-field-scope-note`).
+
+### Mapping & Provenance (`croissant_generator.py`)
+The generator performs complex JSON-LD mapping to ensure the dataset is machine-readable:
+- **Creators**: Scans the CSV's `winning_model` column to auto-detect every model used. Each is added as a `SoftwareApplication` with a unique `@id` (e.g., `model_gpt-oss_latest`).
+- **Multilingual Name**: The dataset `name` property is a list of objects. Each object contains the translated term (`@value`) and a `creator` link back to the model ID that provided it.
+- **Fields**: Maps `term`, `context`, `translation`, and `winning_model` to Schema.org properties.
+
+---
+
+## 5. How to Reproduce
+
+To recreate this project with an LLM like Gemini 3:
+1.  **Initialize the Environment**: Use the provided `Dockerfile` and `docker-compose.yml`.
+2.  **Environment Variable**: Set `OLLAMA_HOST` to your model provider.
+3.  **Entry Point**: Point the LLM at `orchestrator.py`. Explain that it must:
+    -   Parse CLI flags (supporting both `--output-dir` and `--output_dir`).
+    -   Use `ollama` library for generation.
+    -   Maintain a CSV with columns: `term,translation,context,language,confidence,winning_model,version`.
+    -   Invoke the `croissant_generator.py` after every successful batch.
+
+---
+
+## 6. Model History
+The system was verified with the following models:
+- **gpt-oss:latest**: Fast, high technical accuracy.
+- **gemma3:27b**: Excellent reasoning for Finnish and Russian nuances.
+- **deepseek-r1:14b**: Strong performance on structured JSON output and reasoning trails.
