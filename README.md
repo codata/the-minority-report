@@ -49,6 +49,54 @@ export OLLAMA_HOST=http://10.147.18.253:11434
 python3 translation-skill/scripts/orchestrator.py --url "YOUR_URL" --output_dir data
 ```
 
+## MCP Server
+
+Rosetta AI can be run as a Model Context Protocol (MCP) server, allowing LLMs to use its translation and scraping tools directly. It provides:
+- `understand_and_translate`: Translates a specialized term given its context (Scope Note).
+- `open_page_and_translate`: Scrapes a term/context from a URL and translates it.
+
+### How to Start the MCP Server
+
+1. **Install Dependencies**:
+   ```bash
+   pip install fastmcp mcp --break-system-packages
+   ```
+
+2. **Run the Server**:
+   ```bash
+   python3 translation-skill/scripts/mcp_server.py
+   ```
+
+3. **Configure MCP Client**:
+   Add the following to your MCP client configuration (e.g., Claude Desktop `mcp_config.json`):
+   ```json
+   {
+     "mcpServers": {
+       "rosetta": {
+         "command": "python3",
+         "args": ["/Users/vyacheslavtykhonov/projects/rosetta-ai/translation-skill/scripts/mcp_server.py"],
+         "env": {
+           "OLLAMA_HOST": "http://10.147.18.253:11434"
+         }
+       }
+     }
+   }
+   ```
+
+### How to Use Rosetta AI MCP
+
+Once configured, you can ask your LLM to perform complex technical translations.
+
+**What to ask:**
+- "Open the page https://www.preventionweb.net/... and translate the term into French and Spanish."
+- "I have a technical term 'Digital Twin' used in the context of urban planning. Translate it into German and Dutch using Rosetta AI."
+- "Scrape the latest terminology from this URL and generate a multilingual controlled vocabulary entry."
+
+**Tips:**
+- **Provide Context**: The `understand_and_translate` tool works best when you provide a detailed "Scope Note" or definition.
+- **Specify Models**: You can explicitly ask for certain models (e.g., `gemma3:27b`) if you need specific language nuances.
+- **Batching**: While the MCP tools currenty handle one term at a time, you can ask the LLM to loop through a list of terms.
+
 ## Environment Variables
 
 | Variable | Description | Default |
@@ -62,6 +110,10 @@ python3 translation-skill/scripts/orchestrator.py --url "YOUR_URL" --output_dir 
 - `data/`: Input and output CSV files.
 - `output/`: Generated `metadata.json` (Croissant format).
 - `agents.md`: Detailed documentation on agent architecture and prompts.
+
+## Credits
+
+- **Vyacheslav Tykhonov**: Project Lead & Architect.
 
 ## License
 Distributed under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license.

@@ -9,6 +9,15 @@
       "env": {
         "BIGQUERY_PROJECT_ID": "<YOUR_PROJECT_ID>"
       }
+    },
+    "rosetta": {
+      "command": "python3",
+      "args": [
+        "/Users/vyacheslavtykhonov/projects/rosetta-ai/translation-skill/scripts/mcp_server.py"
+      ],
+      "env": {
+        "OLLAMA_HOST": "http://10.147.18.253:11434"
+      }
     }
   }
 }

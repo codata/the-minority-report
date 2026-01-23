@@ -138,3 +138,21 @@ The system was verified with the following models:
 - **gpt-oss:latest**: Fast, high technical accuracy.
 - **gemma3:27b**: Excellent reasoning for Finnish and Russian nuances.
 - **deepseek-r1:14b**: Strong performance on structured JSON output and reasoning trails.
+
+---
+
+## 7. MCP Server Integration
+
+The multi-agent pipeline is exposed via a **Model Context Protocol (MCP)** server, making the "Voter" and "Scraper" logic available to other LLMs.
+
+### Tool: `understand_and_translate`
+- **Function**: Direct access to the `process_terms` logic.
+- **Workflow**: Contextualizes the term using the provided Scope Note, then dispatches to the specified models for translation and consensus.
+
+### Tool: `open_page_and_translate`
+- **Function**: Combines `scrape_url` and `understand_and_translate`.
+- **Workflow**: Automated web-to-metadata pipeline. It extracts technical metadata from a URL and immediately translates it into the desired languages.
+
+### Technical Implementation:
+- **Registry**: Uses `FastMCP` for efficient tool registration and discovery.
+- **Transport**: Standard `stdio` transport for compatibility with major MCP clients like Claude Desktop.
