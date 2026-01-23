@@ -94,6 +94,7 @@ def scrape_url(url):
             context_text = "No definition found."
         
     print(f"Found Term: {term}")
+    print(f"Description: {context_text}")
     return term, context_text
 
 def _query_model(term, context, languages, model, voter_prompt_template):
