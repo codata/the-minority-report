@@ -6,6 +6,8 @@ import subprocess
 import random
 import datetime
 
+import concurrent.futures
+
 # --- Mock LLM Interface ---
 from ollama import Client
 import requests
@@ -80,9 +82,63 @@ def scrape_url(url):
     print(f"Found Term: {term}")
     return term, context_text
 
+def _query_model(term, context, languages, model, voter_prompt_template):
+    """Helper to query a single model and return parsed results."""
+    print(f"  Using Model: {model}")
+    prompt = voter_prompt_template.replace("{{target_languages}}", ", ".join(languages))
+    prompt = prompt.replace("{{term}}", term)
+    prompt = prompt.replace("{{scope_note}}", context)
+    
+    response_str = mock_llm_call(prompt, model=model).strip()
+    
+    response = {}
+    if response_str:
+        try:
+            response = json.loads(response_str)
+        except json.JSONDecodeError:
+            import re
+            match = re.search(r'(\{.*\})', response_str, re.DOTALL)
+            if match:
+                try:
+                    response = json.loads(match.group(1))
+                except:
+                    pass
+
+    if not response:
+        print(f"    Failed to parse JSON for term '{term}'. Raw: {response_str[:50]}...")
+        return []
+    
+    model_results = []
+    for lang in languages:
+        lang_data = response.get(lang, {})
+        if not isinstance(lang_data, dict):
+            if lang == "fr" and "translation" in response: 
+                lang_data = response 
+            else:
+                lang_data = {}
+
+        translation = lang_data.get("translation", "")
+        confidence = lang_data.get("confidence_score", 0.0)
+        
+        if translation:
+            model_results.append({
+                "term": term,
+                "context": context,
+                "translation": translation,
+                "language": lang,
+                "confidence": confidence,
+                "winning_model": model,
+                "version": "0.1"
+            })
+        else:
+            print(f"      [{lang}] No translation found in response from {model}.")
+            
+    return model_results
+
 def process_terms(rows, languages, models, voter_prompt_template, output_csv_path):
     """
-    Processes a list of terms and returns translation results.
+    Processes a list of terms and returns translation results with consensus logic.
+    A translation is only accepted if at least 2 models agree on it (case-insensitive).
     """
     results = []
     if os.path.exists(output_csv_path):
@@ -99,56 +155,56 @@ def process_terms(rows, languages, models, voter_prompt_template, output_csv_pat
         context = row.get("context", "")
         print(f"\nProcessing Term: {term}")
         
-        for model in models:
-            print(f"  Using Model: {model}")
-            prompt = voter_prompt_template.replace("{{target_languages}}", ", ".join(languages))
-            prompt = prompt.replace("{{term}}", term)
-            prompt = prompt.replace("{{scope_note}}", context)
+        # Collect raw responses for this term
+        raw_results = [] 
+        
+        # Execute model queries in parallel
+        with concurrent.futures.ThreadPoolExecutor(max_workers=len(models)) as executor:
+            future_to_model = {
+                executor.submit(_query_model, term, context, languages, model, voter_prompt_template): model 
+                for model in models
+            }
             
-            response_str = mock_llm_call(prompt, model=model).strip()
-            
-            response = {}
-            if response_str:
+            for future in concurrent.futures.as_completed(future_to_model):
                 try:
-                    response = json.loads(response_str)
-                except json.JSONDecodeError:
-                    import re
-                    match = re.search(r'(\{.*\})', response_str, re.DOTALL)
-                    if match:
-                        try:
-                            response = json.loads(match.group(1))
-                        except:
-                            pass
+                    data = future.result()
+                    raw_results.extend(data)
+                except Exception as exc:
+                    model_name = future_to_model[future]
+                    print(f"Model {model_name} generated an exception: {exc}")
 
-            if not response:
-                print(f"    Failed to parse JSON for term '{term}'. Raw: {response_str[:50]}...")
+        # Apply Consensus Logic per language
+        for lang in languages:
+            lang_raw = [r for r in raw_results if r["language"] == lang]
             
-            for lang in languages:
-                lang_data = response.get(lang, {})
-                if not isinstance(lang_data, dict):
-                    if lang == "fr" and "translation" in response: 
-                        lang_data = response 
+            # Count votes (case-insensitive)
+            votes = {} # normalized_translation -> count
+            for r in lang_raw:
+                norm = r["translation"].strip().lower()
+                votes[norm] = votes.get(norm, 0) + 1
+            
+            # Filter results that have consensus (2+ votes)
+            consensus_norms = [norm for norm, count in votes.items() if count >= 2]
+            
+            if consensus_norms:
+                print(f"    Consensus reached for [{lang}]: {consensus_norms}")
+                for r in lang_raw:
+                    norm = r["translation"].strip().lower()
+                    if norm in consensus_norms:
+                        # Add consensus info: count/total
+                        count = votes[norm]
+                        r["consensus"] = f"Consensus reached ({count}/{len(models)} models agreed)"
                     else:
-                        lang_data = {}
+                        r["consensus"] = "No consensus"
+                new_results.extend(lang_raw)
+            else:
+                available_terms = [r["translation"] for r in lang_raw]
+                print(f"    No consensus for [{lang}]. Responses: {available_terms}")
+                for r in lang_raw:
+                    r["consensus"] = "No consensus"
+                new_results.extend(lang_raw)
 
-                translation = lang_data.get("translation", "")
-                confidence = lang_data.get("confidence_score", 0.0)
-                
-                if not translation:
-                    print(f"      [{lang}] No translation found in response.")
-
-                print(f"      [{lang}] -> {translation} ({confidence})")
-
-                new_results.append({
-                    "term": term,
-                    "context": context,
-                    "translation": translation,
-                    "language": lang,
-                    "confidence": confidence,
-                    "winning_model": model,
-                    "version": "0.1"
-                })
-
+    # Merge new_results into results
     existing_map = {(r["term"], r["language"], r["winning_model"]): i for i, r in enumerate(results)}
     for res in new_results:
         key = (res["term"], res["language"], res["winning_model"])
@@ -200,9 +256,11 @@ def main():
     results = process_terms(rows, languages, models, voter_prompt_template, output_csv_path)
     
     # Write Results
-    fieldnames = ["term", "translation", "context", "language", "confidence", "winning_model", "version"]
+    fieldnames = ["term", "translation", "context", "language", "confidence", "winning_model", "consensus", "version"]
     for res in results:
         res["version"] = "0.1"
+        if "consensus" not in res:
+             res["consensus"] = "No consensus"
         
     os.makedirs(args.output_dir, exist_ok=True)
     with open(output_csv_path, "w") as f:
@@ -231,17 +289,27 @@ def main():
         name_list = [{"value": last_term, "lang": "en"}]
         
         # 2. Find translations for this term in results
+        # Use a dict to keep only ONE consensus winner per language
+        lang_winners = {} 
         for res in results:
             if res.get("term") == last_term:
                 lang = res.get("language")
                 trans = res.get("translation")
                 model = res.get("winning_model")
-                if lang and trans:
-                    name_list.append({
-                        "value": trans,
-                        "lang": lang,
-                        "model": model
-                    })
+                consensus = res.get("consensus", "")
+                
+                # Only include in Croissant metadata if consensus was reached
+                if lang and trans and "Consensus reached" in consensus:
+                    # Map to a single entry per language
+                    if lang not in lang_winners:
+                        lang_winners[lang] = {
+                            "value": trans, # Use the first one found (they are semantically identical)
+                            "lang": lang,
+                            "model": model
+                        }
+        
+        for lang_entry in lang_winners.values():
+            name_list.append(lang_entry)
         
         # Serialize to JSON
         name_json = json.dumps(name_list)

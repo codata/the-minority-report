@@ -96,6 +96,7 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
         {"@type": "cr:Field", "@id": "language", "name": "language", "description": "The ISO 639-1 language code of the translation.", "dataType": "sc:Text", "source": {"fileObject": {"@id": "file_object"}, "extract": {"column": "language"}}},
         {"@type": "cr:Field", "@id": "confidence", "name": "confidence", "description": "The confidence score of the translation (0.0 to 1.0).", "dataType": "sc:Float", "source": {"fileObject": {"@id": "file_object"}, "extract": {"column": "confidence"}}},
         {"@type": "cr:Field", "@id": "winning_model", "name": "winning_model", "description": "The software agent selected as the source for this translation row.", "dataType": "sc:Text", "source": {"fileObject": {"@id": "file_object"}, "extract": {"column": "winning_model"}}},
+        {"@type": "cr:Field", "@id": "consensus", "name": "consensus", "description": "The decision reached by the arbitrage logic (e.g., consensus reached and vote count).", "dataType": "sc:Text", "source": {"fileObject": {"@id": "file_object"}, "extract": {"column": "consensus"}}},
         {"@type": "cr:Field", "@id": "version", "name": "version", "description": "The version of the software used.", "dataType": "sc:Text", "source": {"fileObject": {"@id": "file_object"}, "extract": {"column": "version"}}}
     ]
     
