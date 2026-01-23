@@ -5,6 +5,7 @@ import os
 import subprocess
 import random
 import datetime
+import time
 
 import concurrent.futures
 
@@ -43,6 +44,19 @@ def mock_llm_call(prompt, model="gpt-oss:latest", is_json=True):
     except Exception as e:
         print(f"Error calling Ollama: {e}")
         return "{}"
+
+def repair_json(json_str):
+    """
+    Attempts to repair common JSON malformations from LLMs.
+    """
+    import re
+    # Fix 1: Remove quotes after numbers (e.g. 0.96"})
+    # Look for number followed immediately by quote then } or , or ]
+    json_str = re.sub(r'(\d+(?:\.\d+)?)"\s*([,}\]])', r'\1\2', json_str)
+    
+    # Fix 2: Unescaped quotes inside strings? (Harder to do safely with regex)
+    
+    return json_str
 
 # --- Main Logic ---
 
@@ -92,20 +106,39 @@ def _query_model(term, context, languages, model, voter_prompt_template):
     response_str = mock_llm_call(prompt, model=model).strip()
     
     response = {}
+    response = {}
     if response_str:
         try:
             response = json.loads(response_str)
         except json.JSONDecodeError:
+            print(f"    [{model}] JSON Parse Error. Attempting repair...")
+            # 1. Try extracting greedy JSON object
             import re
             match = re.search(r'(\{.*\})', response_str, re.DOTALL)
             if match:
+                candidate = match.group(1)
                 try:
-                    response = json.loads(match.group(1))
-                except:
-                    pass
+                    response = json.loads(candidate)
+                    print(f"    [{model}] Repair successful (regex extraction).")
+                except json.JSONDecodeError:
+                     # 2. Try repair function
+                     repaired = repair_json(candidate)
+                     try:
+                         response = json.loads(repaired)
+                         print(f"    [{model}] Repair successful (regex + repair_json).")
+                     except json.JSONDecodeError:
+                         print(f"    [{model}] Repair failed after regex extraction.")
+            else:
+                 # Try repairing the whole string
+                 repaired = repair_json(response_str)
+                 try:
+                     response = json.loads(repaired)
+                     print(f"    [{model}] Repair successful (full string repair).")
+                 except:
+                     pass
 
     if not response:
-        print(f"    Failed to parse JSON for term '{term}'. Raw: {response_str[:50]}...")
+        print(f"    [{model}] Failed to parse JSON for term '{term}'. Raw: {response_str[:50]}...")
         return []
     
     model_results = []
@@ -177,32 +210,38 @@ def process_terms(rows, languages, models, voter_prompt_template, output_csv_pat
         for lang in languages:
             lang_raw = [r for r in raw_results if r["language"] == lang]
             
-            # Count votes (case-insensitive)
-            votes = {} # normalized_translation -> count
-            for r in lang_raw:
-                norm = r["translation"].strip().lower()
-                votes[norm] = votes.get(norm, 0) + 1
-            
-            # Filter results that have consensus (2+ votes)
-            consensus_norms = [norm for norm, count in votes.items() if count >= 2]
-            
-            if consensus_norms:
-                print(f"    Consensus reached for [{lang}]: {consensus_norms}")
+            if len(models) == 1:
+                print(f"    Single model used for [{lang}]. Skipping consensus.")
                 for r in lang_raw:
-                    norm = r["translation"].strip().lower()
-                    if norm in consensus_norms:
-                        # Add consensus info: count/total
-                        count = votes[norm]
-                        r["consensus"] = f"Consensus reached ({count}/{len(models)} models agreed)"
-                    else:
-                        r["consensus"] = "No consensus"
+                    r["consensus"] = "Single model (skipped consensus)"
                 new_results.extend(lang_raw)
             else:
-                available_terms = [r["translation"] for r in lang_raw]
-                print(f"    No consensus for [{lang}]. Responses: {available_terms}")
+                # Count votes (case-insensitive)
+                votes = {} # normalized_translation -> count
                 for r in lang_raw:
-                    r["consensus"] = "No consensus"
-                new_results.extend(lang_raw)
+                    norm = r["translation"].strip().lower()
+                    votes[norm] = votes.get(norm, 0) + 1
+                
+                # Filter results that have consensus (2+ votes)
+                consensus_norms = [norm for norm, count in votes.items() if count >= 2]
+                
+                if consensus_norms:
+                    print(f"    Consensus reached for [{lang}]: {consensus_norms}")
+                    for r in lang_raw:
+                        norm = r["translation"].strip().lower()
+                        if norm in consensus_norms:
+                            # Add consensus info: count/total
+                            count = votes[norm]
+                            r["consensus"] = f"Consensus reached ({count}/{len(models)} models agreed)"
+                        else:
+                            r["consensus"] = "No consensus"
+                    new_results.extend(lang_raw)
+                else:
+                    available_terms = [r["translation"] for r in lang_raw]
+                    print(f"    No consensus for [{lang}]. Responses: {available_terms}")
+                    for r in lang_raw:
+                        r["consensus"] = "No consensus"
+                    new_results.extend(lang_raw)
 
     # Merge new_results into results
     existing_map = {(r["term"], r["language"], r["winning_model"]): i for i, r in enumerate(results)}
@@ -217,6 +256,8 @@ def process_terms(rows, languages, models, voter_prompt_template, output_csv_pat
 
 def main():
 
+    start_time = time.time()
+    
     parser = argparse.ArgumentParser(description="Orchestrator for Multilingual CV Skill")
     parser.add_argument("--input-file", "--input_file", dest="input_file", help="Path to source CSV")
     parser.add_argument("--url", help="URL to scrape term from (overrides input_file)")
@@ -299,7 +340,7 @@ def main():
                 consensus = res.get("consensus", "")
                 
                 # Only include in Croissant metadata if consensus was reached
-                if lang and trans and "Consensus reached" in consensus:
+                if lang and trans and ("Consensus reached" in consensus or "Single model" in consensus):
                     # Map to a single entry per language
                     if lang not in lang_winners:
                         lang_winners[lang] = {
@@ -322,6 +363,12 @@ def main():
         cmd.extend(["--dataset-name", name_json])
         cmd.extend(["--description", clean_desc])
         cmd.extend(["--llm-model", args.models])
+        
+        # Calculate output filename
+        # term without space and croissant, for example croissant_downburst.json
+        safe_term = last_term.strip().replace(" ", "_").lower()
+        output_filename = f"croissant_{safe_term}.json"
+        cmd.extend(["--output-file", output_filename])
 
     if args.url:
         cmd.extend(["--source-url", args.url])
@@ -329,6 +376,9 @@ def main():
         cmd.extend(["--source-file", args.input_file])
         
     subprocess.run(cmd)
+    
+    elapsed_time = time.time() - start_time
+    print(f"\nExecution finished in {elapsed_time:.2f} seconds.")
 
 if __name__ == "__main__":
     main()
