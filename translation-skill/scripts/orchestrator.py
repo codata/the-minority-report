@@ -169,7 +169,48 @@ def _query_model(term, context, languages, model, voter_prompt_template):
             
     return model_results
 
-def process_terms(rows, languages, models, voter_prompt_template, output_csv_path):
+def _arbitrate_model(term, context, candidates, model, arbitrator_prompt_template):
+    """Helper to query a model for arbitration."""
+    print(f"  [Arbitration] Askiing Model: {model}")
+    candidates_list = "\n".join([f"- {c}" for c in candidates])
+    
+    prompt = arbitrator_prompt_template.replace("{{term}}", term)
+    prompt = prompt.replace("{{scope_note}}", context)
+    prompt = prompt.replace("{{candidates}}", candidates_list)
+    
+    response_str = mock_llm_call(prompt, model=model).strip()
+    
+    selected = ""
+    if response_str:
+        try:
+             # Try parse
+             data = json.loads(response_str)
+             selected = data.get("selected_translation", "")
+        except:
+             # Try repair
+             repaired = repair_json(response_str)
+             try:
+                 data = json.loads(repaired)
+                 selected = data.get("selected_translation", "")
+             except:
+                 # Try regex
+                 import re
+                 match = re.search(r'(\{.*\})', response_str, re.DOTALL)
+                 if match:
+                     try:
+                         data = json.loads(match.group(1))
+                         selected = data.get("selected_translation", "")
+                     except:
+                         pass
+    
+    if selected:
+        print(f"    [{model}] voted for: {selected}")
+    else:
+        print(f"    [{model}] failed to vote.")
+        
+    return selected
+
+def process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, output_csv_path):
     """
     Processes a list of terms and returns translation results with consensus logic.
     A translation is only accepted if at least 2 models agree on it (case-insensitive).
@@ -238,11 +279,65 @@ def process_terms(rows, languages, models, voter_prompt_template, output_csv_pat
                             r["consensus"] = "No consensus"
                     new_results.extend(lang_raw)
                 else:
-                    available_terms = [r["translation"] for r in lang_raw]
-                    print(f"    No consensus for [{lang}]. Responses: {available_terms}")
-                    for r in lang_raw:
-                        r["consensus"] = "No consensus"
-                    new_results.extend(lang_raw)
+                    # Arbitration Phase
+                    available_terms = list(set([r["translation"] for r in lang_raw if r["translation"]]))
+                    print(f"    No consensus for [{lang}]. Candidates: {available_terms}")
+                    print(f"    Starting Arbitration for [{lang}]...")
+                    
+                    arbitration_votes = []
+                    with concurrent.futures.ThreadPoolExecutor(max_workers=len(models)) as executor:
+                        future_to_model = {
+                            executor.submit(_arbitrate_model, term, context, available_terms, model, arbitrator_prompt_template): model 
+                            for model in models
+                        }
+                        for future in concurrent.futures.as_completed(future_to_model):
+                            try:
+                                vote = future.result()
+                                if vote:
+                                    arbitration_votes.append(vote)
+                            except Exception as e:
+                                print(f"Arbitration error: {e}")
+                                
+                    # Count arbitration votes
+                    arb_counts = {}
+                    for v in arbitration_votes:
+                        norm = v.strip().lower()
+                        arb_counts[norm] = arb_counts.get(norm, 0) + 1
+                        
+                    # Check for new consensus (simple majority or >= 2)
+                    # Let's say we need at least 2 votes for the same thing to override
+                    arb_consensus = [norm for norm, count in arb_counts.items() if count >= 2]
+                    
+                    if arb_consensus:
+                        winner_norm = arb_consensus[0]
+                        winner_text = [v for v in arbitration_votes if v.strip().lower() == winner_norm][0] # Get original casing
+                        count = arb_counts[winner_norm]
+                        print(f"    Arbitration successful! Winner: {winner_text} ({count} votes)")
+                        
+                        # Update all results for this lang to point to the winner? 
+                        # Or just mark the winner? 
+                        # Let's add a new result entry for the Arbitrated Winner or update existing ones.
+                        # For simplicity, we mark the rows that match the winner as "Consensus reached (Arbitrated)"
+                        # and ensure others are "No consensus".
+                        
+                        found_match = False
+                        for r in lang_raw:
+                            if r["translation"].strip().lower() == winner_norm:
+                                r["consensus"] = f"Consensus reached (Arbitrated {count}/{len(models)})"
+                                found_match = True
+                            else:
+                                r["consensus"] = "No consensus (Arbitration lost)"
+                        
+                        # If the winner wasn't in original raw results exactly (maybe slight variation returned by arbitrator?), 
+                        # we might need to handle that. But generic instructions say "Select...". 
+                        # Assuming models output one of the candidates.
+                        
+                        new_results.extend(lang_raw)
+                    else:
+                        print(f"    Arbitration failed. No clear winner.")
+                        for r in lang_raw:
+                            r["consensus"] = "No consensus (Arbitration failed)"
+                        new_results.extend(lang_raw)
 
     # Merge new_results into results
     existing_map = {(r["term"], r["language"], r["winning_model"]): i for i, r in enumerate(results)}
@@ -271,7 +366,9 @@ def main():
     # Setup paths
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) 
     prompts_dir = os.path.join(base_dir, "prompts")
+    prompts_dir = os.path.join(base_dir, "prompts")
     voter_prompt_template = load_prompt(os.path.join(prompts_dir, "voter_prompt.md"))
+    arbitrator_prompt_template = load_prompt(os.path.join(prompts_dir, "arbitrator_prompt.md"))
     
     languages = args.languages.split(",")
     models = args.models.split(",")
@@ -295,7 +392,8 @@ def main():
         print("Error: Must provide either --input_file or --url")
         return
             
-    results = process_terms(rows, languages, models, voter_prompt_template, output_csv_path)
+            
+    results = process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, output_csv_path)
     
     # Write Results
     fieldnames = ["term", "translation", "context", "language", "confidence", "winning_model", "consensus", "version"]
