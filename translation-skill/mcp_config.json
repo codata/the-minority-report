@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "bigquery": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-bigquery"
+      ],
+      "env": {
+        "BIGQUERY_PROJECT_ID": "<YOUR_PROJECT_ID>"
+      }
+    }
+  }
+}

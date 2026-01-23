@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  orchestrator:
+    build: .
+    environment:
+      - OLLAMA_HOST=http://10.147.18.253:11434
+    volumes:
+      - ./data:/app/data
+      - ./output:/app/output
+      - ./logs:/app/logs
+    # Example command to run a specific URL (uncomment and modify to use)
+    # command: --url https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0103 --output_dir data --languages fr,es,de --models gpt-oss:latest
