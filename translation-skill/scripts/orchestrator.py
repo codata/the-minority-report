@@ -6,6 +6,7 @@ import subprocess
 import random
 import datetime
 import time
+import re
 
 import concurrent.futures
 import sys
@@ -120,7 +121,6 @@ def repair_json(json_str):
     """
     Attempts to repair common JSON malformations from LLMs.
     """
-    import re
     # Fix 1: Remove quotes after numbers (e.g. 0.96"})
     # Look for number followed immediately by quote then } or , or ]
     json_str = re.sub(r'(\d+(?:\.\d+)?)"\s*([,}\]])', r'\1\2', json_str)
@@ -589,10 +589,17 @@ def main():
         cmd.extend(["--dataset-name", name_json])
         cmd.extend(["--description", clean_desc])
         cmd.extend(["--llm-model", args.models])
+
+        # Extract HIPS code if present in URL
+        if args.url and "hips/" in args.url:
+            match = re.search(r"hips/([a-zA-Z0-9]+)", args.url)
+            if match:
+                hips_code = match.group(1).upper()
+                cmd.extend(["--hips-code", hips_code])
+
         
         # Calculate output filename
         # term without space and croissant, for example croissant_downburst.json
-        import re
         safe_term = re.sub(r'[^\w\s-]', '', last_term.strip().lower())
         safe_term = re.sub(r'[-\s]+', '_', safe_term)
         output_filename = f"croissant_{safe_term}.json"

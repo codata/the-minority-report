@@ -38,7 +38,7 @@ def load_semantic_mappings(mapping_file):
         
     return mappings
 
-def generate_croissant_metadata(dataset_name, description, file_path, num_records, source_url=None, source_file=None, llm_model="gpt-oss:latest", mapping_file=None):
+def generate_croissant_metadata(dataset_name, description, file_path, num_records, source_url=None, source_file=None, llm_model="gpt-oss:latest", mapping_file=None, hips_code=None):
     """Generates a Croissant metadata structure using mlcroissant library."""
     
     # Load Mappings
@@ -177,6 +177,13 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
 
     # Parse multilingual name for jsonld injection
     extra_jsonld = {}
+    
+    # Inject HIPS Code if provided
+    if hips_code:
+        # Using schema:identifier
+        # https://schema.org/identifier
+        extra_jsonld["https://schema.org/identifier"] = hips_code
+
     if isinstance(name_obj, list):
          # Schema.org expects Text or TextObject. 
          # We can pass the list of dicts directly if keys match JSON-LD compaction (value/language -> @value/@language)
@@ -237,6 +244,9 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
         # We assume standard context where sc -> https://schema.org/
         # or vocab is schema.org
         json_output["sc:alternateName"] = extra_jsonld["https://schema.org/alternateName"]
+
+    if extra_jsonld.get("https://schema.org/identifier"):
+        json_output["https://schema.org/identifier"] = extra_jsonld["https://schema.org/identifier"]
         
     return json_output
 
@@ -258,11 +268,24 @@ def main():
     parser.add_argument("--source-file", "--source_file", dest="source_file", help="File source of the original term")
     parser.add_argument("--llm-model", "--llm_model", dest="llm_model", default="gpt-oss:latest", help="The LLM model used for generation")
     parser.add_argument("--mapping-file", "--mapping_file", dest="mapping_file", help="Path to Turtle mapping file")
-    
+    parser.add_argument("--hips-code", "--hips_code", dest="hips_code", help="HIPS ID (e.g., BI0310) to append to branding")
+
     args = parser.parse_args()
     
     # Generate
     try:
+        # Prepare HIPS code injection via JSON-LD if present
+        extra_jsonld = {}
+        if args.hips_code:
+            # Inject as schema:identifier
+            # We can pass this into generate_croissant_metadata or modify logic there.
+            # But generate_croissant_metadata constructs metadata.
+            # Let's pass it as a kwarg or modify generate_croissant_metadata signature?
+            # Actually, let's just modifying generate_croissant_metadata to accept it, 
+            # Or pass it via description? No, user wants separate field.
+            # Best way: Pass it to function.
+            pass
+
         json_output = generate_croissant_metadata(
             args.dataset_name, 
             args.description,
@@ -271,7 +294,8 @@ def main():
             source_url=args.source_url,
             source_file=args.source_file,
             llm_model=args.llm_model,
-            mapping_file=args.mapping_file
+            mapping_file=args.mapping_file,
+            hips_code=args.hips_code 
         )
         
         output_path = os.path.join(args.output_dir, args.output_file)
