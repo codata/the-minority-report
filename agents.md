@@ -123,10 +123,11 @@ Your job is to select the BEST translation or synthesize a better one if all are
 - **Method**: Uses `BeautifulSoup` to find the primary `<h1>` (Term) and the "Scope Note" (usually found in a specific list or div class like `field--name-field-scope-note`).
 
 ### Mapping & Provenance (`croissant_generator.py`)
-The generator performs complex JSON-LD mapping to ensure the dataset is machine-readable:
-- **Creators**: Scans the CSV's `winning_model` column to auto-detect every model used. Each is added as a `SoftwareApplication` with a unique `@id` (e.g., `model_gpt-oss_latest`).
-- **Multilingual Name**: The dataset `name` property is a list of objects. Each object contains the translated term (`@value`) and a `creator` link back to the model ID that provided it.
-- **Fields**: Maps `term`, `context`, `translation`, and `winning_model` to Schema.org properties.
+The generator creates Schema.org-compatible JSON-LD metadata describing the dataset using a semantic approach:
+- **Knowledge Graph Driven**: The system loads a Turtle (`.ttl`) file containing semantic mappings (e.g., mapping `csv:term` to `schema:name`) using `rdflib`. This decouples field definitions from the code.
+- **MLCommons Library**: Uses the `mlcroissant` library to construct the metadata objects (`Metadata`, `RecordSet`, `Field`) programmatically, ensuring compliance with the Croissant specification.
+- **Multilingual Names**: Uses custom JSON-LD injection (`sc:alternateName`) to preserve the translated titles for the dataset.
+- **Provenance**: Automatically links each translation to the `SoftwareApplication` (LLM) that generated it.
 
 ---
 
