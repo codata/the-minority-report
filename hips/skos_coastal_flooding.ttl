@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:coastal_flooding a skos:Concept ;
+    skos:prefLabel "Coastal Flooding"@en ;
+    skos:definition "Coastal flooding occurs from multiple sources, including storm surges, waves and swell, seiches, riverine and flash floods near the coast, tides, sea-level rise and tsunamis. It is most frequently the result of storm surges and high winds coinciding with high tides. The surge itself is the result of the raising of sea levels due to low atmospheric pressure. In particular configurations, such as major estuaries or confined sea areas, the piling up of water is amplified by a combination of the shallowing of the seabed and retarding of return flow (WMO, 2011; WMO, 2022)."@en ;
+    skos:prefLabel "Inondation côtière"@fr ;
+    skos:prefLabel "Inundación costera"@es ;
+    skos:prefLabel "Inondazione costiera"@it ;
+    skos:prefLabel "Прибережне затоплення"@ua ;
+    skos:prefLabel "Прибрежное затопление"@ru ;
+    skos:prefLabel "海岸洪涝"@ch ;
+    skos:prefLabel "Kustoverstroming"@nl .

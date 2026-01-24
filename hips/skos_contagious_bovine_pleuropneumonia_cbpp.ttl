@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:contagious_bovine_pleuropneumonia_cbpp a skos:Concept ;
+    skos:prefLabel "Contagious Bovine Pleuropneumonia (CBPP)"@en ;
+    skos:definition "Contagious bovine pleuropneumonia (CBPP) is an infectious and contagious respiratory disease of cattle and water buffalo caused byMycoplasma mycoidessubsp.mycoides(Mmm) with a major impact on livestock production and a potential for rapid spread (WOAH, 2024a)."@en ;
+    skos:prefLabel "Pneumonie contagieuse bovine"@fr ;
+    skos:prefLabel "Pleuroneumonía bovina contagiosa"@es ;
+    skos:prefLabel "Pleuropolmonite contagiosa bovina"@it ;
+    skos:prefLabel "Контагійна плевропневмонія великої рогатої худоби"@ua ;
+    skos:prefLabel "传染性牛胸膜肺炎"@ch .

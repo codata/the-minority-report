@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:ice_flow a skos:Concept ;
+    skos:prefLabel "Ice Flow"@en ;
+    skos:definition "Ice flow is the motion of ice driven by gravitational forces, ice stress or, for sea ice, wind, water currents and tide (AMS, 2012)."@en ;
+    skos:prefLabel "écoulement de glace"@fr ;
+    skos:prefLabel "flujo de hielo"@es ;
+    skos:prefLabel "flusso di ghiaccio"@it ;
+    skos:prefLabel "поток льда"@ru ;
+    skos:prefLabel "冰流"@ch ;
+    skos:prefLabel "ijsstroom"@nl .

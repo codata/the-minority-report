@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:sand_encroachment a skos:Concept ;
+    skos:prefLabel "Sand Encroachment"@en ;
+    skos:definition "Sand encroachment is the accumulation of wind-borne sand. It commonly affects coasts, watercourses, and both cultivated and uncultivated land, typically occurring in arid to semi-arid regions. As sand accumulations move, they can bury towns, roads, oases, crops, market gardens, irrigation channels, and dams, leading to significant material and socioeconomic damage (cf. FAO, 2010)."@en ;
+    skos:prefLabel "envahissement de sable"@fr ;
+    skos:prefLabel "avanzamiento de arena"@es ;
+    skos:prefLabel "Invasione di sabbia"@it ;
+    skos:prefLabel "Зано́с песка"@ru ;
+    skos:prefLabel "风沙侵袭"@ch ;
+    skos:prefLabel "Zandverstuiving"@nl .

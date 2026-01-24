@@ -1,0 +1,271 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "cr": "http://mlcommons.org/croissant/",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "dct": "http://purl.org/dc/terms/",
+    "examples": {
+      "@id": "cr:examples",
+      "@type": "@json"
+    },
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileProperty": "cr:fileProperty",
+    "fileObject": "cr:fileObject",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "sc": "https://schema.org/",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform"
+  },
+  "@type": "sc:Dataset",
+  "name": "Electronic Waste (E-Waste)",
+  "description": "Electrical and electronic waste, or E-waste, refers to electrical or electronic equipment that is waste, including all components, sub-assemblies and consumables that are part of the equipment at t...",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "creator": [
+    {
+      "@type": "sc:SoftwareApplication",
+      "@id": "model_deepseek-r1_14b",
+      "name": "deepseek-r1:14b",
+      "version": "1.0",
+      "description": "The Large Language Model (deepseek-r1:14b) used to generate translations."
+    },
+    {
+      "@type": "sc:SoftwareApplication",
+      "@id": "model_gemma3_27b",
+      "name": "gemma3:27b",
+      "version": "1.0",
+      "description": "The Large Language Model (gemma3:27b) used to generate translations."
+    },
+    {
+      "@type": "sc:SoftwareApplication",
+      "@id": "model_gpt-oss_latest",
+      "name": "gpt-oss:latest",
+      "version": "1.0",
+      "description": "The Large Language Model (gpt-oss:latest) used to generate translations."
+    }
+  ],
+  "datePublished": "2026-01-24T14:26:09.885561",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "version": "1.0.0",
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "file_object",
+      "name": "multilingual_cv_data",
+      "contentUrl": "/Users/vyacheslavtykhonov/projects/the-minority-report/data/final_translations.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "TODO:CALCULATE_HASH"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "record_set",
+      "name": "translations",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "term",
+          "name": "term",
+          "description": "The source term being translated.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "term"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "context",
+          "name": "context",
+          "description": "The definition or context of the term.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "context"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "translation",
+          "name": "translation",
+          "description": "The translated term.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "translation"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "language",
+          "name": "language",
+          "description": "The ISO 639-1 language code of the translation.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "language"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "confidence",
+          "name": "confidence",
+          "description": "The confidence score of the translation (0.0 to 1.0).",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "confidence"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "winning_model",
+          "name": "winning_model",
+          "description": "The software agent selected as the source for this translation row.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "winning_model"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "consensus",
+          "name": "consensus",
+          "description": "The decision reached by the arbitrage logic (e.g., consensus reached and vote count).",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "consensus"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "version",
+          "name": "version",
+          "description": "The version of the software package used.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "version"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "sc:alternateName": [
+    {
+      "@value": "Electronic Waste (E-Waste)",
+      "@language": "en"
+    },
+    {
+      "@value": "d\u00e9chets \u00e9lectroniques",
+      "@language": "fr",
+      "creator": {
+        "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@value": "residuos electr\u00f3nicos",
+      "@language": "es",
+      "creator": {
+        "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@value": "rifiuti elettronici",
+      "@language": "it",
+      "creator": {
+        "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@value": "\u0415\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0456 \u0432\u0456\u0434\u0445\u043e\u0434\u0438",
+      "@language": "ua",
+      "creator": {
+        "@id": "model_gemma3_27b"
+      }
+    },
+    {
+      "@value": "\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043e\u0442\u0445\u043e\u0434\u044b",
+      "@language": "ru",
+      "creator": {
+        "@id": "model_gemma3_27b"
+      }
+    },
+    {
+      "@value": "\u7535\u5b50\u5e9f\u5f03\u7269",
+      "@language": "ch",
+      "creator": {
+        "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@value": "Elektrisch en elektronisch afval",
+      "@language": "nl",
+      "creator": {
+        "@id": "model_gemma3_27b"
+      }
+    }
+  ]
+}

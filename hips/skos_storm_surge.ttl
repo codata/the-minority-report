@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:storm_surge a skos:Concept ;
+    skos:prefLabel "Storm Surge"@en ;
+    skos:definition "A storm surge reflects the difference between the actual water level under the influence of a meteorological disturbance (storm tide) and the level which would have occurred in the absence of the meteorological disturbance (i.e., astronomical tide) (WMO, 2008, 2011, 2017)."@en ;
+    skos:prefLabel "marée de tempête"@fr ;
+    skos:prefLabel "marea de tormenta"@es ;
+    skos:prefLabel "onda di tempesta"@it ;
+    skos:prefLabel "штормовий підйом"@ua ;
+    skos:prefLabel "stormstijg"@nl .

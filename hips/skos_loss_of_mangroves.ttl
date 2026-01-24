@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:loss_of_mangroves a skos:Concept ;
+    skos:prefLabel "Loss of Mangroves"@en ;
+    skos:definition "Mangroves are distinctive tropical and sub-tropical, woody plants that grow at the interface/intertidal zone between land and sea, where they exist in conditions of high salinity, extreme tides, strong winds, high temperatures and muddy, anaerobic soils (Kathiresan and Bingham, 2001). The destruction of mangrove habitat is caused by both human and natural causes. Humans have cleared mangrove forests to expand farmlands, aquaculture ponds or urban areas. Natural stressors, such as sediment erosion, extreme storm surges or drought have also resulted in mangrove habitat loss. The loss of mangroves has devastated coastal communities, which depend on them for socio-economic activities and environmental conservation, especially in regions with low mangrove diversity and coverage."@en ;
+    skos:prefLabel "Perte des mangroves"@fr ;
+    skos:prefLabel "Pérdida de manglares"@es ;
+    skos:prefLabel "Perdita di mangrovie"@it ;
+    skos:prefLabel "Втрата мангрових лісів"@ua ;
+    skos:prefLabel "红树林损失"@ch ;
+    skos:prefLabel "Verlies van mangroves"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:hazardous_waste a skos:Concept ;
+    skos:prefLabel "Hazardous Waste"@en ;
+    skos:definition "Hazardous waste is waste that has physical, chemical, or biological characteristics such that it requires special handling and disposal procedures to avoid negative health effects, adverse environmental effects or both (Joint UNEP/OCHA Environment Unit, 2011)."@en ;
+    skos:prefLabel "déchets dangereux"@fr ;
+    skos:prefLabel "residuos peligrosos"@es ;
+    skos:prefLabel "rifiuti pericolosi"@it ;
+    skos:prefLabel "Небезпечні відходи"@ua ;
+    skos:prefLabel "опасные отходы"@ru ;
+    skos:prefLabel "危险废物"@ch ;
+    skos:prefLabel "gevaarlijke afvalstoffen"@nl .

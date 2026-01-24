@@ -1,0 +1,12 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:new_world_screwworm_nws a skos:Concept ;
+    skos:prefLabel "New World Screwworm (NWS)"@en ;
+    skos:definition "The New World screwworm (NWS),Cochliomyia hominivorax(Coquerel), is an obligate parasite of mammals, including humans, during their larval stages. Larvae feeding on the skin and underlying tissues of the host cause a condition known as wound or traumatic myiasis, which can be fatal (adapted from PAHO, no date and WOAH, no date)."@en ;
+    skos:prefLabel "Screwworm du Nouveau Monde"@fr ;
+    skos:prefLabel "Screwworm del Nuovo Mondo"@it ;
+    skos:prefLabel "新世界螺旋虫"@ch ;
+    skos:prefLabel "Nieuwe Wereld schroefworm"@nl .

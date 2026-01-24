@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:middle_east_respiratory_syndrome_mers a skos:Concept ;
+    skos:prefLabel "Middle East Respiratory Syndrome (MERS)"@en ;
+    skos:definition "Middle East respiratory syndrome (MERS) is a viral respiratory disease caused by Middle East respiratory syndrome coronavirus (MERS‐CoV) with a clinical spectrum of infection ranging from no symptoms (asymptomatic) or mild respiratory symptoms to severe acute respiratory disease and death (adapted from WHO, 2022)."@en ;
+    skos:prefLabel "Syndrome respiratoire du Moyen-Orient (MERS)"@fr ;
+    skos:prefLabel "Síndrome respiratorio del Medio Oriente (MERS)"@es ;
+    skos:prefLabel "Sindrome respiratoria da coronavirus del Medio Oriente (MERS)"@it ;
+    skos:prefLabel "Близькосхідний респіраторний синдром (MERS)"@ua ;
+    skos:prefLabel "Ближневосточный респираторный синдром (MERS)"@ru ;
+    skos:prefLabel "中东呼吸综合征 (MERS)"@ch ;
+    skos:prefLabel "Midden-Oostense ademhalingssyndroom (MERS)"@nl .

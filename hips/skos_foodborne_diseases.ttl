@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:foodborne_diseases a skos:Concept ;
+    skos:prefLabel "Foodborne Diseases"@en ;
+    skos:definition "Foodborne diseases are caused by contamination of food and occur at any stage of the food production, delivery and consumption chain. They can result from several forms of environmental contamination including pollution in water, soil or air, as well as unsafe food storage and processing. Foodborne diseases encompass a wide range of illnesses from diarrhoea to cancers (WHO, no date a)."@en ;
+    skos:prefLabel "Maladies d'origine alimentaire"@fr ;
+    skos:prefLabel "Enfermedades transmitidas por alimentos"@es ;
+    skos:prefLabel "Malattie di origine alimentare"@it ;
+    skos:prefLabel "Болезни, передаваемые через пищу"@ru ;
+    skos:prefLabel "食源性疾病"@ch ;
+    skos:prefLabel "Voedselgerelateerde ziekten"@nl .

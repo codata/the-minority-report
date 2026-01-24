@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:heavy_metals_and_other_trace_elements a skos:Concept ;
+    skos:prefLabel "Heavy Metals and Other Trace Elements"@en ;
+    skos:definition "Heavy metals are metallic trace elements with either high relative atomic weights or occurring in materials with high densities.  Trace Elements is the term used for elements that are generally found in soil at low concentrations but can still have significant impacts on human health and ecosystems when their levels exceed safe limits, as in the case of many heavy metals. Trace element contaminants that have biological significance are generally found in soil at concentrations of less than 100 mg/kg, and sometimes in aquatic ecosystems or as particulates in the atmosphere. Biological significance would include elements that are essential or toxic to any organism; some elements can be both, depending on their concentration. Many of the trace elements of importance are metals, while others are metalloids, alloys, non-metals, actinoids, and halogens occurring in a variety of chemical states (elemental, cations, anions, oxyanions, methylated, etc.). This category can overlap or be used synonymously with terms such as potentially toxic elements, heavy metals, persistent inorganic contaminants, and inorganic contaminants, and halides, such as fluoride and iodide. For the clarity of this document, the term trace elements will be used (FAO and UNEP, 2021a)."@en ;
+    skos:prefLabel "Métaux lourds et autres éléments traces"@fr ;
+    skos:prefLabel "Metalli pesanti e altri elementi traccianti"@it ;
+    skos:prefLabel "Тяжёлые металлы и другие следовые элементы"@ru ;
+    skos:prefLabel "重金属及其他微量元素"@ch ;
+    skos:prefLabel "Zware metalen en andere spoorelementen"@nl .

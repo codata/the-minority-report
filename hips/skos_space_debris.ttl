@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:space_debris a skos:Concept ;
+    skos:prefLabel "Space Debris"@en ;
+    skos:definition "Space debris refers to all human-made objects, including fragments and elements thereof, in Earth orbit or re-entering the atmosphere, that are nonfunctional (COPUOS, 2002 and UNOOSA, 2007)."@en ;
+    skos:prefLabel "débris spatiaux"@fr ;
+    skos:prefLabel "desechos espaciales"@es ;
+    skos:prefLabel "detriti spaziali"@it ;
+    skos:prefLabel "космический мусор"@ru ;
+    skos:prefLabel "空间碎片"@ch ;
+    skos:prefLabel "ruimteafval"@nl .

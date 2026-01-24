@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:nuclear_agents a skos:Concept ;
+    skos:prefLabel "Nuclear Agents"@en ;
+    skos:definition "Nuclear agents are derived from neutron radiation (n) which is a neutron emitted by an unstable nucleus, in particular during atomic fission and nuclear fusion. Apart from a component in cosmic rays, neutrons are usually produced artificially. Because they are electrically neutral particles, neutrons can be very penetrating and when they interact with matter or tissue, they cause the emission of beta- and gamma-radiation. Neutron radiation therefore requires heavy shielding to reduce exposure (IAEA, 2004)."@en ;
+    skos:prefLabel "agents nucléaires"@fr ;
+    skos:prefLabel "agentes nucleares"@es ;
+    skos:prefLabel "agenti nucleari"@it ;
+    skos:prefLabel "ядерні агенти"@ua ;
+    skos:prefLabel "ядерные агенты"@ru ;
+    skos:prefLabel "核剂"@ch ;
+    skos:prefLabel "kernagents"@nl .

@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:structural_failure a skos:Concept ;
+    skos:prefLabel "Structural Failure"@en ;
+    skos:definition "Structural failure corresponds to the exceedance of ultimate limit state in many of the load-carrying elements, which compromise the structural stability of the building (Rossetto, 2013)."@en ;
+    skos:prefLabel "défaillance structurelle"@fr ;
+    skos:prefLabel "fallo estructural"@es ;
+    skos:prefLabel "Fallimento strutturale"@it ;
+    skos:prefLabel "структурний збій"@ua ;
+    skos:prefLabel "结构失效"@ch ;
+    skos:prefLabel "structurele falentie"@nl .

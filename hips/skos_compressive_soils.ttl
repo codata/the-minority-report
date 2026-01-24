@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:compressive_soils a skos:Concept ;
+    skos:prefLabel "Compressive Soils"@en ;
+    skos:definition "Compressive soils are prone to volumetric change when subject to mechanical loading (USDA, 1990:30). Collapsible soils are metastable in that they are prone to volumetric change (collapse) on wetting and loading (Rogers, 1995)."@en ;
+    skos:prefLabel "sols compressibles"@fr ;
+    skos:prefLabel "Suelos compresibles"@es ;
+    skos:prefLabel "terreni compressibili"@it ;
+    skos:prefLabel "Стисливі ґрунти"@ua ;
+    skos:prefLabel "Сжимаемые грунты"@ru ;
+    skos:prefLabel "可压缩土壤"@ch ;
+    skos:prefLabel "compressibele bodems"@nl .

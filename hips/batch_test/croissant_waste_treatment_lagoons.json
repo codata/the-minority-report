@@ -1,0 +1,223 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "cr": "http://mlcommons.org/croissant/",
+    "rai": "http://mlcommons.org/croissant/RAI/"
+  },
+  "@type": "sc:Dataset",
+  "name": [
+    {
+      "@value": "Waste Treatment Lagoons",
+      "@language": "en"
+    },
+    {
+      "@value": "lagunes de traitement des d\u00e9chets",
+      "@language": "fr",
+      "creator": {
+        "@id": "model_gemma3_27b"
+      }
+    },
+    {
+      "@value": "bacini di trattamento dei rifiuti",
+      "@language": "it",
+      "creator": {
+        "@id": "model_gemma3_27b"
+      }
+    },
+    {
+      "@value": "\u043b\u0430\u0433\u043e\u043d\u0438 \u0434\u043b\u044f \u043e\u0447\u0438\u0449\u0435\u043d\u043d\u044f \u0441\u043c\u0456\u0442\u0442\u044f",
+      "@language": "ua",
+      "creator": {
+        "@id": "model_gpt-oss_latest"
+      }
+    },
+    {
+      "@value": "\u043b\u0430\u0433\u0443\u043d\u044b \u043e\u0447\u0438\u0441\u0442\u043a\u0438 \u043e\u0442\u0445\u043e\u0434\u043e\u0432",
+      "@language": "ru",
+      "creator": {
+        "@id": "model_gpt-oss_latest"
+      }
+    },
+    {
+      "@value": "\u5e9f\u5f03\u7269\u5904\u7406\u5858",
+      "@language": "ch",
+      "creator": {
+        "@id": "model_gpt-oss_latest"
+      }
+    },
+    {
+      "@value": "afvalbehandelingslagunes",
+      "@language": "nl",
+      "creator": {
+        "@id": "model_gemma3_27b"
+      }
+    }
+  ],
+  "description": "Waste [treatment] lagoons can be defined as impoundments made by excavation or earth fill for biological treatment of animal and other agricultural waste (Spellman & Bieber, 2012).",
+  "datePublished": "2026-01-24T12:03:10.435256",
+  "creator": [
+    {
+      "@id": "model_deepseek-r1_14b",
+      "@type": "sc:SoftwareApplication",
+      "name": "deepseek-r1:14b",
+      "version": "1.0",
+      "description": "The Large Language Model (deepseek-r1:14b) used to generate translations."
+    },
+    {
+      "@id": "model_gemma3_27b",
+      "@type": "sc:SoftwareApplication",
+      "name": "gemma3:27b",
+      "version": "1.0",
+      "description": "The Large Language Model (gemma3:27b) used to generate translations."
+    },
+    {
+      "@id": "model_gpt-oss_latest",
+      "@type": "sc:SoftwareApplication",
+      "name": "gpt-oss:latest",
+      "version": "1.0",
+      "description": "The Large Language Model (gpt-oss:latest) used to generate translations."
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "file_object",
+      "name": "multilingual_cv_data",
+      "contentUrl": "/Users/vyacheslavtykhonov/projects/rosetta-ai/data/final_translations.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "TODO:CALCULATE_HASH"
+    }
+  ],
+  "cr:conformance": "http://mlcommons.org/croissant/1.0",
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "record_set",
+      "name": "translations",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "term",
+          "name": "term",
+          "description": "The source term being translated.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "term"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "context",
+          "name": "context",
+          "description": "The definition or context of the term.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "context"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "translation",
+          "name": "translation",
+          "description": "The translated term.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "translation"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "language",
+          "name": "language",
+          "description": "The ISO 639-1 language code of the translation.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "language"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "confidence",
+          "name": "confidence",
+          "description": "The confidence score of the translation (0.0 to 1.0).",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "confidence"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "winning_model",
+          "name": "winning_model",
+          "description": "The software agent selected as the source for this translation row.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "winning_model"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "consensus",
+          "name": "consensus",
+          "description": "The decision reached by the arbitrage logic (e.g., consensus reached and vote count).",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "consensus"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "version",
+          "name": "version",
+          "description": "The version of the software used.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file_object"
+            },
+            "extract": {
+              "column": "version"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

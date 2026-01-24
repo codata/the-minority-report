@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:coastal_erosion_and_accretion a skos:Concept ;
+    skos:prefLabel "Coastal Erosion and Accretion"@en ;
+    skos:definition "Coastal erosion is the process of removal of material at the shoreline which leads to the loss of land as the shoreline retreats landward.  Coastal accretion is the product of deposition of material at the shoreline which leads to gain of land as the coast advances seaward (Gibb, 1978)."@en ;
+    skos:prefLabel "Érosion et Accrétion côtières"@fr ;
+    skos:prefLabel "Erosión y Acreción costeras"@es ;
+    skos:prefLabel "Erosione e accrezione costiera"@it ;
+    skos:prefLabel "Прибережна ерозія та акреція"@ua ;
+    skos:prefLabel "海岸侵蚀与沉积"@ch ;
+    skos:prefLabel "kusterosie en accretie"@nl .

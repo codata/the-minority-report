@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:radio_and_other_telecommunication_failures a skos:Concept ;
+    skos:prefLabel "Radio and Other Telecommunication Failures"@en ;
+    skos:definition "Radio and other telecommunication failures occur when there is an internal or external interruption of communications by either party that results in difficulty transporting a message as it was intended (adapted from Dainty et al., 2007)."@en ;
+    skos:prefLabel "défaillances radio et autres télécommunications"@fr ;
+    skos:prefLabel "fallos de radio y otras telecomunicaciones"@es ;
+    skos:prefLabel "Збої радіо- та інших телекомунікацій"@ua ;
+    skos:prefLabel "Сбои радиосвязи и других телекоммуникаций"@ru ;
+    skos:prefLabel "无线电及其他电信故障"@ch ;
+    skos:prefLabel "radio- en andere telecommunicatiefouten"@nl .

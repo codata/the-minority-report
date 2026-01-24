@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:mpox a skos:Concept ;
+    skos:prefLabel "Mpox"@en ;
+    skos:definition "Mpox, previously known as monkeypox, is a viral illness caused by the monkeypox virus, a species of the genus Orthopoxvirus. There are two distinct clades of the virus: clade I (with subclades Ia and Ib) and clade II (with subclades IIa and IIb). Mpox can be fatal in some cases (adapted from WHO, 2024)."@en ;
+    skos:prefLabel "mpox"@fr ;
+    skos:prefLabel "mpox"@es ;
+    skos:prefLabel "mpox"@it ;
+    skos:prefLabel "мпокс"@ua ;
+    skos:prefLabel "мпокс"@ru ;
+    skos:prefLabel "mpox"@ch ;
+    skos:prefLabel "mpox"@nl .

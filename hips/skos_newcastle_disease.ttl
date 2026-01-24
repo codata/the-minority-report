@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:newcastle_disease a skos:Concept ;
+    skos:prefLabel "Newcastle Disease"@en ;
+    skos:definition "Newcastle Disease (ND) is a highly contagious and often severe disease found worldwide that affects birds caused by virulent strains of avian paramyxovirus type 1 (WOAH, no date)."@en ;
+    skos:prefLabel "Maladie de Newcastle"@fr ;
+    skos:prefLabel "Enfermedad de Newcastle"@es ;
+    skos:prefLabel "Malattia di Newcastle"@it ;
+    skos:prefLabel "Хвороба Ньюкасла"@ua ;
+    skos:prefLabel "纽卡斯尔病"@ch ;
+    skos:prefLabel "Newcastleziekte"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:ocean_acidification a skos:Concept ;
+    skos:prefLabel "Ocean Acidification"@en ;
+    skos:definition "Ocean acidification refers to a reduction in the pH of the ocean over an extended period, caused primarily by the uptake of carbon dioxide from the atmosphere. It can also result from other chemical additions to or subtractions from the ocean (IPCC, 2011)."@en ;
+    skos:prefLabel "acidification des océans"@fr ;
+    skos:prefLabel "acidificación oceánica"@es ;
+    skos:prefLabel "acidificazione degli oceani"@it ;
+    skos:prefLabel "Підкислення океану"@ua ;
+    skos:prefLabel "Закисление океана"@ru ;
+    skos:prefLabel "海洋酸化"@ch ;
+    skos:prefLabel "Zee-acidificatie"@nl .

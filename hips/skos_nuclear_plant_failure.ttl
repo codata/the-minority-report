@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:nuclear_plant_failure a skos:Concept ;
+    skos:prefLabel "Nuclear Plant Failure"@en ;
+    skos:definition "Nuclear plant failure occurs when the accidental melting of the core of a nuclear reactor results in a complete or partial core collapse (adapted from USNRC, 1975)."@en ;
+    skos:prefLabel "défaillance d'un réacteur nucléaire"@fr ;
+    skos:prefLabel "Fallo de la central nuclear"@es ;
+    skos:prefLabel "incidente nucleare"@it ;
+    skos:prefLabel "провал ядерної реакторної установки"@ua ;
+    skos:prefLabel "сбой ядерной установки"@ru ;
+    skos:prefLabel "核电站事故"@ch ;
+    skos:prefLabel "kerncentraalongeval"@nl .

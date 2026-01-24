@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:diarrhoeal_diseases a skos:Concept ;
+    skos:prefLabel "Diarrhoeal Diseases"@en ;
+    skos:definition "Diarrhoeal diseases are infectious diseases, contaminants and other causes of diarrhoea. Diarrhoea is defined as the passage of three or more loose or liquid stools per day, or more frequently than is normal for the individual. Diarrhoeal disease is the third leading cause of death in children 1–59 months of age. It is both preventable and treatable. (WHO, 2024a)."@en ;
+    skos:prefLabel "Maladies diarrhéiques"@fr ;
+    skos:prefLabel "Enfermedades diarreicas"@es ;
+    skos:prefLabel "Malattie diarroiche"@it ;
+    skos:prefLabel "діарейні захворювання"@ua ;
+    skos:prefLabel "диарейные заболевания"@ru ;
+    skos:prefLabel "腹泻疾病"@ch ;
+    skos:prefLabel "diarreeziekten"@nl .

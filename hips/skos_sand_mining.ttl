@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:sand_mining a skos:Concept ;
+    skos:prefLabel "Sand Mining"@en ;
+    skos:definition "Sand mining (extraction) is defined as the removal of primary (virgin) natural sand and sand resources (mineral sands and aggregates) from the natural environment (terrestrial, riverine, coastal, or marine) for extracting valuable minerals, metals, crushed stone, sand and gravel for subsequent processing (UNEP, 2019)."@en ;
+    skos:prefLabel "Extraction de sable"@fr ;
+    skos:prefLabel "Extracción de arena"@es ;
+    skos:prefLabel "Estrazione di sabbia"@it ;
+    skos:prefLabel "Видобуток піску"@ua ;
+    skos:prefLabel "Добыча песка"@ru ;
+    skos:prefLabel "沙矿开采"@ch ;
+    skos:prefLabel "Zandwinning"@nl .

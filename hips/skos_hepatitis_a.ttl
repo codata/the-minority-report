@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:hepatitis_a a skos:Concept ;
+    skos:prefLabel "Hepatitis A"@en ;
+    skos:definition "Hepatitis A is an acute vaccine-preventable viral liver disease and can cause mild to severe illness. Hepatitis A occurs sporadically and in epidemics worldwide, with a tendency for cyclic recurrences, as the virus persists in the environment and can withstand food production processes routinely used to inactivate or control bacterial pathogens (WHO, 2025a)."@en ;
+    skos:prefLabel "Hépatite A"@fr ;
+    skos:prefLabel "Hepatitis A"@es ;
+    skos:prefLabel "Epatite A"@it ;
+    skos:prefLabel "Гепатит A"@ua ;
+    skos:prefLabel "Гепатит А"@ru ;
+    skos:prefLabel "甲型肝炎"@ch ;
+    skos:prefLabel "Hepatitis A"@nl .

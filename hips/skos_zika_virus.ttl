@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:zika_virus a skos:Concept ;
+    skos:prefLabel "Zika Virus"@en ;
+    skos:definition "Zika virus disease is a disease transmitted primarily by Aedes mosquitoes which can lead to complications including microcephaly and other congenital malformations and neurodevelopmental disorders (WHO, 2022a)."@en ;
+    skos:prefLabel "Virus Zika"@fr ;
+    skos:prefLabel "Virus Zika"@es ;
+    skos:prefLabel "Virus Zika"@it ;
+    skos:prefLabel "Вірус Зіка"@ua ;
+    skos:prefLabel "вирус Зика"@ru ;
+    skos:prefLabel "寨卡病毒"@ch ;
+    skos:prefLabel "Zika-virus"@nl .

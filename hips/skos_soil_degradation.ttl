@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:soil_degradation a skos:Concept ;
+    skos:prefLabel "Soil Degradation"@en ;
+    skos:definition "Soil degradation is defined as a change in soil health status resulting in a diminished capacity of the ecosystem to provide goods and services for its beneficiaries (FAO, 2020)."@en ;
+    skos:prefLabel "dégradation des sols"@fr ;
+    skos:prefLabel "degradación del suelo"@es ;
+    skos:prefLabel "Degrado del suolo"@it ;
+    skos:prefLabel "деградація ґрунтів"@ua ;
+    skos:prefLabel "деградация почвы"@ru ;
+    skos:prefLabel "土壤退化"@ch ;
+    skos:prefLabel "bodemdegradatie"@nl .

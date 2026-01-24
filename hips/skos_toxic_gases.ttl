@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:toxic_gases a skos:Concept ;
+    skos:prefLabel "Toxic Gases"@en ;
+    skos:definition "Toxic gases are substances in the gaseous state that cause hazardous physiological effects when inhaled, affecting the respiratory, cardiovascular, and nervous systems, making them major public hazards (WHO 2000)."@en ;
+    skos:prefLabel "Gaz toxiques"@fr ;
+    skos:prefLabel "Gases tóxicos"@es ;
+    skos:prefLabel "Gas tossici"@it ;
+    skos:prefLabel "Токсичні гази"@ua ;
+    skos:prefLabel "Токсичные газы"@ru ;
+    skos:prefLabel "有毒气体"@ch ;
+    skos:prefLabel "Giftige gassen"@nl .

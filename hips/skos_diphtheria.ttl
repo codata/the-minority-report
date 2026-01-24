@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:diphtheria a skos:Concept ;
+    skos:prefLabel "Diphtheria"@en ;
+    skos:definition "Diphtheria is a widespread severe infectious disease caused by the bacterium Corynebacterium diphtheriae and the toxin they produce. It is a potentially life-threatening, vaccine-preventable disease that primarily affects the throat and upper airways and has the potential for epidemics (WHO, 2024a)."@en ;
+    skos:prefLabel "diphtherie"@fr ;
+    skos:prefLabel "difteria"@es ;
+    skos:prefLabel "difterite"@it ;
+    skos:prefLabel "дифтерія"@ua ;
+    skos:prefLabel "дифтерия"@ru ;
+    skos:prefLabel "白喉"@ch ;
+    skos:prefLabel "difterie"@nl .

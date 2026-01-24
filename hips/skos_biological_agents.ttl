@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:biological_agents a skos:Concept ;
+    skos:prefLabel "Biological Agents"@en ;
+    skos:definition "Biological and toxin agents are either microorganisms like viruses, bacteria or fungi, or toxic substances produced by living organisms that are produced and released deliberately to cause disease and death in humans, animals or plants (WHO, no date)."@en ;
+    skos:prefLabel "agents biologiques"@fr ;
+    skos:prefLabel "agentes biológicos"@es ;
+    skos:prefLabel "agenti biologici"@it ;
+    skos:prefLabel "біологічні агенти"@ua ;
+    skos:prefLabel "биологические агенты"@ru ;
+    skos:prefLabel "生物制剂"@ch ;
+    skos:prefLabel "biologische agenten"@nl .

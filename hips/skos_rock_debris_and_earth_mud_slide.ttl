@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:rock_debris_and_earth_mud_slide a skos:Concept ;
+    skos:prefLabel "Rock, debris and earth (mud) slide"@en ;
+    skos:definition "A slide is a movement of a mass of rock, debris or earth on an individualized failure surface (adapted from Dennis and Didier, 2019)."@en ;
+    skos:prefLabel "glissement de terrain"@fr ;
+    skos:prefLabel "deslizamiento de rocas, escombros y tierra (lodo)"@es ;
+    skos:prefLabel "scivolamento di rocce, detriti e terra (lodo)"@it ;
+    skos:prefLabel "зсув ґрунту"@ua ;
+    skos:prefLabel "оползень"@ru ;
+    skos:prefLabel "岩石、碎屑和土壤（泥）滑坡"@ch ;
+    skos:prefLabel "rots-, puin- en aardslip"@nl .

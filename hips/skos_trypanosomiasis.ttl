@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:trypanosomiasis a skos:Concept ;
+    skos:prefLabel "Trypanosomiasis"@en ;
+    skos:definition "Trypanosomiasis, human African (sleeping sickness) and animal trypanosomosis (nagana) are caused by protozoan parasites belonging to the genus Trypanosoma transmitted by infected tsetse flies and is endemic in sub-Saharan Africa. Without treatment, the disease is considered fatal (adapted from WHO, 2023 and FAO, no date)."@en ;
+    skos:prefLabel "trypanosomiase"@fr ;
+    skos:prefLabel "tripanosomiasis"@es ;
+    skos:prefLabel "trypanosomiasi"@it ;
+    skos:prefLabel "трипаносоміаз"@ua ;
+    skos:prefLabel "трипаносомоз"@ru ;
+    skos:prefLabel "锥虫病"@ch ;
+    skos:prefLabel "trypanosomiasis"@nl .

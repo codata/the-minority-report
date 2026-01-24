@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:microplastics a skos:Concept ;
+    skos:prefLabel "Microplastics"@en ;
+    skos:definition "Microplastics are small plastic pieces less than five millimetres in length which can be harmful to the environment, especially marine life. They originate from a variety of sources, including larger plastic debris that degrade into progressively smaller pieces (adapted from UNEP, 2016 and NOAA, 2023)."@en ;
+    skos:prefLabel "Microplastiques"@fr ;
+    skos:prefLabel "Microplásticos"@es ;
+    skos:prefLabel "Microplastiche"@it ;
+    skos:prefLabel "Мікропластик"@ua ;
+    skos:prefLabel "Микропластик"@ru ;
+    skos:prefLabel "微塑料"@ch ;
+    skos:prefLabel "Microplastics"@nl .

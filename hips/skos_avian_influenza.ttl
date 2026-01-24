@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:avian_influenza a skos:Concept ;
+    skos:prefLabel "Avian Influenza"@en ;
+    skos:definition "Avian influenza is an infectious disease of birds caused by type A influenza viruses of theOrthomyxoviridaefamily. Naturally occurring among wild bird populations, avian influenza viruses can infect domestic poultry and other bird species. Some avian influenza viruses can also infect mammals and those affecting humans are called zoonotic. A pandemic can occur when a novel influenza virus spreads in human populations worldwide (adapted from FAO, 2009; WHO, 2023a; 2023b; WOAH, no date)."@en ;
+    skos:prefLabel "Influenza aviaire"@fr ;
+    skos:prefLabel "Influenza aviar"@es ;
+    skos:prefLabel "Influenza aviaria"@it ;
+    skos:prefLabel "Пташиний грип"@ua ;
+    skos:prefLabel "Птичий грипп"@ru ;
+    skos:prefLabel "禽流感"@ch ;
+    skos:prefLabel "Vogelgriep"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:classical_swine_fever a skos:Concept ;
+    skos:prefLabel "Classical Swine Fever"@en ;
+    skos:definition "Classical swine fever, also known as hog cholera, is a contagious viral disease of domestic and wild swine. It is caused by a virus of the genusPestivirusof the familyFlaviviridae(WOAH, no date)."@en ;
+    skos:prefLabel "Fièvre porcine classique"@fr ;
+    skos:prefLabel "Fiebre porcina clásica"@es ;
+    skos:prefLabel "Febbre suina classica"@it ;
+    skos:prefLabel "Класична свиняча лихоманка"@ua ;
+    skos:prefLabel "Классическая свинчатка"@ru ;
+    skos:prefLabel "经典猪瘟"@ch ;
+    skos:prefLabel "Klassieke varkenskoorts"@nl .

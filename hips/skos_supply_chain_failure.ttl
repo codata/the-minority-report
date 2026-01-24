@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:supply_chain_failure a skos:Concept ;
+    skos:prefLabel "Supply Chain Failure"@en ;
+    skos:definition "Supply chain failure refers to an event in the supply chain that disrupts the flow of materials on their journey from initial suppliers through to final customers (Walters, 2007)."@en ;
+    skos:prefLabel "Fallo de la cadena de suministro"@es ;
+    skos:prefLabel "fallimento della catena di approvvigionamento"@it ;
+    skos:prefLabel "збій ланцюга постачання"@ua ;
+    skos:prefLabel "сбой цепочки поставок"@ru ;
+    skos:prefLabel "供应链中断"@ch ;
+    skos:prefLabel "Falen van de toeleveringsketen"@nl .

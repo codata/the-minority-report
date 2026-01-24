@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:methanol a skos:Concept ;
+    skos:prefLabel "Methanol"@en ;
+    skos:definition "Methanol is a colourless, volatile liquid. Categorized as an alcohol, methanol is commonly used as a solvent and reagent in an array of industrial applications. Outbreaks of methanol poisoning most commonly arise from the consumption of adulterated or informally produced spirit drinks (adapted from NCBI, 2024 and WHO, 2014)."@en ;
+    skos:prefLabel "méthanol"@fr ;
+    skos:prefLabel "metanol"@es ;
+    skos:prefLabel "metanolo"@it ;
+    skos:prefLabel "метанол"@ua ;
+    skos:prefLabel "метанол"@ru ;
+    skos:prefLabel "甲醇"@ch ;
+    skos:prefLabel "methanol"@nl .

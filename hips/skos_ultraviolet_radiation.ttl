@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:ultraviolet_radiation a skos:Concept ;
+    skos:prefLabel "Ultraviolet Radiation"@en ;
+    skos:definition "Ultraviolet radiation (UVR) exposure, either from the sun or from artificial sources such as sunbeds, is primarily responsible for skin cancers. Globally in 2020, over 1.5 million cases of skin cancers were diagnosed and over 120, 000 skin cancer-associated deaths were reported. (WHO 2022a)."@en ;
+    skos:prefLabel "Rayonnement ultraviolet"@fr ;
+    skos:prefLabel "radiación ultravioleta"@es ;
+    skos:prefLabel "radiazione ultravioletta"@it ;
+    skos:prefLabel "ультрафіолетове випромінювання"@ua ;
+    skos:prefLabel "ультрафиолетовое излучение"@ru ;
+    skos:prefLabel "紫外线辐射"@ch ;
+    skos:prefLabel "ultravioletstraling"@nl .

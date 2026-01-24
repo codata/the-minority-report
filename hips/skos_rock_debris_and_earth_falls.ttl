@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:rock_debris_and_earth_falls a skos:Concept ;
+    skos:prefLabel "Rock, debris and earth falls"@en ;
+    skos:definition "A rock, debris or earth fall is a fragment of rock (a block), body of debris or earth (here taken to include mud) detached by sliding, toppling, or falling, that falls from a vertical or sub-vertical cliff and proceeds down slope by bouncing and flying along ballistic trajectories or by rolling on talus or debris slopes (adapted from Highland and Bobrowsky, 2008)."@en ;
+    skos:prefLabel "Chutes de roches, de débris et de terre"@fr ;
+    skos:prefLabel "Caída de rocas, escombros y suelo"@es ;
+    skos:prefLabel "Caduta di roccia, detriti e terreno"@it ;
+    skos:prefLabel "Падіння каменів, уламків та ґрунту"@ua ;
+    skos:prefLabel "Падение камней, обломков и грунта"@ru ;
+    skos:prefLabel "岩石、碎屑与土体坠落"@ch ;
+    skos:prefLabel "Gestein-, puin- en aardenvallen"@nl .

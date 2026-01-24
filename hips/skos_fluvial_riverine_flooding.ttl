@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:fluvial_riverine_flooding a skos:Concept ;
+    skos:prefLabel "Fluvial (Riverine) Flooding"@en ;
+    skos:definition "Overflowing by water of the normal confines of a watercourse or other body of water (WMO, 2012)."@en ;
+    skos:prefLabel "Inondation fluviale"@fr ;
+    skos:prefLabel "Inundación fluvial"@es ;
+    skos:prefLabel "inondazione fluviale"@it ;
+    skos:prefLabel "Речное наводнение"@ru ;
+    skos:prefLabel "河流洪水"@ch .

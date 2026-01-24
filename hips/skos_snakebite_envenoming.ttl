@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:snakebite_envenoming a skos:Concept ;
+    skos:prefLabel "Snakebite envenoming"@en ;
+    skos:definition "A snakebite envenoming is a potentially life-threatening disease caused by toxins in the bite of a venomous snake (WHO, 2023)."@en ;
+    skos:prefLabel "envenimation par morsure de serpent"@fr ;
+    skos:prefLabel "envenenamiento por mordedura de serpiente"@es ;
+    skos:prefLabel "Отруєння зміїним укусом"@ua ;
+    skos:prefLabel "蛇咬中毒"@ch ;
+    skos:prefLabel "slangenbeetvergiftiging"@nl .

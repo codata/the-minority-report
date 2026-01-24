@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:lassa_fever a skos:Concept ;
+    skos:prefLabel "Lassa Fever"@en ;
+    skos:definition "Lassa fever is a zoonotic disease associated with acute and potentially fatal haemorrhagic illness caused by Lassa virus. The virus is a single-stranded RNA virus belonging to the virus family Arenaviridae. About 1 in 5 infections result in severe disease, where the virus affects several organs such as the liver, spleen and kidneys. (WHO, 2024a)."@en ;
+    skos:prefLabel "Fièvre de Lassa"@fr ;
+    skos:prefLabel "Fiebre de Lassa"@es ;
+    skos:prefLabel "Febbre di Lassa"@it ;
+    skos:prefLabel "Ласса‑вірусна лихоманка"@ua ;
+    skos:prefLabel "Лихорадка Ласса"@ru ;
+    skos:prefLabel "拉萨热"@ch .

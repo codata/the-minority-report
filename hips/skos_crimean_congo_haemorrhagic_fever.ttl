@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:crimean_congo_haemorrhagic_fever a skos:Concept ;
+    skos:prefLabel "Crimean-Congo Haemorrhagic Fever"@en ;
+    skos:definition "Crimean-Congo haemorrhagic fever (CCHF) is a tick-borne viral infection caused by the CCHF virus. It causes severe viral haemorrhagic fever outbreaks and epidemics. CCHF outbreaks have a case fatality rate of 10-40% (WHO, 2025)."@en ;
+    skos:prefLabel "Fièvre hémorragique de Crimée-Congo"@fr ;
+    skos:prefLabel "Fiebre hemorrágica de Crimea-Congo"@es ;
+    skos:prefLabel "Febbre emorragica di Crimea-Congo"@it ;
+    skos:prefLabel "Кримсько-Конго геморрагічна вірусна хвороба"@ua ;
+    skos:prefLabel "克里米亚–刚果出血热"@ch ;
+    skos:prefLabel "Crimean-Congo hemorragische koorts"@nl .

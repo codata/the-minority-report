@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:social_engineering_phishing a skos:Concept ;
+    skos:prefLabel "Social Engineering - Phishing"@en ;
+    skos:definition "Social engineering corresponds to all techniques aimed at persuading a target into revealing specific information or performing a specific action for illegitimate reasons (ECS, no date)."@en ;
+    skos:prefLabel "Ingénierie sociale - Hameçonnage"@fr ;
+    skos:prefLabel "Ingeniería social - Phishing"@es ;
+    skos:prefLabel "Ingegneria sociale - Phishing"@it ;
+    skos:prefLabel "Соціальна інженерія - Фішинг"@ua ;
+    skos:prefLabel "Социальная инженерия - Фишинг"@ru ;
+    skos:prefLabel "社会工程学 - 网络钓鱼"@ch ;
+    skos:prefLabel "Social engineering - Phishing"@nl .

@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:extra_tropical_cyclone a skos:Concept ;
+    skos:prefLabel "Extra-tropical Cyclone"@en ;
+    skos:definition "An extra-tropical cyclone is a low-pressure system, which develops in latitudes outside the tropics (WMO, 1992)."@en ;
+    skos:prefLabel "cyclone extratropical"@fr ;
+    skos:prefLabel "ciclón extratropical"@es ;
+    skos:prefLabel "ciclone extratropicale"@it ;
+    skos:prefLabel "позатропічний циклон"@ua ;
+    skos:prefLabel "温带气旋"@ch ;
+    skos:prefLabel "extratropische cycloon"@nl .

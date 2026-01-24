@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:measles a skos:Concept ;
+    skos:prefLabel "Measles"@en ;
+    skos:definition "Measles is a highly contagious, serious disease caused by a virus from the paramyxovirus family. It spreads easily when an infected person breathes, coughs or sneezes. It can cause severe disease, complications, and even death (adapted from WHO 2024)."@en ;
+    skos:prefLabel "Rougeole"@fr ;
+    skos:prefLabel "Sarampión"@es ;
+    skos:prefLabel "Sarampo"@it ;
+    skos:prefLabel "Кір"@ua ;
+    skos:prefLabel "корь"@ru ;
+    skos:prefLabel "麻疹"@ch ;
+    skos:prefLabel "Mazelen"@nl .

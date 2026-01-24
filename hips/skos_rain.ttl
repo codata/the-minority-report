@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:rain a skos:Concept ;
+    skos:prefLabel "Rain"@en ;
+    skos:definition "Rain is precipitation of drops of water that falls from a cloud (WMO, 2017). While rain is essential for sustaining life and ecosystems, extreme rainfall is a primary trigger for some of the most devastating secondary hazards—flooding, landslides, and soil erosion—which result in widespread loss of life, damage to infrastructure, disruption of livelihoods, and environmental degradation (Rijal et al., 2024; Myhre et al., 2019)."@en ;
+    skos:prefLabel "pluie"@fr ;
+    skos:prefLabel "lluvia"@es ;
+    skos:prefLabel "pioggia"@it ;
+    skos:prefLabel "дощ"@ua ;
+    skos:prefLabel "дождь"@ru ;
+    skos:prefLabel "雨"@ch ;
+    skos:prefLabel "regen"@nl .

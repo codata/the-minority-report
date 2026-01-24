@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:sand_haze a skos:Concept ;
+    skos:prefLabel "Sand haze"@en ;
+    skos:definition "A dust haze (or sand haze) is a suspension in the air of dust or small sand particles, raised from the ground prior to the time of observation by a dust storm or sandstorm. The dust storm or sandstorm may have occurred either at or near the observation site or far from it (WMO, 2025)."@en ;
+    skos:prefLabel "brume de sable"@fr ;
+    skos:prefLabel "calima"@es ;
+    skos:prefLabel "nebbia di sabbia"@it ;
+    skos:prefLabel "Пиловий туман"@ua ;
+    skos:prefLabel "песчаная дымка"@ru ;
+    skos:prefLabel "沙尘雾"@ch ;
+    skos:prefLabel "zandnevel"@nl .

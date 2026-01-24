@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:soil_pollution a skos:Concept ;
+    skos:prefLabel "Soil Pollution"@en ;
+    skos:definition "Soil pollution refers to the presence of a chemical or substance out of place and/or present in a soil at higher-than-normal concentration that has adverse effects on any non-targeted organism (Rodríguez-Eugenio et al., 2018)."@en ;
+    skos:prefLabel "pollution des sols"@fr ;
+    skos:prefLabel "contaminación del suelo"@es ;
+    skos:prefLabel "inquinamento del suolo"@it ;
+    skos:prefLabel "забруднення ґрунту"@ua ;
+    skos:prefLabel "загрязнение почвы"@ru ;
+    skos:prefLabel "土壤污染"@ch ;
+    skos:prefLabel "bodemverontreiniging"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:chikungunya a skos:Concept ;
+    skos:prefLabel "Chikungunya"@en ;
+    skos:definition "Chikungunya is a mosquito-borne viral infection caused by the chikungunya virus. It causes fever and severe arthralgia (joint pain) which is often debilitating. The disease can be endemic and epidemic in countries (WHO, 2025)."@en ;
+    skos:prefLabel "Chikungunya"@fr ;
+    skos:prefLabel "Chikungunya"@es ;
+    skos:prefLabel "Chikungunya"@it ;
+    skos:prefLabel "Чікунгунья"@ua ;
+    skos:prefLabel "Чикунгунья"@ru ;
+    skos:prefLabel "奇克贡热"@ch ;
+    skos:prefLabel "Chikungunya"@nl .

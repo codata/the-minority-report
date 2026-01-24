@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:health_care_waste a skos:Concept ;
+    skos:prefLabel "Health-care Waste"@en ;
+    skos:definition "Health-care waste is a by-product of health care that includes sharps, non-sharp blood contaminated items, blood, body parts and tissues, chemicals, pharmaceuticals and radioactive materials. Safe management of health-care waste protects health-care workers, waste handlers, patients and their families and the community to preventable infections, toxic effects and injuries (adapted from WHO, no date, and WHO, 2017)."@en ;
+    skos:prefLabel "Residuos sanitarios"@es ;
+    skos:prefLabel "rifiuti sanitari"@it ;
+    skos:prefLabel "медичні відходи"@ua ;
+    skos:prefLabel "медицинские отходы"@ru ;
+    skos:prefLabel "医疗废物"@ch ;
+    skos:prefLabel "gezondheidszorgafval"@nl .

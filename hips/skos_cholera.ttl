@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:cholera a skos:Concept ;
+    skos:prefLabel "Cholera"@en ;
+    skos:definition "Cholera is an acute diarrhoeal infection caused by ingestion of food or water contaminated with the bacterium Vibrio cholerae. Cholera is a global threat to public health (WHO, 2024a)."@en ;
+    skos:prefLabel "Choléra"@fr ;
+    skos:prefLabel "Cólera"@es ;
+    skos:prefLabel "Colera"@it ;
+    skos:prefLabel "Холера"@ua ;
+    skos:prefLabel "Холера"@ru ;
+    skos:prefLabel "霍乱"@ch ;
+    skos:prefLabel "Cholera"@nl .

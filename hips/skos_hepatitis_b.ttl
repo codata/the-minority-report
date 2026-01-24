@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:hepatitis_b a skos:Concept ;
+    skos:prefLabel "Hepatitis B"@en ;
+    skos:definition "Hepatitis B is a vaccine-preventable disease, that is endemic and epidemic worldwide and is caused by the Hepatitis B virus (HBV). HBV can cause both acute and chronic liver disease. Chronic infection puts people at high risk of death from cirrhosis and liver cancer (WHO, 2024)."@en ;
+    skos:prefLabel "Hépatite B"@fr ;
+    skos:prefLabel "Hepatitis B"@es ;
+    skos:prefLabel "Epatite B"@it ;
+    skos:prefLabel "Гепатит B"@ua ;
+    skos:prefLabel "Гепатит B"@ru ;
+    skos:prefLabel "乙型肝炎"@ch ;
+    skos:prefLabel "Hepatitis B"@nl .

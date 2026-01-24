@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:civil_unrest a skos:Concept ;
+    skos:prefLabel "Civil Unrest"@en ;
+    skos:definition "Civil unrest is an umbrella term for a wide spectrum of social and/or political phenomena, and although there is no commonly agreed definition, the term is used widely among United Nations agencies, funds and programmes."@en ;
+    skos:prefLabel "désordre civil"@fr ;
+    skos:prefLabel "Desórdenes civiles"@es ;
+    skos:prefLabel "disordini civili"@it ;
+    skos:prefLabel "громадянські заворушення"@ua ;
+    skos:prefLabel "гражданские беспорядки"@ru ;
+    skos:prefLabel "社会动荡"@ch ;
+    skos:prefLabel "Civiele onrust"@nl .

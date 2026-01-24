@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:squall a skos:Concept ;
+    skos:prefLabel "Squall"@en ;
+    skos:definition "A squall is an atmospheric phenomenon characterised by a very large variation of wind speed: it begins suddenly, has a duration of the order of minutes and decreases suddenly in speed. It is often accompanied by a shower or thunderstorm (WMO, 2018)."@en ;
+    skos:prefLabel "rafale"@fr ;
+    skos:prefLabel "ráfaga"@es ;
+    skos:prefLabel "Raffica"@it ;
+    skos:prefLabel "шквальний вітер"@ua ;
+    skos:prefLabel "шквал"@ru ;
+    skos:prefLabel "阵风"@ch ;
+    skos:prefLabel "windvlaag"@nl .

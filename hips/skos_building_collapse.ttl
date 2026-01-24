@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:building_collapse a skos:Concept ;
+    skos:prefLabel "Building Collapse"@en ;
+    skos:definition "Building collapse is the failure of load-bearing structural elements, causing a building to fall or fail catastrophically / catastrophic failure (adapted from US Department of Labor, no date)."@en ;
+    skos:prefLabel "effondrement de bâtiment"@fr ;
+    skos:prefLabel "colapso de edificio"@es ;
+    skos:prefLabel "collasso strutturale"@it ;
+    skos:prefLabel "обвалення будівлі"@ua ;
+    skos:prefLabel "обрушение здания"@ru ;
+    skos:prefLabel "建筑物倒塌"@ch ;
+    skos:prefLabel "gebouweninstorting"@nl .

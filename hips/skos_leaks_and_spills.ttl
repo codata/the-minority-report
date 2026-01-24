@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:leaks_and_spills a skos:Concept ;
+    skos:prefLabel "Leaks and Spills"@en ;
+    skos:definition "A leak or a spill is an incident involving the uncontrolled release of a toxic substance, potentially resulting in harm to public health and the environment. Chemical incidents can occur as a result of natural events, or as a result of accidental or intentional events. These incidents can be sudden and acute or have a slow onset when there is a ‘silent’ release of a chemical. Leaks and spills can range from small releases to full-scale major emergencies (adapted from WHO, no date)."@en ;
+    skos:prefLabel "fuites et déversements"@fr ;
+    skos:prefLabel "fugas y derrames"@es ;
+    skos:prefLabel "утечі та розлили"@ua ;
+    skos:prefLabel "утечки и разливы"@ru ;
+    skos:prefLabel "泄漏与溢出"@ch ;
+    skos:prefLabel "Lekken en morsen"@nl .

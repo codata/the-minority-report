@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:ebola a skos:Concept ;
+    skos:prefLabel "Ebola"@en ;
+    skos:definition "Ebola virus disease (EVD) is a rare but severe zoonotic viral infectious disease caused by the Ebola virus. It can be characterized by haemorrhagic fever and is often fatal in humans. EVD can trigger epidemics with high case-fatality rates (WHO, 2025)."@en ;
+    skos:prefLabel "Ébola"@fr ;
+    skos:prefLabel "Ébola"@es ;
+    skos:prefLabel "Ebola"@it ;
+    skos:prefLabel "Ебола"@ua ;
+    skos:prefLabel "Эбола"@ru ;
+    skos:prefLabel "埃博拉"@ch ;
+    skos:prefLabel "Ebola"@nl .

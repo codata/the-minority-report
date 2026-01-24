@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:surface_rupture_and_fissuring a skos:Concept ;
+    skos:prefLabel "Surface Rupture and Fissuring"@en ;
+    skos:definition "Surface ruptures and fissures are localized ground displacements that develop in response to tensional, compressional, and shear stresses, most commonly in unconsolidated sediment, but also in rock (Arizona Geological Survey, 2020). Surface ruptures represent the upward continuation of fault slip at depth, while fissures are smaller displacements, or more distributed deformation in and around the rupture area (adapted from USGS, no date and PNSN, no date)."@en ;
+    skos:prefLabel "Rupture de surface et fissuration"@fr ;
+    skos:prefLabel "Ruptura superficial y fisuración"@es ;
+    skos:prefLabel "Rottura superficiale e fissurazione"@it ;
+    skos:prefLabel "Поверхностные разрывы и трещины"@ru ;
+    skos:prefLabel "地表破裂与裂隙"@ch ;
+    skos:prefLabel "oppervlakteruptie en fissuratie"@nl .

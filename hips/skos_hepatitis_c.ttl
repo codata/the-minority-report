@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:hepatitis_c a skos:Concept ;
+    skos:prefLabel "Hepatitis C"@en ;
+    skos:definition "Hepatitis C is a blood-borne liver disease caused by the hepatitis C virus: the virus can cause both acute and chronic hepatitis, ranging in severity from a mild illness lasting a few weeks to a serious, lifelong illness including liver cirrhosis and liver cancer. Hepatitis C is endemic and epidemic worldwide (WHO, 2024a)."@en ;
+    skos:prefLabel "Hépatite C"@fr ;
+    skos:prefLabel "Hepatitis C"@es ;
+    skos:prefLabel "Epatite C"@it ;
+    skos:prefLabel "Гепатит C"@ua ;
+    skos:prefLabel "Гепатит C"@ru ;
+    skos:prefLabel "C型肝炎"@ch ;
+    skos:prefLabel "Hepatitis C"@nl .

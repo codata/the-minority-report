@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:snowmelt_flooding a skos:Concept ;
+    skos:prefLabel "Snowmelt Flooding"@en ;
+    skos:definition "A snowmelt flood is a significant flood rise in a river caused by the melting of snowpack accumulated during the winter (WMO, 2012)."@en ;
+    skos:prefLabel "crues de fonte des neiges"@fr ;
+    skos:prefLabel "inundación por derretimiento de nieve"@es ;
+    skos:prefLabel "повені від танення снігу"@ua ;
+    skos:prefLabel "наводнение от таяния снега"@ru ;
+    skos:prefLabel "融雪洪水"@ch .

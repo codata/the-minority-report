@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:airborne_diseases a skos:Concept ;
+    skos:prefLabel "Airborne Diseases"@en ;
+    skos:definition "Airborne transmission of infectious agents refers to the transmission of disease caused by the dissemination of very small droplets that remain infectious when suspended in air over long distances and time, and potentially cause significant morbidity and mortality (adapted from WHO, 2020)."@en ;
+    skos:prefLabel "maladies transmissibles par voie aérienne"@fr ;
+    skos:prefLabel "Enfermedades transmitidas por el aire"@es ;
+    skos:prefLabel "malattie trasmesse per via aerea"@it ;
+    skos:prefLabel "Заболевания, передающиеся воздушно-капельным путем"@ru ;
+    skos:prefLabel "空气传播疾病"@ch ;
+    skos:prefLabel "luchtoverdrachtziekten"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:explosion a skos:Concept ;
+    skos:prefLabel "Explosion"@en ;
+    skos:definition "Explosion-related technological incidents can be defined as accidental or intentional rapid energetic events that result in the actual or potential exposure of responders and/or members of the public to a chemical hazard (adapted from WHO, no date)."@en ;
+    skos:prefLabel "explosion"@fr ;
+    skos:prefLabel "explosión"@es ;
+    skos:prefLabel "esplosione"@it ;
+    skos:prefLabel "вибух"@ua ;
+    skos:prefLabel "взрыв"@ru ;
+    skos:prefLabel "爆炸"@ch ;
+    skos:prefLabel "explosie"@nl .

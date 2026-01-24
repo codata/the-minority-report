@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:road_traffic_accident a skos:Concept ;
+    skos:prefLabel "Road Traffic Accident"@en ;
+    skos:definition "A road traffic accident involving at least one road vehicle in motion on a public road or private road to which the public has right of access, resulting in at least one injured or killed person. Approximately 1.19 million people die each year as a result of road traffic crashes, which are the leading cause of death for children and young adults aged 5-29 years with 92% of the world's fatalities on the roads occurring in low- and middle-income countries, even though these countries have around 60% of the world's vehicles (adapted from UNECE, Eurostat, ITF, 2019 and WHO, 2023a)."@en ;
+    skos:prefLabel "Accident de la circulation routière"@fr ;
+    skos:prefLabel "accidente de tráfico"@es ;
+    skos:prefLabel "incidente di traffico stradale"@it ;
+    skos:prefLabel "дорожньо-транспортна пригода"@ua ;
+    skos:prefLabel "дорожно-транспортное происшествие"@ru ;
+    skos:prefLabel "道路交通事故"@ch ;
+    skos:prefLabel "verkeersongeval"@nl .

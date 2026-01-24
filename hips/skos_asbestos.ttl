@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:asbestos a skos:Concept ;
+    skos:prefLabel "Asbestos"@en ;
+    skos:definition "Asbestos is the term for a group of naturally occurring fibrous silicate minerals widely used historically in building materials and other products (WHO, 2018). All types of asbestos cause lung cancer, mesothelioma, cancer of the larynx and ovary, and asbestosis (fibrosis of the lungs) (WHO, 2018)."@en ;
+    skos:prefLabel "amiante"@fr ;
+    skos:prefLabel "asbesto"@es ;
+    skos:prefLabel "amianto"@it ;
+    skos:prefLabel "азбест"@ua ;
+    skos:prefLabel "асбест"@ru ;
+    skos:prefLabel "石棉"@ch ;
+    skos:prefLabel "asbest"@nl .

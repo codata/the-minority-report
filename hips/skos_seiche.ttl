@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:seiche a skos:Concept ;
+    skos:prefLabel "Seiche"@en ;
+    skos:definition "Seiches are sea-level oscillations at the resonant frequency of enclosed bodies of water (WMO, 2011)."@en ;
+    skos:prefLabel "seiche"@fr ;
+    skos:prefLabel "seiche"@es ;
+    skos:prefLabel "seiche"@it ;
+    skos:prefLabel "сейш"@ua ;
+    skos:prefLabel "сейш"@ru ;
+    skos:prefLabel "seiche"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:forest_declines_and_diebacks a skos:Concept ;
+    skos:prefLabel "Forest Declines and Diebacks"@en ;
+    skos:definition "Forest declines and diebacks are episodic events characterised by premature, progressive loss of tree and stand vigour and health over a given period without obvious evidence of a single clearly identifiable causal factor such as physical disturbance or attack by primary disease or insect (Ciesla & Donaubauer, 1994)."@en ;
+    skos:prefLabel "Déclin et dépérissement des forêts"@fr ;
+    skos:prefLabel "Declive y mortandad forestal"@es ;
+    skos:prefLabel "declino forestale e decadimento"@it ;
+    skos:prefLabel "Занепад та відмирання лісів"@ua ;
+    skos:prefLabel "Ослабление и отмирание лесов"@ru ;
+    skos:prefLabel "森林衰退与枯死"@ch ;
+    skos:prefLabel "Bosachteruitgang en -sterfte"@nl .

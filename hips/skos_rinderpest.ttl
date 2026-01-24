@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:rinderpest a skos:Concept ;
+    skos:prefLabel "Rinderpest"@en ;
+    skos:definition "Rinderpest was an acute, highly contagious viral disease of wild and domesticated ruminants and pigs, characterized by sudden onset of fever, oculonasal discharges, necrotic stomatitis, gastroenteritis and death. Rinderpest was eradicated in 2011 (FAO & OIE, 2011)."@en ;
+    skos:prefLabel "peste bovine"@fr ;
+    skos:prefLabel "peste bovina"@es ;
+    skos:prefLabel "peste bovina"@it ;
+    skos:prefLabel "чума великої рогатої худоби"@ua ;
+    skos:prefLabel "пестиця крупного рогатого скота"@ru ;
+    skos:prefLabel "牛瘟"@ch ;
+    skos:prefLabel "rinderpest"@nl .

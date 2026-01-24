@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:escherichia_coli_stec a skos:Concept ;
+    skos:prefLabel "Escherichia Coli (STEC)"@en ;
+    skos:definition "Escherichia coli(E. coli) is a bacterium commonly found in the gut. Some strains can cause serious food poisoning, leading to diarrhoea and sometimes to life-threatening complications including haemolytic uraemic syndrome (WHO, 2018a)."@en ;
+    skos:prefLabel "Escherichia coli (STEC)"@fr ;
+    skos:prefLabel "Escherichia coli (STEC)"@es ;
+    skos:prefLabel "Escherichia coli (STEC)"@it ;
+    skos:prefLabel "E. coli"@ua ;
+    skos:prefLabel "大肠杆菌（STEC）"@ch ;
+    skos:prefLabel "Escherichia coli (STEC)"@nl .

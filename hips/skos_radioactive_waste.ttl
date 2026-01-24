@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:radioactive_waste a skos:Concept ;
+    skos:prefLabel "Radioactive Waste"@en ;
+    skos:definition "Radioactive waste is radioactive material for which no further use is foreseen but still contains, or is contaminated with, radionuclides. Radioactive waste can be in gas, liquid or solid form (IAEA, 2018). It may remain radioactive from a few hours to hundreds of thousands of years."@en ;
+    skos:prefLabel "déchets radioactifs"@fr ;
+    skos:prefLabel "residuos radiactivos"@es ;
+    skos:prefLabel "rifiuti radioattivi"@it ;
+    skos:prefLabel "радіоактивні відходи"@ua ;
+    skos:prefLabel "радиоактивные отходы"@ru ;
+    skos:prefLabel "放射性废物"@ch ;
+    skos:prefLabel "radioactief afval"@nl .

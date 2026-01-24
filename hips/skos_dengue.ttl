@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:dengue a skos:Concept ;
+    skos:prefLabel "Dengue"@en ;
+    skos:definition "Dengue is a mosquito-borne disease that is caused by a virus of the Flaviviridae family and transmitted by female mosquitoes mainly of the species Aedes aegypti and, to a lesser extent, A. albopictus. The incidence of dengue has grown dramatically around the world in recent decades, with cases reported to WHO increasing from 505 430 cases in 2000 to 5.2 million in 2019 (adapted from WHO, 2024)."@en ;
+    skos:prefLabel "dengue"@fr ;
+    skos:prefLabel "dengue"@es ;
+    skos:prefLabel "dengue"@it ;
+    skos:prefLabel "денге"@ua ;
+    skos:prefLabel "денге"@ru ;
+    skos:prefLabel "登革热"@ch ;
+    skos:prefLabel "dengue"@nl .

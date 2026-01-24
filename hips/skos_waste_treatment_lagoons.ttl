@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:waste_treatment_lagoons a skos:Concept ;
+    skos:prefLabel "Waste Treatment Lagoons"@en ;
+    skos:definition "Waste [treatment] lagoons can be defined as impoundments made by excavation or earth fill for biological treatment of animal and other agricultural waste (Spellman & Bieber, 2012)."@en ;
+    skos:prefLabel "lagunes de traitement des déchets"@fr ;
+    skos:prefLabel "bacini di trattamento dei rifiuti"@it ;
+    skos:prefLabel "лагони для очищення сміття"@ua ;
+    skos:prefLabel "лагуны очистки отходов"@ru ;
+    skos:prefLabel "废弃物处理塘"@ch ;
+    skos:prefLabel "afvalbehandelingslagunes"@nl .

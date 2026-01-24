@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:critical_infrastructure_failure a skos:Concept ;
+    skos:prefLabel "Critical Infrastructure Failure"@en ;
+    skos:definition "Critical Infrastructure failure is defined as the failure in one or more of the physical structures, facilities, networks and other assets which provide services that are essential to the social and economic functioning of a community or society (UNGA, 2016)."@en ;
+    skos:prefLabel "guasto delle infrastrutture critiche"@it ;
+    skos:prefLabel "збої критичної інфраструктури"@ua ;
+    skos:prefLabel "Сбои критической инфраструктуры"@ru ;
+    skos:prefLabel "关键基础设施故障"@ch ;
+    skos:prefLabel "falen van kritieke infrastructuur"@nl .

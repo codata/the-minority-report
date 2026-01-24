@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:snow a skos:Concept ;
+    skos:prefLabel "Snow"@en ;
+    skos:definition "Snow is the precipitation of ice crystals, isolated or agglomerated, falling from a cloud (WMO, 2017)."@en ;
+    skos:prefLabel "neige"@fr ;
+    skos:prefLabel "nieve"@es ;
+    skos:prefLabel "neve"@it ;
+    skos:prefLabel "сніг"@ua ;
+    skos:prefLabel "снег"@ru ;
+    skos:prefLabel "雪"@ch ;
+    skos:prefLabel "sneeuw"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:flash_flooding a skos:Concept ;
+    skos:prefLabel "Flash Flooding"@en ;
+    skos:definition "A flash flood is a flood of short duration with a relatively high peak discharge  (WMO, 2021)."@en ;
+    skos:prefLabel "Inondation Flash"@fr ;
+    skos:prefLabel "Inundación Flash"@es ;
+    skos:prefLabel "inondazione flash"@it ;
+    skos:prefLabel "Раптова повінь"@ua ;
+    skos:prefLabel "быстрый паводок"@ru ;
+    skos:prefLabel "突发洪水"@ch ;
+    skos:prefLabel "Plotselinge waterstroming"@nl .

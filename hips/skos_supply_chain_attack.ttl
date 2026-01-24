@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:supply_chain_attack a skos:Concept ;
+    skos:prefLabel "Supply Chain Attack"@en ;
+    skos:definition "A supply chain attack is when products, services, or technology you are supplied with have been breached or compromised, and are in turn used to infiltrate and further compromise your own systems (ICO, no date)."@en ;
+    skos:prefLabel "attaque de la chaîne d'approvisionnement"@fr ;
+    skos:prefLabel "ataque a la cadena de suministro"@es ;
+    skos:prefLabel "attacco alla catena di approvvigionamento"@it ;
+    skos:prefLabel "атака на ланцюг постачання"@ua ;
+    skos:prefLabel "атака по цепочке поставок"@ru ;
+    skos:prefLabel "供应链攻击"@ch ;
+    skos:prefLabel "aanval op de toeleveringsketen"@nl .

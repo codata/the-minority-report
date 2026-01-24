@@ -1,0 +1,17 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:thunderstorm a skos:Concept ;
+    skos:prefLabel "Thunderstorm"@en ;
+    skos:definition "A thunderstorm is defined as one or more sudden electrical discharges, manifested by a flash of light (lightning) and a sharp or rumbling sound (thunder) (WMO, no date)."@en ;
+    skos:prefLabel "orage"@fr ;
+    skos:prefLabel "tormenta eléctrica"@es ;
+    skos:prefLabel "temporale"@it ;
+    skos:prefLabel "гроза"@ua ;
+    skos:prefLabel "гроза"@ru ;
+    skos:prefLabel "雷暴"@ch ;
+    skos:prefLabel "onweer"@nl ;
+    skos:prefLabel "ukkonen"@fi ;
+    skos:prefLabel "trovoada"@pt .

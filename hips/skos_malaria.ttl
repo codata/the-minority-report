@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:malaria a skos:Concept ;
+    skos:prefLabel "Malaria"@en ;
+    skos:definition "Malaria is a life-threatening disease caused by parasites that are transmitted to people mostly through the bites of infected female Anopheles mosquitoes. In 2023, there were an estimated 263 million cases of malaria worldwide and the estimated number of malaria deaths stood at 597,000 in 83 countries (adapted from WHO, 2024a)."@en ;
+    skos:prefLabel "paludisme"@fr ;
+    skos:prefLabel "malaria"@es ;
+    skos:prefLabel "malaria"@it ;
+    skos:prefLabel "малярія"@ua ;
+    skos:prefLabel "малярия"@ru ;
+    skos:prefLabel "疟疾"@ch ;
+    skos:prefLabel "malaria"@nl .

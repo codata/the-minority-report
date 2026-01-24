@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:levels_of_contaminants_in_food_and_feed a skos:Concept ;
+    skos:prefLabel "Levels of Contaminants in Food and Feed"@en ;
+    skos:definition "A contaminant in food and feed is defined as any substance not intentionally added but present in such food or feed as a result of the production, manufacture, processing, preparation, treatment, packing, packaging, transport or storage, or as a result of environmental contamination, which can lead to major public hazards (FAO and WHO, 2019)."@en ;
+    skos:prefLabel "Niveaux de contaminants dans les aliments et les aliments pour animaux"@fr ;
+    skos:prefLabel "Niveles de contaminantes en alimentos y piensos"@es ;
+    skos:prefLabel "Livelli di contaminanti negli alimenti e nei mangimi"@it ;
+    skos:prefLabel "Рівні забруднюючих речовин у харчових продуктах і кормах"@ua ;
+    skos:prefLabel "Уровни загрязнителей в пищевых продуктах и корме"@ru ;
+    skos:prefLabel "食品和饲料中的污染物水平"@ch ;
+    skos:prefLabel "Niveaus van verontreinigende stoffen in voedsel en veevoeder"@nl .

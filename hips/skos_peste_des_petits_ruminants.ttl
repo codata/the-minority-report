@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:peste_des_petits_ruminants a skos:Concept ;
+    skos:prefLabel "Peste Des Petits Ruminants"@en ;
+    skos:definition "Peste des petits ruminants is a highly contagious and devastating disease of goats and sheep. The causative agent, Peste des petits ruminants virus, is a member of the genusMorbillivirus, FamilyParamyxoviridaeand OrderMononegavirales(adapted from FAO, no date and WOAH, 2024a)."@en ;
+    skos:prefLabel "Peste des petits ruminants"@fr ;
+    skos:prefLabel "Peste de los pequeños rumiantes"@es ;
+    skos:prefLabel "Peste dei piccoli ruminanti"@it ;
+    skos:prefLabel "Чума дрібної рогатої худоби"@ua ;
+    skos:prefLabel "小反刍动物瘟疫"@ch .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:wastewater a skos:Concept ;
+    skos:prefLabel "Wastewater"@en ;
+    skos:definition "Wastewater is regarded as a combination of one or more of the following materials: domestic effluent consisting of ‘blackwater’ (excreta, urine and faecal sludge, contaminants from pharmaceutical and personal care products) and ‘greywater’ (used water from washing and bathing); water from commercial establishments and institutions, including hospitals; industrial effluent, stormwater and other urban runoff; and agricultural, horticultural and aquaculture runoff (UNEP, 2023a)."@en ;
+    skos:prefLabel "eaux usées"@fr ;
+    skos:prefLabel "aguas residuales"@es ;
+    skos:prefLabel "acque reflue"@it ;
+    skos:prefLabel "стічні води"@ua ;
+    skos:prefLabel "сточные воды"@ru ;
+    skos:prefLabel "废水"@ch ;
+    skos:prefLabel "afvalwater"@nl .

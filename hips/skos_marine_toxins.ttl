@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:marine_toxins a skos:Concept ;
+    skos:prefLabel "Marine Toxins"@en ;
+    skos:definition "Marine toxins (biotoxins) are naturally occurring, toxic substances, mostly caused by certain types of marine organisms such as toxic algae, but also by bacteria. These toxins can accumulate in fish and shellfish, causing significant public health concerns due to their potential to cause a wide range of adverse health effects."@en ;
+    skos:prefLabel "Toxines marines"@fr ;
+    skos:prefLabel "Toxinas marinas"@es ;
+    skos:prefLabel "Tossine marine"@it ;
+    skos:prefLabel "Морські токсини"@ua ;
+    skos:prefLabel "Морские токсины"@ru ;
+    skos:prefLabel "海洋毒素"@ch ;
+    skos:prefLabel "Mariene toxines"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:wind a skos:Concept ;
+    skos:prefLabel "Wind"@en ;
+    skos:definition "Wind is air motion relative to the Earth’s surface. Unless otherwise specified, only the horizontal component is considered (WMO, 1992)."@en ;
+    skos:prefLabel "vent"@fr ;
+    skos:prefLabel "viento"@es ;
+    skos:prefLabel "vento"@it ;
+    skos:prefLabel "вітер"@ua ;
+    skos:prefLabel "ветер"@ru ;
+    skos:prefLabel "风"@ch ;
+    skos:prefLabel "wind"@nl .

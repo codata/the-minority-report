@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:suicide_cluster a skos:Concept ;
+    skos:prefLabel "Suicide Cluster"@en ;
+    skos:definition "The term ‘suicide cluster’ describes a situation in which more suicides than expected occur in terms of time, place, or both (PHE, 2019). Two types of suicide clusters can be distinguished (Joiner, 1999): clusters where suicides occur during a restricted time period and are related to actual or fictional media-related phenomena, and space-time clusters (or point clusters), where an unusually high number of suicides occur in a small geographical area, or institution, and over a relatively brief period of time (adapted from Joiner, 1999 and PHE, 2019)."@en ;
+    skos:prefLabel "Regroupement suicidaire"@fr ;
+    skos:prefLabel "clúster de suicidio"@es ;
+    skos:prefLabel "cluster di suicidio"@it ;
+    skos:prefLabel "кластер суїцидів"@ua ;
+    skos:prefLabel "Кластер самоубийств"@ru ;
+    skos:prefLabel "自杀集群"@ch ;
+    skos:prefLabel "suïcidecluster"@nl .

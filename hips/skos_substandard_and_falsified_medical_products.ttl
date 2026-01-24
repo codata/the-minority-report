@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:substandard_and_falsified_medical_products a skos:Concept ;
+    skos:prefLabel "Substandard and Falsified Medical Products"@en ;
+    skos:definition "Substandard and falsified medical products are defined as those that may cause harm to patients and fail to treat the diseases for which they were intended (WHO, 2018)."@en ;
+    skos:prefLabel "produits médicaux substandard et falsifiés"@fr ;
+    skos:prefLabel "Productos médicos subestándar y falsificados"@es ;
+    skos:prefLabel "Ліки неналежної якості та підроблені"@ua ;
+    skos:prefLabel "劣质和假冒医药产品"@ch ;
+    skos:prefLabel "substandard en vervalste medische producten"@nl .

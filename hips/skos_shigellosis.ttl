@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:shigellosis a skos:Concept ;
+    skos:prefLabel "Shigellosis"@en ;
+    skos:definition "Shigellosis is an acute invasive enteric infection caused by bacteria belonging to the genus Shigella and is estimated to cause at least 80 million cases of bloody diarrhoea and 700,000 deaths each year (WHO, 2005)."@en ;
+    skos:prefLabel "shigellose"@fr ;
+    skos:prefLabel "shigelosis"@es ;
+    skos:prefLabel "shigellosi"@it ;
+    skos:prefLabel "шигеллоз"@ua ;
+    skos:prefLabel "шигеллез"@ru ;
+    skos:prefLabel "志贺菌病"@ch ;
+    skos:prefLabel "shigellose"@nl .

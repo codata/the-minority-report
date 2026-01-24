@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:chemical_warfare_agents a skos:Concept ;
+    skos:prefLabel "Chemical Warfare Agents"@en ;
+    skos:definition "Chemical agents or ‘chemical warfare agents’ (chemical weapons) are chemicals, including dual -use chemicals, used to cause intentional death or harm through their toxic properties, and are a major public hazard. (OPCW, 2024a, b, c)."@en ;
+    skos:prefLabel "Agents de guerre chimique"@fr ;
+    skos:prefLabel "Agentes de guerra química"@es ;
+    skos:prefLabel "Agenti di guerra chimica"@it ;
+    skos:prefLabel "Хімічна зброя"@ua ;
+    skos:prefLabel "химические агенты войны"@ru ;
+    skos:prefLabel "化学战剂"@ch .

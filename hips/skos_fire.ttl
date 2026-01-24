@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:fire a skos:Concept ;
+    skos:prefLabel "Fire"@en ;
+    skos:definition "Fire-related technological incidents can be defined as accidental or intentional events that result in the actual or potential physical damage to property and exposure of responders and/or members of the public to a chemical hazard (adapted from WHO, no date)"@en ;
+    skos:prefLabel "incendie"@fr ;
+    skos:prefLabel "incendio"@es ;
+    skos:prefLabel "incendio"@it ;
+    skos:prefLabel "пожежа"@ua ;
+    skos:prefLabel "пожар"@ru ;
+    skos:prefLabel "火灾"@ch ;
+    skos:prefLabel "brand"@nl .

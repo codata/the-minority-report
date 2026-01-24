@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:snow_storm a skos:Concept ;
+    skos:prefLabel "Snow Storm"@en ;
+    skos:definition "A snow storm is a meteorological disturbance giving rise to a heavy fall of snow, often accompanied by strong winds (WMO, 1992)."@en ;
+    skos:prefLabel "tempête de neige"@fr ;
+    skos:prefLabel "tormenta de nieve"@es ;
+    skos:prefLabel "tempesta di neve"@it ;
+    skos:prefLabel "снігова буря"@ua ;
+    skos:prefLabel "снежная буря"@ru ;
+    skos:prefLabel "暴风雪"@ch ;
+    skos:prefLabel "sneeuwstorm"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:invasive_species_including_weeds a skos:Concept ;
+    skos:prefLabel "Invasive Species, Including Weeds"@en ;
+    skos:definition "‘Invasive species’, also known as ‘alien invasive species’, are species whose introduction, establishment and spread into new areas threaten ecosystems, habitats or other species and cause social, economic or environmental harm, or harm to human health (FAO, 2007:82)."@en ;
+    skos:prefLabel "Espèces envahissantes, y compris les mauvaises herbes"@fr ;
+    skos:prefLabel "Especies invasoras, incluidas las malezas"@es ;
+    skos:prefLabel "Specie invasive, incluse le erbe infestanti"@it ;
+    skos:prefLabel "Інвазивні види"@ua ;
+    skos:prefLabel "Инвазивные виды"@ru ;
+    skos:prefLabel "入侵物种"@ch ;
+    skos:prefLabel "Invasieve soorten"@nl .

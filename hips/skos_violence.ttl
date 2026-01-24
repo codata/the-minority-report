@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:violence a skos:Concept ;
+    skos:prefLabel "Violence"@en ;
+    skos:definition "Violence is a social phenomenon that involves forceful acts or behaviour that are intended to cause harm. The injury or damage inflicted by violence to an individual or collective group may be physical, psychological, sexual, or deprivation, or combined. Violence is both intentional and forceful (Adapted from Jacquette, 2013)."@en ;
+    skos:prefLabel "Violence"@fr ;
+    skos:prefLabel "Violencia"@es ;
+    skos:prefLabel "Violenza"@it ;
+    skos:prefLabel "Насильство"@ua ;
+    skos:prefLabel "Насилие"@ru ;
+    skos:prefLabel "暴力"@ch ;
+    skos:prefLabel "Geweld"@nl .

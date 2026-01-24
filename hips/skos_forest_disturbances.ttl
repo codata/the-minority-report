@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:forest_disturbances a skos:Concept ;
+    skos:prefLabel "Forest Disturbances"@en ;
+    skos:definition "Forest disturbance is the damage caused by any factor (biotic or abiotic) that adversely affects the vigour and productivity of the forest, and which is not a direct result of human activities. It includes disturbance by insect pests, diseases, severe weather events and fires (FAO, 2018; 2020)."@en ;
+    skos:prefLabel "disturbios forestales"@es ;
+    skos:prefLabel "Disturbi forestali"@it ;
+    skos:prefLabel "Лісові порушення"@ua ;
+    skos:prefLabel "Лесные нарушения"@ru ;
+    skos:prefLabel "森林扰动"@ch ;
+    skos:prefLabel "Bosverstoringen"@nl .

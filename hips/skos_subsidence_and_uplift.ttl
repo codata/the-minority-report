@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:subsidence_and_uplift a skos:Concept ;
+    skos:prefLabel "Subsidence and Uplift"@en ;
+    skos:definition "Subsidence is a lowering or collapse of the ground (BGS, 2020). Uplift is the converse."@en ;
+    skos:prefLabel "affaissement et soulèvement"@fr ;
+    skos:prefLabel "subsidencia y levantamiento"@es ;
+    skos:prefLabel "subsidenza e sollevamento"@it ;
+    skos:prefLabel "осідання та підняття"@ua ;
+    skos:prefLabel "оседание и поднятие"@ru ;
+    skos:prefLabel "沉降和隆起"@ch .

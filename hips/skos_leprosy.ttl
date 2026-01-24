@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:leprosy a skos:Concept ;
+    skos:prefLabel "Leprosy"@en ;
+    skos:definition "Leprosy is a curable infectious disease, endemic in many countries, caused by the bacteriumMycobacterium leprae(M. leprae). It mainly affects the skin, peripheral nerves, mucosa of the upper respiratory tract and eyes. Untreated, it can lead to permanent disability (adapted from WHO, 2025)."@en ;
+    skos:prefLabel "lèpre"@fr ;
+    skos:prefLabel "lepra"@es ;
+    skos:prefLabel "lepra"@it ;
+    skos:prefLabel "ліпра"@ua ;
+    skos:prefLabel "лепра"@ru ;
+    skos:prefLabel "麻风病"@ch ;
+    skos:prefLabel "lepra"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:pandemic_influenza_human a skos:Concept ;
+    skos:prefLabel "Pandemic Influenza (Human)"@en ;
+    skos:definition "Pandemic influenza is the worldwide spread of a new influenza virus to which there is little or no pre-existing immunity in the human population (WHO, 2019)."@en ;
+    skos:prefLabel "Grippe pandémique"@fr ;
+    skos:prefLabel "Influenza pandémica"@es ;
+    skos:prefLabel "Influenza pandemica"@it ;
+    skos:prefLabel "Пандемічний грип"@ua ;
+    skos:prefLabel "Пандемический грипп"@ru ;
+    skos:prefLabel "大流行性流感"@ch ;
+    skos:prefLabel "Pandemische griep"@nl .

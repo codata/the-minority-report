@@ -1,0 +1,11 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:drain_and_sewer_flooding a skos:Concept ;
+    skos:prefLabel "Drain and Sewer Flooding"@en ;
+    skos:definition "Drain and sewer flooding is said to occur when sewage or foul water leaks from the sewerage system (through pipes, drains or manholes) or floods up through toilets, sinks or showers inside a building (Priestly, 2016)."@en ;
+    skos:prefLabel "Inondation des réseaux d'assainissement"@fr ;
+    skos:prefLabel "Затопление дренажных систем и канализации"@ru ;
+    skos:prefLabel "排水和下水道洪水"@ch .

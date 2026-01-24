@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:polio a skos:Concept ;
+    skos:prefLabel "Polio"@en ;
+    skos:definition "Polio (human) is a highly infectious viral disease, which mainly affects young children, where 1 in 200 leads to irreversible paralysis and among those paralysed, 5–10% die when their breathing muscles become immobilized (WHO, 2025)."@en ;
+    skos:prefLabel "poliomyélite"@fr ;
+    skos:prefLabel "poliomielitis"@es ;
+    skos:prefLabel "poliomielite"@it ;
+    skos:prefLabel "поліомієліт"@ua ;
+    skos:prefLabel "полиомиелит"@ru ;
+    skos:prefLabel "脊髓灰质炎"@ch ;
+    skos:prefLabel "polio"@nl .

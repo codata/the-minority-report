@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:human_wildlife_conflict a skos:Concept ;
+    skos:prefLabel "Human-Wildlife Conflict"@en ;
+    skos:definition "Human-wildlife conflict is defined as struggles that emerge when the presence or behaviour of wildlife poses an actual or perceived, direct and recurring threat to human interests or needs, leading to disagreements between groups of people and negative impacts on people and/or wildlife (IUCN SSC, 2022)."@en ;
+    skos:prefLabel "Conflit humain-faune"@fr ;
+    skos:prefLabel "conflicto humano-fauna"@es ;
+    skos:prefLabel "Conflitto uomo-fauna"@it ;
+    skos:prefLabel "конфлікт людини та диких тварин"@ua ;
+    skos:prefLabel "Конфликт между человеком и дикой природой"@ru ;
+    skos:prefLabel "人类与野生动物冲突"@ch ;
+    skos:prefLabel "Mens-wildconflict"@nl .

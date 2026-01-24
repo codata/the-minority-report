@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:deforestation a skos:Concept ;
+    skos:prefLabel "Deforestation"@en ;
+    skos:definition "Deforestation is the conversion of forest to other land use independently of whether human-induced or not (FAO, 2023)."@en ;
+    skos:prefLabel "déforestation"@fr ;
+    skos:prefLabel "deforestación"@es ;
+    skos:prefLabel "deforestazione"@it ;
+    skos:prefLabel "вирубка лісів"@ua ;
+    skos:prefLabel "вырубка лесов"@ru ;
+    skos:prefLabel "森林砍伐"@ch ;
+    skos:prefLabel "ontbossing"@nl .

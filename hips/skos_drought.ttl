@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:drought a skos:Concept ;
+    skos:prefLabel "Drought"@en ;
+    skos:definition "A drought is a period of abnormally dry weather characterised by a prolonged deficiency of precipitation below a certain threshold over a large area and a period longer than a month (WMO, 2023)."@en ;
+    skos:prefLabel "sécheresse"@fr ;
+    skos:prefLabel "sequía"@es ;
+    skos:prefLabel "siccità"@it ;
+    skos:prefLabel "засуха"@ua ;
+    skos:prefLabel "засуха"@ru ;
+    skos:prefLabel "干旱"@ch ;
+    skos:prefLabel "droogte"@nl .

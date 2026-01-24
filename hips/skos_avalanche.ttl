@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:avalanche a skos:Concept ;
+    skos:prefLabel "Avalanche"@en ;
+    skos:definition "An avalanche is a mass of snow and ice falling suddenly down a mountain slope and often taking with it earth, rocks and rubble of every description (WMO, 1992)."@en ;
+    skos:prefLabel "avalanche"@fr ;
+    skos:prefLabel "avalancha"@es ;
+    skos:prefLabel "Avalanche"@it ;
+    skos:prefLabel "лавина"@ua ;
+    skos:prefLabel "лавина"@ru ;
+    skos:prefLabel "雪崩"@ch ;
+    skos:prefLabel "lawine"@nl .

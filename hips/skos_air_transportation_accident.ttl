@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:air_transportation_accident a skos:Concept ;
+    skos:prefLabel "Air Transportation Accident"@en ;
+    skos:definition "An air transportation accident is defined as an occurrence associated with the operation of an aircraft which takes place between the time any person boards the aircraft with the intention of flight until such time as all such persons have disembarked, in which one of the following applies: a person is fatally or seriously injured, the aircraft sustains damage or structural failure, and the aircraft is missing or is completely inaccessible (United Nations, European Union, the International Transport Forum at the OECD, 2019:119)."@en ;
+    skos:prefLabel "Accident de transport aérien"@fr ;
+    skos:prefLabel "accidente de aviación"@es ;
+    skos:prefLabel "Accidente di trasporto aereo"@it ;
+    skos:prefLabel "Авиационное происшествие"@ru ;
+    skos:prefLabel "航空运输事故"@ch ;
+    skos:prefLabel "Luchtvaartongeval"@nl .

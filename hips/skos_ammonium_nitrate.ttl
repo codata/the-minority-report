@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:ammonium_nitrate a skos:Concept ;
+    skos:prefLabel "Ammonium Nitr​​ate"@en ;
+    skos:definition "Ammonium nitrate (NH4NO3) is principally used as a high nitrogen content fertilizer in agricultural applications. It is also a major component of industrial explosives, and similar mixtures have been used as improvised explosive devices. Thousands of people have been killed in accidental ammonium nitrate explosions triggered either by a shock/explosion, or by fire spreading into a storage facility. Overuse as a fertilizer can lead to contamination of drinking water."@en ;
+    skos:prefLabel "nitrate d'ammonium"@fr ;
+    skos:prefLabel "nitrato de amonio"@es ;
+    skos:prefLabel "nitrato di ammonio"@it ;
+    skos:prefLabel "硝酸铵"@ch ;
+    skos:prefLabel "ammoniumnitraat"@nl .

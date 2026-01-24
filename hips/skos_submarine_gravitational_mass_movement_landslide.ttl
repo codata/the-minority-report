@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:submarine_gravitational_mass_movement_landslide a skos:Concept ;
+    skos:prefLabel "Submarine Gravitational Mass Movement (‘Landslide’)"@en ;
+    skos:definition "A submarine gravitational mass movement (‘Landslide’) is  the downslope movement of sediment or rock due to gravity, occurring when the downslope forces exceed the sediment's resistance to movement (Adapted from Lee et al., 2007)."@en ;
+    skos:prefLabel "glissement de masse sous-marin"@fr ;
+    skos:prefLabel "deslizamiento de masa submarino"@es ;
+    skos:prefLabel "Frana sottomarina"@it ;
+    skos:prefLabel "Підводний зсув"@ua ;
+    skos:prefLabel "Подводный оползень"@ru ;
+    skos:prefLabel "海底滑坡"@ch ;
+    skos:prefLabel "onderzeeme massabeweging"@nl .

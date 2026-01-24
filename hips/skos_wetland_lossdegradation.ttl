@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:wetland_lossdegradation a skos:Concept ;
+    skos:prefLabel "Wetland Loss/Degradation"@en ;
+    skos:definition "Wetland loss/degradation is a negative trend in wetland condition, caused by physical or direct/indirect human-induced processes, expressed as a long-term reduction or loss of at least one of the following: biological productivity, ecological role or value to humans (Olsson et al., 2019). Wetlands are defined as areas of marsh, fen, peatland or water, whether natural or artificial, permanent or temporary, with water that is static or flowing, fresh, brackish or salt, including areas of marine water the depth of which at low tide does not exceed six metres (Convention on Wetlands, 1971: Article 1.1). Wetlands may incorporate riparian and coastal zones adjacent to the wetlands, and islands or bodies of marine water deeper than six metres at low tide lying within the wetlands (Convention on Wetlands, 1971: Article 2.1)."@en ;
+    skos:prefLabel "Perte et dégradation des zones humides"@fr ;
+    skos:prefLabel "Pérdida y degradación de humedales"@es ;
+    skos:prefLabel "perdita o degradazione delle zone umide"@it ;
+    skos:prefLabel "Втрата та деградація водно-болотних угідь"@ua ;
+    skos:prefLabel "Потеря и деградация водно-болотных угодий"@ru ;
+    skos:prefLabel "湿地损失或退化"@ch ;
+    skos:prefLabel "Verlies en degradatie van wetlands"@nl .

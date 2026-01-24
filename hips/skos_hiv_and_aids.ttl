@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:hiv_and_aids a skos:Concept ;
+    skos:prefLabel "HIV and AIDS"@en ;
+    skos:definition "Human immunodeficiency virus (HIV) is a virus that attacks the body’s immune system. Acquired immunodeficiency syndrome (AIDS) occurs at the most advanced stage of infection. HIV targets the body’s white blood cells, weakening the immune system. This makes it easier to get sick with diseases like tuberculosis, infections and some cancers. HIV is spread from the body fluids of an infected person, including blood, breast milk, semen and vaginal fluids. WHO now defines Advanced HIV Disease (AHD) as CD4 cell count less than 200 cells/mm3 or WHO stage 3 or 4 in adults and adolescents. All children younger than 5 years of age living with HIV are considered to have advanced HIV disease (WHO, 2024a)."@en ;
+    skos:prefLabel "VIH et SIDA"@fr ;
+    skos:prefLabel "VIH y SIDA"@es ;
+    skos:prefLabel "VIH e SIDA"@it ;
+    skos:prefLabel "ВИЧ и СПИД"@ru ;
+    skos:prefLabel "艾滋病毒和艾滋病"@ch ;
+    skos:prefLabel "HIV en AIDS"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:space_hazard_accident a skos:Concept ;
+    skos:prefLabel "Space Hazard / Accident"@en ;
+    skos:definition "A space accident is any accident involving space objects that cause damage (adapted from UNGA, 1971)."@en ;
+    skos:prefLabel "accident spatial"@fr ;
+    skos:prefLabel "accidente espacial"@es ;
+    skos:prefLabel "incidente spaziale"@it ;
+    skos:prefLabel "космічна аварія"@ua ;
+    skos:prefLabel "космический инцидент"@ru ;
+    skos:prefLabel "太空事故"@ch ;
+    skos:prefLabel "ruimte-incident"@nl .

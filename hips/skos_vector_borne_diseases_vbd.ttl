@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:vector_borne_diseases_vbd a skos:Concept ;
+    skos:prefLabel "Vector-borne diseases (VBD)"@en ;
+    skos:definition "Vector-borne diseases encompass a variety of illnesses that are caused by the spread of pathogens by living organisms known as vectors. These infectious diseases can be transmitted via vectors among humans (e.g. malaria, dengue), among animals (e.g. African swine fever, East Coast fever), or from animals to humans (e.g. Nipah virus disease). Many of these vectors are bloodsucking insects, and mosquitoes are the best-known disease vectors. Other vectors include ticks, flies, sandflies, fleas, triatomine bugs and some species of freshwater aquatic snails (adapted from WOAH, 2024a; WHO, 2024)."@en ;
+    skos:prefLabel "maladies vectorielles"@fr ;
+    skos:prefLabel "enfermedades transmitidas por vectores"@es ;
+    skos:prefLabel "malattie trasmesse da vettori"@it ;
+    skos:prefLabel "векторно-переносні хвороби"@ua ;
+    skos:prefLabel "媒介传播疾病"@ch ;
+    skos:prefLabel "vectoroverdrachtige ziekten"@nl .

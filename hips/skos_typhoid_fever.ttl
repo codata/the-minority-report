@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:typhoid_fever a skos:Concept ;
+    skos:prefLabel "Typhoid Fever"@en ;
+    skos:definition "Typhoid fever is a life-threatening infection caused by the bacterium Salmonella typhi. It is usually spread through contaminated food or water. As of 2019 estimates, there are 9 million cases of typhoid fever annually, resulting in about 110 000 deaths per year. (WHO, 2023)."@en ;
+    skos:prefLabel "Fièvre typhoïde"@fr ;
+    skos:prefLabel "Fiebre tifoidea"@es ;
+    skos:prefLabel "Febbre tifoide"@it ;
+    skos:prefLabel "Тифоїдна хвороба"@ua ;
+    skos:prefLabel "брюшной тиф"@ru ;
+    skos:prefLabel "伤寒"@ch ;
+    skos:prefLabel "tyfus"@nl .

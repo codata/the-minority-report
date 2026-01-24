@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:glaze a skos:Concept ;
+    skos:prefLabel "Glaze"@en ;
+    skos:definition "Glaze is a smooth compact deposit of ice, generally transparent, formed by the freezing of super-cooled drizzle droplets or raindrops on objects with a surface temperature below or slightly above 0°C (WMO, 2017)."@en ;
+    skos:prefLabel "verglas"@fr ;
+    skos:prefLabel "escarcha"@es ;
+    skos:prefLabel "brina"@it ;
+    skos:prefLabel "глейз"@ua ;
+    skos:prefLabel "Обледовка"@ru ;
+    skos:prefLabel "glaz"@nl .

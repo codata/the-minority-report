@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:tropical_cyclone a skos:Concept ;
+    skos:prefLabel "Tropical Cyclone"@en ;
+    skos:definition "A tropical cyclone is a cyclone of tropical origin of small diameter (some hundreds of kilometres) with a minimum surface pressure in some cases of less than 900 hPa, very violent winds and torrential rain; sometimes accompanied by thunderstorms. It usually contains a central region, known as the 'eye' of the storm, with a diameter of the order of some tens of kilometres, and with light winds and a more or less lightly clouded sky (WMO, 2023)."@en ;
+    skos:prefLabel "cyclone tropical"@fr ;
+    skos:prefLabel "ciclón tropical"@es ;
+    skos:prefLabel "ciclone tropicale"@it ;
+    skos:prefLabel "тропічний циклон"@ua ;
+    skos:prefLabel "тропический циклон"@ru ;
+    skos:prefLabel "热带气旋"@ch ;
+    skos:prefLabel "tropische cycloon"@nl .

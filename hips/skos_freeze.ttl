@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:freeze a skos:Concept ;
+    skos:prefLabel "Freeze"@en ;
+    skos:definition "A freeze is an air temperature equal to or less than the freezing point of water (0°C) (adapted from WMO, 1992)."@en ;
+    skos:prefLabel "gel"@fr ;
+    skos:prefLabel "helada"@es ;
+    skos:prefLabel "замерзання"@ua ;
+    skos:prefLabel "мороз"@ru ;
+    skos:prefLabel "vorst"@nl .

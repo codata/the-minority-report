@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:rabies a skos:Concept ;
+    skos:prefLabel "Rabies"@en ;
+    skos:definition "Rabies is a serious public health problem in over 150 countries and territories. It is a viral zoonotic disease that affects the central nervous system and spreads from bites, licks, and scratches from infected mammals. It is almost always fatal when clinical signs appear, killing approximately 59,000 people every year (adapted from WHO, 2024a; and WOAH no date)."@en ;
+    skos:prefLabel "la rage"@fr ;
+    skos:prefLabel "la rabia"@es ;
+    skos:prefLabel "La rabbia"@it ;
+    skos:prefLabel "бешенство"@ru ;
+    skos:prefLabel "狂犬病"@ch .

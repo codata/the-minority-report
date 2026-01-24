@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:meteorite_impact a skos:Concept ;
+    skos:prefLabel "Meteorite Impact"@en ;
+    skos:definition "A meteorite is an object that survives a trip through Earth’s atmosphere and hits the ground (adapted from NASA, no date)."@en ;
+    skos:prefLabel "Impact de météorite"@fr ;
+    skos:prefLabel "Impacto de meteorito"@es ;
+    skos:prefLabel "Impatto di meteorite"@it ;
+    skos:prefLabel "Удар метеорита"@ua ;
+    skos:prefLabel "метеоритный удар"@ru ;
+    skos:prefLabel "陨石撞击"@ch ;
+    skos:prefLabel "Meteorietinslag"@nl .

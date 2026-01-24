@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:meningococcal_meningitis a skos:Concept ;
+    skos:prefLabel "Meningococcal Meningitis"@en ;
+    skos:definition "Meningococcal meningitis is a bacterial form of meningitis, a serious infection of the thin lining that surrounds the brain and spinal cord, that is caused by the bacteriumNeisseria meningitidis. Meningococcal meningitis has the potential to cause large-scale epidemics and is observed worldwide (adapted from WHO, 2025)."@en ;
+    skos:prefLabel "méningite méningococcique"@fr ;
+    skos:prefLabel "meningitis meningocócica"@es ;
+    skos:prefLabel "meningite meningococcica"@it ;
+    skos:prefLabel "менінгококовий менінгіт"@ua ;
+    skos:prefLabel "менингококковый менингит"@ru ;
+    skos:prefLabel "脑膜炎球菌性脑膜炎"@ch ;
+    skos:prefLabel "meningokokale meningitis"@nl .

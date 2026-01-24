@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:mining_hazards a skos:Concept ;
+    skos:prefLabel "Mining Hazards"@en ;
+    skos:definition "Mining hazards may cause major environmental and health impacts such as pollution of water bodies, degradation of forest resources, depletion of soil nutrients, destruction of wildlife habitat, and threats to human health. (adapted from UNDP and UN Environment, 2018)."@en ;
+    skos:prefLabel "Risques miniers"@fr ;
+    skos:prefLabel "Riesgos mineros"@es ;
+    skos:prefLabel "Rischi minerari"@it ;
+    skos:prefLabel "Гірничі ризики"@ua ;
+    skos:prefLabel "采矿危害"@ch ;
+    skos:prefLabel "Mijnbouwhazards"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:tuberculosis a skos:Concept ;
+    skos:prefLabel "Tuberculosis"@en ;
+    skos:definition "Tuberculosis (TB) is a curable bacterial infectious disease caused byMycobacterium tuberculosisthat most commonly affects the lungs. It causes national epidemics of varied severity worldwide. Forms of TB that are resistant to treatment - multi-drug-resistant TB (MDR-TB) and extensively drug-resistant TB (XDR-TB) - are public health crises and threaten health security worldwide (WHO, 2024)."@en ;
+    skos:prefLabel "tuberculose"@fr ;
+    skos:prefLabel "tuberculosis"@es ;
+    skos:prefLabel "tuberculosis"@it ;
+    skos:prefLabel "туберкульоз"@ua ;
+    skos:prefLabel "туберкулёз"@ru ;
+    skos:prefLabel "结核病"@ch ;
+    skos:prefLabel "tuberculose"@nl .

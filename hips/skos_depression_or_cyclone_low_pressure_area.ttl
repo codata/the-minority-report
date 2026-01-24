@@ -1,0 +1,12 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:depression_or_cyclone_low_pressure_area a skos:Concept ;
+    skos:prefLabel "Depression or Cyclone (Low Pressure Area)"@en ;
+    skos:definition "A depression or cyclone is a region of the atmosphere in which the pressure is lower than that of the surrounding region at the same level (WMO, 1992)."@en ;
+    skos:prefLabel "Dépression ou cyclone (zone de basse pression)"@fr ;
+    skos:prefLabel "Depressione o ciclone (area di bassa pressione)"@it ;
+    skos:prefLabel "Депрессия или Циклон"@ru ;
+    skos:prefLabel "Depressie of cycloon (laagdrukgebied)"@nl .

@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:radioactive_agents_material a skos:Concept ;
+    skos:prefLabel "Radioactive Agents & Material"@en ;
+    skos:definition "A substance or a material emitting, or related to the emission of, ionizing radiation (either in the form of electro-magnetic waves or particle radiation) is radioactive. Depending on the magnitude of exposure, the radioactive substance may affect human health; as such it is subject to regulatory control by national laws and national regulatory authorities. Radioactive material may also be a hazard to animal health, other forms of life and the environment (IAEA, 2018)."@en ;
+    skos:prefLabel "Agents et Matériaux radioactifs"@fr ;
+    skos:prefLabel "Agentes y materiales radioactivos"@es ;
+    skos:prefLabel "Agenti e materiali radioattivi"@it ;
+    skos:prefLabel "Радіоактивні агенти та матеріали"@ua ;
+    skos:prefLabel "放射性物质与材料"@ch .

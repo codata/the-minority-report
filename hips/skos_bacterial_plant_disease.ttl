@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:bacterial_plant_disease a skos:Concept ;
+    skos:prefLabel "Bacterial Plant Disease"@en ;
+    skos:definition "A bacterial plant disease is the occurrence of plant diseases caused by bacterial microorganisms over large areas with significant impacts on crop and forest productivity or natural habitat (adapted from FAO, 2018)."@en ;
+    skos:prefLabel "maladie bactérienne des plantes"@fr ;
+    skos:prefLabel "enfermedad bacteriana de las plantas"@es ;
+    skos:prefLabel "malattia batterica delle piante"@it ;
+    skos:prefLabel "Бактеріальні хвороби рослин"@ua ;
+    skos:prefLabel "Бактериальные болезни растений"@ru ;
+    skos:prefLabel "细菌性植物病害"@ch ;
+    skos:prefLabel "bacteriële plantenziekte"@nl .

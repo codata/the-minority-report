@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:locust_upsurge a skos:Concept ;
+    skos:prefLabel "Locust upsurge"@en ;
+    skos:definition "Widespread and heavy infestations of crops and natural vegetation by locusts causing significant threats to food security, livelihoods and natural habitats in multiple regions (adapted from FAO, 2009a)."@en ;
+    skos:prefLabel "plaga de langostas"@es ;
+    skos:prefLabel "Surto di locuste"@it ;
+    skos:prefLabel "спалах сарани"@ua ;
+    skos:prefLabel "Всплеск саранчи"@ru ;
+    skos:prefLabel "蝗灾"@ch .

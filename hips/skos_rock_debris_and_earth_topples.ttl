@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:rock_debris_and_earth_topples a skos:Concept ;
+    skos:prefLabel "Rock, debris and earth topples"@en ;
+    skos:definition "A topple is the forward rotation out of the slope of a mass of soil or rock about a point or axis below the center of gravity of the displaced mass (Cruden and Varnes, 1996)."@en ;
+    skos:prefLabel "volcamiento de rocas, escombros y suelo"@es ;
+    skos:prefLabel "crolli di roccia, detriti e terra"@it ;
+    skos:prefLabel "обвали гірських порід, уламків та ґрунту"@ua ;
+    skos:prefLabel "обрушения горных пород, обломков и земли"@ru ;
+    skos:prefLabel "rots-, brokstortels en grondstortels"@nl .

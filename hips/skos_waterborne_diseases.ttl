@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:waterborne_diseases a skos:Concept ;
+    skos:prefLabel "Waterborne Diseases"@en ;
+    skos:definition "Contaminated water and poor sanitation are linked to transmission of diseases such as cholera, diarrhoea, dysentery, hepatitis A, hepatitis E, typhoid and polio (adapted from WHO, 2023a and WHO, 2023b)."@en ;
+    skos:prefLabel "Maladies d'origine hydrique"@fr ;
+    skos:prefLabel "Enfermedades transmitidas por el agua"@es ;
+    skos:prefLabel "malattie trasmesse dall’acqua"@it ;
+    skos:prefLabel "Інфекційні хвороби, що передаються водним шляхом"@ua ;
+    skos:prefLabel "заболевания, передающиеся через воду"@ru ;
+    skos:prefLabel "水传播疾病"@ch ;
+    skos:prefLabel "Watergedragen ziekten"@nl .

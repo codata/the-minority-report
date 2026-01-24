@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:dam_failure a skos:Concept ;
+    skos:prefLabel "Dam Failure"@en ;
+    skos:definition "Dam failure is the uncontrolled release of water due to structural collapse, foundation instability, or overtopping, posing risks on people and property downstream (ICOLD, 2023, mentioned in Moreno-Rodenas et al., 2025)."@en ;
+    skos:prefLabel "défaillance d'un barrage"@fr ;
+    skos:prefLabel "fallo de presa"@es ;
+    skos:prefLabel "rottura della diga"@it ;
+    skos:prefLabel "прорыв плотины"@ru ;
+    skos:prefLabel "坝溃决"@ch ;
+    skos:prefLabel "Damfalen"@nl .

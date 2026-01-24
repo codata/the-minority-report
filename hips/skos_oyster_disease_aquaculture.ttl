@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:oyster_disease_aquaculture a skos:Concept ;
+    skos:prefLabel "Oyster Disease Aquaculture"@en ;
+    skos:definition "There are a number of causal agents recognised for oyster diseases. Examples of major oyster diseases and their causal protozoan agents are: bonamiosis (Bonamia exitiosa, B. ostreae); marteiliosis (Marteilia refringens); perkinsosis (Perkinsus marinus, P. olseni). These oyster diseases are notifiable OIE-listed diseases and occur worldwide (WOAH, 2024a)."@en ;
+    skos:prefLabel "Maladies des huîtres en aquaculture"@fr ;
+    skos:prefLabel "Enfermedades de las ostras en acuicultura"@es ;
+    skos:prefLabel "Malattie delle ostriche nell'acquicoltura"@it ;
+    skos:prefLabel "захворювання устриць у аквакультурі"@ua ;
+    skos:prefLabel "牡蛎疾病在水产养殖中"@ch .

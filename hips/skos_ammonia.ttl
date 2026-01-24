@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:ammonia a skos:Concept ;
+    skos:prefLabel "Ammonia"@en ;
+    skos:definition "Ammonia (NH3) is a colourless acrid-smelling reactive gas at ambient temperature and pressure and is considered a significant public health hazard (WHO, 1986; PHE, 2019)."@en ;
+    skos:prefLabel "ammoniaque"@fr ;
+    skos:prefLabel "amoníaco"@es ;
+    skos:prefLabel "ammoniaca"@it ;
+    skos:prefLabel "амоніак"@ua ;
+    skos:prefLabel "аммиак"@ru ;
+    skos:prefLabel "氨"@ch ;
+    skos:prefLabel "ammoniak"@nl .

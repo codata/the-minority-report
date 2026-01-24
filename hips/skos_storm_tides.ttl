@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:storm_tides a skos:Concept ;
+    skos:prefLabel "Storm Tides"@en ;
+    skos:definition "A storm tide is the actual sea level as influenced by a weather disturbance. The storm tide consists of the normal astronomical tide plus the storm surge (WMO, 2017)."@en ;
+    skos:prefLabel "marées de tempête"@fr ;
+    skos:prefLabel "maree di tempesta"@it ;
+    skos:prefLabel "штормові приливи"@ua ;
+    skos:prefLabel "штормовые нагоны"@ru ;
+    skos:prefLabel "风暴潮"@ch ;
+    skos:prefLabel "stormtijden"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:pertussis_human a skos:Concept ;
+    skos:prefLabel "Pertussis (Human)"@en ;
+    skos:definition "Pertussis is a highly contagious disease, which can be fatal, of the respiratory tract caused by the bacteriumBordetella pertussis(WHO, no date a)."@en ;
+    skos:prefLabel "la coqueluche"@fr ;
+    skos:prefLabel "Pertussis"@es ;
+    skos:prefLabel "Pertosse"@it ;
+    skos:prefLabel "Кашлюк"@ua ;
+    skos:prefLabel "Коклюш"@ru ;
+    skos:prefLabel "百日咳"@ch ;
+    skos:prefLabel "Kinkhoest"@nl .

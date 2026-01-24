@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:bloodborne_viruses a skos:Concept ;
+    skos:prefLabel "Bloodborne Viruses"@en ;
+    skos:definition "Bloodborne viruses are viruses transmitted by direct contact with infected blood or other body fluids (adapted from WHO, 2023)."@en ;
+    skos:prefLabel "virus de transmisión sanguínea"@es ;
+    skos:prefLabel "Virus trasmissibili per mezzo del sangue"@it ;
+    skos:prefLabel "Віруси, що передаються через кров"@ua ;
+    skos:prefLabel "Вирусы, передаваемые через кровь"@ru ;
+    skos:prefLabel "血源性病毒"@ch ;
+    skos:prefLabel "bloedoverdraagbare virussen"@nl .

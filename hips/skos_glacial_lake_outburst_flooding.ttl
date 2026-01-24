@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:glacial_lake_outburst_flooding a skos:Concept ;
+    skos:prefLabel "Glacial Lake Outburst Flooding"@en ;
+    skos:definition "A ‘glacial lake outburst flood’ is a phrase used to describe a sudden release of a significant amount of water retained in a glacial lake, irrespective of the cause (Emmer, 2017)."@en ;
+    skos:prefLabel "Inondation par rupture de barrage glaciaire"@fr ;
+    skos:prefLabel "inondazione di rottura di lago glaciale"@it ;
+    skos:prefLabel "Повені з прориву льодовикових озер"@ua ;
+    skos:prefLabel "冰川湖溃决洪水"@ch ;
+    skos:prefLabel "Gletsjermeeruitbarstings overstromingen"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:inland_water_ways_transportation_accident a skos:Concept ;
+    skos:prefLabel "Inland Water Ways Transportation Accident"@en ;
+    skos:definition "An inland waterway transportation accident is an unwanted or unintended sudden event or a specific chain of such events occurring in connection with inland water vessel operations, which have harmful consequences (United Nations, European Union and the International Transport Forum at the OECD, 2019)."@en ;
+    skos:prefLabel "Accident de transport fluvial"@fr ;
+    skos:prefLabel "Accidente en vías fluviales interiores"@es ;
+    skos:prefLabel "Incidente di trasporto per vie interne"@it ;
+    skos:prefLabel "Аварія на внутрішніх водних шляхах"@ua ;
+    skos:prefLabel "авария на внутренних водных путях"@ru ;
+    skos:prefLabel "内河航运事故"@ch ;
+    skos:prefLabel "Ongeval op binnenwaterwegen"@nl .

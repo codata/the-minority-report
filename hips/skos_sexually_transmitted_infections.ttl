@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:sexually_transmitted_infections a skos:Concept ;
+    skos:prefLabel "Sexually Transmitted Infections"@en ;
+    skos:definition "Sexually transmitted infections are transmitted through sexual contact, including vaginal, anal and oral sex and some can also be transmitted from mother-to-child during pregnancy, childbirth and breastfeeding (WHO, 2024)."@en ;
+    skos:prefLabel "Infections sexuellement transmissibles"@fr ;
+    skos:prefLabel "Infecciones de transmisión sexual"@es ;
+    skos:prefLabel "Infezioni sessualmente trasmissibili"@it ;
+    skos:prefLabel "Інфекції, що передаються статевим шляхом"@ua ;
+    skos:prefLabel "Инфекции, передающиеся половым путем"@ru ;
+    skos:prefLabel "性传播疾病"@ch ;
+    skos:prefLabel "sexueel overdraagbare infecties"@nl .

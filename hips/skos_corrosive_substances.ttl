@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:corrosive_substances a skos:Concept ;
+    skos:prefLabel "Corrosive Substances"@en ;
+    skos:definition "Corrosive substances are materials, such as strong acids and strong bases, that, through chemical reactions, cause visible destruction of biological tissues, and other materials. Acids are substances that have a high tendency to donate protons when completely dissociating into ions in water; whereas strong bases are substances that accept protons when completely dissociating into ions in water. Both are highly corrosive and catalyse the decomposition of biological molecules. (Burrows et al., 2021)"@en ;
+    skos:prefLabel "Substances corrosives"@fr ;
+    skos:prefLabel "Sustancias corrosivas"@es ;
+    skos:prefLabel "Sostanze corrosive"@it ;
+    skos:prefLabel "Корозійні речовини"@ua ;
+    skos:prefLabel "Коррозионные вещества"@ru ;
+    skos:prefLabel "腐蚀性物质"@ch ;
+    skos:prefLabel "Corrosieve stoffen"@nl .

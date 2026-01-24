@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:hail a skos:Concept ;
+    skos:prefLabel "Hail"@en ;
+    skos:definition "Hail is precipitation in the form of particles of ice (hailstones). These can be either transparent or partly or completely opaque. They are usually spheroidal, conical or irregular in form, and generally 5−50 mm in diameter. The particles may fall from a cloud either separately or agglomerated in irregular lumps (WMO, 2017)."@en ;
+    skos:prefLabel "grêle"@fr ;
+    skos:prefLabel "granizo"@es ;
+    skos:prefLabel "grandine"@it ;
+    skos:prefLabel "град"@ua ;
+    skos:prefLabel "град"@ru ;
+    skos:prefLabel "冰雹"@ch ;
+    skos:prefLabel "hagel"@nl .

@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:data_breach_pii_breach a skos:Concept ;
+    skos:prefLabel "Data Breach & PII Breach"@en ;
+    skos:definition "A data breach occurs when the data for which a company/organisation is responsible suffers a security incident resulting in a breach of confidentiality, availability or integrity (European Commission, no date)."@en ;
+    skos:prefLabel "Violación de datos y violación de datos personales"@es ;
+    skos:prefLabel "Violazione dei dati e violazione dei dati personali"@it ;
+    skos:prefLabel "Порушення даних та порушення особистих даних"@ua ;
+    skos:prefLabel "数据泄露和个人身份信息泄露"@ch ;
+    skos:prefLabel "Gegevensinbreuk"@nl .

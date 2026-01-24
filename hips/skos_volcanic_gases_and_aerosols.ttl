@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:volcanic_gases_and_aerosols a skos:Concept ;
+    skos:prefLabel "Volcanic Gases and Aerosols"@en ;
+    skos:definition "Volcanic gas includes any gas-phase substance that is emitted by volcanic or volcanic-geothermal activity. Volcanic aerosols include liquid or solid particles that are small enough to be suspended in the air, and that are emitted by volcanic or volcanic-geothermal activity (adapted from Baxter and Horwell, 2015, Fischer and Chiodini, 2015, and Williams-Jones and Rymer ,2015)."@en ;
+    skos:prefLabel "Gaz volcaniques et aérosols volcaniques"@fr ;
+    skos:prefLabel "gases volcánicos y aerosoles"@es ;
+    skos:prefLabel "Gas vulcanici e aerosol vulcanici"@it ;
+    skos:prefLabel "вулканічні гази та аерозолі"@ua ;
+    skos:prefLabel "вулканические газы и аэрозоли"@ru ;
+    skos:prefLabel "火山气体和气溶胶"@ch ;
+    skos:prefLabel "Vulkanische gassen en aerosolen"@nl .

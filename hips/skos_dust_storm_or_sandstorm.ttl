@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:dust_storm_or_sandstorm a skos:Concept ;
+    skos:prefLabel "Dust storm or Sandstorm"@en ;
+    skos:definition "A dust storm is an ensemble of particles of dust or sand energetically lifted to great heights by a strong and turbulent wind (WMO, 2017)."@en ;
+    skos:prefLabel "tempête de sable"@fr ;
+    skos:prefLabel "tormenta de arena"@es ;
+    skos:prefLabel "tempesta di polvere e Sabbia"@it ;
+    skos:prefLabel "пилова буря"@ua ;
+    skos:prefLabel "пыльная буря"@ru ;
+    skos:prefLabel "沙尘暴"@ch ;
+    skos:prefLabel "zandstorm"@nl .

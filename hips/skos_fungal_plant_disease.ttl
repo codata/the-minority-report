@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:fungal_plant_disease a skos:Concept ;
+    skos:prefLabel "Fungal Plant Disease"@en ;
+    skos:definition "Fungal plant disease is the occurrence of plant diseases caused by fungal agents over large areas with significant impacts on crop productivity or natural habitats (adapted from Arneson, 2001 and Moore et al., 2019)."@en ;
+    skos:prefLabel "maladie fongique des plantes"@fr ;
+    skos:prefLabel "malattia fungina delle piante"@it ;
+    skos:prefLabel "грибкові хвороби рослин"@ua ;
+    skos:prefLabel "грибковые болезни растений"@ru ;
+    skos:prefLabel "植物真菌病"@ch ;
+    skos:prefLabel "Schimmelziekte van planten"@nl .

@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:icing_including_ice a skos:Concept ;
+    skos:prefLabel "Icing (Including Ice)"@en ;
+    skos:definition "Icing refers to any deposit or coating of ice on an object caused by the impact of liquid hydrometeors, usually supercooled (WMO, 1992)."@en ;
+    skos:prefLabel "escarcha"@es ;
+    skos:prefLabel "brina"@it ;
+    skos:prefLabel "обледеніння (включаючи лід)"@ua ;
+    skos:prefLabel "обледенение (включая лед)"@ru ;
+    skos:prefLabel "结冰"@ch ;
+    skos:prefLabel "ijsvorming"@nl .

@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:paratyphoid_fever a skos:Concept ;
+    skos:prefLabel "Paratyphoid fever"@en ;
+    skos:definition "Paratyphoid fever results from systemic infection with Salmonella enterica serotype Paratyphi. It is characterised by febrile illness and, in severe cases, gastrointestinal bleeding, altered mental status, intestinal perforation, and death (IHME 2021)."@en ;
+    skos:prefLabel "fièvre paratyphoïde"@fr ;
+    skos:prefLabel "fiebre paratifoidea"@es ;
+    skos:prefLabel "febbre paratifoidea"@it ;
+    skos:prefLabel "паратифоїдна лихоманка"@ua ;
+    skos:prefLabel "паратифоидная лихорадка"@ru ;
+    skos:prefLabel "副伤寒"@ch .

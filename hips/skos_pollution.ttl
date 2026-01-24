@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:pollution a skos:Concept ;
+    skos:prefLabel "Pollution"@en ;
+    skos:definition "Pollution is the presence of substances and heat in environmental media (air, water, land) whose nature, location, or quantity produces undesirable environmental effects; and the activities that generates pollutants. (UN data, no date)."@en ;
+    skos:prefLabel "pollution"@fr ;
+    skos:prefLabel "contaminación"@es ;
+    skos:prefLabel "inquinamento"@it ;
+    skos:prefLabel "забруднення"@ua ;
+    skos:prefLabel "загрязнение"@ru ;
+    skos:prefLabel "污染"@ch ;
+    skos:prefLabel "Verontreiniging"@nl .

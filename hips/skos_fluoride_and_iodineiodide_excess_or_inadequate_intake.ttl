@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:fluoride_and_iodineiodide_excess_or_inadequate_intake a skos:Concept ;
+    skos:prefLabel "Fluoride and Iodine/Iodide Excess or Inadequate Intake"@en ;
+    skos:definition "Fluoride is a naturally occurring mineral to which the public are often exposed via drinking water. Depending on dose intake, fluoride may have both beneficial effects (reducing the incidence of dental caries) or negative effects (causing tooth enamel and skeletal fluorosis following prolonged high exposure) (adapted from NCBI, 2020 and WHO, no date). Some water supplies are fluoridated in order to achieve improved dental health."@en ;
+    skos:prefLabel "Excès ou insuffisance d'apport en fluorure et iode/iodure"@fr ;
+    skos:prefLabel "Exceso o insuficiencia de ingesta de fluoruro e yodo/ioduro"@es ;
+    skos:prefLabel "Eccesso o insufficiente assunzione di fluoro e iodio/ioduro"@it ;
+    skos:prefLabel "氟化物和碘/碘化物过量或摄入不足"@ch ;
+    skos:prefLabel "Overmaat of onvoldoende inname van fluoride en ijood/iodide"@nl .

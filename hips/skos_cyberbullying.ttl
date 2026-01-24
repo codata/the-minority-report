@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:cyberbullying a skos:Concept ;
+    skos:prefLabel "Cyberbullying"@en ;
+    skos:definition "Cyberbullying is bullying that takes place using digital devices such as cell/mobile phones, computers, and tablets. Cyberbullying can occur through SMS, e-mail, apps, social media, forums, or gaming when people view, participate in, or share content. Cyberbullying includes the deliberate sending, posting, or sharing of negative, harmful, false, or mean content about someone else. It can include sharing personal or private information about someone else causing embarrassment or humiliation. Some cyberbullying may also be unlawful or criminal behaviour (adapted from UNICEF, no date; PHE, 2014; US Government, no date)."@en ;
+    skos:prefLabel "Cyberintimidation"@fr ;
+    skos:prefLabel "ciberacoso"@es ;
+    skos:prefLabel "cyberbullismo"@it ;
+    skos:prefLabel "кібербулінг"@ua ;
+    skos:prefLabel "кибербуллинг"@ru ;
+    skos:prefLabel "网络霸凌"@ch ;
+    skos:prefLabel "cyberpesten"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:frost_hoar_frost a skos:Concept ;
+    skos:prefLabel "Frost (Hoar Frost)"@en ;
+    skos:definition "A hoar frost is a deposit of ice produced by the deposition of water vapour from the surrounding air and is generally crystalline in appearance (WMO, 2017)."@en ;
+    skos:prefLabel "givre"@fr ;
+    skos:prefLabel "Escarcha"@es ;
+    skos:prefLabel "brina"@it ;
+    skos:prefLabel "іній"@ua ;
+    skos:prefLabel "Порошковый иней"@ru ;
+    skos:prefLabel "霜"@ch ;
+    skos:prefLabel "Rauwslag"@nl .

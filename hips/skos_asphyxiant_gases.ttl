@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:asphyxiant_gases a skos:Concept ;
+    skos:prefLabel "Asphyxiant ​​Gases"@en ;
+    skos:definition "Asphyxiant gases are gases that can cause unconsciousness or death by suffocation by displacing oxygen from air. Asphyxiant gases that have no other health effects are considered as simple asphyxiants. Simple asphyxiant gases become harmful to humans at high concentrations by lowering the percentage of oxygen in air (regularly present at 21%) to 19.5% or lower. (CCOHS, 2024)"@en ;
+    skos:prefLabel "Gaz asphyxiants"@fr ;
+    skos:prefLabel "Gases asfixiantes"@es ;
+    skos:prefLabel "Gas asfissianti"@it ;
+    skos:prefLabel "Асфіксуючі гази"@ua ;
+    skos:prefLabel "窒息性气体"@ch ;
+    skos:prefLabel "asphyxerende gassen"@nl .

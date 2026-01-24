@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:cadmium a skos:Concept ;
+    skos:prefLabel "Cadmium"@en ;
+    skos:definition "Cadmium is a toxic heavy metal which is widely distributed in the Earth’s crust (soil and rocks), air and water; however, human activity has greatly increased levels in environmental media relevant to population exposure. Human exposure to cadmium represents a major public health concern as it has been associated with a range of acute and long-term adverse health effects and diseases (WHO, 2019)."@en ;
+    skos:prefLabel "cadmium"@fr ;
+    skos:prefLabel "cadmio"@es ;
+    skos:prefLabel "cadmio"@it ;
+    skos:prefLabel "Кадмій"@ua ;
+    skos:prefLabel "кадмий"@ru ;
+    skos:prefLabel "镉"@ch ;
+    skos:prefLabel "cadmium"@nl .

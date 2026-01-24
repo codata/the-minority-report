@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:contagious_caprine_pleuropneumonia_ccpp a skos:Concept ;
+    skos:prefLabel "Contagious Caprine Pleuropneumonia (CCPP)"@en ;
+    skos:definition "Contagious caprine pleuropneumonia (CCPP) is a disease affecting goats and some wild ruminant species, caused byMycoplasma capricolum subsp. capripneumoniae(Mccp). In goats, it is manifested by anorexia, fever and respiratory signs such as dyspnoea, polypnea, cough and nasal discharges. The acute and subacute disease is characterised by unilateral serofibrinous pleuropneumonia with severe pleural effusion. (Adapted from WOAH, 2021)."@en ;
+    skos:prefLabel "Pneumonie pleuropneumonique contagieuse caprine"@fr ;
+    skos:prefLabel "Pneumonía pleuropneumonia contagiosa caprina (PPC)"@es ;
+    skos:prefLabel "Pleuropneumonia contagiosa caprina"@it ;
+    skos:prefLabel "Контагиозная плевропневмония коз"@ru ;
+    skos:prefLabel "传染性山羊肺膜肺炎"@ch .

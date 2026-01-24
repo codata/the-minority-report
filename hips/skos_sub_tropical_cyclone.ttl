@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:sub_tropical_cyclone a skos:Concept ;
+    skos:prefLabel "Sub-Tropical Cyclone"@en ;
+    skos:definition "A subtropical cyclone is a non-frontal, low-pressure system that has characteristics of both tropical and extra-tropical cyclones. Like tropical cyclones, they are non-frontal, synoptic-scale cyclones that originate over tropical or subtropical waters and have a closed surface wind circulation about a well-defined centre (WMO, 2024 a)."@en ;
+    skos:prefLabel "cyclone subtropical"@fr ;
+    skos:prefLabel "ciclón subtropical"@es ;
+    skos:prefLabel "ciclone subtropicale"@it ;
+    skos:prefLabel "субтропічний циклон"@ua ;
+    skos:prefLabel "субтропический циклон"@ru ;
+    skos:prefLabel "亚热带气旋"@ch ;
+    skos:prefLabel "subtropische cycloon"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:electronic_waste_e_waste a skos:Concept ;
+    skos:prefLabel "Electronic Waste (E-Waste)"@en ;
+    skos:definition "Electrical and electronic waste, or E-waste, refers to electrical or electronic equipment that is waste, including all components, sub-assemblies and consumables that are part of the equipment at the time the equipment becomes waste (UNEP, 2019a)."@en ;
+    skos:prefLabel "déchets électroniques"@fr ;
+    skos:prefLabel "residuos electrónicos"@es ;
+    skos:prefLabel "rifiuti elettronici"@it ;
+    skos:prefLabel "Електронні відходи"@ua ;
+    skos:prefLabel "Электронные отходы"@ru ;
+    skos:prefLabel "电子废弃物"@ch ;
+    skos:prefLabel "Elektrisch en elektronisch afval"@nl .

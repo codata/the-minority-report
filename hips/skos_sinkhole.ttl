@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:sinkhole a skos:Concept ;
+    skos:prefLabel "Sinkhole"@en ;
+    skos:definition "Sinkholes (also known as dolines) are depressions or holes in the ground caused by the dissolution, collapse or erosion of rock below the landsurface. This is one of several hazards that result in subsidence, i.e., lowering or collapse of the ground (adapted from USGS, no date; and BGS, no date)."@en ;
+    skos:prefLabel "doline"@fr ;
+    skos:prefLabel "dolina"@es ;
+    skos:prefLabel "dolina"@it ;
+    skos:prefLabel "карстова воронка"@ua ;
+    skos:prefLabel "карстовая воронка"@ru ;
+    skos:prefLabel "天坑"@ch ;
+    skos:prefLabel "sinkhole"@nl .

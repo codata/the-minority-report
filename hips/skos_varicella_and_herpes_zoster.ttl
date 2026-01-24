@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:varicella_and_herpes_zoster a skos:Concept ;
+    skos:prefLabel "Varicella and herpes zoster"@en ;
+    skos:definition "Varicella is an acute, highly contagious disease caused by varicella- zoster virus. Following infection, the virus remains latent in neural ganglia and in about 10-20% of cases it is reactivated to cause herpes zoster, or shingles, generally in persons over 50 years of age or immunocompromised individuals. (WHO, no date)."@en ;
+    skos:prefLabel "Varicelle et zona"@fr ;
+    skos:prefLabel "Varicela y herpes zóster"@es ;
+    skos:prefLabel "Varicella e herpes zoster"@it ;
+    skos:prefLabel "Варіцелла та герпес-зостер"@ua ;
+    skos:prefLabel "Ветряная оспа и опоясывающий лишай"@ru ;
+    skos:prefLabel "水痘和带状疱疹"@ch ;
+    skos:prefLabel "Waterpokken en gordelroos"@nl .

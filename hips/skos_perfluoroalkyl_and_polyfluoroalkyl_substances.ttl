@@ -1,0 +1,11 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:perfluoroalkyl_and_polyfluoroalkyl_substances a skos:Concept ;
+    skos:prefLabel "Perfluoroalkyl and Polyfluoroalkyl Substances"@en ;
+    skos:definition "Polyfluoroalkyl substances (PFAS) are a large family of chemicals in which ​multiple fluorine atoms are attached to an alkyl chain within a molecule​. If all possible sites of an alkyl chain are occupied by fluorine atoms, the substance may also be referred to as a perfluoroalkyl substance as in perfluorooctanoic acid (PFOA) or perfluorooctanesulfonic acid (PFOS). (WHO, 2023)."@en ;
+    skos:prefLabel "Sustancias per- y polifluoroalquílicas"@es ;
+    skos:prefLabel "Пер- и полифторалкильные вещества"@ru ;
+    skos:prefLabel "全氟烷基与多氟烷基物质"@ch .

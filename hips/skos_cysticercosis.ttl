@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:cysticercosis a skos:Concept ;
+    skos:prefLabel "Cysticercosis"@en ;
+    skos:definition "Cysticercosis is a preventable infection in humans and pigs caused by the larval stages of the parasiteTaenia solium(pork tapeworm). Human cysticercosis can result in devastating effects when the larvae are located in the central nervous system, resulting in neurocysticercosis which may cause convulsions and epileptic seizures and can be fatal. It is the main cause of preventable epilepsy where the parasite is present, and it is estimated to affect between 2.56 and 8.30 million people (adapted from WHO, 2023)."@en ;
+    skos:prefLabel "cysticercose"@fr ;
+    skos:prefLabel "cisticercosis"@es ;
+    skos:prefLabel "cisticercosi"@it ;
+    skos:prefLabel "цистицеркоз"@ua ;
+    skos:prefLabel "цистицеркоз"@ru ;
+    skos:prefLabel "囊虫病"@ch ;
+    skos:prefLabel "cysticercose"@nl .

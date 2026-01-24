@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:pyroclastic_density_current a skos:Concept ;
+    skos:prefLabel "Pyroclastic Density Current"@en ;
+    skos:definition "Pyroclastic density currents are hot, fast-moving mixtures of volcanic particles and gas that flow according to their density relative to the surrounding medium and the Earth's gravity. They typically originate from the gravitational collapse of explosive eruption columns, lava domes or lava-flow fronts, and explosive lateral blasts (cf. Charbonnier et al., 2025)."@en ;
+    skos:prefLabel "courant de densité pyroclastique"@fr ;
+    skos:prefLabel "corriente de densidad piroclástica"@es ;
+    skos:prefLabel "corrente di densità piroclastica"@it ;
+    skos:prefLabel "Пірокластичний потік"@ua ;
+    skos:prefLabel "Пирокластический плотностный поток"@ru ;
+    skos:prefLabel "火山碎屑密度流"@ch ;
+    skos:prefLabel "pyroclastische dichtheidsstroom"@nl .

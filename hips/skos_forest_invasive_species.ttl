@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:forest_invasive_species a skos:Concept ;
+    skos:prefLabel "Forest Invasive Species"@en ;
+    skos:definition "Forest invasive species are any species that are non-native to a particular forest ecosystem and whose introduction and spread cause, or are likely to cause, socio-cultural, economic or environmental harm, or harm to human health (adapted from FAO, 2015)."@en ;
+    skos:prefLabel "Espèces invasives forestières"@fr ;
+    skos:prefLabel "Especies invasoras forestales"@es ;
+    skos:prefLabel "specie invasive forestali"@it ;
+    skos:prefLabel "лісові інвазивні види"@ua ;
+    skos:prefLabel "Лесные инвазивные виды"@ru ;
+    skos:prefLabel "森林入侵物种"@ch ;
+    skos:prefLabel "invasieve bossoorten"@nl .

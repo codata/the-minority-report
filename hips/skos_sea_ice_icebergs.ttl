@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:sea_ice_icebergs a skos:Concept ;
+    skos:prefLabel "Sea Ice (Icebergs)"@en ;
+    skos:definition "Sea ice is any form of ice found at sea (WMO, 2015)."@en ;
+    skos:prefLabel "glace de mer"@fr ;
+    skos:prefLabel "hielo marino"@es ;
+    skos:prefLabel "ghiaccio marino"@it ;
+    skos:prefLabel "морський лід"@ua ;
+    skos:prefLabel "морской лёд"@ru ;
+    skos:prefLabel "海冰"@ch ;
+    skos:prefLabel "zee-ijs"@nl .

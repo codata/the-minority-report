@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:freezing_rain_ice_storm a skos:Concept ;
+    skos:prefLabel "Freezing Rain (Ice storm)"@en ;
+    skos:definition "Freezing rain is rain where the temperature of the water droplets is below 0°C. Drops of supercooled rain may freeze on impact with the ground, in-flight aircraft or other objects (WMO, 2017)."@en ;
+    skos:prefLabel "pluie verglaçante"@fr ;
+    skos:prefLabel "lluvia helada"@es ;
+    skos:prefLabel "pioggia gelata"@it ;
+    skos:prefLabel "замерзший дождь"@ru ;
+    skos:prefLabel "冻雨"@ch ;
+    skos:prefLabel "ijzel"@nl .

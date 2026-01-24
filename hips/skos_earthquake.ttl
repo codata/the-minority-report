@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:earthquake a skos:Concept ;
+    skos:prefLabel "Earthquake"@en ;
+    skos:definition "Earthquake is a term used to describe the sudden slip on a fault and the ground shaking that occurs from the radiated seismic energy during the slipping event. The sudden slip can be caused by stress changes in the earth or volcanic/magmatic activity (USGS, no date)."@en ;
+    skos:prefLabel "séisme"@fr ;
+    skos:prefLabel "terremoto"@es ;
+    skos:prefLabel "terremoto"@it ;
+    skos:prefLabel "землетрус"@ua ;
+    skos:prefLabel "землетрясение"@ru ;
+    skos:prefLabel "地震"@ch ;
+    skos:prefLabel "aardbeving"@nl .

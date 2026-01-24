@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:saltwater_intrusion a skos:Concept ;
+    skos:prefLabel "Saltwater Intrusion"@en ;
+    skos:definition "Seawater intrusion is the process by which saltwater infiltrates a coastal aquifer, leading to contamination of fresh groundwater (Prince Edward Island Department of Environment, Labour and Justice, 2011)."@en ;
+    skos:prefLabel "intrusion saline"@fr ;
+    skos:prefLabel "intrusión salina"@es ;
+    skos:prefLabel "intrusione salina"@it ;
+    skos:prefLabel "засолення ґрунтових вод"@ua ;
+    skos:prefLabel "проникновение соленой воды"@ru ;
+    skos:prefLabel "海水入侵"@ch ;
+    skos:prefLabel "zoutwaterintrusie"@nl .

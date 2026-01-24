@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:rift_valley_fever a skos:Concept ;
+    skos:prefLabel "Rift Valley Fever"@en ;
+    skos:definition "Rift Valley fever (RVF) is an acute haemorrhagic viral disease, affecting small and large ruminants and camels. RVF virus is a member of thePhlebovirusgenus. The disease causes high mortality, especially in newborns and mass abortions in pregnant animals. Humans become infected from contact with tissues/blood of infected animals including abortive material and through mosquito bites. Disease in humans presents as influenza-like illness, haemorrhagic fever, encephalitis and occasionally death (adapted from FAO, 2003; WHO, 2018; OIE 2020)."@en ;
+    skos:prefLabel "Fièvre de la Vallée du Rift"@fr ;
+    skos:prefLabel "Fiebre del Valle del Rift"@es ;
+    skos:prefLabel "Febbre della Valle del Rift"@it ;
+    skos:prefLabel "Лихорадка долины Рифта"@ru ;
+    skos:prefLabel "裂谷热"@ch ;
+    skos:prefLabel "Rift Valley koorts"@nl .

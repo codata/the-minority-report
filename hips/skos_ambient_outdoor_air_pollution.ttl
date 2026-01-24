@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:ambient_outdoor_air_pollution a skos:Concept ;
+    skos:prefLabel "Ambient (Outdoor) Air Pollution"@en ;
+    skos:definition "Ambient (outdoor) air pollution is pollution that is present at concentrations that affect human health, ecosystems and agriculture. It is primarily measured through the presence of particulate matter (PM10 and PM2.5), ozone, nitrogen dioxide, sulphur dioxide and carbon monoxide in the air. Ambient air pollution is one of the leading environmental risk factors affecting urban and rural populations around the world, resulting in an estimated 4.2 million premature deaths in 2019 (WHO, 2024)."@en ;
+    skos:prefLabel "pollution atmosphérique ambiante"@fr ;
+    skos:prefLabel "contaminación atmosférica"@es ;
+    skos:prefLabel "inquinamento atmosferico"@it ;
+    skos:prefLabel "забруднення атмосферного повітря"@ua ;
+    skos:prefLabel "загрязнение атмосферного воздуха"@ru ;
+    skos:prefLabel "环境空气污染"@ch ;
+    skos:prefLabel "omgevingsluchtverontreiniging"@nl .

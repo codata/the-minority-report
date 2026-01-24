@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:lightning_electrical_storm a skos:Concept ;
+    skos:prefLabel "Lightning (Electrical Storm)"@en ;
+    skos:definition "Lightning is the luminous manifestation accompanying a sudden electrical discharge that takes place from or inside a cloud or, less often, from high structures on the ground or from mountains (WMO, 2017)."@en ;
+    skos:prefLabel "foudre"@fr ;
+    skos:prefLabel "Rayo"@es ;
+    skos:prefLabel "fulmine"@it ;
+    skos:prefLabel "молния"@ua ;
+    skos:prefLabel "молния"@ru ;
+    skos:prefLabel "闪电"@ch ;
+    skos:prefLabel "bliksem"@nl .

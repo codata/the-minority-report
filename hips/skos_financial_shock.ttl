@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:financial_shock a skos:Concept ;
+    skos:prefLabel "Financial shock"@en ;
+    skos:definition "A financial shock is an unexpected disturbance which originates from the financial sector and has a significant effect on an economy (e.g. national, regional, or global). The term is largely used to refer to events which have negative impacts (ECB, 2013)."@en ;
+    skos:prefLabel "choc financier"@fr ;
+    skos:prefLabel "choque financiero"@es ;
+    skos:prefLabel "shock finanziario"@it ;
+    skos:prefLabel "фінансовий шок"@ua ;
+    skos:prefLabel "финансовый шок"@ru ;
+    skos:prefLabel "金融冲击"@ch ;
+    skos:prefLabel "financiële schok"@nl .

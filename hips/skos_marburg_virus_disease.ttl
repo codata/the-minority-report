@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:marburg_virus_disease a skos:Concept ;
+    skos:prefLabel "Marburg virus disease"@en ;
+    skos:definition "Marburg virus disease (MVD), formerly known as Marburg haemorrhagic fever, is a severe, often fatal illness in humans. The virus causes severe viral haemorrhagic fever in humans (WHO, 2025)."@en ;
+    skos:prefLabel "maladie à virus de Marburg"@fr ;
+    skos:prefLabel "enfermedad del virus de Marburg"@es ;
+    skos:prefLabel "malattia da virus di Marburg"@it ;
+    skos:prefLabel "马尔堡病毒病"@ch ;
+    skos:prefLabel "Marburgvirusziekte"@nl .

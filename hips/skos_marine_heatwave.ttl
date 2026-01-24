@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:marine_heatwave a skos:Concept ;
+    skos:prefLabel "Marine Heatwave"@en ;
+    skos:definition "A period of extreme warm near-sea surface temperature (SST) that persists for days to months and can extend up to thousands of kilometres (IPCC, 2019)."@en ;
+    skos:prefLabel "Vague de chaleur marine"@fr ;
+    skos:prefLabel "Ola de calor marina"@es ;
+    skos:prefLabel "Onda di calore marina"@it ;
+    skos:prefLabel "Морська хвиля тепла"@ua ;
+    skos:prefLabel "морская тепловая волна"@ru ;
+    skos:prefLabel "海洋热浪"@ch ;
+    skos:prefLabel "Zeehittegolf"@nl .

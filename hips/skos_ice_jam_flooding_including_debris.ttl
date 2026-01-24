@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:ice_jam_flooding_including_debris a skos:Concept ;
+    skos:prefLabel "Ice-Jam Flooding Including Debris"@en ;
+    skos:definition "An ice-jam flood including debris is defined as an accumulation of shuga including ice cakes, below ice cover. It is broken ice in a river which causes a narrowing of the river channel, a rise in water level and local floods (WMO, 2012)."@en ;
+    skos:prefLabel "inondations dues à un embâcle incluant des débris"@fr ;
+    skos:prefLabel "inundación por atasco de hielo con escombros"@es ;
+    skos:prefLabel "inondazione da blocco di ghiaccio con detriti"@it ;
+    skos:prefLabel "повені від заторів льоду, включаючи уламки"@ua ;
+    skos:prefLabel "наводнения от ледовых заторов, включая мусор"@ru ;
+    skos:prefLabel "ijsdamoverstromingen inclusief drijfgoed"@nl .

@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:reservoir_flooding a skos:Concept ;
+    skos:prefLabel "Reservoir Flooding"@en ;
+    skos:definition "Man-made reservoirs, sometimes called artificial lakes, are important water sources in many countries around the world. In contrast to natural processes of lake formation, reservoirs are artificial, usually formed by constructing a dam across a river or by diverting a part of the river flow and storing the water in a reservoir. Reservoir flooding occurs as an uncontrolled release of water if a dam or reservoir fails (adapted from UNEP, 2000 and Defra and EA, 2014)."@en ;
+    skos:prefLabel "inondation de réservoir"@fr ;
+    skos:prefLabel "inundación por rotura de presa"@es ;
+    skos:prefLabel "inondazione di bacino"@it ;
+    skos:prefLabel "прорыв плотины"@ru ;
+    skos:prefLabel "水库洪水"@ch ;
+    skos:prefLabel "reservoiroverstroming"@nl .

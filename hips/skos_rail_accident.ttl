@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:rail_accident a skos:Concept ;
+    skos:prefLabel "Rail Accident"@en ;
+    skos:definition "A rail accident is a sudden event or a specific chain of such events (occurring during train operation) which has harmful consequences (United Nations, European Union and the International Transport Forum at the OECD, 2019)."@en ;
+    skos:prefLabel "accident ferroviaire"@fr ;
+    skos:prefLabel "accidente ferroviario"@es ;
+    skos:prefLabel "incidente ferroviario"@it ;
+    skos:prefLabel "залізнична аварія"@ua ;
+    skos:prefLabel "железнодорожная авария"@ru ;
+    skos:prefLabel "铁路事故"@ch ;
+    skos:prefLabel "treinongeval"@nl .

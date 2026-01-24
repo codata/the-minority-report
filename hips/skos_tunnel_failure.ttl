@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:tunnel_failure a skos:Concept ;
+    skos:prefLabel "Tunnel Failure"@en ;
+    skos:definition "Tunnels are artificial confined underground structures, which are used for different purposes; where, for example, collapses, fires, explosions and water ingress may damage tunnel facilities and cause injuries and human casualties, resulting in severe social harm (Adapted from Zafirovski et al., 2018 and Chien and Chao, 2021)."@en ;
+    skos:prefLabel "Effondrement de tunnel"@fr ;
+    skos:prefLabel "Cedimento del tunnel"@it ;
+    skos:prefLabel "Обвал тунелю"@ua ;
+    skos:prefLabel "Разрушение туннеля"@ru ;
+    skos:prefLabel "隧道故障"@ch ;
+    skos:prefLabel "tunnelfalen"@nl .

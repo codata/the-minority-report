@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:non_international_armed_conflict_niac a skos:Concept ;
+    skos:prefLabel "Non-International Armed Conflict (NIAC)"@en ;
+    skos:definition "It is widely accepted today that two key conditions must be met for a situation of violence to be considered a Non-International Armed Conflict (NIAC) and therefore subject to International humanitarian law (IHL): the non-state party/parties must be organized, and the violence between the parties must be sufficiently intense. The existence of a NIAC is not predicated on any other threshold or condition. In particular, political or other motivations of the parties play no role in the classification of a conflict. (adapted from ICRC, 2024)"@en ;
+    skos:prefLabel "Conflit armé non international"@fr ;
+    skos:prefLabel "Conflicto armado no internacional"@es ;
+    skos:prefLabel "Conflitto armato non internazionale"@it ;
+    skos:prefLabel "Неінтернаціональний збройний конфлікт"@ua ;
+    skos:prefLabel "Немеждународный вооружённый конфликт"@ru ;
+    skos:prefLabel "非国际武装冲突"@ch ;
+    skos:prefLabel "Niet-internationaal gewapend conflict"@nl .

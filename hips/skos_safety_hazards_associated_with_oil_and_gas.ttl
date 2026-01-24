@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:safety_hazards_associated_with_oil_and_gas a skos:Concept ;
+    skos:prefLabel "Safety Hazards Associated with Oil and Gas"@en ;
+    skos:definition "Oil and gas extraction, and associated servicing activities involve many types of equipment and materials. Identifying and controlling hazards is critical to preventing injuries and deaths (US Department of Labor, no date)."@en ;
+    skos:prefLabel "Risques de sécurité liés au pétrole et au gaz"@fr ;
+    skos:prefLabel "Riesgos de seguridad asociados con el petróleo y el gas"@es ;
+    skos:prefLabel "Rischi di sicurezza associati al petrolio e al gas"@it ;
+    skos:prefLabel "石油和天然气相关的安全危害"@ch ;
+    skos:prefLabel "Veiligheidsrisico's verbonden aan olie en gas"@nl .

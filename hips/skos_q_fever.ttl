@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:q_fever a skos:Concept ;
+    skos:prefLabel "Q Fever"@en ;
+    skos:definition "Q fever is a common zoonosis (infection that could transmit from animals to humans), caused by Coxiella burnetii. Natural reservoirs include several domestic and wild animals, most of which show no signs of disease (although infection can cause abortions). Due to the high resilience in the environment of Coxiella, humans are most often infected by inhalation of aerosols produced in contaminated locations, but other modes of infection have been documented (including food-borne) (ECDC, no date)."@en ;
+    skos:prefLabel "Fièvre Q"@fr ;
+    skos:prefLabel "Fiebre Q"@es ;
+    skos:prefLabel "Febbre Q"@it ;
+    skos:prefLabel "Хвороба Q"@ua ;
+    skos:prefLabel "Лихорадка Q"@ru ;
+    skos:prefLabel "Q热"@ch ;
+    skos:prefLabel "Q-koorts"@nl .

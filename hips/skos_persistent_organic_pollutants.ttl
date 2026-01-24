@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:persistent_organic_pollutants a skos:Concept ;
+    skos:prefLabel "Persistent Organic Pollutants"@en ;
+    skos:definition "Persistent organic pollutants (POPs) are chemicals of global concern due to their potential for long-range transport, persistence in the environment, ability to bio-magnify and bio-accumulate in ecosystems, as well as their significant negative effects on human health and the environment."@en ;
+    skos:prefLabel "Polluants organiques persistants"@fr ;
+    skos:prefLabel "Contaminantes orgánicos persistentes"@es ;
+    skos:prefLabel "Inquinanti organici persistenti"@it ;
+    skos:prefLabel "Стійкі органічні забруднювачі"@ua ;
+    skos:prefLabel "Стойкие органические загрязнители"@ru ;
+    skos:prefLabel "持久性有机污染物"@ch ;
+    skos:prefLabel "Persistente organische verontreinigende stoffen"@nl .

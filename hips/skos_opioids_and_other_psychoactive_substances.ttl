@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:opioids_and_other_psychoactive_substances a skos:Concept ;
+    skos:prefLabel "Opioids and Other Psychoactive Substances"@en ;
+    skos:definition "Psychoactive substances are chemical compounds that can lead to physical or psychological dependence when consumed repeatedly, often altering brain function and behaviour. Overdose and overuse have caused significant public health concerns due to their potential to cause a wide range of adverse health effects. Addictive substances include alcohol, nicotine, (synthetic) opioids, (natural) opiates, stimulants, and certain sedatives, amongst others."@en ;
+    skos:prefLabel "Opioïdes et autres substances psychoactives"@fr ;
+    skos:prefLabel "Opioides y otras sustancias psicoactivas"@es ;
+    skos:prefLabel "Oppioidi e altre sostanze psicoattive"@it ;
+    skos:prefLabel "Опіоїди та інші психоактивні речовини"@ua ;
+    skos:prefLabel "Опиоиды и другие психоактивные вещества"@ru ;
+    skos:prefLabel "阿片类药物及其他精神活性物质"@ch ;
+    skos:prefLabel "Opiaten en andere psychoactieve stoffen"@nl .

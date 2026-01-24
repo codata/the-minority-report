@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:yellow_fever a skos:Concept ;
+    skos:prefLabel "Yellow Fever"@en ;
+    skos:definition "Yellow fever is an acute viral haemorrhagic disease transmitted by infected mosquitoes and is a high-impact high-threat disease, with risk of international spread, which represents a potential threat to global health security (WHO, 2023)."@en ;
+    skos:prefLabel "fièvre jaune"@fr ;
+    skos:prefLabel "fiebre amarilla"@es ;
+    skos:prefLabel "febbre gialla"@it ;
+    skos:prefLabel "жовта лихоманка"@ua ;
+    skos:prefLabel "желтая лихорадка"@ru ;
+    skos:prefLabel "黄热病"@ch ;
+    skos:prefLabel "gele koorts"@nl .

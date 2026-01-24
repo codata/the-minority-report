@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:tailings a skos:Concept ;
+    skos:prefLabel "Tailings"@en ;
+    skos:definition "Tailings are a by-product of mining, consisting of the processed rock or soil left over from the separation of the commodities of value from the rock or soil within which they occur (adapted from GISTM, 2020)."@en ;
+    skos:prefLabel "déchets miniers"@fr ;
+    skos:prefLabel "relaves"@es ;
+    skos:prefLabel "rifiuti minerari"@it ;
+    skos:prefLabel "відвали"@ua ;
+    skos:prefLabel "отвалы"@ru ;
+    skos:prefLabel "尾矿"@ch ;
+    skos:prefLabel "ertsafval"@nl .

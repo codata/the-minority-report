@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:liquefaction a skos:Concept ;
+    skos:prefLabel "Liquefaction"@en ;
+    skos:definition "Liquefaction refers to the loss of strength experienced in loosely packed, saturated or close to saturated sediments at or near the ground surface in response to strong ground shaking, such as earthquakes, cyclic loading (repeated application of stresses), and vibration from machinery, or due to the development of excess pore water pressure resulting from a change in head or confining pressures. (c. AGI, 2017; USGS, no date)."@en ;
+    skos:prefLabel "Liquéfaction"@fr ;
+    skos:prefLabel "Liquefacción"@es ;
+    skos:prefLabel "liquefazione"@it ;
+    skos:prefLabel "ливідізація"@ru ;
+    skos:prefLabel "液化"@ch ;
+    skos:prefLabel "liquefactie"@nl .

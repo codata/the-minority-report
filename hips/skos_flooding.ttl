@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:flooding a skos:Concept ;
+    skos:prefLabel "Flooding"@en ;
+    skos:definition "Flooding is (1) an overflowing by water of the normal confines of a watercourse or other body of water; (2) an accumulation of drainage water over areas which are not normally submerged; (3) a controlled spreading of water for irrigation (WMO and UNESCO, 2012)."@en ;
+    skos:prefLabel "inondation"@fr ;
+    skos:prefLabel "inundación"@es ;
+    skos:prefLabel "inondazione"@it ;
+    skos:prefLabel "повінь"@ua ;
+    skos:prefLabel "наводнение"@ru ;
+    skos:prefLabel "洪水"@ch ;
+    skos:prefLabel "overstroming"@nl .

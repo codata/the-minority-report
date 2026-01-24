@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:plague a skos:Concept ;
+    skos:prefLabel "Plague"@en ;
+    skos:definition "Plague is caused by the bacteriaYersinia pestis, and can be a very severe disease in people, with a case-fatality ratio of 30% to 60% for the bubonic type and is always fatal for the pneumonic kind when left untreated (WHO, 2022)."@en ;
+    skos:prefLabel "peste"@fr ;
+    skos:prefLabel "peste"@es ;
+    skos:prefLabel "peste"@it ;
+    skos:prefLabel "чума"@ua ;
+    skos:prefLabel "чума"@ru ;
+    skos:prefLabel "鼠疫"@ch ;
+    skos:prefLabel "pest"@nl .

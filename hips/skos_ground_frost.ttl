@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:ground_frost a skos:Concept ;
+    skos:prefLabel "Ground Frost"@en ;
+    skos:definition "Ground frost is a covering of ice, in one of its many forms, produced by the sublimation of the water vapour on objects colder than 0°C (WMO, 1992)."@en ;
+    skos:prefLabel "Givre"@fr ;
+    skos:prefLabel "Escarcha"@es ;
+    skos:prefLabel "Brina"@it ;
+    skos:prefLabel "Іній"@ua ;
+    skos:prefLabel "Земной мороз"@ru ;
+    skos:prefLabel "地面霜"@ch ;
+    skos:prefLabel "Grondvries"@nl .

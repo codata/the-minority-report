@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:environmental_degradation_from_conflict a skos:Concept ;
+    skos:prefLabel "Environmental Degradation from Conflict"@en ;
+    skos:definition "Environmental degradation is both a driver and consequence of disasters and conflict, reducing the capacity of the environment to meet social and ecological needs (Adapted from UNDRR, 2022)."@en ;
+    skos:prefLabel "dégradation environnementale liée aux conflits"@fr ;
+    skos:prefLabel "Degradación ambiental derivada de conflictos"@es ;
+    skos:prefLabel "Degrado ambientale derivante dai conflitti"@it ;
+    skos:prefLabel "Деградація навколишнього середовища внаслідок конфліктів"@ua ;
+    skos:prefLabel "Деградация окружающей среды в результате конфликтов"@ru ;
+    skos:prefLabel "冲突导致的环境退化"@ch .

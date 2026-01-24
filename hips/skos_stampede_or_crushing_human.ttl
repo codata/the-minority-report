@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:stampede_or_crushing_human a skos:Concept ;
+    skos:prefLabel "Stampede or Crushing (Human)"@en ;
+    skos:definition "Stampede or crushing is the surge of individuals in a crowd, in response to real or perceived danger or loss of physical space. It often disrupts the orderly movement of crowds resulting in movement for self-protection leading to increased localised crowd density and physical compression of the human bodies (Adapted from Burkle & Hsu, 2011; Illiyas et al., 2013; Ngai, et al., 2009)."@en ;
+    skos:prefLabel "Apisonamiento de multitudes"@es ;
+    skos:prefLabel "calca"@it ;
+    skos:prefLabel "масове затоптання"@ua ;
+    skos:prefLabel "Давка толпы"@ru ;
+    skos:prefLabel "massale verdrukking"@nl .

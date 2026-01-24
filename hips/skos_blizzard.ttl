@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:blizzard a skos:Concept ;
+    skos:prefLabel "Blizzard"@en ;
+    skos:definition "A blizzard is a severe snowstorm characterised by poor visibility, usually occurring at high latitudes and in mountainous regions (WMO, 1992)."@en ;
+    skos:prefLabel "Blizzard"@fr ;
+    skos:prefLabel "Blizzard"@es ;
+    skos:prefLabel "Blizzard"@it ;
+    skos:prefLabel "снежная буря"@ru ;
+    skos:prefLabel "暴雪"@ch ;
+    skos:prefLabel "sneeuwstorm"@nl .

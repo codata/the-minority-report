@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:ponding_drainage_flooding a skos:Concept ;
+    skos:prefLabel "Ponding (Drainage) Flooding"@en ;
+    skos:definition "A ponding flood is a flood that results from rainwater ponding at or near the point where it falls because it is falling faster than the drainage system (natural or man-made) can carry it away (WMO, 2006)."@en ;
+    skos:prefLabel "inondation de type ponding"@fr ;
+    skos:prefLabel "Inundación por acumulación"@es ;
+    skos:prefLabel "Inondazione da ristagno"@it ;
+    skos:prefLabel "Затоплення від застою води"@ua ;
+    skos:prefLabel "Затопление от застоя воды"@ru ;
+    skos:prefLabel "积水洪水"@ch ;
+    skos:prefLabel "Platte wateroverlast"@nl .

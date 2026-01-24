@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:estuarine_coastal_flooding a skos:Concept ;
+    skos:prefLabel "Estuarine (Coastal) Flooding"@en ;
+    skos:definition "Estuarine flooding is flooding over and near coastal areas caused by storm surges and high winds coincident with high tides, thereby obstructing the seaward river flow. Estuarine flooding can be caused by tsunamis in specific cases (WMO, 2011)."@en ;
+    skos:prefLabel "Inondation estuarienne"@fr ;
+    skos:prefLabel "inundación estuarial"@es ;
+    skos:prefLabel "Inondazione estuarina"@it ;
+    skos:prefLabel "Естуарне затоплення"@ua ;
+    skos:prefLabel "Устьевой приливный паводок"@ru ;
+    skos:prefLabel "河口洪水"@ch ;
+    skos:prefLabel "Estuariële (kust-) overstroming"@nl .

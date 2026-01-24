@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:tornado a skos:Concept ;
+    skos:prefLabel "Tornado"@en ;
+    skos:definition "A tornado is a rotating column of air extending from the base of a cumuliform cloud and often visible as a condensation funnel in contact with the ground, and/or attendant circulating dust or debris cloud at the ground (WMO, 2017)."@en ;
+    skos:prefLabel "tornade"@fr ;
+    skos:prefLabel "tornado"@es ;
+    skos:prefLabel "tornado"@it ;
+    skos:prefLabel "торнадо"@ua ;
+    skos:prefLabel "торнадо"@ru ;
+    skos:prefLabel "龙卷风"@ch ;
+    skos:prefLabel "tornado"@nl .

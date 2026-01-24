@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:solar_flares a skos:Concept ;
+    skos:prefLabel "Solar Flares"@en ;
+    skos:definition "A solar flare is a sudden and large explosion on the Sun characterized by the rapid release of energy, resulting in the emission of electromagnetic radiation across all wavelengths and a rapid increase in brightness on a portion of the Sun's surface. The sudden outburst of electromagnetic energy travels at the speed of light therefore any effect upon the sunlit side of Earth’s exposed outer atmosphere occurs at the same time the event is observed (NOAA Space Weather Prediction Center, 2023)."@en ;
+    skos:prefLabel "Éruptions solaires"@fr ;
+    skos:prefLabel "flares solares"@es ;
+    skos:prefLabel "eruzioni solari"@it ;
+    skos:prefLabel "Сонячні спалахи"@ua ;
+    skos:prefLabel "Солнечные вспышки"@ru ;
+    skos:prefLabel "太阳耀斑"@ch ;
+    skos:prefLabel "Zonnevlammen"@nl .

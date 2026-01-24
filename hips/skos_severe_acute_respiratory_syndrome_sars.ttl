@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:severe_acute_respiratory_syndrome_sars a skos:Concept ;
+    skos:prefLabel "Severe Acute Respiratory Syndrome (SARS)"@en ;
+    skos:definition "Severe acute respiratory syndrome (SARS) is a viral respiratory illness caused by a coronavirus called SARS-associated coronavirus (SARS-CoV). Among individuals who meet the current WHO case definition for confirmed SARS, the case-fatality rate is approximately 9.6% (WHO, no date)."@en ;
+    skos:prefLabel "Syndrome respiratoire aigu sévère (SARS)"@fr ;
+    skos:prefLabel "Sindrome respiratoria acuta grave (SARS)"@it ;
+    skos:prefLabel "Тяжкий гострий респіраторний синдром (ТГРС)"@ua ;
+    skos:prefLabel "Тяжёлый острый респираторный синдром (SARS)"@ru ;
+    skos:prefLabel "严重急性呼吸道综合症 (SARS)"@ch ;
+    skos:prefLabel "Zwaar acuut respiratoir syndroom (SARS)"@nl .

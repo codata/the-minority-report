@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:viral_haemorrhagic_fevers a skos:Concept ;
+    skos:prefLabel "Viral Haemorrhagic Fevers"@en ;
+    skos:definition "Viral haemorrhagic fevers include a spectrum of relatively mild to severe life-threatening diseases characterized by sudden onset of muscle and joint pain, fever, bleeding and shock from loss of blood. In severe cases, one of the most prominent symptoms is bleeding, or haemorrhaging, from orifices and internal organs (WHO, no date a)."@en ;
+    skos:prefLabel "fiebres hemorrágicas virales"@es ;
+    skos:prefLabel "Febbre emorragiche virali"@it ;
+    skos:prefLabel "вірусні геморагічні лихоманки"@ua ;
+    skos:prefLabel "вирусные геморрагические лихорадки"@ru ;
+    skos:prefLabel "病毒性出血热"@ch .

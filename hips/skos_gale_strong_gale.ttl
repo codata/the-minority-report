@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:gale_strong_gale a skos:Concept ;
+    skos:prefLabel "Gale (Strong Gale)"@en ;
+    skos:definition "A gale is wind with a speed of between 34 and 40 knots (62–74 km/h, 32–38 mph). Also known as Beaufort scale wind force 8 (WMO, 1992)."@en ;
+    skos:prefLabel "vientos de fuerza 8"@es ;
+    skos:prefLabel "Burrasca"@it ;
+    skos:prefLabel "ветер силы 8 баллов"@ru ;
+    skos:prefLabel "强风（八级）"@ch ;
+    skos:prefLabel "stormwind"@nl .

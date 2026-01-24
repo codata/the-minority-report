@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:west_nile_fever a skos:Concept ;
+    skos:prefLabel "West Nile Fever"@en ;
+    skos:definition "West Nile virus disease is a potentially fatal neurological disease caused by a virus transmitted through the bites of infected mosquitoes. The virus is a member of theflavivirusgenus and belongs to the Japanese encephalitis antigenic complex of the family Flaviviridae (WHO, 2017)."@en ;
+    skos:prefLabel "Fièvre du Nil occidental"@fr ;
+    skos:prefLabel "Fiebre del Nilo Occidental"@es ;
+    skos:prefLabel "Febbre del Nilo Occidentale"@it ;
+    skos:prefLabel "Лихоманка Західного Нілу"@ua ;
+    skos:prefLabel "Лихорадка Западного Нила"@ru ;
+    skos:prefLabel "西尼罗河热"@ch ;
+    skos:prefLabel "West-Nijlkoorts"@nl .

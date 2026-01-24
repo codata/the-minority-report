@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:building_highrise_cladding a skos:Concept ;
+    skos:prefLabel "Building, highrise, cladding"@en ;
+    skos:definition "A building high-rise cladding fire hazard occurs when combustible materials such as cladding on a high-rise building greatly increases risk in the event of a fire and can have a catastrophic outcome (adapted from Rockpanel, no date)"@en ;
+    skos:prefLabel "bardage d'immeubles de grande hauteur"@fr ;
+    skos:prefLabel "revestimiento combustible"@es ;
+    skos:prefLabel "rivestimento combustibile"@it ;
+    skos:prefLabel "обшивка высотных зданий"@ru ;
+    skos:prefLabel "高层建筑覆层"@ch ;
+    skos:prefLabel "brandbaar gevelbekleding"@nl .

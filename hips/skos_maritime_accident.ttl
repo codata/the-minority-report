@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:maritime_accident a skos:Concept ;
+    skos:prefLabel "Maritime Accident"@en ;
+    skos:definition "A maritime accident is an event, or a sequence of events, that has resulted in any of the following occurring directly in connection with the normal operation of a marine vessel: the death of, or serious injury to, a person; the loss of a person from a ship; the loss, presumed loss or abandonment of a marine vessel; material damage to a marine vessel; the stranding or disabling of a marine vessel, or the involvement of a marine vessel in a collision; material damage to the marine infrastructures external to a vessel, that could seriously endanger the safety of the vessel or another vessel or an individual; and severe damage to the environment, or the potential for severe damage to the environment, brought about by the damage of a marine vessel (United Nations, European Union and the International Transport Forum at the OECD, 2019)."@en ;
+    skos:prefLabel "accident maritime"@fr ;
+    skos:prefLabel "accidente marítimo"@es ;
+    skos:prefLabel "incidente marittimo"@it ;
+    skos:prefLabel "морська аварія"@ua ;
+    skos:prefLabel "морская авария"@ru ;
+    skos:prefLabel "海事事故"@ch ;
+    skos:prefLabel "maritieme ongevallen"@nl .

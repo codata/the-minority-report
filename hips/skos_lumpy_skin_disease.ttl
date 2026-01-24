@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:lumpy_skin_disease a skos:Concept ;
+    skos:prefLabel "Lumpy Skin Disease"@en ;
+    skos:definition "Lumpy skin disease is a vector-borne pox disease of domestic cattle and Asian water buffalo and is characterised by the appearance of skin nodules on all body surfaces including the udder (FAO, 2017)."@en ;
+    skos:prefLabel "Maladie de la peau nodulaire"@fr ;
+    skos:prefLabel "Enfermedad de la piel nodular"@es ;
+    skos:prefLabel "dermatosi nodulare bovina"@it ;
+    skos:prefLabel "Болезнь с узлами на коже"@ru ;
+    skos:prefLabel "牛结节病"@ch ;
+    skos:prefLabel "Knoppenhuidziekte"@nl .

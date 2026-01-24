@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:gravitational_mass_movement_landslide a skos:Concept ;
+    skos:prefLabel "Gravitational Mass Movement (‘Landslide’)"@en ;
+    skos:definition "A gravitational mass movement (‘landslide’) is the downslope movement of soil, rock and organic materials under the effects of gravity, which occurs when the gravitational driving forces exceed the frictional resistance of the material resisting on the slope. Such movements may be terrestrial or submarine (GH0306) (cf. Cruden and Varnes, 1996)."@en ;
+    skos:prefLabel "glissement de terrain"@fr ;
+    skos:prefLabel "deslizamiento de tierra"@es ;
+    skos:prefLabel "scorrimento di massa"@it ;
+    skos:prefLabel "зсув ґрунту"@ua ;
+    skos:prefLabel "оползень"@ru ;
+    skos:prefLabel "滑坡"@ch .

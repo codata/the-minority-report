@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:rotavirus a skos:Concept ;
+    skos:prefLabel "Rotavirus"@en ;
+    skos:definition "Rotaviruses are the most common cause of severe diarrhoeal disease in young children throughout the world. According to WHO estimates in 2013 about 215,000 children aged under 5 years die each year from vaccine-preventable rotavirus infections; the vast majority of these children live in low-income countries (WHO, 2018)."@en ;
+    skos:prefLabel "rotavirus"@fr ;
+    skos:prefLabel "rotavirus"@es ;
+    skos:prefLabel "rotavirus"@it ;
+    skos:prefLabel "ротавірус"@ua ;
+    skos:prefLabel "ротавирус"@ru ;
+    skos:prefLabel "轮状病毒"@ch ;
+    skos:prefLabel "rotavirus"@nl .

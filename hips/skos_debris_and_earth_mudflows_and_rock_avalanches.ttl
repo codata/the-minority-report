@@ -1,0 +1,12 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:debris_and_earth_mudflows_and_rock_avalanches a skos:Concept ;
+    skos:prefLabel "Debris and earth (mud)flows and rock avalanches"@en ;
+    skos:definition "Flows are gravitational mass movements down a slope in the form of a fluid. Flows often leave behind a distinctive, fan-shaped deposit where the landslide material has stopped moving (cf. British Geological Survey 2024)"@en ;
+    skos:prefLabel "flujos de detritos y lodos"@es ;
+    skos:prefLabel "потоки обломків та землі (мут) та лавини каменів"@ua ;
+    skos:prefLabel "потоки обломков и почвы (мут) и лавины камней"@ru ;
+    skos:prefLabel "泥石流和岩石崩塌"@ch .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:covid_19_sars_cov_2 a skos:Concept ;
+    skos:prefLabel "COVID-19 (SARS-CoV-2)"@en ;
+    skos:definition "COVID-19 is an infectious disease caused by the SARS Coronavirus 2 (SARS-CoV-2), a virus first identified in human populations in late 2019 which caused a global outbreak of coronavirus – an infectious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (adapted from WHO, 2023 and WHO Euro, no date)."@en ;
+    skos:prefLabel "COVID-19"@fr ;
+    skos:prefLabel "COVID-19"@es ;
+    skos:prefLabel "COVID-19"@it ;
+    skos:prefLabel "COVID-19"@ua ;
+    skos:prefLabel "COVID-19"@ru ;
+    skos:prefLabel "COVID-19"@ch ;
+    skos:prefLabel "COVID-19"@nl .

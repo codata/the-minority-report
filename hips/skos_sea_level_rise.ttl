@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:sea_level_rise a skos:Concept ;
+    skos:prefLabel "Sea Level Rise"@en ;
+    skos:definition "Sea-level change (sea-level rise / sea-level fall) refers to a change in the height of sea level, both globally and locally (relative sea-level change), at seasonal, annual, or longer time scales. It results from a change in ocean volume due to a change in the mass of water in the ocean (e.g. melting of glaciers and ice sheets), changes in ocean water density (e.g. expansion under warmer conditions), changes in the shape of ocean basins, changes in the Earth's gravitational and rotational fields, and local land subsidence or uplift (IPCC, 2019)."@en ;
+    skos:prefLabel "élévation du niveau de la mer"@fr ;
+    skos:prefLabel "aumento del nivel del mar"@es ;
+    skos:prefLabel "innalzamento del livello del mare"@it ;
+    skos:prefLabel "підвищення рівня моря"@ua ;
+    skos:prefLabel "повышение уровня моря"@ru ;
+    skos:prefLabel "海平面上升"@ch ;
+    skos:prefLabel "zeespiegelstijging"@nl .

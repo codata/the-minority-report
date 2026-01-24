@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:harmful_algal_blooms a skos:Concept ;
+    skos:prefLabel "Harmful Algal Blooms"@en ;
+    skos:definition "Harmful algal blooms result from noxious and/or toxic algae that cause direct and indirect negative impacts on aquatic ecosystems, coastal resources, and human health (Kudela et al., 2015)."@en ;
+    skos:prefLabel "Efflorescences algales nuisibles"@fr ;
+    skos:prefLabel "Floraciones algales nocivas"@es ;
+    skos:prefLabel "Fioriture algali dannose"@it ;
+    skos:prefLabel "Шкідливе цвітіння водоростей"@ua ;
+    skos:prefLabel "Вредные цветения водорослей"@ru ;
+    skos:prefLabel "有害藻华"@ch ;
+    skos:prefLabel "Schadelijke algenbloei"@nl .

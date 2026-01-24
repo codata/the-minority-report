@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:emergency_telecommunications_failure a skos:Concept ;
+    skos:prefLabel "Emergency Telecommunications Failure"@en ;
+    skos:definition "Emergency telecommunications failure is an umbrella term for telecommunications of an ‘extraordinary nature’ under abnormal and potentially adverse network conditions (ITU, 2007)."@en ;
+    skos:prefLabel "Défaillance des télécommunications d'urgence"@fr ;
+    skos:prefLabel "Fallo de las telecomunicaciones de emergencia"@es ;
+    skos:prefLabel "Guasto delle telecomunicazioni di emergenza"@it ;
+    skos:prefLabel "Відмова екстрених телекомунікацій"@ua ;
+    skos:prefLabel "Неисправность телекоммуникаций в чрезвычайных условиях"@ru ;
+    skos:prefLabel "紧急电信故障"@ch ;
+    skos:prefLabel "Noodtelecommunicatiefout"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:solid_waste a skos:Concept ;
+    skos:prefLabel "Solid Waste"@en ;
+    skos:definition "Solid waste covers discarded materials that are no longer required by the owner or user. Solid waste includes materials that are in a solid or liquid state but excludes wastewater and small particulate matter released into the atmosphere (United Nations, 2014)."@en ;
+    skos:prefLabel "Déchets solides"@fr ;
+    skos:prefLabel "Residuos sólidos"@es ;
+    skos:prefLabel "Rifiuti solidi"@it ;
+    skos:prefLabel "Тверді відходи"@ua ;
+    skos:prefLabel "Твердые отходы"@ru ;
+    skos:prefLabel "固体废物"@ch ;
+    skos:prefLabel "Vast afval"@nl .

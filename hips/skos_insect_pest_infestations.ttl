@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:insect_pest_infestations a skos:Concept ;
+    skos:prefLabel "Insect Pest Infestations"@en ;
+    skos:definition "An insect pest infestation is a recently detected insect pest population, including an incursion, or a sudden significant increase of an established insect in an area leading to damage to plants in production fields, forests or natural habitats and causing substantial damage to productivity, biodiversity or natural resources (adapted from IPPC Secretariat, 2024)."@en ;
+    skos:prefLabel "Infestation d'insectes nuisibles"@fr ;
+    skos:prefLabel "Infestación de plagas de insectos"@es ;
+    skos:prefLabel "infestazioni di insetti pestiferi"@it ;
+    skos:prefLabel "інфестація шкідливих комах"@ua ;
+    skos:prefLabel "昆虫害虫爆发"@ch ;
+    skos:prefLabel "Insectenplagen"@nl .

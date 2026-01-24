@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:landfilling a skos:Concept ;
+    skos:prefLabel "Landfilling"@en ;
+    skos:definition "Landfill is the final placement of waste in or on the land in a controlled or uncontrolled way according to different sanitary, environmental protection and other safety requirements (UN Data, no date)."@en ;
+    skos:prefLabel "enfouissement"@fr ;
+    skos:prefLabel "Vertido"@es ;
+    skos:prefLabel "Захоронення відходів"@ua ;
+    skos:prefLabel "Захоронение отходов"@ru ;
+    skos:prefLabel "填埋"@ch ;
+    skos:prefLabel "afvalstorten"@nl .

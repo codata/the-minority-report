@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:black_carbon a skos:Concept ;
+    skos:prefLabel "Black Carbon"@en ;
+    skos:definition "Black carbon refers to the substance formed through the incomplete combustion of fossil fuels, biofuels and biomass, which is emitted in both anthropogenic and naturally occurring soot. It consists of pure carbon in several linked forms. Black carbon warms the Earth by absorbing heat in the atmosphere and by reducing albedo – the ability to reflect sunlight – when deposited on snow and ice. It is operationally defined as an aerosol species based on measurement of light absorption and chemical reactivity and/or thermal stability (UNEP, 2019)."@en ;
+    skos:prefLabel "carbone noir"@fr ;
+    skos:prefLabel "Carbono negro"@es ;
+    skos:prefLabel "carbonio nero"@it ;
+    skos:prefLabel "чёрный углерод"@ru ;
+    skos:prefLabel "黑碳"@ch ;
+    skos:prefLabel "zwarte koolstof"@nl .

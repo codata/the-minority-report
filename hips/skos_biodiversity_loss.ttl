@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:biodiversity_loss a skos:Concept ;
+    skos:prefLabel "Biodiversity Loss"@en ;
+    skos:definition "Biodiversity loss refers to the reduction of any aspect of biological diversity (i.e. diversity at the genetic, species and ecosystem levels) in a particular area through death (including extinction), destruction or manual removal. It can occur at many scales, from global extinctions to local population extinctions, leading to a decline in total diversity at the same scale."@en ;
+    skos:prefLabel "Perte de biodiversité"@fr ;
+    skos:prefLabel "Pérdida de biodiversidad"@es ;
+    skos:prefLabel "Perdita di biodiversità"@it ;
+    skos:prefLabel "Втрата біорізноманіття"@ua ;
+    skos:prefLabel "Утрата биоразнообразия"@ru ;
+    skos:prefLabel "生物多样性丧失"@ch ;
+    skos:prefLabel "verlies van biodiversiteit"@nl .

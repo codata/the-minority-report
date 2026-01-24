@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:solar_energetic_particles a skos:Concept ;
+    skos:prefLabel "Solar Energetic Particles"@en ;
+    skos:definition "Solar energetic particle (SEP) events occur when a large-scale magnetic eruption, often accompanied by a coronal mass ejection and/or a related solar flare, accelerates charged particles in the solar atmosphere to significant fractions of the speed of light. The primary particles of interest are protons. SEP arrive with diverse fluxes and energies at different geographic locations (NOAA, 2023)."@en ;
+    skos:prefLabel "Particules énergétiques solaires"@fr ;
+    skos:prefLabel "Partículas energéticas solares"@es ;
+    skos:prefLabel "Particelle energetiche solari"@it ;
+    skos:prefLabel "Сонячні енергетичні частинки"@ua ;
+    skos:prefLabel "Солнечные энергетические частицы"@ru ;
+    skos:prefLabel "太阳高能粒子"@ch ;
+    skos:prefLabel "Zonnedeeltjes met hoge energie"@nl .

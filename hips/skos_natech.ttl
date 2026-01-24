@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:natech a skos:Concept ;
+    skos:prefLabel "Natech"@en ;
+    skos:definition "Natural hazard triggered technological accident (Showalter et al., 1994)."@en ;
+    skos:prefLabel "NAtech"@fr ;
+    skos:prefLabel "NAtech"@es ;
+    skos:prefLabel "NAtech"@it ;
+    skos:prefLabel "НАТех"@ru ;
+    skos:prefLabel "NAtech"@ch ;
+    skos:prefLabel "NAtech"@nl .

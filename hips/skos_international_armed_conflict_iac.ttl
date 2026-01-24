@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:international_armed_conflict_iac a skos:Concept ;
+    skos:prefLabel "International Armed Conflict (IAC)"@en ;
+    skos:definition "International armed conflict covers all cases of declared war and other de facto armed conflict between two or more States, even if the state of war is not recognised by one of them and/or the use of armed force is unilateral (ICRC, 2024)."@en ;
+    skos:prefLabel "Conflit armé international"@fr ;
+    skos:prefLabel "Conflicto armado internacional"@es ;
+    skos:prefLabel "Conflitto armato internazionale"@it ;
+    skos:prefLabel "Міжнародний збройний конфлікт"@ua ;
+    skos:prefLabel "Международный вооружённый конфликт"@ru ;
+    skos:prefLabel "国际武装冲突"@ch ;
+    skos:prefLabel "Internationaal gewapend conflict"@nl .

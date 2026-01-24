@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:airburst a skos:Concept ;
+    skos:prefLabel "Airburst"@en ;
+    skos:definition "An airburst is defined as a high-energy explosion in mid-air caused either by an artificial explosive device or by the sudden disruption of a natural object entering the Earth's atmosphere at high speeds at an altitude where the hydrodynamic pressure exceeds the structural integrity of the object (adapted from ESA, No date)."@en ;
+    skos:prefLabel "explosion aérienne"@fr ;
+    skos:prefLabel "explosión aérea"@es ;
+    skos:prefLabel "esplosione aerea"@it ;
+    skos:prefLabel "повітряний вибух"@ua ;
+    skos:prefLabel "воздушный взрыв"@ru ;
+    skos:prefLabel "空中爆炸"@ch ;
+    skos:prefLabel "luchtexplosie"@nl .

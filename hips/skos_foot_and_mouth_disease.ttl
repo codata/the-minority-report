@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:foot_and_mouth_disease a skos:Concept ;
+    skos:prefLabel "Foot-and-mouth disease"@en ;
+    skos:definition "Foot-and-mouth disease is caused by a virus of the familyPicornaviridae, genusAphthovirus. It is a highly contagious and economically important disease of cloven-hoofed domestic animals (cattle, buffaloes, pigs, sheep, goats) and wild animals (adapted from FAO no date; WOAH, no date)."@en ;
+    skos:prefLabel "fièvre aphteuse"@fr ;
+    skos:prefLabel "fiebre aftosa"@es ;
+    skos:prefLabel "febbre aftosa"@it ;
+    skos:prefLabel "ящур"@ua ;
+    skos:prefLabel "ящур"@ru ;
+    skos:prefLabel "口蹄疫"@ch ;
+    skos:prefLabel "poot-en-mondziekte"@nl .

@@ -1,0 +1,12 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:runoff_nonpoint_source_pollution a skos:Concept ;
+    skos:prefLabel "Runoff / Nonpoint Source Pollution"@en ;
+    skos:definition "Nonpoint sources of pollution refer to pollution that does not have a single point of origin or has not been introduced into a receiving freshwater or maritime environment from a specific outlet. The pollutants are generally carried off from the land by agricultural runoff, urban stormwater, atmospheric deposition or subaqueous groundwater discharges. The most common categories of nonpoint pollution are agriculture, forestry, urban areas, mining, construction, dams and channels, land disposal and saltwater intrusion."@en ;
+    skos:prefLabel "Pollution diffuse"@fr ;
+    skos:prefLabel "Inquinamento diffuso"@it ;
+    skos:prefLabel "дифузне забруднення"@ua ;
+    skos:prefLabel "非点源污染"@ch .

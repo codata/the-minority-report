@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:chlorine a skos:Concept ;
+    skos:prefLabel "Chlorine"@en ;
+    skos:definition "Chlorine is a reactive pale green gas with many uses including disinfection of water. Chlorine is approximately 2.4 times heavier than air and has a characteristic odour similar to bleach. Most significant exposures to chlorine result from loss of containment of chlorine during storage and transport. Human exposure can result in symptoms ranging from mild irritation to rapid death related to pulmonary oedema. It is considered a significant public health hazard (adapted from IPCS, 1982 and PHE, 2019)."@en ;
+    skos:prefLabel "chlore"@fr ;
+    skos:prefLabel "cloro"@es ;
+    skos:prefLabel "cloro"@it ;
+    skos:prefLabel "хлор"@ua ;
+    skos:prefLabel "хлор"@ru ;
+    skos:prefLabel "氯"@ch ;
+    skos:prefLabel "chloor"@nl .

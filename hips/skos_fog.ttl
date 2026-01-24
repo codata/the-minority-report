@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:fog a skos:Concept ;
+    skos:prefLabel "Fog"@en ;
+    skos:definition "Fog is a suspension of very small, usually microscopic water droplets in the air, reducing visibility at the Earth’s surface (WMO, 2017)."@en ;
+    skos:prefLabel "brouillard"@fr ;
+    skos:prefLabel "niebla"@es ;
+    skos:prefLabel "nebbia"@it ;
+    skos:prefLabel "туман"@ua ;
+    skos:prefLabel "туман"@ru ;
+    skos:prefLabel "雾"@ch ;
+    skos:prefLabel "mist"@nl .

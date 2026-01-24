@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:cold_wave a skos:Concept ;
+    skos:prefLabel "Cold Wave"@en ;
+    skos:definition "A cold wave is a period of marked and unusual cold weather characterised by a sharp and significant drop in air temperatures near the surface (maximum, minimum and daily average) over a large area and persisting below certain thresholds for at least two consecutive days during the cold season (WMO, 2020)."@en ;
+    skos:prefLabel "vague de froid"@fr ;
+    skos:prefLabel "ola de frío"@es ;
+    skos:prefLabel "ondata di freddo"@it ;
+    skos:prefLabel "холодна хвиля"@ua ;
+    skos:prefLabel "холодная волна"@ru ;
+    skos:prefLabel "寒潮"@ch ;
+    skos:prefLabel "koude golf"@nl .

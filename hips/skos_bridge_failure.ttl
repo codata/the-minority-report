@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:bridge_failure a skos:Concept ;
+    skos:prefLabel "Bridge Failure"@en ;
+    skos:definition "Bridge failure is the inability of a bridge, or its components, to perform as specified by its design and construction requirements (Wardhana and Hadipriono, 2003)."@en ;
+    skos:prefLabel "Défaillance de pont"@fr ;
+    skos:prefLabel "Falla de puente"@es ;
+    skos:prefLabel "Guasto strutturale del ponte"@it ;
+    skos:prefLabel "桥梁失效"@ch ;
+    skos:prefLabel "Brugfalen"@nl .

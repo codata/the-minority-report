@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:arsenic a skos:Concept ;
+    skos:prefLabel "Arsenic"@en ;
+    skos:definition "Arsenic is a toxic metalloid widely distributed throughout the Earth’s crust, generally as arsenic sulfide or as metal arsenates and arsenides. Human exposure to arsenic compounds represents a major public health concern as it has been associated with a range of acute and long-term adverse health effects and diseases (WHO, 2019)."@en ;
+    skos:prefLabel "arsenic"@fr ;
+    skos:prefLabel "arsénico"@es ;
+    skos:prefLabel "arsenico"@it ;
+    skos:prefLabel "арсен"@ua ;
+    skos:prefLabel "мышьяк"@ru ;
+    skos:prefLabel "砷"@ch ;
+    skos:prefLabel "arsenic"@nl .

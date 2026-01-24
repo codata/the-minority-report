@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:cryptosporidium a skos:Concept ;
+    skos:prefLabel "Cryptosporidium"@en ;
+    skos:definition "Cryptosporidiumis a microscopic parasite that can live in water, food, soil, or on surfaces that have been contaminated with infected faeces and causes the watery diarrhoeal disease cryptosporidiosis (adapted from CDC 2024 and Peletz et al., 2013)."@en ;
+    skos:prefLabel "Cryptosporidium"@fr ;
+    skos:prefLabel "Cryptosporidium"@es ;
+    skos:prefLabel "Cryptosporidium"@it ;
+    skos:prefLabel "隐孢子虫"@ch ;
+    skos:prefLabel "Cryptosporidium"@nl .

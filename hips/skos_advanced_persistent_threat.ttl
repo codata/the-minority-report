@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:advanced_persistent_threat a skos:Concept ;
+    skos:prefLabel "Advanced Persistent Threat"@en ;
+    skos:definition "An advanced threat is created by an adversary with sophisticated levels of expertise and significant resources, allowing it, through the use of multiple different attack vectors (e.g., cyber, physical, and deception), to generate opportunities to achieve its objectives (NIST, 2012)."@en ;
+    skos:prefLabel "Menace persistante avancée"@fr ;
+    skos:prefLabel "Amenaza Persistente Avanzada"@es ;
+    skos:prefLabel "Minaccia Persistente Avanzata"@it ;
+    skos:prefLabel "Розширена постійна загроза"@ua ;
+    skos:prefLabel "Продвинутая постоянная угроза"@ru ;
+    skos:prefLabel "高级持续性威胁"@ch ;
+    skos:prefLabel "Geavanceerde Persistente Bedreiging"@nl .

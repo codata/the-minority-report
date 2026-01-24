@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:benzene_and_hydrocarbons a skos:Concept ;
+    skos:prefLabel "Benzene and Hydrocarbons"@en ;
+    skos:definition "Hydrocarbons are organic compounds composed entirely of hydrogen (H) and carbon (C) atoms. They are the simplest form of organic molecules and are the main components of fossil fuels such as coal, natural gas, and petroleum. Benzene is a clear, colourless, highly flammable and volatile, liquid aromatic hydrocarbon (molecular formula C6H6) with a gasoline-like odour, which can lead to major public hazards. Benzene is the simplest aromatic hydrocarbon, characterised by alternating single and double bonds between the carbon atoms, forming a delocalized π-electron system. (WHO, 2019) The release of hydrocarbon ground gases, such as methane, can lead to major public hazards."@en ;
+    skos:prefLabel "Benzène et hydrocarbures"@fr ;
+    skos:prefLabel "Benceno y hidrocarburos"@es ;
+    skos:prefLabel "Benzene e idrocarburi"@it ;
+    skos:prefLabel "Бензен і вуглеводні"@ua ;
+    skos:prefLabel "Бензол и углеводороды"@ru ;
+    skos:prefLabel "苯和碳氢化合物"@ch ;
+    skos:prefLabel "Benzeen en koolwaterstoffen"@nl .

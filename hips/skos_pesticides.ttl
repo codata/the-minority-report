@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:pesticides a skos:Concept ;
+    skos:prefLabel "Pesticides"@en ;
+    skos:definition "Pesticide means any substance, or mixture of substances of chemical or biological ingredients intended for repelling, destroying or controlling any pest, or regulating plant growth."@en ;
+    skos:prefLabel "pesticides"@fr ;
+    skos:prefLabel "pesticidas"@es ;
+    skos:prefLabel "pesticidi"@it ;
+    skos:prefLabel "пестициди"@ua ;
+    skos:prefLabel "пестициды"@ru ;
+    skos:prefLabel "农药"@ch ;
+    skos:prefLabel "pesticiden"@nl .

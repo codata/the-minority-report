@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:vaccine_preventable_diseases a skos:Concept ;
+    skos:prefLabel "Vaccine-Preventable Diseases"@en ;
+    skos:definition "Vaccine-preventable diseases are those infectious diseases that can be prevented by vaccination (WHO, 2019)."@en ;
+    skos:prefLabel "Maladies évitables par la vaccination"@fr ;
+    skos:prefLabel "Enfermedades prevenibles por vacunación"@es ;
+    skos:prefLabel "malattie prevenibili dalla vaccinazione"@it ;
+    skos:prefLabel "захворювання, що запобігаються вакцинацією"@ua ;
+    skos:prefLabel "заболевания, предотвращаемые вакцинацией"@ru ;
+    skos:prefLabel "疫苗可预防的疾病"@ch ;
+    skos:prefLabel "Vaccinatiepreventabele ziekten"@nl .

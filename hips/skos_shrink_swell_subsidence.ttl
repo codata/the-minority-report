@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:shrink_swell_subsidence a skos:Concept ;
+    skos:prefLabel "Shrink-Swell Subsidence"@en ;
+    skos:definition "Subsidence is a lowering or collapse of the ground, caused by various factors, including groundwater lowering, sub-surface mining or tunnelling, consolidation, sinkholes, or changes in moisture content in expansive soils. Shrink-swell is the term applied to the behaviour of expansive soils. These are a group of soils that exhibit volumetric change in response to changes in moisture content, such that they shrink in response to desiccation and swell by hydration, resulting in ground subsidence and ground heave respectively (BGS, 2020)."@en ;
+    skos:prefLabel "Ségrénage par gonflement-dessèchement"@fr ;
+    skos:prefLabel "subsidencia por contracción-dilatación"@es ;
+    skos:prefLabel "sprofondamento e rigonfiamento"@it ;
+    skos:prefLabel "підсід за рахунок усадки-розширення"@ua ;
+    skos:prefLabel "оседание из-за усадки-расширения"@ru ;
+    skos:prefLabel "收缩膨胀沉降"@ch .

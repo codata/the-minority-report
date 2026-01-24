@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:haze a skos:Concept ;
+    skos:prefLabel "Haze"@en ;
+    skos:definition "Haze is a suspension in the air of extremely small, dry particles invisible to the naked eye and sufficiently numerous to give the air an opalescent appearance (WMO, 2017)."@en ;
+    skos:prefLabel "brume"@fr ;
+    skos:prefLabel "Calima"@es ;
+    skos:prefLabel "nebbia"@it ;
+    skos:prefLabel "Смог"@ua ;
+    skos:prefLabel "дымка"@ru ;
+    skos:prefLabel "霾"@ch ;
+    skos:prefLabel "nevel"@nl .

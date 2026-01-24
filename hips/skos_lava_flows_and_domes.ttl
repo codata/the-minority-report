@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:lava_flows_and_domes a skos:Concept ;
+    skos:prefLabel "Lava Flows and Domes"@en ;
+    skos:definition "Lava flows and lava domes form from molten rock that erupts and cools on or near the Earth’s surface. A lava flow is an outpouring of fluid, relatively low-viscosity molten rock, whereas a lava dome is a pile of relatively viscous lava that cannot flow far from the vent (cf. Dietterich et al., 2025; Harnett et al., 2025), the collapse of which may be hazardous."@en ;
+    skos:prefLabel "Coulées et dômes de lave"@fr ;
+    skos:prefLabel "Flujos de lava y domos de lava"@es ;
+    skos:prefLabel "Flussi di lava e domi di lava"@it ;
+    skos:prefLabel "Лавові потоки та куполи"@ua ;
+    skos:prefLabel "Потоки лавы и купола лавы"@ru ;
+    skos:prefLabel "熔岩流和熔岩穹丘"@ch ;
+    skos:prefLabel "Lavastromen en lava-koepels"@nl .

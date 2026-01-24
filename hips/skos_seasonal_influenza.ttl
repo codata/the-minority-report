@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:seasonal_influenza a skos:Concept ;
+    skos:prefLabel "Seasonal Influenza"@en ;
+    skos:definition "Seasonal influenza is an acute respiratory infection caused by influenza viruses which circulate in all parts of the world with around a billion cases of seasonal influenza annually, including 3–5 million cases of severe illness. It causes 290,000 to 650,000 respiratory deaths annually (adapted from WHO, 2025)."@en ;
+    skos:prefLabel "Grippe saisonnière"@fr ;
+    skos:prefLabel "Gripe estacional"@es ;
+    skos:prefLabel "Influenza stagionale"@it ;
+    skos:prefLabel "Сезонний грип"@ua ;
+    skos:prefLabel "Сезонный грипп"@ru ;
+    skos:prefLabel "季节性流感"@ch .

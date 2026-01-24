@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:derecho a skos:Concept ;
+    skos:prefLabel "Derecho"@en ;
+    skos:definition "Derechos are fast-moving bands of thunderstorms with destructive winds. The winds can be as strong as those found in hurricanes or even tornadoes. Unlike hurricanes and tornadoes, these winds follow straight lines (NOAA, 2019)."@en ;
+    skos:prefLabel "derecho"@fr ;
+    skos:prefLabel "derecho"@es ;
+    skos:prefLabel "Derecho"@it ;
+    skos:prefLabel "прямолінійний штормовий вітер"@ua ;
+    skos:prefLabel "прямолинейный штормовой ветер"@ru ;
+    skos:prefLabel "强直线风暴"@ch ;
+    skos:prefLabel "Derecho"@nl .

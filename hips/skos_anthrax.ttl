@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:anthrax a skos:Concept ;
+    skos:prefLabel "Anthrax"@en ;
+    skos:definition "Anthrax is a disease caused by the spore-forming bacteria Bacillus anthracis. Anthrax is primarily a disease of herbivorous animals, although all mammals, including humans, can contract it. In humans, anthrax manifests itself in three distinct patterns (cutaneous, gastrointestinal, inhalational) (adapted from WHO, FAO, & OIE, 2008; CDC, 2020)."@en ;
+    skos:prefLabel "anthrax"@fr ;
+    skos:prefLabel "ántrax"@es ;
+    skos:prefLabel "антраx"@ru ;
+    skos:prefLabel "炭疽病"@ch ;
+    skos:prefLabel "anthrax"@nl .

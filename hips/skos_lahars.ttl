@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:lahars a skos:Concept ;
+    skos:prefLabel "Lahars"@en ;
+    skos:definition "Lahars are discrete, rapid, gravity-driven, water-saturated flows containing water and solid particles of volcanic rock, sediment, ice, wood, and other debris that originate at volcanoes (Gudmundsson, 2015; Vallance and Iverson, 2015)."@en ;
+    skos:prefLabel "lahar"@fr ;
+    skos:prefLabel "lahares"@es ;
+    skos:prefLabel "lahar"@it ;
+    skos:prefLabel "火山泥石流"@ch ;
+    skos:prefLabel "lahar"@nl .

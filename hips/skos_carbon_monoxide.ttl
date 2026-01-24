@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:carbon_monoxide a skos:Concept ;
+    skos:prefLabel "Carbon Monoxide"@en ;
+    skos:definition "Carbon monoxide is a colourless, odourless gas that can be poisonous to humans and is considered a significant public health hazard (WHO, 1999)."@en ;
+    skos:prefLabel "Monoxyde de carbone"@fr ;
+    skos:prefLabel "Monóxido de carbono"@es ;
+    skos:prefLabel "Monossido di carbonio"@it ;
+    skos:prefLabel "монооксид вуглецю"@ua ;
+    skos:prefLabel "Угарный газ"@ru ;
+    skos:prefLabel "一氧化碳"@ch ;
+    skos:prefLabel "koolmonoxide"@nl .

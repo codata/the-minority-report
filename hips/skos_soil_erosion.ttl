@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:soil_erosion a skos:Concept ;
+    skos:prefLabel "Soil Erosion"@en ;
+    skos:definition "Erosion is the wearing away of the land surface by water, wind, ice, gravity or other natural or anthropogenic agents that abrade, detach and remove soil particles from one point on the earth's surface, for deposition elsewhere. Four main forms are recognized: water, wind, harvest and tillage. (FAO, 2020)."@en ;
+    skos:prefLabel "érosion des sols"@fr ;
+    skos:prefLabel "erosión del suelo"@es ;
+    skos:prefLabel "erosione del suolo"@it ;
+    skos:prefLabel "ерозія ґрунту"@ua ;
+    skos:prefLabel "эрозия почвы"@ru ;
+    skos:prefLabel "土壤侵蚀"@ch ;
+    skos:prefLabel "bodemerosie"@nl .

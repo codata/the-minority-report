@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:surface_water_flooding a skos:Concept ;
+    skos:prefLabel "Surface Water Flooding"@en ;
+    skos:definition "Surface water flooding is that part of the rain which remains on the ground surface during rain and either runs off or infiltrates after the rain ends, not including depression storage (WMO, 2012)."@en ;
+    skos:prefLabel "Inundación de agua superficial"@es ;
+    skos:prefLabel "Inondazione da ruscellamento superficiale"@it ;
+    skos:prefLabel "поверхневий паводок"@ua ;
+    skos:prefLabel "Поверхностное наводнение"@ru ;
+    skos:prefLabel "地表水洪水"@ch ;
+    skos:prefLabel "Oppervlaktewateroverstroming"@nl .

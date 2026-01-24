@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:river_erosion_and_accretion a skos:Concept ;
+    skos:prefLabel "River Erosion and Accretion"@en ;
+    skos:definition "River erosion is the removal of material from the banks and beds of rivers and streams (cf. Lawler, 1993). River accretion is the formation of new land such as channel bars, sandbanks and deltas by sedimentation or changing river flow (after Islam and Guchhait, 2020 and Hasanuzzaman et al., 2024)."@en ;
+    skos:prefLabel "Érosion fluviale et accretion fluviale"@fr ;
+    skos:prefLabel "erosión y acreción fluvial"@es ;
+    skos:prefLabel "річкова ерозія та акреція"@ua ;
+    skos:prefLabel "размыв и аккумуляция рек"@ru ;
+    skos:prefLabel "河流侵蚀与淤积"@ch ;
+    skos:prefLabel "Riviererosie en accretie"@nl .

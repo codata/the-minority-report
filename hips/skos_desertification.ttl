@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:desertification a skos:Concept ;
+    skos:prefLabel "Desertification"@en ;
+    skos:definition "Desertification refers to land degradation in arid, semi-arid and dry sub-humid areas resulting from various factors, including climatic variations and human activities (UNCCD, 2017)."@en ;
+    skos:prefLabel "désertification"@fr ;
+    skos:prefLabel "desertificación"@es ;
+    skos:prefLabel "desertificazione"@it ;
+    skos:prefLabel "пустелізація"@ua ;
+    skos:prefLabel "опустынивание"@ru ;
+    skos:prefLabel "沙漠化"@ch ;
+    skos:prefLabel "verwoestijning"@nl .

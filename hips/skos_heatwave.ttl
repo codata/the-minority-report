@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:heatwave a skos:Concept ;
+    skos:prefLabel "Heatwave"@en ;
+    skos:definition "A heatwave is a marked, unusual period of hot weather over a region persisting for at least two or three consecutive days and nights during the hot period of the year based on local climatological conditions, with thermal conditions recorded above given thresholds (WMO and WHO, 2015)."@en ;
+    skos:prefLabel "canicule"@fr ;
+    skos:prefLabel "ola de calor"@es ;
+    skos:prefLabel "ondata di calore"@it ;
+    skos:prefLabel "гаряча хвиля"@ua ;
+    skos:prefLabel "тепловая волна"@ru ;
+    skos:prefLabel "热浪"@ch ;
+    skos:prefLabel "hittegolf"@nl .

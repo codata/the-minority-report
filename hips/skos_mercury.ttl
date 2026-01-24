@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:mercury a skos:Concept ;
+    skos:prefLabel "Mercury"@en ;
+    skos:definition "Mercury is a naturally occurring element that is found in air, water and soil. Exposure to mercury – even small amounts – may cause serious health problems and is a threat to the development of the foetus in utero and for children early in life (WHO, 2021)."@en ;
+    skos:prefLabel "mercure"@fr ;
+    skos:prefLabel "mercurio"@es ;
+    skos:prefLabel "mercurio"@it ;
+    skos:prefLabel "ртуть"@ua ;
+    skos:prefLabel "ртуть"@ru ;
+    skos:prefLabel "汞"@ch ;
+    skos:prefLabel "Quecksilber"@nl .

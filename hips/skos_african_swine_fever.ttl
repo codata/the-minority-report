@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:african_swine_fever a skos:Concept ;
+    skos:prefLabel "African Swine Fever"@en ;
+    skos:definition "African swine fever (ASF) is a highly contagious viral disease of domestic and wild pigs, whose mortality rate can reach 100%. It is not a danger to human health, but it has devastating effects on pig populations and the farming economy. (WOAH, no date)."@en ;
+    skos:prefLabel "Fièvre porcine africaine"@fr ;
+    skos:prefLabel "Fiebre porcina africana"@es ;
+    skos:prefLabel "febbre suina africana"@it ;
+    skos:prefLabel "Африканська чума свиней"@ua ;
+    skos:prefLabel "Африканская чума свиней"@ru ;
+    skos:prefLabel "非洲猪瘟"@ch ;
+    skos:prefLabel "Afrikaanse varkenspest"@nl .

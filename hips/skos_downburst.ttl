@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:downburst a skos:Concept ;
+    skos:prefLabel "Downburst"@en ;
+    skos:definition "A downburst is a violent and damaging downdraught reaching the ground surface, associated with a severe thunderstorm (WMO, 1992)."@en ;
+    skos:prefLabel "rafale descendante"@fr ;
+    skos:prefLabel "descarga"@es ;
+    skos:prefLabel "downburst"@it ;
+    skos:prefLabel "поривчастий потік"@ua ;
+    skos:prefLabel "нисходящий поток"@ru ;
+    skos:prefLabel "downburst"@nl .

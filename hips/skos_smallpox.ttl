@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:smallpox a skos:Concept ;
+    skos:prefLabel "Smallpox"@en ;
+    skos:definition "Smallpox is an acute contagious disease caused by the variola virus. Before its eradication, smallpox was one of the world’s most devastating diseases known and was fatal in up to 30% of cases (WHO, no date a)."@en ;
+    skos:prefLabel "variole"@fr ;
+    skos:prefLabel "viruela"@es ;
+    skos:prefLabel "variola"@it ;
+    skos:prefLabel "віспа"@ua ;
+    skos:prefLabel "малая оспа"@ru ;
+    skos:prefLabel "天花"@ch ;
+    skos:prefLabel "variola"@nl .

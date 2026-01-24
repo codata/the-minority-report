@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:leptospirosis a skos:Concept ;
+    skos:prefLabel "Leptospirosis"@en ;
+    skos:definition "Leptospirosis is an infectious disease caused by a pathogenic bacterium of the genusLeptospira. These bacteria called leptospires affect both humans and animals. Humans become infected through direct contact with the urine of infected animals or with a urine-contaminated environment which can lead to serious and sometimes fatal disease (adapted from WHO & ILS, 2003)."@en ;
+    skos:prefLabel "leptospirose"@fr ;
+    skos:prefLabel "leptospirosis"@es ;
+    skos:prefLabel "leptospirosi"@it ;
+    skos:prefLabel "лептоспіроз"@ua ;
+    skos:prefLabel "лептоспироз"@ru ;
+    skos:prefLabel "钩端螺旋体病"@ch ;
+    skos:prefLabel "leptospirose"@nl .

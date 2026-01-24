@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:explosive_ordnance a skos:Concept ;
+    skos:prefLabel "Explosive Ordnance"@en ;
+    skos:definition "Explosive ordnance, including explosive remnants of war, is interpreted as encompassing the following munitions: mines, cluster munitions, unexploded ordnance, abandoned ordnance, booby traps and other devices (IMAS 4.10) that remain in the environment following the cessation of armed conflict."@en ;
+    skos:prefLabel "munition explosive"@fr ;
+    skos:prefLabel "munición explosiva"@es ;
+    skos:prefLabel "ordnanza esplosiva"@it ;
+    skos:prefLabel "взрывное вооружение"@ru ;
+    skos:prefLabel "爆炸性武器装备"@ch ;
+    skos:prefLabel "explosieve munitie"@nl .

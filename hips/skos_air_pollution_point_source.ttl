@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:air_pollution_point_source a skos:Concept ;
+    skos:prefLabel "Air Pollution (Point Source)"@en ;
+    skos:definition "A point source of air pollution is an identifiable stationary location or fixed facility from which air pollutants are released, which may be human-made or natural in origin (adapted from Kibble and Harrison, 2005; Dunne et al., 2014)."@en ;
+    skos:prefLabel "Pollution de l'air (source ponctuelle)"@fr ;
+    skos:prefLabel "Contaminación del aire (fuente puntual)"@es ;
+    skos:prefLabel "Inquinamento dell'aria (fonte puntuale)"@it ;
+    skos:prefLabel "Забруднення повітря (точкове джерело)"@ua ;
+    skos:prefLabel "Загрязнение воздуха (точечный источник)"@ru ;
+    skos:prefLabel "空气污染（点源）"@ch ;
+    skos:prefLabel "Luchtverontreiniging (puntbron)"@nl .

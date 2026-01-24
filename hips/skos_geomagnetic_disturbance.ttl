@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:geomagnetic_disturbance a skos:Concept ;
+    skos:prefLabel "Geomagnetic Disturbance"@en ;
+    skos:definition "A geomagnetic disturbance refers to perturbations in Earth's magnetosphere caused by sudden and significant variations in the solar wind's speed, density, and magnetic properties. The intensity of a geomagnetic disturbance can be measured using different geomagnetic indexes. Although a geomagnetic disturbance is a global phenomenon, the intensities and characteristics vary at different geographic locations (NOAA, 2023)."@en ;
+    skos:prefLabel "perturbation géomagnétique"@fr ;
+    skos:prefLabel "perturbación geomagnética"@es ;
+    skos:prefLabel "disturbo geomagnetico"@it ;
+    skos:prefLabel "геомагнітне порушення"@ua ;
+    skos:prefLabel "геомагнитное возмущение"@ru ;
+    skos:prefLabel "地磁扰动"@ch ;
+    skos:prefLabel "geomagnetische verstoring"@nl .

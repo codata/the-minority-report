@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:lead a skos:Concept ;
+    skos:prefLabel "Lead"@en ;
+    skos:definition "Lead is a naturally occurring highly toxic heavy metal. Its widespread use has caused extensive environmental contamination and health problems in many parts of the world. It is a cumulative toxicant that affects multiple body systems, including the neurological, haematological, gastrointestinal, cardiovascular and renal systems. Children are particularly vulnerable to the neurotoxic effects of lead, and even relatively low levels of exposure can cause serious and, in some cases, irreversible neurological damage (WHO, 2024)."@en ;
+    skos:prefLabel "plomb"@fr ;
+    skos:prefLabel "plomo"@es ;
+    skos:prefLabel "piombo"@it ;
+    skos:prefLabel "свинец"@ua ;
+    skos:prefLabel "свинец"@ru ;
+    skos:prefLabel "铅"@ch ;
+    skos:prefLabel "lood"@nl .

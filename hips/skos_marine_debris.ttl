@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:marine_debris a skos:Concept ;
+    skos:prefLabel "Marine Debris"@en ;
+    skos:definition "Marine debris is any persistent, manufactured or processed solid material discarded, disposed of or abandoned in the marine and coastal environment. Marine litter consists of items that have been made or used by people and deliberately discarded into the sea or rivers or on beaches; brought indirectly to the sea with rivers, sewage, stormwater or winds; or accidentally lost, including material lost at sea in bad weather (adapted from UN Environment, no date and NOAA, no date)."@en ;
+    skos:prefLabel "Déchets marins"@fr ;
+    skos:prefLabel "basura marina"@es ;
+    skos:prefLabel "rifiuti marini"@it ;
+    skos:prefLabel "морські відходи"@ua ;
+    skos:prefLabel "морские отходы"@ru ;
+    skos:prefLabel "海洋垃圾"@ch ;
+    skos:prefLabel "Marine afvalstoffen"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:eutrophication a skos:Concept ;
+    skos:prefLabel "Eutrophication"@en ;
+    skos:definition "Eutrophication refers to the phenomenon of increased production of organic matter, primarily nitrogen and phosphorus, in aquatic systems (Nixon, 1995). Eutrophication can be caused by human activities (e.g. sewage outfall, agricultural runoff, aquaculture) and may result in secondary environmental effects such as algal blooms and fish kills (NOAA, 2007; UNEP, 2015). Given the complex structure and functioning of ecosystems, and the multitude of pressures they face (Cloern, 2001), the precise definition of eutrophication remains to be established (Pannard et al., 2024)."@en ;
+    skos:prefLabel "eutrophisation"@fr ;
+    skos:prefLabel "eutrofización"@es ;
+    skos:prefLabel "eutrofizzazione"@it ;
+    skos:prefLabel "евтрофікація"@ua ;
+    skos:prefLabel "эвтрофикация"@ru ;
+    skos:prefLabel "富营养化"@ch ;
+    skos:prefLabel "eutrofisatie"@nl .

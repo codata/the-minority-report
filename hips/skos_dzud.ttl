@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:dzud a skos:Concept ;
+    skos:prefLabel "Dzud"@en ;
+    skos:definition "A dzud (a Mongolian term that describes ‘severe winter conditions’’, sometimes spelled zud) is a cold-season disaster in which anomalous climatic (i.e., heavy snow and severe cold) and/or land-surface (snow/ ice cover and lack of pasture) conditions lead to reduced accessibility and/or availability of forage/pastures, and ultimately to high livestock mortality during winter–spring (Natsagdorj & Dulamsuren, 2001)."@en ;
+    skos:prefLabel "dzud"@fr ;
+    skos:prefLabel "dzud"@es ;
+    skos:prefLabel "dzud"@it ;
+    skos:prefLabel "дзуд"@ua ;
+    skos:prefLabel "дзуд"@ru ;
+    skos:prefLabel "严冬灾害"@ch ;
+    skos:prefLabel "dzud"@nl .

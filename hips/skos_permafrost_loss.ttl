@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:permafrost_loss a skos:Concept ;
+    skos:prefLabel "Permafrost Loss"@en ;
+    skos:definition "Permafrost is defined as ground that remains frozen at or below 0°C for a minimum of two consecutive years. Permafrost loss, also known as permafrost thaw, is the progressive loss of ground ice in permafrost, usually due to input of heat. Thaw can occur over decades to centuries over the entire depth of permafrost ground, with impacts occurring while thaw progresses. During thaw, temperature fluctuations are subdued because energy is transferred by phase change between ice and water. After the transition from permafrost to non-permafrost, ground can be described as thawed (IPCC, 2019)."@en ;
+    skos:prefLabel "perte de pergélisol"@fr ;
+    skos:prefLabel "perdita di permafrost"@it ;
+    skos:prefLabel "Відтавання вічної мерзлоти"@ua ;
+    skos:prefLabel "Таяние вечной мерзлоты"@ru ;
+    skos:prefLabel "永久冻土融化"@ch ;
+    skos:prefLabel "permafrostverlies"@nl .

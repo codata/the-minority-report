@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:denial_of_service a skos:Concept ;
+    skos:prefLabel "Denial of Service"@en ;
+    skos:definition "Denial of service is the prevention of authorised access to resources or the delaying of time-critical operations. (Time-critical may be milliseconds or it may be hours, depending upon the service provided) (NIST, 2017)."@en ;
+    skos:prefLabel "déni de service"@fr ;
+    skos:prefLabel "denegación de servicio"@es ;
+    skos:prefLabel "negazione di servizio"@it ;
+    skos:prefLabel "Відмова в обслуговуванні"@ua ;
+    skos:prefLabel "отказ в обслуживании"@ru ;
+    skos:prefLabel "拒绝服务"@ch ;
+    skos:prefLabel "Denial of Service"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:prion_diseases a skos:Concept ;
+    skos:prefLabel "Prion Diseases"@en ;
+    skos:definition "Prion diseases are a family of rare progressive neurodegenerative disorders that affect both humans and animals (Adapted from CDC, 2024, and WHO, no date)."@en ;
+    skos:prefLabel "Maladies à prions"@fr ;
+    skos:prefLabel "Enfermedades por priones"@es ;
+    skos:prefLabel "Encefalopatie Spongiformi Trasmissibili"@it ;
+    skos:prefLabel "призонні захворювання"@ua ;
+    skos:prefLabel "Прионовые болезни"@ru ;
+    skos:prefLabel "朊蛋白病"@ch ;
+    skos:prefLabel "Prionziekten"@nl .

@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:tsunami a skos:Concept ;
+    skos:prefLabel "Tsunami"@en ;
+    skos:definition "Tsunami, a Japanese term meaning 'wave' (‘nami’) in a harbour (‘tsu’), refers to a series of long-period travelling waves, typically caused by disturbances such as earthquakes occurring beneath or near the ocean floor (IOC, 2019)."@en ;
+    skos:prefLabel "tsunami"@fr ;
+    skos:prefLabel "tsunami"@es ;
+    skos:prefLabel "tsunami"@it ;
+    skos:prefLabel "цунамі"@ua ;
+    skos:prefLabel "цунами"@ru ;
+    skos:prefLabel "海啸"@ch ;
+    skos:prefLabel "tsunami"@nl .

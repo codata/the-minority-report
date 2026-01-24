@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:rock_debris_and_earth_spreads_including_landscape_creep a skos:Concept ;
+    skos:prefLabel "Rock, debris and earth spreads (including landscape creep)"@en ;
+    skos:definition "Rock spread: Near-horizontal stretching (elongation) of a mass of coherent blocks of rock as a result of intensive deformation of an underlying weak material, or by multiple retrogressive sliding controlled by a weak basal surface. Usually with fairly limited total displacement and slow movement (Hungr et al., 2014)."@en ;
+    skos:prefLabel "Étalement rocheux, de débris et de terre (y compris le fluage du versant)"@fr ;
+    skos:prefLabel "desplazamiento de rocas, escombros y tierra (incluido el creep del paisaje)"@es ;
+    skos:prefLabel "Spread di roccia, detriti e terra (incluso creep)"@it ;
+    skos:prefLabel "Розповсюдження скельних, уламкових та ґрунтових мас (включно з повзучістю)"@ua ;
+    skos:prefLabel "Распространение скальных, обломочных и земляных масс (включая ползучесть)"@ru ;
+    skos:prefLabel "Verspreiding van gesteente, detritus en aarde (inclusief landkruip)"@nl .

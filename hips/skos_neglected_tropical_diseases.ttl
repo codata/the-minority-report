@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:neglected_tropical_diseases a skos:Concept ;
+    skos:prefLabel "Neglected Tropical Diseases"@en ;
+    skos:definition "Neglected tropical diseases (NTDs) are a diverse group of conditions caused by a variety of pathogens (including viruses, bacteria, parasites, fungi and toxins) and associated with devastating health, social and economic consequences. NTDs are mainly prevalent among impoverished communities in tropical areas, although some have a much larger geographical distribution. (WHO, no date a)."@en ;
+    skos:prefLabel "maladies tropicales négligées"@fr ;
+    skos:prefLabel "enfermedades tropicales desatendidas"@es ;
+    skos:prefLabel "malattie tropicali trascurate"@it ;
+    skos:prefLabel "недооцінені тропічні хвороби"@ua ;
+    skos:prefLabel "недооцененные тропические болезни"@ru ;
+    skos:prefLabel "被忽视的热带疾病"@ch ;
+    skos:prefLabel "verwaarloosde tropische ziekten"@nl .

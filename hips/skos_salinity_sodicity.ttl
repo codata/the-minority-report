@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:salinity_sodicity a skos:Concept ;
+    skos:prefLabel "Salinity & Sodicity"@en ;
+    skos:definition "Salt-affected soils consist of saline and sodic soils. Saline soils are those with an elevated amount of soluble salts, which reduces the ability of plants to take up water from soil due to the high osmotic pressure of the soil solution (FAO, 1985)."@en ;
+    skos:prefLabel "Salinité et Sodicité"@fr ;
+    skos:prefLabel "salinidad y sodicidad"@es ;
+    skos:prefLabel "salinità e sodicità"@it ;
+    skos:prefLabel "солоність і содність"@ua ;
+    skos:prefLabel "соленость и содовость"@ru ;
+    skos:prefLabel "盐度和钠碱度"@ch ;
+    skos:prefLabel "zoutgehalte en sodiciteit"@nl .

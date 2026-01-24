@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:water_supply_failure a skos:Concept ;
+    skos:prefLabel "Water Supply Failure"@en ;
+    skos:definition "Water supply failure is the physical shortage or scarcity in access of water supply due to the failure of institutions to ensure a regular supply or due to a lack of adequate infrastructure (adapted from UN-Water, no date)."@en ;
+    skos:prefLabel "Défaillance de l'approvisionnement en eau"@fr ;
+    skos:prefLabel "Fallo del suministro de agua"@es ;
+    skos:prefLabel "Interruzione dell'approvvigionamento idrico"@it ;
+    skos:prefLabel "Відмова водопостачання"@ua ;
+    skos:prefLabel "Сбой водоснабжения"@ru ;
+    skos:prefLabel "供水故障"@ch ;
+    skos:prefLabel "Waterleveringsstoring"@nl .

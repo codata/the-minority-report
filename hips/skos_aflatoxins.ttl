@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:aflatoxins a skos:Concept ;
+    skos:prefLabel "Aflatoxins"@en ;
+    skos:definition "Aflatoxins are mycotoxins – toxic compounds that are naturally produced by certain types of mould (fungi). Aflatoxins are among the most poisonous mycotoxins and are produced by certain moulds (Aspergillus flavus and A. parasiticus) that grow in soil, decaying vegetation, hay, and grains. Aflatoxins pose a serious health risk to humans and livestock (WHO, 2023)."@en ;
+    skos:prefLabel "aflatoxines"@fr ;
+    skos:prefLabel "aflatoxinas"@es ;
+    skos:prefLabel "aflatossine"@it ;
+    skos:prefLabel "афлатоксини"@ua ;
+    skos:prefLabel "афлатоксины"@ru ;
+    skos:prefLabel "黄曲霉毒素"@ch ;
+    skos:prefLabel "aflatoxine"@nl .

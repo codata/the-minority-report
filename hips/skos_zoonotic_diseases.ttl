@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:zoonotic_diseases a skos:Concept ;
+    skos:prefLabel "Zoonotic Diseases"@en ;
+    skos:definition "Zoonotic diseases, or zoonoses, are diseases shared between animals – including livestock, wildlife, and pets – and people. They can pose serious risks to both animal and human health and may have far-reaching impacts on economies and livelihoods and represent a major public health problem. Zoonotic diseases are commonly spread at the human-animal-environment interface – where people and animals interact with each other in their shared environment (adapted from WHO, FAO, WOAH, 2019 & WHO, 2020)."@en ;
+    skos:prefLabel "maladies zoonotiques"@fr ;
+    skos:prefLabel "enfermedades zoonóticas"@es ;
+    skos:prefLabel "Zoonosi"@it ;
+    skos:prefLabel "зоонозні захворювання"@ua ;
+    skos:prefLabel "зоонозы"@ru ;
+    skos:prefLabel "人畜共患病"@ch ;
+    skos:prefLabel "zoonotische ziekten"@nl .

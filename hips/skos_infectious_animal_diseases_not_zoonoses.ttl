@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:infectious_animal_diseases_not_zoonoses a skos:Concept ;
+    skos:prefLabel "Infectious Animal Diseases (Not Zoonoses)"@en ;
+    skos:definition "Non-zoonotic infectious animal diseases are not shared between animals and humans (WHO, FAO, & OIE, 2019)."@en ;
+    skos:prefLabel "Maladies infectieuses des animaux non transférables aux humains"@fr ;
+    skos:prefLabel "enfermedades infecciosas animales no zoonóticas"@es ;
+    skos:prefLabel "Malattie infettive degli animali (non zoonotiche)"@it ;
+    skos:prefLabel "Інфекційні хвороби тварин (не зоонози)"@ua ;
+    skos:prefLabel "Инфекционные болезни животных, не являющиеся зоонозами"@ru ;
+    skos:prefLabel "动物传染性疾病（非人畜共患病）"@ch ;
+    skos:prefLabel "niet-zoonotische infectieuze dierziekten"@nl .

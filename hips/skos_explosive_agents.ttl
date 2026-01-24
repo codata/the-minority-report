@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:explosive_agents a skos:Concept ;
+    skos:prefLabel "Explosive agents"@en ;
+    skos:definition "An explosive substance or agent is a solid or liquid substance (or mixture of substances) which is in itself capable, by chemical reaction, of producing gas at such a temperature and pressure and at such a speed as to cause damage to the surroundings. Pyrotechnic substances and mixtures are included even when they do not evolve gases.  Explosions can cause multiple severely injured casualties in a single incident (Adapted from UN 2023 and UK Parliament POSTNOTE 2011)."@en ;
+    skos:prefLabel "agents explosifs"@fr ;
+    skos:prefLabel "agentes explosivos"@es ;
+    skos:prefLabel "agenti esplosivi"@it ;
+    skos:prefLabel "вибухові речовини"@ua ;
+    skos:prefLabel "взрывчатые вещества"@ru ;
+    skos:prefLabel "explosieve stoffen"@nl .

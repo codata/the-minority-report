@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:shrimp_disease_bacterial_acute_hepatic_pancreatic_necrosis a skos:Concept ;
+    skos:prefLabel "Shrimp disease (bacterial) - Acute Hepatic Pancreatic Necrosis"@en ;
+    skos:definition "Shrimp acute hepatopancreatic necrosis disease (AHPND) is caused by virulent strains ofVibrio parahaemolyticusand related Vibrio species. AHPND-associated mortalities occur early in the production cycle, usually within 30 to 35 days of stocking, and because of this AHPND was initially referred to as early mortality syndrome (WOAH, 2023)."@en ;
+    skos:prefLabel "Nécrose hépatopancréatique aiguë"@fr ;
+    skos:prefLabel "Necrosis hepato‑pancreática aguda"@es ;
+    skos:prefLabel "Гостра гепатопанкреатична некротична хвороба креветок"@ua ;
+    skos:prefLabel "Острая гепатопанкреатическая некротическая болезнь креветок"@ru ;
+    skos:prefLabel "急性肝胰腺坏死症"@ch .

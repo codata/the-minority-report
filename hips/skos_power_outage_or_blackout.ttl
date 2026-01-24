@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:power_outage_or_blackout a skos:Concept ;
+    skos:prefLabel "Power Outage/ or Blackout"@en ;
+    skos:definition "In the electric power domain, especially in power transmission and distribution, a power outage usually refers to a partial or total loss of power supply to some end user (e.g., population, enterprises, critical systems). Triggering factors may include accidents, equipment breakdowns, failure of control mechanisms, targeted attacks (physical or cyber), organisational errors, and natural hazards (adapted from Pescaroli et al., 2017; UK Cabinet Office, 2017; EIS Council, 2019; FEMA, 2018)."@en ;
+    skos:prefLabel "blackout"@fr ;
+    skos:prefLabel "Corte de energía"@es ;
+    skos:prefLabel "Interruzione di corrente"@it ;
+    skos:prefLabel "Відключення електроенергії"@ua ;
+    skos:prefLabel "Отключение электроэнергии"@ru ;
+    skos:prefLabel "停电"@ch ;
+    skos:prefLabel "Stroomuitval"@nl .

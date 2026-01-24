@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:brucellosis a skos:Concept ;
+    skos:prefLabel "Brucellosis"@en ;
+    skos:definition "Brucellosis is a bacterial disease caused by various Brucella species, which mainly infect cattle, swine, goats, sheep and dogs. Humans generally acquire the disease through direct contact with infected animals (WHO, 2020)."@en ;
+    skos:prefLabel "brucellose"@fr ;
+    skos:prefLabel "brucelosis"@es ;
+    skos:prefLabel "brucellosi"@it ;
+    skos:prefLabel "бруцельоз"@ua ;
+    skos:prefLabel "бруцеллез"@ru ;
+    skos:prefLabel "布鲁氏菌病"@ch ;
+    skos:prefLabel "brucellose"@nl .

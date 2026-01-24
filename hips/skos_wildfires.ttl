@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:wildfires a skos:Concept ;
+    skos:prefLabel "Wildfires"@en ;
+    skos:definition "Any unplanned and uncontrolled vegetation fire that, regardless of ignition source, may negatively affect social, economic or environmental values, and require suppression response or other action according to agency policy (FAO, 2024)."@en ;
+    skos:prefLabel "Incendies de forêt"@fr ;
+    skos:prefLabel "Incendios forestales"@es ;
+    skos:prefLabel "Incendi boschivi"@it ;
+    skos:prefLabel "Лесные пожары"@ru ;
+    skos:prefLabel "森林火灾"@ch ;
+    skos:prefLabel "bosbrand"@nl .

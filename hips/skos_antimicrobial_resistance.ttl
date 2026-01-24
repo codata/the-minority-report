@@ -1,0 +1,15 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+
+ex:antimicrobial_resistance a skos:Concept ;
+    skos:prefLabel "Antimicrobial Resistance"@en ;
+    skos:definition "Antimicrobial-resistant (AMR) microorganisms are bacteria, fungi, viruses, or parasites that evolve to withstand antimicrobial treatments, including antibiotics, antifungals, antivirals, and antiparasitics. These resistant microorganisms, make infections harder to treat, increasing the risk of disease spread, severe illness, and mortality. AMR is a major global public health and food security challenge and is driven by the misuse and overuse of antimicrobials in human medicine, animal health, and plant production and protection, as well as environmental contamination (adapted from WHO, 2023 and FAO, 2025)."@en ;
+    skos:prefLabel "Résistance aux antimicrobiens"@fr ;
+    skos:prefLabel "Resistencia a los antimicrobianos"@es ;
+    skos:prefLabel "Resistenza antimicrobica"@it ;
+    skos:prefLabel "Антимікробна резистентність"@ua ;
+    skos:prefLabel "Антимикробная резистентность"@ru ;
+    skos:prefLabel "抗菌药物耐药性"@ch ;
+    skos:prefLabel "Antimicrobiële resistentie"@nl .
