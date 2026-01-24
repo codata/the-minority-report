@@ -152,7 +152,7 @@ def train(args):
         packing = False, # Can make training 5x faster for short sequences.
         args = TrainingArguments(
             per_device_train_batch_size = 2,
-            gradient_accumulation_steps = 4,
+            gradient_accumulation_steps = 1,
             warmup_steps = 5,
             max_steps = args.max_steps, # 60 steps is usually enough for small data
             learning_rate = 2e-4,
