@@ -3,114 +3,219 @@ import argparse
 import sys
 import datetime
 import os
+import csv
+from rdflib import Graph, Namespace
+from rdflib.namespace import SKOS
+import mlcroissant as mlc
 
-def generate_croissant_metadata(dataset_name, description, file_path, num_records, source_url=None, source_file=None, llm_model="gpt-oss:latest"):
-    """Generates a basic Croissant metadata.json structure."""
+def load_semantic_mappings(mapping_file):
+    """
+    Loads the Turtle mapping file and returns a dictionary mapping
+    CSV columns (local namespace) to Croissant/Schema.org properties.
+    """
+    g = Graph()
+    g.parse(mapping_file, format="turtle")
     
-    current_date = datetime.datetime.now().isoformat()
+    # We want a map: CSV_Column_Name -> Target_Property_URI
+    mappings = {}
     
-    # Auto-detect models from CSV if possible
-    models_found = set(llm_model.split(",")) if llm_model else set()
-    import csv
-    import os
+    # Query the graph for exact matches
+    # ?localColumn skos:exactMatch ?targetProperty
+    for s, p, o in g.triples((None, SKOS.exactMatch, None)):
+        local_name = s.split("/")[-1]
+        target_uri = str(o)
+        mappings[local_name] = target_uri
+        
+    return mappings
+
+def generate_croissant_metadata(dataset_name, description, file_path, num_records, source_url=None, source_file=None, llm_model="gpt-oss:latest", mapping_file=None):
+    """Generates a Croissant metadata structure using mlcroissant library."""
     
-    actual_file_path = file_path
-    if not os.path.exists(actual_file_path):
+    # Load Mappings
+    if not mapping_file:
          script_dir = os.path.dirname(os.path.abspath(__file__))
-         proj_root = os.path.dirname(os.path.dirname(script_dir))
-         try_path = os.path.join(proj_root, file_path)
-         if os.path.exists(try_path):
-              actual_file_path = try_path
-
-    if os.path.exists(actual_file_path):
+         mapping_file = os.path.join(os.path.dirname(script_dir), "mappings", "csv_to_croissant.ttl")
+    
+    column_map = {}
+    if os.path.exists(mapping_file):
         try:
-            with open(actual_file_path, "r") as f:
+             column_map = load_semantic_mappings(mapping_file)
+             print(f"Loaded semantic mappings from {mapping_file}")
+        except Exception as e:
+             print(f"Error loading semantic mappings: {e}")
+    else:
+        print(f"Warning: Mapping file {mapping_file} not found. Using defaults.")
+
+    # Auto-detect models
+    models_found = set(llm_model.split(",")) if llm_model else set()
+    
+    if os.path.exists(file_path):
+        try:
+            with open(file_path, "r") as f:
                 reader = csv.DictReader(f)
                 for row in reader:
                     if "winning_model" in row and row["winning_model"]:
                         models_found.add(row["winning_model"].strip())
         except:
             pass
-    
-    # Parse dataset_name if it is a JSON string (for multilingual support)
-    name_value = dataset_name
-    try:
-        name_obj = json.loads(dataset_name)
-        if isinstance(name_obj, dict):
-             # Legacy dict format: {lang: value}
-             name_value = []
-             for lang, val in name_obj.items():
-                 name_value.append({"@value": val, "@language": lang})
-        elif isinstance(name_obj, list):
-             # New list format: [{"value": ..., "lang": ..., "model": ...}]
-             name_value = []
-             for item in name_obj:
-                 entry = {"@value": item["value"], "@language": item["lang"]}
-                 if item.get("model"):
-                      # Link to creator ID
-                      entry["creator"] = {"@id": f"model_{item['model'].strip().replace(':', '_').replace('.', '_')}"}
-                 name_value.append(entry)
-    except:
-        pass # Treat as simple string
 
-    metadata = {
-        "@context": {
-            "@language": "en",
-            "@vocab": "https://schema.org/",
-            "cr": "http://mlcommons.org/croissant/",
-            "rai": "http://mlcommons.org/croissant/RAI/"
-        },
-        "@type": "sc:Dataset",
-        "name": name_value,
-        "description": description,
-        "datePublished": current_date,
-        "creator": [
-            {
-                "@id": f"model_{m.strip().replace(':', '_').replace('.', '_')}",
+    # Build Creators List
+    creators = []
+    for m in sorted(list(models_found)):
+        if m.strip():
+            # Note: mlcroissant doesn't have a direct 'SoftwareApplication' type helper yet roughly, 
+            # so we might pass these as simple dicts or objects if allowed. 
+            # mlc.Metadata.creators expects a list of Person or Organization usually? 
+            # Looking at the library, it might support dictionary for custom types.
+            # Let's try passing dict with @type for now, or check if mlc has classes.
+            # If not, we can pass standard json-ld dicts.
+            creators.append({
                 "@type": "sc:SoftwareApplication",
+                "@id": f"model_{m.strip().replace(':', '_').replace('.', '_')}",
                 "name": m.strip(),
                 "version": "1.0",
                 "description": f"The Large Language Model ({m.strip()}) used to generate translations."
-            } for m in sorted(list(models_found)) if m.strip()
-        ],
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "distribution": [
-            {
-                "@type": "cr:FileObject",
-                "@id": "file_object",
-                "name": "multilingual_cv_data",
-                "contentUrl": file_path,
-                "encodingFormat": "text/csv",
-                "sha256": "TODO:CALCULATE_HASH" 
-            }
-        ],
-        "cr:conformance": "http://mlcommons.org/croissant/1.0"
-    }
+            })
 
-    if source_url:
-        metadata["citation"] = source_url
-
-    fields = [
-        {"@type": "cr:Field", "@id": "term", "name": "term", "description": "The source term being translated.", "dataType": "sc:Text", "source": {"fileObject": {"@id": "file_object"}, "extract": {"column": "term"}}},
-        {"@type": "cr:Field", "@id": "context", "name": "context", "description": "The definition or context of the term.", "dataType": "sc:Text", "source": {"fileObject": {"@id": "file_object"}, "extract": {"column": "context"}}},
-        {"@type": "cr:Field", "@id": "translation", "name": "translation", "description": "The translated term.", "dataType": "sc:Text", "source": {"fileObject": {"@id": "file_object"}, "extract": {"column": "translation"}}},
-        {"@type": "cr:Field", "@id": "language", "name": "language", "description": "The ISO 639-1 language code of the translation.", "dataType": "sc:Text", "source": {"fileObject": {"@id": "file_object"}, "extract": {"column": "language"}}},
-        {"@type": "cr:Field", "@id": "confidence", "name": "confidence", "description": "The confidence score of the translation (0.0 to 1.0).", "dataType": "sc:Float", "source": {"fileObject": {"@id": "file_object"}, "extract": {"column": "confidence"}}},
-        {"@type": "cr:Field", "@id": "winning_model", "name": "winning_model", "description": "The software agent selected as the source for this translation row.", "dataType": "sc:Text", "source": {"fileObject": {"@id": "file_object"}, "extract": {"column": "winning_model"}}},
-        {"@type": "cr:Field", "@id": "consensus", "name": "consensus", "description": "The decision reached by the arbitrage logic (e.g., consensus reached and vote count).", "dataType": "sc:Text", "source": {"fileObject": {"@id": "file_object"}, "extract": {"column": "consensus"}}},
-        {"@type": "cr:Field", "@id": "version", "name": "version", "description": "The version of the software used.", "dataType": "sc:Text", "source": {"fileObject": {"@id": "file_object"}, "extract": {"column": "version"}}}
+    # Define FileObject
+    distribution = [
+        mlc.FileObject(
+            id="file_object",
+            name="multilingual_cv_data",
+            content_url=file_path,
+            encoding_format="text/csv",
+            sha256="TODO:CALCULATE_HASH" 
+        )
     ]
     
-    metadata["recordSet"] = [
-            {
-                "@type": "cr:RecordSet",
-                "@id": "record_set",
-                "name": "translations",
-                "field": fields
-            }
-        ]
+    # Dynamic Field Generation
+    known_columns = ["term", "context", "translation", "language", "confidence", "winning_model", "consensus", "version"]
+    fields = []
     
-    return metadata
+    for col in known_columns:
+        semantic_type = column_map.get(col)
+        
+        desc = ""
+        if col == "term": desc = "The source term being translated."
+        if col == "context": desc = "The definition or context of the term."
+        if col == "translation": desc = "The translated term."
+        if col == "language": desc = "The ISO 639-1 language code of the translation."
+        if col == "confidence": desc = "The confidence score of the translation (0.0 to 1.0)."
+        if col == "winning_model": desc = "The software agent selected as the source for this translation row."
+        if col == "consensus": desc = "The decision reached by the arbitrage logic (e.g., consensus reached and vote count)."
+        if col == "version": desc = "The version of the software used."
+        
+        dtype = mlc.DataType.FLOAT if col == "confidence" else mlc.DataType.TEXT
+        
+        fields.append(
+            mlc.Field(
+                id=col,
+                name=col,
+                description=desc,
+                data_types=[dtype],
+                source=mlc.Source(
+                    file_object="file_object",
+                    extract=mlc.Extract(column=col)
+                )
+            )
+        )
+
+    # Define RecordSet
+    record_sets = [
+        mlc.RecordSet(
+            id="record_set",
+            name="translations",
+            fields=fields
+        )
+    ]
+
+    # Construct Metadata
+    # Fix: mlcroissant expects name to be a string. 
+    # We extract the English name or first available value as the main name.
+    final_name = "Multilingual Dataset"
+    try:
+        if isinstance(dataset_name, str):
+            # Try parsing if it looks like JSON
+            if dataset_name.strip().startswith("[") or dataset_name.strip().startswith("{"):
+                try:
+                    name_obj = json.loads(dataset_name)
+                except:
+                    name_obj = dataset_name
+            else:
+                name_obj = dataset_name
+        else:
+             name_obj = dataset_name
+             
+        if isinstance(name_obj, list):
+            # Find en
+            for item in name_obj:
+                if item.get("lang") == "en" or item.get("@language") == "en":
+                     final_name = item.get("value") or item.get("@value")
+                     break
+            else:
+                # Use first
+                if len(name_obj) > 0:
+                    item = name_obj[0]
+                    final_name = item.get("value") or item.get("@value")
+    except:
+        final_name = str(dataset_name)
+
+    # Parse multilingual name for jsonld injection
+    extra_jsonld = {}
+    if isinstance(name_obj, list):
+         # Schema.org expects Text or TextObject. 
+         # We can pass the list of dicts directly if keys match JSON-LD compaction (value/language -> @value/@language)
+         # The input name_obj has keys "value", "lang" or "@value", "@language" depending on source.
+         # We normalize to JSON-LD standard.
+         normalized_names = []
+         for item in name_obj:
+             val = item.get("value") or item.get("@value")
+             lang = item.get("lang") or item.get("@language")
+             if val and lang:
+                 normalized_names.append({
+                     "@value": val,
+                     "@language": lang
+                 })
+         
+         if normalized_names:
+             extra_jsonld["https://schema.org/alternateName"] = normalized_names
+
+    # Use source_url as citation if available
+    cite_as = source_url if source_url else None
+
+    metadata = mlc.Metadata(
+        name=final_name,
+        description=description,
+        date_published=datetime.datetime.now(), # Pass object, let serializer handle or to_json
+        creators=creators,
+        license="https://creativecommons.org/licenses/by/4.0/",
+        distribution=distribution,
+        record_sets=record_sets,
+        version="1.0.0",
+        cite_as=cite_as,
+        jsonld=extra_jsonld
+    )
+    
+    
+    # Validation happens on init/post_init usually
+    json_output = metadata.to_json()
+
+    # Manual injection of alternateName if available
+    # mlcroissant might not handle custom jsonld injection as expected for top-level metadata
+    if extra_jsonld.get("https://schema.org/alternateName"):
+        # Check context for alias
+        # We assume standard context where sc -> https://schema.org/
+        # or vocab is schema.org
+        json_output["sc:alternateName"] = extra_jsonld["https://schema.org/alternateName"]
+        
+    return json_output
+
+# Helper for datetime serialization
+class DateTimeEncoder(json.JSONEncoder):
+    def default(self, o):
+        if isinstance(o, (datetime.date, datetime.datetime)):
+            return o.isoformat()
+        return super().default(o)
 
 def main():
     parser = argparse.ArgumentParser(description="Generate Croissant Metadata for Multilingual CV")
@@ -122,30 +227,33 @@ def main():
     parser.add_argument("--source-url", "--source_url", dest="source_url", help="URL source of the original term")
     parser.add_argument("--source-file", "--source_file", dest="source_file", help="File source of the original term")
     parser.add_argument("--llm-model", "--llm_model", dest="llm_model", default="gpt-oss:latest", help="The LLM model used for generation")
-    
-    # In a real pipeline, we might accept a JSON blob of results to append to the CSV, 
-    # but for now we'll assume the data file is being managed or passed in.
+    parser.add_argument("--mapping-file", "--mapping_file", dest="mapping_file", help="Path to Turtle mapping file")
     
     args = parser.parse_args()
     
-    # Placeholder for reading line count or calculating hash
-    num_records = 0 # would calculate normally
-    
-    metadata = generate_croissant_metadata(
-        args.dataset_name, 
-        args.description,
-        args.data_file,
-        num_records,
-        source_url=args.source_url,
-        source_file=args.source_file,
-        llm_model=args.llm_model
-    )
-    
-    output_path = os.path.join(args.output_dir, args.output_file)
-    with open(output_path, "w") as f:
-        json.dump(metadata, f, indent=2)
-    
-    print(f"Successfully generated {output_path}")
+    # Generate
+    try:
+        json_output = generate_croissant_metadata(
+            args.dataset_name, 
+            args.description,
+            args.data_file,
+            0,
+            source_url=args.source_url,
+            source_file=args.source_file,
+            llm_model=args.llm_model,
+            mapping_file=args.mapping_file
+        )
+        
+        output_path = os.path.join(args.output_dir, args.output_file)
+        with open(output_path, "w") as f:
+            json.dump(json_output, f, indent=2, cls=DateTimeEncoder)
+        
+        print(f"Successfully generated {output_path}")
+        
+    except Exception as e:
+        print(f"Error generating Croissant metadata: {e}")
+        import traceback
+        traceback.print_exc()
 
 if __name__ == "__main__":
     main()
