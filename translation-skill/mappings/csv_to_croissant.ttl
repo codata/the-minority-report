@@ -1,0 +1,41 @@
+@prefix mlcroissant: <http://mlcommons.org/croissant/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix ex: <http://theminorityreport.org/vocab/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+# Mapping from local CSV column names (represented as resources in ex namespace) 
+# to Croissant/Schema.org properties.
+
+# The CSV column 'term' maps to the Schema.org name of the record
+# The CSV column 'term' maps to the Schema.org name of the record
+ex:term skos:exactMatch schema:name ;
+    rdfs:comment "The source term being translated." .
+
+# The CSV column 'context' maps to the Schema.org/Croissant description
+ex:context skos:exactMatch schema:description ;
+    rdfs:comment "The definition or context of the term." .
+
+# The CSV column 'translation' maps to the record value (or main entity)
+ex:translation skos:exactMatch schema:value ;
+    rdfs:comment "The translated term." .
+
+# The CSV column 'language' maps to the language property
+ex:language skos:exactMatch schema:inLanguage ;
+    rdfs:comment "The ISO 639-1 language code of the translation." .
+
+# The CSV column 'winning_model' maps to the creator of the translation
+ex:winning_model skos:exactMatch schema:creator ;
+    rdfs:comment "The software agent selected as the source for this translation row." .
+
+# The CSV column 'confidence' is a custom property, possibly mapped to something specific or kept as custom
+ex:confidence skos:exactMatch mlcroissant:quality ;
+    rdfs:comment "The confidence score of the translation (0.0 to 1.0)." .
+
+# The CSV column 'version' maps to schema:version
+ex:version skos:exactMatch schema:version ;
+    rdfs:comment "The version of the software used." .
+
+# The CSV column 'consensus' maps to custom property
+ex:consensus skos:exactMatch ex:consensusDecision ;
+    rdfs:comment "The decision reached by the arbitrage logic (e.g., consensus reached and vote count)." .
