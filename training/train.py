@@ -156,9 +156,10 @@ def train(args):
             warmup_steps = 5,
             max_steps = args.max_steps, # 60 steps is usually enough for small data
             learning_rate = 2e-4,
-            fp16 = not torch.cuda.is_bf16_supported(),
-            bf16 = torch.cuda.is_bf16_supported(),
-            logging_steps = 1,
+            fp16 = False,
+            bf16 = False,
+            logging_steps = 10,
+            report_to = "none",
             optim = "adamw_8bit",
             weight_decay = 0.01,
             lr_scheduler_type = "linear",
