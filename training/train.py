@@ -81,7 +81,7 @@ def train(args):
     model = AutoModelForCausalLM.from_pretrained(
         args.model_name,
         load_in_4bit=True,
-        device_map="auto",
+        device_map={"": torch.cuda.current_device()},
         torch_dtype=torch.float16,
     )
     
