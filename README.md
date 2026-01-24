@@ -86,9 +86,9 @@ The Minority Report can be run as a Model Context Protocol (MCP) server, allowin
    ```json
    {
      "mcpServers": {
-       "rosetta": {
+       "minority-report": {
          "command": "python3",
-         "args": ["/Users/vyacheslavtykhonov/projects/rosetta-ai/translation-skill/scripts/mcp_server.py"],
+         "args": ["/Users/vyacheslavtykhonov/projects/the-minority-report/translation-skill/scripts/mcp_server.py"],
          "env": {
            "OLLAMA_HOST": "http://10.147.18.253:11434"
          }
@@ -97,7 +97,7 @@ The Minority Report can be run as a Model Context Protocol (MCP) server, allowin
    }
    ```
 
-### How to Use Rosetta AI MCP
+### How to Use Minority Report MCP
 
 Once configured, you can ask your LLM to perform complex technical translations.
 

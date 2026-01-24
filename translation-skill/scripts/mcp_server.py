@@ -13,7 +13,7 @@ except ImportError:
     # Fallback if running from a different context
     from translation_skill.scripts.orchestrator import scrape_url, process_terms, load_prompt
 
-mcp = FastMCP("Rosetta AI")
+mcp = FastMCP("Minority Report")
 
 # Setup project paths
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

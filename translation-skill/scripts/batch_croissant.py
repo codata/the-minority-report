@@ -8,6 +8,14 @@ import sys
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from croissant_generator import generate_croissant_metadata
 
+import datetime
+
+class DateTimeEncoder(json.JSONEncoder):
+    def default(self, o):
+        if isinstance(o, (datetime.date, datetime.datetime)):
+            return o.isoformat()
+        return super().default(o)
+
 def main():
     parser = argparse.ArgumentParser(description="Batch Generate Croissant Metadata from CSV")
     parser.add_argument("--input-file", dest="input_file", required=True, help="Path to input CSV (e.g., data/final_translations.csv)")
@@ -122,7 +130,7 @@ def main():
         output_path = os.path.join(args.output_dir, output_filename)
         
         with open(output_path, "w") as f:
-            json.dump(metadata, f, indent=2)
+            json.dump(metadata, f, indent=2, cls=DateTimeEncoder)
             
         print(f"Generated {output_path}")
 
