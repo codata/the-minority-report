@@ -1,15 +1,18 @@
 
-# Disable Unsloth's torch.compile optimizations that are causing issues
-import os
-os.environ["UNSLOTH_COMPILE"] = "0"
-
 import json
 import glob
+import os
 import argparse
 import torch
 from datasets import Dataset
-from unsloth import FastLanguageModel
-from transformers import Trainer, TrainingArguments, DataCollatorForLanguageModeling
+from transformers import (
+    AutoModelForCausalLM,
+    AutoTokenizer,
+    Trainer,
+    TrainingArguments,
+    DataCollatorForLanguageModeling,
+)
+from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 
 def load_croissant_data(data_dir):
     """
@@ -34,7 +37,6 @@ def load_croissant_data(data_dir):
             identifier = data.get("https://schema.org/identifier", "")
             
             # Extract Translations from alternateName
-            # Format: [{"@value": "...", "@language": "...", "creator": ...}]
             alternates = data.get("sc:alternateName", [])
             
             if not alternates:
@@ -73,34 +75,35 @@ def load_croissant_data(data_dir):
     return training_samples
 
 def train(args):
-    # 1. Configuration
-    max_seq_length = 2048
-    dtype = None
-    load_in_4bit = True
-
-    # 2. Load Model
+    # 1. Load Model and Tokenizer
     print(f"Loading model: {args.model_name}")
-    model, tokenizer = FastLanguageModel.from_pretrained(
-        model_name = args.model_name,
-        max_seq_length = max_seq_length,
-        dtype = dtype,
-        load_in_4bit = load_in_4bit,
+    
+    model = AutoModelForCausalLM.from_pretrained(
+        args.model_name,
+        load_in_4bit=True,
+        device_map="auto",
+        torch_dtype=torch.float16,
     )
+    
+    tokenizer = AutoTokenizer.from_pretrained(args.model_name)
+    tokenizer.pad_token = tokenizer.eos_token
+    tokenizer.padding_side = "right"
 
-    # 3. Add LoRA Adapters
-    model = FastLanguageModel.get_peft_model(
-        model,
-        r = 16,
-        target_modules = ["q_proj", "k_proj", "v_proj", "o_proj",
-                          "gate_proj", "up_proj", "down_proj",],
-        lora_alpha = 16,
-        lora_dropout = 0,
-        bias = "none",
-        use_gradient_checkpointing = "unsloth",
-        random_state = 3407,
-        use_rslora = False,
-        loftq_config = None,
+    # 2. Prepare model for training
+    model = prepare_model_for_kbit_training(model)
+    
+    # 3. Configure LoRA
+    lora_config = LoraConfig(
+        r=16,
+        lora_alpha=16,
+        target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
+        lora_dropout=0.05,
+        bias="none",
+        task_type="CAUSAL_LM",
     )
+    
+    model = get_peft_model(model, lora_config)
+    model.print_trainable_parameters()
 
     # 4. Prepare Data
     print("Loading data...")
@@ -132,52 +135,41 @@ def train(args):
             text = alpaca_prompt.format(instruction, input_text, output) + EOS_TOKEN
             texts.append(text)
         
-        return tokenizer(texts, truncation=True, max_length=max_seq_length, padding=False)
+        return tokenizer(texts, truncation=True, max_length=2048, padding=False)
 
     dataset = Dataset.from_list(raw_data)
     tokenized_dataset = dataset.map(tokenize_function, batched=True, remove_columns=dataset.column_names)
 
-    # 5. Training with standard Trainer (bypasses SFTTrainer issues)
+    # 5. Training
     print("Starting training...")
     
-    # CRITICAL: Disable Unsloth's training optimizations that are causing the error
-    # We'll use Unsloth for model loading and LoRA, but not for training loop
-    model.config.use_cache = False  # Required for training
-    
-    # Manually set model to training mode (bypass Unsloth's for_training)
-    model.train()
-    for param in model.parameters():
-        if param.requires_grad:
-            param.requires_grad = True
+    model.config.use_cache = False
     
     data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
     
     training_args = TrainingArguments(
-        output_dir = args.output_dir,
-        per_device_train_batch_size = 2,
-        gradient_accumulation_steps = 1,
-        warmup_steps = 5,
-        max_steps = args.max_steps,
-        learning_rate = 2e-4,
-        fp16 = False,
-        bf16 = False,
-        logging_steps = 10,
-        report_to = "none",
-        optim = "adamw_torch",  # Changed from adamw_8bit for compatibility
-        weight_decay = 0.01,
-        lr_scheduler_type = "linear",
-        seed = 3407,
-        save_strategy = "steps",
-        save_steps = 30,
-        # Disable Unsloth's compiled training step
-        use_cpu = False,
+        output_dir=args.output_dir,
+        per_device_train_batch_size=2,
+        gradient_accumulation_steps=4,
+        warmup_steps=5,
+        max_steps=args.max_steps,
+        learning_rate=2e-4,
+        fp16=True,
+        logging_steps=10,
+        report_to="none",
+        optim="paged_adamw_8bit",
+        weight_decay=0.01,
+        lr_scheduler_type="linear",
+        seed=3407,
+        save_strategy="steps",
+        save_steps=30,
     )
     
     trainer = Trainer(
-        model = model,
-        args = training_args,
-        train_dataset = tokenized_dataset,
-        data_collator = data_collator,
+        model=model,
+        args=training_args,
+        train_dataset=tokenized_dataset,
+        data_collator=data_collator,
     )
 
     trainer.train()
@@ -187,22 +179,14 @@ def train(args):
     model.save_pretrained(args.output_dir)
     tokenizer.save_pretrained(args.output_dir)
     
-    # 7. GGUF Export
-    if args.export_gguf:
-        print("Exporting to GGUF...")
-        try:
-            model.save_pretrained_gguf(args.output_dir, tokenizer, quantization_method = "q4_k_m")
-            print(f"GGUF saved to {args.output_dir}")
-        except Exception as e:
-            print(f"GGUF Export failed: {e}")
+    print("Training complete!")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Fine-tune Gemma for Minority Report Translation")
     parser.add_argument("--data-dir", default="output", help="Directory containing Croissant JSON files")
-    parser.add_argument("--model-name", default="unsloth/gemma-2-2b-it", help="Base model (HuggingFace/Unsloth ID)")
+    parser.add_argument("--model-name", default="google/gemma-2-2b-it", help="Base model (HuggingFace ID)")
     parser.add_argument("--output-dir", default="training/fine_tuned_model", help="Output directory")
     parser.add_argument("--max-steps", type=int, default=60, help="Max training steps")
-    parser.add_argument("--export-gguf", action="store_true", help="Export to GGUF format after training")
     
     args = parser.parse_args()
     
