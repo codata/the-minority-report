@@ -1,7 +1,10 @@
 
+# Disable Unsloth's torch.compile optimizations that are causing issues
+import os
+os.environ["UNSLOTH_COMPILE"] = "0"
+
 import json
 import glob
-import os
 import argparse
 import torch
 from datasets import Dataset
@@ -137,8 +140,15 @@ def train(args):
     # 5. Training with standard Trainer (bypasses SFTTrainer issues)
     print("Starting training...")
     
-    # Prepare model for training
-    FastLanguageModel.for_training(model)
+    # CRITICAL: Disable Unsloth's training optimizations that are causing the error
+    # We'll use Unsloth for model loading and LoRA, but not for training loop
+    model.config.use_cache = False  # Required for training
+    
+    # Manually set model to training mode (bypass Unsloth's for_training)
+    model.train()
+    for param in model.parameters():
+        if param.requires_grad:
+            param.requires_grad = True
     
     data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
     
@@ -159,6 +169,8 @@ def train(args):
         seed = 3407,
         save_strategy = "steps",
         save_steps = 30,
+        # Disable Unsloth's compiled training step
+        use_cpu = False,
     )
     
     trainer = Trainer(
