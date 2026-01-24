@@ -1,4 +1,4 @@
-# The Minority Report (formerly Rosetta AI)
+# The Minority Report
 
 An agentic pipeline for generating high-quality multilingual technical translations and controlled vocabularies. The project uses a multi-model approach (Voter/Arbitrator architecture) to translate terms while preserving context and generating standard [Croissant](http://mlcommons.org/croissant/) metadata.
 

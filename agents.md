@@ -54,22 +54,29 @@ The term is part of a Controlled Vocabulary for Machine Learning and AI.
 A "Scope Note" will be provided to give you the exact context of the term.
 
 **Instructions:**
-1. Analyze the provided "Scope Note".
+1. Analyze the provided "Scope Note" carefully.
 2. Translate the term into the following languages: **{{target_languages}}**.
-3. Output ONLY valid JSON where keys are the language codes (e.g. "fr", "es", "de").
-4. Do not include markdown formatting.
+3. **CRITICAL:** Provide ONLY the single most standard, officially recognized technical term for this concept.
+   - Do NOT provide synonyms, lists of options, or descriptive explanations.
+   - Do NOT provide "literal" translations if a specific technical term exists.
+   - If there are multiple variants, choose the one most used in scientific or official government contexts (e.g., WMO, UNDRR, ISO).
+4. Output ONLY valid JSON where keys are the language codes (e.g. "fr", "es", "de").
+5. Do not include markdown formatting.
 
 **Input:**
 - Term: {{term}}
 - Scope Note: {{scope_note}}
 
-**Output JSON Template:**
+**Output JSON:**
 {
   "fr": {
     "translation": "...",
     "confidence_score": 0.95
   },
-  ...
+  "es": {
+    "translation": "...",
+    "confidence_score": 0.98
+  }
 }
 ```
 
@@ -80,7 +87,7 @@ A "Scope Note" will be provided to give you the exact context of the term.
 **Arbitrator Prompt:**
 ```markdown
 You are the **Arbitrator Agent**.
-You have received translations from multiple sources for a technical term.
+You have received translations from multiple sources (or just one verified source) for a technical term.
 Your job is to select the BEST translation or synthesize a better one if all are flawed.
 
 **Source Term:** {{term}}
@@ -92,16 +99,19 @@ Your job is to select the BEST translation or synthesize a better one if all are
 **Instructions:**
 1. Review the candidates and their confidence scores.
 2. Select the winning translation.
-3. If the consensus is weak, use your reasoning capabilities to decide.
-4. Assign a final confidence score and explain your selection.
+3. If the consensus is weak (different translations), use your reasoning capabilities to decide the most accurate technical term.
+4. Assign a final confidence score.
 
 **Output Format (JSON):**
+```json
 {
   "selected_translation": "...",
   "reasoning": "...",
   "final_confidence_score": 0.98,
-  "winning_model": "..."
+  "winning_model": "Gemini 3 Flash",
+  "rai_flags": []
 }
+```
 ```
 
 ---
