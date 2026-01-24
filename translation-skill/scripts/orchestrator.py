@@ -8,6 +8,12 @@ import datetime
 import time
 
 import concurrent.futures
+import sys
+import functools
+
+# Redirect all print calls to stderr to avoid breaking MCP stdio transport
+print = functools.partial(print, file=sys.stderr)
+
 
 # --- Mock LLM Interface ---
 from ollama import Client

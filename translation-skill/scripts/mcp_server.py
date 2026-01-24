@@ -21,19 +21,23 @@ PROMPTS_DIR = os.path.join(BASE_DIR, "prompts")
 DATA_DIR = os.path.join(os.path.dirname(BASE_DIR), "data")
 OUTPUT_CSV_PATH = os.path.join(DATA_DIR, "final_translations.csv")
 
-def _understand_and_translate_logic(term: str, context: str, languages: str = "fr,es,de", models: str = "gpt-oss:latest,gemma3:27b,deepseek-r1:14b") -> str:
+def _understand_and_translate_logic(term: str, context: str, languages: str = "fr,es,de", models: str = "gpt-oss:latest") -> str:
     """Helper function to perform translation logic."""
     voter_prompt_path = os.path.join(PROMPTS_DIR, "voter_prompt.md")
     voter_prompt_template = load_prompt(voter_prompt_path)
+    
+    arbitrator_prompt_path = os.path.join(PROMPTS_DIR, "arbitrator_prompt.md")
+    arbitrator_prompt_template = load_prompt(arbitrator_prompt_path)
     
     rows = [{"term": term, "context": context}]
     lang_list = [l.strip() for l in languages.split(",")]
     model_list = [m.strip() for m in models.split(",")]
     
-    if len(model_list) < 2:
-        return json.dumps({"error": "Consensus logic requires at least 2 models. Please specify multiple models separated by commas."}, indent=2)
+    # if len(model_list) < 2:
+    #     return json.dumps({"error": "Consensus logic requires at least 2 models. Please specify multiple models separated by commas."}, indent=2)
     
-    results = process_terms(rows, lang_list, model_list, voter_prompt_template, OUTPUT_CSV_PATH)
+    
+    results = process_terms(rows, lang_list, model_list, voter_prompt_template, arbitrator_prompt_template, OUTPUT_CSV_PATH)
     
     # Filter results for just this term
     term_results = [r for r in results if r["term"] == term]
@@ -44,7 +48,7 @@ def _understand_and_translate_logic(term: str, context: str, languages: str = "f
     return json.dumps(term_results, indent=2)
 
 @mcp.tool()
-def understand_and_translate(term: str, context: str, languages: str = "fr,es,de", models: str = "gpt-oss:latest,gemma3:27b,deepseek-r1:14b") -> str:
+def understand_and_translate(term: str, context: str, languages: str = "fr,es,de", models: str = "gpt-oss:latest") -> str:
     """
     Translates a specialized technical term based on a conceptual context (Scope Note).
     
@@ -57,7 +61,7 @@ def understand_and_translate(term: str, context: str, languages: str = "fr,es,de
     return _understand_and_translate_logic(term, context, languages, models)
 
 @mcp.tool()
-def open_page_and_translate(url: str, languages: str = "fr,es,de", models: str = "gpt-oss:latest,gemma3:27b,deepseek-r1:14b") -> str:
+def open_page_and_translate(url: str, languages: str = "fr,es,de", models: str = "gpt-oss:latest") -> str:
     """
     Scrapes a term and its context from a URL (e.g., PreventionWeb) and translates it.
     
