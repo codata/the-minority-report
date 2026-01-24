@@ -201,7 +201,29 @@ def scrape_index_page(index_url):
             links.add(full_url)
             
     print(f"Found {len(links)} unique concept URLs.")
+    print(f"Found {len(links)} unique concept URLs.")
     return list(links)
+
+def load_index_cache(cache_path):
+    if os.path.exists(cache_path):
+        try:
+            with open(cache_path, "r") as f:
+                return json.load(f)
+        except:
+            return {}
+    return {}
+
+def save_index_cache(cache_path, cache_data):
+    try:
+         with open(cache_path, "w") as f:
+             json.dump(cache_data, f, indent=2)
+    except Exception as e:
+         print(f"Warning: Failed to save cache: {e}")
+
+def get_hips_code_from_url(url):
+    import re
+    match = re.search(r"hips/([a-zA-Z0-9]+)", url)
+    return match.group(1).upper() if match else None
 
 def _query_model(term, context, languages, model, voter_prompt_template):
     """Helper to query a single model and return parsed results."""
@@ -339,6 +361,10 @@ def process_terms(rows, languages, models, voter_prompt_template, arbitrator_pro
         # Collect raw responses for this term
         raw_results = [] 
         
+        # Original metadata to preserve
+        original_code = row.get("code")
+        original_url = row.get("url")
+        
         # Execute model queries in parallel
         with concurrent.futures.ThreadPoolExecutor(max_workers=len(models)) as executor:
             future_to_model = {
@@ -349,6 +375,10 @@ def process_terms(rows, languages, models, voter_prompt_template, arbitrator_pro
             for future in concurrent.futures.as_completed(future_to_model):
                 try:
                     data = future.result()
+                    # Enrich results with original metadata
+                    for d in data:
+                        if original_code: d["code"] = original_code
+                        if original_url: d["url"] = original_url
                     raw_results.extend(data)
                 except Exception as exc:
                     model_name = future_to_model[future]
@@ -465,16 +495,17 @@ def main():
     parser = argparse.ArgumentParser(description="Orchestrator for Multilingual CV Skill")
     parser.add_argument("--input-file", "--input_file", dest="input_file", help="Path to source CSV")
     parser.add_argument("--url", help="URL to scrape term from (overrides input_file)")
-    parser.add_argument("--index-url", help="Index page URL to scrape multiple concepts from")
+    parser.add_argument("--index-url", help="Index page URL to scrape multiple concepts from (scrapes only, no translation)")
+    parser.add_argument("--index-file", "--index_file", dest="index_file", help="Path to index cache JSON file to process")
     parser.add_argument("--output-dir", "--output_dir", dest="output_dir", default="data", help="Directory for output CSV")
     parser.add_argument("--languages", default="fr,es,de", help="Comma-separated target languages")
     parser.add_argument("--models", default="gpt-oss:latest", help="Comma-separated LLM models to use")
+    parser.add_argument("--hips-code", "--hips_code", dest="hips_code", help="Manual HIPS code override")
     
     args = parser.parse_args()
     
     # Setup paths
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) 
-    prompts_dir = os.path.join(base_dir, "prompts")
     prompts_dir = os.path.join(base_dir, "prompts")
     voter_prompt_template = load_prompt(os.path.join(prompts_dir, "voter_prompt.md"))
     arbitrator_prompt_template = load_prompt(os.path.join(prompts_dir, "arbitrator_prompt.md"))
@@ -492,38 +523,76 @@ def main():
         except Exception as e:
             print(f"Error scraping URL: {e}")
             return
+            
     elif args.index_url:
         urls = scrape_index_page(args.index_url)
         if not urls:
             print("No URLs found in index page.")
             return
         
-        # Scrape each URL found
-        rows = []
+        # Load Cache
+        cache_path = os.path.join(args.output_dir, "index_cache.json")
+        index_cache = load_index_cache(cache_path)
+        
         print(f"Processing {len(urls)} concepts from index...")
+        
+        cache_updated = False
+        
         for i, u in enumerate(urls):
+            # Check cache first
+            if u in index_cache:
+                print(f"[{i+1}/{len(urls)}] Cache exists for {u}")
+                continue
+                
             print(f"[{i+1}/{len(urls)}] Scraping {u}")
             try:
                 t, c = scrape_url(u)
-                rows.append({"term": t, "context": c})
+                code = get_hips_code_from_url(u)
+                
+                # Update Cache
+                index_cache[u] = {
+                    "term": t,
+                    "context": c,
+                    "code": code,
+                    "url": u
+                }
+                cache_updated = True
+                
                 # Be searching friendly
                 time.sleep(1) 
             except Exception as e:
                 print(f"Skipping {u}: {e}")
+                
+        # Save cache if changed
+        if cache_updated:
+            save_index_cache(cache_path, index_cache)
+            
+        print(f"\nIndex creation complete. Saved to {cache_path}")
+        print(f"Run translation with: --index-file {cache_path}")
+        return
+
+    elif args.index_file:
+        print(f"Loading index file: {args.index_file}")
+        with open(args.index_file, "r") as f:
+            index_cache = json.load(f)
+            # Convert values to list
+            # We sort by term to be deterministic
+            rows = list(index_cache.values())
+            print(f"Loaded {len(rows)} terms from index file.")
 
     elif args.input_file:
         with open(args.input_file, "r") as f:
             reader = csv.DictReader(f)
             rows = list(reader)
     else:
-        print("Error: Must provide --url, --index-url, or --input-file")
+        print("Error: Must provide --url, --index-url, --index-file, or --input-file")
         return
             
             
     results = process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, output_csv_path)
     
     # Write Results
-    fieldnames = ["term", "translation", "context", "language", "confidence", "winning_model", "consensus", "version"]
+    fieldnames = ["term", "translation", "context", "language", "confidence", "winning_model", "consensus", "version", "code", "url"]
     for res in results:
         res["version"] = "0.1"
         if "consensus" not in res:
@@ -531,7 +600,7 @@ def main():
         
     os.makedirs(args.output_dir, exist_ok=True)
     with open(output_csv_path, "w") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
         writer.writeheader()
         writer.writerows(results)
         
@@ -585,18 +654,30 @@ def main():
         clean_desc = last_context.replace("\n", " ").strip()
         if len(clean_desc) > 200:
              clean_desc = clean_desc[:197] + "..."
-             
+              
         cmd.extend(["--dataset-name", name_json])
         cmd.extend(["--description", clean_desc])
         cmd.extend(["--llm-model", args.models])
 
         # Extract HIPS code if present in URL
-        if args.url and "hips/" in args.url:
-            match = re.search(r"hips/([a-zA-Z0-9]+)", args.url)
-            if match:
-                hips_code = match.group(1).upper()
-                cmd.extend(["--hips-code", hips_code])
+        # For cache mode, we might want to prioritize the code from the cache over regex from current URL args
+        hips_code = None
+        if args.hips_code:
+             hips_code = args.hips_code
+        elif args.url and "hips/" in args.url:
+             import re
+             match = re.search(r"hips/([a-zA-Z0-9]+)", args.url)
+             if match:
+                 hips_code = match.group(1).upper()
+        # Fallback: check if the last term has a code in results
+        if not hips_code and len(results) > 0:
+             # Find result for last term
+             last_res = next((r for r in results if r.get("term") == last_term), None)
+             if last_res and last_res.get("code"):
+                 hips_code = last_res.get("code")
 
+        if hips_code:
+             cmd.extend(["--hips-code", hips_code])
         
         # Calculate output filename
         # term without space and croissant, for example croissant_downburst.json
@@ -609,6 +690,13 @@ def main():
         cmd.extend(["--source-url", args.url])
     elif args.input_file:
         cmd.extend(["--source-file", args.input_file])
+    # Also pass URL from last result if available and not passed args.url
+    elif len(rows) > 0:
+         # Try to find URL for last term
+         last_res = next((r for r in results if r.get("term") == last_term), None)
+         if last_res and last_res.get("url"):
+              cmd.extend(["--source-url", last_res.get("url")])
+
         
     subprocess.run(cmd)
     
