@@ -519,7 +519,9 @@ def main():
         
         # Calculate output filename
         # term without space and croissant, for example croissant_downburst.json
-        safe_term = last_term.strip().replace(" ", "_").lower()
+        import re
+        safe_term = re.sub(r'[^\w\s-]', '', last_term.strip().lower())
+        safe_term = re.sub(r'[-\s]+', '_', safe_term)
         output_filename = f"croissant_{safe_term}.json"
         cmd.extend(["--output-file", output_filename])
 
