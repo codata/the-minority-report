@@ -228,5 +228,27 @@ After running the script, you will have a `.gguf` file.
     ```
 3.  Use it in `orchestrator.py` or MCP:
     ```bash
-    python3 translation-skill/scripts/orchestrator.py ... --models my-tuned-translator
-    ```
+
+## Real-World Application: UN HIPS Monitoring
+
+### Scenario
+The **UN Hazard Information Profiles (HIPS)** require precise tracking of hazards (e.g., *Peste des petits ruminants*) across multilingual situation reports. A standard LLM might hallucinate terms or use colloquial synonyms, breaking data interoperability.
+
+### Solution with Fine-Tuned Model
+By training a model on the Minority Report dataset, you enforce the **Controlled Vocabulary**.
+
+**Example Workflow:**
+
+1.  **Input (Situation Report)**:
+    > "Une épidémie sévère touchant les chèvres a été signalée au Niger."
+
+2.  **Prompt**:
+    > "Identify the standard hazard term from the text in French. Output the HIPS code if known."
+
+3.  **Model Output (Fine-Tuned)**:
+    > "Hazard: **Peste des petits ruminants** (HIPS: BI0310)"
+
+**Why this matters**:
+*   **Standardization**: The model "knows" that "épidémie touchant les chèvres" maps to the formal term *Peste des petits ruminants*, not generic "Goat Plague".
+*   **Multilingual Interoperability**: It can map a Russian report ("ППР") to the same English concept ID seamlessly because it was trained on the parallel corpus.
+
