@@ -247,7 +247,11 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
 
     if extra_jsonld.get("https://schema.org/identifier"):
         json_output["https://schema.org/identifier"] = extra_jsonld["https://schema.org/identifier"]
-        
+
+    # Restore citeAs if lost during serialization
+    if cite_as and "citeAs" not in json_output:
+         json_output["citeAs"] = cite_as
+         
     return json_output
 
 # Helper for datetime serialization
