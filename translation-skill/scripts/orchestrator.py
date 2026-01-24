@@ -14,21 +14,86 @@ import functools
 # Redirect all print calls to stderr to avoid breaking MCP stdio transport
 print = functools.partial(print, file=sys.stderr)
 
+# Hack: Fix OLLAMA_HOST if it contains commas (multi-host) before importing ollama lib
+# The ollama library crashes if OLLAMA_HOST has commas.
+raw_ollama_host = os.environ.get('OLLAMA_HOST', '')
+if ',' in raw_ollama_host:
+    os.environ['OLLAMA_HOSTS_RAW'] = raw_ollama_host
+    os.environ['OLLAMA_HOST'] = raw_ollama_host.split(',')[0].strip()
+
+
 
 # --- Mock LLM Interface ---
 from ollama import Client
 import requests
 from bs4 import BeautifulSoup
 
-OLLAMA_HOST = os.environ.get('OLLAMA_HOST', 'http://10.147.18.253:11434')
+
+# Parse hosts from environment (comma-separated)
+
+# Parse hosts from environment (comma-separated)
+# Order of precedence: OLLAMA_HOSTS > OLLAMA_HOSTS_RAW > OLLAMA_HOST
+raw_hosts = os.environ.get('OLLAMA_HOSTS', os.environ.get('OLLAMA_HOSTS_RAW', os.environ.get('OLLAMA_HOST', 'http://10.147.18.253:11434')))
+OLLAMA_HOSTS = [h.strip() for h in raw_hosts.split(',')]
+
+
+import threading
+
+class ModelRouter:
+    def __init__(self, hosts):
+        self.hosts = hosts
+        self.lock = threading.Lock()
+        # Initialize clients for each host
+        self.clients = {}
+        for h in hosts:
+            try:
+                self.clients[h] = Client(host=h, timeout=600)
+            except Exception as e:
+                print(f"[ModelRouter] Warning: Failed to init client for {h}: {e}")
+        
+        self.allocations = {} # model_name -> host_url
+
+    def get_client(self, model_name):
+        with self.lock:
+            # If already allocated, return that client
+            if model_name in self.allocations:
+                host = self.allocations[model_name]
+                return self.clients.get(host)
+                
+            # New model: Allocate to host with fewest assigned models
+            # 1. Count current allocations per host
+            host_counts = {h: 0 for h in self.hosts}
+            for m, h in self.allocations.items():
+                if h in host_counts:
+                    host_counts[h] += 1
+                    
+            # 2. Pick host with min count
+            # (Tie-break by order in list)
+            best_host = min(host_counts, key=host_counts.get)
+            
+            self.allocations[model_name] = best_host
+            print(f"[ModelRouter] assigning model '{model_name}' to host '{best_host}'")
+            
+            return self.clients.get(best_host)
+
+# Global router instance - Eager instantiation to avoid race conditions in threads
+_ROUTER = ModelRouter(OLLAMA_HOSTS)
+
+def get_router():
+    return _ROUTER
 
 def mock_llm_call(prompt, model="gpt-oss:latest", is_json=True):
     """
     Calls the Ollama API using the OLLAMA_HOST environment variable.
     """
     try:
-        client = Client(host=OLLAMA_HOST, timeout=600)
+        router = get_router()
+        client = router.get_client(model)
         
+        if not client:
+             print(f"Error: No client available for model {model}")
+             return "{}"
+
         # Call without format='json' to avoid empty responses if model is chatty
         response = client.generate(model=model, prompt=prompt, stream=False)
         response_text = response.get('response', '{}')
@@ -309,7 +374,9 @@ def process_terms(rows, languages, models, voter_prompt_template, arbitrator_pro
                 consensus_norms = [norm for norm, count in votes.items() if count >= 2]
                 
                 if consensus_norms:
-                    print(f"    Consensus reached for [{lang}]: {consensus_norms}")
+                    # Find the actual text for the consensus norm
+                    consensus_text = next(r["translation"] for r in lang_raw if r["translation"].strip().lower() in consensus_norms)
+                    print(f"    Consensus reached for [{lang}]: '{consensus_text}'")
                     for r in lang_raw:
                         norm = r["translation"].strip().lower()
                         if norm in consensus_norms:
