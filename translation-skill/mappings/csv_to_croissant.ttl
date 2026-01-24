@@ -8,7 +8,6 @@
 # to Croissant/Schema.org properties.
 
 # The CSV column 'term' maps to the Schema.org name of the record
-# The CSV column 'term' maps to the Schema.org name of the record
 ex:term skos:exactMatch schema:name ;
     rdfs:comment "The source term being translated." .
 
@@ -34,7 +33,7 @@ ex:confidence skos:exactMatch mlcroissant:quality ;
 
 # The CSV column 'version' maps to schema:version
 ex:version skos:exactMatch schema:version ;
-    rdfs:comment "The version of the software used." .
+    rdfs:comment "The version of the software package used." .
 
 # The CSV column 'consensus' maps to custom property
 ex:consensus skos:exactMatch ex:consensusDecision ;

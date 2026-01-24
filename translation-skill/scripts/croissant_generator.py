@@ -4,19 +4,19 @@ import sys
 import datetime
 import os
 import csv
-from rdflib import Graph, Namespace
+from rdflib import Graph, Namespace, RDFS
 from rdflib.namespace import SKOS
 import mlcroissant as mlc
 
 def load_semantic_mappings(mapping_file):
     """
     Loads the Turtle mapping file and returns a dictionary mapping
-    CSV columns (local namespace) to Croissant/Schema.org properties.
+    CSV columns (local namespace) to a dict of {target: URI, description: str}.
     """
     g = Graph()
     g.parse(mapping_file, format="turtle")
     
-    # We want a map: CSV_Column_Name -> Target_Property_URI
+    # We want a map: CSV_Column_Name -> {target: Target_Property_URI, description: Comment}
     mappings = {}
     
     # Query the graph for exact matches
@@ -24,7 +24,17 @@ def load_semantic_mappings(mapping_file):
     for s, p, o in g.triples((None, SKOS.exactMatch, None)):
         local_name = s.split("/")[-1]
         target_uri = str(o)
-        mappings[local_name] = target_uri
+        
+        # Get description (rdfs:comment)
+        description = None
+        for _, _, comment in g.triples((s, RDFS.comment, None)):
+            description = str(comment)
+            break
+            
+        mappings[local_name] = {
+            "target_uri": target_uri,
+            "description": description
+        }
         
     return mappings
 
@@ -93,17 +103,22 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
     fields = []
     
     for col in known_columns:
-        semantic_type = column_map.get(col)
+        mapping_info = column_map.get(col, {})
+        # mapping_info is now {target_uri: ..., description: ...} or empty
         
-        desc = ""
-        if col == "term": desc = "The source term being translated."
-        if col == "context": desc = "The definition or context of the term."
-        if col == "translation": desc = "The translated term."
-        if col == "language": desc = "The ISO 639-1 language code of the translation."
-        if col == "confidence": desc = "The confidence score of the translation (0.0 to 1.0)."
-        if col == "winning_model": desc = "The software agent selected as the source for this translation row."
-        if col == "consensus": desc = "The decision reached by the arbitrage logic (e.g., consensus reached and vote count)."
-        if col == "version": desc = "The version of the software used."
+        # Use description from mapping, fall back to empty string
+        desc = mapping_info.get("description", "")
+        
+        # If no description in mapping, fall back to defaults (optional, but good for safety)
+        if not desc:
+            if col == "term": desc = "The source term being translated."
+            if col == "context": desc = "The definition or context of the term."
+            if col == "translation": desc = "The translated term."
+            if col == "language": desc = "The ISO 639-1 language code of the translation."
+            if col == "confidence": desc = "The confidence score of the translation (0.0 to 1.0)."
+            if col == "winning_model": desc = "The software agent selected as the source for this translation row."
+            if col == "consensus": desc = "The decision reached by the arbitrage logic (e.g., consensus reached and vote count)."
+            if col == "version": desc = "The version of the software used."
         
         dtype = mlc.DataType.FLOAT if col == "confidence" else mlc.DataType.TEXT
         
@@ -171,11 +186,26 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
          for item in name_obj:
              val = item.get("value") or item.get("@value")
              lang = item.get("lang") or item.get("@language")
+             model = item.get("model") or item.get("creator") 
+             # If creator is dict, extract @id or name
+             if isinstance(model, dict):
+                 model = model.get("@id") or model.get("name")
+                 
              if val and lang:
-                 normalized_names.append({
+                 entry = {
                      "@value": val,
                      "@language": lang
-                 })
+                 }
+                 if model:
+                      # If just model name, make it a reference
+                      if not model.startswith("model_"):
+                           model_id = f"model_{model.strip().replace(':', '_').replace('.', '_')}"
+                      else:
+                           model_id = model
+                      
+                      entry["creator"] = {"@id": model_id}
+                      
+                 normalized_names.append(entry)
          
          if normalized_names:
              extra_jsonld["https://schema.org/alternateName"] = normalized_names
