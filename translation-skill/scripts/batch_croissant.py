@@ -43,7 +43,7 @@ def main():
     all_skos_content = "@prefix skos: <http://www.w3.org/2004/02/skos/core#> .\n"
     all_skos_content += "@prefix dct: <http://purl.org/dc/terms/> .\n"
     all_skos_content += "@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n"
-    all_skos_content += "@prefix ex: <http://rosetta-ai.org/vocab/> .\n\n"
+    all_skos_content += "@prefix ex: <http://theminorityreport.org/vocab/> .\n\n"
     
     # Process each term
     for term, rows in terms_data.items():
@@ -151,7 +151,7 @@ def main():
         individual_ttl_prefixes = "@prefix skos: <http://www.w3.org/2004/02/skos/core#> .\n"
         individual_ttl_prefixes += "@prefix dct: <http://purl.org/dc/terms/> .\n"
         individual_ttl_prefixes += "@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n"
-        individual_ttl_prefixes += "@prefix ex: <http://rosetta-ai.org/vocab/> .\n\n"
+        individual_ttl_prefixes += "@prefix ex: <http://theminorityreport.org/vocab/> .\n\n"
         
         skos_filename = f"skos_{safe_term}.ttl"
         skos_path = os.path.join(args.output_dir, skos_filename)
