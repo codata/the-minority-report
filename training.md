@@ -125,14 +125,21 @@ for file_path in glob.glob("output/croissant_*.json"):
         data = json.load(f)
         term = data["name"]
         context = data["description"]
+        # Extract Identifier (HIPS Code)
+        identifier = data.get("https://schema.org/identifier", "")
+        
         for item in data.get("sc:alternateName", []):
             lang = item["@language"]
             translation = item["@value"]
             # Format as Alpaca/Instruction style
+            output_text = translation
+            if identifier:
+                output_text += f" (HIPS: {identifier})"
+                
             training_data.append({
-                "instruction": f"Translate '{term}' to {lang} based on the provided context.",
+                "instruction": f"Translate '{term}' to {lang} based on the provided context. Include the HIPS code if available.",
                 "input": context,
-                "output": translation
+                "output": output_text
             })
 
 dataset = Dataset.from_list(training_data)
