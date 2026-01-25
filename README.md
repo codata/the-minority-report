@@ -1,5 +1,6 @@
 # The Minority Report
 
+> **Originally created for 2025 Hazard Information Profiles (HIPs) from United Nations Office for Disaster Risk Reduction.**
 > This implementation is based on the novel "The Minority Report" by Philip K. Dick.
 
 An agentic pipeline for generating high-quality multilingual technical translations and controlled vocabularies. The project uses a multi-model approach (Voter/Arbitrator architecture) to translate terms while preserving context and generating standard [Croissant](http://mlcommons.org/croissant/) metadata.
