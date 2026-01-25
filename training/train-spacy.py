@@ -90,35 +90,65 @@ def load_croissant_data(data_dir, index_cache=None):
                     {"entities": [(start_idx, end_idx, main_label)]}
                 ))
             
+            # Language Mapping for nicer sentences
+            lang_names = {
+                "fr": "French", "es": "Spanish", "ru": "Russian", 
+                "ar": "Arabic", "zh": "Chinese", "de": "German",
+                "it": "Italian", "pt": "Portuguese", "ja": "Japanese"
+            }
+
             # Extract translations
             alternates = data.get("sc:alternateName", [])
             for alt in alternates:
-                lang = alt.get("@language")
+                lang_code = alt.get("@language")
                 translation = alt.get("@value")
                 
-                if not lang or not translation:
+                if not lang_code or not translation:
                     continue
                 
+                lang_name = lang_names.get(lang_code, lang_code.upper())
+                
                 # Create synthetic training examples
-                # Use separate examples to avoid overlapping entities
+                # WE CONSTRUCT THE SENTENCE TO CALCULATE EXACT OFFSETS AND AVOID OVERLAP
+                # Template: "The disaster risk term in English for '{term}' and translation in {Lang} ({code}) is '{translation}'."
                 
-                # Example 1: Mark only the original term with HIPS code
-                text1 = f"The disaster risk term is '{term}'."
-                term_start = text1.find(f"'{term}'")
-                if term_start != -1:
-                    training_data.append((
-                        text1,
-                        {"entities": [(term_start + 1, term_start + 1 + len(term), main_label)]}
-                    ))
+                # Parts of the sentence
+                p1 = "The disaster risk term in English for '"
+                p2 = f"' and translation in {lang_name} ({lang_code}) is '"
+                p3 = "'."
                 
-                # Example 2: Mark only the translation
-                text2 = f"In {lang}, the translation is '{translation}'."
-                trans_start = text2.find(f"'{translation}'")
-                if trans_start != -1:
-                    training_data.append((
-                        text2,
-                        {"entities": [(trans_start + 1, trans_start + 1 + len(translation), "TRANSLATION")]}
-                    ))
+                # Full Text
+                text = f"{p1}{term}{p2}{translation}{p3}"
+                
+                # Indices
+                term_start = len(p1)
+                term_end = term_start + len(term)
+                
+                trans_start = term_end + len(p2)
+                trans_end = trans_start + len(translation)
+                
+                entities = []
+                # Entity 1: Term (with HIPS code label)
+                entities.append((term_start, term_end, main_label))
+                
+                # Entity 2: Translation
+                entities.append((trans_start, trans_end, "TRANSLATION"))
+                
+                training_data.append((
+                    text,
+                    {"entities": entities}
+                ))
+                
+                # Optional: Add a variation with just the translation to be robust
+                # "The {Lang} word for this concept is '{translation}'."
+                p1_v2 = f"The {lang_name} word for this concept is '"
+                p2_v2 = "'."
+                text_v2 = f"{p1_v2}{translation}{p2_v2}"
+                
+                training_data.append((
+                    text_v2,
+                    {"entities": [(len(p1_v2), len(p1_v2) + len(translation), "TRANSLATION")]}
+                ))
                     
         except Exception as e:
             print(f"Error reading {file_path}: {e}")
