@@ -31,7 +31,17 @@ def load_croissant_data(data_dir):
                 data = json.load(f)
                 
             # Extract Core Metadata
-            term = data.get("name", "")
+            term_raw = data.get("name", "")
+            # Handle case where name is a list (multilingual names)
+            if isinstance(term_raw, list):
+                # Extract English name or first item
+                term = next((item.get("value") for item in term_raw if isinstance(item, dict) and item.get("lang") == "en"), "")
+                if not term and term_raw:
+                    # Fallback to first item if no English found
+                    term = term_raw[0].get("value", "") if isinstance(term_raw[0], dict) else str(term_raw[0])
+            else:
+                term = term_raw
+                
             context = data.get("description", "")
             identifier = data.get("https://schema.org/identifier", "")
             
@@ -59,24 +69,25 @@ def load_croissant_data(data_dir):
                     continue
                 
                 # Create synthetic training examples
-                # Format: "The term X in {lang} is {translation}"
-                synthetic_text = f"The disaster risk term '{term}' in {lang} is '{translation}'."
+                # Use separate examples to avoid overlapping entities
                 
-                # Mark both the original term and translation as entities
-                entities = []
-                
-                # Find term position
-                term_start = synthetic_text.find(f"'{term}'")
+                # Example 1: Mark only the original term
+                text1 = f"The disaster risk term is '{term}'."
+                term_start = text1.find(f"'{term}'")
                 if term_start != -1:
-                    entities.append((term_start + 1, term_start + 1 + len(term), "DISASTER_TERM"))
+                    training_data.append((
+                        text1,
+                        {"entities": [(term_start + 1, term_start + 1 + len(term), "DISASTER_TERM")]}
+                    ))
                 
-                # Find translation position
-                trans_start = synthetic_text.find(f"'{translation}'")
+                # Example 2: Mark only the translation
+                text2 = f"In {lang}, the translation is '{translation}'."
+                trans_start = text2.find(f"'{translation}'")
                 if trans_start != -1:
-                    entities.append((trans_start + 1, trans_start + 1 + len(translation), "TRANSLATION"))
-                
-                if entities:
-                    training_data.append((synthetic_text, {"entities": entities}))
+                    training_data.append((
+                        text2,
+                        {"entities": [(trans_start + 1, trans_start + 1 + len(translation), "TRANSLATION")]}
+                    ))
                     
         except Exception as e:
             print(f"Error reading {file_path}: {e}")
