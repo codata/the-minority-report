@@ -167,3 +167,49 @@ The multi-agent pipeline is exposed via a **Model Context Protocol (MCP)** serve
 ### Technical Implementation:
 - **Registry**: Uses `FastMCP` for efficient tool registration and discovery.
 - **Transport**: Standard `stdio` transport for compatibility with major MCP clients like Claude Desktop.
+
+---
+
+## 8. Training & Fine-Tuning Templates
+
+When training custom models (`gemma3`, `spacy`) on the generated dataset, the following prompt templates and data structures are used.
+
+### A. Instruction Tuning (Transformers)
+For fine-tuning Generative Models (e.g., Gemma 2), we use the **Alpaca** instruction format to enforce a "Translator" persona.
+
+**Template:**
+```markdown
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Translate the term '{{term}}' into {{language}} based on the provided disaster risk context. Include the HIPS reference code.
+
+### Input:
+{{scope_note}}
+
+### Response:
+{{translation}} (HIPS: {{code}})
+```
+
+**Instruction Logic in `train.py`:**
+- **System**: Enforces the role of a disaster risk translator.
+- **Input**: The definition/scope note provides the semantic grounding (fixing the "Contextualization" phase).
+- **Output**: The model is trained to output the term + the strict HIPS code, reinforcing the link between text and schema.
+
+### B. NER Training Data (spaCy)
+For the lightweight extraction model, we synthesize training examples to teach the model to recognize terms and translations in running text.
+
+**Synthetic Combinations:**
+1. **Context Extraction**:
+   > "{{scope_note_with_term}}"
+   > *Entity*: `DISASTER_TERM` at term position.
+
+2. **Translation Mapping**:
+   > "The disaster risk term '{{term}}' in {{language}} is '{{translation}}'."
+   > *Entities*: 
+   > - `DISASTER_TERM`: {{term}}
+   > - `TRANSLATION`: {{translation}}
+
+This approach allows the spaCy model to learn:
+1.  How terms appear in natural definitions.
+2.  The explicit mapping between an English term and its translation.

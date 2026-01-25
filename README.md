@@ -35,24 +35,29 @@ pip install -r requirements.txt
    docker-compose build
    ```
 
-2. **Run from a URL**:
+2. **Index Scraping (Create Cache)**:
+   Scrape an entire index page (e.g., PreventionWeb HIPS) to create a local cache of terms, URLs, and codes. This does **not** run translations yet.
    ```bash
-   docker-compose run orchestrator --url https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0103 --languages fr,es,de --models gpt-oss:latest
+   docker-compose run orchestrator --index-url https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ --output-dir data
+   ```
+   *Output*: `data/index_cache.json`
+
+3. **Run Translations (From Cache)**:
+   Process the cached index file to translate all terms.
+   ```bash
+   docker-compose run orchestrator --index-file data/index_cache.json --languages fr,es,de --models gpt-oss:latest
    ```
 
-3. **Run from a CSV file**:
+4. **Single URL Mode**:
+   Directly scrape and translate a single page.
    ```bash
-   docker-compose run orchestrator --input-file data/source_vocab.csv --languages fr,es
-   ```
-
-4. **Scrape an Index Page**:
-   ```bash
-   docker-compose run orchestrator --index-url https://www.preventionweb.net/drr-glossary/hips
+   docker-compose run orchestrator --url https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0103 --languages fr,es
    ```
 
 5. **Generate Batch Croissant Metadata**:
+   Generate rich JSON-LD metadata for the entire dataset, enriching it with the HIPS codes and Source URLs from the index cache.
    ```bash
-   docker-compose run python3 translation-skill/scripts/batch_croissant.py --input-file data/final_translations.csv --output-dir output/
+   docker-compose run python3 translation-skill/scripts/batch_croissant.py --input-file data/final_translations.csv --index-file data/index_cache.json --output-dir output/
    ```
 
 ### 🐍 Using Python Directly
@@ -121,9 +126,45 @@ Once configured, you can ask your LLM to perform complex technical translations.
 
 - `translation-skill/scripts/`: Core logic for scraping, translation, and metadata generation.
 - `translation-skill/prompts/`: Markdown-based prompt templates for LLM agents.
+- `training/`: Model training scripts (spaCy NER and Transformers).
 - `data/`: Input and output CSV files.
-- `output/`: Generated `metadata.json` (Croissant format).
+- `output/`: Generated Croissant metadata and SKOS vocabularies.
 - `agents.md`: Detailed documentation on agent architecture and prompts.
+
+## Training Models
+
+The project includes two training approaches for building custom models:
+
+### spaCy NER Model (Recommended)
+
+Train a lightweight Named Entity Recognition model to identify disaster terminology:
+
+```bash
+# Install spaCy
+pip install spacy
+
+# Train the model (fast, ~1-2 minutes)
+python3 training/train-spacy.py --data-dir output --n-iter 30 --test
+
+# Model saved to: training/spacy_model/
+```
+
+**Advantages:**
+- Fast training (1-2 minutes)
+- Small model size (~10MB)
+- Works on CPU or GPU
+- Production-ready
+
+### Transformers Fine-tuning (Advanced)
+
+Fine-tune a Gemma model for translation tasks:
+
+```bash
+# Requires CUDA GPU
+python3 training/train.py --data-dir output --model-name google/gemma-2-2b-it --max-steps 60
+```
+
+**Note:** This approach requires significant GPU resources and may take hours to train.
 
 ## Credits
 
