@@ -23,12 +23,33 @@ def main():
     parser.add_argument("--dataset-name", dest="dataset_name", default="Multilingual Vocabulary", help="Base name for the dataset")
     parser.add_argument("--description", default="A multilingual controlled vocabulary dataset.", help="Description of the dataset")
     parser.add_argument("--llm-model", dest="llm_model", default="gpt-oss:latest", help="Default LLM model if not in CSV")
+    parser.add_argument("--index-file", dest="index_file", help="Path to index cache JSON file for metadata enrichment")
     
     args = parser.parse_args()
     
     if not os.path.exists(args.input_file):
         print(f"Error: Input file {args.input_file} not found.")
         return
+
+    # Load Index Cache if provided
+    term_metadata = {}
+    if args.index_file and os.path.exists(args.index_file):
+        print(f"Loading index cache from {args.index_file}...")
+        try:
+            with open(args.index_file, "r") as f:
+                cache_data = json.load(f)
+                # Build lookup: term -> {code, url}
+                # Cache is keyed by URL, values have "term", "code", "url"
+                for item in cache_data.values():
+                    t = item.get("term")
+                    if t:
+                        term_metadata[t] = {
+                            "code": item.get("code"),
+                            "url": item.get("url")
+                        }
+            print(f"Loaded metadata for {len(term_metadata)} terms.")
+        except Exception as e:
+            print(f"Error loading index cache: {e}")
 
     os.makedirs(args.output_dir, exist_ok=True)
     
@@ -51,7 +72,7 @@ def main():
     all_skos_content = "@prefix skos: <http://www.w3.org/2004/02/skos/core#> .\n"
     all_skos_content += "@prefix dct: <http://purl.org/dc/terms/> .\n"
     all_skos_content += "@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n"
-    all_skos_content += "@prefix ex: <http://theminorityreport.org/vocab/> .\n\n"
+    all_skos_content += "@prefix ex: <https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/> .\n\n"
     
     # Process each term
     for term, rows in terms_data.items():
@@ -98,6 +119,14 @@ def main():
         if len(clean_desc) > 200:
              clean_desc = clean_desc[:197] + "..."
              
+        # Resolve Metadata from Cache
+        hips_code = None
+        source_url = None
+        
+        if term in term_metadata:
+             hips_code = term_metadata[term].get("code")
+             source_url = term_metadata[term].get("url")
+             
         # Generate Metadata
         # We pass the full input file as the "data source" but ideally each Croissant might point to a slice?
         # For now, pointing to the master CSV is fine, referring to the specific term.
@@ -107,7 +136,9 @@ def main():
             description=clean_desc,
             file_path=os.path.abspath(args.input_file), # Absolute path to data
             num_records=len(rows),
-            llm_model=models_str
+            llm_model=models_str,
+            hips_code=hips_code,
+            source_url=source_url
         )
         
         # Override creator list to only include models relevant to this term?
@@ -136,7 +167,8 @@ def main():
 
         # --- SKOS Generation ---
         # Construct Concept Block
-        term_id = safe_term
+        # Use HIPS Code as ID if available, else term slug
+        term_id = hips_code if hips_code else safe_term
         
         concept_block = f"ex:{term_id} a skos:Concept ;\n"
         
@@ -159,7 +191,7 @@ def main():
         individual_ttl_prefixes = "@prefix skos: <http://www.w3.org/2004/02/skos/core#> .\n"
         individual_ttl_prefixes += "@prefix dct: <http://purl.org/dc/terms/> .\n"
         individual_ttl_prefixes += "@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n"
-        individual_ttl_prefixes += "@prefix ex: <http://theminorityreport.org/vocab/> .\n\n"
+        individual_ttl_prefixes += "@prefix ex: <https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/> .\n\n"
         
         skos_filename = f"skos_{safe_term}.ttl"
         skos_path = os.path.join(args.output_dir, skos_filename)
