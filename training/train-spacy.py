@@ -92,9 +92,11 @@ def load_croissant_data(data_dir, index_cache=None):
             
             # Language Mapping for nicer sentences
             lang_names = {
-                "fr": "French", "es": "Spanish", "ru": "Russian", 
+                "en": "English", "fr": "French", "es": "Spanish", "ru": "Russian", 
                 "ar": "Arabic", "zh": "Chinese", "de": "German",
-                "it": "Italian", "pt": "Portuguese", "ja": "Japanese"
+                "it": "Italian", "pt": "Portuguese", "ja": "Japanese",
+                "ko": "Korean", "hi": "Hindi", "bn": "Bengali",
+                "ur": "Urdu", "tr": "Turkish", "vi": "Vietnamese"
             }
 
             # Extract translations
@@ -120,9 +122,9 @@ def load_croissant_data(data_dir, index_cache=None):
                 prefix = f"{clean_context} "
                 
                 # Parts of the sentence
-                p1 = "The disaster risk term in English for '"
-                p2 = f"' and translation in {lang_name} ({lang_code}) is '"
-                p3 = "'."
+                p1 = "The disaster risk term in English for "
+                p2 = f" and translation in {lang_name} ({lang_code}) is "
+                p3 = "."
                 
                 # Full Text
                 text = f"{prefix}{p1}{term}{p2}{translation}{p3}"
@@ -147,9 +149,9 @@ def load_croissant_data(data_dir, index_cache=None):
                 ))
                 
                 # Optional: Add a variation with just the translation to be robust
-                # "The {Lang} word for this concept is '{translation}'."
-                p1_v2 = f"The {lang_name} word for this concept is '"
-                p2_v2 = "'."
+                # "The {Lang} word for this concept is {translation}."
+                p1_v2 = f"The {lang_name} word for this concept is "
+                p2_v2 = "."
                 text_v2 = f"{p1_v2}{translation}{p2_v2}"
                 
                 training_data.append((
