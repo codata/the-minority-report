@@ -204,6 +204,13 @@ def train_spacy_model(training_data, output_dir, n_iter=30):
     """
     Train a spaCy NER model on the disaster risk terminology data.
     """
+    # Check for GPU
+    use_gpu = spacy.prefer_gpu()
+    if use_gpu:
+        print("🚀 GPU detected and enabled for training!")
+    else:
+        print("🖥️  GPU not detected. Training on CPU.")
+
     # Create blank English model
     nlp = spacy.blank("en")
     
