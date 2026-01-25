@@ -30,16 +30,11 @@ python3 translation-skill/scripts/orchestrator.py --index-url https://www.preven
 
 ## 2. Translate Terms (Agentic Workflow)
 
-Run the agents to translate all terms in the index into multiple languages (e.g., French, Spanish, Russian, Chinese).
-
-```bash
 python3 translation-skill/scripts/orchestrator.py \
   --index-file data/index_cache.json \
-  --languages fr,es,ru,ch,it,nl \
+  --languages fr,es,tr,ua,ru,ch,it,nl \
   --models gpt-oss:latest \
   --output-dir data
-```
-*Output: `data/final_translations.csv`*
 
 ## 3. Generate Croissant Metadata
 
