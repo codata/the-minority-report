@@ -110,6 +110,30 @@ def load_croissant_data(data_dir, index_cache=None):
                 
                 lang_name = lang_names.get(lang_code, lang_code.upper())
                 
+                # Check for Augmentation Data (LLM Examples)
+                examples = alt.get("sc:example", [])
+                if examples:
+                    # Use real world augmented examples
+                    for ex_text in examples:
+                        # Find all occurrences of the translation in the example
+                        # We blindly trust the augmentation script put the term there
+                        start_idx = ex_text.lower().find(translation.lower())
+                        
+                        if start_idx != -1:
+                           end_idx = start_idx + len(translation)
+                           
+                           # Label
+                           tr_label = f"TR-{main_label}"
+                           
+                           training_data.append((
+                               ex_text,
+                               {"entities": [(start_idx, end_idx, tr_label)]}
+                           ))
+                    # Fallback or Mix? 
+                    # If we have examples, maybe we don't need synthetic ones?
+                    # Let's keep synthetic ones too for robustness unless we decide otherwise.
+                    # For now, ADDING them increases diversity.
+                
                 # Create synthetic training examples
                 # WE CONSTRUCT THE SENTENCE TO CALCULATE EXACT OFFSETS AND AVOID OVERLAP
                 # Template: "The disaster risk term in English for {term} and translation in {Lang} ({code}) is {translation}."
