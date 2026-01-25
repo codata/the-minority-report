@@ -90,16 +90,24 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
     # Define FileObject
     
     # encoding_format vs encoding_formats version mismatch handling
-    # Local version expects encoding_format (singular)
-    # Newer versions might expect encoding_formats (list)
+    # We inspect the signature to support both old and new versions of mlcroissant
+    import inspect
+    sig = inspect.signature(mlc.FileObject.__init__)
+    
+    file_obj_kwargs = {
+        "id": "file_object",
+        "name": "multilingual_cv_data",
+        "content_url": file_path,
+        "sha256": "TODO:CALCULATE_HASH"
+    }
+    
+    if "encoding_formats" in sig.parameters:
+        file_obj_kwargs["encoding_formats"] = ["text/csv"]
+    else:
+        file_obj_kwargs["encoding_format"] = "text/csv"
+        
     distribution = [
-        mlc.FileObject(
-            id="file_object",
-            name="multilingual_cv_data",
-            content_url=file_path,
-            encoding_format="text/csv", 
-            sha256="TODO:CALCULATE_HASH" 
-        )
+        mlc.FileObject(**file_obj_kwargs)
     ]
     
     # Dynamic Field Generation
