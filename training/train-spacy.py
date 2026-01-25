@@ -112,27 +112,44 @@ def load_croissant_data(data_dir, index_cache=None):
                 
                 # Check for Augmentation Data (LLM Examples)
                 examples = alt.get("sc:example", [])
+                augment_examples_found = False
+                
                 if examples:
+                    # sc:example might be a string if manual edit? Ensure list.
+                    if isinstance(examples, str):
+                        examples = [examples]
+                        
                     # Use real world augmented examples
                     for ex_text in examples:
-                        # Find all occurrences of the translation in the example
-                        # We blindly trust the augmentation script put the term there
-                        start_idx = ex_text.lower().find(translation.lower())
+                        ex_entities = []
+                        start_search = 0
                         
-                        if start_idx != -1:
-                           end_idx = start_idx + len(translation)
-                           
-                           # Label
-                           tr_label = f"TR-{main_label}"
-                           
+                        # Find ALL occurrences of the translation in the example
+                        while True:
+                            idx = ex_text.lower().find(translation.lower(), start_search)
+                            if idx == -1:
+                                break
+                                
+                            end_idx = idx + len(translation)
+                            tr_label = f"TR-{main_label}"
+                            ex_entities.append((idx, end_idx, tr_label))
+                            
+                            start_search = end_idx
+                            
+                        if ex_entities:
                            training_data.append((
                                ex_text,
-                               {"entities": [(start_idx, end_idx, tr_label)]}
+                               {"entities": ex_entities}
                            ))
-                    # Fallback or Mix? 
-                    # If we have examples, maybe we don't need synthetic ones?
-                    # Let's keep synthetic ones too for robustness unless we decide otherwise.
-                    # For now, ADDING them increases diversity.
+                           augment_examples_found = True
+
+                # If we have real world examples, we can skip the synthetic templates
+                # to avoid mixing high-quality natural data with rigid templates.
+                if augment_examples_found:
+                    continue
+
+                # Create synthetic training examples
+                # WE CONSTRUCT THE SENTENCE TO CALCULATE EXACT OFFSETS AND AVOID OVERLAP
                 
                 # Create synthetic training examples
                 # WE CONSTRUCT THE SENTENCE TO CALCULATE EXACT OFFSETS AND AVOID OVERLAP
