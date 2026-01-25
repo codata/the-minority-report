@@ -212,8 +212,15 @@ def train_spacy_model(training_data, output_dir, n_iter=30):
         print(f"🖥️  GPU activation failed: {e}")
         print("    (Using CPU. Ensure 'cupy-cudaXX' is installed matches your CUDA version)")
 
-    # Create blank English model
-    nlp = spacy.blank("en")
+    # Create blank Multilingual model
+    # Use 'xx' for multi-language support (requires spacy-xx/multi-lang support)
+    try:
+        nlp = spacy.blank("xx")
+        print("🌍 Using multilingual 'xx' base model.")
+    except Exception:
+        print("⚠️  Multilingual 'xx' model not found. Fallback to 'en'.")
+        print("    Install it via: python -m spacy download xx_ent_wiki_sm (or similar if needed)")
+        nlp = spacy.blank("en")
     
     # Add NER pipeline component
     if "ner" not in nlp.pipe_names:
