@@ -88,12 +88,16 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
             })
 
     # Define FileObject
+    
+    # encoding_format vs encoding_formats version mismatch handling
+    # Local version expects encoding_format (singular)
+    # Newer versions might expect encoding_formats (list)
     distribution = [
         mlc.FileObject(
             id="file_object",
             name="multilingual_cv_data",
             content_url=file_path,
-            encoding_format="text/csv",
+            encoding_format="text/csv", 
             sha256="TODO:CALCULATE_HASH" 
         )
     ]
