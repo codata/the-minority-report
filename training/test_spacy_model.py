@@ -18,6 +18,9 @@ def test_model(model_path):
         "Avalanche risk is high in the mountains.",
         "Peste des petits ruminants is a viral disease.",
         "Translate 'Heat wave' into Spanish.",
+        "В Испании произошла вторая железнодорожная авария за три дня", # Russian: Train accident
+        "falen van kritieke infrastructuur in nederland", # Dutch: Critical infrastructure failure
+        "Con il termine cyberbullismo si intende qualunque forma di pressione", # Italian: Cyberbullying
     ]
 
     print("\n=== Testing Model Performance ===")
