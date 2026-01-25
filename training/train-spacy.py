@@ -117,7 +117,7 @@ def load_croissant_data(data_dir, index_cache=None):
                 # Parts of the sentence
                 p1 = "The disaster risk term in English for "
                 p2 = f" and translation in {lang_name} ({lang_code}) is "
-                p3 = "."
+                p3 = " ."
                 
                 # Full Text
                 text = f"{p1}{term}{p2}{translation}{p3}"
@@ -143,9 +143,9 @@ def load_croissant_data(data_dir, index_cache=None):
                 ))
                 
                 # Optional: Add a variation with just the translation to be robust
-                # "The {Lang} word for this concept is {translation}."
+                # "The {Lang} word for this concept is {translation} ."
                 p1_v2 = f"The {lang_name} word for this concept is "
-                p2_v2 = "."
+                p2_v2 = " ."
                 text_v2 = f"{p1_v2}{translation}{p2_v2}"
                 
                 training_data.append((
@@ -205,11 +205,12 @@ def train_spacy_model(training_data, output_dir, n_iter=30):
     Train a spaCy NER model on the disaster risk terminology data.
     """
     # Check for GPU
-    use_gpu = spacy.prefer_gpu()
-    if use_gpu:
+    try:
+        spacy.require_gpu()
         print("🚀 GPU detected and enabled for training!")
-    else:
-        print("🖥️  GPU not detected. Training on CPU.")
+    except Exception as e:
+        print(f"🖥️  GPU activation failed: {e}")
+        print("    (Using CPU. Ensure 'cupy-cudaXX' is installed matches your CUDA version)")
 
     # Create blank English model
     nlp = spacy.blank("en")
