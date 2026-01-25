@@ -15,7 +15,7 @@ from spacy.training import Example
 from spacy.util import minibatch, compounding
 
 
-def load_croissant_data(data_dir):
+def load_croissant_data(data_dir, index_cache=None):
     """
     Loads Croissant JSON-LD files and converts them into spaCy training format.
     Returns training examples for NER (Named Entity Recognition).
@@ -24,6 +24,21 @@ def load_croissant_data(data_dir):
     files = glob.glob(os.path.join(data_dir, "croissant_*.json"))
     
     print(f"Found {len(files)} Croissant files in {data_dir}")
+    
+    # Create lookup map from index cache for faster access
+    # Map both term and URL to code
+    term_to_code = {}
+    url_to_code = {}
+    
+    if index_cache:
+        print(f"Loaded {len(index_cache)} entries from index cache")
+        for url, data in index_cache.items():
+            code = data.get("code")
+            term_name = data.get("term", "").lower()
+            if code:
+                if term_name:
+                    term_to_code[term_name] = code
+                url_to_code[url] = code # Full URL match as backup
     
     for file_path in files:
         try:
@@ -43,7 +58,23 @@ def load_croissant_data(data_dir):
                 term = term_raw
                 
             context = data.get("description", "")
+            # Extract Identifier (HIPS Code)
+            # Schema.org identifier or HIPS specific field
             identifier = data.get("https://schema.org/identifier", "")
+            
+            # Additional Lookup Strategy using Index Cache
+            if not identifier and index_cache:
+                # 1. Try lookup by Exact Term Name
+                identifier = term_to_code.get(term.lower())
+                
+                # 2. Try lookup by Source URL (if present in metadata)
+                if not identifier:
+                    source_url = data.get("url", "")
+                    if source_url:
+                         identifier = url_to_code.get(source_url)
+                         
+            # Determine Label: Use HIPS code if available, else DISASTER_TERM
+            main_label = identifier if identifier else "DISASTER_TERM"
             
             if not term or not context:
                 continue
@@ -56,7 +87,7 @@ def load_croissant_data(data_dir):
                 
                 training_data.append((
                     context,
-                    {"entities": [(start_idx, end_idx, "DISASTER_TERM")]}
+                    {"entities": [(start_idx, end_idx, main_label)]}
                 ))
             
             # Extract translations
@@ -71,13 +102,13 @@ def load_croissant_data(data_dir):
                 # Create synthetic training examples
                 # Use separate examples to avoid overlapping entities
                 
-                # Example 1: Mark only the original term
+                # Example 1: Mark only the original term with HIPS code
                 text1 = f"The disaster risk term is '{term}'."
                 term_start = text1.find(f"'{term}'")
                 if term_start != -1:
                     training_data.append((
                         text1,
-                        {"entities": [(term_start + 1, term_start + 1 + len(term), "DISASTER_TERM")]}
+                        {"entities": [(term_start + 1, term_start + 1 + len(term), main_label)]}
                     ))
                 
                 # Example 2: Mark only the translation
@@ -108,18 +139,29 @@ def train_spacy_model(training_data, output_dir, n_iter=30):
     else:
         ner = nlp.get_pipe("ner")
     
+    
     # Add labels
-    ner.add_label("DISASTER_TERM")
+    # We now add labels dynamically based on the training data
+    # ner.add_label("DISASTER_TERM") # Replaced by dynamic HIPS codes
     ner.add_label("TRANSLATION")
     
     # Convert to spaCy Example format
     examples = []
+    labels = set()
     for text, annotations in training_data:
         doc = nlp.make_doc(text)
         example = Example.from_dict(doc, annotations)
         examples.append(example)
+        
+        # Collect all unique labels to add to NER
+        for ent in annotations.get("entities", []):
+            labels.add(ent[2])
+            
+    # Add all discovered labels (HIPS codes)
+    for label in labels:
+        ner.add_label(label)
     
-    print(f"Training on {len(examples)} examples...")
+    print(f"Training on {len(examples)} examples with {len(labels)} unique labels (HIPS codes)...")
     
     # Disable other pipeline components during training
     other_pipes = [pipe for pipe in nlp.pipe_names if pipe != "ner"]
@@ -164,15 +206,26 @@ def test_model(nlp, test_texts):
 def main():
     parser = argparse.ArgumentParser(description="Train spaCy NER model for disaster terminology")
     parser.add_argument("--data-dir", default="output", help="Directory containing Croissant JSON files")
+    parser.add_argument("--index-file", help="Path to index cache JSON file for HIPS code lookup")
     parser.add_argument("--output-dir", default="training/spacy_model", help="Output directory for trained model")
     parser.add_argument("--n-iter", type=int, default=30, help="Number of training iterations")
     parser.add_argument("--test", action="store_true", help="Run test after training")
     
     args = parser.parse_args()
     
+    # Load Index Cache if provided
+    index_cache = {}
+    if args.index_file and os.path.exists(args.index_file):
+        print(f"Loading index cache from {args.index_file}...")
+        try:
+            with open(args.index_file, "r") as f:
+                index_cache = json.load(f)
+        except Exception as e:
+            print(f"Warning: Failed to load index file: {e}")
+    
     # Load data
     print("Loading training data...")
-    training_data = load_croissant_data(args.data_dir)
+    training_data = load_croissant_data(args.data_dir, index_cache=index_cache)
     
     if not training_data:
         print("No training data found. Exiting.")
