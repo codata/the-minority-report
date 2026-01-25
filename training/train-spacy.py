@@ -234,8 +234,15 @@ def main():
     print(f"Loaded {len(training_data)} training examples")
     
     # Save training data for inspection
-    debug_dir = os.path.join(os.path.dirname(args.output_dir), "data")
-    os.makedirs(debug_dir, exist_ok=True)
+    # Force save to training/data/ relative to where we run it
+    debug_dir = os.path.join("training", "data")
+    if not os.path.exists(debug_dir):
+        # Maybe we are inside training dir?
+        if os.path.basename(os.getcwd()) == "training":
+             debug_dir = "data"
+        else:
+             os.makedirs(debug_dir, exist_ok=True)
+             
     debug_file = os.path.join(debug_dir, "training_data_dump.json")
     
     print(f"Saving training data snapshot to {debug_file}...")
