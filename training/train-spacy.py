@@ -133,12 +133,24 @@ def load_croissant_data(data_dir, index_cache=None):
                 # Entity 1: Term (with HIPS code label)
                 entities.append((term_start, term_end, main_label))
                 
-                # Entity 2: Translation
-                entities.append((trans_start, trans_end, "TRANSLATION"))
+                # Entity 2: Translation (TR-{HIPS_CODE})
+                tr_label = f"TR-{main_label}"
+                entities.append((trans_start, trans_end, tr_label))
                 
                 training_data.append((
                     text,
                     {"entities": entities}
+                ))
+                
+                # Optional: Add a variation with just the translation to be robust
+                # "The {Lang} word for this concept is {translation}."
+                p1_v2 = f"The {lang_name} word for this concept is "
+                p2_v2 = "."
+                text_v2 = f"{p1_v2}{translation}{p2_v2}"
+                
+                training_data.append((
+                    text_v2,
+                    {"entities": [(len(p1_v2), len(p1_v2) + len(translation), tr_label)]}
                 ))
                 
                 # Natural Language Templates (Language-Specific)
@@ -156,11 +168,6 @@ def load_croissant_data(data_dir, index_cache=None):
                 if lang_code in nl_templates:
                     for tmpl in nl_templates[lang_code]:
                         # Construct: "Con il termine cyberbullismo si intende..."
-                        # We just keep it simple: "Con il termine cyberbullismo"
-                        # to teach it to find the term inside the phrase.
-                        
-                        # Replace {trans} with translation
-                        # But we need to find offsets.
                         
                         # Split template by {trans} placeholder
                         parts = tmpl.split("{trans}")
@@ -170,26 +177,20 @@ def load_croissant_data(data_dir, index_cache=None):
                              
                              nl_text = f"{prefix_part}{translation}{suffix_part}"
                              
-                             # Entity: Translation
+                             # Entity: Translation (TR-{HIPS_CODE})
                              t_start = len(prefix_part)
                              t_end = t_start + len(translation)
                              
-                             # We label this as TRANSLATION or MAIN LABEL?
-                             # Dealing with "Con il termine cyberbullismo..." we want to detect it.
-                             # If we label it TRANSLATION, the user can map back to term.
-                             # Or we can label it with the HIPS code directly!
-                             # Let's label with HIPS Code (Main Label) so the model links 
-                             # foreign terms directly to the Concept ID.
                              training_data.append((
                                  nl_text,
-                                 {"entities": [(t_start, t_end, main_label)]}
+                                 {"entities": [(t_start, t_end, tr_label)]}
                              ))
                 else: 
                      # Generic fallback
                      fallback = f"The term {translation} means..."
                      training_data.append((
                          fallback,
-                         {"entities": [(9, 9 + len(translation), main_label)]}
+                         {"entities": [(9, 9 + len(translation), tr_label)]}
                      ))
 
                     
