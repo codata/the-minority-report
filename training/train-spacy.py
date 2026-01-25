@@ -110,7 +110,14 @@ def load_croissant_data(data_dir, index_cache=None):
                 
                 # Create synthetic training examples
                 # WE CONSTRUCT THE SENTENCE TO CALCULATE EXACT OFFSETS AND AVOID OVERLAP
-                # Template: "The disaster risk term in English for '{term}' and translation in {Lang} ({code}) is '{translation}'."
+                # Template: "{context} The disaster risk term in English for '{term}' and translation in {Lang} ({code}) is '{translation}'."
+                
+                # Context prefix (cleaning up newlines if any)
+                clean_context = context.strip()
+                if not clean_context.endswith("."):
+                    clean_context += "."
+                    
+                prefix = f"{clean_context} "
                 
                 # Parts of the sentence
                 p1 = "The disaster risk term in English for '"
@@ -118,10 +125,10 @@ def load_croissant_data(data_dir, index_cache=None):
                 p3 = "'."
                 
                 # Full Text
-                text = f"{p1}{term}{p2}{translation}{p3}"
+                text = f"{prefix}{p1}{term}{p2}{translation}{p3}"
                 
-                # Indices
-                term_start = len(p1)
+                # Indices (shifted by prefix length)
+                term_start = len(prefix) + len(p1)
                 term_end = term_start + len(term)
                 
                 trans_start = term_end + len(p2)
