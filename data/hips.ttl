@@ -140,30 +140,6 @@ ex:MH0403 a skos:Concept ;
     skos:prefLabel "snöstorm"@sv ;
     skos:prefLabel "снежная буря"@ru .
 
-ex:eagles_song a skos:Concept ;
-    skos:prefLabel "Eagles song"@en ;
-    skos:definition "Song of the US band Eagles"@en .
-
-ex:neural_network a skos:Concept ;
-    skos:prefLabel "Neural Network"@en ;
-    skos:definition "A computational model inspired by the structure of biological neural networks."@en .
-
-ex:supervised_learning a skos:Concept ;
-    skos:prefLabel "Supervised Learning"@en ;
-    skos:definition "The machine learning task of learning a function that maps an input to an output based on example input-output pairs."@en .
-
-ex:backpropagation a skos:Concept ;
-    skos:prefLabel "Backpropagation"@en ;
-    skos:definition "A widely used algorithm in training feedforward neural networks for supervised learning."@en .
-
-ex:lstm a skos:Concept ;
-    skos:prefLabel "LSTM"@en ;
-    skos:definition "Long Short-Term Memory networks are a type of recurrent neural network capable of learning order dependence in sequence prediction problems."@en .
-
-ex:transformer a skos:Concept ;
-    skos:prefLabel "Transformer"@en ;
-    skos:definition "A deep learning model that adopts the mechanism of self-attention"@en .
-
 ex:BI0310 a skos:Concept ;
     skos:prefLabel "Peste Des Petits Ruminants"@en ;
     skos:definition "Peste des petits ruminants is a highly contagious and devastating disease of goats and sheep. The causative agent, Peste des petits ruminants virus, is a member of the genusMorbillivirus, FamilyParamyxoviridaeand OrderMononegavirales(adapted from FAO, no date and WOAH, 2024a)."@en ;
