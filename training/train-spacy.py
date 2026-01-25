@@ -74,7 +74,8 @@ def load_croissant_data(data_dir, index_cache=None):
                          identifier = url_to_code.get(source_url)
                          
             # Determine Label: Use HIPS code if available, else DISASTER_TERM
-            main_label = identifier if identifier else "DISASTER_TERM"
+            # User requested format: HIPS_{CODE}
+            main_label = f"HIPS_{identifier}" if identifier else "DISASTER_TERM"
             
             if not term or not context:
                 continue
@@ -131,7 +132,8 @@ def load_croissant_data(data_dir, index_cache=None):
                                 break
                                 
                             end_idx = idx + len(translation)
-                            tr_label = f"TR-{main_label}"
+                            # Label Format: HIPS_{CODE}_TR_{LANG}
+                            tr_label = f"{main_label}_TR_{lang_code.upper()}"
                             ex_entities.append((idx, end_idx, tr_label))
                             
                             start_search = end_idx
@@ -175,7 +177,7 @@ def load_croissant_data(data_dir, index_cache=None):
                 entities.append((term_start, term_end, main_label))
                 
                 # Entity 2: Translation (TR-{HIPS_CODE})
-                tr_label = f"TR-{main_label}"
+                tr_label = f"{main_label}_TR_{lang_code.upper()}"
                 entities.append((trans_start, trans_end, tr_label))
                 
                 training_data.append((
@@ -194,22 +196,9 @@ def load_croissant_data(data_dir, index_cache=None):
                     {"entities": [(len(p1_v2), len(p1_v2) + len(translation), tr_label)]}
                 ))
                 
-                # Natural Language Templates (Language-Specific)
-                # Helps the model recognize terms in real context like definitions
-                nl_templates = {
-                    "it": ["Con il termine {trans} si intende...", "La definizione di {trans} è..."],
-                    "fr": ["Le terme {trans} désigne...", "La définition de {trans} est..."],
-                    "es": ["El término {trans} se refiere a...", "La definición de {trans} es..."],
-                    "ru": ["Термин {trans} означает...", "Определение {trans}:"],
-                    "en": ["The term {trans} refers to...", "Definition of {trans}:"],
-                    "de": ["Der Begriff {trans} bezeichnet...", "Definition von {trans}:"],
-                }
-                
                 # Add natural language example if template exists
                 if lang_code in nl_templates:
                     for tmpl in nl_templates[lang_code]:
-                        # Construct: "Con il termine cyberbullismo si intende..."
-                        
                         # Split template by {trans} placeholder
                         parts = tmpl.split("{trans}")
                         if len(parts) == 2:
@@ -218,7 +207,7 @@ def load_croissant_data(data_dir, index_cache=None):
                              
                              nl_text = f"{prefix_part}{translation}{suffix_part}"
                              
-                             # Entity: Translation (TR-{HIPS_CODE})
+                             # Entity: Translation (HIPS_{CODE}_TR_{LANG})
                              t_start = len(prefix_part)
                              t_end = t_start + len(translation)
                              
@@ -226,6 +215,22 @@ def load_croissant_data(data_dir, index_cache=None):
                                  nl_text,
                                  {"entities": [(t_start, t_end, tr_label)]}
                              ))
+                             
+                    # Add "Negative-like" examples (Intro word + Entity)
+                    # "Maar Mercury..." to teach "Maar" is NOT part of "Mercury"
+                    if lang_code in intro_words:
+                         for intro in intro_words[lang_code]:
+                             # "Maar {trans} is..."
+                             text_intro = f"{intro}{translation} ."
+                             
+                             t_start = len(intro)
+                             t_end = t_start + len(translation)
+                             
+                             training_data.append((
+                                 text_intro,
+                                 {"entities": [(t_start, t_end, tr_label)]}
+                             ))
+
                 else: 
                      # Generic fallback
                      fallback = f"The term {translation} means..."
