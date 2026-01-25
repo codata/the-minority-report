@@ -126,13 +126,18 @@ def process_file(file_path, model, limit=None):
 def main():
     parser = argparse.ArgumentParser(description="Augment Croissant data with LLM examples")
     parser.add_argument("--data-dir", default="output", help="Directory with Croissant files")
+    parser.add_argument("--file", help="Specific file to process (overrides --data-dir)")
     parser.add_argument("--model", default="gpt-oss:latest", help="LLM model to use")
     parser.add_argument("--limit", type=int, default=None, help="Limit examples per file (for testing)")
     
     args = parser.parse_args()
     
-    files = glob.glob(os.path.join(args.data_dir, "croissant_*.json"))
-    print(f"Found {len(files)} files.")
+    if args.file:
+        files = [args.file]
+    else:
+        files = glob.glob(os.path.join(args.data_dir, "croissant_*.json"))
+        
+    print(f"Found {len(files)} files to process.")
     
     for f in files:
         process_file(f, args.model, args.limit)
