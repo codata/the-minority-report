@@ -233,6 +233,24 @@ def main():
     
     print(f"Loaded {len(training_data)} training examples")
     
+    # Save training data for inspection
+    debug_dir = os.path.join(os.path.dirname(args.output_dir), "data")
+    os.makedirs(debug_dir, exist_ok=True)
+    debug_file = os.path.join(debug_dir, "training_data_dump.json")
+    
+    print(f"Saving training data snapshot to {debug_file}...")
+    with open(debug_file, "w") as f:
+        # Convert set/tuple to list/dict for JSON serialization
+        serializable_data = []
+        for text, annotations in training_data:
+            entities = annotations.get("entities", [])
+            # Convert entities to [start, end, label]
+            serializable_data.append({
+                "text": text,
+                "entities": [[e[0], e[1], e[2]] for e in entities]
+            })
+        json.dump(serializable_data, f, indent=2)
+    
     # Train model
     nlp = train_spacy_model(training_data, args.output_dir, args.n_iter)
     
