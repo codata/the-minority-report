@@ -221,29 +221,36 @@ def load_croissant_data(data_dir, index_cache=None):
     return training_data
 
 
-def train_spacy_model(training_data, output_dir, n_iter=30, force_cpu=False):
+def train_spacy_model(training_data, output_dir, n_iter=30, force_cpu=False, log_file=None):
     """
     Train a spaCy NER model on the disaster risk terminology data.
     """
+    def log(msg):
+        """Helper to log to both stdout and file"""
+        print(msg, flush=True)
+        if log_file:
+            with open(log_file, 'a') as f:
+                f.write(msg + '\n')
+    
     # Check for GPU
     if not force_cpu:
         try:
             spacy.require_gpu()
-            print("🚀 GPU detected and enabled for training!")
+            log("🚀 GPU detected and enabled for training!")
         except Exception as e:
-            print(f"🖥️  GPU activation failed: {e}")
-            print("    (Using CPU. Ensure 'cupy-cudaXX' is installed matches your CUDA version)")
+            log(f"🖥️  GPU activation failed: {e}")
+            log("    (Using CPU. Ensure 'cupy-cudaXX' is installed matches your CUDA version)")
     else:
-        print("🖥️  Running in CPU-forced mode (Parallel Job)")
+        log("🖥️  Running in CPU-forced mode (Parallel Job)")
 
     # Create blank Multilingual model
     # Use 'xx' for multi-language support (requires spacy-xx/multi-lang support)
     try:
         nlp = spacy.blank("xx")
-        print("🌍 Using multilingual 'xx' base model.")
+        log("🌍 Using multilingual 'xx' base model.")
     except Exception:
-        print("⚠️  Multilingual 'xx' model not found. Fallback to 'en'.")
-        print("    Install it via: python -m spacy download xx_ent_wiki_sm (or similar if needed)")
+        log("⚠️  Multilingual 'xx' model not found. Fallback to 'en'.")
+        log("    Install it via: python -m spacy download xx_ent_wiki_sm (or similar if needed)")
         nlp = spacy.blank("en")
     
     # Add NER pipeline component
@@ -274,7 +281,7 @@ def train_spacy_model(training_data, output_dir, n_iter=30, force_cpu=False):
     for label in labels:
         ner.add_label(label)
     
-    print(f"Training on {len(examples)} examples with {len(labels)} unique labels (HIPS codes)...")
+    log(f"Training on {len(examples)} examples with {len(labels)} unique labels (HIPS codes)...")
     
     # Disable other pipeline components during training
     other_pipes = [pipe for pipe in nlp.pipe_names if pipe != "ner"]
@@ -292,13 +299,13 @@ def train_spacy_model(training_data, output_dir, n_iter=30, force_cpu=False):
             for batch in batches:
                 nlp.update(batch, drop=0.5, losses=losses, sgd=optimizer)
             
-            print(f"Iteration {iteration + 1}/{n_iter} - Loss: {losses.get('ner', 0):.2f}")
+            log(f"Iteration {iteration + 1}/{n_iter} - Loss: {losses.get('ner', 0):.2f}")
     
     # Save model
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
     nlp.to_disk(output_path)
-    print(f"Model saved to {output_path}")
+    log(f"Model saved to {output_path}")
     
     return nlp
 
@@ -333,12 +340,32 @@ def train_worker(args_pack):
     """
     training_data, output_dir, n_iter, seed, job_id = args_pack
     
+    # Create log file for this job
+    log_file = f"{output_dir}.log"
+    
+    # Ensure parent directory exists for log file
+    Path(output_dir).parent.mkdir(parents=True, exist_ok=True)
+    
+    with open(log_file, 'w') as f:
+        f.write(f"[Job {job_id}] Starting training with seed {seed}\n")
+        f.write(f"[Job {job_id}] Log file: {log_file}\n")
+        f.write(f"[Job {job_id}] Output directory: {output_dir}\n")
+        f.write("=" * 60 + "\n")
+    
+    print(f"[Job {job_id}] Starting training with seed {seed}. Log: {log_file}", flush=True)
+    
     # Set seed for reproducibility/variance
     random.seed(seed)
     spacy.util.fix_random_seed(seed)
     
-    # Train
-    nlp = train_spacy_model(training_data, output_dir, n_iter, force_cpu=True)
+    # Train with log file
+    nlp = train_spacy_model(training_data, output_dir, n_iter, force_cpu=True, log_file=log_file)
+    
+    with open(log_file, 'a') as f:
+        f.write("=" * 60 + "\n")
+        f.write(f"[Job {job_id}] Training complete! Model saved to {output_dir}\n")
+    
+    print(f"[Job {job_id}] Training complete! Model saved to {output_dir}", flush=True)
     
     return output_dir
 
@@ -405,6 +432,8 @@ def main():
                     print(f"❌ Job failed: {e}")
                     
         print(f"\nAll parallel jobs finished. Inspect {args.output_dir}/run_* for results.")
+        print(f"\nTo monitor progress in real-time, use:")
+        print(f"  tail -f {args.output_dir}/run_*.log")
         # Optionally, we could symlink the 'run_0' to main output, or leave it to user.
         # Let's verify the first run for the test.
         final_model_dir = os.path.join(args.output_dir, "run_0")
