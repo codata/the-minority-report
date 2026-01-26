@@ -436,5 +436,7 @@ def main():
 
 
 if __name__ == "__main__":
-    multiprocessing.set_start_method("fork", force=True) # efficient for Linux
+    # Use 'spawn' instead of 'fork' to create completely fresh processes
+    # This prevents CUDA state inheritance which causes cudaErrorInitializationError
+    multiprocessing.set_start_method("spawn", force=True)
     main()
