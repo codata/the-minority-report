@@ -221,17 +221,20 @@ def load_croissant_data(data_dir, index_cache=None):
     return training_data
 
 
-def train_spacy_model(training_data, output_dir, n_iter=30):
+def train_spacy_model(training_data, output_dir, n_iter=30, force_cpu=False):
     """
     Train a spaCy NER model on the disaster risk terminology data.
     """
     # Check for GPU
-    try:
-        spacy.require_gpu()
-        print("🚀 GPU detected and enabled for training!")
-    except Exception as e:
-        print(f"🖥️  GPU activation failed: {e}")
-        print("    (Using CPU. Ensure 'cupy-cudaXX' is installed matches your CUDA version)")
+    if not force_cpu:
+        try:
+            spacy.require_gpu()
+            print("🚀 GPU detected and enabled for training!")
+        except Exception as e:
+            print(f"🖥️  GPU activation failed: {e}")
+            print("    (Using CPU. Ensure 'cupy-cudaXX' is installed matches your CUDA version)")
+    else:
+        print("🖥️  Running in CPU-forced mode (Parallel Job)")
 
     # Create blank Multilingual model
     # Use 'xx' for multi-language support (requires spacy-xx/multi-lang support)
@@ -317,23 +320,25 @@ def train_worker(args_pack):
     """
     Worker function for parallel training.
     """
+    # FORCE CPU: distinct from spacy.require_cpu(), this hides the GPU entirely
+    # preventing any accidental CUDA initialization in forked processes.
+    os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+    
     training_data, output_dir, n_iter, seed, job_id = args_pack
+    
+    # FORCE CPU for parallel workers to avoid CUDA initialization errors
+    # and to utilize the 256 CPU cores as requested.
+    spacy.require_cpu()
     
     # Set seed for reproducibility/variance
     random.seed(seed)
     spacy.util.fix_random_seed(seed)
     
-    print(f"[Job {job_id}] Starting training with seed {seed}...")
+    # Redirect output to avoid console spam? Or keep it?
+    # print(f"[Job {job_id}] Starting training with seed {seed}...")
     
     # Train
-    nlp = train_spacy_model(training_data, output_dir, n_iter)
-    
-    # We can return the path or the loss or the model itself (if small)
-    # But for simplicity, let's just return the directory and maybe a metric?
-    # Since train_spacy_model doesn't return loss, let's trust it saved to disk.
-    # Actually, proper selection requires evaluation.
-    # For now, we will perform a 'Best of N' selection?
-    # Or just let them save to different folders.
+    nlp = train_spacy_model(training_data, output_dir, n_iter, force_cpu=True)
     
     return output_dir
 
