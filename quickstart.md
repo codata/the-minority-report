@@ -63,6 +63,7 @@ python3 training/augment_data.py --data-dir output
 ### A. Train spaCy NER Model
 Train a lightweight, fast Named Entity Recognition model to detect terms and labels (e.g., `HIPS_BI0310`, `HIPS_BI0310_TR_FR`).
 
+**Single-job training:**
 ```bash
 python3 training/train-spacy.py \
   --data-dir output \
@@ -71,7 +72,33 @@ python3 training/train-spacy.py \
   --n-iter 50 \
   --test
 ```
-*Output: `training/spacy_model` directory*
+
+**Parallel training (recommended for multi-core systems):**
+```bash
+# Train 16 models in parallel using 16 CPU cores
+python3 training/train-spacy.py \
+  --data-dir output \
+  --n-jobs 16 \
+  --n-iter 30 \
+  --output-dir training/spacy_model
+
+# Monitor progress in real-time (in another terminal)
+tail -f training/spacy_model/run_*.log
+```
+
+**Output:**
+- Single-job: `training/spacy_model/` directory
+- Parallel: `training/spacy_model/run_0/`, `run_1/`, ..., `run_15/` directories
+- Log files: `training/spacy_model/run_0.log`, `run_1.log`, etc.
+
+**Choosing the best model:**
+```bash
+# Check final loss values
+tail -5 training/spacy_model/run_*.log | grep "Loss:"
+
+# Test a specific model
+python3 training/test_spacy_model.py training/spacy_model/run_0
+```
 
 ### B. Fine-Tune LLM (Optional)
 Fine-tune a small LLM (e.g., Gemma 2B) on the dataset for translation tasks.

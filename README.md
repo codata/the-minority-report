@@ -138,8 +138,10 @@ The project includes two training approaches for building custom models:
 
 ### spaCy NER Model (Recommended)
 
+
 Train a lightweight Named Entity Recognition model to identify disaster terminology:
 
+**Single-job training:**
 ```bash
 # Install spaCy
 pip install spacy
@@ -150,11 +152,23 @@ python3 training/train-spacy.py --data-dir output --n-iter 30 --test
 # Model saved to: training/spacy_model/
 ```
 
+**Parallel training (for multi-core systems):**
+```bash
+# Train 16 models in parallel
+python3 training/train-spacy.py --data-dir output --n-jobs 16 --n-iter 30
+
+# Monitor progress in another terminal
+tail -f training/spacy_model/run_*.log
+
+# Models saved to: training/spacy_model/run_0/, run_1/, ..., run_15/
+```
+
 **Advantages:**
-- Fast training (1-2 minutes)
-- Small model size (~10MB)
-- Works on CPU or GPU
+- Fast training (1-2 minutes single-job, scales with cores for parallel)
+- Small model size (~10MB per model)
+- Works on CPU (GPU conflicts resolved via spawn multiprocessing)
 - Production-ready
+- Parallel training enables model ensembling or selection of best performer
 
 ### Transformers Fine-tuning (Advanced)
 
