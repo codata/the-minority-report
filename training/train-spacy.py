@@ -316,26 +316,26 @@ def test_model(nlp, test_texts):
             print(f"  - {ent.text} ({ent.label_})")
 
 
+def worker_init():
+    """
+    Initializer for worker processes.
+    This runs BEFORE any work is done in the child process.
+    """
+    # Hide GPU from this worker process entirely
+    os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+    # Force spaCy to use CPU
+    spacy.require_cpu()
+
+
 def train_worker(args_pack):
     """
     Worker function for parallel training.
     """
-    # FORCE CPU: distinct from spacy.require_cpu(), this hides the GPU entirely
-    # preventing any accidental CUDA initialization in forked processes.
-    os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
-    
     training_data, output_dir, n_iter, seed, job_id = args_pack
-    
-    # FORCE CPU for parallel workers to avoid CUDA initialization errors
-    # and to utilize the 256 CPU cores as requested.
-    spacy.require_cpu()
     
     # Set seed for reproducibility/variance
     random.seed(seed)
     spacy.util.fix_random_seed(seed)
-    
-    # Redirect output to avoid console spam? Or keep it?
-    # print(f"[Job {job_id}] Starting training with seed {seed}...")
     
     # Train
     nlp = train_spacy_model(training_data, output_dir, n_iter, force_cpu=True)
@@ -378,7 +378,11 @@ def main():
         print(f"\n🚀 Launching {args.n_jobs} parallel training jobs to utilize CPU cores!")
         print("This will train multiple models with different seeds and could be used for ensembling or finding the best model.\n")
         
-        with concurrent.futures.ProcessPoolExecutor(max_workers=args.n_jobs) as executor:
+        # CRITICAL: Disable GPU in parent process before forking
+        os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+        spacy.require_cpu()
+        
+        with concurrent.futures.ProcessPoolExecutor(max_workers=args.n_jobs, initializer=worker_init) as executor:
             futures = []
             for i in range(args.n_jobs):
                 # Create unique output dir for each job
