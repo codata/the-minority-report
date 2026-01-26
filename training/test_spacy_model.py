@@ -38,6 +38,13 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         path = sys.argv[1]
     
+    # If path is a directory with run_X subdirectories, use run_0
+    if os.path.isdir(path):
+        run_0_path = os.path.join(path, "run_0")
+        if os.path.exists(run_0_path):
+            print(f"Found parallel training output. Using model from: {run_0_path}")
+            path = run_0_path
+    
     if not os.path.exists(path):
         print(f"Model path not found: {path}")
         print("Please train the model first using: python3 training/train-spacy.py")
