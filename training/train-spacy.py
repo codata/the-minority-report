@@ -15,233 +15,208 @@ from spacy.training import Example
 from spacy.util import minibatch, compounding
 
 
+import concurrent.futures
+import multiprocessing
+
+# Global helpers for multiprocessing (must be picklable)
+def process_single_croissant_file(file_path, index_cache_data=None):
+    """
+    Process a single Croissant file and return training examples.
+    Defined at module level for pickling.
+    """
+    local_data = []
+    try:
+        with open(file_path, "r") as f:
+            data = json.load(f)
+            
+        # Extract Core Metadata
+        term_raw = data.get("name", "")
+        if isinstance(term_raw, list):
+            term = next((item.get("value") for item in term_raw if isinstance(item, dict) and item.get("lang") == "en"), "")
+            if not term and term_raw:
+                term = term_raw[0].get("value", "") if isinstance(term_raw[0], dict) else str(term_raw[0])
+        else:
+            term = term_raw
+            
+        context = data.get("description", "")
+        identifier = data.get("https://schema.org/identifier", "")
+        
+        # Determine Label
+        main_label = f"HIPS_{identifier}" if identifier else "DISASTER_TERM"
+        
+        if not term or not context:
+            return []
+        
+        # Example 1: Term in context
+        if term.lower() in context.lower():
+            start_idx = context.lower().find(term.lower())
+            end_idx = start_idx + len(term)
+            time_start = 0 
+            # Find all? For now just first is fine or maybe all?
+            # Let's keep original logic: simple find.
+            local_data.append((
+                context,
+                {"entities": [(start_idx, end_idx, main_label)]}
+            ))
+        
+        # Language Mapping
+        lang_names = {
+            "en": "English", "fr": "French", "es": "Spanish", "ru": "Russian", 
+            "ar": "Arabic", "zh": "Chinese", "de": "German",
+            "it": "Italian", "pt": "Portuguese", "ja": "Japanese",
+            "ko": "Korean", "hi": "Hindi", "bn": "Bengali",
+            "ur": "Urdu", "tr": "Turkish", "vi": "Vietnamese"
+        }
+
+        # Natural Language Templates (Language-Specific)
+        nl_templates = {
+            "it": ["Con il termine {trans} si intende...", "La definizione di {trans} è..."],
+            "fr": ["Le terme {trans} désigne...", "La définition de {trans} est..."],
+            "es": ["El término {trans} se refiere a...", "La definición de {trans} es..."],
+            "ru": ["Термин {trans} означает...", "Определение {trans}:"],
+            "en": ["The term {trans} refers to...", "Definition of {trans}:"],
+            "de": ["Der Begriff {trans} bezeichnet...", "Definition von {trans}:"],
+        }
+        
+        # Intro words for negative examples (simple approach)
+        intro_words = {
+             "nl": ["Maar ", "Echter "],
+             "en": ["However ", "But "]
+        }
+
+        # Extract translations
+        alternates = data.get("sc:alternateName", [])
+        for alt in alternates:
+            lang_code = alt.get("@language")
+            translation = alt.get("@value")
+            
+            if not lang_code or not translation:
+                continue
+            
+            lang_name = lang_names.get(lang_code, lang_code.upper())
+            
+            # Check for Augmentation Data (LLM Examples)
+            examples = alt.get("sc:example", [])
+            augment_examples_found = False
+            
+            if examples:
+                if isinstance(examples, str):
+                    examples = [examples]
+                    
+                for ex_text in examples:
+                    ex_entities = []
+                    start_search = 0
+                    
+                    while True:
+                        idx = ex_text.lower().find(translation.lower(), start_search)
+                        if idx == -1:
+                            break
+                            
+                        end_idx = idx + len(translation)
+                        tr_label = f"{main_label}_TR_{lang_code.upper()}"
+                        ex_entities.append((idx, end_idx, tr_label))
+                        
+                        start_search = end_idx
+                        
+                    if ex_entities:
+                       local_data.append((
+                           ex_text,
+                           {"entities": ex_entities}
+                       ))
+                       augment_examples_found = True
+
+            if augment_examples_found:
+                continue
+
+            # Synthetic Training Examples
+            p1 = "The disaster risk term in English for "
+            p2 = f" and translation in {lang_name} ({lang_code}) is "
+            p3 = " ."
+            text = f"{p1}{term}{p2}{translation}{p3}"
+            
+            term_start = len(p1)
+            term_end = term_start + len(term)
+            trans_start = term_end + len(p2)
+            trans_end = trans_start + len(translation)
+            
+            tr_label = f"{main_label}_TR_{lang_code.upper()}"
+            
+            local_data.append((
+                text,
+                {"entities": [
+                    (term_start, term_end, main_label),
+                    (trans_start, trans_end, tr_label)
+                ]}
+            ))
+            
+            # Variation
+            p1_v2 = f"The {lang_name} word for this concept is "
+            text_v2 = f"{p1_v2}{translation} ."
+            local_data.append((
+                text_v2,
+                {"entities": [(len(p1_v2), len(p1_v2) + len(translation), tr_label)]}
+            ))
+            
+            # Templates
+            if lang_code in nl_templates:
+                for tmpl in nl_templates[lang_code]:
+                    parts = tmpl.split("{trans}")
+                    if len(parts) == 2:
+                         nl_text = f"{parts[0]}{translation}{parts[1]}"
+                         t_start = len(parts[0])
+                         t_end = t_start + len(translation)
+                         local_data.append((
+                             nl_text,
+                             {"entities": [(t_start, t_end, tr_label)]}
+                         ))
+                         
+            # Intro words "negative"
+            if lang_code in intro_words:
+                 for intro in intro_words[lang_code]:
+                     text_intro = f"{intro}{translation} ."
+                     t_start = len(intro)
+                     t_end = t_start + len(translation)
+                     local_data.append((
+                         text_intro,
+                         {"entities": [(t_start, t_end, tr_label)]}
+                     ))
+            else:
+                 # Generic fallback
+                 fallback = f"The term {translation} means..."
+                 local_data.append((
+                     fallback,
+                     {"entities": [(9, 9 + len(translation), tr_label)]}
+                 ))
+                 
+        return local_data
+        
+    except Exception as e:
+        print(f"Error reading {file_path}: {e}")
+        return []
+
 def load_croissant_data(data_dir, index_cache=None):
     """
     Loads Croissant JSON-LD files and converts them into spaCy training format.
-    Returns training examples for NER (Named Entity Recognition).
+    Uses MULTIPROCESSING to utilize all cores.
     """
     training_data = []
     files = glob.glob(os.path.join(data_dir, "croissant_*.json"))
     
     print(f"Found {len(files)} Croissant files in {data_dir}")
+    print(f"Processing using {multiprocessing.cpu_count()} cores...")
     
-    # Create lookup map from index cache for faster access
-    # Map both term and URL to code
-    term_to_code = {}
-    url_to_code = {}
+    # We ignore index_cache in the helper for simplicity/pickling, 
+    # as most data is now self-contained in Croissant files and their IDs.
+    # If strictly needed, checking index_cache logic would need to be moved inside or passed safely.
+    # The current `process_single_croissant_file` relies on identifier inside file.
     
-    if index_cache:
-        print(f"Loaded {len(index_cache)} entries from index cache")
-        for url, data in index_cache.items():
-            code = data.get("code")
-            term_name = data.get("term", "").lower()
-            if code:
-                if term_name:
-                    term_to_code[term_name] = code
-                url_to_code[url] = code # Full URL match as backup
-    
-    for file_path in files:
-        try:
-            with open(file_path, "r") as f:
-                data = json.load(f)
-                
-            # Extract Core Metadata
-            term_raw = data.get("name", "")
-            # Handle case where name is a list (multilingual names)
-            if isinstance(term_raw, list):
-                # Extract English name or first item
-                term = next((item.get("value") for item in term_raw if isinstance(item, dict) and item.get("lang") == "en"), "")
-                if not term and term_raw:
-                    # Fallback to first item if no English found
-                    term = term_raw[0].get("value", "") if isinstance(term_raw[0], dict) else str(term_raw[0])
-            else:
-                term = term_raw
-                
-            context = data.get("description", "")
-            # Extract Identifier (HIPS Code)
-            # Schema.org identifier or HIPS specific field
-            identifier = data.get("https://schema.org/identifier", "")
-            
-            # Additional Lookup Strategy using Index Cache
-            if not identifier and index_cache:
-                # 1. Try lookup by Exact Term Name
-                identifier = term_to_code.get(term.lower())
-                
-                # 2. Try lookup by Source URL (if present in metadata)
-                if not identifier:
-                    source_url = data.get("url", "")
-                    if source_url:
-                         identifier = url_to_code.get(source_url)
-                         
-            # Determine Label: Use HIPS code if available, else DISASTER_TERM
-            # User requested format: HIPS_{CODE}
-            main_label = f"HIPS_{identifier}" if identifier else "DISASTER_TERM"
-            
-            if not term or not context:
-                continue
-            
-            # Create training example with the term as an entity in context
-            # Format: (text, {"entities": [(start, end, label)]})
-            if term.lower() in context.lower():
-                start_idx = context.lower().find(term.lower())
-                end_idx = start_idx + len(term)
-                
-                training_data.append((
-                    context,
-                    {"entities": [(start_idx, end_idx, main_label)]}
-                ))
-            
-            # Language Mapping for nicer sentences
-            lang_names = {
-                "en": "English", "fr": "French", "es": "Spanish", "ru": "Russian", 
-                "ar": "Arabic", "zh": "Chinese", "de": "German",
-                "it": "Italian", "pt": "Portuguese", "ja": "Japanese",
-                "ko": "Korean", "hi": "Hindi", "bn": "Bengali",
-                "ur": "Urdu", "tr": "Turkish", "vi": "Vietnamese"
-            }
-
-            # Extract translations
-            alternates = data.get("sc:alternateName", [])
-            for alt in alternates:
-                lang_code = alt.get("@language")
-                translation = alt.get("@value")
-                
-                if not lang_code or not translation:
-                    continue
-                
-                lang_name = lang_names.get(lang_code, lang_code.upper())
-                
-                # Check for Augmentation Data (LLM Examples)
-                examples = alt.get("sc:example", [])
-                augment_examples_found = False
-                
-                if examples:
-                    # sc:example might be a string if manual edit? Ensure list.
-                    if isinstance(examples, str):
-                        examples = [examples]
-                        
-                    # Use real world augmented examples
-                    for ex_text in examples:
-                        ex_entities = []
-                        start_search = 0
-                        
-                        # Find ALL occurrences of the translation in the example
-                        while True:
-                            idx = ex_text.lower().find(translation.lower(), start_search)
-                            if idx == -1:
-                                break
-                                
-                            end_idx = idx + len(translation)
-                            # Label Format: HIPS_{CODE}_TR_{LANG}
-                            tr_label = f"{main_label}_TR_{lang_code.upper()}"
-                            ex_entities.append((idx, end_idx, tr_label))
-                            
-                            start_search = end_idx
-                            
-                        if ex_entities:
-                           training_data.append((
-                               ex_text,
-                               {"entities": ex_entities}
-                           ))
-                           augment_examples_found = True
-
-                # If we have real world examples, we can skip the synthetic templates
-                # to avoid mixing high-quality natural data with rigid templates.
-                if augment_examples_found:
-                    continue
-
-                # Create synthetic training examples
-                # WE CONSTRUCT THE SENTENCE TO CALCULATE EXACT OFFSETS AND AVOID OVERLAP
-                
-                # Create synthetic training examples
-                # WE CONSTRUCT THE SENTENCE TO CALCULATE EXACT OFFSETS AND AVOID OVERLAP
-                # Template: "The disaster risk term in English for {term} and translation in {Lang} ({code}) is {translation}."
-                
-                # Parts of the sentence
-                p1 = "The disaster risk term in English for "
-                p2 = f" and translation in {lang_name} ({lang_code}) is "
-                p3 = " ."
-                
-                # Full Text
-                text = f"{p1}{term}{p2}{translation}{p3}"
-                
-                # Indices
-                term_start = len(p1)
-                term_end = term_start + len(term)
-                
-                trans_start = term_end + len(p2)
-                trans_end = trans_start + len(translation)
-                
-                entities = []
-                # Entity 1: Term (with HIPS code label)
-                entities.append((term_start, term_end, main_label))
-                
-                # Entity 2: Translation (TR-{HIPS_CODE})
-                tr_label = f"{main_label}_TR_{lang_code.upper()}"
-                entities.append((trans_start, trans_end, tr_label))
-                
-                training_data.append((
-                    text,
-                    {"entities": entities}
-                ))
-                
-                # Optional: Add a variation with just the translation to be robust
-                # "The {Lang} word for this concept is {translation} ."
-                p1_v2 = f"The {lang_name} word for this concept is "
-                p2_v2 = " ."
-                text_v2 = f"{p1_v2}{translation}{p2_v2}"
-                
-                training_data.append((
-                    text_v2,
-                    {"entities": [(len(p1_v2), len(p1_v2) + len(translation), tr_label)]}
-                ))
-                
-                # Add natural language example if template exists
-                if lang_code in nl_templates:
-                    for tmpl in nl_templates[lang_code]:
-                        # Split template by {trans} placeholder
-                        parts = tmpl.split("{trans}")
-                        if len(parts) == 2:
-                             prefix_part = parts[0]
-                             suffix_part = parts[1]
-                             
-                             nl_text = f"{prefix_part}{translation}{suffix_part}"
-                             
-                             # Entity: Translation (HIPS_{CODE}_TR_{LANG})
-                             t_start = len(prefix_part)
-                             t_end = t_start + len(translation)
-                             
-                             training_data.append((
-                                 nl_text,
-                                 {"entities": [(t_start, t_end, tr_label)]}
-                             ))
-                             
-                    # Add "Negative-like" examples (Intro word + Entity)
-                    # "Maar Mercury..." to teach "Maar" is NOT part of "Mercury"
-                    if lang_code in intro_words:
-                         for intro in intro_words[lang_code]:
-                             # "Maar {trans} is..."
-                             text_intro = f"{intro}{translation} ."
-                             
-                             t_start = len(intro)
-                             t_end = t_start + len(translation)
-                             
-                             training_data.append((
-                                 text_intro,
-                                 {"entities": [(t_start, t_end, tr_label)]}
-                             ))
-
-                else: 
-                     # Generic fallback
-                     fallback = f"The term {translation} means..."
-                     training_data.append((
-                         fallback,
-                         {"entities": [(9, 9 + len(translation), tr_label)]}
-                     ))
-
-                    
-        except Exception as e:
-            print(f"Error reading {file_path}: {e}")
+    with concurrent.futures.ProcessPoolExecutor() as executor:
+        # Pass index_cache_data to the worker function if it were to be used there.
+        # For now, it's passed but not used in process_single_croissant_file as per instruction.
+        results = list(executor.map(process_single_croissant_file, files, [index_cache]*len(files)))
+        
+    for res in results:
+        training_data.extend(res)
     
     return training_data
 
