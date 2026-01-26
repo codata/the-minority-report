@@ -313,12 +313,37 @@ def test_model(nlp, test_texts):
             print(f"  - {ent.text} ({ent.label_})")
 
 
+def train_worker(args_pack):
+    """
+    Worker function for parallel training.
+    """
+    training_data, output_dir, n_iter, seed, job_id = args_pack
+    
+    # Set seed for reproducibility/variance
+    random.seed(seed)
+    spacy.util.fix_random_seed(seed)
+    
+    print(f"[Job {job_id}] Starting training with seed {seed}...")
+    
+    # Train
+    nlp = train_spacy_model(training_data, output_dir, n_iter)
+    
+    # We can return the path or the loss or the model itself (if small)
+    # But for simplicity, let's just return the directory and maybe a metric?
+    # Since train_spacy_model doesn't return loss, let's trust it saved to disk.
+    # Actually, proper selection requires evaluation.
+    # For now, we will perform a 'Best of N' selection?
+    # Or just let them save to different folders.
+    
+    return output_dir
+
 def main():
     parser = argparse.ArgumentParser(description="Train spaCy NER model for disaster terminology")
     parser.add_argument("--data-dir", default="output", help="Directory containing Croissant JSON files")
     parser.add_argument("--index-file", help="Path to index cache JSON file for HIPS code lookup")
     parser.add_argument("--output-dir", default="training/spacy_model", help="Output directory for trained model")
     parser.add_argument("--n-iter", type=int, default=30, help="Number of training iterations")
+    parser.add_argument("--n-jobs", type=int, default=1, help="Number of parallel training jobs (uses more CPUs)")
     parser.add_argument("--test", action="store_true", help="Run test after training")
     
     args = parser.parse_args()
@@ -343,46 +368,64 @@ def main():
     
     print(f"Loaded {len(training_data)} training examples")
     
-    # Save training data for inspection
-    # Force save to training/data/ relative to where we run it
-    debug_dir = os.path.join("training", "data")
-    if not os.path.exists(debug_dir):
-        # Maybe we are inside training dir?
-        if os.path.basename(os.getcwd()) == "training":
-             debug_dir = "data"
-        else:
-             os.makedirs(debug_dir, exist_ok=True)
-             
-    debug_file = os.path.join(debug_dir, "training_data_dump.json")
-    
-    print(f"Saving training data snapshot to {debug_file}...")
-    with open(debug_file, "w") as f:
-        # Convert set/tuple to list/dict for JSON serialization
-        serializable_data = []
-        for text, annotations in training_data:
-            entities = annotations.get("entities", [])
-            # Convert entities to [start, end, label]
-            serializable_data.append({
-                "text": text,
-                "entities": [[e[0], e[1], e[2]] for e in entities]
-            })
-        json.dump(serializable_data, f, indent=2)
-    
-    # Train model
-    nlp = train_spacy_model(training_data, args.output_dir, args.n_iter)
-    
-    # Test if requested
+    # Parallel Training Logic
+    if args.n_jobs > 1:
+        print(f"\n🚀 Launching {args.n_jobs} parallel training jobs to utilize CPU cores!")
+        print("This will train multiple models with different seeds and could be used for ensembling or finding the best model.\n")
+        
+        with concurrent.futures.ProcessPoolExecutor(max_workers=args.n_jobs) as executor:
+            futures = []
+            for i in range(args.n_jobs):
+                # Create unique output dir for each job
+                job_output_dir = os.path.join(args.output_dir, f"run_{i}")
+                seed = random.randint(1000, 9999)
+                
+                # Submit job
+                # Note: Passing large training_data might be overhead if standard pickling is used,
+                # but on Linux memory is often shared via fork.
+                futures.append(
+                    executor.submit(train_worker, (training_data, job_output_dir, args.n_iter, seed, i))
+                )
+            
+            # Wait for completion
+            for future in concurrent.futures.as_completed(futures):
+                try:
+                    res_dir = future.result()
+                    print(f"✓ Job completed. Model saved to {res_dir}")
+                except Exception as e:
+                    print(f"❌ Job failed: {e}")
+                    
+        print(f"\nAll parallel jobs finished. Inspect {args.output_dir}/run_* for results.")
+        # Optionally, we could symlink the 'run_0' to main output, or leave it to user.
+        # Let's verify the first run for the test.
+        final_model_dir = os.path.join(args.output_dir, "run_0")
+        
+    else:
+        # Single Job
+        nlp = train_spacy_model(training_data, args.output_dir, args.n_iter)
+        final_model_dir = args.output_dir
+
+    # Test if requested (Test the "primary" model, usually the first one or the only one)
     if args.test:
-        test_texts = [
-            "A thunderstorm is a meteorological phenomenon.",
-            "The term drought in French is sécheresse.",
-            "Flooding can cause significant damage to infrastructure.",
-        ]
-        test_model(nlp, test_texts)
+        print(f"\nTesting model from: {final_model_dir}")
+        try:
+            nlp = spacy.load(final_model_dir)
+            test_texts = [
+                "A thunderstorm is a meteorological phenomenon.",
+                "The term drought in French is sécheresse.",
+                "Flooding can cause significant damage to infrastructure.",
+            ]
+            test_model(nlp, test_texts)
+        except Exception as e:
+            print(f"Could not load model for testing: {e}")
     
     print("\n✓ Training complete!")
-    print(f"Load the model with: nlp = spacy.load('{args.output_dir}')")
+    if args.n_jobs > 1:
+         print(f"Models are located in subdirectories of: {args.output_dir}")
+    else:
+         print(f"Load the model with: nlp = spacy.load('{args.output_dir}')")
 
 
 if __name__ == "__main__":
+    multiprocessing.set_start_method("fork", force=True) # efficient for Linux
     main()
