@@ -21,6 +21,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy project files
 COPY translation-skill/ ./translation-skill/
 COPY data/ ./data/
+COPY training/ ./training/
 
 # Create output directory
 RUN mkdir -p output
