@@ -49,10 +49,30 @@ pip install -r requirements.txt
    docker-compose run orchestrator --index-file data/index_cache.json --languages fr,es,de --models gpt-oss:latest
    ```
 
+   **With OntoPortal Enrichment (Optional):**
+   Requires an API key (e.g., from [EcoPortal](http://ecoportal.lifewatch.eu)).
+   ```bash
+   export ONTOPORTAL_API_KEY="528c4e4a-5c3e-4798-a2e2-11d96761b8ce"
+   
+   docker-compose run -e ONTOPORTAL_API_KEY orchestrator \
+     --index-file data/index_cache.json \
+     --ontoportal-url "http://ecoportal.lifewatch.eu:8080"
+   ```
+
 4. **Single URL Mode**:
    Directly scrape and translate a single page.
    ```bash
    docker-compose run orchestrator --url https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0103 --languages fr,es
+   ```
+
+   **OntoPortal-based Pages (e.g. AgroPortal):**
+   The tool automatically detects OntoPortal URLs (containing `conceptid`) and uses the API to fetch the authoritative definition.
+   ```bash
+   export ONTOPORTAL_API_KEY="528c4e4a-5c3e-4798-a2e2-11d96761b8ce"
+
+   docker-compose run -e ONTOPORTAL_API_KEY orchestrator \
+     --url "https://agroportal.lirmm.fr/ontologies/NCBITAXON?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT017" \
+     --ontoportal-url "http://agroportal.lirmm.fr"
    ```
 
 5. **Generate Batch Croissant Metadata**:
@@ -122,15 +142,29 @@ Once configured, you can ask your LLM to perform complex technical translations.
 | Variable | Description | Default |
 |----------|-------------|---------|
 | `OLLAMA_HOST` | The URL of the Ollama API | `http://10.147.18.253:11434` |
+| `SPACY_MODEL` | Path to the trained spaCy NER model for MCP server | `training/spacy_hips` |
+
+## Configuration
+
+### MCP Server
+The MCP server uses a spaCy model for the `find_hazards` tool. 
+- By default, it looks for the model at `training/spacy_hips`.
+- You can override this by setting the `SPACY_MODEL` environment variable to the absolute path of your model.
+
+```bash
+export SPACY_MODEL=/path/to/your/custom/model
+python3 translation-skill/scripts/mcp_server.py
+```
 
 ## Project Structure
-
-- `translation-skill/scripts/`: Core logic for scraping, translation, and metadata generation.
-- `translation-skill/prompts/`: Markdown-based prompt templates for LLM agents.
-- `training/`: Model training scripts (spaCy NER and Transformers).
-- `data/`: Input and output CSV files.
-- `output/`: Generated Croissant metadata and SKOS vocabularies.
-- `agents.md`: Detailed documentation on agent architecture and prompts.
+ 
+ - `translation-skill/scripts/`: Core logic for scraping, translation, and metadata generation.
+ - `translation-skill/prompts/`: Markdown-based prompt templates for LLM agents.
+ - `training/`: Model training scripts (spaCy NER and Transformers).
+ - `tests/`: Verification scripts for the pipeline.
+ - `data/`: Input and output CSV files.
+ - `output/`: Generated Croissant metadata and SKOS vocabularies.
+ - `agents.md`: Detailed documentation on agent architecture and prompts.
 
 ## Training Models
 

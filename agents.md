@@ -164,6 +164,11 @@ The multi-agent pipeline is exposed via a **Model Context Protocol (MCP)** serve
 - **Function**: Combines `scrape_url` and `understand_and_translate`.
 - **Workflow**: Automated web-to-metadata pipeline. It extracts technical metadata from a URL and immediately translates it into the desired languages.
 
+### Tool: `find_hazards`
+- **Function**: Uses a trained spaCy NER model (`training/spacy_model_final`) to extract disaster risk terminology and HIPS codes from any text query.
+- **Workflow**: NER extraction.
+- **Model Path**: Configurable via `SPACY_MODEL` env var (default: `training/spacy_hips`).
+
 ### Technical Implementation:
 - **Registry**: Uses `FastMCP` for efficient tool registration and discovery.
 - **Transport**: Standard `stdio` transport for compatibility with major MCP clients like Claude Desktop.

@@ -30,11 +30,23 @@ python3 translation-skill/scripts/orchestrator.py --index-url https://www.preven
 
 ## 2. Translate Terms (Agentic Workflow)
 
+```bash
+# Basic translation
 python3 translation-skill/scripts/orchestrator.py \
   --index-file data/index_cache.json \
   --languages fr,es,tr,ua,ru,ch,it,nl \
   --models gpt-oss:latest \
   --output-dir data
+
+# Advanced: Enrich with OntoPortal Definitions (e.g. EcoPortal)
+# Export your API key first:
+export ONTOPORTAL_API_KEY="528c4e4a-5c3e-4798-a2e2-11d96761b8ce"
+
+python3 translation-skill/scripts/orchestrator.py \
+  --index-file data/index_cache.json \
+  --ontoportal-url "http://ecoportal.lifewatch.eu:8080" \
+  --models gpt-oss:latest
+```
 
 ## 3. Generate Croissant Metadata
 
@@ -122,4 +134,13 @@ grep "sc:example" output/croissant_*.json | head -n 5
 To test the trained spaCy model:
 ```bash
 python3 training/test_spacy_model.py training/spacy_model
+```
+
+## 6. Running Tests
+
+To verify the integrity of the entire pipeline, including the MCP server logic:
+```bash
+python3 tests/test_find_hazards.py
+python3 tests/test_load_index.py
+python3 tests/test_json.py
 ```
