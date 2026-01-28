@@ -221,13 +221,14 @@ def load_croissant_data(data_dir, index_cache=None):
     return training_data
 
 
-def train_spacy_model(training_data, output_dir, n_iter=30, force_cpu=False, log_file=None):
+def train_spacy_model(training_data, output_dir, n_iter=30, force_cpu=False, log_file=None, quiet=False):
     """
     Train a spaCy NER model on the disaster risk terminology data.
     """
     def log(msg):
         """Helper to log to both stdout and file"""
-        print(msg, flush=True)
+        if not quiet:
+            print(msg, flush=True)
         if log_file:
             with open(log_file, 'a') as f:
                 f.write(msg + '\n')
@@ -359,7 +360,7 @@ def train_worker(args_pack):
     spacy.util.fix_random_seed(seed)
     
     # Train with log file
-    nlp = train_spacy_model(training_data, output_dir, n_iter, force_cpu=True, log_file=log_file)
+    nlp = train_spacy_model(training_data, output_dir, n_iter, force_cpu=True, log_file=log_file, quiet=True)
     
     with open(log_file, 'a') as f:
         f.write("=" * 60 + "\n")
