@@ -1,9 +1,21 @@
 import json
 
-def croissant_to_dataverse(croissant_data):
+def croissant_to_dataverse(croissant_data, config=None):
     """
     Converts a Croissant JSON object to a Dataverse-compliant JSON-LD dictionary.
     """
+    if config is None:
+        config = {
+            "authorName": "The Minority Report",
+            "authorAffiliation": "United Nations Office for Disaster Risk Reduction",
+            "datasetContactEmail": "dummy@email.com",
+            "datasetContactName": "The Minority Report Team",
+            "subject": "Earth and Environmental Sciences",
+            "license_url": "http://creativecommons.org/licenses/by/4.0",
+            "license_name": "CC BY 4.0",
+            "license_rights": "Creative Commons Attribution 4.0 International"
+        }
+
     voc = {}
 
     # Title
@@ -12,19 +24,19 @@ def croissant_to_dataverse(croissant_data):
     # Restrictions (Default)
     voc["https://dataverse.org/schema/core#restrictions"] = "No restrictions"
     
-    # Subject (Default to Earth Sciences given context)
-    voc['http://purl.org/dc/terms/subject'] = "Earth and Environmental Sciences"
+    # Subject
+    voc['http://purl.org/dc/terms/subject'] = config.get('subject', "Earth and Environmental Sciences")
 
-    # Creator (Fixed for project)
+    # Creator
     creator = {}
-    creator['https://dataverse.org/schema/citation/authorName'] = 'The Minority Report'
-    creator['https://dataverse.org/schema/citation/authorAffiliation'] = 'United Nations Office for Disaster Risk Reduction'
+    creator['https://dataverse.org/schema/citation/authorName'] = config.get('authorName', 'The Minority Report')
+    creator['https://dataverse.org/schema/citation/authorAffiliation'] = config.get('authorAffiliation', 'United Nations Office for Disaster Risk Reduction')
     voc['http://purl.org/dc/terms/creator'] = creator
 
-    # Contact (Fixed for project)
+    # Contact
     contact = {}
-    contact['https://dataverse.org/schema/citation/datasetContactEmail'] = 'dummy@email.com'
-    contact['https://dataverse.org/schema/citation/datasetContactName'] = 'The Minority Report Team'
+    contact['https://dataverse.org/schema/citation/datasetContactEmail'] = config.get('datasetContactEmail', 'dummy@email.com')
+    contact['https://dataverse.org/schema/citation/datasetContactName'] = config.get('datasetContactName', 'The Minority Report Team')
     voc['https://dataverse.org/schema/citation/datasetContact'] = contact
 
     # Description
@@ -34,9 +46,10 @@ def croissant_to_dataverse(croissant_data):
         desc['https://dataverse.org/schema/citation/dsDescriptionValue'] = desc_text
         voc['https://dataverse.org/schema/citation/dsDescription'] = desc
 
-    # License (CC BY 4.0)
-    voc['http://schema.org/license'] = 'https://creativecommons.org/licenses/by/4.0/'
-    voc['http://purl.org/dc/terms/rights'] = 'Creative Commons Attribution 4.0 International'
+    # License
+    voc['http://schema.org/license'] = config.get('license_url', 'http://creativecommons.org/licenses/by/4.0')
+    voc['http://purl.org/dc/terms/license'] = config.get('license_name', 'CC BY 4.0')
+    voc['http://purl.org/dc/terms/rights'] = config.get('license_rights', 'Creative Commons Attribution 4.0 International')
 
     # Keywords (From Translations)
     # Mapping sc:alternateName to keywords
@@ -56,7 +69,9 @@ def croissant_to_dataverse(croissant_data):
             keyword_entry = {'https://dataverse.org/schema/citation/keywordValue': kw_val}
             if kw_lang:
                 keyword_entry['https://dataverse.org/schema/citation/keywordVocabulary'] = kw_lang
-                keyword_entry['https://dataverse.org/schema/citation/keywordVocabularyURI'] = "https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes"
+                # Default to ISO list, but override if provided (e.g., from Wikidata/SparqlMuse)
+                default_uri = 'https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes'
+                keyword_entry['https://dataverse.org/schema/citation/keywordVocabularyURI'] = config.get('keyword_vocabulary_uri', default_uri)
             
             keywords.append(keyword_entry)
     

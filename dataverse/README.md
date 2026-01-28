@@ -51,9 +51,14 @@ export DATAVERSE_API_TOKEN="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 ```bash
 python3 ingest.py --input-dir ../output
 ```
+or for a single file:
+```bash
+python3 ingest.py --file ../output/croissant_rabies.json
+```
 
 **Arguments:**
 - `--input-dir`: Directory containing `croissant_*.json` files (default: `output`)
+- `--file`: Path to a single Croissant JSON file to ingest (overrides `--input-dir`).
 - `--dataverse-url`: Base URL of the Dataverse instance.
 - `--dataverse-id`: Alias or ID of the parent Dataverse collection.
 - `--api-token`: Your Dataverse API Token.
