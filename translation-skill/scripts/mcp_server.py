@@ -2,6 +2,7 @@ import os
 import sys
 import json
 from fastmcp import FastMCP
+import spacy
 
 # Ensure we can import orchestrator from the same directory
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -20,6 +21,21 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROMPTS_DIR = os.path.join(BASE_DIR, "prompts")
 DATA_DIR = os.path.join(os.path.dirname(BASE_DIR), "data")
 OUTPUT_CSV_PATH = os.path.join(DATA_DIR, "final_translations.csv")
+MODEL_PATH = os.environ.get("SPACY_MODEL", os.path.join(os.path.dirname(BASE_DIR), "training", "spacy_hips"))
+NLP_MODEL = None
+
+def _load_model():
+    """Lazy load the spaCy model."""
+    global NLP_MODEL
+    if NLP_MODEL is None:
+        try:
+            print(f"Loading spaCy model from {MODEL_PATH}...")
+            NLP_MODEL = spacy.load(MODEL_PATH)
+            print("Model loaded successfully.")
+        except Exception as e:
+            print(f"Error loading model: {e}")
+            raise RuntimeError(f"Failed to load spaCy model from {MODEL_PATH}. Ensure it is trained.")
+    return NLP_MODEL
 
 def _understand_and_translate_logic(term: str, context: str, languages: str = "fr,es,de", models: str = "gpt-oss:latest") -> str:
     """Helper function to perform translation logic."""
@@ -72,6 +88,35 @@ def open_page_and_translate(url: str, languages: str = "fr,es,de", models: str =
     """
     term, context = scrape_url(url)
     return _understand_and_translate_logic(term, context, languages, models)
+
+def _find_hazards_logic(query: str) -> str:
+    """Helper function to perform hazard extraction logic."""
+    try:
+        nlp = _load_model()
+        doc = nlp(query)
+        
+        hazards = []
+        for ent in doc.ents:
+            hazards.append({
+                "text": ent.text,
+                "label": ent.label_,
+                "start": ent.start_char,
+                "end": ent.end_char
+            })
+            
+        return json.dumps(hazards, indent=2)
+    except Exception as e:
+        return json.dumps({"error": str(e)})
+
+@mcp.tool()
+def find_hazards(query: str) -> str:
+    """
+    Analyzes a text query to identify disaster risk terminology and HIPS codes using a trained NER model.
+    
+    Args:
+        query: The text to analyze for hazards.
+    """
+    return _find_hazards_logic(query)
 
 if __name__ == "__main__":
     mcp.run()

@@ -7,6 +7,7 @@ import random
 import datetime
 import time
 import re
+import urllib.parse
 
 import concurrent.futures
 import sys
@@ -39,6 +40,15 @@ OLLAMA_HOSTS = [h.strip() for h in raw_hosts.split(',')]
 
 
 import threading
+from ontoportal import OntoPortalClient
+
+
+import threading
+from ontoportal import OntoPortalClient
+
+
+import threading
+from ontoportal import OntoPortalClient
 
 class ModelRouter:
     def __init__(self, hosts):
@@ -135,10 +145,70 @@ def load_prompt(path):
     with open(path, "r") as f:
         return f.read()
 
-def scrape_url(url):
+
+def parse_ontoportal_url(url):
+    """
+    Check if URL is an OntoPortal URL and extract concept info.
+    Returns (ontology, concept_id) or (None, None).
+    """
+    parsed = urllib.parse.urlparse(url)
+    if not parsed.query:
+        return None, None
+        
+    params = urllib.parse.parse_qs(parsed.query)
+    concept_id = params.get('conceptid', [None])[0]
+    
+    # Try to extract ontology from path (e.g. /ontologies/CODE)
+    ontology = None
+    path_parts = parsed.path.split('/')
+    if 'ontologies' in path_parts:
+        try:
+            idx = path_parts.index('ontologies')
+            if idx + 1 < len(path_parts):
+                ontology = path_parts[idx+1]
+        except ValueError:
+            pass
+            
+    return ontology, concept_id
+
+def scrape_url(url, ontoportal_client=None):
     """
     Scrapes term and context from a URL.
+    if ontoportal_client is provided, it tries to use it for OntoPortal URLs.
     """
+    # OntoPortal Logic
+    if ontoportal_client:
+        ontology, concept_id = parse_ontoportal_url(url)
+        if concept_id:
+            print(f"Detected OntoPortal concept: {concept_id}")
+            # Try to search/get details
+            # We assume concept_id is the URI.
+            # We use search because get_term_details needs the API ID url, which we might not have.
+            try:
+                results = ontoportal_client.search_term(concept_id, ontology=ontology)
+                if results:
+                    res = results[0]
+                    term = res.get('prefLabel')
+                    defs = res.get('definition', [])
+                    context_text = defs[0] if isinstance(defs, list) and defs else str(defs)
+                    if not context_text: context_text = "No definition found in OntoPortal."
+                    
+                    print(f"Resolved via API: {term}")
+                    return term, context_text
+            except Exception as e:
+                print(f"OntoPortal search failed: {e}. Trying SPARQL fallback...")
+                try:
+                     sparql_res = ontoportal_client.resolve_uri_via_sparql(concept_id, ontology=ontology)
+                     if sparql_res:
+                         term = sparql_res.get('label')
+                         context_text = sparql_res.get('definition', "No definition found via SPARQL.")
+                         print(f"Resolved via SPARQL: {term}")
+                         return term, context_text
+                except Exception as sparql_e:
+                     print(f"SPARQL fallback failed: {sparql_e}")
+                
+                 # Fallback to scraping
+
     print(f"Scraping term from {url}...")
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36'}
     resp = requests.get(url, headers=headers)
@@ -502,6 +572,9 @@ def main():
     parser.add_argument("--models", default="gpt-oss:latest", help="Comma-separated LLM models to use")
     parser.add_argument("--hips-code", "--hips_code", dest="hips_code", help="Manual HIPS code override")
     
+    parser.add_argument("--ontoportal-api-key", default=os.environ.get("ONTOPORTAL_API_KEY"), help="API key for OntoPortal services (or set via ONTOPORTAL_API_KEY)")
+    parser.add_argument("--ontoportal-url", default="http://ecoportal.lifewatch.eu:8080", help="Base URL for OntoPortal (default: EcoPortal)")
+
     args = parser.parse_args()
     
     # Setup paths
@@ -514,14 +587,34 @@ def main():
     models = args.models.split(",")
     output_csv_path = os.path.join(args.output_dir, "final_translations.csv")
     
+    # Initialize OntoPortal client if key provided
+    ontoportal = None
+    if args.ontoportal_api_key:
+        ontoportal = OntoPortalClient(args.ontoportal_api_key, args.ontoportal_url)
+        print(f"Enabled OntoPortal integration: {args.ontoportal_url}")
+    
     # Read Source
     rows = []
     if args.url:
         try:
-            term, context_text = scrape_url(args.url)
+            # Pass ontoportal client to scrape_url for smart resolution
+            term, context_text = scrape_url(args.url, ontoportal_client=ontoportal)
+            
+            # --- OntoPortal Enrichment (if not already done via scrape_url smart path) ---
+            # If we scaped via HTML, we might still want to enrich.
+            # If we resolved via API, we already have the def, but maybe we want more?
+            # logic inside scrape_url handles it.
+            
+            if ontoportal and "Official Definition" not in context_text:
+                 # Only try to enrich if we didn't get a good one or if it was a plain scrap
+                 op_def = ontoportal.get_definition(term)
+                 if op_def:
+                     print(f"  [OntoPortal] Found definition for '{term}'")
+                     context_text += f"\n\nOfficial Definition (OntoPortal): {op_def}"
+
             rows.append({"term": term, "context": context_text})
         except Exception as e:
-            print(f"Error scraping URL: {e}")
+            print(f"Error scraping/resolving URL: {e}")
             return
             
     elif args.index_url:
