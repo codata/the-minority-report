@@ -12,3 +12,14 @@ services:
       - ./training:/app/training
     # Example command to run a specific URL (uncomment and modify to use)
     # command: --url https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0103 --output_dir data --languages fr,es,de --models gpt-oss:latest
+
+  ingest:
+    build:
+      context: dataverse
+    volumes:
+      - ./output:/app/output
+      - ./data:/app/data
+    environment:
+      - DATAVERSE_URL
+      - DATAVERSE_ID
+      - DATAVERSE_API_TOKEN
