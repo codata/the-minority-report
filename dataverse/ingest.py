@@ -99,21 +99,11 @@ def ingest_dataverse(input_dir, dataverse_url, dataverse_id, api_token, input_fi
                 persistent_id = response.json().get('data', {}).get('persistentId')
                 print(f"Success! Created dataset: {persistent_id}")
                 
-                # Upload the Croissant file itself using pyDataverse
+                # Initialize API
                 from pyDataverse.api import NativeApi
                 api = NativeApi(dataverse_url, api_token)
                 
-                print(f"Uploading file {file_path} to {persistent_id}...")
-                try:
-                    df = api.upload_datafile(persistent_id, file_path, json.dumps({"description": "Croissant Metadata", "categories": ["Metadata"]}))
-                    if df.status_code == 200:
-                        print(f"File upload successful.")
-                    else:
-                        print(f"File upload failed: {df.status_code} {df.text}")
-                except Exception as e:
-                    print(f"File upload exception: {e}")
-
-                # Extract HIPS code and upload SKOS
+                # 1. Upload SKOS (Enrichment)
                 cite_as = croissant_data.get("citeAs", "")
                 hips_match = re.search(r'(MH\d+)', cite_as, re.IGNORECASE)
                 if hips_match:
@@ -126,7 +116,6 @@ def ingest_dataverse(input_dir, dataverse_url, dataverse_id, api_token, input_fi
                         skos_resp = requests.get(hips_api_url)
                         
                         if skos_resp.status_code == 200:
-                            # Construct filename
                             safe_name = croissant_data.get("name", "hazard").lower().replace(" ", "_").replace("/", "_")
                             skos_filename = f"skos_{safe_name}.json"
                             
@@ -139,25 +128,42 @@ def ingest_dataverse(input_dir, dataverse_url, dataverse_id, api_token, input_fi
                             if skos_upload.status_code == 200:
                                 print(f"SKOS upload successful.")
                             else:
-                                print(f"SKOS upload failed: {skos_upload.status_code} {skos_upload.text}")
-                                
-                            # Cleanup
+                                print(f"SKOS upload failed: {skos_upload.status_code}")
+
                             if os.path.exists(skos_filename):
                                 os.remove(skos_filename)
-                        else:
-                            print(f"Failed to fetch SKOS: {skos_resp.status_code}")
                     except Exception as e:
                         print(f"Error handling SKOS: {e}")
-                else:
-                    print("No HIPS code (MHxxxx) found in citeAs.")
 
-                # Upload Translations CSV
+                # 2. Upload Wikilink (Enrichment)
+                if wikilink_json and term_name:
+                    safe_name = croissant_data.get("name", "hazard").lower().replace(" ", "_").replace("/", "_")
+                    wikilink_filename = f"wikilink_{safe_name}.json"
+                    try:
+                        with open(wikilink_filename, 'w') as wl_f:
+                            wl_f.write(wikilink_json)
+                            
+                        print(f"Uploading {wikilink_filename}...")
+                        wl_upload = api.upload_datafile(persistent_id, wikilink_filename, json.dumps({"description": f"Wikidata Link for {term_name}", "categories": ["Data"]}))
+                        
+                        if wl_upload.status_code == 200:
+                            print(f"Wikilink upload successful.")
+                        else:
+                            print(f"Wikilink upload failed: {wl_upload.status_code}")
+                            
+                        if os.path.exists(wikilink_filename):
+                            os.remove(wikilink_filename)
+                    except Exception as e:
+                        print(f"Error uploading Wikilink file: {e}")
+
+                # 3. Upload Translations CSV and Capture ID
+                translations_url = None
                 translations_csv_path = config.get("translations_csv") if config else None
                 if translations_csv_path and os.path.exists(translations_csv_path):
                     term_name = croissant_data.get("name")
                     if term_name:
                         import csv
-                        
+                        safe_name = croissant_data.get("name", "hazard").lower().replace(" ", "_").replace("/", "_")
                         translations_out_file = f"translations_{safe_name}.csv"
                         found_translations = False
                         
@@ -180,6 +186,13 @@ def ingest_dataverse(input_dir, dataverse_url, dataverse_id, api_token, input_fi
                                 
                                 if trans_upload.status_code == 200:
                                     print(f"Translations upload successful.")
+                                    try:
+                                        file_data = trans_upload.json()['data']['files'][0]['dataFile']
+                                        file_id = file_data['id']
+                                        translations_url = f"{dataverse_url}/api/access/datafile/{file_id}"
+                                        print(f"Captured Translations URL: {translations_url}")
+                                    except Exception as e:
+                                        print(f"Could not extract file ID: {e}")
                                 else:
                                     print(f"Translations upload failed: {trans_upload.status_code} {trans_upload.text}")
                             else:
@@ -213,6 +226,42 @@ def ingest_dataverse(input_dir, dataverse_url, dataverse_id, api_token, input_fi
                             
                     except Exception as e:
                         print(f"Error uploading Wikilink file: {e}")
+
+                # 4. Modify Croissant Data & Upload
+                if translations_url:
+                    print("Updating Croissant metadata with translations URL...")
+                    # Find FileObject named 'multilingual_cv_data'
+                    # It might be in distribution list
+                    distributions = croissant_data.get('distribution', [])
+                    updated = False
+                    for dist in distributions:
+                        if dist.get('@type') == 'cr:FileObject' and dist.get('name') == 'multilingual_cv_data':
+                            dist['contentUrl'] = translations_url
+                            dist['sha256'] = "" # Reset hash as content is now remote/dynamic
+                            updated = True
+                            print("Updated contentUrl for multilingual_cv_data")
+                    
+                    if not updated:
+                         print("Warning: Could not find 'multilingual_cv_data' FileObject to update.")
+                
+                # Save modified JSON
+                safe_name = croissant_data.get("name", "hazard").lower().replace(" ", "_").replace("/", "_")
+                final_croissant_file = f"croissant_{safe_name}_final.json"
+                with open(final_croissant_file, 'w') as f:
+                    json.dump(croissant_data, f, indent=2)
+                
+                print(f"Uploading final Croissant file {final_croissant_file}...")
+                try:
+                    df = api.upload_datafile(persistent_id, final_croissant_file, json.dumps({"description": "Croissant Metadata", "categories": ["Metadata"]}))
+                    if df.status_code == 200:
+                        print(f"Croissant file upload successful.")
+                    else:
+                        print(f"Croissant file upload failed: {df.status_code} {df.text}")
+                except Exception as e:
+                    print(f"Croissant upload exception: {e}")
+                    
+                if os.path.exists(final_croissant_file):
+                    os.remove(final_croissant_file)
                 
         except Exception as e:
             print(f"Error processing {file_path}: {e}")
