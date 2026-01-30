@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  alignment:
+    build: .
+    volumes:
+      - ../data:/app/data
+      - ../output:/app/output
+    environment:
+      - PYTHONUNBUFFERED=1
