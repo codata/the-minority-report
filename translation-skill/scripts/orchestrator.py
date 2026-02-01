@@ -353,6 +353,7 @@ def _query_model(term, context, languages, model, voter_prompt_template):
         confidence = lang_data.get("confidence_score", 0.0)
         
         if translation:
+            print(f"    [{model}] -> {lang}: {translation}")
             model_results.append({
                 "term": term,
                 "context": context,
