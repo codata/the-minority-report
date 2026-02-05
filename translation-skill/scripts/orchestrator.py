@@ -566,6 +566,8 @@ def main():
     parser = argparse.ArgumentParser(description="Orchestrator for Multilingual CV Skill")
     parser.add_argument("--input-file", "--input_file", dest="input_file", help="Path to source CSV")
     parser.add_argument("--url", help="URL to scrape term from (overrides input_file)")
+    parser.add_argument("--concept", help="Manual concept term (overrides input_file/url)")
+    parser.add_argument("--context", help="Manual context/description for the concept")
     parser.add_argument("--index-url", help="Index page URL to scrape multiple concepts from (scrapes only, no translation)")
     parser.add_argument("--index-file", "--index_file", dest="index_file", help="Path to index cache JSON file to process")
     parser.add_argument("--output-dir", "--output_dir", dest="output_dir", default="data", help="Directory for output CSV")
@@ -596,7 +598,16 @@ def main():
     
     # Read Source
     rows = []
-    if args.url:
+    
+    if args.concept:
+        print(f"Processing manual concept: {args.concept}")
+        rows = [{
+            "term": args.concept,
+            "context": args.context or f"Standard technical definition for {args.concept}.",
+            "url": "manual-input"
+        }]
+    
+    elif args.url:
         try:
             # Pass ontoportal client to scrape_url for smart resolution
             term, context_text = scrape_url(args.url, ontoportal_client=ontoportal)
@@ -759,7 +770,6 @@ def main():
         if args.hips_code:
              hips_code = args.hips_code
         elif args.url and "hips/" in args.url:
-             import re
              match = re.search(r"hips/([a-zA-Z0-9]+)", args.url)
              if match:
                  hips_code = match.group(1).upper()
