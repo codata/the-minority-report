@@ -8,22 +8,11 @@ A set of tools for multilingual concept translation, alignment, and metadata gen
 - **Croissant Metadata**: Generates ML-ready metadata for your datasets.
 - **Dataverse Integration**: (Optional) Tools to publish enriched datasets to Dataverse.
 
-## Installation
+## 1. Prerequisites & Ollama Setup
 
-### Prerequisites
-- Python 3.10+
-- [Ollama](https://ollama.ai/) (for running local LLMs)
+Before installing the python package, you must have **[Ollama](https://ollama.ai/)** installed and running. This tool allows you to run Large Language Models locally.
 
-### Install Package
-```bash
-pip install -e .
-```
-(We recommend using a virtual environment)
-
-## Setup & Configuration
-
-### 1. Install Ollama
-The Minority Report uses Ollama to interact with LLMs.
+### Install Ollama
 
 **macOS / Linux:**
 ```bash
@@ -31,9 +20,9 @@ curl -fsSL https://ollama.com/install.sh | sh
 ```
 
 **Windows:**
-Download from [ollama.com](https://ollama.com).
+Download the installer from [ollama.com](https://ollama.com).
 
-### 2. Pull Required Models
+### Pull Required Models
 You must pull the models you intend to use. The default model is `gpt-oss` (renamed or custom) or standard models like `llama3`, `mistral`, or `gemma`.
 
 Example:
@@ -41,8 +30,21 @@ Example:
 ollama pull llama3
 ollama pull mistral
 ```
+Ensure Ollama is running (`ollama serve`) before proceeding.
 
-### 3. Configure Endpoints
+## 2. Installation
+
+### Install Package
+Clone the repository and install the package in editable mode:
+
+```bash
+pip install -e .
+```
+(We recommend using a virtual environment: `python3 -m venv venv && source venv/bin/activate`)
+
+## 3. Configuration
+
+### Configure Endpoints
 Use the `tmr-init` command to configure your Ollama connection.
 
 ```bash
