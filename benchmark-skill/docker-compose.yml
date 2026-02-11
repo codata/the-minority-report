@@ -1,0 +1,8 @@
+services:
+  benchmark:
+    build: .
+    volumes:
+      - ../data:/app/data
+      - ../benchmark_report.md:/app/benchmark_report.md
+    command: >
+      --google-sheet "https://docs.google.com/spreadsheets/d/1mutF1b-E_Y4FRHNTLWLEB_qjvBkwnpUvAPPgV_c4T-Y/edit?gid=1965989659#gid=1965989659" --translations-csv "/app/data/final_translations.csv" --output-report "/app/benchmark_report.md"

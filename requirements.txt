@@ -11,4 +11,6 @@ torch
 datasets
 spacy
 fastmcp
-
+pandas
+tabulate
+sentence-transformers
