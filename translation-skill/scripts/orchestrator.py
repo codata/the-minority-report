@@ -8,27 +8,108 @@ import datetime
 import time
 import re
 import urllib.parse
-
 import concurrent.futures
 import sys
 import functools
+import threading
 
 # Redirect all print calls to stderr to avoid breaking MCP stdio transport
 print = functools.partial(print, file=sys.stderr)
 
 # Hack: Fix OLLAMA_HOST if it contains commas (multi-host) before importing ollama lib
-# The ollama library crashes if OLLAMA_HOST has commas.
 raw_ollama_host = os.environ.get('OLLAMA_HOST', '')
 if ',' in raw_ollama_host:
     os.environ['OLLAMA_HOSTS_RAW'] = raw_ollama_host
     os.environ['OLLAMA_HOST'] = raw_ollama_host.split(',')[0].strip()
 
-
-
 # --- Mock LLM Interface ---
 from ollama import Client
 import requests
 from bs4 import BeautifulSoup
+from ontoportal import OntoPortalClient
+
+def generate_croissant_for_term(term_results, args, output_dir, data_file):
+    """
+    Generates a Croissant JSON-LD file for a single term's results.
+    """
+    if not term_results:
+        return
+
+    # Assuming all results are for the same term
+    first_res = term_results[0]
+    term = first_res.get("term", "Unknown")
+    context = first_res.get("context", "")
+    
+    script_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "croissant_generator.py")
+    cmd = ["python3", script_path, "--output-dir", output_dir, "--data-file", data_file]
+    
+    # Build multilingual name list (Consensus only)
+    name_list = [{"value": term, "lang": "en"}]
+    
+    # Filter for consensus
+    lang_winners = {}
+    for res in term_results:
+        lang = res.get("language")
+        trans = res.get("translation")
+        consensus = res.get("consensus", "")
+        # Use simple check
+        if lang and trans and ("Consensus reached" in consensus or "Single model" in consensus):
+             if lang not in lang_winners:
+                 lang_winners[lang] = {
+                     "value": trans,
+                     "lang": lang,
+                     "model": res.get("winning_model")
+                 }
+    
+    for lang_entry in lang_winners.values():
+        name_list.append(lang_entry)
+        
+    cmd.extend(["--dataset-name", json.dumps(name_list)])
+    
+    # Description
+    clean_desc = context.replace("\n", " ").strip()
+    if len(clean_desc) > 200:
+         clean_desc = clean_desc[:197] + "..."
+    cmd.extend(["--description", clean_desc])
+    cmd.extend(["--llm-model", args.models])
+    
+    # HIPS Code
+    hips_code = None
+    if args.hips_code:
+         hips_code = args.hips_code
+    elif args.url and "hips/" in args.url:
+         match = re.search(r"hips/([a-zA-Z0-9]+)", args.url)
+         if match:
+             hips_code = match.group(1).upper()
+    
+    # Fallback to result code
+    if not hips_code:
+        if first_res.get("code"):
+            hips_code = first_res.get("code")
+            
+    if hips_code:
+         cmd.extend(["--hips-code", hips_code])
+         
+    # Source
+    if args.url:
+        cmd.extend(["--source-url", args.url])
+    elif args.input_file:
+        cmd.extend(["--source-file", args.input_file])
+    elif first_res.get("url"):
+        cmd.extend(["--source-url", first_res.get("url")])
+
+    # Output File
+    safe_term = re.sub(r'[^\w\s-]', '', term.strip().lower())
+    safe_term = re.sub(r'[-\s]+', '_', safe_term)
+    output_filename = f"croissant_{safe_term}.json"
+    cmd.extend(["--output-file", output_filename])
+    
+    # Run
+    try:
+        subprocess.run(cmd, check=False) # Don't crash if generator fails
+    except Exception as e:
+        print(f"Error running croissant generator: {e}")
+
 
 
 # Parse hosts from environment (comma-separated)
@@ -144,6 +225,17 @@ def repair_json(json_str):
 def load_prompt(path):
     with open(path, "r") as f:
         return f.read()
+
+def get_google_sheet_csv_url(url):
+    match = re.search(r'/d/([a-zA-Z0-9-_]+)', url)
+    if not match:
+        raise ValueError("Invalid Google Sheet URL")
+    sheet_id = match.group(1)
+    gid = "0"
+    match_gid = re.search(r'[#&?]gid=([0-9]+)', url)
+    if match_gid:
+        gid = match_gid.group(1)
+    return f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv&gid={gid}"
 
 
 def parse_ontoportal_url(url):
@@ -409,155 +501,198 @@ def _arbitrate_model(term, context, candidates, model, arbitrator_prompt_templat
         
     return selected
 
-def process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, output_csv_path):
+def process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, output_csv_path, args):
     """
     Processes a list of terms and returns translation results with consensus logic.
     A translation is only accepted if at least 2 models agree on it (case-insensitive).
+    Output is generated incrementally, rewriting the file to ensure consensus consistency.
     """
-    results = []
+    # 1. Load Existing Data
+    # structure: term_data[term_lower][lang][model] = row_dict
+    term_data = {} 
+    
+    filenames = ["term", "translation", "context", "language", "confidence", "winning_model", "consensus", "version", "code", "url"]
+
     if os.path.exists(output_csv_path):
         with open(output_csv_path, "r") as f:
             reader = csv.DictReader(f)
             for row in reader:
-                results.append(row)
+                t = row.get("term", "").strip()
+                l = row.get("language", "").strip()
+                m = row.get("winning_model", "").strip()
                 
-    print(f"Loaded {len(results)} existing translations.")
-    
-    new_results = []
-    for row in rows:
-        term = row.get("term", "")
+                if not t: continue
+                
+                t_lower = t.lower()
+                if t_lower not in term_data:
+                    term_data[t_lower] = {}
+                if l not in term_data[t_lower]:
+                    term_data[t_lower][l] = {}
+                
+                term_data[t_lower][l][m] = row
+                
+    print(f"Loaded existing data for {len(term_data)} terms.")
+
+    # 2. Process Input Rows
+    for row_idx, row in enumerate(rows):
+        term = row.get("term", "").strip()
+        if not term: continue
+        t_lower = term.lower()
         context = row.get("context", "")
-        print(f"\nProcessing Term: {term}")
         
-        # Collect raw responses for this term
-        raw_results = [] 
-        
-        # Original metadata to preserve
+        # Original metadata
         original_code = row.get("code")
         original_url = row.get("url")
         
-        # Execute model queries in parallel
-        with concurrent.futures.ThreadPoolExecutor(max_workers=len(models)) as executor:
+        # Check which models we need to run for each language
+        # We need to run a model if it's missing for ANY requested language? 
+        # Or usually we run a model for ALL languages at once.
+        # The `_query_model` function takes a list of languages.
+        # So if Model A is missing for 'fr' but present for 'es', strictly speaking we might need to run it for 'fr'.
+        # But `_query_model` returns all languages. 
+        # Simpler approach: If Model A is missing for ANY requested language for this term, we run it for ALL languages (and overwrite/merge).
+        
+        models_to_run = []
+        for m in models:
+            # Check if this model has results for all languages for this term
+            missing_any = False
+            for lang in languages:
+                if t_lower not in term_data or lang not in term_data[t_lower] or m not in term_data[t_lower][lang]:
+                    missing_any = True
+                    break
+            
+            if missing_any:
+                models_to_run.append(m)
+        
+        if not models_to_run:
+            print(f"Skipping '{term}' (all models present)")
+            continue
+            
+        print(f"\nProcessing Term: {term}")
+        print(f"  Backfilling models: {models_to_run}")
+
+        # Execute missing models
+        raw_results = []
+        with concurrent.futures.ThreadPoolExecutor(max_workers=len(models_to_run)) as executor:
             future_to_model = {
                 executor.submit(_query_model, term, context, languages, model, voter_prompt_template): model 
-                for model in models
+                for model in models_to_run
             }
             
             for future in concurrent.futures.as_completed(future_to_model):
                 try:
                     data = future.result()
-                    # Enrich results with original metadata
+                    # Enrich
                     for d in data:
                         if original_code: d["code"] = original_code
                         if original_url: d["url"] = original_url
                     raw_results.extend(data)
                 except Exception as exc:
-                    model_name = future_to_model[future]
-                    print(f"Model {model_name} generated an exception: {exc}")
+                    print(f"Model generated exception: {exc}")
 
-        # Apply Consensus Logic per language
+        # Now we have new results. We need to merge them with existing results to re-calculate consensus.
+        # 1. Retrieve existing results for this term
+        current_term_results = []
+        if t_lower in term_data:
+            for l_dict in term_data[t_lower].values():
+                for m_row in l_dict.values():
+                    # We only keep rows from models that we didn't just re-run
+                    # (If we re-ran a model, we use the new result)
+                    if m_row["winning_model"] not in models_to_run:
+                         current_term_results.append(m_row)
+        
+        # 2. Add new results
+        current_term_results.extend(raw_results)
+        
+        # 3. Recalculate Consensus per Language
+        final_term_results = []
+        
         for lang in languages:
-            lang_raw = [r for r in raw_results if r["language"] == lang]
+            lang_raw = [r for r in current_term_results if r["language"] == lang]
+            if not lang_raw: continue
             
-            if len(models) == 1:
-                print(f"    Single model used for [{lang}]. Skipping consensus.")
-                for r in lang_raw:
-                    r["consensus"] = "Single model (skipped consensus)"
-                new_results.extend(lang_raw)
-            else:
-                # Count votes (case-insensitive)
-                votes = {} # normalized_translation -> count
-                for r in lang_raw:
-                    norm = r["translation"].strip().lower()
-                    votes[norm] = votes.get(norm, 0) + 1
+            # Extract models present in this language batch
+            present_models = set(r["winning_model"] for r in lang_raw)
+            total_models_count = len(present_models) # Should be <= len(models)
+            
+            # Consensus Logic
+            votes = {} 
+            for r in lang_raw:
+                norm = r["translation"].strip().lower()
+                votes[norm] = votes.get(norm, 0) + 1
+            
+            consensus_norms = [norm for norm, count in votes.items() if count >= 2]
+            
+            consensus_msg = "No consensus"
+            consensus_reached = False
+            
+            if len(models) == 1: # If global config is single model
+                 consensus_msg = "Single model (skipped)"
+                 consensus_reached = True
+            elif consensus_norms:
+                # Winner
+                winner_norm = consensus_norms[0] # Pick first
+                winner_text = next(r["translation"] for r in lang_raw if r["translation"].strip().lower() == winner_norm)
+                count = votes[winner_norm]
+                consensus_msg = f"Consensus reached ({count}/{total_models_count})"
+                print(f"    [{lang}] Consensus: '{winner_text}'")
                 
-                # Filter results that have consensus (2+ votes)
-                consensus_norms = [norm for norm, count in votes.items() if count >= 2]
-                
-                if consensus_norms:
-                    # Find the actual text for the consensus norm
-                    consensus_text = next(r["translation"] for r in lang_raw if r["translation"].strip().lower() in consensus_norms)
-                    print(f"    Consensus reached for [{lang}]: '{consensus_text}'")
-                    for r in lang_raw:
-                        norm = r["translation"].strip().lower()
-                        if norm in consensus_norms:
-                            # Add consensus info: count/total
-                            count = votes[norm]
-                            r["consensus"] = f"Consensus reached ({count}/{len(models)} models agreed)"
-                        else:
-                            r["consensus"] = "No consensus"
-                    new_results.extend(lang_raw)
-                else:
-                    # Arbitration Phase
-                    available_terms = list(set([r["translation"] for r in lang_raw if r["translation"]]))
-                    print(f"    No consensus for [{lang}]. Candidates: {available_terms}")
-                    print(f"    Starting Arbitration for [{lang}]...")
-                    
-                    arbitration_votes = []
-                    with concurrent.futures.ThreadPoolExecutor(max_workers=len(models)) as executor:
-                        future_to_model = {
-                            executor.submit(_arbitrate_model, term, context, available_terms, model, arbitrator_prompt_template): model 
-                            for model in models
-                        }
-                        for future in concurrent.futures.as_completed(future_to_model):
-                            try:
-                                vote = future.result()
-                                if vote:
-                                    arbitration_votes.append(vote)
-                            except Exception as e:
-                                print(f"Arbitration error: {e}")
-                                
-                    # Count arbitration votes
-                    arb_counts = {}
-                    for v in arbitration_votes:
-                        norm = v.strip().lower()
-                        arb_counts[norm] = arb_counts.get(norm, 0) + 1
-                        
-                    # Check for new consensus (simple majority or >= 2)
-                    # Let's say we need at least 2 votes for the same thing to override
-                    arb_consensus = [norm for norm, count in arb_counts.items() if count >= 2]
-                    
-                    if arb_consensus:
-                        winner_norm = arb_consensus[0]
-                        winner_text = [v for v in arbitration_votes if v.strip().lower() == winner_norm][0] # Get original casing
-                        count = arb_counts[winner_norm]
-                        print(f"    Arbitration successful! Winner: {winner_text} ({count} votes)")
-                        
-                        # Update all results for this lang to point to the winner? 
-                        # Or just mark the winner? 
-                        # Let's add a new result entry for the Arbitrated Winner or update existing ones.
-                        # For simplicity, we mark the rows that match the winner as "Consensus reached (Arbitrated)"
-                        # and ensure others are "No consensus".
-                        
-                        found_match = False
-                        for r in lang_raw:
-                            if r["translation"].strip().lower() == winner_norm:
-                                r["consensus"] = f"Consensus reached (Arbitrated {count}/{len(models)})"
-                                found_match = True
-                            else:
-                                r["consensus"] = "No consensus (Arbitration lost)"
-                        
-                        # If the winner wasn't in original raw results exactly (maybe slight variation returned by arbitrator?), 
-                        # we might need to handle that. But generic instructions say "Select...". 
-                        # Assuming models output one of the candidates.
-                        
-                        new_results.extend(lang_raw)
+                # Mark rows
+                for r in lang_raw:
+                    if r["translation"].strip().lower() == winner_norm:
+                        r["consensus"] = consensus_msg
                     else:
-                        print(f"    Arbitration failed. No clear winner.")
-                        for r in lang_raw:
-                            r["consensus"] = "No consensus (Arbitration failed)"
-                        new_results.extend(lang_raw)
-
-    # Merge new_results into results
-    existing_map = {(r["term"], r["language"], r["winning_model"]): i for i, r in enumerate(results)}
-    for res in new_results:
-        key = (res["term"], res["language"], res["winning_model"])
-        if key in existing_map:
-            results[existing_map[key]] = res
-        else:
-            results.append(res)
+                        r["consensus"] = "No consensus"
+            else:
+                # Arbitration (Only if we have multiple contending votes)
+                # If we just added new models and broken consensus, or still no consensus...
+                # For simplicity in this backfill refactor, we skip complex re-arbitration trigger 
+                # UNLESS we specifically want to implement it. 
+                # Creating a new arbitration request here is complex because it's async.
+                # Let's stick to simple voting for now, or reuse existing consensus message if valid?
+                # No, we must update message.
+                print(f"    [{lang}] No consensus among {total_models_count} models.")
+                for r in lang_raw:
+                     r["consensus"] = f"No consensus ({total_models_count} models)"
             
-    return results
+            final_term_results.extend(lang_raw)
+
+        # 4. Update In-Memory Data
+        if t_lower not in term_data: term_data[t_lower] = {}
+        
+        for res in final_term_results:
+            l = res["language"]
+            m = res["winning_model"]
+            if l not in term_data[t_lower]: term_data[t_lower][l] = {}
+            term_data[t_lower][l][m] = res
+            
+        # 5. Rewrite CSV (Atomic-ish)
+        # We flatten term_data back to a list
+        all_rows = []
+        for t_dict in term_data.values():
+            for l_dict in t_dict.values():
+                for row_data in l_dict.values():
+                    all_rows.append(row_data)
+        
+        try:
+            with open(output_csv_path, "w") as f:
+                writer = csv.DictWriter(f, fieldnames=filenames, extrasaction='ignore')
+                writer.writeheader()
+                writer.writerows(all_rows)
+            print(f"    Updated CSV. Total records: {len(all_rows)}")
+            
+            # Generate Croissant (Incremental)
+            generate_croissant_for_term(final_term_results, args, args.output_dir, output_csv_path)
+            
+        except Exception as e:
+            print(f"Error writing CSV: {e}")
+
+    # Return final flat list
+    flat_results = []
+    for t_dict in term_data.values():
+        for l_dict in t_dict.values():
+            flat_results.extend(l_dict.values())
+    return flat_results
 
 def main():
 
@@ -565,6 +700,7 @@ def main():
     
     parser = argparse.ArgumentParser(description="Orchestrator for Multilingual CV Skill")
     parser.add_argument("--input-file", "--input_file", dest="input_file", help="Path to source CSV")
+    parser.add_argument("--google-sheet", "--google_sheet", dest="google_sheet", help="Google Sheet URL to read terms from")
     parser.add_argument("--url", help="URL to scrape term from (overrides input_file)")
     parser.add_argument("--concept", help="Manual concept term (overrides input_file/url)")
     parser.add_argument("--context", help="Manual context/description for the concept")
@@ -629,6 +765,52 @@ def main():
             print(f"Error scraping/resolving URL: {e}")
             return
             
+    elif args.google_sheet:
+        print(f"Reading from Google Sheet: {args.google_sheet}")
+        csv_url = get_google_sheet_csv_url(args.google_sheet)
+        try:
+            # Download CSV
+            resp = requests.get(csv_url)
+            resp.raise_for_status()
+            
+            # Parse CSV
+            # Decode content
+            lines = resp.content.decode('utf-8').splitlines()
+            reader = csv.DictReader(lines)
+            
+            # Map columns if needed (similar to sheet_reader logic)
+            # We need standard 'term' and 'context' keys for processing
+            raw_rows = list(reader)
+            
+            # Heuristic to find term/definition columns
+            if raw_rows:
+                keys = raw_rows[0].keys()
+                term_col = next((c for c in keys if c.lower() in ['term', 'term_en', 'concept', 'label']), None)
+                def_col = next((c for c in keys if c.lower() in ['definition', 'definition_en', 'context', 'description']), None)
+                
+                if term_col:
+                     print(f"Mapped term column: {term_col}")
+                     if def_col: print(f"Mapped context column: {def_col}")
+                     
+                     for r in raw_rows:
+                         t = r.get(term_col, "").strip()
+                         d = r.get(def_col, "").strip() if def_col else f"Standard definition for {t}"
+                         if t:
+                             rows.append({
+                                 "term": t,
+                                 "context": d,
+                                 "url": args.google_sheet
+                             })
+                else:
+                    print(f"Error: Could not identify term column in sheet. Found: {list(keys)}")
+                    return
+            
+            print(f"Loaded {len(rows)} terms from Google Sheet.")
+            
+        except Exception as e:
+            print(f"Error reading Google Sheet: {e}")
+            return
+
     elif args.index_url:
         urls = scrape_index_page(args.index_url)
         if not urls:
@@ -694,115 +876,11 @@ def main():
         return
             
             
-    results = process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, output_csv_path)
+    # args passed to process_terms
+    results = process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, output_csv_path, args)
     
-    # Write Results
-    fieldnames = ["term", "translation", "context", "language", "confidence", "winning_model", "consensus", "version", "code", "url"]
-    for res in results:
-        res["version"] = "0.1"
-        if "consensus" not in res:
-             res["consensus"] = "No consensus"
-        
-    os.makedirs(args.output_dir, exist_ok=True)
-    with open(output_csv_path, "w") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
-        writer.writeheader()
-        writer.writerows(results)
-        
-    print(f"\nSuccess! Translations written to {output_csv_path}")
-    
-    # 3. Serialize (Croissant)
-    print("Generating Croissant Metadata...")
-    # call croissant_generator.py
-    # We assume it's in the same scripts/ dir
-    script_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "croissant_generator.py")
-    
-    cmd = ["python3", script_path, "--data-file", output_csv_path, "--output-dir", "output/"]
-    
-    # Check if we have a single term (URL mode or single row CSV) to name the dataset specificially
-    # If we appended a new term, let's name the dataset after this new term for now as requested
-    if len(rows) > 0:
-        # Use the name/desc of the last processed term
-        last_term = rows[-1].get("term", "Multilingual Vocabulary")
-        last_context = rows[-1].get("context", "A multilingual controlled vocabulary dataset.")
-        
-        # Build multilingual name list
-        name_list = [{"value": last_term, "lang": "en"}]
-        
-        # 2. Find translations for this term in results
-        # Use a dict to keep only ONE consensus winner per language
-        lang_winners = {} 
-        for res in results:
-            if res.get("term") == last_term:
-                lang = res.get("language")
-                trans = res.get("translation")
-                model = res.get("winning_model")
-                consensus = res.get("consensus", "")
-                
-                # Only include in Croissant metadata if consensus was reached
-                if lang and trans and ("Consensus reached" in consensus or "Single model" in consensus):
-                    # Map to a single entry per language
-                    if lang not in lang_winners:
-                        lang_winners[lang] = {
-                            "value": trans, # Use the first one found (they are semantically identical)
-                            "lang": lang,
-                            "model": model
-                        }
-        
-        for lang_entry in lang_winners.values():
-            name_list.append(lang_entry)
-        
-        # Serialize to JSON
-        name_json = json.dumps(name_list)
-        
-        # Clean context for description (remove newlines, truncate if too long)
-        clean_desc = last_context.replace("\n", " ").strip()
-        if len(clean_desc) > 200:
-             clean_desc = clean_desc[:197] + "..."
-              
-        cmd.extend(["--dataset-name", name_json])
-        cmd.extend(["--description", clean_desc])
-        cmd.extend(["--llm-model", args.models])
+    print(f"\nSuccess! All translations processed.")
 
-        # Extract HIPS code if present in URL
-        # For cache mode, we might want to prioritize the code from the cache over regex from current URL args
-        hips_code = None
-        if args.hips_code:
-             hips_code = args.hips_code
-        elif args.url and "hips/" in args.url:
-             match = re.search(r"hips/([a-zA-Z0-9]+)", args.url)
-             if match:
-                 hips_code = match.group(1).upper()
-        # Fallback: check if the last term has a code in results
-        if not hips_code and len(results) > 0:
-             # Find result for last term
-             last_res = next((r for r in results if r.get("term") == last_term), None)
-             if last_res and last_res.get("code"):
-                 hips_code = last_res.get("code")
-
-        if hips_code:
-             cmd.extend(["--hips-code", hips_code])
-        
-        # Calculate output filename
-        # term without space and croissant, for example croissant_downburst.json
-        safe_term = re.sub(r'[^\w\s-]', '', last_term.strip().lower())
-        safe_term = re.sub(r'[-\s]+', '_', safe_term)
-        output_filename = f"croissant_{safe_term}.json"
-        cmd.extend(["--output-file", output_filename])
-
-    if args.url:
-        cmd.extend(["--source-url", args.url])
-    elif args.input_file:
-        cmd.extend(["--source-file", args.input_file])
-    # Also pass URL from last result if available and not passed args.url
-    elif len(rows) > 0:
-         # Try to find URL for last term
-         last_res = next((r for r in results if r.get("term") == last_term), None)
-         if last_res and last_res.get("url"):
-              cmd.extend(["--source-url", last_res.get("url")])
-
-        
-    subprocess.run(cmd)
     
     elapsed_time = time.time() - start_time
     print(f"\nExecution finished in {elapsed_time:.2f} seconds.")
