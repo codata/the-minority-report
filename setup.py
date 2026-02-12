@@ -16,12 +16,14 @@ setup(
         "mlcroissant",
         "pandas",
         "tabulate",
+        "sentence-transformers",
         # Add other dependencies as needed
     ],
     entry_points={
         "console_scripts": [
             "rosettastone-orchestrator=rosettastone.orchestrator:main",
             "rosettastone-init=rosettastone.cli:init_main",
+            "rosettastone-benchmark=rosettastone.benchmark:main",
         ],
     },
     author="Slava Tykhonov",
