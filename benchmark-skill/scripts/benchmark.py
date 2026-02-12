@@ -126,6 +126,7 @@ def main():
     report_lines.append(f"**Semantic/Sophisticated Matching**: {'Enabled' if semantic_matcher and semantic_matcher.model else 'Disabled'}")
     if semantic_matcher and semantic_matcher.model:
          report_lines.append(f"**Model**: {os.getenv('SENTENCE_TRANSFORMER_MODEL', 'paraphrase-multilingual-MiniLM-L12-v2')}")
+         report_lines.append(f"**Semantic Threshold**: {os.getenv('SEMANTIC_SIMILARITY_THRESHOLD', '0.9')}")
 
     overall_stats = []
     all_mismatches = []
@@ -143,7 +144,14 @@ def main():
         total_lex_sim = 0
         total_sem_sim = 0
         missing = 0
+        semantic_passes = 0
+        total_passes = 0
         current_lang_mismatches = []
+
+        try:
+             sem_threshold = float(os.getenv("SEMANTIC_SIMILARITY_THRESHOLD", "0.9"))
+        except:
+             sem_threshold = 0.9
 
         # Optimization: Collect all pairs to encode in batch if we were doing batching.
         # For now, simplistic loop.
@@ -195,6 +203,15 @@ def main():
             if is_exact:
                 matches += 1
             
+            # Semantic Pass Check
+            is_semantic_pass = sem_sim >= sem_threshold
+            if is_semantic_pass:
+                semantic_passes += 1
+                
+            # Overall Pass (Exact OR Semantic)
+            if is_exact or is_semantic_pass:
+                total_passes += 1
+            
             if not is_exact:
                 mismatch_entry = {
                     "language": sys_lang_code,
@@ -209,6 +226,9 @@ def main():
 
         denom = total - missing
         accuracy = (matches / total * 100) if total > 0 else 0
+        pass_rate = (total_passes / total * 100) if total > 0 else 0
+        sem_pass_rate = (semantic_passes / denom * 100) if denom > 0 else 0
+        
         avg_lex_sim = (total_lex_sim / denom * 100) if denom > 0 else 0
         avg_sem_sim = (total_sem_sim / denom * 100) if denom > 0 else 0
         
@@ -217,6 +237,7 @@ def main():
             "Total": total,
             "Missing": missing,
             "Exact%": f"{accuracy:.1f}%",
+            "Pass%": f"{pass_rate:.1f}%",
             "Lexical%": f"{avg_lex_sim:.1f}%",
             "Semantic%": f"{avg_sem_sim:.1f}%"
         }
@@ -225,6 +246,7 @@ def main():
         report_lines.append(f"\n## Language: {sys_lang_code.upper()}")
         report_lines.append(f"- **Total**: {total}")
         report_lines.append(f"- **Exact Match**: {matches} ({accuracy:.1f}%)")
+        report_lines.append(f"- **Pass Rate (Exact or Semantic >= {sem_threshold})**: {total_passes} ({pass_rate:.1f}%)")
         report_lines.append(f"- **Lexical Similarity**: {avg_lex_sim:.1f}%")
         report_lines.append(f"- **Semantic Similarity**: {avg_sem_sim:.1f}%")
         

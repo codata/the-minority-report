@@ -33,8 +33,10 @@ python3 benchmark-skill/scripts/benchmark.py \
 ## Configuration
 - **Max Words**: Use `--max-words N` (default 3) to filter out long sentences and focus on shorter terms.
 - **Semantic Model**: Set the `SENTENCE_TRANSFORMER_MODEL` environment variable to use a different model (default: `paraphrase-multilingual-MiniLM-L12-v2`).
+- **Semantic Threshold**: Set `SEMANTIC_SIMILARITY_THRESHOLD` (default: 0.9) to define the score above which a translation is considered correct (Pass).
 
 ```bash
 export SENTENCE_TRANSFORMER_MODEL="paraphrase-multilingual-mpnet-base-v2"
+export SEMANTIC_SIMILARITY_THRESHOLD="0.85"
 python3 benchmark-skill/scripts/benchmark.py ...
 ```
