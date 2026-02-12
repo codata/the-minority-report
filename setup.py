@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     package_data={
-        "the_minority_report": ["prompts/*.md", "mappings/*.ttl"],
+        "rosettastone": ["prompts/*.md", "mappings/*.ttl"],
     },
     install_requires=[
         "requests",
@@ -20,8 +20,8 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "rosettastone-orchestrator=the_minority_report.orchestrator:main",
-            "rosettastone-init=the_minority_report.cli:init_main",
+            "rosettastone-orchestrator=rosettastone.orchestrator:main",
+            "rosettastone-init=rosettastone.cli:init_main",
         ],
     },
     author="Slava Tykhonov",
