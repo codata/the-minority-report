@@ -20,6 +20,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy project files
 COPY translation-skill/ ./translation-skill/
+COPY benchmark-skill/ ./benchmark-skill/
 COPY data/ ./data/
 COPY training/ ./training/
 

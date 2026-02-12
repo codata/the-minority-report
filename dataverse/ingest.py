@@ -8,7 +8,98 @@ import requests
 import glob
 from converter import croissant_to_dataverse
 
-def ingest_dataverse(input_dir, dataverse_url, dataverse_id, api_token, input_file=None, config=None):
+def translate_term(term, target_lang, context=None, model="gpt-oss:latest", ollama_host=None):
+    """
+    Translates a term using Ollama.
+    """
+    if not ollama_host:
+        ollama_host = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+    
+    # Handle comma-separated hosts
+    if ',' in ollama_host:
+        ollama_host = ollama_host.split(',')[0].strip()
+
+    context_str = f" Context: {context}" if context else ""
+    # STRONGER prompt to force JSON
+    prompt = f"You are a translation engine. Output ONLY valid JSON with key 'translation'. Translate '{term}' to {target_lang}.{context_str} JSON format: {{\"translation\": \"<translated_term>\"}}"
+    
+    try:
+        url = f"{ollama_host}/api/generate"
+        payload = {
+            "model": model,
+            "prompt": prompt,
+            "format": "json",
+            "stream": False,
+            "options": {
+                "temperature": 0.1  # Lower temperature for deterministic output
+            }
+        }
+        resp = requests.post(url, json=payload, timeout=60)
+        if resp.status_code == 200:
+            data = resp.json()
+            response_text = data.get("response", "")
+            
+            # PARSING LOGIC
+            json_data = None
+            
+            # 1. Try strict JSON parse
+            try:
+                json_data = json.loads(response_text)
+            except:
+                pass
+            
+            # 2. Try Regex Extraction of JSON Object { ... }
+            if not json_data:
+                match = re.search(r'(\{.*\})', response_text, re.DOTALL)
+                if match:
+                    try:
+                        json_data = json.loads(match.group(1))
+                    except:
+                        pass
+            
+            # 3. If we have JSON data, try to navigate it
+            if json_data:
+                # { "fr": { "translation": "..." } }
+                if target_lang in json_data:
+                    val = json_data[target_lang]
+                    if isinstance(val, dict):
+                        return val.get("translation", term)
+                    return val # if it's just the string
+                
+                # Check case-insensitive key
+                for k in json_data.keys():
+                    if k.lower() == target_lang.lower():
+                        val = json_data[k]
+                        if isinstance(val, dict):
+                             return val.get("translation", term)
+                        return val
+
+                # Maybe it is just { "translation": "..." } directly?
+                if "translation" in json_data:
+                    return json_data["translation"]
+                    
+            # 4. Fallback Regex for Hallucinations like: 'We need to translate ": "Culmen Length (mm)" }'
+            # Look for colon followed by quotes/string at the end of string or before closing brace
+            # Pattern: ": "VALUE"
+            m_hallucination = re.search(r':\s*["\']([^"\']+)["\']\s*\}', response_text)
+            if m_hallucination:
+                 return m_hallucination.group(1)
+
+            # Pattern: "translation": "VALUE"
+            m_trans = re.search(r'["\']translation["\']\s*:\s*["\'](.*?)["\']', response_text)
+            if m_trans:
+                return m_trans.group(1)
+
+            print(f"Warning: Could not parse JSON for {term}. Raw: {response_text[:50]}...")
+            return term
+        else:
+            print(f"Translation API error: {resp.status_code}")
+            return term
+    except Exception as e:
+        print(f"Translation error: {e}")
+        return term
+
+def ingest_dataverse(input_dir, dataverse_url, dataverse_id, api_token, input_file=None, config=None, translate_langs=None, translation_model="gpt-oss:latest"):
     """
     Ingests Croissant metadata files into Dataverse.
     """
@@ -50,9 +141,9 @@ def ingest_dataverse(input_dir, dataverse_url, dataverse_id, api_token, input_fi
             sparqlmuse_api_url = config.get("sparqlmuse_api") if config else None
             wikilink_url = None
             wikilink_json = None
+            term_name = croissant_data.get("name") # Define term_name here for use later
             
             if sparqlmuse_api_url:
-                term_name = croissant_data.get("name")
                 description = croissant_data.get("description", "")
                 
                 if term_name:
@@ -91,13 +182,127 @@ def ingest_dataverse(input_dir, dataverse_url, dataverse_id, api_token, input_fi
             # Convert
             dv_data = croissant_to_dataverse(croissant_data, current_config)
             
-            # Upload Metadata to Create Dataset
-            print(f"Creating dataset at {api_endpoint}...")
-            response = requests.post(api_endpoint, data=json.dumps(dv_data), headers=headers)
+            # Search for existing dataset by title to avoid duplicates
+            dataset_title = dv_data.get('http://purl.org/dc/terms/title', 'Untitled')
+            print(f"Searching for existing dataset with title: '{dataset_title}'...")
             
-            if response.status_code == 201:
-                persistent_id = response.json().get('data', {}).get('persistentId')
-                print(f"Success! Created dataset: {persistent_id}")
+            search_api = f"{dataverse_url}/api/search"
+            search_params = {
+                "q": f'title:"{dataset_title}"',
+                "type": "dataset",
+                "per_page": 1
+            }
+            
+            persistent_id = None
+            try:
+                search_resp = requests.get(search_api, params=search_params, headers={"X-Dataverse-key": api_token})
+                if search_resp.status_code == 200:
+                    results = search_resp.json().get('data', {}).get('items', [])
+                    for item in results:
+                        if item.get('name') == dataset_title:
+                            print(f"Found existing dataset: {item.get('global_id')} ({item.get('name')})")
+                            persistent_id = item.get('global_id')
+                            break
+            except Exception as e:
+                 print(f"Search exception: {e}")
+
+            if persistent_id:
+                print(f"Dataset exists ({persistent_id}). Enriching keywords...")
+                # Prepare native keywords from Croissant fields
+                native_keywords = []
+                try:
+                    record_sets = croissant_data.get('recordSet', [])
+                    for rs in record_sets:
+                        fields = rs.get('field', [])
+                        for f in fields:
+                            name = f.get('name')
+                            desc = f.get('description')
+                            if name:
+                                # Original keyword
+                                entry = {"keywordValue": {"typeName": "keywordValue", "value": name}}
+                                if desc:
+                                    entry["keywordVocabulary"] = {"typeName": "keywordVocabulary", "value": desc}
+                                native_keywords.append(entry)
+
+                                # Translate if requested
+                                if translate_langs:
+                                    for lang in translate_langs:
+                                        lang = lang.strip()
+                                        if not lang: continue
+
+                                        print(f"Translating '{name}' to {lang} (Context: {desc[:50] if desc else 'None'})...")
+                                        translated_name = translate_term(name, lang, context=desc, model=translation_model)
+                                        if translated_name and translated_name.lower() != name.lower():
+                                            trans_entry = {"keywordValue": {"typeName": "keywordValue", "value": translated_name}}
+                                            trans_entry["keywordVocabulary"] = {"typeName": "keywordVocabulary", "value": f"Translation ({lang})"}
+                                            native_keywords.append(trans_entry)
+
+                except Exception as e:
+                    print(f"Error preparing keywords: {e}")
+
+                if native_keywords:
+                    # Fetch-Merge-Push Pattern using editMetadata
+                    api_url_draft = f"{dataverse_url}/api/datasets/:persistentId/versions/:draft"
+                    params = {"persistentId": persistent_id}
+                    headers = {"X-Dataverse-key": api_token}
+                    
+                    try:
+                        get_resp = requests.get(api_url_draft, params=params, headers=headers)
+                        existing_keywords = []
+                        if get_resp.status_code == 200:
+                            existing_data = get_resp.json().get('data', {})
+                            existing_blocks = existing_data.get('metadataBlocks', {})
+                            if 'citation' in existing_blocks:
+                                citation_fields = existing_blocks['citation']['fields']
+                                kw_field = next((f for f in citation_fields if f['typeName'] == 'keyword'), None)
+                                if kw_field:
+                                    existing_keywords = kw_field['value']
+                        
+                        # Merge logic
+                        existing_vals = {v['keywordValue']['value'] for v in existing_keywords}
+                        for new_k in native_keywords:
+                            if new_k['keywordValue']['value'] not in existing_vals:
+                                existing_keywords.append(new_k)
+                        
+                        # Prepare editMetadata payload
+                        edit_payload = {
+                            "fields": [
+                                {
+                                    "typeName": "keyword",
+                                    "multiple": True,
+                                    "typeClass": "compound",
+                                    "value": existing_keywords
+                                }
+                            ]
+                        }
+                        
+                        api_url_edit = f"{dataverse_url}/api/datasets/:persistentId/editMetadata"
+                        params_edit = {"persistentId": persistent_id, "replace": "true"}
+                        
+                        print("Sending metadata update request (editMetadata)...")
+                        put_resp = requests.put(api_url_edit, params=params_edit, data=json.dumps(edit_payload), headers={"X-Dataverse-key": api_token, "Content-Type": "application/json"})
+                        
+                        if put_resp.status_code == 200:
+                            print(f"Successfully updated metadata for {persistent_id}")
+                        else:
+                            print(f"Metadata update failed: {put_resp.status_code} {put_resp.text}")
+                    except Exception as e:
+                         print(f"Update exception: {e}")
+
+            else:
+                # Upload Metadata to Create Dataset
+                print(f"Creating dataset at {api_endpoint}...")
+                response = requests.post(api_endpoint, data=json.dumps(dv_data), headers=headers)
+                
+                if response.status_code == 201:
+                    persistent_id = response.json().get('data', {}).get('persistentId')
+                    print(f"Success! Created dataset: {persistent_id}")
+                else:
+                    print(f"Failed to create dataset: {response.status_code} {response.text}")
+                    continue
+
+            # Check if we have an ID to proceed with file uploads
+            if persistent_id:
                 
                 # Initialize API
                 from pyDataverse.api import NativeApi
@@ -160,7 +365,6 @@ def ingest_dataverse(input_dir, dataverse_url, dataverse_id, api_token, input_fi
                 translations_url = None
                 translations_csv_path = config.get("translations_csv") if config else None
                 if translations_csv_path and os.path.exists(translations_csv_path):
-                    term_name = croissant_data.get("name")
                     if term_name:
                         import csv
                         safe_name = croissant_data.get("name", "hazard").lower().replace(" ", "_").replace("/", "_")
@@ -204,28 +408,6 @@ def ingest_dataverse(input_dir, dataverse_url, dataverse_id, api_token, input_fi
 
                         except Exception as e:
                             print(f"Error processing translations CSV: {e}")
-
-                # Upload SparqlMuse Wikidata Link
-                if wikilink_json and term_name:
-                    wikilink_filename = f"wikilink_{safe_name}.json"
-                    try:
-                        with open(wikilink_filename, 'w') as wl_f:
-                            wl_f.write(wikilink_json)
-                            
-                        print(f"Uploading {wikilink_filename}...")
-                        wl_upload = api.upload_datafile(persistent_id, wikilink_filename, json.dumps({"description": f"Wikidata Link for {term_name}", "categories": ["Data"]}))
-                        
-                        if wl_upload.status_code == 200:
-                            print(f"Wikilink upload successful.")
-                        else:
-                            print(f"Wikilink upload failed: {wl_upload.status_code} {wl_upload.text}")
-                            
-                        # Cleanup
-                        if os.path.exists(wikilink_filename):
-                            os.remove(wikilink_filename)
-                            
-                    except Exception as e:
-                        print(f"Error uploading Wikilink file: {e}")
 
                 # 4. Modify Croissant Data & Upload
                 if translations_url:
@@ -274,6 +456,8 @@ if __name__ == "__main__":
     parser.add_argument("--dataverse-id", default=os.environ.get("DATAVERSE_ID"), help="Target Dataverse collection alias or ID")
     parser.add_argument("--api-token", default=os.environ.get("DATAVERSE_API_TOKEN"), help="Dataverse API Token")
     parser.add_argument("--config", default="dataverse/ingest.conf", help="Path to configuration file")
+    parser.add_argument("--translate-keywords", help="Comma-separated target languages (e.g., 'fr,es')")
+    parser.add_argument("--translation-model", default="gpt-oss:latest", help="Ollama model to use")
 
     args = parser.parse_args()
 
@@ -290,4 +474,5 @@ if __name__ == "__main__":
             print(f"Warning: Could not load config file {args.config}: {e}")
             print("Using default values.")
 
-    ingest_dataverse(args.input_dir, args.dataverse_url, args.dataverse_id, args.api_token, args.file, config_data)
+    langs = args.translate_keywords.split(',') if args.translate_keywords else None
+    ingest_dataverse(args.input_dir, args.dataverse_url, args.dataverse_id, args.api_token, args.file, config_data, langs, args.translation_model)

@@ -23,3 +23,15 @@ services:
       - DATAVERSE_URL
       - DATAVERSE_ID
       - DATAVERSE_API_TOKEN
+
+  benchmark:
+    build: .
+    volumes:
+      - ./data:/app/data
+      - ./benchmark_report.md:/app/benchmark_report.md
+    environment:
+      - SENTENCE_TRANSFORMER_MODEL=paraphrase-multilingual-MiniLM-L12-v2
+      - SEMANTIC_SIMILARITY_THRESHOLD=${SEMANTIC_SIMILARITY_THRESHOLD:-0.9}
+    entrypoint: [ "python3", "benchmark-skill/scripts/benchmark.py" ]
+    command: >
+      --google-sheet "https://docs.google.com/spreadsheets/d/1mutF1b-E_Y4FRHNTLWLEB_qjvBkwnpUvAPPgV_c4T-Y/edit?gid=1965989659#gid=1965989659" --translations-csv "/app/data/final_translations.csv" --output-report "/app/benchmark_report.md"
