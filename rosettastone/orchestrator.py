@@ -1,0 +1,801 @@
+import csv
+import json
+import argparse
+import os
+import subprocess
+import random
+import datetime
+import time
+import re
+import urllib.parse
+
+import concurrent.futures
+import sys
+import functools
+
+# Redirect all print calls to stderr to avoid breaking MCP stdio transport
+print = functools.partial(print, file=sys.stderr)
+
+from .config import get_ollama_hosts
+from .google_sheets_reader import read_google_sheet
+
+# --- Mock LLM Interface ---
+from ollama import Client
+import requests
+from bs4 import BeautifulSoup
+
+# Parse hosts from environment or config
+OLLAMA_HOSTS = get_ollama_hosts()
+
+import threading
+from .ontoportal import OntoPortalClient
+
+class ModelRouter:
+    def __init__(self, hosts):
+        self.hosts = hosts
+        self.lock = threading.Lock()
+        # Initialize clients for each host
+        self.clients = {}
+        for h in hosts:
+            try:
+                self.clients[h] = Client(host=h, timeout=600)
+            except Exception as e:
+                print(f"[ModelRouter] Warning: Failed to init client for {h}: {e}")
+        
+        self.allocations = {} # model_name -> host_url
+
+    def get_client(self, model_name):
+        with self.lock:
+            # If already allocated, return that client
+            if model_name in self.allocations:
+                host = self.allocations[model_name]
+                return self.clients.get(host)
+                
+            # New model: Allocate to host with fewest assigned models
+            # 1. Count current allocations per host
+            host_counts = {h: 0 for h in self.hosts}
+            for m, h in self.allocations.items():
+                if h in host_counts:
+                    host_counts[h] += 1
+                    
+            # 2. Pick host with min count
+            # (Tie-break by order in list)
+            best_host = min(host_counts, key=host_counts.get)
+            
+            self.allocations[model_name] = best_host
+            print(f"[ModelRouter] assigning model '{model_name}' to host '{best_host}'")
+            
+            return self.clients.get(best_host)
+
+# Global router instance - Eager instantiation to avoid race conditions in threads
+_ROUTER = ModelRouter(OLLAMA_HOSTS)
+
+def get_router():
+    return _ROUTER
+
+def mock_llm_call(prompt, model="gpt-oss:latest", is_json=True):
+    """
+    Calls the Ollama API using the OLLAMA_HOST environment variable.
+    """
+    try:
+        router = get_router()
+        client = router.get_client(model)
+        
+        if not client:
+             print(f"Error: No client available for model {model}")
+             return "{}"
+
+        # Call without format='json' to avoid empty responses if model is chatty
+        response = client.generate(model=model, prompt=prompt, stream=False)
+        response_text = response.get('response', '{}')
+        
+        # Log response
+        os.makedirs("logs", exist_ok=True)
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S_%f")
+        
+        # Write Prompt Log
+        with open(f"logs/prompt_{timestamp}.txt", "w") as f:
+            f.write(prompt)
+            
+        # Write Response Log
+        with open(f"logs/response_{timestamp}.txt", "w") as f:
+            f.write(f"Raw Object:\n{str(response)}\n\nExtracted Text:\n{response_text}")
+            
+        return response_text
+            
+    except Exception as e:
+        print(f"Error calling Ollama: {e}")
+        return "{}"
+
+def repair_json(json_str):
+    """
+    Attempts to repair common JSON malformations from LLMs.
+    """
+    # Fix 1: Remove quotes after numbers (e.g. 0.96"})
+    # Look for number followed immediately by quote then } or , or ]
+    json_str = re.sub(r'(\d+(?:\.\d+)?)"\s*([,}\]])', r'\1\2', json_str)
+    
+    # Fix 2: Unescaped quotes inside strings? (Harder to do safely with regex)
+    
+    return json_str
+
+# --- Main Logic ---
+
+def load_prompt(path):
+    with open(path, "r") as f:
+        return f.read()
+
+
+def parse_ontoportal_url(url):
+    """
+    Check if URL is an OntoPortal URL and extract concept info.
+    Returns (ontology, concept_id) or (None, None).
+    """
+    parsed = urllib.parse.urlparse(url)
+    if not parsed.query:
+        return None, None
+        
+    params = urllib.parse.parse_qs(parsed.query)
+    concept_id = params.get('conceptid', [None])[0]
+    
+    # Try to extract ontology from path (e.g. /ontologies/CODE)
+    ontology = None
+    path_parts = parsed.path.split('/')
+    if 'ontologies' in path_parts:
+        try:
+            idx = path_parts.index('ontologies')
+            if idx + 1 < len(path_parts):
+                ontology = path_parts[idx+1]
+        except ValueError:
+            pass
+            
+    return ontology, concept_id
+
+def scrape_url(url, ontoportal_client=None):
+    """
+    Scrapes term and context from a URL.
+    if ontoportal_client is provided, it tries to use it for OntoPortal URLs.
+    """
+    # OntoPortal Logic
+    if ontoportal_client:
+        ontology, concept_id = parse_ontoportal_url(url)
+        if concept_id:
+            print(f"Detected OntoPortal concept: {concept_id}")
+            # Try to search/get details
+            # We assume concept_id is the URI.
+            # We use search because get_term_details needs the API ID url, which we might not have.
+            try:
+                results = ontoportal_client.search_term(concept_id, ontology=ontology)
+                if results:
+                    res = results[0]
+                    term = res.get('prefLabel')
+                    defs = res.get('definition', [])
+                    context_text = defs[0] if isinstance(defs, list) and defs else str(defs)
+                    if not context_text: context_text = "No definition found in OntoPortal."
+                    
+                    print(f"Resolved via API: {term}")
+                    return term, context_text
+            except Exception as e:
+                print(f"OntoPortal search failed: {e}. Trying SPARQL fallback...")
+                try:
+                     sparql_res = ontoportal_client.resolve_uri_via_sparql(concept_id, ontology=ontology)
+                     if sparql_res:
+                         term = sparql_res.get('label')
+                         context_text = sparql_res.get('definition', "No definition found via SPARQL.")
+                         print(f"Resolved via SPARQL: {term}")
+                         return term, context_text
+                except Exception as sparql_e:
+                     print(f"SPARQL fallback failed: {sparql_e}")
+                
+                 # Fallback to scraping
+
+    print(f"Scraping term from {url}...")
+    headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36'}
+    resp = requests.get(url, headers=headers)
+    resp.raise_for_status()
+    
+    soup = BeautifulSoup(resp.content, 'html.parser')
+    
+    # Extract Term (h1)
+    term_elem = soup.find('h1')
+    term = term_elem.get_text(strip=True) if term_elem else "Unknown Term"
+    
+    # Extract Definition (.field--name-body.lead)
+    def_elem = soup.find('div', class_=lambda x: x and 'field--name-body' in x and 'lead' in x)
+    
+    if def_elem:
+        p_elem = def_elem.find('p')
+        context_text = p_elem.get_text(strip=True) if p_elem else def_elem.get_text(strip=True)
+    else:
+        def_elem = soup.find('div', class_=lambda x: x and 'field--name-body' in x)
+        if def_elem:
+            item_elem = def_elem.find('div', class_='field--item')
+            context_text = item_elem.get_text(strip=True) if item_elem else def_elem.get_text(strip=True)
+        else:
+            context_text = "No definition found."
+        
+    print(f"Description: {context_text}")
+    return term, context_text
+
+def scrape_index_page(index_url):
+    """
+    Scrapes the index page for all concept URLs matching the pattern.
+    """
+    print(f"Scraping index page: {index_url}...")
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    try:
+        response = requests.get(index_url, headers=headers)
+        response.raise_for_status()
+    except Exception as e:
+        print(f"Error fetching index page: {e}")
+        return []
+        
+    soup = BeautifulSoup(response.text, "html.parser")
+    # Base pattern based on inspection: /understanding-disaster-risk/terminology/hips/
+    # We look for all 'a' tags with href containing this pattern
+    links = set()
+    base_domain = "https://www.preventionweb.net"
+    
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if "/understanding-disaster-risk/terminology/hips/" in href:
+            # Ensure full URL
+            if href.startswith("/"):
+                full_url = base_domain + href
+            else:
+                full_url = href
+            
+            # Simple validation: it should end with code usually, but let's just accept unique URLs that match the path
+            links.add(full_url)
+            
+    print(f"Found {len(links)} unique concept URLs.")
+    print(f"Found {len(links)} unique concept URLs.")
+    return list(links)
+
+def load_index_cache(cache_path):
+    if os.path.exists(cache_path):
+        try:
+            with open(cache_path, "r") as f:
+                return json.load(f)
+        except:
+            return {}
+    return {}
+
+def save_index_cache(cache_path, cache_data):
+    try:
+         with open(cache_path, "w") as f:
+             json.dump(cache_data, f, indent=2)
+    except Exception as e:
+         print(f"Warning: Failed to save cache: {e}")
+
+def get_hips_code_from_url(url):
+    import re
+    match = re.search(r"hips/([a-zA-Z0-9]+)", url)
+    return match.group(1).upper() if match else None
+
+def _query_model(term, context, languages, model, voter_prompt_template):
+    """Helper to query a single model and return parsed results."""
+    print(f"  Using Model: {model}")
+    prompt = voter_prompt_template.replace("{{target_languages}}", ", ".join(languages))
+    prompt = prompt.replace("{{term}}", term)
+    prompt = prompt.replace("{{scope_note}}", context)
+    
+    response_str = mock_llm_call(prompt, model=model).strip()
+    
+    response = {}
+    response = {}
+    if response_str:
+        try:
+            response = json.loads(response_str)
+        except json.JSONDecodeError:
+            print(f"    [{model}] JSON Parse Error. Attempting repair...")
+            # 1. Try extracting greedy JSON object
+            import re
+            match = re.search(r'(\{.*\})', response_str, re.DOTALL)
+            if match:
+                candidate = match.group(1)
+                try:
+                    response = json.loads(candidate)
+                    print(f"    [{model}] Repair successful (regex extraction).")
+                except json.JSONDecodeError:
+                     # 2. Try repair function
+                     repaired = repair_json(candidate)
+                     try:
+                         response = json.loads(repaired)
+                         print(f"    [{model}] Repair successful (regex + repair_json).")
+                     except json.JSONDecodeError:
+                         print(f"    [{model}] Repair failed after regex extraction.")
+            else:
+                 # Try repairing the whole string
+                 repaired = repair_json(response_str)
+                 try:
+                     response = json.loads(repaired)
+                     print(f"    [{model}] Repair successful (full string repair).")
+                 except:
+                     pass
+
+    if not response:
+        print(f"    [{model}] Failed to parse JSON for term '{term}'. Raw: {response_str[:50]}...")
+        return []
+    
+    model_results = []
+    for lang in languages:
+        lang_data = response.get(lang, {})
+        if not isinstance(lang_data, dict):
+            if lang == "fr" and "translation" in response: 
+                lang_data = response 
+            else:
+                lang_data = {}
+
+        translation = lang_data.get("translation", "")
+        confidence = lang_data.get("confidence_score", 0.0)
+        
+        if translation:
+            print(f"    [{model}] -> {lang}: {translation}")
+            model_results.append({
+                "term": term,
+                "context": context,
+                "translation": translation,
+                "language": lang,
+                "confidence": confidence,
+                "winning_model": model,
+                "version": "0.1"
+            })
+        else:
+            print(f"      [{lang}] No translation found in response from {model}.")
+            
+    return model_results
+
+def _arbitrate_model(term, context, candidates, model, arbitrator_prompt_template):
+    """Helper to query a model for arbitration."""
+    print(f"  [Arbitration] Askiing Model: {model}")
+    candidates_list = "\n".join([f"- {c}" for c in candidates])
+    
+    prompt = arbitrator_prompt_template.replace("{{term}}", term)
+    prompt = prompt.replace("{{scope_note}}", context)
+    prompt = prompt.replace("{{candidates}}", candidates_list)
+    
+    response_str = mock_llm_call(prompt, model=model).strip()
+    
+    selected = ""
+    if response_str:
+        try:
+             # Try parse
+             data = json.loads(response_str)
+             selected = data.get("selected_translation", "")
+        except:
+             # Try repair
+             repaired = repair_json(response_str)
+             try:
+                 data = json.loads(repaired)
+                 selected = data.get("selected_translation", "")
+             except:
+                 # Try regex
+                 import re
+                 match = re.search(r'(\{.*\})', response_str, re.DOTALL)
+                 if match:
+                     try:
+                         data = json.loads(match.group(1))
+                         selected = data.get("selected_translation", "")
+                     except:
+                         pass
+    
+    if selected:
+        print(f"    [{model}] voted for: {selected}")
+    else:
+        print(f"    [{model}] failed to vote.")
+        
+    return selected
+
+def process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, output_csv_path):
+    """
+    Processes a list of terms and returns translation results with consensus logic.
+    A translation is only accepted if at least 2 models agree on it (case-insensitive).
+    """
+    results = []
+    if os.path.exists(output_csv_path):
+        with open(output_csv_path, "r") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                results.append(row)
+                
+    print(f"Loaded {len(results)} existing translations.")
+    
+    new_results = []
+    for row in rows:
+        term = row.get("term", "")
+        context = row.get("context", "")
+        print(f"\nProcessing Term: {term}")
+        
+        # Collect raw responses for this term
+        raw_results = [] 
+        
+        # Original metadata to preserve
+        original_code = row.get("code")
+        original_url = row.get("url")
+        
+        # Execute model queries in parallel
+        with concurrent.futures.ThreadPoolExecutor(max_workers=len(models)) as executor:
+            future_to_model = {
+                executor.submit(_query_model, term, context, languages, model, voter_prompt_template): model 
+                for model in models
+            }
+            
+            for future in concurrent.futures.as_completed(future_to_model):
+                try:
+                    data = future.result()
+                    # Enrich results with original metadata
+                    for d in data:
+                        if original_code: d["code"] = original_code
+                        if original_url: d["url"] = original_url
+                    raw_results.extend(data)
+                except Exception as exc:
+                    model_name = future_to_model[future]
+                    print(f"Model {model_name} generated an exception: {exc}")
+
+        # Apply Consensus Logic per language
+        for lang in languages:
+            lang_raw = [r for r in raw_results if r["language"] == lang]
+            
+            if len(models) == 1:
+                print(f"    Single model used for [{lang}]. Skipping consensus.")
+                for r in lang_raw:
+                    r["consensus"] = "Single model (skipped consensus)"
+                new_results.extend(lang_raw)
+            else:
+                # Count votes (case-insensitive)
+                votes = {} # normalized_translation -> count
+                for r in lang_raw:
+                    norm = r["translation"].strip().lower()
+                    votes[norm] = votes.get(norm, 0) + 1
+                
+                # Filter results that have consensus (2+ votes)
+                consensus_norms = [norm for norm, count in votes.items() if count >= 2]
+                
+                if consensus_norms:
+                    # Find the actual text for the consensus norm
+                    consensus_text = next(r["translation"] for r in lang_raw if r["translation"].strip().lower() in consensus_norms)
+                    print(f"    Consensus reached for [{lang}]: '{consensus_text}'")
+                    for r in lang_raw:
+                        norm = r["translation"].strip().lower()
+                        if norm in consensus_norms:
+                            # Add consensus info: count/total
+                            count = votes[norm]
+                            r["consensus"] = f"Consensus reached ({count}/{len(models)} models agreed)"
+                        else:
+                            r["consensus"] = "No consensus"
+                    new_results.extend(lang_raw)
+                else:
+                    # Arbitration Phase
+                    available_terms = list(set([r["translation"] for r in lang_raw if r["translation"]]))
+                    print(f"    No consensus for [{lang}]. Candidates: {available_terms}")
+                    print(f"    Starting Arbitration for [{lang}]...")
+                    
+                    arbitration_votes = []
+                    with concurrent.futures.ThreadPoolExecutor(max_workers=len(models)) as executor:
+                        future_to_model = {
+                            executor.submit(_arbitrate_model, term, context, available_terms, model, arbitrator_prompt_template): model 
+                            for model in models
+                        }
+                        for future in concurrent.futures.as_completed(future_to_model):
+                            try:
+                                vote = future.result()
+                                if vote:
+                                    arbitration_votes.append(vote)
+                            except Exception as e:
+                                print(f"Arbitration error: {e}")
+                                
+                    # Count arbitration votes
+                    arb_counts = {}
+                    for v in arbitration_votes:
+                        norm = v.strip().lower()
+                        arb_counts[norm] = arb_counts.get(norm, 0) + 1
+                        
+                    # Check for new consensus (simple majority or >= 2)
+                    # Let's say we need at least 2 votes for the same thing to override
+                    arb_consensus = [norm for norm, count in arb_counts.items() if count >= 2]
+                    
+                    if arb_consensus:
+                        winner_norm = arb_consensus[0]
+                        winner_text = [v for v in arbitration_votes if v.strip().lower() == winner_norm][0] # Get original casing
+                        count = arb_counts[winner_norm]
+                        print(f"    Arbitration successful! Winner: {winner_text} ({count} votes)")
+                        
+                        # Update all results for this lang to point to the winner? 
+                        # Or just mark the winner? 
+                        # Let's add a new result entry for the Arbitrated Winner or update existing ones.
+                        # For simplicity, we mark the rows that match the winner as "Consensus reached (Arbitrated)"
+                        # and ensure others are "No consensus".
+                        
+                        found_match = False
+                        for r in lang_raw:
+                            if r["translation"].strip().lower() == winner_norm:
+                                r["consensus"] = f"Consensus reached (Arbitrated {count}/{len(models)})"
+                                found_match = True
+                            else:
+                                r["consensus"] = "No consensus (Arbitration lost)"
+                        
+                        # If the winner wasn't in original raw results exactly (maybe slight variation returned by arbitrator?), 
+                        # we might need to handle that. But generic instructions say "Select...". 
+                        # Assuming models output one of the candidates.
+                        
+                        new_results.extend(lang_raw)
+                    else:
+                        print(f"    Arbitration failed. No clear winner.")
+                        for r in lang_raw:
+                            r["consensus"] = "No consensus (Arbitration failed)"
+                        new_results.extend(lang_raw)
+
+    # Merge new_results into results
+    existing_map = {(r["term"], r["language"], r["winning_model"]): i for i, r in enumerate(results)}
+    for res in new_results:
+        key = (res["term"], res["language"], res["winning_model"])
+        if key in existing_map:
+            results[existing_map[key]] = res
+        else:
+            results.append(res)
+            
+    return results
+
+def main():
+
+    start_time = time.time()
+    
+    parser = argparse.ArgumentParser(description="Orchestrator for Multilingual CV Skill")
+    parser.add_argument("--input-file", "--input_file", dest="input_file", help="Path to source CSV")
+    parser.add_argument("--url", help="URL to scrape term from (overrides input_file)")
+    parser.add_argument("--concept", help="Manual concept term (overrides input_file/url)")
+    parser.add_argument("--context", help="Manual context/description for the concept")
+    parser.add_argument("--index-url", help="Index page URL to scrape multiple concepts from (scrapes only, no translation)")
+    parser.add_argument("--index-file", "--index_file", dest="index_file", help="Path to index cache JSON file to process")
+    parser.add_argument("--output-dir", "--output_dir", dest="output_dir", default="data", help="Directory for output CSV")
+    parser.add_argument("--languages", default="fr,es,de", help="Comma-separated target languages")
+    parser.add_argument("--models", default="gpt-oss:latest", help="Comma-separated LLM models to use")
+    parser.add_argument("--hips-code", "--hips_code", dest="hips_code", help="Manual HIPS code override")
+    parser.add_argument("--google-sheet", "--google_sheet", dest="google_sheet", help="URL of Google Sheet to process (must have term_en/definition_en)")
+    
+    parser.add_argument("--ontoportal-api-key", default=os.environ.get("ONTOPORTAL_API_KEY"), help="API key for OntoPortal services (or set via ONTOPORTAL_API_KEY)")
+    parser.add_argument("--ontoportal-url", default="http://ecoportal.lifewatch.eu:8080", help="Base URL for OntoPortal (default: EcoPortal)")
+
+    args = parser.parse_args()
+    
+    # Setup paths - package aware
+    base_dir = os.path.dirname(os.path.abspath(__file__)) 
+    prompts_dir = os.path.join(base_dir, "prompts")
+    if not os.path.exists(prompts_dir):
+         # Fallback for development if not installed
+         prompts_dir = os.path.join(os.path.dirname(base_dir), "translation-skill", "prompts")
+         
+    voter_prompt_template = load_prompt(os.path.join(prompts_dir, "voter_prompt.md"))
+    arbitrator_prompt_template = load_prompt(os.path.join(prompts_dir, "arbitrator_prompt.md"))
+    
+    languages = args.languages.split(",")
+    models = args.models.split(",")
+    output_csv_path = os.path.join(args.output_dir, "final_translations.csv")
+    
+    # Initialize OntoPortal client if key provided
+    ontoportal = None
+    if args.ontoportal_api_key:
+        ontoportal = OntoPortalClient(args.ontoportal_api_key, args.ontoportal_url)
+        print(f"Enabled OntoPortal integration: {args.ontoportal_url}")
+    
+    # Read Source
+    rows = []
+    
+    if args.google_sheet:
+        print(f"Reading Google Sheet: {args.google_sheet}")
+        rows = read_google_sheet(args.google_sheet)
+        print(f"Loaded {len(rows)} terms from sheet.")
+    
+    elif args.concept:
+        print(f"Processing manual concept: {args.concept}")
+        rows = [{
+            "term": args.concept,
+            "context": args.context or f"Standard technical definition for {args.concept}.",
+            "url": "manual-input"
+        }]
+    
+    elif args.url:
+        try:
+            # Pass ontoportal client to scrape_url for smart resolution
+            term, context_text = scrape_url(args.url, ontoportal_client=ontoportal)
+            
+            # --- OntoPortal Enrichment (if not already done via scrape_url smart path) ---
+            # If we scaped via HTML, we might still want to enrich.
+            # If we resolved via API, we already have the def, but maybe we want more?
+            # logic inside scrape_url handles it.
+            
+            if ontoportal and "Official Definition" not in context_text:
+                 # Only try to enrich if we didn't get a good one or if it was a plain scrap
+                 op_def = ontoportal.get_definition(term)
+                 if op_def:
+                     print(f"  [OntoPortal] Found definition for '{term}'")
+                     context_text += f"\n\nOfficial Definition (OntoPortal): {op_def}"
+
+            rows.append({"term": term, "context": context_text})
+        except Exception as e:
+            print(f"Error scraping/resolving URL: {e}")
+            return
+            
+    elif args.index_url:
+        urls = scrape_index_page(args.index_url)
+        if not urls:
+            print("No URLs found in index page.")
+            return
+        
+        # Load Cache
+        cache_path = os.path.join(args.output_dir, "index_cache.json")
+        index_cache = load_index_cache(cache_path)
+        
+        print(f"Processing {len(urls)} concepts from index...")
+        
+        cache_updated = False
+        
+        for i, u in enumerate(urls):
+            # Check cache first
+            if u in index_cache:
+                print(f"[{i+1}/{len(urls)}] Cache exists for {u}")
+                continue
+                
+            print(f"[{i+1}/{len(urls)}] Scraping {u}")
+            try:
+                t, c = scrape_url(u)
+                code = get_hips_code_from_url(u)
+                
+                # Update Cache
+                index_cache[u] = {
+                    "term": t,
+                    "context": c,
+                    "code": code,
+                    "url": u
+                }
+                cache_updated = True
+                
+                # Be searching friendly
+                time.sleep(1) 
+            except Exception as e:
+                print(f"Skipping {u}: {e}")
+                
+        # Save cache if changed
+        if cache_updated:
+            save_index_cache(cache_path, index_cache)
+            
+        print(f"\nIndex creation complete. Saved to {cache_path}")
+        print(f"Run translation with: --index-file {cache_path}")
+        return
+
+    elif args.index_file:
+        print(f"Loading index file: {args.index_file}")
+        with open(args.index_file, "r") as f:
+            index_cache = json.load(f)
+            # Convert values to list
+            # We sort by term to be deterministic
+            rows = list(index_cache.values())
+            print(f"Loaded {len(rows)} terms from index file.")
+
+    elif args.input_file:
+        with open(args.input_file, "r") as f:
+            reader = csv.DictReader(f)
+            rows = list(reader)
+    else:
+        print("Error: Must provide --url, --index-url, --index-file, or --input-file")
+        return
+            
+            
+    results = process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, output_csv_path)
+    
+    # Write Results
+    fieldnames = ["term", "translation", "context", "language", "confidence", "winning_model", "consensus", "version", "code", "url"]
+    for res in results:
+        res["version"] = "0.1"
+        if "consensus" not in res:
+             res["consensus"] = "No consensus"
+        
+    os.makedirs(args.output_dir, exist_ok=True)
+    with open(output_csv_path, "w") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
+        writer.writeheader()
+        writer.writerows(results)
+        
+    print(f"\nSuccess! Translations written to {output_csv_path}")
+    
+    # 3. Serialize (Croissant)
+    print("Generating Croissant Metadata...")
+    # call croissant_generator.py
+    # We assume it's in the same scripts/ dir
+    script_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "croissant_generator.py")
+    
+    cmd = ["python3", script_path, "--data-file", output_csv_path, "--output-dir", "output/"]
+    
+    # Check if we have a single term (URL mode or single row CSV) to name the dataset specificially
+    # If we appended a new term, let's name the dataset after this new term for now as requested
+    if len(rows) > 0:
+        # Use the name/desc of the last processed term
+        last_term = rows[-1].get("term", "Multilingual Vocabulary")
+        last_context = rows[-1].get("context", "A multilingual controlled vocabulary dataset.")
+        
+        # Build multilingual name list
+        name_list = [{"value": last_term, "lang": "en"}]
+        
+        # 2. Find translations for this term in results
+        # Use a dict to keep only ONE consensus winner per language
+        lang_winners = {} 
+        for res in results:
+            if res.get("term") == last_term:
+                lang = res.get("language")
+                trans = res.get("translation")
+                model = res.get("winning_model")
+                consensus = res.get("consensus", "")
+                
+                # Only include in Croissant metadata if consensus was reached
+                if lang and trans and ("Consensus reached" in consensus or "Single model" in consensus):
+                    # Map to a single entry per language
+                    if lang not in lang_winners:
+                        lang_winners[lang] = {
+                            "value": trans, # Use the first one found (they are semantically identical)
+                            "lang": lang,
+                            "model": model
+                        }
+        
+        for lang_entry in lang_winners.values():
+            name_list.append(lang_entry)
+        
+        # Serialize to JSON
+        name_json = json.dumps(name_list)
+        
+        # Clean context for description (remove newlines, truncate if too long)
+        clean_desc = last_context.replace("\n", " ").strip()
+        if len(clean_desc) > 200:
+             clean_desc = clean_desc[:197] + "..."
+              
+        cmd.extend(["--dataset-name", name_json])
+        cmd.extend(["--description", clean_desc])
+        cmd.extend(["--llm-model", args.models])
+
+        # Extract HIPS code if present in URL
+        # For cache mode, we might want to prioritize the code from the cache over regex from current URL args
+        hips_code = None
+        if args.hips_code:
+             hips_code = args.hips_code
+        elif args.url and "hips/" in args.url:
+             match = re.search(r"hips/([a-zA-Z0-9]+)", args.url)
+             if match:
+                 hips_code = match.group(1).upper()
+        # Fallback: check if the last term has a code in results
+        if not hips_code and len(results) > 0:
+             # Find result for last term
+             last_res = next((r for r in results if r.get("term") == last_term), None)
+             if last_res and last_res.get("code"):
+                 hips_code = last_res.get("code")
+
+        if hips_code:
+             cmd.extend(["--hips-code", hips_code])
+        
+        # Calculate output filename
+        # term without space and croissant, for example croissant_downburst.json
+        safe_term = re.sub(r'[^\w\s-]', '', last_term.strip().lower())
+        safe_term = re.sub(r'[-\s]+', '_', safe_term)
+        output_filename = f"croissant_{safe_term}.json"
+        cmd.extend(["--output-file", output_filename])
+
+    if args.url:
+        cmd.extend(["--source-url", args.url])
+    elif args.input_file:
+        cmd.extend(["--source-file", args.input_file])
+    # Also pass URL from last result if available and not passed args.url
+    elif len(rows) > 0:
+         # Try to find URL for last term
+         last_res = next((r for r in results if r.get("term") == last_term), None)
+         if last_res and last_res.get("url"):
+              cmd.extend(["--source-url", last_res.get("url")])
+
+        
+    subprocess.run(cmd)
+    
+    elapsed_time = time.time() - start_time
+    print(f"\nExecution finished in {elapsed_time:.2f} seconds.")
+
+if __name__ == "__main__":
+    main()
