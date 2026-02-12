@@ -1,28 +1,34 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="the-minority-report",
+    name="rosettastone",
     version="0.1.0",
     packages=find_packages(),
     include_package_data=True,
+    package_data={
+        "the_minority_report": ["prompts/*.md", "mappings/*.ttl"],
+    },
     install_requires=[
         "requests",
         "beautifulsoup4",
         "ollama",
         "rdflib",
         "mlcroissant",
+        "pandas",
+        "tabulate",
         # Add other dependencies as needed
     ],
     entry_points={
         "console_scripts": [
-            "tmr-orchestrator=the_minority_report.orchestrator:main",
-            "tmr-init=the_minority_report.cli:init_main",
+            "rosettastone-orchestrator=the_minority_report.orchestrator:main",
+            "rosettastone-init=the_minority_report.cli:init_main",
         ],
     },
-    author="Vyacheslav Tykhonov",
+    author="Slava Tykhonov",
     description="A tool for multilingual concept translation and Croissant metadata generation.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
+    license="MIT",
     url="https://github.com/4tikhonov/rosetta-ai", # Assuming this is the repo based on corpus mapping
     classifiers=[
         "Programming Language :: Python :: 3",
