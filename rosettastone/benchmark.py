@@ -14,6 +14,20 @@ try:
 except ImportError:
     HAS_SEMANTIC = False
 
+# Try to import sacrebleu
+try:
+    from sacrebleu.metrics import BLEU
+    HAS_BLEU = True
+except ImportError:
+    HAS_BLEU = False
+
+# Try to import comet
+try:
+    from comet import download_model, load_from_checkpoint
+    HAS_COMET = True
+except ImportError:
+    HAS_COMET = False
+
 def get_google_sheet_csv_url(url):
     import re
     match = re.search(r'/d/([a-zA-Z0-9-_]+)', url)
@@ -80,6 +94,8 @@ def main():
     parser.add_argument("--output-report", default="benchmark_report.md", help="Path to output Markdown report")
     parser.add_argument("--mismatches-output", help="Path to output CSV of all mismatches")
     parser.add_argument("--use-semantic", action='store_true', default=True, help="Enable semantic similarity (default: True)")
+    parser.add_argument("--use-bleu", action='store_true', default=False, help="Enable BLEU score (default: False)")
+    parser.add_argument("--use-comet", action='store_true', default=False, help="Enable COMET score (default: False)")
     parser.add_argument("--max-words", type=int, default=3, help="Filter terms with more than N words (default: 3)")
     args = parser.parse_args()
 
@@ -102,6 +118,29 @@ def main():
     semantic_matcher = None
     if args.use_semantic and HAS_SEMANTIC:
         semantic_matcher = SemanticMatcher()
+
+    # Initialize BLEU
+    bleu_metric = None
+    if args.use_bleu:
+        if HAS_BLEU:
+            print("Initializing BLEU metric...")
+            bleu_metric = BLEU()
+        else:
+            print("Warning: sacrebleu not installed. Skipping BLEU.")
+
+    # Initialize COMET
+    comet_model = None
+    if args.use_comet:
+        if HAS_COMET:
+            print("Initializing COMET model (this may download a large model)...")
+            try:
+                # Use a standard model
+                model_path = download_model("Unbabel/wmt22-comet-da")
+                comet_model = load_from_checkpoint(model_path)
+            except Exception as e:
+                print(f"Error loading COMET: {e}")
+        else:
+             print("Warning: unbabel-comet not installed. Skipping COMET.")
 
     # Pre-process system translations
     system_translations = {}
@@ -259,6 +298,62 @@ def main():
             bad_mismatches = [m for m in current_lang_mismatches if float(m['sem_score']) < 0.6]
             for m in bad_mismatches[:10]:
                 report_lines.append(f"| {m['term']} | {m['system']} | {m['truth']} | {m['sem_score']} | {m['lex_score']} |")
+
+        # --- Corpus Level Metrics (BLEU / COMET) ---
+        # We need parallel lists: sys and ref
+        # We re-iterate or use what we collected? We didn't collect clean lists.
+        # Let's collect them now.
+        sys_corpus = []
+        ref_corpus = []
+        src_corpus = [] # Needed for COMET
+
+        for _, row in df_truth.iterrows():
+            term_en = normalize_text(row.get('term_en', ''))
+            if not term_en: continue
+            if len(term_en.split()) > args.max_words: continue
+
+            truth_trans = row.get(col_name, '')
+            if pd.isna(truth_trans): continue
+            truth_trans = str(truth_trans).strip()
+            if not truth_trans: continue
+            
+            sys_trans = system_translations.get((term_en, sys_lang_code))
+            if sys_trans:
+                sys_corpus.append(sys_trans)
+                ref_corpus.append(truth_trans)
+                src_corpus.append(term_en) # Using normalized EN term as source
+        
+        if sys_corpus:
+            # BLEU
+            if bleu_metric:
+                # BLEU expects list of strings for sys, and list of list of strings for refs
+                formatted_refs = [ref_corpus]
+                score = bleu_metric.corpus_score(sys_corpus, formatted_refs)
+                print(f"BLEU score for {sys_lang_code}: {score.score:.2f}")
+                
+                stats["BLEU"] = f"{score.score:.2f}"
+                report_lines.append(f"- **BLEU Score**: {score.score:.2f}")
+            
+            # COMET
+            if comet_model:
+                print(f"Calculating COMET score for {sys_lang_code} ({len(sys_corpus)} samples)...")
+                data = []
+                for s, m, r in zip(src_corpus, sys_corpus, ref_corpus):
+                    data.append({"src": s, "mt": m, "ref": r})
+                
+                try:
+                    # gpus=0 to force CPU if no GPU, or remove to auto-detect?
+                    # default is 1, let's try 0 if we suspect no GPU or just let it default.
+                    # The library usually handles it.
+                    model_output = comet_model.predict(data, batch_size=8, gpus=0, num_workers=2)
+                    system_score = model_output.system_score
+                    print(f"COMET score for {sys_lang_code}: {system_score:.4f}")
+                    
+                    stats["COMET"] = f"{system_score:.4f}"
+                    report_lines.append(f"- **COMET Score**: {system_score:.4f}")
+                except Exception as e:
+                    print(f"Error calculating COMET: {e}")
+                    stats["COMET"] = "Error"
 
     report_lines.insert(5, "\n## Summary")
     summary_df = pd.DataFrame(overall_stats)

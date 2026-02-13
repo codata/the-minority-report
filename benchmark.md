@@ -25,6 +25,23 @@ We employ three distinct metrics to evaluate translation quality:
 - **Definition**: Uses state-of-the-art Sentence Transformers (default: `paraphrase-multilingual-MiniLM-L12-v2`) to compute the cosine similarity between the vector embeddings of the system and human translations.
 - **Interpretation**: Captures **meaning**. A high semantic score with a low lexical score indicates a valid paraphrase (e.g., "Global Warming" vs "Climate Change"). This is often the most important metric for machine translation utility.
 
+### 4. BLEU Score (Optional)
+- **Definition**: Standard metric for machine translation that counts n-gram overlaps. Uses `sacrebleu`.
+- **Interpretation**:
+    - **> 40**: High quality, often indistinguishable from human.
+    - **30-40**: Good quality, understandable.
+    - **20-30**: Fair quality, understandable but with grammatical errors.
+    - **< 20**: Limited utility, major errors.
+    - *Note*: BLEU penalizes paraphrases and is sensitive to tokenization (especially for Chinese).
+
+### 5. COMET Score (Optional)
+- **Definition**: Neural metric (`wmt22-comet-da`) that predicts translation quality based on source, translation, and reference.
+- **Interpretation**:
+    - **> 0.85**: Excellent (often better than human-human agreement).
+    - **0.75-0.85**: Good (high quality, minor errors).
+    - **< 0.7**: Significant errors or completely different meaning.
+    - *Note*: COMET is much more reliable than BLEU for semantic accuracy, especially for distant language pairs like Chinese-English.
+
 ## Running the Benchmark
 
 ### Option 1: Docker (Recommended)
@@ -47,10 +64,13 @@ Requires Python 3.10+ and dependencies.
     ```
 2.  **Run Script**:
     ```bash
-    python3 benchmark-skill/scripts/benchmark.py \
+    ```bash
+    rosettastone-benchmark \
       --google-sheet "https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID/..." \
       --translations-csv "data/final_translations.csv" \
-      --mismatches-output "mismatches.csv"
+      --mismatches-output "mismatches.csv" \
+      --use-bleu \
+      --use-comet
     ```
 
 ## Configuration
