@@ -1,0 +1,2343 @@
+language,term,system,truth,lex_score,sem_score
+fr,disaster,désastre,Catastrophe,0.53,0.96
+fr,earthquake,Séisme,Tremblement de terre,0.23,0.34
+fr,hurricane,ouragan,Cyclone,0.29,0.92
+fr,mission introduction,Introduction de mission,Présentation de la mission,0.69,0.94
+fr,advisor,Conseiller,CONSEIL,0.82,0.66
+fr,fact,fait,Action-clé,0.31,0.38
+fr,key facts,Faits clés,Actions-clés,0.67,0.72
+fr,hospitals,hôpital,Les hôpitaux,0.63,0.97
+fr,start disaster,début de la catastrophe,Déclenchez la catastrophe,0.75,0.90
+fr,show risk,Afficher le risque,Risque,0.50,0.90
+fr,finished,Terminé,Fini,0.36,0.74
+fr,stop disasters,Stop Disasters,Arrêtons les catastrophes,0.46,0.92
+fr,select a scenario,Sélectionner un scénario,Choisissez un scénario,0.61,0.93
+fr,south east asia,Asie du Sud-Est,Sud-Est asiatique,0.40,0.98
+fr,lowland hills,Collines de basse altitude,Collines et plaines,0.58,0.65
+fr,easterncentral europe,Europe centrale et orientale,Europe de l'Est/centrale,0.60,0.98
+fr,valley flood plains,plaines inondables de vallée,Plaines inondables,0.78,0.71
+fr,the caribbean,Les Caraïbes,Amérique centrale,0.14,0.63
+fr,caribbean island,île des Caraïbes,Îles des Caraïbes,0.97,0.92
+fr,daily news post,Publication d'actualité quotidienne,Nouvelles du jour,0.27,0.72
+fr,view scene,Vue de scène,Voir la scène,0.64,0.86
+fr,view report,Afficher le rapport,Voir le rapport,0.76,0.96
+fr,population housed,Population hébergée,Personnes logées,0.40,0.35
+fr,population sheltered,Population abritée,Personnes à l'abri,0.46,0.53
+fr,total damages,dommages totaux,Totalité des dégâts,0.24,0.92
+fr,population died,Population décédée,Pertes humaines,0.36,0.62
+fr,population injured,Population blessée,Personnes blessées,0.61,0.74
+fr,school built,École construite,{{SCHOOL}} construite,0.85,0.75
+fr,hospital built,hôpital construit,{{HOSPITAL}} construit,0.97,0.87
+fr,bonus,prime,Bonus,0.00,0.42
+fr,key facts found,Faits clés trouvés,Action-clé trouvée,0.69,0.75
+fr,pass,passer,Réussi,0.33,0.69
+fr,well done,Bien fait!,Félicitations!,0.27,0.68
+fr,unlucky,malchanceux,Pas de chance!,0.58,0.59
+fr,try again,Réessayer,Essayez encore,0.61,0.62
+fr,continue,continue,Continuer,0.94,0.99
+fr,development defences,Développement de défenses,Développement: Défenses,0.94,0.50
+fr,development structures,Structures de développement,Développement: Structures,0.51,0.94
+fr,clearance  preparation,Préparation des données,Coût de la déblaiement et préparation,0.37,0.49
+fr,item,élément,Article,0.29,0.65
+fr,items,éléments,Articles,0.38,0.65
+fr,unhoused,sans-abri,Pas logé,0.12,0.36
+fr,housed,houssé,Logé,0.40,0.79
+fr,sheltered,protégé,À l'abri,0.14,0.77
+fr,show risk,Afficher le risque,MONTRER LE RISQUE,0.69,0.54
+fr,start disaster,début de la catastrophe,Déclenchez la catastrophe,0.75,0.90
+fr,confirm,confirmation,CONFIRMER,0.67,0.32
+fr,are you sure,Êtes‑vous sûr ?,ÊTES-VOUS SÛR?,0.96,0.76
+fr,housing goal,objectif de logement,Programme de construction,0.40,0.55
+fr,build,construction,Bâtir,0.24,0.51
+fr,build,construction,Bâtir,0.24,0.51
+fr,max budget,budget maximal,Budget maximum,0.86,0.96
+fr,max fatalities,maximum de victimes,Nombre maximal de décès,0.57,0.85
+fr,approximately,approximativement,Environ,0.25,0.52
+fr,until disaster,jusqu'à la catastrophe,jusqu'au désastre,0.65,0.98
+fr,play game,jouer à un jeu,Jouer,0.53,0.77
+fr,game developed by,Développé par,Jeu développé par,0.87,0.46
+fr,the top bar,Barre supérieure,La Barre d'Outils,0.44,0.59
+fr,the information panel,Panneau d'information,Le Tableau d'Information,0.79,0.84
+fr,the main screen,écran principal,L'Écran Principal,0.97,0.41
+fr,stop disasters,Stop Disasters,Arrêtons les catastrophes,0.46,0.92
+fr,foundations,Fondements,Fondations,0.60,0.77
+fr,building reinforcement,renforcement de bâtiment,Renforcement des bâtiments,0.96,0.90
+fr,local alarm system,Système d'alarme local,Système d'alerte locale,0.88,0.83
+fr,protect electrics,Protection électrique,Protection des équipements électriques,0.71,0.95
+fr,secure fittings,raccords sécurisés,Sécurisation des équipements,0.39,0.54
+fr,retrofit the building,rétrofit du bâtiment,Mise aux normes des bâtiments,0.53,0.64
+fr,anchor heavy item,objet lourd d'ancrage,Ancrage des équipements lourds,0.28,0.87
+fr,raised building,bâtiment surélevé,Surélévation des bâtiments,0.42,0.84
+fr,asphalt roof,toit d'asphalte,...,0.00,0.22
+fr,clay roof,toit en argile,...,0.00,0.23
+fr,roof sprinkler,sprinkler de toit,Arroseur de toit,0.67,0.24
+fr,plywood shutters,volets en contreplaqué,...,0.00,0.45
+fr,glass shutters,volets en verre,...,0.00,0.52
+fr,wire shutters,volets en fil de fer,...,0.00,0.28
+fr,building reinforcements,renforts structurels,Renforcement des bâtiments,0.35,0.60
+fr,water tank protection,Protection des réservoirs d'eau,Protection des citernes d'eau,0.79,0.93
+fr,remove fuel sources,Suppression des sources de combustible,Suppression des sources combustibles,0.95,0.99
+fr,water source upgrade,Amélioration de la source d'eau,Modernisation des points d'eau,0.61,0.79
+fr,secure roofing,toiture sécurisée,Sécurisation de la toiture,0.33,0.71
+fr,sewer backflow,inversion d'égout,Soupape anti-reflux des eaux d'égouts,0.39,0.38
+fr,storm shutters,volets pare-vents,Volets anti-tempête,0.59,0.69
+fr,waterproof sealant,mastic d'étanchéité,Joints étanches,0.55,0.37
+fr,ocean waves,vagues océaniques,Vagues de l'océan,0.73,0.85
+fr,shallow water,eau peu profonde,Eaux peu profondes,0.94,0.75
+fr,rock,roche,Rochers,0.83,0.41
+fr,flood,inondation,Inonder,0.59,0.32
+fr,flood,inondation,Inonder,0.59,0.32
+fr,burnt land,terrain brûlé,Terre calcinée,0.59,0.58
+fr,rocks,roches,Rochers,0.92,0.50
+fr,rocks,roches,Rochers,0.92,0.50
+fr,expensive clearance costs,frais de dédouanement élevés,"Construire sur une terre rocailleuse est très coûteux, mais possible et généralement stable si poursuivi.",0.27,0.43
+fr,earthquake strikes,Séisme,Un tremblement de terre a frappé!,0.16,0.30
+fr,brick cottage,maison en briques,Résidence en briques,0.70,0.84
+fr,old house,Maison ancienne,Vieille maison,0.41,0.98
+fr,old town house,Maison de la vieille ville,Vieille maison de ville,0.61,0.98
+fr,old terraced house,ancienne maison mitoyenne,Ancienne bande de terrain en terrasse,0.52,0.61
+fr,large house,maison de grande taille,Grande maison,0.50,0.94
+fr,commercial block,Bloc commercial,Centre commercial,0.75,0.75
+fr,tsunami strikes,Tsunami frappe !,Un tsunami a frappé!,0.85,0.97
+fr,shrubs,Arbuste,Arbustes,0.93,0.97
+fr,logs,journaux,Bûches,0.14,0.52
+fr,sand dunes,dunes de sable,Dune,0.44,0.94
+fr,large rocks,roches de grande taille,Gros rochers,0.34,0.76
+fr,small rocks,petites roches,Petits rochers,0.93,0.88
+fr,bamboo hut,hutte de bambou,Hutte en bambou,0.93,0.87
+fr,hotel cabins,cabine d'hôtel,Cabanes d'hôtel,0.89,0.96
+fr,timber house,maison à ossature bois,Maison en bois,0.72,0.98
+fr,breakwater,môle,Brise-lames,0.29,0.53
+fr,flash floods,inondation flash,De brusques inondations!,0.56,0.78
+fr,farm land,terrain agricole,Terre agricole,0.87,0.98
+fr,brick cottage,maison en briques,Résidences en briques,0.68,0.89
+fr,commercial block,Bloc commercial,Centre commercial,0.75,0.75
+fr,wetlands,zones humides,Marais,0.11,0.10
+fr,earth levee,barrière de terre,Remblais de terre,0.65,0.73
+fr,rock dyke,dit,Digue de rochers,0.21,0.55
+fr,1 meter wall,Mur d'un mètre,Mur de 1 mètre,0.81,0.96
+fr,drainage ditch,tranchée de drainage,Fossé de drainage,0.70,0.91
+fr,wildfire strikes,Incendie forestier,Un feu de forêt a frappé !,0.52,0.92
+fr,rocks,roches,Rochers,0.92,0.50
+fr,4 bedroom house,Maison à quatre chambres,Maison de 4 chambres,0.77,0.98
+fr,6 bedroom house,maison de six chambres,Maison de 6 chambres,0.90,0.99
+fr,water tower,tour d'eau,Château d'eau,0.67,0.70
+fr,firebreaks,trou de feu,Coupe-feux,0.60,0.58
+fr,dry bushes,buissons secs,Brousse sèche,0.62,0.64
+fr,hurricane strikes,Attaque d'ouragan,Un ouragan a frappé !,0.51,0.89
+fr,banana trees,bananier,Bananiers,0.94,0.72
+fr,minimal clearance costs,coûts de dédouanement minimaux,Des frais minimum de débroussaillage s'appliquent.,0.36,0.83
+fr,logs,journaux,Bûches,0.14,0.52
+fr,shrubs,Arbuste,Arbustes,0.93,0.97
+fr,sand dune,dune de sable,Dune,0.47,0.92
+fr,rocks,roches,Rochers,0.92,0.50
+fr,an empty pier,quai vide,Jetée vide,0.53,0.86
+fr,large hut,Grande cabane,Grande hutte,0.64,0.87
+fr,brick cottage,maison en briques,Résidence en briques,0.70,0.84
+fr,timber house,maison à ossature bois,Maison en bois,0.72,0.98
+fr,oil drum,bidon,Baril d'essence,0.42,0.28
+fr,telephone pole,Poteau téléphonique,Poteau télégraphique,0.87,0.68
+fr,revetments,revêtements,Murs d'épaulement,0.52,0.59
+fr,seawall,barrage côtier,Digue,0.21,0.41
+fr,stop,STOP,ARRÊTER,0.18,0.40
+fr,disasters,catastrophes,LES CATASTROPHES,0.86,0.24
+fr,play,Jeu,Jouer,0.50,0.78
+fr,time mins,minutes,{{TIME}} min.,0.40,0.73
+fr,share,part,Partager,0.67,0.82
+fr,off,Éteint,ARRÊT,0.36,0.80
+fr,on,ON,MARCHE,0.00,0.66
+fr,language  currentlang,langue,Langue - {{CURRENTLANG}},0.48,0.59
+fr,warning,avertissement,Alerte,0.53,0.90
+fr,overview,Vue d'ensemble,Aperçu,0.11,0.87
+fr,restart,redémarrage,Redémarrer,0.86,0.85
+fr,home,domicile,Accueil,0.40,0.79
+fr,back,arrière,Retour,0.31,0.65
+fr,buy cost,Coût d'achat,Acheter {{COST}},0.35,0.60
+fr,scroll up,défilement vers le haut,Défiler vers le haut,0.88,0.81
+fr,scroll down,Défilement vers le bas,Défiler vers le bas,0.88,0.91
+fr,demolish structure,démolition de structure,Démolir la structure,0.79,0.91
+fr,develop defences,Développement de défenses,Construire des défences,0.50,0.78
+fr,develop buildings,développement de bâtiments,Construire des bâtiments,0.56,0.95
+fr,upgrade buildings,mise à niveau des bâtiments,Améliorer les bâtiments,0.64,0.88
+fr,repeat last purchase,Répétition du dernier achat,Répétez votre dernier achat,0.74,0.89
+fr,view tile information,Afficher les informations de la tuile,Afficher l'information de cette case,0.75,0.55
+fr,share via email,Partager par e‑mail,Partager par courriel,0.75,0.90
+fr,get involved,Participer,Impliquez-vous,0.26,0.73
+fr,take survey,répondre à un sondage,Répondre à l'enquête,0.65,0.57
+fr,furniture and equipment,Mobilier et équipements,Mobilier et équipement,0.98,0.96
+fr,inventory and stock,inventaire et stocks,Inventaire et stock,0.97,0.91
+fr,furniture and equipment,Mobilier et équipements,Mobilier et équipement,0.98,0.96
+fr,assets  road infrastructure,Actifs - Infrastructures routières,Actifs - Infrastructure routière,0.97,0.99
+fr,furniture and equipment,Mobilier et équipements,Mobilier et équipement,0.98,0.96
+fr,furniture and equipment,Mobilier et équipements,Mobilier et équipement,0.98,0.96
+fr,furniture and equipment,Mobilier et équipements,Mobilier et équipement,0.98,0.96
+fr,furniture and equipment,Mobilier et équipements,Mobilier et équipement,0.98,0.96
+fr,assets  equipments,Équipements,Actifs - équipements,0.73,0.62
+fr,assets  road infrastructure,Actifs - Infrastructures routières,Actifs - Infrastructure routière,0.97,0.99
+fr,assets  equipments,Équipements,Actifs - équipements,0.73,0.62
+fr,furniture and equipment,Mobilier et équipements,Mobilier et équipement,0.98,0.96
+fr,assets  road infrastructure,Actifs - Infrastructures routières,Actifs - Infrastructure routière,0.97,0.99
+fr,furniture and equipment,Mobilier et équipements,Mobilier et équipement,0.98,0.96
+fr,assets  road infrastructure,Actifs - Infrastructures routières,Actifs - Infrastructure routière,0.97,0.99
+fr,assets  road infrastructure,Actifs - Infrastructures routières,Actifs - Infrastructure routière,0.97,0.99
+fr,assets  road infrastructure,Actifs - Infrastructures routières,Actifs - Infrastructure routière,0.97,0.99
+fr,assets  equipments,Équipements,Actifs - équipements,0.73,0.62
+fr,assets  road infrastructure,Actifs - Infrastructures routières,Actifs - Infrastructure routière,0.97,0.99
+fr,inventory and stock,inventaire et stocks,Inventaire et stock,0.97,0.91
+fr,assets  road infrastructure,Actifs - Infrastructures routières,Actifs - Infrastructure routière,0.97,0.99
+fr,inventory and stock,inventaire et stocks,Inventaire et stock,0.97,0.91
+fr,furniture and equipment,Mobilier et équipements,Mobilier et équipement,0.98,0.96
+fr,furniture and equipment,Mobilier et équipements,Mobilier et équipement,0.98,0.96
+fr,assets  equipments,Équipements,Actifs - équipements,0.73,0.62
+fr,furniture and equipment,Mobilier et équipements,Mobilier et équipement,0.98,0.96
+fr,assets  equipments,Équipements,Actifs - équipements,0.73,0.62
+fr,metering systems,systèmes de mesure,Systèmes de comptage,0.74,0.70
+fr,handdug wells,puits à main,Main-dug wells,0.32,0.42
+fr,electricity transmission underground,Transmission souterraine d'électricité,Transport souterrain d'électricité,0.86,0.92
+fr,graders,noteur,Élèves du primaire,0.25,0.65
+fr,pipelines oil  oleduct,oléduct,Oléoducs pétrole - oléoducs,0.42,0.71
+fr,pollytecnic institute,Institut polytechnique,Institut Pollytecnic,0.86,0.70
+fr,kitchen appliances,appareils électroménagers de cuisine,Appareils de cuisine,0.71,0.55
+fr,internal roads,route intérieure,routes intérieures,0.94,0.96
+fr,intake structures,structure d'admission,Structures d'admission,0.98,0.96
+fr,lemons and limes,citron et lime,Citrons et limes,0.93,0.94
+fr,grapefruit  pomelo,pamplemousse,Pamplemousse et pomelo,0.71,0.74
+fr,driling rigs offshore,plateforme de forage offshore,Plates-formes de forage en mer,0.76,0.67
+fr,cucumbers,concombre,Concombres,0.95,0.94
+fr,specialized equipment,Équipement spécialisé,Matériel spécialisé,0.70,0.75
+fr,small earthen dam,petit barrage de terre,petit barrage en terre,0.95,0.98
+fr,vehicles  management,Gestion des véhicules,Véhicules - gestion,0.46,0.43
+fr,technological platforms,plateformes technologiques,Plates-formes technologiques,0.98,0.87
+fr,generation plants,centrale électrique,Centrales de production,0.62,0.59
+fr,strawberries,fraise,Fraises,0.92,0.36
+fr,deep tube wells,puits tubulaire profond,puits tubulaires profonds,0.96,0.96
+fr,bulldozers,bulldozer,Bulldozers,0.95,0.94
+fr,oil palms,palme à huile,Palmiers à huile,0.90,0.97
+fr,completion systems,Système de complétion,Systèmes d'achèvement,0.63,0.80
+fr,water reservoirs,réservoir d'eau,réservoirs d'eau,0.97,0.98
+fr,police stations,postes de police,Commissariats de police,0.72,0.84
+fr,pipelines gas gaseoduct,gazoduc,Gazoducs gaz-gazoducs,0.52,0.39
+fr,railcars,wagon,Wagons,0.91,0.86
+fr,tv studios,studio de télévision,Studios de télévision,0.98,0.97
+fr,community shops,magasin communautaire,magasins communautaires,0.95,0.95
+fr,drilling machinery,équipement de forage,Machines de forage,0.58,0.77
+fr,asparagus,asperge,Asperges,0.93,0.94
+fr,conveyor system,système de convoyeur,Système de convoyage,0.90,0.89
+fr,public toilets,toilettes publiques,Public toilets,0.42,0.95
+fr,turnips,navet,Navets,0.91,0.79
+fr,french drains,drainage français,Drains français,0.88,0.96
+fr,onions incl shallots,oignons (incluant les échalotes),Oignons (y compris échalotes),0.70,0.95
+fr,decentralized plants,centrales décentralisées,Installations décentralisées,0.77,0.80
+fr,office space,espace de bureau,Espace de bureaux,0.97,0.93
+fr,drill wells,forage de puits,Puits de forage,0.40,0.62
+fr,pump jacks,pompe à palan,Crics de pompe,0.37,0.82
+fr,plums and sloes,prunes et prune du prunellier,Prunes et prunelles,0.75,0.88
+fr,color grading labs,laboratoires de correction des couleurs,Laboratoires d'étalonnage,0.60,0.56
+fr,septic tanks,réservoir septique,Fosses septiques,0.65,0.64
+fr,coconuts,coco,Noix de coco,0.50,0.92
+fr,tribunal facilities,installations judiciaires,Installations du Tribunal,0.68,0.90
+fr,crushing machinery,équipements de concassage,Machines de broyage,0.45,0.80
+fr,small embankments,petite digue,petits remblais,0.52,0.90
+fr,furniture,mobilier,Furniture,0.24,0.90
+fr,distribution warehouses,entrepôt de distribution,Entrepôts de distribution,0.98,0.96
+fr,community telephone centers,centre téléphonique communautaire,centres téléphoniques communautaires,0.96,0.96
+fr,nutmeg mace cardamoms,"Noix de muscade, macre, cardamome","Muscade, macis, cardamome",0.78,0.83
+fr,boards,Cartes de circuit imprimé,Conseil d'administration,0.29,0.25
+fr,electronic health records,Dossier de santé électronique,Dossiers médicaux électroniques,0.77,0.82
+fr,student dorms,dortoirs universitaires,Dortoirs pour étudiants,0.52,0.79
+fr,pathways,chemins,voies d'accès,0.32,0.63
+fr,pile drivers,marteaux à pieux,Conducteurs de pieux,0.56,0.61
+fr,mine shafts,trou de mine,Puits de mine,0.72,0.91
+fr,biogassifiers,digesteurs anaérobies,biogasseurs,0.44,0.48
+fr,pigeno peas,pois de pigeon,Pois Pigeno,0.80,0.45
+fr,yams,ignames,Igname,0.92,0.85
+fr,leguminous crops nec,Cultures légumineuses n.e.c.,Légumineuses n.c.a.,0.73,0.72
+fr,printing presses,presses d'impression,Presses d'imprimerie,0.79,0.97
+fr,technological equipment,Équipement technologique,Équipements technologiques,0.96,0.96
+fr,cinnamon canella,Cannelle,Cannelle (canella),0.67,0.71
+fr,equiments,équipement,Equiments,0.84,0.32
+fr,historic buildings,bâtiment historique,Bâtiments historiques,0.95,0.79
+fr,other cereals nec,"Autres céréales, n.e.c.","Autres céréales, n.c.a.",0.95,0.98
+fr,rainage structures,structures de drainage pluvial,structures de drainage,0.85,0.94
+fr,other nuts nec,Autres NUTS n.e.c.,Autres fruits à coque n.c.a.,0.65,0.74
+fr,mate,mat,Mate,0.86,0.70
+fr,letrines,letri,Letrines,0.77,0.60
+fr,niger seed,graines de Niger,Semences du Niger,0.67,0.82
+fr,hazelnuts,noisettes,Hazelnuts,0.22,0.26
+fr,mechanized wells,puits mécanisé,Puits mécanisés,0.97,0.80
+fr,small marketplaces,petits marchés,petites places de marché,0.68,0.91
+fr,school dispensaire nurse,infirmier scolaire,Dispensaire scolaire/ infirmière,0.41,0.84
+fr,water quality laboratories,laboratoires d'analyse de la qualité de l'eau,Laboratoires de la qualité de l'eau,0.88,0.97
+fr,vanilla,vanilla,Vanille,0.86,0.89
+fr,artifacts,artefact,Artéfacts,0.94,0.93
+fr,concrete mixers,mélangeur à béton,Bétonnières,0.36,0.33
+fr,electricity transmission underwater,transmission électrique sous-marine,Transport d'électricité sous l'eau,0.64,0.78
+fr,production platforms,Plateformes de production,Plates-formes de production,0.98,0.98
+fr,carrots,carotte,Carottes,0.93,0.85
+fr,applicance,appareil,Application,0.53,0.53
+fr,jetties,jetée,jetées,0.91,0.87
+fr,storefronts,Points de vente en ligne,Vitrines,0.19,0.19
+fr,other equipments,Équipements divers,Autres équipements,0.61,0.40
+fr,recording studios,studio d'enregistrement,Studios d'enregistrement,0.98,0.97
+fr,welleheads,Welleheads,Les têtes de bétail,0.28,0.53
+fr,laboratory diagnostic equipments,Équipements de diagnostic en laboratoire,Équipements de diagnostic de laboratoire,0.97,0.99
+fr,light passenger,véhicule léger à passagers,Passagers légers,0.43,0.76
+fr,linseed,lin,Linseed,0.60,0.75
+fr,binding machines,machines de reliure,Machines à relier,0.83,0.83
+fr,faculty,corps professoral,Faculté,0.17,0.71
+fr,ground extraction systems,système d'extraction du sol,Systèmes d'extraction du sol,0.98,0.89
+fr,cow peas,coucou,Pois de vache,0.11,0.47
+fr,saunas,sauna,Saunas,0.91,0.95
+fr,other electronics,Électroniques diverses,Autres produits électroniques,0.51,0.70
+fr,pumping systems surface,Surface des systèmes de pompage,Systèmes de pompage en surface,0.62,0.90
+fr,sugar beet,betterave sucrière,Betterave à sucre,0.86,0.35
+fr,beans,JavaBeans,Haricots,0.24,0.31
+fr,scanners,scanner,Scanners,0.93,0.88
+fr,tangerines mandarins clementines,mandarines,"Mandarines, mandarines, clémentines",0.47,0.86
+fr,excavators,excavatrice,Pelles,0.24,0.39
+fr,compressors,compresseur,Compresseurs,0.96,0.95
+fr,school sanitation facilities,installations sanitaires scolaires,Installations sanitaires dans les écoles,0.84,0.96
+fr,day care center,centre de garde d'enfants,Centre d'accueil de jour,0.55,0.59
+fr,processing plants,site de traitement,Usines de transformation,0.57,0.21
+fr,forklifts,chariot élévateur,Chariots élévateurs,0.94,0.73
+fr,concrete pump trucks,camion-pompe de béton,Camions-pompes à béton,0.88,0.80
+fr,workshops,atelier,Ateliers,0.93,0.92
+fr,landmark,marqueur,Point de repère,0.26,0.73
+fr,laundry appliances,appareils de lavage,Appareils de buanderie,0.73,0.31
+fr,playgrounds,aires de jeux,terrains de jeux,0.76,0.75
+fr,nutmeg mace cardamoms,"Noix de muscade, macre, cardamome","Muscade, macis, cardamome",0.78,0.83
+fr,large passenger bus,autobus de grande capacité,Grand autobus de passagers,0.54,0.95
+fr,aerial telephone lines,câbles téléphoniques aériens,Lignes téléphoniques aériennes,0.86,0.85
+fr,kitchens,cuisines,Kitchens,0.25,0.72
+fr,cinnamon canella,Cannelle,Cannelle (canella),0.67,0.71
+fr,weirs,déversoir,seuils,0.27,0.84
+fr,dams,barrage,Barrages,0.93,0.90
+fr,tanks,réservoir,Réservoirs,0.95,0.96
+fr,drains,égouts,drains,0.17,0.43
+fr,box culverts,culvert en boîte,ponceaux en caisson,0.40,0.60
+fr,laundry facilities,installations de blanchisserie,Blanchisserie,0.60,0.59
+fr,blood banks,banco de sang,Banques de sang,0.79,0.96
+fr,walkways,passerelle,passerelles,0.95,0.89
+fr,books,livre,Livres,0.91,0.93
+fr,houseboats,bateau-maison,Bateaux-logements,0.57,0.48
+fr,pump houses,bâtiment de pompage,les stations de pompage,0.71,0.91
+fr,parliament house,Palais du Parlement,Maison du Parlement,0.84,0.92
+fr,monuments,Monument,Monuments,0.94,0.96
+fr,sheds,cabanons,hangars,0.40,0.54
+fr,mobile treatment units,unités mobiles de traitement,Unités de traitement mobiles,0.71,0.95
+fr,primary health centers,Centre de santé primaire,Centres de santé primaires,0.96,0.98
+fr,community water supply,système d'approvisionnement en eau communautaire,approvisionnement en eau de la communauté,0.80,0.95
+fr,newspapers,journal,Journaux,0.80,0.66
+fr,solar pv,Panneaux photovoltaïques solaires,PV solaire,0.47,0.89
+fr,associated energy supplies,fournitures d'énergie associées,Approvisionnements énergétiques associés,0.60,0.92
+fr,medium passenger services,services de transport de passagers de moyenne distance,Services de transport de passagers moyens,0.86,0.90
+fr,student residences,Résidences universitaires,Résidences pour étudiants,0.56,0.88
+fr,assembly lines,ligne d'assemblage,Lignes d'assemblage,0.97,0.73
+fr,boreholdes,Boreholdes,Forages,0.47,0.57
+fr,footbridges,passerelle,passerelles,0.95,0.89
+fr,castor bean,haricot de castor,Graine de ricin,0.44,0.43
+fr,sweet potatoes,patate douce,Patates douces,0.92,0.96
+fr,sludge transports,transports de boues,Transport de boues,0.97,0.99
+fr,raw material,matière première,Matières premières,0.94,0.55
+fr,cauliflowers  broccoli,chou-fleur et brocoli,Choux-fleurs et brocolis,0.93,0.81
+fr,online storefronts,magasin en ligne,Vitrines en ligne,0.67,0.50
+fr,sugar beet seeds,semences de betterave sucrière,Graines de betterave sucrière,0.85,0.83
+fr,house trailers,maison mobile,Remorques de maison,0.38,0.63
+fr,cherries  sour cherries,cerises et cerises aigres,Cerises et cerises acides,0.92,0.48
+fr,outpatient centers,centre ambulatoire,Outpatient centers,0.28,0.66
+fr,gyms,salles de sport,Gymnases,0.26,0.75
+fr,regasification terminals,terminal de régazéification,Terminaux de regazéification,0.95,0.63
+fr,school water facilities,installations d'approvisionnement en eau scolaire,Installations hydrauliques scolaires,0.64,0.80
+fr,merchandise,marchandise,Marchandises,0.96,0.71
+fr,chairs,président,Chaises,0.25,0.36
+fr,milling machines,machines à fraisage,Machines à fraiser,0.92,0.50
+fr,recreation grounds,terrain de loisirs,Terrains de loisirs,0.97,0.94
+fr,boat houses,hôtel de bateaux,Hangars à bateaux,0.61,0.70
+fr,fire trucks,camion de pompiers,Camions de pompiers,0.97,0.86
+fr,driling rigs onshore,trépignoir de forage terrestre,Plates-formes de forage à terre,0.63,0.74
+fr,water sources,source d'eau,Sources d'eau,0.96,0.95
+fr,haul tracks,piste de convoyage,Chemins de roulement,0.42,0.68
+fr,handling machineries,équipements de manutention,Machines de manutention,0.69,0.85
+fr,inroom appliances,Appareils de chambre,Appareils ménagers dans les chambres,0.71,0.87
+fr,gooseberries,groseilles,Groseilles à maquereau,0.62,0.82
+fr,batteries,batteries,Piles,0.43,0.17
+fr,chestnuts,châtaignes,Marrons,0.35,0.72
+fr,forage products nec,"Produits de fourrage, autres","Produits fourragers, n.c.a.",0.76,0.51
+fr,protection walls,mur de protection,murs de protection,0.97,0.96
+fr,turbines,turbine,Turbines,0.93,0.94
+fr,eggplants  aubergines,aubergines,Eggplants ( aubergines),0.65,0.59
+fr,kindergarden,école maternelle,Jardin d'enfants,0.19,0.70
+fr,graveyards,cimetière,cimetières,0.95,0.99
+fr,stalls,stagnation,Stations,0.78,0.19
+fr,sound stages,plateaux de tournage,Scènes de son,0.42,0.32
+fr,backhoes,pelle à benne,Pelleteuses,0.58,0.74
+fr,editing hardwarde,Matériel d'édition,Editer hardwarde,0.24,0.42
+fr,shelter,hébergement,Abri,0.27,0.55
+fr,marketing facilities,infrastructures de marketing,installations de commercialisation,0.48,0.78
+fr,kiwi fruit,kiwi,Kiwi fruit,0.57,0.64
+fr,pipe culverts,culvert en tuyau,ponceaux à tuyaux,0.55,0.76
+fr,other connective,autre connecteur logique,Autres éléments conjonctifs,0.51,0.59
+fr,post production facilities,installations de post‑production,Installations de post-production,0.98,0.96
+fr,colections,Collections,Recueils,0.42,0.48
+fr,sewage pipelines,conduites d'égout,Canalisations d'eaux usées,0.39,0.35
+fr,fishing engines,moteur de pêche,Moteurs de pêche,0.97,0.84
+fr,cameras,caméra,Caméras,0.92,0.95
+fr,record storage sites,site de stockage des dossiers,Sites de stockage d'archives,0.71,0.82
+fr,pumps,pompe,Pompes,0.91,0.63
+fr,correctionaries,correctionnaires,Correctionnels,0.87,0.43
+fr,vacuum trucks,camion d'aspiration,Camions-aspirateurs,0.72,0.58
+fr,asphalt pavers,ponceuse d'asphalte,Pavés en asphalte,0.63,0.83
+fr,restaurants,restaurant,Restaurants,0.95,0.95
+fr,raspberries,framboise,Framboises,0.95,0.77
+fr,students libraries,bibliothèques étudiantes,Bibliothèques des étudiants,0.90,0.97
+fr,fishing gear,équipement de pêche,Matériel de pêche,0.67,0.88
+fr,scaffolding,échafaudage,Échafaudages,0.96,0.93
+fr,protection of slopes,Protection des talus,protection des pentes,0.83,0.53
+fr,major fixtures,composants majeurs,Principaux équipements,0.25,0.67
+fr,pipes,tuyau,Pipes,0.00,0.35
+fr,water trucks,camion d'eau,Camions-citernes,0.54,0.13
+fr,school gymnasium,gymnase scolaire,Gymnase de l'école,0.73,0.86
+fr,fishing vesselsboats,vaisseaux de pêche,Bateaux de pêche,0.82,0.89
+fr,treatment plants,station d'épuration,Stations d'épuration,0.97,0.96
+fr,school cafeteria,cantine scolaire,Cafétéria de l'école,0.57,0.74
+fr,vanilla,vanilla,Vanille,0.86,0.89
+fr,studios music,musique de studio,Musique des studios,0.94,0.94
+fr,distribution centers,centre de distribution,Centres de distribution,0.98,0.98
+fr,pipeline network,réseau de tuyauterie,Réseau de pipelines,0.67,0.79
+fr,grinding machinery,machines de meulage,Machines de broyage,0.79,0.90
+fr,batching plants,centrale de dosage de béton,Installations de dosage,0.56,0.52
+fr,river intakes,prélèvements de rivière,prises d'eau dans les rivières,0.58,0.91
+fr,shopping centers,centre commercial,Centres commerciaux,0.89,0.89
+fr,tunnels,tunnel,Tunnels,0.92,0.96
+fr,prisons,prison,Prisons,0.92,0.97
+fr,wells,puits,Wells,0.20,0.48
+fr,rollers,rouleau,Rollers,0.57,0.39
+fr,room furnishing,Mobilier,Ameublement de la chambre,0.30,0.51
+fr,movie studios,studio cinématographique,Studios de cinéma,0.63,0.96
+fr,parking facilities,installations de stationnement,Facilités de stationnement,0.71,0.95
+fr,spinach,épinard,Épinards,0.93,0.91
+fr,mobile manufactured houses,maison mobile,Maisons mobiles ou préfabriquées,0.58,0.85
+fr,water,eau,L'eau,0.86,0.97
+fr,water,eau,L'eau,0.86,0.97
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,education,éducation,L'éducation,0.95,0.99
+fr,water,eau,L'eau,0.86,0.97
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,education,éducation,L'éducation,0.95,0.99
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,water,eau,L'eau,0.86,0.97
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,education,éducation,L'éducation,0.95,0.99
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,education,éducation,L'éducation,0.95,0.99
+fr,water,eau,L'eau,0.86,0.97
+fr,education,éducation,L'éducation,0.95,0.99
+fr,water,eau,L'eau,0.86,0.97
+fr,education,éducation,L'éducation,0.95,0.99
+fr,water,eau,L'eau,0.86,0.97
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,education,éducation,L'éducation,0.95,0.99
+fr,aquaculture  agriculturefisheries  agriculture,"Aquaculture – Agriculture, Pêche – Agriculture","Aquaculture - Agriculture, Pêche - Agriculture",0.98,1.00
+fr,education,éducation,L'éducation,0.95,0.99
+fr,water,eau,L'eau,0.86,0.97
+fr,education,éducation,L'éducation,0.95,0.99
+fr,water,eau,L'eau,0.86,0.97
+fr,education,éducation,L'éducation,0.95,0.99
+fr,water,eau,L'eau,0.86,0.97
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,water,eau,L'eau,0.86,0.97
+fr,water,eau,L'eau,0.86,0.97
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,water,eau,L'eau,0.86,0.97
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,water,eau,L'eau,0.86,0.97
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,water,eau,L'eau,0.86,0.97
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,water,eau,L'eau,0.86,0.97
+fr,education,éducation,L'éducation,0.95,0.99
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,education,éducation,L'éducation,0.95,0.99
+fr,water,eau,L'eau,0.86,0.97
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,education,éducation,L'éducation,0.95,0.99
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,education,éducation,L'éducation,0.95,0.99
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,water,eau,L'eau,0.86,0.97
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,water,eau,L'eau,0.86,0.97
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,wellbeing,bien‑être,Bien-être,0.94,0.93
+fr,ecosystems diversity,Biodiversité des écosystèmes,Diversité des écosystèmes,0.94,0.92
+fr,community  sense of,sentiment de communauté,Communauté (sens de),0.49,0.81
+fr,provisioning services,services de provisionnement,Services d'approvisionnement,0.93,0.83
+fr,education,éducation,L'éducation,0.95,0.99
+fr,sacred sites,sites sacrés,Lieux sacrés,0.75,0.85
+fr,indigenous knowledge,connaissance autochtone,Savoirs autochtones,0.62,0.64
+fr,plant diseases,maladies végétales,Maladies des plantes,0.58,0.85
+fr,carcinogens,carcinogènes,Cancérogènes,0.75,0.68
+fr,seismic,séismique,Sismique,0.94,0.99
+fr,other geohazard,Autre danger géologique,Autres géorisques,0.65,0.55
+fr,convectiverelated,convectif,Liées à la convection,0.53,0.40
+fr,waterrelated,liés à l'eau,L'eau,0.53,0.97
+fr,particlerelated,relatif aux particules,Liées aux particules,0.76,0.98
+fr,marinerelated,marin,En rapport avec la mer,0.15,0.57
+fr,precipitationrelated,précipitation,Liées aux précipitations,0.70,0.90
+fr,temperaturerelated,température,Liées à la température,0.67,0.95
+fr,wind  pressurerelated,vent et pression,Liées au vent et à la pression,0.70,0.95
+fr,behavioural,comportemental,Comportementale,0.97,0.52
+fr,radiation,radiation,Rayonnement,0.40,0.90
+fr,constructionstructural failure,défaillance structurelle,Défaillance de la construction/des structures,0.62,0.85
+fr,cyber hazards,cyberrisque,Risques cybernétiques,0.38,0.87
+fr,industrial failure,défaillance industrielle,Échec industriel,0.70,0.75
+fr,waste,déchet,Déchets,0.92,0.88
+fr,other biological hazards,Autres dangers biologiques,Autres risques biologiques,0.81,0.96
+fr,harmful algal blooms,Floraison d'algues toxiques,Efflorescences algales nuisibles,0.55,0.62
+fr,locust upsurge,épidémie de sauterelles,La recrudescence acridienne,0.24,0.24
+fr,humanwildlife conflict,Conflit homme-faune,Conflits entre l'homme et la faune,0.71,0.81
+fr,suicide cluster,cluster de suicides,Grappe de suicides,0.70,0.86
+fr,bacterial plant disease,Maladie phytopathogène bactérienne,Maladie bactérienne des plantes,0.58,0.75
+fr,fungal plant disease,Maladie phytopathologique fongique,Maladie fongique des plantes,0.52,0.57
+fr,anthrax,charbon,Anthrax,0.29,0.27
+fr,airborne diseases,Maladies aéroportées,Maladies transmises par l'air,0.50,0.81
+fr,bloodborne viruses,virus transmissibles par le sang,Virus à diffusion hématogène,0.47,0.88
+fr,waterborne diseases,maladies transmissibles par l'eau,Maladies transmises par l'eau,0.93,0.89
+fr,foodborne diseases,Maladies liées aux aliments,Maladies d'origine alimentaire,0.68,0.92
+fr,vectorborne diseases vbd,maladies transmises par vecteurs,Maladies à transmission vectorielle (MVC),0.68,0.73
+fr,zoonotic diseases,Maladies zooniques,Maladies zoonotiques,0.95,0.98
+fr,prion diseases,maladies des prions,Maladies à prions,0.89,0.85
+fr,hiv and aids,VIH/sida,VIH et sida,0.78,0.90
+fr,covid19 sarscov2,COVID-19,COVID-19 (SARS-CoV-2),0.61,0.83
+fr,escherichia coli stec,Escherichia coli producteurs de Shiga,Escherichia Coli (STEC),0.66,0.57
+fr,avian influenza,Influenza aviaire,Grippe aviaire,0.65,0.87
+fr,leptospirosis,léptosporose,Leptospirose,0.92,0.57
+fr,leprosy,leprose,Lèpre,0.83,0.46
+fr,diphtheria,diphthérie,Diphtérie,0.95,0.74
+fr,meningococcal meningitis,Meningite meningococcique,Méningite à méningocoques,0.88,0.41
+fr,pertussis human,la coqueluche,Coqueluche (humaine),0.65,0.69
+fr,malaria,Paludisme,Malaria,0.38,0.36
+fr,brucellosis,la brucellose,Brucellose,0.87,0.64
+fr,footandmouth disease,maladie de la morsure et de la gueule,Fièvre aphteuse,0.35,0.62
+fr,lumpy skin disease,maladie de la peau en nodules,Maladie de la peau grumeleuse,0.79,0.86
+fr,african swine fever,Fievre porcine africaine,Peste porcine africaine,0.85,0.92
+fr,classical swine fever,Fièvre porcine classique,Peste porcine classique,0.85,0.89
+fr,rinderpest,rinderpest,Peste bovine,0.36,0.39
+fr,oyster disease aquaculture,Maladie des huîtres en aquaculture,Maladie de l'huître Aquaculture,0.91,0.93
+fr,ammonia,ammoniaque,Ammoniac,0.78,0.96
+fr,household air pollution,Pollution de l'air domestique,Pollution de l'air dans les ménages,0.71,0.96
+fr,land degradation,dégradation des terres,Dégradation des sols,0.81,0.89
+fr,salinity  sodicity,salinité et sodité,Salinité &amp ; Sodicité,0.80,0.80
+fr,forest disturbances,Troubles des forêts,Perturbations forestières,0.50,0.90
+fr,loss of mangroves,perte des mangroves,Perte de mangroves,0.97,0.99
+fr,wetland lossdegradation,Perte et dégradation des zones humides,Perte/dégradation des zones humides,0.94,0.92
+fr,coral bleaching,Blanchissement des coraux,Blanchiment du corail,0.78,0.95
+fr,compressive soils,sols compressibles,Sols compressifs,0.88,0.74
+fr,permafrost loss,perte du pergélisol,Perte de pergélisol,0.95,0.88
+fr,sand mining,extraction de sable,Exploitation du sable,0.80,0.74
+fr,sea level rise,élévation du niveau de la mer,L'élévation du niveau de la mer,0.98,0.97
+fr,eutrophication,L'eutrophisation,Eutrophisation,0.97,0.93
+fr,deforestation,déforestation,La déforestation,0.90,0.99
+fr,forest invasive species,Espèces invasives forestières,Espèces forestières envahissantes,0.61,0.96
+fr,wildfires,feux de forêts,Incendies de forêt,0.62,0.99
+fr,airburst,explosion aérienne,Airburst,0.08,0.82
+fr,geomagnetic disturbance,Troubles géomagnétiques,Perturbations géomagnétiques,0.75,0.93
+fr,ultraviolet radiation,Irradiation ultraviolette,Ultraviolet Radiation,0.52,0.88
+fr,meteorite impact,impact météoritique,Impact des météorites,0.80,0.82
+fr,ionospheric disturbances,Troubles ionosphériques,Perturbations ionosphériques,0.75,0.79
+fr,space hazard  accident,Danger spatial / Accident,Risque spatial / Accident,0.79,0.97
+fr,nearearth object,Objet proche de la Terre,Objet géocroiseur,0.49,0.55
+fr,earthquake,Séisme,Tremblement de terre,0.23,0.34
+fr,pyroclastic density current,Courant pyroclastique de densité,Courant de densité pyroclastique,0.66,0.98
+fr,shrinkswell subsidence,Subsidence par retrait‑gonflement,Affaissement par retrait-gonflement,0.78,0.78
+fr,sinkhole,sinkhole,Trou d'épingle,0.38,0.42
+fr,sand encroachment,avancée du sable,Empiétement de sable,0.50,0.96
+fr,downburst,Turbulence descendant,Déclenchement,0.47,0.27
+fr,lightning electrical storm,éclair,Foudre (orage électrique),0.21,0.66
+fr,coastal flooding,inondation côtière,Inondations côtières,0.95,0.98
+fr,estuarine coastal flooding,inondation estuarienne,Inondations estuariennes (côtières),0.80,0.97
+fr,flash flooding,inondation Flash,Inondations soudaines,0.70,0.79
+fr,fluvial riverine flooding,inondation fluviale,Inondations fluviales (riveraines),0.75,0.90
+fr,groundwater flooding,Inondation des eaux souterraines,Inondations des eaux souterraines,0.98,0.99
+fr,ponding drainage flooding,inondation par stagnation,Étang (drainage) Inondation,0.40,0.72
+fr,snowmelt flooding,inondations par fonte des neiges,Inondations dues à la fonte des neiges,0.86,0.89
+fr,surface water flooding,Inondation par eaux de surface,Inondations des eaux de surface,0.89,0.98
+fr,fog,brume,Brouillard,0.40,0.46
+fr,haze,brume,Haze,0.22,0.48
+fr,sand haze,brouillard de sable,Brume de sable,0.73,0.97
+fr,rogue wave,vague de type rogue,Rogue Wave,0.34,0.65
+fr,sea ice icebergs,glace marine,Glace de mer (Icebergs),0.61,0.88
+fr,ice flow,écoulement de la glace,L'écoulement de la glace,0.98,0.97
+fr,seiche,séiche,Chêne,0.55,0.91
+fr,storm surge,maraude,L'onde de tempête,0.17,0.31
+fr,storm tides,marée de tempête,Marées de tempête,0.97,0.93
+fr,extratropical cyclone,cyclone ex-tropical,Cyclone extra-tropical,0.92,0.90
+fr,acid rain,pluie acide,Pluies acides,0.92,0.53
+fr,cold wave,fronde de froid,Vague de froid,0.69,0.96
+fr,dzud,droux hivernale,Dzud,0.21,0.53
+fr,frost hoar frost,givre,Givre (Givre blanc),0.45,0.63
+fr,glaze,verre,Glacis,0.00,0.85
+fr,ground frost,Givre au sol,Gel du sol,0.73,0.62
+fr,icing including ice,glaçage,Glaçage (y compris la glace),0.42,0.86
+fr,thaw,décongeler,Dégel,0.67,0.62
+fr,avalanche,glissade,Avalanche,0.35,0.42
+fr,derecho,Lignes de grondards renforcées,Droit,0.17,0.44
+fr,gale strong gale,gale,Gale (Strong Gale),0.40,0.65
+fr,tornado,tornado,Tornade,0.86,0.98
+fr,civil unrest,désordre civil,Troubles civils,0.55,0.73
+fr,explosive ordnance,matériels explosifs,Munitions explosives,0.67,0.86
+fr,radioactive agents  material,Agents et matériau radioactifs,Agents radioactifs &amp ; Matériel,0.58,0.88
+fr,building collapse,Effondrement du bâtiment,Effondrement d'un bâtiment,0.98,0.99
+fr,building highrise cladding,bardage d'immeuble de grande hauteur,"Bâtiment, gratte-ciel, revêtement",0.37,0.47
+fr,bridge failure,défaillance du pont,Rupture de pont,0.47,0.94
+fr,dam failure,défaillance de barrage,Rupture de barrage,0.60,0.89
+fr,supply chain failure,Avarie de la chaîne d'approvisionnement,Défaillance de la chaîne d'approvisionnement,0.86,0.84
+fr,critical infrastructure failure,Échec des infrastructures critiques,Défaillance des infrastructures critiques,0.87,0.88
+fr,nuclear plant failure,défaillance de centrale nucléaire,Défaillance d'une centrale nucléaire,0.97,0.99
+fr,water supply failure,défaillance d'approvisionnement en eau,Défaillance de l'approvisionnement en eau,0.96,1.00
+fr,malware,logiciel malveillant,Logiciels malveillants,0.95,0.44
+fr,cyberbullying,cyberharcelement,Cyberintimidation,0.42,0.81
+fr,natech,Accidents technologiques induits par les risques naturels,Natech,0.16,0.22
+fr,mining hazards,Risques des mines,Risques miniers,0.81,0.83
+fr,electronic waste ewaste,déchets électroniques,Déchets électroniques (E-Waste),0.86,0.93
+fr,healthcare waste,déchets médicaux,Déchets de soins de santé,0.54,0.66
+fr,landfilling,décharge,Mise en décharge,0.67,0.92
+fr,tailings,déchets miniers,Résidus,0.18,0.42
+fr,marine debris,Déchets marins,Débris marins,0.74,0.88
+fr,reservoir flooding,inondation du réservoir,Inondations des réservoirs,0.90,0.98
+fr,air transportation accident,accident d'aviation,Accident de transport aérien,0.57,0.94
+fr,road traffic accident,accident de la circulation routière,Accident de la route,0.73,0.95
+fr,flooding,inondation,Inondations,0.95,0.97
+fr,marine heatwave,Marée chaude marine,Canicule marine,0.65,0.68
+fr,supply chain attack,attaque de chaîne d'approvisionnement,Attaque de la chaîne d'approvisionnement,0.96,0.91
+fr,social engineering  phishing,ingénierie sociale - phishing,Ingénierie sociale - Hameçonnage,0.78,0.78
+fr,tunnel failure,Défaillance des tunnels,Rupture de tunnel,0.55,0.93
+fr,biological,biologique,Biologie,0.89,0.94
+fr,chemical,substance chimique,Chimique,0.62,0.56
+fr,environmental,environnemental,Environnement,0.93,0.64
+fr,meteorological and hydrological,météorologique et hydrologique,Météorologie et hydrologie,0.93,0.68
+fr,provisioning services,services de provisionnement,Services d'approvisionnement,0.93,0.83
+fr,one health,Santé unique,Une santé,0.48,0.53
+fr,from ground water,à partir d'eau souterraine,A partir des eaux souterraines,0.91,0.96
+fr,culture livelihoods,subsistance culturelle,Culture Moyens de subsistance,0.43,0.88
+fr,coal generation,production d'électricité au charbon,Production de charbon,0.76,0.86
+fr,others nonformal education,Autres – Éducation non formelle,Autres -Éducation non formelle,0.97,0.96
+fr,crosscutting,transversal,Transversale,0.96,0.80
+fr,water,eau,L'eau,0.86,0.97
+fr,renewable,Renouvelable,Renouvelables,0.96,0.95
+fr,commerce livelihoods,Subsistances commerciales,Moyens de subsistance du commerce,0.69,0.82
+fr,sea and coastal,Marine et littoral,Mer et littoral,0.85,0.82
+fr,collective living quarters,logements collectifs,Locaux d'habitation collectifs,0.57,0.92
+fr,othernon categorized,Autre - non catégorisé,Autres - non catégorisés,0.95,0.66
+fr,large scale sanitation,assainissement à grande échelle,Large scale sanitation,0.26,0.72
+fr,railway passenger transport,transport ferroviaire de voyageurs,transport ferroviaire de passagers,0.88,0.99
+fr,employees,employés,Salariés,0.38,0.77
+fr,urban sewage system,système d'égouts urbains,Système d'assainissement urbain,0.68,0.75
+fr,conventional dwellings,habitation conventionnelle,Logements conventionnels,0.60,0.45
+fr,other telecommunications activities,Autres activités de télécommunication,Autres activités de télécommunications,0.99,1.00
+fr,natural sites,site naturel,Sites naturels,0.92,0.97
+fr,warehousing and storage,magasinage et stockage,Entreposage et stockage,0.71,0.83
+fr,employment activities,Activités d’emploi,Activités liées à l'emploi,0.74,0.97
+fr,nutrition,Nutrition,La nutrition,0.86,0.97
+fr,selfemployed,travailleur indépendant,Indépendants,0.63,0.45
+fr,genderbased violence,violence fondée sur le genre,Violence fondée sur le sexe,0.91,0.96
+fr,other retail trade,autre commerce de détail,Autres commerces de détail,0.96,0.96
+fr,other wholesade trade,Autre commerce de gros,Autres commerces de gros,0.96,0.90
+fr,cultural sites,site culturel,Sites culturels,0.93,0.97
+fr,from reclaimed,Récupéré,De Reclaimed,0.40,0.84
+fr,gender inequalities,inégalités de genre,Inégalités entre les hommes et les femmes,0.50,0.85
+fr,construction,construction,La construction,0.89,0.97
+fr,logging,journalisation,Enregistrement,0.36,0.52
+fr,industry,Industrie,L'industrie,0.95,0.95
+fr,from rainwater harvested,eau pluviale récoltée,A partir de l'eau de pluie récoltée,0.65,0.92
+fr,coal distribution,distribution de charbon,Distribution du charbon,0.96,0.99
+fr,repositories of heritage,Dépôt de patrimoine,Dépôts du patrimoine,0.92,0.99
+fr,health information systems,systèmes d'information de santé,Systèmes d'information sur la santé,0.88,0.90
+fr,land transportation,Transport routier,Transports terrestres,0.68,0.75
+fr,connective infrastructure,infrastructure de connectivité,Infrastructure de connexion,0.84,0.94
+fr,publishing,Publication,Édition,0.56,0.80
+fr,road passenger transport,transport routier de passagers,Transport routier de voyageurs,0.87,0.96
+fr,wholesale travel agencies,agences de voyages en gros,Agences de voyage en gros,0.98,0.97
+fr,piped water distribution,réseau de distribution d'eau,Distribution d'eau par canalisation,0.56,0.76
+fr,permanent perennial crops,Cultures permanentes vivaces,Cultures permanentes et pérennes,0.77,0.95
+fr,marine fishing,pêche maritime,Pêche en mer,0.62,0.90
+fr,community infrastructure,infrastructure communautaire,Infrastructures communautaires,0.97,0.98
+fr,regulating services,Services de régulation,Réglementation des services,0.33,0.73
+fr,extraultrahigh voltage,haute tension,Extra/ultra/haute tension,0.72,0.82
+fr,other manufacturing,Autre fabrication,Autres activités manufacturières,0.41,0.83
+fr,online travel agencies,agence de voyage en ligne,Agences de voyage en ligne,0.98,0.98
+fr,other land transport,Autre transport terrestre,Autres transports terrestres,0.94,0.99
+fr,traditional knowledge,connaissance traditionnelle,"les connaissances traditionnelles,",0.90,0.98
+fr,upper chambersenate,Sénat,Chambre haute/Sénat,0.43,0.28
+fr,care livelihoods,revenus du travail de soins,Soins aux moyens de subsistance,0.34,0.59
+fr,communicable diseases programs,Programmes de maladies transmissibles,Programmes de lutte contre les maladies transmissibles,0.81,0.94
+fr,forestry and logging,foresterie et exploitation forestière,Sylviculture et exploitation forestière,0.76,0.86
+fr,pension funding,financement des régimes de retraite,Financement des pensions,0.64,0.94
+fr,agricultural land,terre agricole,Terres agricoles,0.93,0.98
+fr,1primary education,Enseignement primaire,1-Enseignement primaire,0.98,0.74
+fr,water transportation,transport maritime,Transport par voie d'eau,0.68,0.75
+fr,regional  decentralized administration,Administration régionale décentralisée,Administration régionale - décentralisée,0.99,1.00
+fr,electricity storage,stockage d'électricité,Stockage de l'électricité,0.93,0.96
+fr,disaster recovery,Récupération après sinistre,Reprise après sinistre,0.78,0.89
+fr,0early childhood,0–Petite enfance,0-Petite enfance,0.97,0.99
+fr,tour operators,organisateur de voyages,Tour-opérateurs,0.43,0.78
+fr,other water transportation,Autres transports maritimes,Autres transports par eau,0.81,0.74
+fr,agriculture,l'agriculture,Agriculture,0.96,0.99
+fr,electricity,électricité,L'électricité,0.96,1.00
+fr,other specialized wholesale,Autre commerce de gros spécialisé,Autres commerces de gros spécialisés,0.96,0.95
+fr,manufacturing,manufacture,Fabrication,0.36,0.71
+fr,retail travel agencies,agences de voyage de détail,Agences de voyage au détail,0.93,0.98
+fr,silviculture,silviculture,Sylviculture,0.92,0.66
+fr,protective infrastructure,infrastructure de protection,Infrastructures de protection,0.98,0.99
+fr,psychological abuse,abus psychologique,Abus psychologiques,0.97,0.89
+fr,supporting services,services de support,Services d'appui,0.71,0.97
+fr,water sources generation,Génération des sources d'eau,Sources d'eau - production,0.47,0.78
+fr,commnications community lifelines,Lignes de vie communautaires de communication,Communications - lignes de vie communautaires,0.63,0.99
+fr,species,espèce,Espèces,0.92,0.82
+fr,4 post secondary,postsecondaire,4- Post-secondaire,0.93,0.74
+fr,service livelihoods,Service de moyens de subsistance,Moyens de subsistance liés aux services,0.59,0.92
+fr,others lifelong learning,Autres - apprentissage tout au long de la vie,Autres - éducation et formation tout au long de la vie,0.72,0.88
+fr,mining and quarrying,extraction minière et carrières,Mines et carrières,0.69,0.89
+fr,communitybased,basé sur la communauté,communautaire,0.57,0.88
+fr,wired telecommunication activities,activités de télécommunication filaire,"Activités de télécommunications filaires,",0.97,0.90
+fr,tangible cultural heritage,Patrimoine culturel tangible,Patrimoine culturel matériel,0.82,0.93
+fr,noncommunicable diseases programs,Programmes de maladies non transmissibles,Programmes de lutte contre les maladies non transmissibles,0.83,0.96
+fr,primary education,éducation primaire,Enseignement primaire,0.56,0.90
+fr,from soil water,eau du sol,De l'eau du sol,0.83,0.98
+fr,hunting and trapping,chasse et capture,Chasse et piégeage,0.69,0.67
+fr,road transport infrastructure,infrastructure de transport routier,Infrastructures de transport routier,0.99,0.99
+fr,freight air transport,transport aérien de fret,Transport aérien de marchandises,0.79,0.91
+fr,oil strorage,stockage de pétrole,Stockage du pétrole,0.95,0.97
+fr,disaster risk management,Gestion des risques liés aux catastrophes,Gestion des risques de catastrophes,0.89,0.99
+fr,cultural practices,pratiques culturelles,les pratiques culturelles,0.91,1.00
+fr,natural gas upstream,gaz naturel – exploration et production,Gaz naturel - en amont,0.60,0.89
+fr,temporary  annual crops,Cultures temporaires annuelles,Temporaire - cultures annuelles,0.70,0.96
+fr,gas distribution,réseau de distribution de gaz,Distribution du gaz,0.75,0.85
+fr,oil refinery,raffinerie pétrolière,Raffinerie de pétrole,0.86,0.96
+fr,housing units,unités d'habitation,Unités de logement,0.50,0.99
+fr,agriculture livelihoods,moyens de subsistance agricole,Moyens de subsistance agricoles,0.98,0.96
+fr,industry livelihoods,emploi industriel,Moyens de subsistance dans l'industrie,0.41,0.55
+fr,other housing units,Autres unités d'habitation,Autres unités de logement,0.64,0.99
+fr,freshwater fishing,pêche d'eau douce,Pêche en eau douce,0.88,0.96
+fr,consumable fuels,Carburants consommables,Combustibles consommables,0.75,0.87
+fr,land  including soils,terres,Terres (y compris les sols),0.39,0.61
+fr,water distribution,réseau de distribution d'eau,Distribution de l'eau,0.72,0.83
+fr,oil manufacture upstream,exploitation pétrolière,Fabrication de pétrole/en amont,0.57,0.81
+fr,education,éducation,L'éducation,0.95,0.99
+fr,harmful traditional practices,pratiques traditionnelles nuisibles,Pratiques traditionnelles néfastes,0.87,0.76
+es,medium,Medio,Intermedio,0.67,0.61
+es,flood,inundación,Inundar,0.71,0.52
+es,wildfire,incendio forestal,Inundación,0.44,0.31
+es,hurricane,huracán,Ciclón,0.31,0.33
+es,mission introduction,Introducción de misión,Introducción a la misión,0.87,0.99
+es,advisor,Consejero,TUTOR,0.29,0.75
+es,fact,hecho,Esencial,0.31,0.83
+es,key facts,Datos clave,Esenciales,0.19,0.48
+es,evacuating,evacuación,Evacuar,0.71,0.96
+es,hospitals,hospital,Hospitales,0.89,0.95
+es,start disaster,inicio del desastre,Comienza el desastre,0.72,0.99
+es,show risk,Mostrar riesgo,Riesgo,0.60,0.31
+es,stop disasters,Stop Disasters,Detengan los desastres,0.50,0.95
+es,select a scenario,Seleccionar un escenario,Escoger un sitio,0.50,0.46
+es,south east asia,Sudeste asiático,Asia Suroriental,0.31,0.94
+es,coastal village,pueblo costero,Aldea costera,0.59,0.73
+es,lowland hills,Colinas de baja altitud,Colinas de zonas bajas,0.67,0.77
+es,easterncentral europe,Europa central y oriental,Europa Central/Oriental,0.94,0.93
+es,valley flood plains,llanuras inundables del valle,Llanuras anegables,0.64,0.35
+es,central australia,Australia central,Centro de Australia,0.50,0.95
+es,arid plains,Planicies áridas,Llanuras áridas,0.71,0.90
+es,the caribbean,El Caribe,América Central,0.33,0.60
+es,caribbean island,isla del Caribe,Islas del Caribe,0.97,0.97
+es,daily news post,Publicación diaria de noticias,El Heraldo de Barataria,0.34,0.54
+es,view scene,Vista de escena,Ver la escena,0.64,0.93
+es,view report,Ver informe,Ver el informe,0.88,0.86
+es,housing and development,Vivienda y desarrollo,Viviendas y repartos,0.73,0.75
+es,population housed,Población alojada,Número de residentes en sus hogares,0.19,0.54
+es,population sheltered,Población resguardada,Número de albergados,0.29,0.41
+es,population died,Población fallecida,Número de muertos,0.11,0.76
+es,population injured,Población herida,Número de heridos,0.42,0.85
+es,missions,misiones,Misión,0.86,0.93
+es,school built,Escuela construida,{{SCHOOL}} construidas,0.78,0.62
+es,hospital built,hospital construido,{{HOSPITAL}} construidos,0.97,0.91
+es,key facts found,Datos clave encontrados,Datos esenciales encontrados,0.82,0.75
+es,budget remaining,Presupuesto restante,Saldo del presupuesto,0.54,0.80
+es,fail,Fallo,Suspenso,0.15,0.81
+es,pass,pasar,Aprobado,0.31,0.62
+es,well done,¡Bien hecho!,¡Bien!,0.62,0.96
+es,unlucky,desafortunado,¡No tuvo suerte!,0.21,0.69
+es,try again,Reintentar,Ensaye de nuevo,0.24,0.69
+es,continue,continue,Continuar,0.82,0.98
+es,development defences,Desarrollo de defensas,Desarrollo: Defensas,0.93,0.93
+es,development structures,Estructuras de desarrollo,Desarrollo: Estructuras,0.47,0.96
+es,clearance  preparation,Preparación de datos,Despeje y preparación,0.54,0.63
+es,total cost,Costo total,Coste total,0.91,1.00
+es,item,elemento,Artículo,0.25,0.55
+es,items,elementos,Artículos,0.33,0.57
+es,cancel,cancelar,Anular,0.71,0.67
+es,score,score,Cómputo,0.33,0.45
+es,remaining,Restante,Permanente,0.56,0.73
+es,housing,Vivienda,Viviendas,0.94,0.93
+es,defences,defensas,Barreras,0.38,0.53
+es,unhoused,sin techo,Zona no edificada,0.15,0.47
+es,housed,albergado,Zona edificada,0.35,0.61
+es,sheltered,protegido,Albergado,0.44,0.63
+es,show risk,Mostrar riesgo,RIESGO DE MUESTRA,0.39,0.29
+es,start disaster,inicio del desastre,COMENZAR DESASTRE,0.56,0.49
+es,confirm,confirmación,CONFIRMAR,0.76,0.68
+es,housing goal,objetivo de vivienda,Objetivo de viviendas,0.98,0.99
+es,build,construcción,Construir,0.76,0.88
+es,number school,{{NUMBER}} escuela,{{NUMBER}} {{SCHOOL}},0.74,0.93
+es,build,construcción,Construir,0.76,0.88
+es,max fatalities,máximo de víctimas,Fatalidades máximas,0.38,0.79
+es,play game,jugar un juego,Inicio del juego,0.47,0.75
+es,game developed by,Desarrollado por,Juego desarrollado por,0.84,0.56
+es,the top bar,Barra superior,La barra superior,0.90,0.65
+es,the information panel,Panel de información,El cuadro de información,0.77,0.67
+es,the main screen,pantalla principal,La pantalla principal,0.92,0.98
+es,1 week course,Curso de una semana,1 curso a la semana,0.79,0.95
+es,stop disasters,Stop Disasters,Alto a los desastres,0.59,0.84
+es,2 week course,Curso de dos semanas,Curso de 2 semanas,0.89,0.99
+es,foundations,Fundamentos,Cimientos,0.60,0.59
+es,building reinforcement,refuerzo de edificio,Refuerzo del edificio,0.98,0.87
+es,evacuation training,Entrenamiento de evacuación,Ejercicio de evacuación,0.72,0.88
+es,radio system,sistema radio,Sistema de radio,0.90,0.99
+es,protect electrics,Protección eléctrica,Proteja las instalaciones eléctricas,0.68,0.92
+es,secure fittings,acoplamientos seguros,Sujete los accesorios,0.38,0.48
+es,retrofit the building,retrofit del edificio,Remodelación del edificio,0.74,0.83
+es,anchor heavy item,elemento de anclaje pesado,Sujetar los objetos pesados,0.45,0.77
+es,raised building,edificio elevado,Construcciones sobreelevadas,0.45,0.74
+es,asphalt roof,techo de asfalto,...,0.00,0.23
+es,clay roof,techo de arcilla,...,0.00,0.33
+es,metal roof,tejado metálico,Techo metálico,0.83,0.68
+es,roof sprinkler,rociador de techo,Aspersor de tejado,0.57,0.88
+es,metal shutters,persianas metálicas,Postigos metálicos,0.70,0.88
+es,plywood shutters,persianas de contrachapado,...,0.00,0.24
+es,glass shutters,persianas de vidrio,...,0.00,0.22
+es,wire shutters,persianas de alambre,...,0.00,0.21
+es,building reinforcements,refuerzos estructurales,Refuerzo del edificio,0.50,0.56
+es,water tank protection,Protección de tanques de agua,Proteger los depósitos de agua,0.64,0.89
+es,remove fuel sources,Supresión de fuentes de combustible,Elimine las materias combustibles,0.59,0.90
+es,water source upgrade,Mejora de la fuente de agua,Remozar la fuente de agua,0.81,0.90
+es,secure roofing,techo seguro,Techos seguros,0.92,0.54
+es,sewer backflow,inversión de alcantarillado,Reflujo de las canalizaciones sanitarias,0.45,0.39
+es,storm shutters,persiana de protección contra tormentas,Postigos de tormenta,0.51,0.68
+es,waterproof sealant,sellador impermeable,Sellado de estanquidad,0.48,0.42
+es,ocean waves,olas oceánicas,Las olas del mar,0.47,0.97
+es,shallow water,agua poco profunda,Aguas poco profundas,0.95,0.96
+es,rock,roca,Rocas,0.89,0.54
+es,light mud,lodo ligero,Barro ligero,0.70,0.59
+es,light mud,lodo ligero,Barro ligero,0.70,0.59
+es,mud,lodo,Barro,0.22,0.69
+es,mud,lodo,Barro,0.22,0.69
+es,flood,inundación,Inundar,0.71,0.52
+es,flood,inundación,Inundar,0.71,0.52
+es,arid ground,suelo árido,Terreno árido,0.67,0.94
+es,burnt land,zona quemada,Tierra quemada,0.69,0.85
+es,expensive clearance costs,costos de despacho aduanero elevados,Encarecen la limpieza y preparación del terreno.,0.22,0.07
+es,earthquake strikes,Sismo,¡Tiembla la tierra!,0.17,0.56
+es,wood hut,cabaña de madera,Choza de madera,0.77,0.87
+es,brick cottage,casa de ladrillos,Una cabaña de ladrillo,0.77,0.81
+es,old house,Casa antigua,Una casa antigua,0.86,0.98
+es,old town house,Casa de la ciudad vieja,Vieja Casa de Pueblo,0.42,0.89
+es,old terraced house,casa adosada antigua,Vieja Cerca de Terraza,0.19,0.66
+es,large house,casa de gran tamaño,Casa grande,0.60,0.78
+es,modern housing,Vivienda moderna,Casas modernas,0.60,0.74
+es,pylon,pylón,Torre de conducción eléctrica,0.12,0.05
+es,commercial block,Bloque comercial,Zona comercial,0.73,0.78
+es,power station,central eléctrica,Generador,0.38,0.49
+es,tsunami strikes,¡Tsunami ataca!,¡Ha habido un tsunami!,0.46,0.58
+es,shrubs,Arbusto,Arbustos,0.93,0.87
+es,logs,registros,Troncos,0.50,0.45
+es,sand dunes,dunas de arena,Dunas,0.53,0.50
+es,large rocks,rocas de gran tamaño,Rocas voluminosas,0.49,0.67
+es,bamboo hut,cabaña de bambú,Choza de bambú,0.76,0.90
+es,hotel cabins,cabaña de hotel,Cabañas de hotel,0.97,0.93
+es,boat,barco,Bote,0.44,0.88
+es,debris,detritos,Escombros,0.47,0.65
+es,debris,detritos,Escombros,0.47,0.65
+es,breakwater,molo,Rompeolas,0.46,0.60
+es,flash floods,inundaciones repentinas,¡Inundación repentina!,0.91,0.95
+es,wood hut,cabaña de madera,Choza de madera,0.77,0.87
+es,brick cottage,casa de ladrillos,Una cabaña de ladrillo,0.77,0.81
+es,pylon,pylón,Torre de conducción eléctrica,0.12,0.05
+es,commercial block,Bloque comercial,Zona comercial,0.73,0.78
+es,power station,central eléctrica,Generador,0.38,0.49
+es,stabilized slope,pendiente estabilizada,Una pendiente estabilizada,0.92,0.95
+es,earth levee,dique,Dique de tierra,0.50,0.79
+es,rock dyke,dique,Dique de piedra,0.50,0.65
+es,1 meter wall,Pared de un metro,Muro de 1 metros,0.67,0.36
+es,3 meter wall,Pared de 3 metros,Muro de 3 metros,0.79,0.71
+es,wildfire strikes,Incendio forestal,¡Se desatan incendios forestales!,0.69,0.93
+es,4 bedroom house,Casa de cuatro dormitorios,Casa de 4 dormitorios,0.85,0.99
+es,3 bedroom house,casa de 3 habitaciones,Casa de 3 dormitorios,0.70,0.97
+es,6 bedroom house,casa de seis dormitorios,Casa de 6 dormitorios,0.89,0.99
+es,water tower,torre de agua,Arca de agua,0.72,0.75
+es,firebreaks,trinchero,Cortafuegos,0.30,0.69
+es,dry bushes,arbustos secos,Arbusto seco,0.92,0.95
+es,hurricane strikes,Ataque de huracán,¡Pasó el huracán!,0.61,0.82
+es,banana trees,bananero,Plataneras,0.56,0.41
+es,minimal clearance costs,costos de despacho aduanero mínimos,Se puede despejar el terreno a un costo mínimo.,0.57,0.46
+es,logs,registros,Troncos,0.50,0.45
+es,shrubs,Arbusto,Arbustos,0.93,0.87
+es,sand dune,duna de arena,Dunas,0.44,0.57
+es,an empty pier,muelle vacío,Un muelle vacío.,0.89,0.88
+es,sea port,puerto marítimo,Puerto de mar,0.71,0.74
+es,small hut,pequeña choza,Cabaña pequeña,0.52,0.78
+es,large hut,Gran choza,Cabaña grande,0.35,0.69
+es,brick cottage,casa de ladrillos,Una cabaña de ladrillo,0.77,0.81
+es,oil drum,bidón,Barriles de petróleo,0.32,0.30
+es,telephone pole,Pilar telefónico,Poste de teléfono,0.61,0.69
+es,seawall,muro costero,Barrera marina,0.23,0.58
+es,stop,STOP,DETENER,0.18,0.58
+es,disasters,desastres,LOS DESASTRES,0.82,0.90
+es,play,Juego,Jugar,0.60,0.63
+es,time,Tiempo,HORA,0.20,0.84
+es,time mins,minutos,{{TIME}} minutos,0.74,0.88
+es,share,parte,Compartir,0.57,0.62
+es,off,Apagado,APAGAR,0.77,0.80
+es,on,ON,ENCENDER,0.20,0.63
+es,language  currentlang,idioma,Idioma - {{CURRENTLANG}},0.48,0.45
+es,settings,Parámetros,Ajustes,0.35,0.75
+es,info,información,Info,0.53,0.95
+es,previous,previo,Anterior,0.43,0.88
+es,restart,reinicio,Reinicie,0.88,0.98
+es,home,domicilio,Inicio,0.53,0.55
+es,back,parte trasera,Atrás,0.56,0.81
+es,buy cost,Costo de compra,Comprar {{COST}},0.44,0.64
+es,add to cart,Añadir al carrito,Añadir a la cesta,0.71,0.73
+es,scroll up,desplazamiento hacia arriba,Scroll Up,0.11,0.53
+es,scroll down,Desplazar hacia abajo,Scroll Down,0.12,0.66
+es,demolish structure,demolición de estructura,Demoler la estructura,0.76,0.85
+es,develop defences,Desarrollo de defensas,Desarrollar defensas,0.86,0.86
+es,develop buildings,desarrollo de edificios,Desarrollar edificios,0.86,0.83
+es,upgrade buildings,modernización de edificios,Modernizar edificios,0.83,0.98
+es,repeat last purchase,Repetición de la última compra,Repetir última compra,0.78,0.97
+es,view tile information,Ver información de la tesela,Información sobre azulejos,0.63,0.65
+es,share via email,Compartir por correo electrónico,Compartir por e-mail,0.63,0.99
+es,get involved,Participar,Participa,0.95,0.94
+es,get your badge,Obtenga su insignia,Consigue tu insignia,0.62,0.93
+es,take survey,participar en una encuesta,Tomar la encuesta,0.65,0.90
+es,assets  road infrastructure,Activos - Infraestructuras viales,Activos - Infraestructura vial,0.95,0.90
+es,assets  equipments,Equipos,Activos - equipos,0.61,0.81
+es,assets  road infrastructure,Activos - Infraestructuras viales,Activos - Infraestructura vial,0.95,0.90
+es,assets  equipments,Equipos,Activos - equipos,0.61,0.81
+es,assets  road infrastructure,Activos - Infraestructuras viales,Activos - Infraestructura vial,0.95,0.90
+es,assets  road infrastructure,Activos - Infraestructuras viales,Activos - Infraestructura vial,0.95,0.90
+es,assets  road infrastructure,Activos - Infraestructuras viales,Activos - Infraestructura vial,0.95,0.90
+es,assets  road infrastructure,Activos - Infraestructuras viales,Activos - Infraestructura vial,0.95,0.90
+es,assets  equipments,Equipos,Activos - equipos,0.61,0.81
+es,assets  road infrastructure,Activos - Infraestructuras viales,Activos - Infraestructura vial,0.95,0.90
+es,assets  road infrastructure,Activos - Infraestructuras viales,Activos - Infraestructura vial,0.95,0.90
+es,assets  equipments,Equipos,Activos - equipos,0.61,0.81
+es,assets  equipments,Equipos,Activos - equipos,0.61,0.81
+es,handdug wells,pozo a mano,Pozos excavados a mano,0.67,0.49
+es,electricity transmission underground,Transmisión subterránea de electricidad,Transporte subterráneo de electricidad,0.86,0.94
+es,graders,calificador,Graders,0.33,0.56
+es,pipelines oil  oleduct,oleducto,Oleoductos - oleducto,0.57,0.85
+es,internal roads,camino interno,carreteras interiores,0.51,0.85
+es,intake structures,estructura de admisión,Estructuras de admisión,0.98,0.94
+es,grapefruit  pomelo,pomelo,Pomelo y toronja,0.55,0.85
+es,driling rigs offshore,plataforma de perforación offshore,Plataformas de perforación en alta mar,0.75,0.91
+es,cucumbers,pepino,Pepinos,0.92,0.94
+es,basic drainage lines,líneas de drenaje básicas,líneas básicas de drenaje,0.68,0.99
+es,specialized equipment,Equipo especializado,Equipos especializados,0.95,0.99
+es,vehicles  management,Gestión de vehículos,Vehículos - gestión,0.47,0.63
+es,generation plants,central eléctrica,Plantas de generación,0.32,0.33
+es,strawberries,fresa,Fresas,0.91,0.62
+es,deep tube wells,pozo tubular profundo,pozos tubulares profundos,0.91,0.93
+es,bulldozers,bulldozer,Bulldozers,0.95,0.94
+es,oil palms,palmera aceitera,Palmeras de aceite,0.82,0.74
+es,completion systems,Sistema de completado,Sistemas de terminación,0.59,0.84
+es,water reservoirs,reservorio de agua,depósitos de agua,0.63,0.91
+es,police stations,estaciones de policía,Comisarías de policía,0.71,0.89
+es,pipelines gas gaseoduct,gasoducto,Gasoductos gasoducto,0.62,0.96
+es,railcars,vagón,Vagones,0.83,0.43
+es,tv studios,estudio de televisión,Estudios de televisión,0.98,0.95
+es,community shops,tienda comunitaria,tiendas comunitarias,0.95,0.96
+es,lupins,lupino,Lupin,0.91,0.83
+es,mixing rooms,salas de mezcla,Salas de mezclas,0.97,0.91
+es,cloves,clavo de olor,Clavo,0.56,0.37
+es,drilling machinery,equipo de perforación,Maquinaria de perforación,0.78,0.89
+es,asparagus,espárrago,Espárragos,0.95,0.86
+es,conveyor system,sistema de transportador,Sistema transportador,0.93,0.99
+es,public toilets,inodoros públicos,Aseos públicos,0.71,0.70
+es,turnips,nabo,Nabos,0.89,0.75
+es,onions incl shallots,cebollas (incl. chalotas),Cebollas (incluidas las chalotas),0.83,0.97
+es,peaches  nectarines,Duraznos y nectarinas,Melocotones y nectarinas,0.67,0.96
+es,office space,espacio de oficina,Oficinas,0.54,0.87
+es,drill wells,perforación de pozos,Pozos de perforación,0.55,0.94
+es,pump jacks,jale,Gatos de bombeo,0.21,0.53
+es,plums and sloes,ciruelas y ciruelas del prunellier,Ciruelas y endrinas,0.53,0.88
+es,color grading labs,laboratorios de corrección de color,Laboratorios de gradación del color,0.86,0.92
+es,septic tanks,tanque séptico,Fosas sépticas,0.57,0.49
+es,coconuts,coco,Cocos,0.89,0.62
+es,tribunal facilities,instalaciones judiciales,Instalaciones del Tribunal,0.68,0.93
+es,crushing machinery,equipos de trituración,Maquinaria de trituración,0.77,0.78
+es,small embankments,dique pequeño,pequeños diques,0.50,0.93
+es,teacher training,Formación docente,Formación de profesores,0.70,0.93
+es,furniture,mobiliario,Muebles,0.35,0.48
+es,distribution warehouses,almacén de distribución,Almacenes de distribución,0.96,0.80
+es,community telephone centers,centro telefónico comunitario,centros telefónicos comunitarios,0.95,0.98
+es,conference facilities,instalaciones de conferencia,Salas de conferencias,0.82,0.91
+es,nutmeg mace cardamoms,"Nuez moscada, macre, cardamomo","Nuez moscada, macis, cardamomos",0.91,0.77
+es,biologics,productos biológicos,Biológicos,0.67,0.86
+es,boards,Placas de circuito impreso,Tableros,0.12,0.33
+es,boreholes,pozos de perforación,perforaciones,0.67,0.86
+es,student dorms,dormitorios universitarios,Residencias de estudiantes,0.31,0.64
+es,pathways,caminos,vías,0.36,0.94
+es,pile drivers,martillos de pilotes,Martillo pilón,0.76,0.33
+es,mine shafts,pozo de mina,Pozos mineros,0.64,0.60
+es,biogassifiers,digestores anaeróbicos,biogasificadores,0.26,0.58
+es,pigeno peas,guisante de pigeon,Pigeno peas,0.34,0.31
+es,yams,ignames,Ñames,0.83,0.56
+es,high school,escuela secundaria,Bachillerato,0.13,0.41
+es,leguminous crops nec,Cultivos leguminosos n.e.c.,Leguminosas n.c.o.p.,0.65,0.66
+es,printing presses,prensas de impresión,Imprentas,0.41,0.71
+es,market facilities,facilidades de mercado,Instalaciones del mercado,0.68,0.89
+es,technological equipment,Equipo tecnológico,Equipamiento tecnológico,0.86,0.94
+es,cinnamon canella,Canela,Canela (canella),0.60,0.88
+es,district hospital,hospital distrital,hospital de distrito,0.84,0.91
+es,equiments,equipo,Equiments,0.53,0.39
+es,historic buildings,edificio histórico,Edificios históricos,0.95,0.90
+es,other cereals nec,"Otros cereales, n.e.c.","Otros cereales, n.c.o.p.",0.92,0.98
+es,rainage structures,estructuras de drenaje pluvial,estructuras pluviales,0.75,0.86
+es,other nuts nec,Otros NUTS n.e.c.,Otros frutos de cáscara n.c.o.p.,0.57,0.74
+es,treatment facilities,instalaciones de tratamiento,Centros de tratamiento,0.76,0.91
+es,mate,jaque mate,Mate,0.57,0.78
+es,letrines,letri,Letrinas,0.77,0.61
+es,teachers housing,vivienda docente,Vivienda para profesores,0.60,0.79
+es,mechanized wells,pozo mecanizado,Pozos mecanizados,0.94,0.84
+es,health management system,sistema de gestión de la salud,Sistema de gestión sanitaria,0.72,0.99
+es,small marketplaces,mercados pequeños,pequeños mercados,0.47,0.99
+es,school dispensaire nurse,enfermero escolar,Dispensario/enfermero escolar,0.76,0.93
+es,operating room,Sala de operaciones,Quirófano,0.14,0.26
+es,water quality laboratories,laboratorios de análisis de la calidad del agua,Laboratorios de calidad del agua,0.81,0.96
+es,vanilla,vanilla,Vainilla,0.93,0.42
+es,pears  quinces,peras y cógenas,Peras y membrillos,0.61,0.77
+es,artifacts,artefacto,Artefactos,0.95,0.94
+es,concrete mixers,mezcladora de concreto,Hormigoneras,0.29,0.39
+es,electricity transmission underwater,transmisión eléctrica submarina,Transporte de electricidad submarino,0.75,0.90
+es,production machinery,máquinas de producción,Maquinaria de producción,0.91,0.96
+es,government house,Casa del Gobierno,Casa de Gobierno,0.97,0.98
+es,hatcheries,incubadora,incubadoras,0.95,0.96
+es,carrots,zanahoria,Carrots,0.25,0.27
+es,applicance,aparato,Aplicación,0.47,0.68
+es,jetties,muelle,embarcaderos,0.22,0.75
+es,storefronts,Puntos de venta en línea,Escaparates,0.17,0.16
+es,other equipments,Equipos diversos,Otros equipos,0.48,0.88
+es,recording studios,estudio de grabación,Estudios de grabación,0.98,0.95
+es,studios,Estudios,Studios,0.93,0.41
+es,laboratory diagnostic equipments,Equipos de diagnóstico en laboratorio,Equipos de diagnóstico de laboratorio,0.97,0.99
+es,light passenger,vehículo ligero de pasajeros,Pasajero ligero,0.42,0.56
+es,linseed,linaza,Semillas de lino,0.27,0.59
+es,binding machines,máquinas de encuadernación,Encuadernadoras,0.54,0.53
+es,faculty,cuerpo docente,Facultad,0.27,0.83
+es,ground extraction systems,sistema de extracción del suelo,Sistemas de extracción del suelo,0.98,0.99
+es,imaging equipments,equipos de imagen,Equipos de diagnóstico por imagen,0.68,0.71
+es,cow peas,guandule,Guisantes de vaca,0.48,0.53
+es,saunas,sauna,Saunas,0.91,0.95
+es,other electronics,Electrónica diversa,Otros aparatos electrónicos,0.48,0.64
+es,pumping systems surface,Superficie de los sistemas de bombeo,Sistemas de bombeo de superficie,0.53,0.79
+es,beans,JavaBeans,Judías,0.40,0.48
+es,scanners,escáner,Escáneres,0.88,0.96
+es,tangerines mandarins clementines,mandarinas,"Mandarinas, mandarinas, clementinas",0.47,0.80
+es,monitoring stations,estaciones de monitoreo,Estaciones de control,0.82,0.71
+es,excavators,excavadora,Excavadoras,0.95,0.89
+es,compressors,compresor,Compresores,0.90,0.80
+es,day care center,centro de guardería,Guardería,0.64,0.70
+es,processing plants,planta de procesamiento,Plantas de transformación,0.62,0.47
+es,forklifts,montacargas,Carretillas elevadoras,0.30,0.46
+es,concrete pump trucks,camión-pompa de hormigón,Camiones hormigonera,0.74,0.65
+es,sugar cane,caña de azúcar,Sugar cane,0.33,0.81
+es,workshops,taller,Talleres,0.86,0.95
+es,landmark,punto de referencia,Hito,0.17,0.38
+es,laundry appliances,aparatos de lavado,Aparatos de lavandería,0.85,0.93
+es,playgrounds,áreas de juego,parques infantiles,0.38,0.49
+es,nutmeg mace cardamoms,"Nuez moscada, macre, cardamomo","Nuez moscada, macis, cardamomos",0.91,0.77
+es,large passenger bus,autobús de gran capacidad,Autobús grande de pasajeros,0.62,0.92
+es,cinnamon canella,Canela,Canela (canella),0.60,0.88
+es,tents,tiendas,Carpas,0.31,0.41
+es,weirs,dique,presas,0.18,0.83
+es,dams,presa,Presas,0.91,0.81
+es,tanks,tanque,Tanques,0.92,0.88
+es,drains,drenajes,desagües,0.38,0.81
+es,box culverts,culvert de caja,alcantarillas,0.29,0.52
+es,laundry facilities,instalaciones de lavandería,Lavandería,0.54,0.95
+es,blood banks,banco de sangre,Bancos de sangre,0.97,0.95
+es,walkways,pasarela,pasarelas,0.94,0.77
+es,books,libro,Libros,0.91,0.94
+es,houseboats,casa flotante,Casas flotantes,0.93,0.97
+es,pump houses,casa de bombas,casas de bombas,0.97,0.97
+es,parliament house,Palacio del Parlamento,Parlamento,0.62,0.86
+es,monuments,Monumento,Monumentos,0.95,0.96
+es,sheds,cabanas,cobertizos,0.35,0.75
+es,primary health centers,Centro de salud primaria,Centros de salud primaria,0.98,0.98
+es,religious sites,sitios religiosos,Lugares religiosos,0.69,0.92
+es,community water supply,suministro de agua comunitario,abastecimiento comunitario de agua,0.56,0.99
+es,college,colegio,Universidad,0.22,0.82
+es,onsite restaurants,restaurantes en el sitio,Restaurantes,0.67,0.90
+es,newspapers,periódico,Periódicos,0.95,0.63
+es,solar pv,Paneles fotovoltaicos solares,Energía solar fotovoltaica,0.58,0.92
+es,storage areas,áreas de almacenamiento,Almacenes,0.50,0.20
+es,associated energy supplies,fuentes de energía asociadas,Suministros energéticos asociados,0.66,0.93
+es,medium passenger services,servicios de transporte de pasajeros de media distancia,Servicios de pasajeros medios,0.67,0.89
+es,student residences,Residencias universitarias,Residencias de estudiantes,0.62,0.78
+es,storage furniture,muebles de almacenamiento,Muebles de almacenaje,0.87,0.59
+es,assembly lines,línea de ensamblaje,Líneas de montaje,0.72,0.91
+es,boreholdes,Boreholdes,Sondeos,0.47,0.82
+es,footbridges,pasarela,pasarelas,0.94,0.77
+es,sweet potatoes,boniato,Boniatos,0.93,0.93
+es,barracks,caserones,Cuarteles,0.56,0.46
+es,emergency medical services,servicios médicos de emergencia,Servicios médicos de urgencia,0.93,0.91
+es,cauliflowers  broccoli,coliflor y brócoli,Coliflores y brécol,0.86,0.62
+es,online storefronts,tienda en línea,Escaparates en línea,0.63,0.63
+es,poles,pólos,Postes,0.55,0.50
+es,house trailers,casa móvil,Remolques casa,0.33,0.64
+es,cherries  sour cherries,cerezas y cerezas ácidas,Cerezas y guindas,0.68,0.42
+es,storage tanks,tanques de almacenamiento,Depósitos,0.29,0.33
+es,early childhood center,Centro de educación infantil,Centro infantil,0.70,0.92
+es,outpatient centers,centro ambulatorio,Centros ambulatorios,0.95,0.95
+es,regasification terminals,terminal de regasificación,Terminales de regasificación,0.96,0.90
+es,school water facilities,instalaciones de agua potable escolar,Instalaciones escolares de agua,0.62,0.96
+es,chairs,presidente,Sillas,0.25,0.30
+es,milling machines,máquinas de fresado,Fresadoras,0.48,0.45
+es,recreation grounds,área de recreo,Terrenos de recreo,0.75,0.80
+es,boat houses,casa de botes,Casas flotantes,0.64,0.76
+es,driling rigs onshore,perforadora terrestre,Plataformas de perforación en tierra,0.46,0.89
+es,water sources,fuente de agua,Fuentes de agua,0.97,0.97
+es,haul tracks,pista de transporte,Vías de arrastre,0.51,0.58
+es,handling machineries,equipos de manipulación,Maquinaria de manipulación,0.78,0.91
+es,inroom appliances,Aparatos de habitación,Electrodomésticos en la habitación,0.61,0.68
+es,gooseberries,grosellas,Grosellas espinosas,0.64,0.90
+es,diagnostic  laboratory services,Servicios de diagnóstico y de laboratorio,Servicios de diagnóstico y laboratorio,0.96,1.00
+es,filming locations,locaciones de filmación,Lugares de rodaje,0.45,0.82
+es,batteries,baterías,Pilas,0.46,0.22
+es,storage facilities,instalaciones de almacenamiento,Almacenes,0.40,0.19
+es,forage products nec,"Productos de forraje, otros","Productos forrajeros, n.c.o.p.",0.78,0.73
+es,protection walls,muro de protección,muros de protección,0.97,0.95
+es,turbines,turbina,Turbinas,0.93,0.83
+es,graveyards,cementerio,cementerios,0.95,0.98
+es,stalls,estancamiento,Puestos,0.40,0.71
+es,sound stages,plataformas de sonido,Escenarios sonoros,0.41,0.82
+es,backhoes,retroexcavadora,Retroexcavadoras,0.97,0.95
+es,editing hardwarde,Hardware de edición,Edición de hardwarde,0.46,0.37
+es,supporting equipments,Equipos de soporte,Equipos de apoyo,0.76,0.97
+es,shelter,albergue,Refugio,0.27,0.53
+es,marketing facilities,infraestructuras de marketing,instalaciones de comercialización,0.45,0.88
+es,pipe culverts,culvert tubular,alcantarillas,0.29,0.44
+es,other connective,otro conector lógico,Otros conectivos,0.67,0.46
+es,sewage pipelines,tuberías de alcantarillado,Canalizaciones de aguas residuales,0.27,0.69
+es,manufacturing plant,planta de fabricación,Fábrica,0.50,0.62
+es,fishing engines,motor de pesca,Motores de pesca,0.93,0.98
+es,cameras,cámara,Cámaras,0.92,0.79
+es,record storage sites,sitio de almacenamiento de registros,Almacenes de archivos,0.56,0.66
+es,pumps,bomba,Bombas,0.91,0.92
+es,correctionaries,correcciónarios,Correccionales,0.83,0.89
+es,vacuum trucks,camión de aspiración,Camiones aspiradores,0.75,0.73
+es,medicines,medicamentos,Medicines,0.67,0.95
+es,asphalt pavers,pavimentadora de asfalto,Adoquines de asfalto,0.64,0.94
+es,restaurants,restaurante,Restaurantes,0.96,0.91
+es,raspberries,frambuesa,Frambuesas,0.95,0.73
+es,industrial units,unidades industriales,Naves industriales,0.87,0.61
+es,students libraries,bibliotecas estudiantiles,Bibliotecas para estudiantes,0.87,0.96
+es,fishing gear,equipo de pesca,Artes de pesca,0.69,0.90
+es,scaffolding,andamiaje,Andamios,0.71,0.90
+es,major fixtures,componentes principales,Principales accesorios,0.49,0.72
+es,separation equipment,Equipo de separación,Equipos de separación,0.98,1.00
+es,pipes,tubo,Tuberías,0.50,0.76
+es,cloves,clavo de olor,Clavo,0.56,0.37
+es,water trucks,camión de agua,Camiones cisterna,0.58,0.28
+es,fishing vesselsboats,embarcaciones de pesca,Barcos de pesca,0.81,0.89
+es,treatment plants,planta de tratamiento,Depuradoras,0.31,0.40
+es,school cafeteria,cafetería escolar,Comedor escolar,0.69,0.66
+es,vanilla,vanilla,Vainilla,0.93,0.42
+es,studios music,música de estudio,Studios music,0.40,0.87
+es,distribution centers,centro de distribución,Centros de distribución,0.98,0.98
+es,pipeline network,red de tuberías,Red de oleoductos,0.56,0.76
+es,grinding machinery,máquinas de rectificado,Maquinaria de rectificado,0.92,0.96
+es,batching plants,planta de dosificación de concreto,Plantas de hormigón,0.53,0.57
+es,river intakes,tomas de río,tomas fluviales,0.52,0.57
+es,shopping centers,centro comercial,Centros comerciales,0.91,0.86
+es,tunnels,túnel,Túneles,0.83,0.38
+es,prisons,prisión,Prisiones,0.88,0.94
+es,apples 2,Apples 2,Manzanas 2,0.44,0.93
+es,wells,pozo,Pozos,0.89,0.91
+es,rollers,rodillo,Rodillos,0.93,0.29
+es,movie studios,estudio cinematográfico,Estudios de cine,0.62,0.87
+es,parking facilities,instalaciones de estacionamiento,Aparcamiento,0.45,0.46
+es,spinach,espinaca,Espinacas,0.94,0.81
+es,mobile manufactured houses,casa móvil,Casas móviles/fabricadas,0.61,0.89
+es,mobile healthcare unit,Unidad móvil de atención médica,Unidad móvil de asistencia sanitaria,0.75,0.99
+es,commerce and trade,Comercio y comercio,Comercio,0.59,0.90
+es,aquaculture  agriculture,Aculturación - Agricultura,Acuicultura - Agricultura,0.86,0.96
+es,aquaculture  agriculturefisheries  agriculture,"Acicultura - Agricultura, Pesca - Agricultura","Acuicultura - Agricultura, Pesca - Agricultura",0.99,0.98
+es,commerce and trade,Comercio y comercio,Comercio,0.59,0.90
+es,commerce and trade,Comercio y comercio,Comercio,0.59,0.90
+es,commerce and trade,Comercio y comercio,Comercio,0.59,0.90
+es,commerce and trade,Comercio y comercio,Comercio,0.59,0.90
+es,commerce and trade,Comercio y comercio,Comercio,0.59,0.90
+es,commerce and trade,Comercio y comercio,Comercio,0.59,0.90
+es,aquaculture  agriculture,Aculturación - Agricultura,Acuicultura - Agricultura,0.86,0.96
+es,commerce and trade,Comercio y comercio,Comercio,0.59,0.90
+es,commerce and trade,Comercio y comercio,Comercio,0.59,0.90
+es,aquaculture  agriculture,Aculturación - Agricultura,Acuicultura - Agricultura,0.86,0.96
+es,aquaculture  agriculture,Aculturación - Agricultura,Acuicultura - Agricultura,0.86,0.96
+es,commerce and trade,Comercio y comercio,Comercio,0.59,0.90
+es,aquaculture  agriculture,Aculturación - Agricultura,Acuicultura - Agricultura,0.86,0.96
+es,commerce and trade,Comercio y comercio,Comercio,0.59,0.90
+es,commerce and trade,Comercio y comercio,Comercio,0.59,0.90
+es,ecosystems diversity,Biodiversidad de ecosistemas,Diversidad de los ecosistemas,0.88,0.91
+es,human mobility,mobilidad humana,Movilidad (humana),0.94,0.42
+es,community  sense of,sentido de comunidad,Comunidad (sentido de),0.50,0.87
+es,sacred sites,sitios sagrados,Lugares sagrados,0.65,0.97
+es,social fabric,tejido social,Teje social,0.83,0.91
+es,insectrelated diseases,Enfermedades relacionadas con insectos,Enfermedades relacionadas con los insectos,0.95,1.00
+es,animal infectious diseases,enfermedades infecciosas animales,Enfermedades infecciosas de los animales,0.90,0.99
+es,environmental degradation,degradación ambiental,Degradación medioambiental,0.89,0.98
+es,extraterrestrial,extraterrestre,Extraterrestres,0.97,0.93
+es,seismic,seismico,Sísmico,0.93,0.56
+es,volcanic,volcánico,Volcánica,0.89,0.97
+es,other geohazard,Otro peligro geológico,Otros riesgos geológicos,0.78,0.96
+es,convectiverelated,convectivo,Relacionado con la convección,0.41,0.55
+es,particlerelated,relacionado con partículas,Relacionado con las partículas,0.93,0.99
+es,marinerelated,marino,Relacionado con el mar,0.21,0.85
+es,precipitationrelated,precipitación,Relacionado con las precipitaciones,0.54,0.92
+es,temperaturerelated,temperatura,Relacionado con la temperatura,0.54,0.92
+es,postconflict,postconflicto,Tras el conflicto,0.67,0.93
+es,behavioural,conductual,Comportamiento,0.33,0.69
+es,constructionstructural failure,fallo estructural,Fallos de construcción/estructurales,0.65,0.81
+es,cyber hazards,riesgo cibernético,Ciberriesgos,0.40,0.00
+es,industrial failure,fallo industrial,Fracaso industrial,0.82,0.95
+es,waste,residuo,Residuos,0.93,0.72
+es,ground failure,fallo del suelo,Fallo en tierra,0.60,0.87
+es,other biological hazards,Otros peligros biológicos,Otros riesgos biológicos,0.86,0.97
+es,space weather,clima espacial,Meteorología espacial,0.69,0.83
+es,harmful algal blooms,Floración de algas nocivas,Floraciones de algas nocivas,0.96,0.99
+es,locust upsurge,epidemia de langostas,Aumento de langostas,0.68,0.65
+es,humanwildlife conflict,Conflicto humano-fauna,Conflictos entre el hombre y la fauna,0.62,0.81
+es,suicide cluster,cluster de suicidios,Grupo de suicidios,0.74,0.92
+es,antimicrobial resistance,Resistencia antimicrobiana,Antimicrobial Resistance,0.52,0.98
+es,bacterial plant disease,Enfermedad bacteriana de las plantas,Enfermedades bacterianas de las plantas,0.96,1.00
+es,fungal plant disease,Enfermedad fitopatológica fúngica,Enfermedades fúngicas de las plantas,0.52,0.78
+es,anthrax,carbón,Ántrax,0.33,0.20
+es,airborne diseases,Enfermedades aéroportadas,Enfermedades de transmisión aérea,0.59,0.80
+es,bloodborne viruses,virus transmisibles por sangre,Virus transmitidos por la sangre,0.84,0.99
+es,neglected tropical diseases,enfermedades tropicales negligidas,Enfermedades Tropicales Desatendidas,0.83,0.89
+es,vaccinepreventable diseases,enfermedades evitables por la vacunación,Enfermedades prevenibles mediante vacunación,0.79,0.99
+es,vectorborne diseases vbd,enfermedades transmitidas por vectores,Enfermedades transmitidas por vectores (ETV),0.95,0.87
+es,viral haemorrhagic fevers,Fiebre hemorrágica viral,Fiebres hemorrágicas víricas,0.88,0.91
+es,prion diseases,enfermedades de los priones,Enfermedades priónicas,0.78,0.87
+es,hiv and aids,VIH/SIDA,VIH y sida,0.82,0.98
+es,covid19 sarscov2,COVID-19,COVID-19 (SARS-CoV-2),0.61,0.83
+es,cholera,Cholera,Cólera,0.92,0.55
+es,paratyphoid fever,Fiebre paratyphi,Fiebre paratifoidea,0.74,0.62
+es,escherichia coli stec,Escherichia coli productores de toxina Shiga,Escherichia Coli (STEC),0.55,0.53
+es,listeriosis,listerosis,Listeriosis,0.95,0.59
+es,shigellosis,shigelosis,Shigellosis,0.95,0.81
+es,avian influenza,Influenza aviaria,Gripe aviar,0.57,0.70
+es,pandemic influenza human,Gripa pandémica (humana),Gripe pandémica (humana),0.95,0.99
+es,leptospirosis,leptosporosis,Leptospirosis,0.92,0.90
+es,plague,peste,Plaga,0.20,0.90
+es,meningococcal meningitis,Meningitis neumocóica,Meningococcal Meningitis,0.44,0.89
+es,pertussis human,la pertusis,Tos ferina (humana),0.21,0.39
+es,malaria,Paludismo,Malaria,0.38,0.35
+es,brucellosis,la brucelosis,Brucelosis,0.87,0.39
+es,footandmouth disease,Enfermedad de la mordida y la boca,Fiebre aftosa,0.30,0.41
+es,lumpy skin disease,enfermedad de la piel en nodulos,Enfermedad de la piel grumosa,0.82,0.92
+es,west nile fever,Enfermedad del Nilo Occidental,Fiebre del Nilo Occidental,0.79,0.88
+es,trypanosomiasis,trypanosomiasis,Tripanosomiasis,0.93,0.65
+es,african swine fever,Enfermedad por virus de la peste porcina africana,Peste porcina africana,0.62,0.86
+es,classical swine fever,Fiebre clásica porcina,Peste porcina clásica,0.42,0.87
+es,rinderpest,rinderpest,Peste bovina,0.36,0.54
+es,oyster disease aquaculture,Enfermedad de ostras en acuicultura,Enfermedad de la ostra Acuicultura,0.90,0.63
+es,chemical warfare agents,Agentes químicos de guerra,Agentes de guerra química,0.67,0.96
+es,asbestos,asbesto,Amianto,0.43,0.23
+es,household air pollution,Contaminación del aire en el hogar,Contaminación atmosférica doméstica,0.49,0.91
+es,salinity  sodicity,salinidad y sodicidad,Salinidad & humedad; Sodicidad,0.82,0.88
+es,forest disturbances,Turbios de bosques,Perturbaciones forestales,0.51,0.82
+es,wetland lossdegradation,Pérdida y degradación de humedales,Pérdida/Degradación de humedales,0.95,0.98
+es,coral bleaching,Eclacide de los corales,Decoloración del coral,0.71,0.85
+es,compressive soils,suelo compresible,Suelos compresivos,0.80,0.40
+es,permafrost loss,pérdida del permafrost,Permafrost Loss,0.54,0.98
+es,sand mining,explotación de arenas,Extracción de arena,0.85,0.74
+es,eutrophication,La eutrófica,Eutrofización,0.64,0.83
+es,forest invasive species,Especies invasoras forestales,Especies forestales invasoras,0.62,1.00
+es,airburst,explosión aérea,Airburst,0.09,0.81
+es,geomagnetic disturbance,Disturbios geomagnéticos,Perturbaciones geomagnéticas,0.77,0.97
+es,meteorite impact,impacto de un meteorito,Impacto de meteoritos,0.91,0.98
+es,ionospheric disturbances,Disturbios ionosféricos,Perturbaciones ionosféricas,0.76,0.97
+es,solar flares,Eruptions solares,Llamaradas solares,0.57,0.77
+es,nearearth object,asteroide cercano a la Tierra,Objeto cercano a la Tierra,0.80,0.69
+es,lahars,Lahars,Lahares,0.92,0.92
+es,liquefaction,liquefacción,Licuefacción,0.92,0.72
+es,subsidence and uplift,afundamiento y elevación,Hundimiento y levantamiento,0.71,0.47
+es,shrinkswell subsidence,Subsidence por contracción‑gonflement,Hundimiento por contracción,0.62,0.67
+es,sinkhole,sumidero,Hundimiento,0.53,0.71
+es,sand encroachment,avance de arena,Invasión de arena,0.75,0.82
+es,downburst,Tormenta descendente,Downburst,0.07,0.61
+es,lightning electrical storm,rayo,Rayo (tormenta eléctrica),0.30,0.46
+es,thunderstorm,tormenta,Tormenta eléctrica,0.62,0.42
+es,coastal flooding,inundación costera,Inundaciones costeras,0.92,0.99
+es,estuarine coastal flooding,inundación estuarial,Inundaciones estuarinas (costeras),0.73,0.95
+es,flash flooding,inundación Flash,Inundaciones repentinas,0.67,0.79
+es,fluvial riverine flooding,inundación fluvial,Inundaciones fluviales,0.90,0.99
+es,groundwater flooding,Inundación por aguas subterráneas,Inundaciones de aguas subterráneas,0.90,0.99
+es,ponding drainage flooding,inundación por estancamiento,Estanque (drenaje) Inundación,0.36,0.94
+es,snowmelt flooding,inundaciones por deshielo de la nieve,Inundaciones por deshielo,0.81,0.76
+es,surface water flooding,Inundación de agua superficial,Inundaciones de aguas superficiales,0.92,0.98
+es,black carbon,Carbono negro,Carbón negro,0.96,0.78
+es,fog,bruma,Niebla,0.36,0.58
+es,haze,vaporer,Haze,0.36,0.58
+es,sand haze,neblina de arena,Niebla de arena,0.90,0.91
+es,ocean acidification,acidificación oceánica,Acidificación de los océanos,0.76,0.98
+es,rogue wave,ola de tipo rogue,Ola de pillos,0.60,0.21
+es,sea ice icebergs,hielo marino,Hielo marino (icebergs),0.73,0.85
+es,storm surge,vaga de tormenta,Marejada ciclónica,0.35,0.30
+es,storm tides,marea de tormenta,Mareas tormentosas,0.80,0.61
+es,extratropical cyclone,Cyclón extratropical,Ciclón extratropical,0.95,0.54
+es,blizzard,Blizzard,Ventisca,0.25,0.33
+es,hail,granizo,Salve,0.17,0.71
+es,dzud,helada severa,Dzud,0.12,0.27
+es,freeze,congelación,Congelar,0.74,0.41
+es,frost hoar frost,escarcha,Escarcha (Hoar Frost),0.59,0.58
+es,glaze,glaseado,Esmalte,0.27,0.78
+es,ground frost,Hielo en tierra,Heladas,0.36,0.74
+es,heatwave,ciclón de calor,Ola de calor,0.74,0.76
+es,icing including ice,cobertura de hielo,Glaseado (incluido el hielo),0.41,0.79
+es,gale strong gale,galeón,Vendaval (vendaval fuerte),0.27,0.49
+es,explosive ordnance,armamento explosivo,Artefactos explosivos,0.75,0.74
+es,radioactive waste,residuos radioactivos,Residuos radiactivos,0.98,0.93
+es,radioactive agents  material,Agentes y materiales radioactivos,Agentes radiactivos & Material,0.55,0.97
+es,building highrise cladding,revestimiento de edificio de gran altura,"Edificio, rascacielos, revestimiento",0.35,0.70
+es,dam failure,fallo de presa,Rotura de presas,0.67,0.64
+es,supply chain failure,Fallo en la cadena de suministro,Fracaso de la cadena de suministro,0.88,0.90
+es,critical infrastructure failure,Fallo de la Infraestructura Crítica,Fallo de infraestructuras críticas,0.93,0.94
+es,nuclear plant failure,fallo de planta nuclear,Fallo de una central nuclear,0.82,0.91
+es,water supply failure,fallo del suministro de agua,Fallo en el suministro de agua,0.93,0.97
+es,malware,software malicioso,Malware,0.32,0.79
+es,cyberbullying,acoso cibernético,Ciberacoso,0.37,0.59
+es,natech,Accidentes tecnológicos causados por riesgos naturales,Natech,0.13,0.21
+es,pollution,Polución,Contaminación,0.48,0.72
+es,leaks and spills,Fugas y derrames,Fugas y vertidos,0.69,0.94
+es,fire,Incendio,Fuego,0.31,0.63
+es,wastewater,agua residual,Aguas residuales,0.90,0.56
+es,healthcare waste,residuos de salud,Residuos sanitarios,0.61,0.81
+es,landfilling,depósito de residuos,Vertederos,0.27,0.16
+es,tailings,residuos mineros,Relaves,0.26,0.29
+es,reservoir flooding,inundación del embalse,Inundación de embalses,0.95,0.97
+es,air transportation accident,siniestro aéreo,Accidente de transporte aéreo,0.55,0.70
+es,flooding,inundación,Inundaciones,0.91,0.99
+es,space debris,debris espacial,Desechos espaciales,0.71,0.93
+es,social engineering  phishing,ingegnería social - phishing,Ingeniería social - Phishing,0.96,0.96
+es,tunnel failure,Fallida de los túneles,Rotura del túnel,0.58,0.91
+es,marburg virus disease,Enfermedad del virus de Marburg,Enfermedad por el virus de Marburgo,0.91,0.80
+es,chemical,sustancia química,Química,0.58,0.91
+es,environmental,ambiental,Medio ambiente,0.61,0.92
+es,extraterrestrial,extraterrestre,Extraterrestres,0.97,0.93
+es,societal,social,Sociedad,0.71,0.80
+es,technological,tecnológico,Tecnología,0.86,0.97
+es,sexual violence,violencia sexual,Sexual violence,0.52,0.99
+es,one health,Salud única,Una salud,0.50,0.92
+es,from ground water,de agua subterránea,De aguas subterráneas,0.95,0.99
+es,culture livelihoods,subsistencia cultural,Medios de subsistencia culturales,0.78,0.79
+es,coal generation,generación eléctrica con carbón,Generación de carbón,0.75,0.81
+es,others nonformal education,Otros – Educación no formal,Otros -Educación no formal,0.96,0.98
+es,holding companies,Sociedades holding,Sociedades de cartera,0.62,0.69
+es,gathering forest products,Recolección de productos forestales,Recogida de productos forestales,0.87,0.94
+es,commerce livelihoods,Medios de subsistencia comerciales,Medios de subsistencia del comercio,0.87,0.95
+es,sea and coastal,Mar y litoral,Mar y costa,0.67,0.97
+es,othernon categorized,Otro - no categorizado,Otros-no categorizados,0.90,0.89
+es,waste disposal,Eliminación de residuos,Waste disposal,0.32,0.87
+es,water treatment,tratamiento de agua,Tratamiento del agua,0.97,0.99
+es,conventional dwellings,vivienda convencional,Viviendas convencionales,0.93,0.70
+es,health care network,red de atención sanitaria,Red de asistencia sanitaria,0.88,0.80
+es,natural sites,sitio natural,Parajes naturales,0.60,0.73
+es,warehousing and storage,almacén y almacenamiento,Depósito y almacenamiento,0.73,0.85
+es,genderbased discrimination,discriminación por razón de sexo,Discriminación de género,0.71,0.90
+es,other health services,otros servicios de salud,Otros servicios sanitarios,0.72,0.99
+es,selfemployed,trabajador autónomo,Autónomos,0.57,0.63
+es,genderbased violence,violencia basada en el género,Violencia de género,0.79,0.97
+es,other retail trade,otro comercio minorista,Otro comercio al por menor,0.73,0.82
+es,other wholesade trade,Otro comercio mayorista,Otro comercio al por mayor,0.78,0.96
+es,cultural sites,sitio cultural,Sitios culturales,0.90,0.84
+es,natural gas processing,Procesamiento de gas natural,Procesado de gas natural,0.88,0.98
+es,from reclaimed,Reciclado,De Reclaimed,0.57,0.69
+es,vocational,vocacional,Formación profesional,0.52,0.79
+es,tourism livelihoods,medios de subsistencia turísticos,Medios de subsistencia del turismo,0.87,0.97
+es,from rainwater harvested,agua pluvial recolectada,Del agua de lluvia recogida,0.67,0.86
+es,coal distribution,distribución de carbón,Distribución del carbón,0.98,0.99
+es,repositories of heritage,Repositorio de patrimonio,Depósitos del patrimonio,0.86,0.81
+es,health information systems,sistemas de información de salud,Sistemas de información sanitaria,0.80,0.99
+es,connective infrastructure,infraestructura de conectividad,Infraestructura conectiva,0.89,0.94
+es,road passenger transport,transporte terrestre de pasajeros,Transporte de viajeros por carretera,0.58,0.91
+es,wholesale travel agencies,agencias de viajes al por mayor,Agencias de viajes mayoristas,0.80,0.95
+es,access to ressources,Acceso a recursos,Acceso a los recursos,0.89,1.00
+es,primary health care,atención primaria de salud,atención primaria,0.79,0.88
+es,piped water distribution,sistema de distribución de agua,Distribución de agua por tuberías,0.62,0.79
+es,intangible cultural heritage,Patrimonio cultural intangible,Patrimonio cultural inmaterial,0.83,0.90
+es,permanent perennial crops,Cultivos permanentes vivaces,Cultivos permanentes-perennes,0.79,0.96
+es,disaster management,gestión de desastres,Gestión de catástrofes,0.81,0.98
+es,community infrastructure,infraestructura comunitaria,Infraestructuras comunitarias,0.96,0.98
+es,commerce and trade,Comercio y comercio,Comercio,0.59,0.90
+es,wireless telecommunication activities,actividades de telecomunicaciones sin cable,"Actividades de telecomunicaciones inalámbricas,",0.85,0.90
+es,extraultrahigh voltage,tensión alta,Extra/ultra/alta tensión,0.41,0.80
+es,other manufacturing,Otras actividades de fabricación,Otros sectores industriales,0.47,0.69
+es,online travel agencies,agencia de viajes en línea,Agencias de viajes en línea,0.98,0.98
+es,other land transport,Otro transporte terrestre,Otros transportes terrestres,0.94,0.95
+es,traditional knowledge,conocimiento tradicional,"conocimientos tradicionales,",0.94,0.97
+es,upper chambersenate,Senado,Cámara Alta/Senado,0.52,0.38
+es,care livelihoods,ingresos del trabajo de cuidado,Medios de subsistencia,0.34,0.18
+es,environment,entorno,Medio ambiente,0.29,0.93
+es,wholesale trade,comercio mayorista,Comercio al por mayor,0.72,0.91
+es,pension funding,financiación de planes de pensiones,Financiación de las pensiones,0.91,0.95
+es,agricultural land,tierra agrícola,Terrenos agrícolas,0.79,0.98
+es,1primary education,Educación primaria,1-Educación primaria,0.97,0.95
+es,water transportation,transporte marítimo,Transporte acuático,0.79,0.86
+es,regional  decentralized administration,Administración regional descentralizada,Regional - Administración descentralizada,0.76,1.00
+es,emergency medical services,servicios médicos de emergencia,Servicios médicos de urgencia,0.93,0.91
+es,human mobility,mobilidad humana,Movilidad humana,0.94,0.57
+es,nonspecialized wholesale trade,Comercio mayorista no especializado,Comercio al por mayor no especializado,0.85,0.95
+es,disaster recovery,Recuperación ante desastres,Recuperación en caso de catástrofe,0.72,0.97
+es,0early childhood,0–Infancia temprana,0-Infancia temprana,0.97,0.97
+es,tour operators,operador turístico,Operadores turísticos,0.92,0.92
+es,water passenger transport,Transporte de pasajeros por vía acuática,transporte acuático de pasajeros,0.64,0.98
+es,other specials network,Otras redes especiales,Otra red especial,0.87,0.91
+es,medium voltage,tensión media,Media tensión,0.54,0.97
+es,real estate,inmobiliaria,Inmobiliario,0.92,0.99
+es,waste collection,recolección de residuos,Recogida de residuos,0.79,0.98
+es,livestock,ganado,Ganadería,0.67,0.58
+es,small scale sanitation,sanidad a pequeña escala,Saneamiento a pequeña escala,0.81,0.93
+es,retail trade,Comercio minorista,Comercio al por menor,0.67,0.83
+es,pipeline transport,Transporte por tubería,Transporte por tuberías,0.98,0.98
+es,psychological abuse,abuso psicológico,Maltrato psicológico,0.76,0.91
+es,supporting services,servicios de soporte,Servicios de apoyo,0.79,0.99
+es,water sources generation,Generación de fuentes de agua,Fuentes de agua - generación,0.54,0.96
+es,environmental health,Salud ambiental,Salud medioambiental,0.86,1.00
+es,hazard monitoring,Monitoreo de riesgos,Control de riesgos,0.79,0.89
+es,insurance,Seguro,Seguros,0.92,0.79
+es,commnications community lifelines,Líneas de vida de la comunidad de comunicaciones,COMUNICACIONES COMUNITARIAS,0.37,0.74
+es,telemedicine,telemedicina,Telemedicine,0.92,0.99
+es,4 post secondary,postsecundario,4- Post-secundaria,0.87,0.71
+es,service livelihoods,Servicio de medios de subsistencia,Medios de vida de servicio,0.47,0.66
+es,from surface water,de agua superficial,Desde Aguas superficiales,0.86,0.78
+es,others lifelong learning,Otros - aprendizaje permanente,Otros -aprendizaje permanente,0.98,0.90
+es,waste disposal,Eliminación de residuos,Waste disposal,0.32,0.87
+es,mining and quarrying,Minería y extracción de piedra,Minas y canteras,0.43,0.53
+es,waste collection,recolección de residuos,Recogida de residuos,0.79,0.98
+es,communitybased,basado en la comunidad,en la comunidad,0.81,0.93
+es,wired telecommunication activities,actividades de telecomunicación por cable,"Actividades de telecomunicaciones por cable,",0.98,0.98
+es,tangible cultural heritage,Patrimonio cultural tangible,Patrimonio cultural material,0.82,0.94
+es,disaster mitigation,mitigación de desastres,Mitigación de catástrofes,0.83,0.98
+es,primary education,educación primaria,Enseñanza primaria,0.67,0.91
+es,from soil water,agua del suelo,Del agua del suelo,0.88,0.99
+es,23 secondary,2-3- Secundario,2-3- Secundaria,0.92,0.94
+es,road transport infrastructure,infraestructura de transporte por carretera,Infraestructuras de transporte por carretera,0.99,0.99
+es,freight air transport,transporte aéreo de carga,Transporte aéreo de mercancías,0.84,0.97
+es,disaster risk management,Gestión de Riesgos de Desastres,Gestión del riesgo de catástrofes,0.84,0.95
+es,marine aquaculture,acuario marino,Acuicultura marina,0.62,0.82
+es,natural gas upstream,gas natural – exploración y producción,Gas natural,0.45,0.89
+es,temporary  annual crops,Cultivos temporales anuales,Temporal - cultivos anuales,0.60,0.89
+es,gas distribution,red de distribución de gas,Distribución de gas,0.84,0.91
+es,oil refinery,refinería petrolera,Refinería de petróleo,0.85,0.95
+es,housing units,unidades de vivienda,Viviendas,0.55,0.49
+es,satellite telecommunication activities,Actividades de telecomunicaciones satelitales,"Actividades de telecomunicaciones por satélite,",0.92,0.98
+es,industry livelihoods,empleo industrial,Medios de subsistencia de la industria,0.44,0.40
+es,disaster response,Respuesta ante desastres,Respuesta ante catástrofes,0.84,0.99
+es,other housing units,Otras unidades de vivienda,Otras viviendas,0.68,0.92
+es,freshwater fishing,pesca de agua dulce,Pesca en agua dulce,0.95,0.99
+es,land  including soils,tierra,Suelo,0.18,0.81
+es,water distribution,red de distribución de agua,Distribución del agua,0.83,0.87
+es,nonpiped water distribution,distribución de agua no canalizada,Distribución de agua sin tuberías,0.72,0.92
+es,oil manufacture upstream,exploración y producción petrolera,Petróleo Fabricación/producción,0.59,0.81
+es,health education,educación en salud,Educación sanitaria,0.65,0.99
+es,harmful traditional practices,prácticas tradicionales perjudiciales,Prácticas tradicionales nocivas,0.82,0.94
+ch,medium,中型,中度,0.50,0.88
+ch,hard,困难,难,0.67,0.88
+ch,tsunami,tsunami,海啸,0.00,0.93
+ch,wildfire,森林火灾,野火,0.33,0.91
+ch,ok,OK,好,0.00,0.92
+ch,early warning system,预警系统,早期警告系统,0.60,0.86
+ch,evacuate,撤离,疏散,0.00,0.95
+ch,start disaster,灾害开始,启动灾害,0.50,0.95
+ch,finished,完成,成品,0.50,0.89
+ch,stop disasters,停止灾害,防止灾害,0.75,0.88
+ch,select a scenario,选择情景,选择一个场景,0.60,0.87
+ch,coastal village,海岸村,沿海的村庄,0.50,0.95
+ch,eastern mediterranean,东地中海,东地中海区,0.89,0.99
+ch,lowland hills,低山丘陵,低地丘陵,0.75,0.98
+ch,easterncentral europe,东欧和中欧,东欧、中欧,0.80,0.99
+ch,valley flood plains,山谷洪水平原,山谷洪泛区,0.55,0.97
+ch,arid plains,干旱平原,贫瘠的平原,0.44,0.86
+ch,the caribbean,加勒比地区,中美洲,0.00,0.72
+ch,caribbean island,加勒比海岛,加勒比岛屿,0.80,0.96
+ch,daily news post,每日新闻发布,每日新闻报,0.73,0.96
+ch,view scene,查看场景,浏览场景,0.50,0.87
+ch,view report,查看报告,浏览报告,0.50,0.94
+ch,housing and development,住房与发展,住房和发展,0.80,0.98
+ch,buildings destroyed,毁坏建筑物,被毁房子数量,0.18,0.75
+ch,population housed,居住人口,有房子住的人口,0.55,0.74
+ch,population sheltered,受庇护人口,得到避难所的人口,0.31,0.84
+ch,total damages,总损失,损失总量,0.57,0.90
+ch,population died,死亡人口,死亡人数,0.75,0.98
+ch,population injured,受伤人口,受伤人数,0.75,0.97
+ch,school built,已建学校,建成{{SCHOOL}},0.17,0.67
+ch,hospital built,医院建成,建成{{HOSPITAL}},0.29,0.96
+ch,hotels built,已建酒店,酒店建成,0.50,0.96
+ch,destroyed,已摧毁,销毁,0.40,0.94
+ch,bonus,奖金,奖励,0.50,0.93
+ch,key facts found,已发现的关键事实,发现的关键事实,0.93,0.94
+ch,budget remaining,剩余预算,所剩经费,0.25,0.87
+ch,pass,通过,过关,0.50,0.86
+ch,destroyed,已摧毁,销毁,0.40,0.94
+ch,well done,干得好!,恭喜!,0.00,0.73
+ch,unlucky,不幸,不走运!,0.40,0.66
+ch,try again,重试,再试一次,0.33,0.96
+ch,continue,continue,继续,0.00,0.82
+ch,development defences,防御开发,发展:防御,0.50,0.98
+ch,development structures,开发结构,发展:结构,0.75,0.97
+ch,clearance  preparation,数据准备,清理和准备,0.44,0.40
+ch,item,条目,项目,0.50,0.72
+ch,items,条目,项目,0.50,0.72
+ch,budget,预算,预算经费,0.67,0.97
+ch,unhoused,无家可归,无家可归者,0.89,0.96
+ch,housed,托管,有家可归者,0.00,0.46
+ch,sheltered,受保护的,得到庇护的人数,0.36,0.50
+ch,start disaster,灾害开始,启动灾害,0.50,0.95
+ch,new price,新价格：$,新价格: $,0.86,0.99
+ch,are you sure,您确定吗？,你确定吗?,0.67,1.00
+ch,number people,{{NUMBER}} 人,{{NUMBER}} 人的房屋,0.84,0.78
+ch,build,构建,建造,0.50,0.96
+ch,number school,{{NUMBER}} 学校,{{NUMBER}} {{SCHOOL}},0.64,0.94
+ch,build,构建,建造,0.50,0.96
+ch,number hospital,{{NUMBER}} 医院,{{NUMBER}} {{HOSPITAL}},0.58,0.99
+ch,number hotels,{{NUMBER}} 家酒店,{{NUMBER}} 酒店,0.95,0.98
+ch,max budget,最大预算,最高预算,0.75,0.97
+ch,max damage,最大损害,最大伤害,0.75,0.96
+ch,approximately,大约,大约 离灾难到来还有,0.33,0.61
+ch,until disaster,直至灾难,直到灾难,0.75,0.99
+ch,credits,学分,积分,0.50,0.72
+ch,game developed by,游戏开发者,开发的游戏,0.40,0.88
+ch,the top bar,顶部栏,顶栏,0.80,0.97
+ch,the information panel,信息面板,信息栏,0.57,0.89
+ch,1 week course,一周课程,一周的培训,0.44,0.89
+ch,stop disasters,停止灾害,阻止灾害,0.75,0.97
+ch,2 week course,两周课程,2周培训,0.25,0.89
+ch,foundations,基础,地基,0.50,0.83
+ch,building reinforcement,建筑加固,建筑物加固,0.89,0.92
+ch,evacuation signs,疏散标志,撤离信号,0.00,0.82
+ch,evacuation training,疏散训练,撤离培训,0.25,0.95
+ch,local alarm system,本地报警系统,当地警报系统,0.67,0.75
+ch,protect electrics,电气保护,保护电气设备,0.40,0.95
+ch,secure fittings,安全接头,安全的设备,0.44,0.85
+ch,retrofit the building,建筑升级改造,翻新建筑物,0.36,0.90
+ch,anchor heavy item,锚点重物,加固硬设施,0.00,0.73
+ch,raised building,高架建筑,升高建筑物,0.67,0.92
+ch,asphalt roof,沥青屋顶,...,0.00,0.30
+ch,clay roof,陶瓦屋顶,...,0.00,0.36
+ch,roof sprinkler,屋顶喷淋装置,屋顶洒水装置,0.67,0.91
+ch,metal shutters,金属百叶窗,金属遮挡板,0.40,0.73
+ch,plywood shutters,胶合板百叶窗,...,0.00,0.35
+ch,glass shutters,玻璃百叶窗,...,0.00,0.33
+ch,wire shutters,钢丝百叶窗,...,0.00,0.35
+ch,ladder  hose,梯架与软管,梯子和水管,0.40,0.80
+ch,building reinforcements,建筑结构加固,建筑物加固,0.73,0.91
+ch,water tank protection,水箱保护,保护储水器,0.44,0.96
+ch,remove fuel sources,消除燃料源,移走燃料源,0.60,0.89
+ch,water source upgrade,水源改进,保护水资源,0.44,0.79
+ch,sewer backflow,污水倒流,下水道回流,0.44,0.76
+ch,storm shutters,防风百叶窗,暴风雨遮挡窗,0.36,0.78
+ch,waterproof sealant,防水密封剂,防水密封胶,0.80,0.97
+ch,ocean waves,海洋波浪,海浪,0.67,0.97
+ch,sand,沙子,沙地,0.50,0.87
+ch,sand,沙子,沙地,0.50,0.87
+ch,grass,草,草地,0.67,0.94
+ch,light mud,轻泥,松软的泥浆,0.29,0.87
+ch,light mud,轻泥,松软的泥浆,0.29,0.87
+ch,mud,泥,泥浆,0.67,0.91
+ch,mud,泥,泥浆,0.67,0.91
+ch,arid ground,干旱地,旱地,0.80,0.97
+ch,burnt land,烧毁地区,干焦地,0.29,0.63
+ch,expensive clearance costs,高额清关费用,清理岩石准备建造房屋成本较高。,0.10,0.42
+ch,people,人,人的房屋,0.40,0.60
+ch,people,人,人的房屋,0.40,0.60
+ch,earthquake strikes,地震,地震爆发!,0.67,0.90
+ch,trees,树,树木,0.67,0.98
+ch,brick cottage,砖质小屋,小砖房,0.29,0.87
+ch,old house,旧住宅,老房子,0.00,0.96
+ch,old town house,旧城区住宅,老的城镇住宅,0.55,0.97
+ch,old terraced house,旧排屋,老的连栋住宅,0.00,0.80
+ch,town house,联排别墅,连栋房屋,0.00,0.70
+ch,large house,大型住宅,大房子,0.29,0.89
+ch,church,教会,教堂,0.50,0.99
+ch,pylon,输电塔,高压电缆塔,0.50,0.86
+ch,commercial block,商业区块,商业区,0.86,0.96
+ch,hello,你好！,你好!,0.80,1.00
+ch,tsunami strikes,海啸袭来！,海啸来袭,0.67,0.95
+ch,trees,树,海啸来袭树木,0.29,0.57
+ch,shrubs,灌木,衬套,0.00,0.44
+ch,logs,日志,木材,0.00,0.41
+ch,large rocks,大型岩石,大块岩石,0.75,0.99
+ch,small rocks,小岩石,小块岩石,0.86,0.98
+ch,bamboo hut,竹屋,竹棚,0.50,0.95
+ch,hotel cabins,酒店小屋,旅馆小屋,0.50,0.99
+ch,timber house,木结构住宅,木屋,0.29,0.76
+ch,brick house,砖砌房屋,砖房,0.67,0.86
+ch,boat,船,船只,0.67,0.99
+ch,debris,碎片,废墟,0.00,0.79
+ch,debris,碎片,废墟,0.00,0.79
+ch,hello,你好！,你好!,0.80,1.00
+ch,flash floods,突发洪水,暴洪袭来!,0.25,0.77
+ch,trees,树,树木,0.67,0.98
+ch,brick cottage,砖质小屋,小砖房,0.29,0.87
+ch,brick house,砖砌房屋,砖房,0.67,0.86
+ch,church,教会,教堂,0.50,0.99
+ch,pylon,输电塔,高压电缆塔,0.50,0.86
+ch,commercial block,商业区块,商业区,0.86,0.96
+ch,well,井,水井,0.67,0.89
+ch,stabilized slope,稳定斜率,加固的斜坡,0.22,0.78
+ch,earth levee,堤坝,地面防洪堤,0.29,0.73
+ch,rock dyke,岩脊,岩石大堤,0.33,0.91
+ch,1 meter wall,一米墙,1 米防护墙,0.44,0.76
+ch,2 meter wall,2米墙,2 米防护墙,0.67,0.90
+ch,3 meter wall,3米墙,3 米防护墙,0.67,0.88
+ch,hello,你好！,你好!,0.80,1.00
+ch,wildfire strikes,森林火灾,野火袭来!,0.25,0.80
+ch,dry trees,干树,枯树,0.50,0.84
+ch,moist trees,湿树,潮湿树木,0.67,0.93
+ch,4 bedroom house,四居室住宅,4 居室房屋,0.36,0.86
+ch,3 bedroom house,三居室住宅,3 居室房屋,0.36,0.94
+ch,6 bedroom house,六卧室住宅,6 居室房屋,0.18,0.90
+ch,mine,矿山,矿,0.67,0.94
+ch,firebreaks,防火带,防火道,0.67,0.92
+ch,dry bushes,干燥灌木,干燥的树丛,0.44,0.91
+ch,hello,你好！,你好!,0.80,1.00
+ch,hurricane strikes,飓风袭击,飓风袭来!,0.75,0.89
+ch,trees,树,树木,0.67,0.98
+ch,minimal clearance costs,最低清关成本,对灌木丛的清理成本很低,0.35,0.54
+ch,logs,日志,木材,0.00,0.41
+ch,shrubs,灌木,灌木丛,0.80,0.96
+ch,an empty pier,空码头,一个无人的突堤,0.00,0.41
+ch,pier,码头,突堤,0.00,0.62
+ch,small hut,小木屋,小棚屋,0.67,0.73
+ch,large hut,大型木屋,大棚屋,0.57,0.76
+ch,brick cottage,砖质小屋,小砖房,0.29,0.87
+ch,timber house,木结构住宅,木屋,0.29,0.76
+ch,hello,你好！,你好!,0.80,1.00
+ch,disasters,灾害,灾难,0.50,0.96
+ch,play,游戏,开始,0.00,0.51
+ch,time mins,分钟,{{TIME}} 分钟,0.44,0.78
+ch,classified,已分类,保密,0.00,0.55
+ch,share,份,分享,0.00,0.56
+ch,game paused,游戏已暂停,暂停游戏,0.44,0.88
+ch,sound,声,声音,0.67,0.92
+ch,motion,运动,行动,0.50,0.76
+ch,off,关闭,关,0.67,0.97
+ch,language  currentlang,语言,语言 - {{CURRENTLANG}},0.24,0.79
+ch,overview,概述,总览,0.00,0.87
+ch,previous,以前,前一步,0.40,0.65
+ch,home,住所,主页,0.00,0.59
+ch,next,下一个,下一步,0.67,0.96
+ch,back,后面,向后,0.50,0.94
+ch,buy cost,购买成本,购买 {{COST}},0.36,0.69
+ch,scroll up,向上滚动,向上浏览,0.50,0.84
+ch,scroll down,向下滚动,向下浏览,0.50,0.82
+ch,play difficulty,玩 {{DIFFICULTY}},开始 {{DIFFICULTY}},0.88,0.85
+ch,demolish structure,拆除结构,拆,0.40,0.78
+ch,develop defences,开发防御,建设防护,0.25,0.77
+ch,develop buildings,建筑开发,建设建筑,0.50,0.94
+ch,upgrade buildings,建筑升级,升级建筑,0.50,0.99
+ch,repeat last purchase,重复上一次购买,再买一次,0.36,0.93
+ch,view tile information,查看瓦片信息,浏览信息,0.40,0.78
+ch,share to facebook,分享到 Facebook,分享到脸书,0.35,0.98
+ch,share via email,通过电子邮件共享,邮件分享,0.50,0.96
+ch,take survey,完成调查,参加调查,0.50,0.81
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,furniture and equipment,家具与设备,家具和设备,0.80,1.00
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,furniture and equipment,家具与设备,家具和设备,0.80,1.00
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,furniture and equipment,家具与设备,家具和设备,0.80,1.00
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,furniture and equipment,家具与设备,家具和设备,0.80,1.00
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,furniture and equipment,家具与设备,家具和设备,0.80,1.00
+ch,furniture and equipment,家具与设备,家具和设备,0.80,1.00
+ch,assets  equipments,设备,资产 - 设备,0.50,0.63
+ch,assets  equipments,设备,资产 - 设备,0.50,0.63
+ch,furniture and equipment,家具与设备,家具和设备,0.80,1.00
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,furniture and equipment,家具与设备,家具和设备,0.80,1.00
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,assets  equipments,设备,资产 - 设备,0.50,0.63
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,furniture and equipment,家具与设备,家具和设备,0.80,1.00
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,furniture and equipment,家具与设备,家具和设备,0.80,1.00
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,assets  equipments,设备,资产 - 设备,0.50,0.63
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,machinery and equipments,机械设备,机械与设备,0.89,0.95
+ch,furniture and equipment,家具与设备,家具和设备,0.80,1.00
+ch,assets  equipments,设备,资产 - 设备,0.50,0.63
+ch,graders,评分器,年级,0.00,0.63
+ch,pipelines oil  oleduct,油管,石油管道 - 输油管,0.36,0.90
+ch,pollytecnic institute,理工学院,Pollytecnic 研究所,0.00,0.56
+ch,kitchen appliances,厨房电器,厨房用具,0.50,0.92
+ch,surgical block,手术块,手术区块,0.86,0.93
+ch,grapefruit  pomelo,柚子,葡萄柚和柚子,0.50,0.87
+ch,separation units,分离单元,分离装置,0.50,0.81
+ch,colleague health unit,同事健康单位,同事保健单位,0.83,0.96
+ch,basic drainage lines,基础排水管线,基本排水系统,0.50,0.76
+ch,small earthen dam,小型土坝,坝,0.40,0.76
+ch,vehicles  management,车辆管理,车辆 - 管理,0.80,0.99
+ch,spas,水疗中心,水疗,0.67,0.76
+ch,oil palms,油棕,油棕榈,0.80,0.75
+ch,completion systems,补全系统,完井系统,0.50,0.86
+ch,water reservoirs,水库,蓄水池,0.40,0.92
+ch,pipelines gas gaseoduct,天然气管道,管道 天然气-天然气管道,0.62,0.92
+ch,supplies,物资,用品,0.00,0.97
+ch,railcars,车厢,轨道车,0.40,0.56
+ch,lupins,羽扇豆,卢平,0.00,0.61
+ch,mixing rooms,混音室,混合室,0.67,0.73
+ch,drilling machinery,钻井设备,钻孔机械,0.25,0.89
+ch,inventory,清单,库存,0.00,0.55
+ch,photo studies,照片研究,图片研究,0.75,0.99
+ch,onions incl shallots,洋葱（含小洋葱）,洋葱(包括葱),0.46,0.99
+ch,peaches  nectarines,桃子和杏子,桃子和油桃,0.60,0.95
+ch,decentralized plants,分布式发电站,分散式工厂,0.36,0.66
+ch,artichokes,洋蓟,朝鲜蓟,0.40,0.64
+ch,pump jacks,泵架,泵用千斤顶,0.29,0.86
+ch,plums and sloes,李子和山柑,李子和苏子,0.60,0.84
+ch,color grading labs,色彩分级实验室,调色实验室,0.67,0.84
+ch,tribunal facilities,法院设施,法庭设施,0.75,0.99
+ch,crushing machinery,破碎设备,破碎机械,0.50,0.89
+ch,small embankments,小型堤坝,小堤坝,0.86,0.89
+ch,footpaths,人行道,人径,0.40,0.71
+ch,projectors,投影算子,投影仪,0.57,0.83
+ch,nutmeg mace cardamoms,肉豆蔻、肉豆蔻皮、豆蔻,肉豆蔻、肉豆蔻、小豆蔻,0.91,0.99
+ch,boards,印刷电路板,执行局,0.00,0.29
+ch,artworks,艺术作品,艺术品,0.86,0.99
+ch,boreholes,钻孔,水井,0.00,0.78
+ch,electronic health records,电子健康档案,电子病历,0.40,0.76
+ch,pile drivers,桩锤,打桩机,0.40,0.82
+ch,mine shafts,竖井,矿井,0.50,0.80
+ch,biogassifiers,厌氧消化槽,生物气化器,0.20,0.50
+ch,demolition machines,拆除机,爆破机械,0.29,0.71
+ch,pigeno peas,鸡豆,皮根诺豌豆,0.29,0.68
+ch,leguminous crops nec,豆科作物（未列入其他类别）,豆类作物(未另说明,0.38,0.95
+ch,regional medical centers,区域医疗中心,地区医疗中心,0.83,0.99
+ch,district hospital,区级医院,区医院,0.86,0.99
+ch,other cereals nec,"其他谷物, 未另归类","其他谷物,未另分类",0.82,0.96
+ch,rainage structures,雨水排水结构,雨水结构,0.80,0.97
+ch,other nuts nec,其他 NUTS（未另行分类）,其他坚果,0.22,0.82
+ch,treatment facilities,处理设施,治疗设施,0.50,0.65
+ch,mate,将死,伴侣,0.00,0.34
+ch,letrines,沉淀池,Letrines,0.00,0.37
+ch,niger seed,尼日尔籽,尼日尔种子,0.67,0.99
+ch,mechanized wells,机械化井,机井,0.67,0.83
+ch,school dispensaire nurse,学校护士,学校药剂师/护士,0.73,0.82
+ch,water quality laboratories,水质分析实验室,水质实验室,0.83,0.92
+ch,vanilla,vanilla,香草,0.00,0.59
+ch,artifacts,工件,工艺品,0.40,0.59
+ch,electricity transmission underwater,海底电力传输,水下输电,0.20,0.79
+ch,production machinery,生产设备,生产机械,0.50,0.89
+ch,government house,政府官邸,政府大楼,0.50,0.87
+ch,middle school,初中,中学,0.50,0.96
+ch,millets,小米,黍,0.00,0.59
+ch,processing facilities,处理设施,加工设施,0.50,0.83
+ch,applicance,设备,适用范围,0.00,0.45
+ch,jetties,码头,栈桥,0.00,0.57
+ch,storefronts,在线商店,店面,0.33,0.83
+ch,faculty,教师,学院,0.00,0.66
+ch,ground extraction systems,土壤提取系统,地面抽吸系统,0.33,0.69
+ch,electronic switching,电子交换,电子开关,0.50,0.57
+ch,cow peas,羌豆,牛豌豆,0.40,0.72
+ch,other electronics,其他电子,其他电子产品,0.80,0.58
+ch,pumping systems surface,泵送系统表面,地面泵送系统,0.67,0.86
+ch,beans,JavaBeans,豆类,0.00,0.43
+ch,tangerines mandarins clementines,柑橘,橘子、柑橘、小柠檬,0.36,0.85
+ch,processing plants,处理厂,加工厂,0.33,0.83
+ch,landmark,关键点,地标,0.00,0.62
+ch,nutmeg mace cardamoms,肉豆蔻、肉豆蔻皮、豆蔻,肉豆蔻、肉豆蔻、小豆蔻,0.91,0.99
+ch,weirs,溢洪坝,堰,0.00,0.71
+ch,dams,大坝,水坝,0.50,0.98
+ch,tanks,罐,坦克,0.00,0.69
+ch,drains,排水管,排水渠,0.67,0.89
+ch,box culverts,箱涵,箱形暗渠,0.33,0.68
+ch,blood banks,血液库,血库,0.80,0.98
+ch,recreational amenities,休闲设施,娱乐设施,0.50,0.83
+ch,houseboats,船屋,游艇,0.00,0.90
+ch,art galleries,画廊,艺术画廊,0.67,0.96
+ch,official residencies,官邸,正式驻地,0.00,0.82
+ch,other protective,其他防护,其他保护性,0.67,0.95
+ch,mobile treatment units,移动治疗单元,移动处理装置,0.33,0.66
+ch,primary health centers,基层卫生中心,初级保健中心,0.33,0.94
+ch,community water supply,社区供水系统,社区供水,0.80,0.96
+ch,generators,生成器,发电机,0.00,0.61
+ch,solar pv,光伏太阳能,太阳能光伏发电,0.50,0.98
+ch,associated energy supplies,关联能源供应,相关能源供应,0.83,0.98
+ch,medium passenger services,中程客运服务,中型客运服务,0.83,0.90
+ch,storage furniture,储物家具,储藏家具,0.75,0.92
+ch,boreholdes,Boreholdes,钻孔,0.00,0.62
+ch,footbridges,人行桥,行人,0.40,0.63
+ch,castor bean,蓖麻籽,蓖麻,0.80,0.76
+ch,barracks,兵营,军营,0.50,0.95
+ch,cauliflowers  broccoli,花椰菜和西兰花,菜花和西兰花,0.77,0.93
+ch,online storefronts,在线商店,在线店面,0.75,0.98
+ch,pumps and aerators,泵和曝气器,泵和充气机,0.60,0.97
+ch,poles,极点,杆,0.00,0.71
+ch,house trailers,拖挂式住宅,房屋拖车,0.22,0.80
+ch,cherries  sour cherries,樱桃及酸樱桃,樱桃和酸樱桃,0.83,1.00
+ch,storage tanks,贮存罐,储存罐,0.67,0.92
+ch,early childhood center,早期教育中心,幼儿中心,0.40,0.71
+ch,regasification terminals,液化天然气再气化终端,再气化终端,0.67,0.88
+ch,assets viaducts roads,资产：高架桥、公路,资产:高架桥、道路,0.82,0.99
+ch,chairs,主席,椅子,0.00,0.38
+ch,laboratory consumables,实验室耗材,实验室消耗品,0.73,0.93
+ch,inroom appliances,客房电器,室内电器,0.50,0.92
+ch,cotton,棉花,棉质,0.50,0.96
+ch,gooseberries,醋栗,鹅莓,0.00,0.79
+ch,diagnostic  laboratory services,诊断与实验室服务,诊断和实验室服务,0.88,1.00
+ch,storage facilities,存储设施,储存设施,0.75,0.96
+ch,forage products nec,饲料产品，其他,"饲料产品,未另分类",0.53,0.84
+ch,protection walls,防护墙,保护墙,0.67,0.96
+ch,turbines,涡轮,涡轮机,0.80,0.96
+ch,stalls,停滞,摊位,0.00,0.54
+ch,sound stages,录音棚,音响舞台,0.29,0.76
+ch,backhoes,反铲挖土机,反铲,0.57,0.83
+ch,editing hardwarde,编辑硬件,编辑 hardwarde,0.25,0.41
+ch,supporting equipments,支撑设备,辅助设备,0.50,0.83
+ch,official vehicles,公务用车,官方车辆,0.25,0.89
+ch,desks,桌子,办公桌,0.40,0.69
+ch,pipe culverts,管道涵洞,管涵,0.67,0.58
+ch,other connective,其他逻辑连接词,其他连接体,0.67,0.54
+ch,colections,集合,收藏,0.00,0.76
+ch,fishing engines,渔业发动机,捕鱼发动机,0.60,0.97
+ch,cameras,相机,照相机,0.80,0.99
+ch,pumps,泵,水泵,0.67,0.86
+ch,correctionaries,纠错词典,惩教所,0.00,0.31
+ch,vacuum trucks,真空垃圾车,真空吸尘器,0.40,0.85
+ch,asphalt pavers,沥青摊铺机,沥青铺路机,0.80,0.83
+ch,safflower,胡颓子,红花,0.00,0.44
+ch,protection of slopes,坡面防护,保护斜坡,0.25,0.92
+ch,major fixtures,主要组件,主要装置,0.50,0.83
+ch,loaders,加载器,装载机,0.33,0.85
+ch,cabbages,甘蓝,卷心菜,0.00,0.40
+ch,water trucks,水罐车,运水车,0.67,0.68
+ch,fishing vesselsboats,渔船,渔船/船只,0.67,0.91
+ch,treatment plants,污水处理厂,处理厂,0.75,0.65
+ch,libraries,软件库,图书馆,0.00,0.67
+ch,vanilla,vanilla,香草,0.00,0.59
+ch,studios music,录音室音乐,工作室音乐,0.60,0.89
+ch,lentils,扁豆,小扁豆,0.80,0.96
+ch,batching plants,混凝土搅拌站,配料设备,0.00,0.55
+ch,river intakes,河流进水口,河口,0.57,0.72
+ch,compactors,压缩机,压实机,0.67,0.67
+ch,apples 2,Apples 2,苹果 2,0.33,0.96
+ch,rice,稻米,大米,0.50,0.87
+ch,rollers,滚子,滚筒,0.50,0.82
+ch,landscaping,园林绿化,景观设计,0.00,0.49
+ch,mobile manufactured houses,移动房屋,活动房屋/人造房屋,0.50,0.78
+ch,mobile healthcare unit,移动医疗单位,流动医疗单位,0.83,0.90
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,governance,治理,管理,0.50,0.76
+ch,industry,工业,行业,0.50,0.96
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,governance,治理,管理,0.50,0.76
+ch,governance,治理,管理,0.50,0.76
+ch,commerce and trade,商务与贸易,商业和贸易,0.60,0.99
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,transportation,运输,交通运输,0.67,0.97
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,industry,工业,行业,0.50,0.96
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,industry,工业,行业,0.50,0.96
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,governance,治理,管理,0.50,0.76
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,industry,工业,行业,0.50,0.96
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,governance,治理,管理,0.50,0.76
+ch,aquaculture  agriculturefisheries  agriculture,"水产养殖 - 农业, 渔业 - 农业",水产养殖 - 农业、渔业 - 农业,0.93,1.00
+ch,commerce and trade,商务与贸易,商业和贸易,0.60,0.99
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,transportation,运输,交通运输,0.67,0.97
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,transportation,运输,交通运输,0.67,0.97
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,transportation,运输,交通运输,0.67,0.97
+ch,commerce and trade,商务与贸易,商业和贸易,0.60,0.99
+ch,transportation,运输,交通运输,0.67,0.97
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,governance,治理,管理,0.50,0.76
+ch,commerce and trade,商务与贸易,商业和贸易,0.60,0.99
+ch,commerce and trade,商务与贸易,商业和贸易,0.60,0.99
+ch,transportation,运输,交通运输,0.67,0.97
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,governance,治理,管理,0.50,0.76
+ch,governance,治理,管理,0.50,0.76
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,transportation,运输,交通运输,0.67,0.97
+ch,industry,工业,行业,0.50,0.96
+ch,governance,治理,管理,0.50,0.76
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,commerce and trade,商务与贸易,商业和贸易,0.60,0.99
+ch,commerce and trade,商务与贸易,商业和贸易,0.60,0.99
+ch,industry,工业,行业,0.50,0.96
+ch,transportation,运输,交通运输,0.67,0.97
+ch,commerce and trade,商务与贸易,商业和贸易,0.60,0.99
+ch,commerce and trade,商务与贸易,商业和贸易,0.60,0.99
+ch,industry,工业,行业,0.50,0.96
+ch,governance,治理,管理,0.50,0.76
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,commerce and trade,商务与贸易,商业和贸易,0.60,0.99
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,industry,工业,行业,0.50,0.96
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,governance,治理,管理,0.50,0.76
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,industry,工业,行业,0.50,0.96
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,governance,治理,管理,0.50,0.76
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,governance,治理,管理,0.50,0.76
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,commerce and trade,商务与贸易,商业和贸易,0.60,0.99
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,commerce and trade,商务与贸易,商业和贸易,0.60,0.99
+ch,industry,工业,行业,0.50,0.96
+ch,industry,工业,行业,0.50,0.96
+ch,governance,治理,管理,0.50,0.76
+ch,industry,工业,行业,0.50,0.96
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,territory,领土,领地,0.50,0.96
+ch,wellbeing,福祉,幸福感,0.40,0.64
+ch,human mobility,人类移动,(人类)流动性,0.67,0.74
+ch,community  sense of,社区感,社区(归属感),0.75,0.96
+ch,artefacts,人工制品,文物,0.00,0.68
+ch,provisioning services,配置服务,供应服务,0.50,0.86
+ch,indigenous knowledge,土著知识,本土知识,0.75,0.87
+ch,meaningful places,有意义的地点,有意义的地方,0.83,0.97
+ch,insectrelated diseases,昆虫相关疾病,与昆虫有关的疾病,0.71,0.99
+ch,carcinogens,致癌物,致癌物质,0.86,0.97
+ch,extraterrestrial,外星,外星人,0.80,0.92
+ch,seismic,地震的,地震,0.80,0.98
+ch,volcanic,火山的,火山,0.80,0.98
+ch,waterrelated,水相关,与水有关,0.57,0.96
+ch,particlerelated,与粒子相关,粒子相关,0.89,0.98
+ch,precipitationrelated,降水,降水相关,0.67,0.91
+ch,temperaturerelated,温度,与温度有关,0.57,0.91
+ch,wind  pressurerelated,风与气压,与风和压力有关,0.36,0.94
+ch,postconflict,冲突后期,冲突后,0.86,0.96
+ch,behavioural,行为的,行为,0.80,0.95
+ch,economic,经济的,经济,0.80,0.96
+ch,constructionstructural failure,建筑结构失效,施工/结构故障,0.33,0.86
+ch,cyber hazards,网络风险,网络危害,0.50,0.92
+ch,industrial failure,工业失效,工业失败,0.75,0.96
+ch,waste,废弃物,废物,0.80,0.93
+ch,transportation accidents,运输事故,交通事故,0.50,0.90
+ch,ground failure,地面失效,地面故障,0.50,0.93
+ch,other biological hazards,其他生物危险,其他生物危害,0.83,0.98
+ch,space weather,空间天气,太空天气,0.75,0.96
+ch,asphyxiant gases,缺氧气体,窒息性气体,0.44,0.65
+ch,insect pest infestations,昆虫害虫入侵,虫害,0.50,0.82
+ch,locust upsurge,蝗灾,蝗虫肆虐,0.33,0.85
+ch,snakebite envenoming,蛇咬中毒,蛇咬伤,0.57,0.90
+ch,humanwildlife conflict,人类与野生动物冲突,人类与野生动物的冲突,0.95,1.00
+ch,antimicrobial resistance,抗菌药物耐药性,抗菌药耐药性,0.92,0.99
+ch,bacterial plant disease,细菌性植物病害,植物细菌性病害,0.71,0.99
+ch,fungal plant disease,Enfermedad fúngica en plantas,植物真菌病,0.00,0.81
+ch,anthrax,炭疽,炭疽病,0.80,0.97
+ch,waterborne diseases,水源性疾病,水传播疾病,0.60,0.97
+ch,neglected tropical diseases,被忽视的热带疾病,被忽视的热带病,0.93,0.98
+ch,vaccinepreventable diseases,可预防的疫苗接种疾病,疫苗可预防的疾病,0.67,0.98
+ch,vectorborne diseases vbd,媒介传播疾病,病媒传染疾病(VBD),0.53,0.70
+ch,diarrhoeal diseases,腹泻性疾病,腹泻疾病,0.89,0.99
+ch,prion diseases,朊蛋白病,朊病毒疾病,0.44,0.78
+ch,hepatitis b,Hepatitis B,乙型肝炎,0.00,0.78
+ch,hepatitis c,Hepatitis C,丙型肝炎,0.00,0.82
+ch,hiv and aids,艾滋病毒和艾滋病,艾滋病毒与艾滋病,0.88,1.00
+ch,covid19 sarscov2,冠状病毒病2019,COVID-19(SARS-CoV-2),0.17,0.40
+ch,escherichia coli stec,志贺毒素产生的大肠杆菌 (STEC),大肠杆菌(STEC),0.67,0.86
+ch,shigellosis,志贺菌病,志贺氏菌病,0.89,0.99
+ch,pandemic influenza human,大流行性流感（人类的）,大流行性流感(人类),0.84,0.99
+ch,seasonal influenza,gripal saesonál,季节性流感,0.00,0.34
+ch,cysticercosis,囊虫病,囊尾蚴病,0.57,0.85
+ch,leptospirosis,豬霍亂,钩端螺旋体病,0.00,0.53
+ch,plague,鼠疫,瘟疫,0.50,0.83
+ch,chikungunya,基孔肯雅热,奇昆古尼亚,0.00,0.68
+ch,zika virus,齐瓦哥病毒,寨卡病毒,0.44,0.88
+ch,pertussis human,百日咳,百日咳(人类),0.75,0.95
+ch,polio,脊髓灰质炎,小儿麻痹症,0.00,0.56
+ch,dengue,Dengue,登革热,0.00,0.63
+ch,ebola,埃博拉病毒病,埃博拉,0.67,0.97
+ch,lassa fever,拉斯热病,拉沙热,0.57,0.78
+ch,mpox,猴痘病毒,Mpox,0.00,0.26
+ch,rotavirus,Roto-Virus,轮状病毒,0.00,0.74
+ch,lumpy skin disease,乳突皮肤病,结节性皮肤病,0.55,0.87
+ch,newcastle disease,纽卡斯尔病,新城疫,0.00,0.67
+ch,q fever,Fieber Q,Q 热,0.18,0.57
+ch,west nile fever,西尼罗河病毒病,西尼罗河热,0.67,0.56
+ch,trypanosomiasis,人类锥虫病,锥虫病,0.75,0.92
+ch,classical swine fever,经典猪瘟,古典猪瘟,0.75,0.99
+ch,oyster disease aquaculture,牡蛎养殖疾病,牡蛎疾病 水产养殖,0.53,0.98
+ch,ammonia,氨,氨气,0.67,0.94
+ch,chlorine,氯气,氯,0.67,0.96
+ch,lead,Zink,领导,0.00,0.21
+ch,mercury,水星,汞,0.00,0.83
+ch,microplastics,Microplastiken,微塑料,0.00,0.81
+ch,benzene and hydrocarbons,苯及烃,苯和碳氢化合物,0.20,0.86
+ch,asbestos,asbest,石棉,0.00,0.35
+ch,methanol,metanol,甲醇,0.00,0.68
+ch,salinity  sodicity,盐度与钠碱度,盐度&钠度,0.80,0.99
+ch,biodiversity loss,Verlust der Biodiversität,生物多样性丧失,0.00,0.98
+ch,desertification,沙漠化,荒漠化,0.67,0.85
+ch,loss of mangroves,红树林损失,红树林的消失,0.73,0.89
+ch,coral bleaching,Bleaching der Korallen,珊瑚漂白,0.00,0.95
+ch,compressive soils,压缩土,压缩土壤,0.86,0.88
+ch,permafrost loss,perte du pergelisol,冻土流失,0.00,0.48
+ch,sand mining,砂矿开采,采砂,0.33,0.76
+ch,deforestation,desforestación,森林砍伐,0.00,0.93
+ch,forest invasive species,Invasiv speces boskar,森林入侵物种,0.00,0.42
+ch,wildfires,yě huǒ,野火,0.00,0.47
+ch,airburst,空中爆炸,气爆,0.33,0.75
+ch,geomagnetic disturbance,Disturbance géomagnétique,地磁干扰,0.00,0.84
+ch,ionospheric disturbances,Störungen der Ionenosphäre,电离层扰动,0.00,0.48
+ch,solar energetic particles,太阳高能粒子,太阳能量粒子,0.83,0.86
+ch,space hazard  accident,空间危害 / 事故,空间危险/事故,0.71,0.99
+ch,pyroclastic density current,火成密度流,火成岩密度电流,0.83,0.80
+ch,lahars,拉哈耳,拉哈尔斯,0.57,0.93
+ch,subsidence and uplift,沉降与抬升,沉降和隆起,0.40,0.94
+ch,shrinkswell subsidence,收缩-膨胀沉降,收缩膨胀下沉,0.83,0.97
+ch,sinkhole,塌陷坑,天坑,0.40,0.84
+ch,sand encroachment,沙丘侵袭,侵蚀沙地,0.25,0.90
+ch,downburst,下沉风,下降气流,0.29,0.84
+ch,lightning electrical storm,闪电,闪电(电气风暴),0.50,0.91
+ch,thunderstorm,hromovětření,雷雨,0.00,0.44
+ch,coastal flooding,海岸洪水,沿海洪水,0.75,1.00
+ch,estuarine coastal flooding,河口洪水,河口(沿海)洪水,0.80,0.97
+ch,flash flooding,fliegender Hochwasser,山洪暴发,0.00,0.76
+ch,fluvial riverine flooding,河流洪水,冲积(河流)洪水,0.80,0.98
+ch,groundwater flooding,地下水洪涝,地下水泛滥,0.60,0.90
+ch,ponding drainage flooding,蓄水洪水,积水(排水) 洪水,0.55,0.97
+ch,surface water flooding,地表水淹沒,地表水泛滥,0.60,0.92
+ch,haze,霾,烟雾,0.00,0.67
+ch,sand haze,沙尘雾,沙雾,0.80,0.92
+ch,rogue wave,孤浪,恶浪,0.50,0.64
+ch,sea ice icebergs,lado di mara,海冰(冰山),0.00,0.47
+ch,ice flow,冰川流动,冰流,0.67,0.79
+ch,seiche,塞希波,海蚀,0.00,0.48
+ch,tsunami,tsunami,海啸,0.00,0.93
+ch,extratropical cyclone,温带气旋,特热带气旋,0.67,0.95
+ch,subtropical cyclone,副热带气旋,亚热带气旋,0.80,0.94
+ch,hail,冰雹,万岁,0.00,0.80
+ch,snow storm,雪暴,暴风雪,0.40,0.94
+ch,cold wave,寒流,寒潮,0.50,0.90
+ch,dzud,多祖,Dzud,0.00,0.72
+ch,frost hoar frost,霜,霜冻(胡尔霜),0.33,0.91
+ch,glaze,釉,釉料,0.67,0.90
+ch,ground frost,地面霜,地面霜冻,0.86,0.92
+ch,icing including ice,结冰,糖霜(包括冰块),0.25,0.63
+ch,gale strong gale,буря,烈风(强风),0.00,0.66
+ch,squall,突风,Squall,0.00,0.76
+ch,civil unrest,社会动荡,内乱,0.00,0.86
+ch,violence,暴力,暴力问题,0.67,0.98
+ch,financial shock,шок financiar,金融冲击,0.00,0.87
+ch,radioactive waste,放射性废弃物,放射性废物,0.91,0.99
+ch,radioactive agents  material,放射性剂和材料,放射性物质和材料,0.80,0.99
+ch,nuclear agents,核剂,核制剂,0.80,0.77
+ch,explosive agents,爆炸物,爆炸剂,0.67,0.96
+ch,building collapse,Gebäudeabriss,建筑物倒塌,0.00,0.66
+ch,building highrise cladding,高层建筑覆层,建筑、高层建筑、覆层,0.75,0.93
+ch,structural failure,结构失效,结构故障,0.50,0.95
+ch,bridge failure,桥梁失效,桥梁故障,0.50,0.96
+ch,dam failure,大坝失效,大坝垮塌,0.50,0.88
+ch,supply chain failure,供应链失效,供应链失败,0.80,0.96
+ch,critical infrastructure failure,Kritische Infrastrukturversagen,关键基础设施故障,0.00,0.91
+ch,nuclear plant failure,核电站失效,核电站故障,0.60,0.96
+ch,emergency telecommunications failure,紧急通信故障,紧急电信故障,0.83,0.95
+ch,water supply failure,供水失效,供水故障,0.50,0.97
+ch,malware,maleficent software,恶意软件,0.00,0.56
+ch,cyberbullying,cyberbullying,网络欺凌,0.00,0.81
+ch,pollution,汚染,污染,0.50,0.98
+ch,leaks and spills,泄漏与溢漏,泄漏和溢出,0.60,0.94
+ch,fire,火灾,消防,0.00,0.96
+ch,mining hazards,Gebrücke des Bergbaus,采矿危险,0.00,0.49
+ch,plastic waste,塑料废弃物,塑料垃圾,0.44,0.96
+ch,electronic waste ewaste,电子废弃物,电子废物(E-Waste),0.53,0.90
+ch,healthcare waste,医疗废弃物,医疗废物,0.89,0.99
+ch,landfilling,填埋,垃圾填埋,0.67,0.70
+ch,waste treatment lagoons,废水处理塘,废物处理池,0.60,0.94
+ch,marine debris,海洋垃圾,海洋废弃物,0.44,0.95
+ch,reservoir flooding,蓄水池洪水,水库泄洪,0.44,0.94
+ch,air transportation accident,航空运输事故,空运事故,0.80,0.98
+ch,maritime accident,海事事故,海上事故,0.75,0.95
+ch,asphyxiant ​​gases,窒息气体,窒息性气体,0.89,0.98
+ch,persistent organic pollutants,ersistenten organischen Schadstoffe,持久性有机污染物,0.00,0.91
+ch,marine heatwave,Calor marina,海洋热浪,0.00,0.77
+ch,space debris,空间碎片,太空碎片,0.75,0.97
+ch,social engineering  phishing,钓鱼攻击,社交工程 - 网络钓鱼,0.29,0.59
+ch,tunnel failure,隧道失效,隧道故障,0.50,0.97
+ch,marburg virus disease,Maladie du virus de Marburg,马尔堡病毒病,0.00,0.83
+ch,biological,生物的,生物,0.80,0.93
+ch,chemical,化学物质,化学,0.67,0.93
+ch,extraterrestrial,外星,外星人,0.80,0.92
+ch,geological,地质的,地质学,0.67,0.89
+ch,meteorological and hydrological,气象与水文,气象和水文,0.80,1.00
+ch,societal,社会的,社会,0.80,0.98
+ch,technological,技术的,技术,0.80,0.97
+ch,provisioning services,配置服务,供应服务,0.50,0.86
+ch,one health,一体化健康,一个健康,0.67,0.82
+ch,58 tertiary,5-8三级,5-8 三级,0.89,0.98
+ch,culture livelihoods,文化生计,文化生活,0.75,0.96
+ch,coal generation,燃煤发电,煤炭发电,0.75,0.99
+ch,others nonformal education,其他-非正式教育,其他 - 非正规教育,0.75,0.90
+ch,crosscutting,横向,贯穿各领域,0.00,0.67
+ch,gathering forest products,林产品采集,采集林产品,0.60,0.99
+ch,sea and coastal,海洋与海岸,海洋和海岸,0.80,1.00
+ch,collective living quarters,集体居住区,集体宿舍,0.44,0.70
+ch,large scale sanitation,大规模卫生,大型卫生设施,0.55,0.74
+ch,waste disposal,废弃物处置,废物处理,0.67,0.97
+ch,employees,雇员,员工,0.50,0.99
+ch,urban sewage system,城市污水系统,城市污水处理系统,0.86,0.98
+ch,conventional dwellings,常规住宅,传统住宅,0.50,0.81
+ch,health care network,卫生保健网络,医疗保健网络,0.67,0.99
+ch,warehousing and storage,仓储与存储,仓储,0.57,0.84
+ch,genderbased discrimination,性别歧视,基于性别的歧视,0.73,0.95
+ch,nutrition,营养,营养学,0.80,0.96
+ch,access to services,服务接入,获得服务,0.50,0.94
+ch,selfemployed,个体经营者,自营职业者,0.40,0.70
+ch,transportation,运输,交通运输,0.67,0.97
+ch,social protection,社会保障,社会保护,0.75,0.73
+ch,from reclaimed,回收,摘自《再生,0.00,0.60
+ch,governance,治理,管理,0.50,0.76
+ch,logging,日志,记录,0.00,0.72
+ch,vocational,职业的,职业,0.80,0.97
+ch,industry,工业,行业,0.50,0.96
+ch,thermal water treatment,热水处理,热能水处理,0.89,0.96
+ch,coal distribution,煤炭配送,煤炭分配,0.75,0.96
+ch,repositories of heritage,文化遗产存储库,遗产库,0.60,0.84
+ch,land transportation,陆路运输,陆路交通,0.50,0.96
+ch,connective infrastructure,互联基础设施,连接性基础设施,0.62,0.95
+ch,road passenger transport,道路客运,公路客运,0.75,0.99
+ch,passenger air transport,客运航空运输,航空客运,0.40,0.90
+ch,access to ressources,资源访问,获取资源,0.50,0.90
+ch,primary health care,初级卫生保健,初级保健,0.80,0.99
+ch,general,通用,一般情况,0.00,0.77
+ch,piped water distribution,管道供水系统,管道输水,0.60,0.92
+ch,hot water generation,热水生成,生成热水,0.50,0.98
+ch,mental health,精神健康,心理健康,0.50,0.99
+ch,permanent perennial crops,永久多年生作物,多年生作物,0.83,0.89
+ch,marine fishing,海洋捕捞,海洋捕鱼,0.75,0.98
+ch,commerce and trade,商务与贸易,商业和贸易,0.60,0.99
+ch,timeuse,时间使用,使用时间,0.50,0.99
+ch,regulating services,调节服务,监管服务,0.50,0.89
+ch,wireless telecommunication activities,无线电通信活动,无线通信活动、,0.86,0.76
+ch,extraultrahigh voltage,高压,超/特/高压,0.67,0.85
+ch,postal activities,邮政业务,邮政活动,0.50,0.96
+ch,other manufacturing,其他制造,其他制造业,0.89,0.87
+ch,traditional knowledge,传统知识,传统知识、,0.89,0.99
+ch,upper chambersenate,参议院,上议院/参议院,0.67,0.90
+ch,care livelihoods,照护工作收入,关爱民生,0.00,0.46
+ch,communicable diseases programs,传染病项目,传染病计划,0.60,0.99
+ch,forestry and logging,林业与采伐,林业和伐木业,0.55,0.98
+ch,pension funding,养老保险金筹资,养老金筹资,0.83,0.96
+ch,agricultural land,农用地,农业用地,0.86,0.93
+ch,urban solid waste,城市固体废弃物,城市固体废物,0.92,0.99
+ch,waste transportation,废弃物运输,废物运输,0.89,0.99
+ch,productive,生产性的,生产性,0.86,0.97
+ch,waste transportation,废弃物运输,废物运输,0.89,0.99
+ch,1primary education,小学教育,1-初等教育,0.44,0.87
+ch,water transportation,水路运输,水上交通,0.25,0.85
+ch,regional  decentralized administration,区域分权行政,地区 - 分散管理,0.29,0.84
+ch,construction of buildings,建筑物的建设,建筑施工,0.40,0.94
+ch,electricity storage,电能储存,电力存储,0.50,0.95
+ch,human mobility,人类移动,人员流动,0.50,0.76
+ch,nonspecialized wholesale trade,非专业批发贸易,非专业化批发贸易,0.93,0.98
+ch,0early childhood,0–幼儿期,0-幼儿期,0.89,0.99
+ch,tour operators,旅游运营商,旅行社,0.25,0.85
+ch,other water transportation,其他水路运输,其他水上运输,0.83,0.91
+ch,water passenger transport,水路客运,水上客运,0.75,0.92
+ch,other specials network,其他特殊网络,其他特别网络,0.83,0.99
+ch,electricity,电,电力,0.67,0.99
+ch,manufacture of beverages,饮料制造,饮料生产,0.50,0.99
+ch,manufacturing,制造,制造业,0.80,0.81
+ch,landscapes,景观,风景,0.50,0.96
+ch,waste collection,垃圾收集,废物收集,0.50,0.97
+ch,livestock,畜牧业动物,牲畜,0.29,0.94
+ch,small scale sanitation,小规模卫生设施,小型卫生设施,0.77,0.96
+ch,silviculture,林业种植学,造林,0.29,0.86
+ch,low voltage,低压,低电压,0.80,0.70
+ch,rituals,仪式,仪式、,0.80,0.99
+ch,retail trade,零售贸易,零售业,0.57,0.91
+ch,protective infrastructure,防护基础设施,保护性基础设施,0.77,0.96
+ch,sanitation,卫生,环境卫生,0.67,0.69
+ch,supporting services,支持服务,支助服务,0.75,0.94
+ch,water sources generation,水源生成,水源--发电,0.50,0.79
+ch,environmental health,环境健康,环境卫生,0.50,0.94
+ch,hazard monitoring,风险监测,危险监测,0.75,0.91
+ch,commnications community lifelines,通信社区生命线,通信 社区生命线,0.93,0.99
+ch,4 post secondary,高等教育,4- 中学后,0.00,0.55
+ch,service livelihoods,生计服务,服务生计,0.50,0.53
+ch,tertiary levels,三级层次,高等教育,0.00,0.41
+ch,waste disposal,废弃物处置,废物处理,0.67,0.97
+ch,mining and quarrying,采矿和采石业,采矿和采石,0.91,0.98
+ch,waste collection,垃圾收集,废物收集,0.50,0.97
+ch,crops,作物,农作物,0.80,0.99
+ch,communitybased,基于社区,社区,0.67,0.89
+ch,wired telecommunication activities,有线通信活动,有线电信活动、,0.77,0.94
+ch,tangible cultural heritage,有形文化遗产,物质文化遗产,0.67,0.91
+ch,disaster mitigation,灾害缓解,减灾,0.33,0.83
+ch,noncommunicable diseases programs,非传染性疾病项目,非传染性疾病计划,0.75,0.98
+ch,telecommunications,电信,电信、,0.80,0.98
+ch,primary education,小学教育,初等教育,0.50,0.92
+ch,from soil water,土壤水,来自土壤水,0.75,0.96
+ch,23 secondary,2-3- 二级,2-3- 中学,0.60,0.86
+ch,steam generation,蒸汽产生,蒸汽发生器,0.67,0.93
+ch,hunting and trapping,狩猎与捕捉,狩猎和诱捕,0.60,0.96
+ch,road transport infrastructure,道路运输基础设施,道路交通基础设施,0.75,0.99
+ch,freight air transport,航空货运,货物空运,0.50,0.89
+ch,local administration,地方行政,地方行政部门,0.80,0.97
+ch,tribunals,法庭,法院,0.50,0.99
+ch,other nonformal education,其他非正式教育,其他非正规教育,0.86,0.91
+ch,oil strorage,石油储存,储油库,0.29,0.85
+ch,cultural practices,文化实践,文化习俗,0.50,0.95
+ch,marine aquaculture,海洋养殖,海水养殖,0.75,0.93
+ch,natural gas upstream,天然气上游,上游天然气,0.60,0.98
+ch,temporary  annual crops,临时性一年生作物,临时 - 一年生作物,0.82,0.99
+ch,courier activities,快递业务,快递活动,0.50,0.97
+ch,inland water transport,内河运输,内陆水运,0.50,0.86
+ch,transportation supppor services,运输支持服务,交通支持服务,0.67,0.98
+ch,gas distribution,燃气分配,燃气配送,0.75,0.94
+ch,specialized construction activities,专业建筑活动,专业施工活动,0.67,0.92
+ch,satellite telecommunication activities,卫星通信活动,卫星通信活动、,0.92,1.00
+ch,information and communication,信息与通信,信息与传播,0.60,0.93
+ch,disaster response,灾害响应,灾害应对,0.75,0.95
+ch,other housing units,其他住房单位,其他住房单元,0.83,0.97
+ch,consumable fuels,可消耗燃料,消耗性燃料,0.80,0.96
+ch,animal production,畜牧业,动物生产,0.00,0.83
+ch,land  including soils,土地,土地(包括土壤),0.50,0.80
+ch,water distribution,供水分配系统,配水,0.25,0.75
+ch,nonpiped water distribution,非管道供水分配,非管道输水,0.67,0.95
+ch,oil manufacture upstream,石油上游,石油制造/上游,0.80,0.93
+ch,harmful traditional practices,有害传统做法,有害的传统习俗,0.62,0.97
