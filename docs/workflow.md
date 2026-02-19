@@ -40,7 +40,7 @@ graph TD
     Result2 --> Consensus
     Result3 --> Consensus
     
-    Consensus -->|Yes (>= 2 Agree)| Final[Final Translation]
+    Consensus -->|"Yes (>= 2 Agree)"| Final[Final Translation]
     Consensus -->|No| Arbitration[Arbitration Phase]
     
     subgraph "Arbitration Phase"
