@@ -1,0 +1,110 @@
+Definition  
+Определение  
+Emergency telecommunications failure is an umbrella term for telecommunications of an ‘extraordinary nature’ under abnormal and potentially adverse network conditions (ITU, 2007).  
+Необходимые связи в чрезвычайных ситуациях – это общий термин, обозначающий телекоммуникации «необычного характера» при аномальных и потенциально неблагоприятных условиях сети (ITU, 2007).  
+
+Primary reference(s)  
+Ссылки (основные)  
+ITU, 2007. Y.2172: Service restoration priority levels in Next Generation Networks. International Telecommunication Union (ITU). Accessed 26 January 2025.  
+
+Annotations  
+Примечания  
+Additional scientific description  
+Дополнительное научное описание  
+Emergency telecommunications are critical when a disaster occurs, to enable emergency and disaster response teams, government ministries, departments and agencies, as well as humanitarian agencies to coordinate and deliver disaster response and recovery efforts.  
+Телекоммуникации в чрезвычайных ситуациях критически важны при возникновении бедствия, позволяя экстренным и аварийным службам, министерствам, ведомствам и агентствам правительства, а также гуманитарным организациям координировать и осуществлять усилия по реагированию и восстановлению.  
+Emergency telecommunications failure is closely linked to service restoration. Service restoration is described as a set of automated or manual methods, invoked after a network failure, to enhance the ability of successful communications reroute and completion around the failed network element(s) (ITU, 2014).  
+Сбой в экстренных телекоммуникациях тесно связан с восстановлением обслуживания. Восстановление обслуживания описывается как набор автоматических или ручных методов, применяемых после отказа сети, чтобы повысить возможность успешного перенаправления и завершения коммуникаций вокруг неработающих элементов сети (ITU, 2014).  
+All forms of communications traffic are expected to be carried by next-generation networks - control plane traffic (e.g., routing and signalling messages), emergency telecommunications, real-time voice and video services, data services, virtual private network (VPN) services, as well as traditional 'Best effort' traffic.  
+Все виды коммуникационного трафика, ожидается, будут передаваться следующими поколениями сетей – трафик управления (например, сообщения маршрутизации и сигнализации), экстренные телекоммуникации, сервисы голосовой и видеосвязи в реальном времени, сервисы данных, сервисы виртуальных частных сетей (VPN), а также традиционный трафик «наилучшие усилия».  
+In such an environment, it is important to assign priority classifications and establish rules for service restoration such that critical services (e.g., control plane traffic and emergency telecommunications) are recognised and restored over other services in case of network overloads or failures.  
+В такой среде важно присвоить приоритетные классификации и установить правила восстановления обслуживания, чтобы критические сервисы (например, трафик управления и экстренные телекоммуникации) распознавались и восстанавливались над другими сервисами в случае перегрузок сети или отказов.  
+As service flows can be expected to traverse multiple network domains, priority classification is an important step in the development of the necessary signalling protocol extensions as well as of the mechanisms for enabling preferential restoration of critical services (ITU, 2014).  
+Так как потоки обслуживания могут проходить через несколько сетевых доменов, приоритетная классификация является важным шагом в разработке необходимых расширений протокола сигнализации, а также механизмов, обеспечивающих предпочтительное восстановление критических сервисов (ITU, 2014).  
+The requirements for disaster communication in terms of reliability, ruggedness and resilience also differ in different phases of a disaster. The broad scope of disaster management from a communication perspective needs to be handled as regards the type of communication technologies and their utilization in the various phases of the disaster (ITU, 2014).  
+Требования к коммуникациям при бедствиях в отношении надежности, прочности и устойчивости также различаются в разных фазах бедствия. Широкий спектр управления бедствиями с точки зрения коммуникаций необходимо учитывать тип коммуникационных технологий и их применение в различных фазах бедствия (ITU, 2014).  
+
+Metrics and numeric limits  
+Метрики и численные пределы  
+The ITU is currently developing global guidelines for countries to develop National Emergency Telecommunications Plans (NETS) to be used for early warning and in times of emergency. The framework seeks to address a country’s exposure to natural hazards and disasters prior to developing emergency data and communication systems (ITU, 2019).  
+ITU в настоящее время разрабатывает глобальные рекомендации для стран по созданию Национальных планов экстренных телекоммуникаций (NETS), которые используются для раннего предупреждения и в периоды чрезвычайных ситуаций. Фреймворк направлен на решение вопроса о степени экспозиции страны к природным опасностям и бедствиям до разработки систем экстренных данных и коммуникаций (ITU, 2019).  
+
+Key relevant UN convention / multilateral treaty  
+Ключевые международные договоры/многосторонние соглашения  
+The Tampere Convention on the Provision of Telecommunication Resources for Disaster Mitigation and Relief Operations was established in 2005. This international treaty allows countries to remove regulatory issues to immediately provide emergency telecommunications where a disaster has occurred (United Nations Treaty Collection, 1998).  
+Конвенция Тампере о предоставлении телекоммуникационных ресурсов для смягчения последствий бедствий и операций по помощи была установлена в 2005 году. Это международное соглашение позволяет странам устранять регуляторные вопросы для немедленного предоставления экстренных телекоммуникаций там, где произошло бедствие (United Nations Treaty Collection, 1998).  
+
+Drivers  
+Мотивационные факторы  
+Natural hazards can destroy telecommunications infrastructure and cause severe network disruptions. Electrical power is essential for these emergency communication systems to operate and power outages are directly linked to the drivers of this hazard (Townsend and Moss, 2005; Chang et al., 2007). In addition, human-caused hazards, such as sabotage, vandalism and war, impact on emergency telecommunications. Natural hazards impact emergency telecommunication. During and after an earthquake, emergency communications are crucial. Reliable communication is vital for disseminating information, coordinating rescue efforts, and allowing people to stay informed and connect with loved ones. In the immediate aftermath, traditional phone calls may be unreliable, so text messages, social media, and battery-operated radios become important communication tools (US Department of Homeland Security, 2024; PAHO, 2009). Solar geomagnetic storms generate X-rays and solar radio bursts, accelerate solar particles to relativistic velocities, causing major perturbations to the solar wind, and can cause detrimental effects to the electricity grid, satellites, avionics, air passengers, signals from satellite navigation systems, mobile telephones and more. (National Research Council, 2008; Royal Academy of Engineering, 2013)  
+Природные опасности могут разрушать телекоммуникационную инфраструктуру и вызывать серьёзные сетевые сбои. Электричество необходимо для работы систем экстренной связи, и отключения электроэнергии напрямую связаны с причинами этой опасности (Townsend and Moss, 2005; Chang et al., 2007). Кроме того, человеческие опасности, такие как саботаж, вандализм и война, влияют на экстренные телекоммуникации. Природные опасности влияют на экстренную телекоммуникацию. Во время и после землетрясения экстренная связь критически важна. Надёжная связь жизненно важна для распространения информации, координации спасательных усилий и обеспечения того, чтобы люди оставались в курсе и связывались с близкими. В непосредственных последствии традиционные телефонные звонки могут быть ненадёжными, поэтому текстовые сообщения, социальные сети и аккумуляторные радиостанции становятся важными средствами связи (US Department of Homeland Security, 2024; PAHO, 2009). Солнечные геомагнитные бури генерируют рентгеновские лучи и солнечные радиопульсы, ускоряют солнечные частицы до релятивистских скоростей, вызывая серьёзные возмущения в солнечном ветре, и могут вызывать вредные воздействия на электрическую сеть, спутники, авиацию, пассажиров, сигналы спутниковых навигационных систем, мобильные телефоны и др. (National Research Council, 2008; Royal Academy of Engineering, 2013)  
+
+Impacts  
+Влияние  
+Emergency telecommunications failure can lead to the malfunction of early warning systems, increasing the potential for secondary damages. It also diminishes disaster response capabilities by causing delays or reducing the efficiency of emergency response operations. Furthermore, due to its interdependency with power and ICT systems, telecommunications infrastructure can become a target for cyber-attacks, creating additional vulnerabilities in the system (CISA, 2023). Failure in emergency communications will have more impact in the context of other hazards, for example, wildfires are the most frequent type of emergency, particularly affecting transmission network circuits (Salema & Caldeirinha, 2024). Issues around emergency telecommunications failure increase the risk of physical damage and financial losses, where quick service restoration, to enhancing disaster response capabilities for improving emergency connectivity are vital.  
+Сбой экстренных телекоммуникаций может привести к неисправности систем раннего предупреждения, повышая риск вторичных повреждений. Он также снижает возможности реагирования на бедствия, вызывая задержки или уменьшая эффективность операций экстренного реагирования. Более того, из-за взаимозависимости с энергетическими и ИКТ-системами телекоммуникационная инфраструктура может стать целью кибератак, создавая дополнительные уязвимости в системе (CISA, 2023). Сбой в экстренных коммуникациях окажет более серьёзное воздействие в контексте других опасностей; например, лесные пожары — наиболее частый тип чрезвычайных ситуаций, особенно затрагивающий цепи передачной сети (Salema & Caldeirinha, 2024). Проблемы, связанные со сбоем экстренных телекоммуникаций, увеличивают риск физических повреждений и финансовых потерь, где быстрое восстановление обслуживания критично для улучшения возможностей реагирования на бедствия и повышения экстренной связи.  
+
+Multi-hazard context  
+Мульти-опасности  
+The figure below summarises common interactions between emergency communication failure and other hazards. This information should be used with caution and not be solely relied upon in Disaster Risk Management, particularly as some interactions may not have been included. Note that hazardous events occurring together or locally in space or time may not necessarily cause, amplify, or be otherwise related to each other. Specific examples of multi-hazard context can be found in the ‘Hazard drivers’ and ‘Impacts’ sections above.  
+Ниже представлен рисунок, обобщающий типичные взаимодействия между сбоем экстренной связи и другими опасностями. Эта информация должна использоваться с осторожностью и не должна быть единственным основанием для управления рисками бедствий, особенно поскольку некоторые взаимодействия могут быть не включены. Заметьте, что опасные события, происходящие одновременно или локально в пространстве или времени, не обязательно вызывают, усиливают или иначе связаны друг с другом. Конкретные примеры контекста мульти-опасностей можно найти в разделах «Драйверы опасности» и «Влияние» выше.  
+
+Multi-hazard diagram  
+Диаграмма мульти-опасностей  
+
+Risk Management  
+Управление рисками  
+The ITU’s NETS framework can be used across all stages of the disaster management cycle and provides guidelines for a country to establish robust Information and Communication Technologies (ICT) systems before, during and after a disaster (ITU, 2019). In large-scale disaster situations, emergency telecommunication failures are likely due to network overload or interdependencies with power systems. To address these risks, it is crucial to enhance the resilience of communication systems by implementing measures such as network traffic and system performance monitoring. Additionally, risks can be mitigated through the establishment of backup communication systems, securing alternative communication pathways, and pre-planning the personnel and resources needed to ensure uninterrupted operations. Mobile technology serves as a critical tool in mitigating emergency telecommunications failure, enabling effective communication across all phases of disaster management, including preparedness, resilience-building, response, and recovery. It ensures access to vital information and plays a particularly significant role in the dissemination and communication of early warnings (GSMA, 2023).  
+Фреймворк NETS ITU может применяться на всех этапах цикла управления бедствиями и предоставляет рекомендации для страны по созданию надёжных систем информационных и коммуникационных технологий (ИКТ) до, во время и после бедствия (ITU, 2019). В масштабных бедствиях сбои экстренных телекоммуникаций чаще всего связаны с перегрузкой сети или взаимозависимостью с энергетическими системами. Для снижения этих рисков критически важно повысить устойчивость коммуникационных систем, внедрив такие меры, как мониторинг сетевого трафика и производительности системы. Кроме того, риски можно смягчить, создав резервные коммуникационные системы, обеспечив альтернативные каналы связи и заранее спланировав персонал и ресурсы, необходимые для непрерывной работы. Мобильные технологии служат критически важным инструментом при смягчении сбоев экстренных телекоммуникаций, обеспечивая эффективную связь во всех фазах управления бедствиями, включая подготовку, укрепление устойчивости, реагирование и восстановление. Они обеспечивают доступ к важной информации и играют особенно значительную роль в распространении и коммуникации ранних предупреждений (GSMA, 2023).  
+
+Monitoring  
+Мониторинг  
+Emergency telecommunications failures exacerbate disaster risks by hindering communication and coordination among responders, potentially leading to delayed or ineffective emergency response, and increased physical and financial damage. Quick service restoration is crucial for enhancing disaster response capabilities, as it enables timely communication, information sharing, and coordinated actions to mitigate damage and aid affected populations (OECD, 2025).  
+Сбои экстренных телекоммуникаций усиливают риски бедствий, препятствуя коммуникации и координации между реагирующими, что может привести к задержкам или неэффективному экстренному реагированию и увеличению физических и финансовых потерь. Быстрое восстановление услуг критически важно для улучшения возможностей реагирования на бедствия, поскольку позволяет своевременно осуществлять коммуникацию, обмен информацией и скоординированные действия по смягчению ущерба и оказанию помощи пострадавшим (OECD, 2025).  
+
+References  
+Ссылки  
+Chang S.E., McDaniels T.L., Mikawoz J., Peterson K. Infrastructure failure interdependencies in extreme events: power outage consequences in the 1998 Ice Storm. Natural Hazards, 41 (2) (2007), pp. 337-358. Accessed 19 May 2025  
+Chang S.E., McDaniels T.L., Mikawoz J., Peterson K. Инфраструктурные сбои взаимозависимости в экстремальных событиях: последствия отключения электроэнергии при Урагане 1998 года. Natural Hazards, 41 (2) (2007), с. 337-358. Доступ 19 мая 2025 г.  
+
+Cybersecurity and Infrastructure Security Agency (CISA), 2023. Emergency Services sector cyber risk assessment. Cybersecurity and Infrastructure Security Agency (CISA). Accessed 26 January 2025  
+Агентство кибербезопасности и безопасности инфраструктуры (CISA), 2023. Оценка киберриска в секторе экстренных служб. Cybersecurity and Infrastructure Security Agency (CISA). Доступ 26 января 2025 г.  
+
+Groupe Spéciale Mobile Association (GSMA), 2021. National Emergency Telecommunications Plans: Enablers and Safeguards. A brief evaluation guide for policy practitioners. Accessed 19 May 2025  
+Группа Специализированных Мобильных Ассоциаций (GSMA), 2021. Национальные планы экстренных телекоммуникаций: возможности и меры защиты. Краткое руководство по оценке для практиков политики. Доступ 19 мая 2025 г.  
+
+Groupe Spéciale Mobile Association (GSMA), 2023. Cell Broadcast for Early Warning Systems: A review of the Technology and how to implement it. Accessed 26 January 2025.  
+Группа Специализированных Мобильных Ассоциаций (GSMA), 2023. Целая передача для систем раннего предупреждения: обзор технологии и способы её реализации. Доступ 26 января 2025 г.  
+
+International Telecommunication Union (ITU), 2014. Gap Analysis of Disaster Relief Systems, Network Resilience and Recovery. ITU-T Focus Group on Disaster Relief Systems, Resilience and Recovery Network. International Telecommunication Union (ITU). Accessed 26 January 2025.  
+Международный союз электросвязи (ITU), 2014. Анализ пробелов систем оказания помощи при бедствиях, устойчивости сети и восстановления. ITU-T Focus Group on Disaster Relief Systems, Resilience and Recovery Network. Международный союз электросвязи (ITU). Доступ 26 января 2025 г.  
+
+International Telecommunication Union (ITU), 2019. Global guidelines to develop national emergency telecommunication plans: Draft for comments. International Telecommunication Union (ITU). ITU Guidelines for national emergency telecommunication plans. Accessed 26 January 2025.  
+Международный союз электросвязи (ITU), 2019. Глобальные рекомендации по разработке национальных планов экстренных телекоммуникаций: проект для комментариев. Международный союз электросвязи (ITU). Руководство ITU по национальным планам экстренных телекоммуникаций. Доступ 26 января 2025 г.  
+
+National Research Council. 2008. Severe Space Weather Events: Understanding Societal and Economic Impacts: A Workshop Report. Washington, DC: The National Academies Press. DOI: 10.17226/12507. Accessed 19 May 2025.  
+Национальный исследовательский совет. 2008. Сильные события космической погоды: понимание общественных и экономических последствий: доклад семинара. Вашингтон, округ Колумбия: The National Academies Press. DOI: 10.17226/12507. Доступ 19 мая 2025 г.  
+
+Organisation for Economic Co-operation and Development (OECD), 2025. Enhancing the resilience of communication networks. OECD digital economy papers May 2025 No. 374. Organisation for Economic Co-operation and Development (OECD). Accessed 19 May 2025.  
+Организация экономического сотрудничества и развития (OECD), 2025. Повышение устойчивости сетей связи. Публикации OECD о цифровой экономике, май 2025, № 374. Организация экономического сотрудничества и развития (OECD). Доступ 19 мая 2025 г.  
+
+Pan American Health Organization (PAHO), 2009. Information management and communication in emergencies and disasters: manual for disaster response teams. Pan American Health Organization (PAHO). Accessed 19 May 2020.  
+Панамериканская организация здравоохранения (PAHO), 2009. Управление информацией и коммуникации в чрезвычайных ситуациях и бедствиях: руководство для команд реагирования на бедствия. Панамериканская организация здравоохранения (PAHO). Доступ 19 мая 2020 г.  
+
+Royal Academy of Engineering, 2013. Extreme space weather: impacts on engineered systems and infrastructure. Accessed 19 May 2020.  
+Королевская академия инженерии, 2013. Экстремальная космическая погода: влияние на созданные системы и инфраструктуру. Доступ 19 мая 2020 г.  
+
+Salema, C, and Caldeirinha R. 2024. ‘Perspective Chapter: Mobile Radio Emergency Communications for Large-Scale Wildfire Fighting – Portugal as a Case Study’. Fire Safety Engineering - Measures, Policies, and Applications [Working Title]. IntechOpen. doi:10.5772/intechopen.1007773. Accessed 19 May 2025.  
+Salema, C, и Caldeirinha R. 2024. «Глава перспектив: Мобильные радиосвязи для экстренной борьбы с крупномасштабными лесными пожарами – Португалия как пример». Fire Safety Engineering - Measures, Policies, and Applications [Рабочий заголовок]. IntechOpen. doi:10.5772/intechopen.1007773. Доступ 19 мая 2025 г.  
+
+Townsend, A.M. and M.L. Moss, 2005. Telecommunications infrastructure in disasters: Preparing cities for crisis communications. Telecommunications Infrastructures in Disasters: Preparing Cities for Crisis Communications - World | ReliefWeb. Accessed 26 January 2025.  
+Townsend, A.M. и M.L. Moss, 2005. Инфраструктура телекоммуникаций в бедствиях: подготовка городов к кризисной связи. Telecommunications Infrastructures in Disasters: Preparing Cities for Crisis Communications - World | ReliefWeb. Доступ 26 января 2025 г.  
+
+United Nations Treaty Collection, 1998. Chapter XXV: Telecommunications: 4. Tampere Convention on the provision of telecommunication resources for disaster mitigation and relief operations. Accessed 10 May 2025.  
+Коллекция договоров Организации Объединенных Наций, 1998. Глава XXV: Телекоммуникации: 4. Конвенция Тампере о предоставлении телекоммуникационных ресурсов для смягчения последствий бедствий и операций по помощи. Доступ 10 мая 2025 г.  
+
+US Department of Homeland Security, 2025. Earthquake. Accessed 19 May 2020.  
+Министерство внутренней безопасности США, 2025. Землетрясение. Доступ 19 мая 2020 г.  
+
+Cite this [Copy citation]  
+Ссылка на цитирование [Скопировать цитату]

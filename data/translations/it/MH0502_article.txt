@@ -1,0 +1,60 @@
+Definizione  
+Una ondata di freddo è un periodo di clima freddo marcato e inusuale, caratterizzato da un brusco e significativo calo delle temperature dell'aria vicino alla superficie (massimo, minimo e media giornaliera) su un'area ampia e che persiste sotto determinati limiti per almeno due giorni consecutivi durante la stagione fredda (WMO, 2020).
+
+Riferimenti primari  
+WMO, 2020. Linee guida sulla definizione e il monitoraggio di eventi meteorologici e climatici estremi. Organizzazione Meteorologica Mondiale (WMO). Consultato il 16 maggio 2025.
+
+Annotazioni  
+Descrizione scientifica aggiuntiva  
+Negli Stati Uniti, il Servizio Meteorologico Nazionale (US National Weather Service) definisce un'ondata di freddo come un rapido calo della temperatura entro 24 ore a livelli che richiedono una protezione sostanzialmente aumentata per agricoltura, industria, commercio e attività sociali. Il criterio per un'ondata di freddo è quindi a due livelli: il tasso di calo della temperatura e il valore minimo a cui scende. Quest'ultimo dipende dalla regione e dal periodo dell'anno (AMS, 2019). In Cina, un'ondata di freddo è definita come clima disastroso in inverno. L'aria fredda proveniente dalle latitudini più alte si rafforza rapidamente sotto condizioni meteorologiche speciali quando entra nelle aree a latitudini medie e basse, portando a un brusco calo della temperatura, a venti forti, a neve e pioggia. Quando l'aria fredda meridionale raggiunge uno standard particolare, diventa un'ondata di freddo (China Meteorological Administration, 2012). Un'ondata di freddo non deve essere confusa con un periodo di freddo persistente, che invece si riferisce a condizioni di temperatura persistenti sotto la media durante la stagione calda, le quali possono anche avere gravi impatti sulla società, in particolare sulla salute umana e sull'agricoltura (WMO, 2020).
+
+Metriche e limiti numerici  
+Le linee guida dell'Organizzazione Meteorologica Mondiale sulla definizione e il monitoraggio di eventi meteorologici e climatici estremi consigliano quanto segue (WMO, 2020):  
+Indice: valori giornalieri di Tmax, Tmin e/o temperatura media. Un altro indice potrebbe essere calcolato utilizzando il cambiamento di temperatura nelle 24 ore precedenti l'insorgere dell'evento.  
+Limite: determinato in base ai valori storici dell'indice.  
+Temporale: informazioni a livello stazionario sulla data di inizio, data di fine e durata dell'evento. La persistenza delle condizioni per un'ondata di freddo è di due giorni.  
+Spaziale: calcolare l'area colpita, fornendo la percentuale di stazioni in cui il limite è stato superato; individuare le coordinate delle stazioni colpite e il centro con i valori più alti/massimi degli indici; e opzionale, ma consigliato se le risorse lo consentono, utilizzare un sistema informativo geografico (GIS) per calcolare l'area colpita dall'evento, la magnitudo e la gravità.
+
+Convenzione / Trattato multilaterrale rilevante delle Nazioni Unite  
+Quadro di Sendai per la riduzione del rischio di disastri 2015‑2030.
+
+Motori  
+Nessuna informazione disponibile.
+
+Impatto  
+Gli impatti sulla salute umana derivanti dalle ondate di freddo includono la mortalità per malattie cardiache ischemiche e malattie cerebrovascolari, entrambe le quali aumentano con il freddo. L'aumento delle malattie respiratorie è generalmente attribuito a infezioni trasversali causate dalla congestione interna e agli effetti avversi del freddo sulla resistenza del sistema immunitario alle infezioni respiratorie, oltre al fatto che le basse temperature favoriscono la sopravvivenza dei batteri nelle goccioline (Eurowinter Group, 1997). Vivere in una casa fredda può influenzare la salute a qualsiasi età, non solo in età avanzata, per una varietà di ragioni. Sebbene le morti aggiuntive nei anziani siano causate principalmente da malattie cardiovascolari e respiratorie, un numero molto più grande ha disturbi minori che portano a un enorme carico di malattia, costi per il sistema sanitario e sofferenza. Confrontato con coloro che vivono in una casa più calda, i problemi respiratori si raddoppiano approssimativamente nei bambini, l'artrite e il reumatismo aumentano, e la salute mentale può essere compromessa a qualsiasi età. Gli adolescenti che vivono in una casa fredda hanno un rischio aumentato di cinque volte per molteplici problemi di salute mentale (Dear e McMichael, 2011).
+
+Contesto multi‑rischio  
+La figura sottostante riassume le interazioni comuni tra ondate di freddo e altri pericoli. Queste informazioni dovrebbero essere usate con cautela e non dovrebbero essere l'unica base per la gestione del rischio di disastri, in particolare poiché alcune interazioni potrebbero non essere state incluse. Si noti che eventi pericolosi che si verificano insieme o localmente nello spazio o nel tempo potrebbero non causare, amplificare o essere altrimenti correlati tra loro. Esempi specifici di contesto multi‑rischio si possono trovare nelle sezioni “Driver del pericolo” e “Impatto” sopra menzionate.
+
+Diagramma multi‑rischio
+
+Gestione del rischio  
+Ad esempio, il Cold Weather Plan per l'Inghilterra, lanciato per la prima volta nel 2011, aiuta a prevenire i principali effetti evitabili sulla salute durante i periodi di freddo in Inghilterra (UK Government, 2020). I parametri nazionali di allerta per l'avviso di ondata di freddo sono disponibili in Cina (China Meteorological Administration, 2012).
+
+Monitoraggio  
+La sezione sopra e la tabella sotto offrono una panoramica del monitoraggio delle ondate di freddo. Queste informazioni possono essere utilizzate per le previsioni all'interno di un sistema di allerta precoce nazionale (EWS). Poiché le capacità e i processi degli EWS differiscono tra i paesi, le informazioni più recenti e specifiche riguardanti l'EWS dovrebbero essere ottenute dall'agenzia/autorità nazionale o regionale appropriata responsabile della gestione dei disastri.
+
+Quali istituzioni producono dati/informazioni sul rischio di disastri?  
+Agenzie nazionali, subnazionali e locali di gestione dei disastri responsabili del monitoraggio dei rischi di ondate di freddo, dell'emissione di avvisi e della coordinazione degli sforzi di risposta di emergenza.  
+Servizi meteorologici che monitorano i cali di temperatura, i fattori di raffreddamento del vento e le condizioni di freddo estremo.  
+Agenzie idrologiche che monitorano i corpi idrici ghiacciati, i livelli di pacchetto nevoso e i potenziali rischi di alluvione da ghiaccio e scioglimento della neve.  
+Agenzie spaziali e di teledetenzione che utilizzano satelliti per monitorare i modelli di temperatura, la copertura nevosa e i movimenti delle masse d'aria fredda.  
+Autorità di sicurezza marittima e aeronautica che monitorano l'accumulo di ghiaccio, le condizioni di bassa visibilità e rilasciano avvisi per viaggi aerei e marittimi.  
+Agenzie di trasporti e infrastrutture che valutano i rischi per strade, ponti e ferrovie dovuti alla formazione di ghiaccio, alle condizioni congelate e al freddo estremo.  
+Compagnie energetiche e di servizi pubblici che si preparano a un aumento della domanda di riscaldamento, alla pressione della rete elettrica e a potenziali interruzioni dovute al freddo estremo.  
+Pianificatori del territorio e urbanisti che integrano le valutazioni del rischio di ondate di freddo nelle strategie di riscaldamento urbano, nella pianificazione dell'efficienza energetica e nelle misure di risposta di emergenza.  
+Autorità sanitarie che valutano i rischi per la salute pubblica, inclusi ipotermia, congelamento, malattie respiratorie e le esigenze di risposta medica d'emergenza a causa dell'esposizione a freddo estremo.  
+Ricercatori e accademici, tra cui climatologi e meteorologi, che studiano la formazione delle ondate di freddo, i cambiamenti climatici e i miglioramenti delle previsioni.
+
+Come viene osservato/monitorato/preveduto il pericolo?  
+Le ondate di freddo vengono monitorate con satelliti e stazioni meteorologiche dotate di sensori di temperatura per tracciare improvvisi cali di temperatura, raffreddamento del vento e cambiamenti della pressione atmosferica. I meteorologi analizzano i movimenti dell'aria polare, le variazioni dello spray di venti, i livelli di umidità e modelli meteorologici avanzati per prevedere eventi di freddo estremo, consentendo ai previsioni di emettere avvisi precoci. Questi avvisi aiutano le comunità, i fornitori di energia e gli operatori di emergenza a prepararsi ai rischi per la salute, alle richieste di riscaldamento e alle potenziali interruzioni delle infrastrutture e dei trasporti.
+
+Riferimenti  
+AMS, 2019. Glossario della Meteorologia: Ondata di freddo. American Meteorology Society (AMS). Consultato il 16 maggio 2025.  
+China Meteorological Administration, 2012. Avvisi meteorologici: Ondata di freddo. Consultato il 16 maggio 2025.  
+Dear, K.B.G. e M.J. McMichael, 2011. Gli impatti sulla salute delle case fredde e della povertà energetica. British Medical Journal, 342. Consultato il 16 maggio 2025.  
+Eurowinter Group, 1997. Esposizione al freddo e mortalità invernale da malattie cardiache ischemiche, malattie cerebrovascolari, malattie respiratorie e tutte le cause nei regioni calde e fredde d'Europa. Lancet, 349:1341‑1346.  
+UK Government, 2020. Piano per il freddo per l'Inghilterra. Consultato il 16 maggio 2025.  
+WMO, 2020. Linee guida sulla definizione e il monitoraggio di eventi meteorologici e climatici estremi. Organizzazione Meteorologica Mondiale (WMO). Consultato il 16 maggio 2025.  
+Zhang, X., L. Alexander, G.C. Hegerl, P. Jones, A.K. Tank, T.C. Peterson, B. Trewin e F.W. Zwiers, 2011. Indici per il monitoraggio dei cambiamenti negli estremi basati su dati quotidiani di temperatura e precipitazione. WIREs Climate Change, 2:851‑870.

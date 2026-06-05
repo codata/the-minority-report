@@ -1,0 +1,51 @@
+Definition  
+El viento es el movimiento del aire en relación con la superficie de la Tierra. A menos que se indique lo contrario, se considera solo la componente horizontal (WMO, 1992).
+
+Primary reference(s)  
+WMO, 1992. International Meteorological Vocabulary, WMO-No. 182. 2nd Edition. World Meteorological Organization (WMO). Accedido el 16 de mayo de 2025.
+
+Annotations  
+Descripción científica adicional  
+La velocidad del viento es una consideración importante en relación con, por ejemplo, la contaminación aérea y el aterrizaje de aeronaves (WMO, 2018). El viento superficial se considera principalmente como una cantidad vectorial bidimensional especificada por dos números que representan dirección y velocidad (WMO, 2018). La extensión en que el viento se caracteriza por fluctuaciones rápidas se denomina agitación, y las fluctuaciones individuales se llaman ráfagas (WMO, 2018).
+
+Metrics and numeric limits  
+Una escala internacionalmente reconocida para medir el viento es la Escala de Beaufort, que es una medida empírica que relaciona la velocidad del viento con las condiciones observadas en el mar o en tierra. Su nombre completo es la Escala de fuerza del viento de Beaufort (Royal Meteorological Society, 2018). La Escala de fuerza del viento de Beaufort tiene 13 niveles, entre los que se incluyen: calma, aire ligero, brisa ligera, brisa suave, brisa moderada, brisa fresca, brisa fuerte, cerca de vendaval, vendaval, vendaval fuerte, tormenta, tormenta violenta e huracán. Cabe destacar que la velocidad de viento citada es la medida a 10 m sobre el suelo, no a la superficie (que, a 2 m, puede ser solo el 50‑70 % de estos valores (Royal Meteorological Society, 2018).
+
+Key relevant UN convention / multilateral treaty  
+Marco de Sendai para la Reducción del Riesgo de Desastres 2015‑2030.
+
+Drivers  
+La órbita de la Tierra alrededor del sol y su rotación sobre un eje inclinado hacen que algunas partes de la Tierra reciban más radiación solar que otras. Este calentamiento desigual produce patrones de circulación global. Por ejemplo, la abundancia de energía que llega al ecuador produce aire caliente e húmedo que sube alto en la atmósfera. Se forma un área de baja presión en la superficie, y una región de nubes se forma a altitud. El aire eventualmente deja de subir y se extiende hacia el norte y el sur hacia los polos de la Tierra. Aproximadamente 3 200 km del ecuador, el aire cae de nuevo a la superficie de la Tierra, soplando hacia el polo y de regreso al ecuador. Seis de estas grandes corrientes de convección cubren la Tierra de polo a polo. (NOAA, 2024).
+
+Impacts  
+El viento es un componente principal o contribuyente a una serie de riesgos como el derecho, ciclón tropical, avalancha, ciclón subtropical, tormenta subtropical, tornado y tormenta tropical. El viento también está asociado con la dispersión de tormentas de polvo, ceniza volcánica y inundaciones costeras. La salud humana puede verse severamente afectada por huracanes de viento (Goldman et al., 2014). Los efectos incluyen efectos directos, que ocurren durante la fase de impacto de una tormenta, causando muerte y lesiones debido a la fuerza del viento. Volverse aéreo, ser golpeado por escombros voladores o árboles caídos y accidentes de tráfico son los principales peligros. Los efectos indirectos, que ocurren durante las fases pre‑ y post‑impacto de la tormenta, incluyen caídas, laceraciones y heridas por pinchazo, y ocurren al prepararse o limpiar después de una tormenta. Los apagones son un problema clave y pueden llevar a electrocución, incendios y quemaduras, y a intoxicación por monóxido de carbono (CH0302) por generadores eléctricos a gasolina. El empeoramiento de enfermedades crónicas por falta de acceso a atención médica o medicación también puede ocurrir. Otros impactos en la salud incluyen infecciones y picaduras de insectos.
+
+Multi-hazard context  
+La figura de abajo resume las interacciones comunes entre el viento y otros riesgos. Esta información debe usarse con precaución y no debe depender únicamente de ella en la Gestión del Riesgo de Desastres, particularmente porque algunas interacciones pueden no haber sido incluidas. Tenga en cuenta que los eventos peligrosos que ocurren juntos o localmente en espacio o tiempo pueden no necesariamente causar, amplificar o estar de otra manera relacionados entre sí. Ejemplos específicos de contexto multi‑riesgo se pueden encontrar en las secciones de ‘Factores impulsores’ y ‘Impactos’ anteriores.
+
+Multi-hazard diagram
+
+Risk Management  
+Los códigos de construcción que garantizan que los edificios sean resistentes a vientos fuertes se implementan en algunos países.
+
+Monitoring  
+La sección anterior y la tabla de abajo ofrecen una visión general del monitoreo del viento. Esta información puede usarse para pronósticos dentro de un sistema nacional de advertencia temprana (EWS). Dado que las capacidades y procesos de EWS difieren entre países, la información más actual y específica sobre EWS debe obtenerse de la agencia/autoridad nacional o regional apropiada responsable de la gestión de desastres.  
+
+Which institution(s) produce(s) Disaster Risk Data/Information?  
+Agencias de gestión de desastres nacionales, subnacionales y locales responsables de monitorear los riesgos de viento alto, emitir advertencias y coordinar los esfuerzos de respuesta de emergencia.  
+Organizaciones meteorológicas que rastrean velocidades de viento, sistemas de presión y eventos meteorológicos severos.  
+Autoridades de seguridad marítima y de aviación que monitorean las condiciones del viento y emiten avisos para barcos, puertos, aeronaves y operaciones en alta mar.  
+Agencias de transporte e infraestructura que evalúan los riesgos para carreteras, puentes y ferrocarriles de vientos fuertes.  
+Empresas de energía y servicios públicos que monitorean los riesgos para líneas eléctricas, turbinas eólicas y otras infraestructuras ante vientos extremos y huracanes de viento.  
+Autoridades sanitarias que evalúan los riesgos de seguridad pública, incluyendo lesiones por escombros, colapsos estructurales y necesidades de respuesta médica de emergencia.  
+Investigadores y académicos, incluidos meteorólogos, climatólogos e ingenieros, que estudian patrones de viento, eventos de viento extremo y diseños de edificios resistentes al viento.
+
+How is the Hazard Observed/Monitored/Forecast?  
+Los vientos se monitorean mediante estaciones meteorológicas y satélites para medir la velocidad del viento, dirección y cambios de presión atmosférica. Los meteorólogos analizan sistemas de presión, corrientes de chorro y patrones de tormentas para predecir la velocidad y dirección del viento. Los modelos meteorológicos avanzados pronostican condiciones de viento extremo, ayudando a los pronosticadores a emitir alertas tempranas. Estas alertas ayudan a las industrias de aviación, marítima, a los servicios de emergencia y a las comunidades a prepararse para vientos fuertes, tormentas y daños potenciales.
+
+References  
+Goldman, A., Eggen, B., Golding, B. y Murray, V., 2014. Los impactos en la salud de los huracanes de viento: una revisión sistemática de la literatura. Public Health, 128, pp.3–28.  
+National Oceanic and Atmospheric Administration (NOAA), 2024. Weather Systems and Patterns. Accedido el 16 de mayo de 2025.  
+Royal Meteorological Society, 2018. La Escala de Beaufort: ¿Cómo se mide la velocidad del viento?. Accedido el 16 de mayo de 2025.  
+World Meteorological Organization (WMO), 2018. Guía de Instrumentos y Métodos de Observación. Volumen I – Medición de Variables Meteorológicas. WMO No.8. World Meteorological Association (WMO). Accedido el 16 de mayo de 2025.  
+Cite this [Copiar cita]

@@ -1,0 +1,1969 @@
+{
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0705": {
+    "term": "Tsunami",
+    "context": "Tsunami, a Japanese term meaning 'wave' (\u2018nami\u2019) in a harbour (\u2018tsu\u2019), refers to a series of long-period travelling waves, typically caused by disturbances such as earthquakes occurring beneath or near the ocean floor (IOC, 2019).",
+    "code": "MH0705",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0705",
+    "source_file": "data/distribution/MH0705_Tsunami.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0202": {
+    "term": "Asbestos",
+    "context": "Asbestos is the term for a group of naturally occurring fibrous silicate minerals widely used historically in building materials and other products (WHO, 2018). All types of asbestos cause lung cancer, mesothelioma, cancer of the larynx and ovary, and asbestosis (fibrosis of the lungs) (WHO, 2018).",
+    "code": "CH0202",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0202",
+    "source_file": "data/distribution/CH0202_Asbestos.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0206": {
+    "term": "Space Debris",
+    "context": "Space debris refers to all human-made objects, including fragments and elements thereof, in Earth orbit or re-entering the atmosphere, that are nonfunctional (COPUOS, 2002 and UNOOSA, 2007).",
+    "code": "ET0206",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0206",
+    "source_file": "data/distribution/ET0206_Space_Debris.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0301": {
+    "term": "Wind",
+    "context": "Wind is air motion relative to the Earth\u2019s surface. Unless otherwise specified, only the horizontal component is considered (WMO, 1992).",
+    "code": "MH0301",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0301",
+    "source_file": "data/distribution/MH0301_Wind.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0101": {
+    "term": "Arsenic",
+    "context": "Arsenic is a toxic metalloid widely distributed throughout the Earth\u2019s crust, generally as arsenic sulfide or as metal arsenates and arsenides. Human exposure to arsenic compounds represents a major public health concern as it has been associated with a range of acute and long-term adverse health effects and diseases (WHO, 2019).",
+    "code": "CH0101",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0101",
+    "source_file": "data/distribution/CH0101_Arsenic.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0600": {
+    "term": "Flooding",
+    "context": "Flooding is (1) an overflowing by water of the normal confines of a watercourse or other body of water; (2) an accumulation of drainage water over areas which are not normally submerged; (3) a controlled spreading of water for irrigation (WMO and UNESCO, 2012).",
+    "code": "MH0600",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0600",
+    "source_file": "data/distribution/MH0600_Flooding.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0404": {
+    "term": "Coral Bleaching",
+    "context": "Corals are subject to \u2018bleaching\u2019 when the seawater temperature is too high: they lose the symbiotic algae that give coral its colour and part of its nutrients. Severe, prolonged or repeated bleaching can lead to the death of coral colonies (United Nations, 2017).",
+    "code": "EN0404",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0404",
+    "source_file": "data/distribution/EN0404_Coral_Bleaching.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0218": {
+    "term": "Listeriosis",
+    "context": "Listeriosis is a foodborne infection caused by the bacteriumListeria monocytogeneswhich can be invasive (the more serious form of the disease) or non-invasive (the milder form of the disease). Listeriosis outbreaks occur in all countries and can be a significant public health concern (WHO, 2018).",
+    "code": "BI0218",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0218",
+    "source_file": "data/distribution/BI0218_Listeriosis.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0401": {
+    "term": "Insect Pest Infestations",
+    "context": "An insect pest infestation is a recently detected insect pest population, including an incursion, or a sudden significant increase of an established insect in an area leading to damage to plants in production fields, forests or natural habitats and causing substantial damage to productivity, biodiversity or natural resources (adapted from IPPC Secretariat, 2024).",
+    "code": "BI0401",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0401",
+    "source_file": "data/distribution/BI0401_Insect_Pest_Infestations.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0309": {
+    "term": "Natech",
+    "context": "Natural hazard triggered technological accident (Showalter et al., 1994).",
+    "code": "TL0309",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0309",
+    "source_file": "data/distribution/TL0309_Natech.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0609": {
+    "term": "Ponding (Drainage) Flooding",
+    "context": "A ponding flood is a flood that results from rainwater ponding at or near the point where it falls because it is falling faster than the drainage system (natural or man-made) can carry it away (WMO, 2006).",
+    "code": "MH0609",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0609",
+    "source_file": "data/distribution/MH0609_Ponding_(Drainage)_Flooding.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0227": {
+    "term": "Pertussis (Human)",
+    "context": "Pertussis is a highly contagious disease, which can be fatal, of the respiratory tract caused by the bacteriumBordetella pertussis(WHO, no date a).",
+    "code": "BI0227",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0227",
+    "source_file": "data/distribution/BI0227_Pertussis_(Human).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0108": {
+    "term": "Vector-borne diseases (VBD)",
+    "context": "Vector-borne diseases encompass a variety of illnesses that are caused by the spread of pathogens by living organisms known as vectors. These infectious diseases can be transmitted via vectors among humans (e.g. malaria, dengue), among animals (e.g. African swine fever, East Coast fever), or from animals to humans (e.g. Nipah virus disease). Many of these vectors are bloodsucking insects, and mosquitoes are the best-known disease vectors. Other vectors include ticks, flies, sandflies, fleas, triatomine bugs and some species of freshwater aquatic snails (adapted from WOAH, 2024a; WHO, 2024).",
+    "code": "BI0108",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0108",
+    "source_file": "data/distribution/BI0108_Vector-borne_diseases_(VBD).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0112": {
+    "term": "Cysticercosis",
+    "context": "Cysticercosis is a preventable infection in humans and pigs caused by the larval stages of the parasiteTaenia solium(pork tapeworm). Human cysticercosis can result in devastating effects when the larvae are located in the central nervous system, resulting in neurocysticercosis which may cause convulsions and epileptic seizures and can be fatal. It is the main cause of preventable epilepsy where the parasite is present, and it is estimated to affect between 2.56 and 8.30 million people (adapted from WHO, 2023).",
+    "code": "BI0112",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0112",
+    "source_file": "data/distribution/BI0112_Cysticercosis.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0311": {
+    "term": "Surface Rupture and Fissuring",
+    "context": "Surface ruptures and fissures are localized ground displacements that develop in response to tensional, compressional, and shear stresses, most commonly in unconsolidated sediment, but also in rock (Arizona Geological Survey, 2020). Surface ruptures represent the upward continuation of fault slip at depth, while fissures are smaller displacements, or more distributed deformation in and around the rupture area (adapted from USGS, no date and PNSN, no date).",
+    "code": "GH0311",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0311",
+    "source_file": "data/distribution/GH0311_Surface_Rupture_and_Fissuring.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0103": {
+    "term": "Solar Flares",
+    "context": "A solar flare is a sudden and large explosion on the Sun characterized by the rapid release of energy, resulting in the emission of electromagnetic radiation across all wavelengths and a rapid increase in brightness on a portion of the Sun's surface. The sudden outburst of electromagnetic energy travels at the speed of light therefore any effect upon the sunlit side of Earth\u2019s exposed outer atmosphere occurs at the same time the event is observed (NOAA Space Weather Prediction Center, 2023).",
+    "code": "ET0103",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0103",
+    "source_file": "data/distribution/ET0103_Solar_Flares.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0502": {
+    "term": "Dioxins and Dioxin-like Substances",
+    "context": "Dioxins and dioxin-like substances, including polychlorinated biphenyls (PCBs), polychlorinated dibenzo-p-dioxins (PCDDs) and polychlorinated dibenzofurans (PCDFs) are \u200b\u200b\u200b\u200bpersistent organic pollutants (POPs, see CH0\u200b500\u200b) and are unwanted by-products of combustion and various industrial processes, such as chlorine bleaching of paper pulp and smelting. They can travel long distances from the source of emission, and bioaccumulate in food chains. These substances represent a major public health concern. They have been associated with a range of acute and long-term adverse health effects and diseases (WHO, 2019).",
+    "code": "CH0502",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0502",
+    "source_file": "data/distribution/CH0502_Dioxins_and_Dioxin-like_Substances.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0201": {
+    "term": "Building Collapse",
+    "context": "Building collapse is the failure of load-bearing structural elements, causing a building to fall or fail catastrophically / catastrophic failure (adapted from US Department of Labor, no date).",
+    "code": "TL0201",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0201",
+    "source_file": "data/distribution/TL0201_Building_Collapse.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0211": {
+    "term": "Emergency Telecommunications Failure",
+    "context": "Emergency telecommunications failure is an umbrella term for telecommunications of an \u2018extraordinary nature\u2019 under abnormal and potentially adverse network conditions (ITU, 2007).",
+    "code": "TL0211",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0211",
+    "source_file": "data/distribution/TL0211_Emergency_Telecommunications_Failure.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0230": {
+    "term": "Prion Diseases",
+    "context": "Prion diseases are a family of rare progressive neurodegenerative disorders that affect both humans and animals (Adapted from CDC, 2024, and WHO, no date).",
+    "code": "BI0230",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0230",
+    "source_file": "data/distribution/BI0230_Prion_Diseases.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0306": {
+    "term": "Explosive agents",
+    "context": "An explosive substance or agent is a solid or liquid substance (or mixture of substances) which is in itself capable, by chemical reaction, of producing gas at such a temperature and pressure and at such a speed as to cause damage to the surroundings. Pyrotechnic substances and mixtures are included even when they do not evolve gases.\u00a0 Explosions can cause multiple severely injured casualties in a single incident (Adapted from UN 2023 and UK Parliament POSTNOTE 2011).",
+    "code": "TL0306",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0306",
+    "source_file": "data/distribution/TL0306_Explosive_agents.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0502": {
+    "term": "Cold Wave",
+    "context": "A cold wave is a period of marked and unusual cold weather characterised by a sharp and significant drop in air temperatures near the surface (maximum, minimum and daily average) over a large area and persisting below certain thresholds for at least two consecutive days during the cold season (WMO, 2020).",
+    "code": "MH0502",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0502",
+    "source_file": "data/distribution/MH0502_Cold_Wave.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0302": {
+    "term": "Pollution",
+    "context": "Pollution is the presence of substances and heat in environmental media (air, water, land) whose nature, location, or quantity produces undesirable environmental effects; and the activities that generates pollutants. (UN data, no date).",
+    "code": "TL0302",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0302",
+    "source_file": "data/distribution/TL0302_Pollution.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0212": {
+    "term": "Radio and Other Telecommunication Failures",
+    "context": "Radio and other telecommunication failures occur when there is an internal or external interruption of communications by either party that results in difficulty transporting a message as it was intended (adapted from Dainty et al., 2007).",
+    "code": "TL0212",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0212",
+    "source_file": "data/distribution/TL0212_Radio_and_Other_Telecommunication_Failures.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0801": {
+    "term": "Avalanche",
+    "context": "An avalanche is a mass of snow and ice falling suddenly down a mountain slope and often taking with it earth, rocks and rubble of every description (WMO, 1992).",
+    "code": "MH0801",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0801",
+    "source_file": "data/distribution/MH0801_Avalanche.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0502": {
+    "term": "Fungal Plant Disease",
+    "context": "Fungal plant disease is the occurrence of plant diseases caused by fungal agents over large areas with significant impacts on crop productivity or natural habitats (adapted from Arneson, 2001 and Moore et al., 2019).",
+    "code": "BI0502",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0502",
+    "source_file": "data/distribution/BI0502_Fungal_Plant_Disease.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0504": {
+    "term": "Microplastics",
+    "context": "Microplastics are small plastic pieces less than five millimetres in length which can be harmful to the environment, especially marine life. They originate from a variety of sources, including larger plastic debris that degrade into progressively smaller pieces (adapted from UNEP, 2016 and NOAA, 2023).",
+    "code": "CH0504",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0504",
+    "source_file": "data/distribution/CH0504_Microplastics.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0211": {
+    "term": "Hepatitis A",
+    "context": "Hepatitis A is an acute vaccine-preventable viral liver disease and can cause mild to severe illness. Hepatitis A occurs sporadically and in epidemics worldwide, with a tendency for cyclic recurrences, as the virus persists in the environment and can withstand food production processes routinely used to inactivate or control bacterial pathogens (WHO, 2025a).",
+    "code": "BI0211",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0211",
+    "source_file": "data/distribution/BI0211_Hepatitis_A.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0707": {
+    "term": "Ice Flow",
+    "context": "Ice flow is the motion of ice driven by gravitational forces, ice stress or, for sea ice, wind, water currents and tide (AMS, 2012).",
+    "code": "MH0707",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0707",
+    "source_file": "data/distribution/MH0707_Ice_Flow.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0401": {
+    "term": "Ocean Acidification",
+    "context": "Ocean acidification refers to a reduction in the pH of the ocean over an extended period, caused primarily by the uptake of carbon dioxide from the atmosphere. It can also result from other chemical additions to or subtractions from the ocean (IPCC, 2011).",
+    "code": "EN0401",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0401",
+    "source_file": "data/distribution/EN0401_Ocean_Acidification.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0604": {
+    "term": "Human-Wildlife Conflict",
+    "context": "Human-wildlife conflict is defined as struggles that emerge when the presence or behaviour of wildlife poses an actual or perceived, direct and recurring threat to human interests or needs, leading to disagreements between groups of people and negative impacts on people and/or wildlife (IUCN SSC, 2022).",
+    "code": "BI0604",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0604",
+    "source_file": "data/distribution/BI0604_Human-Wildlife_Conflict.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0406": {
+    "term": "Sand Encroachment",
+    "context": "Sand encroachment is the accumulation of wind-borne sand. It commonly affects coasts, watercourses, and both cultivated and uncultivated land, typically occurring in arid to semi-arid regions. As sand accumulations move, they can bury towns, roads, oases, crops, market gardens, irrigation channels, and dams, leading to significant material and socioeconomic damage (cf. FAO, 2010).",
+    "code": "GH0406",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0406",
+    "source_file": "data/distribution/GH0406_Sand_Encroachment.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0203": {
+    "term": "Benzene and Hydrocarbons",
+    "context": "Hydrocarbons are organic compounds composed entirely of hydrogen (H) and carbon (C) atoms. They are the simplest form of organic molecules and are the main components of fossil fuels such as coal, natural gas, and petroleum. Benzene is a clear, colourless, highly flammable and volatile, liquid aromatic hydrocarbon (molecular formula C6H6) with a gasoline-like odour, which can lead to major public hazards. Benzene is the simplest aromatic hydrocarbon, characterised by alternating single and double bonds between the carbon atoms, forming a delocalized \u03c0-electron system. (WHO, 2019) The release of hydrocarbon ground gases, such as methane, can lead to major public hazards.",
+    "code": "CH0203",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0203",
+    "source_file": "data/distribution/CH0203_Benzene_and_Hydrocarbons.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0604": {
+    "term": "Opioids and Other Psychoactive Substances",
+    "context": "Psychoactive substances are chemical compounds that can lead to physical or psychological dependence when consumed repeatedly, often altering brain function and behaviour. Overdose and overuse have caused significant public health concerns due to their potential to cause a wide range of adverse health effects. Addictive substances include alcohol, nicotine, (synthetic) opioids, (natural) opiates, stimulants, and certain sedatives, amongst others.",
+    "code": "CH0604",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0604",
+    "source_file": "data/distribution/CH0604_Opioids_and_Other_Psychoactive_Substances.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0602": {
+    "term": "Estuarine (Coastal) Flooding",
+    "context": "Estuarine flooding is flooding over and near coastal areas caused by storm surges and high winds coincident with high tides, thereby obstructing the seaward river flow. Estuarine flooding can be caused by tsunamis in specific cases (WMO, 2011).",
+    "code": "MH0602",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0602",
+    "source_file": "data/distribution/MH0602_Estuarine_(Coastal)_Flooding.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0240": {
+    "term": "West Nile Fever",
+    "context": "West Nile virus disease is a potentially fatal neurological disease caused by a virus transmitted through the bites of infected mosquitoes. The virus is a member of theflavivirusgenus and belongs to the Japanese encephalitis antigenic complex of the family Flaviviridae (WHO, 2017).",
+    "code": "BI0240",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0240",
+    "source_file": "data/distribution/BI0240_West_Nile_Fever.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0603": {
+    "term": "Nuclear Agents",
+    "context": "Nuclear agents are derived from neutron radiation (n) which is a neutron emitted by an unstable nucleus, in particular during atomic fission and nuclear fusion. Apart from a component in cosmic rays, neutrons are usually produced artificially. Because they are electrically neutral particles, neutrons can be very penetrating and when they interact with matter or tissue, they cause the emission of beta- and gamma-radiation. Neutron radiation therefore requires heavy shielding to reduce exposure (IAEA, 2004).",
+    "code": "TL0603",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0603",
+    "source_file": "data/distribution/TL0603_Nuclear_Agents.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0100": {
+    "term": "Heavy Metals and Other Trace Elements",
+    "context": "Heavy metals are metallic trace elements with either high relative atomic weights or occurring in materials with high densities. \u00a0Trace Elements is the term used for elements that are generally found in soil at low concentrations but can still have significant impacts on human health and ecosystems when their levels exceed safe limits, as in the case of many heavy metals. Trace element contaminants that have biological significance are generally found in soil at concentrations of less than 100 mg/kg, and sometimes in aquatic ecosystems or as particulates in the atmosphere. Biological significance would include elements that are essential or toxic to any organism; some elements can be both, depending on their concentration. Many of the trace elements of importance are metals, while others are metalloids, alloys, non-metals, actinoids, and halogens occurring in a variety of chemical states (elemental, cations, anions, oxyanions, methylated, etc.). This category can overlap or be used synonymously with terms such as potentially toxic elements, heavy metals, persistent inorganic contaminants, and inorganic contaminants, and halides, such as fluoride and iodide. For the clarity of this document, the term trace elements will be used (FAO and UNEP, 2021a).",
+    "code": "CH0100",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0100",
+    "source_file": "data/distribution/CH0100_Heavy_Metals_and_Other_Trace_Elements.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0605": {
+    "term": "Marine Toxins",
+    "context": "Marine toxins (biotoxins) are naturally occurring, toxic substances, mostly caused by certain types of marine organisms such as toxic algae, but also by bacteria. These toxins can accumulate in fish and shellfish, causing significant public health concerns due to their potential to cause a wide range of adverse health effects.",
+    "code": "CH0605",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0605",
+    "source_file": "data/distribution/CH0605_Marine_Toxins.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0212": {
+    "term": "Hepatitis B",
+    "context": "Hepatitis B is a vaccine-preventable disease, that is endemic and epidemic worldwide and is caused by the Hepatitis B virus (HBV). HBV can cause both acute and chronic liver disease. Chronic infection puts people at high risk of death from cirrhosis and liver cancer (WHO, 2024).",
+    "code": "BI0212",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0212",
+    "source_file": "data/distribution/BI0212_Hepatitis_B.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0310": {
+    "term": "Peste Des Petits Ruminants",
+    "context": "Peste des petits ruminants is a highly contagious and devastating disease of goats and sheep. The causative agent, Peste des petits ruminants virus, is a member of the genusMorbillivirus, FamilyParamyxoviridaeand OrderMononegavirales(adapted from FAO, no date and WOAH, 2024a).",
+    "code": "BI0310",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0310",
+    "source_file": "data/distribution/BI0310_Peste_Des_Petits_Ruminants.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0106": {
+    "term": "Cyberbullying",
+    "context": "Cyberbullying is bullying that takes place using digital devices such as cell/mobile phones, computers, and tablets. Cyberbullying can occur through SMS, e-mail, apps, social media, forums, or gaming when people view, participate in, or share content. Cyberbullying includes the deliberate sending, posting, or sharing of negative, harmful, false, or mean content about someone else. It can include sharing personal or private information about someone else causing embarrassment or humiliation. Some cyberbullying may also be unlawful or criminal behaviour (adapted from UNICEF, no date; PHE, 2014; US Government, no date).",
+    "code": "TL0106",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0106",
+    "source_file": "data/distribution/TL0106_Cyberbullying.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0702": {
+    "term": "Seiche",
+    "context": "Seiches are sea-level oscillations at the resonant frequency of enclosed bodies of water (WMO, 2011).",
+    "code": "MH0702",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0702",
+    "source_file": "data/distribution/MH0702_Seiche.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0102": {
+    "term": "Data Breach & PII Breach",
+    "context": "A data breach occurs when the data for which a company/organisation is responsible suffers a security incident resulting in a breach of confidentiality, availability or integrity (European Commission, no date).",
+    "code": "TL0102",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0102",
+    "source_file": "data/distribution/TL0102_Data_Breach_&_PII_Breach.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0104": {
+    "term": "Denial of Service",
+    "context": "Denial of service is the prevention of authorised access to resources or the delaying of time-critical operations. (Time-critical may be milliseconds or it may be hours, depending upon the service provided) (NIST, 2017).",
+    "code": "TL0104",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0104",
+    "source_file": "data/distribution/TL0104_Denial_of_Service.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0209": {
+    "term": "Ebola",
+    "context": "Ebola virus disease (EVD) is a rare but severe zoonotic viral infectious disease caused by the Ebola virus. It can be characterized by haemorrhagic fever and is often fatal in humans. EVD can trigger epidemics with high case-fatality rates (WHO, 2025).",
+    "code": "BI0209",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0209",
+    "source_file": "data/distribution/BI0209_Ebola.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0205": {
+    "term": "COVID-19 (SARS-CoV-2)",
+    "context": "COVID-19 is an infectious disease caused by the SARS Coronavirus 2 (SARS-CoV-2), a virus first identified in human populations in late 2019 which caused a global outbreak of coronavirus \u2013 an infectious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (adapted from WHO, 2023 and WHO Euro, no date).",
+    "code": "BI0205",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0205",
+    "source_file": "data/distribution/BI0205_COVID-19_(SARS-CoV-2).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0223": {
+    "term": "Middle East Respiratory Syndrome (MERS)",
+    "context": "Middle East respiratory syndrome (MERS) is a viral respiratory disease caused by Middle East respiratory syndrome coronavirus (MERS\u2010CoV) with a clinical spectrum of infection ranging from no symptoms (asymptomatic) or mild respiratory symptoms to severe acute respiratory disease and death (adapted from WHO, 2022).",
+    "code": "BI0223",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0223",
+    "source_file": "data/distribution/BI0223_Middle_East_Respiratory_Syndrome_(MERS).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0305": {
+    "term": "Fire",
+    "context": "Fire-related technological incidents can be defined as accidental or intentional events that result in the actual or potential physical damage to property and exposure of responders and/or members of the public to a chemical hazard (adapted from WHO, no date)",
+    "code": "TL0305",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0305",
+    "source_file": "data/distribution/TL0305_Fire.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0403": {
+    "term": "Maritime Accident",
+    "context": "A maritime accident is an event, or a sequence of events, that has resulted in any of the following occurring directly in connection with the normal operation of a marine vessel: the death of, or serious injury to, a person; the loss of a person from a ship; the loss, presumed loss or abandonment of a marine vessel; material damage to a marine vessel; the stranding or disabling of a marine vessel, or the involvement of a marine vessel in a collision; material damage to the marine infrastructures external to a vessel, that could seriously endanger the safety of the vessel or another vessel or an individual; and severe damage to the environment, or the potential for severe damage to the environment, brought about by the damage of a marine vessel (United Nations, European Union and the International Transport Forum at the OECD, 2019).",
+    "code": "TL0403",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0403",
+    "source_file": "data/distribution/TL0403_Maritime_Accident.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0301": {
+    "term": "Violence",
+    "context": "Violence is a social phenomenon that involves forceful acts or behaviour that are intended to cause harm. The injury or damage inflicted by violence to an individual or collective group may be physical, psychological, sexual, or deprivation, or combined. Violence is both intentional and forceful (Adapted from Jacquette, 2013).",
+    "code": "SO0301",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0301",
+    "source_file": "data/distribution/SO0301_Violence.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0213": {
+    "term": "Tunnel Failure",
+    "context": "Tunnels are artificial confined underground structures, which are used for different purposes; where, for example, collapses, fires, explosions and water ingress may damage tunnel facilities and cause injuries and human casualties, resulting in severe social harm (Adapted from Zafirovski et al., 2018 and Chien and Chao, 2021).",
+    "code": "TL0213",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0213",
+    "source_file": "data/distribution/TL0213_Tunnel_Failure.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0111": {
+    "term": "Cryptosporidium",
+    "context": "Cryptosporidiumis a microscopic parasite that can live in water, food, soil, or on surfaces that have been contaminated with infected faeces and causes the watery diarrhoeal disease cryptosporidiosis (adapted from CDC 2024 and Peletz et al., 2013).",
+    "code": "BI0111",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0111",
+    "source_file": "data/distribution/BI0111_Cryptosporidium.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0106": {
+    "term": "Sexually Transmitted Infections",
+    "context": "Sexually transmitted infections are transmitted through sexual contact, including vaginal, anal and oral sex and some can also be transmitted from mother-to-child during pregnancy, childbirth and breastfeeding (WHO, 2024).",
+    "code": "BI0106",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0106",
+    "source_file": "data/distribution/BI0106_Sexually_Transmitted_Infections.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0402": {
+    "term": "Rain",
+    "context": "Rain is precipitation of drops of water that falls from a cloud (WMO, 2017). While rain is essential for sustaining life and ecosystems, extreme rainfall is a primary trigger for some of the most devastating secondary hazards\u2014flooding, landslides, and soil erosion\u2014which result in widespread loss of life, damage to infrastructure, disruption of livelihoods, and environmental degradation (Rijal et al., 2024; Myhre et al., 2019).",
+    "code": "MH0402",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0402",
+    "source_file": "data/distribution/MH0402_Rain.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0205": {
+    "term": "Dam Failure",
+    "context": "Dam failure is the uncontrolled release of water due to structural collapse, foundation instability, or overtopping, posing risks on people and property downstream (ICOLD, 2023, mentioned in Moreno-Rodenas et al., 2025).",
+    "code": "TL0205",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0205",
+    "source_file": "data/distribution/TL0205_Dam_Failure.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0601": {
+    "term": "Coastal Flooding",
+    "context": "Coastal flooding occurs from multiple sources, including storm surges, waves and swell, seiches, riverine and flash floods near the coast, tides, sea-level rise and tsunamis. It is most frequently the result of storm surges and high winds coinciding with high tides. The surge itself is the result of the raising of sea levels due to low atmospheric pressure. In particular configurations, such as major estuaries or confined sea areas, the piling up of water is amplified by a combination of the shallowing of the seabed and retarding of return flow (WMO, 2011; WMO, 2022).",
+    "code": "MH0601",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0601",
+    "source_file": "data/distribution/MH0601_Coastal_Flooding.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0236": {
+    "term": "Severe Acute Respiratory Syndrome (SARS)",
+    "context": "Severe acute respiratory syndrome (SARS) is a viral respiratory illness caused by a coronavirus called SARS-associated coronavirus (SARS-CoV). Among individuals who meet the current WHO case definition for confirmed SARS, the case-fatality rate is approximately 9.6% (WHO, no date).",
+    "code": "BI0236",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0236",
+    "source_file": "data/distribution/BI0236_Severe_Acute_Respiratory_Syndrome_(SARS).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0220": {
+    "term": "Marburg virus disease",
+    "context": "Marburg virus disease (MVD), formerly known as Marburg haemorrhagic fever, is a severe, often fatal illness in humans. The virus causes severe viral haemorrhagic fever in humans (WHO, 2025).",
+    "code": "BI0220",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0220",
+    "source_file": "data/distribution/BI0220_Marburg_virus_disease.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0103": {
+    "term": "Advanced Persistent Threat",
+    "context": "An advanced threat is created by an adversary with sophisticated levels of expertise and significant resources, allowing it, through the use of multiple different attack vectors (e.g., cyber, physical, and deception), to generate opportunities to achieve its objectives (NIST, 2012).",
+    "code": "TL0103",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0103",
+    "source_file": "data/distribution/TL0103_Advanced_Persistent_Threat.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0505": {
+    "term": "Frost (Hoar Frost)",
+    "context": "A hoar frost is a deposit of ice produced by the deposition of water vapour from the surrounding air and is generally crystalline in appearance (WMO, 2017).",
+    "code": "MH0505",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0505",
+    "source_file": "data/distribution/MH0505_Frost_(Hoar_Frost).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0304": {
+    "term": "Rock, debris and earth (mud) slide",
+    "context": "A slide is a movement of a mass of rock, debris or earth on an individualized failure surface (adapted from Dennis and Didier, 2019).",
+    "code": "GH0304",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0304",
+    "source_file": "data/distribution/GH0304_Rock,_debris_and_earth_(mud)_slide.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0215": {
+    "term": "Lassa Fever",
+    "context": "Lassa fever is a zoonotic disease associated with acute and potentially fatal haemorrhagic illness caused by Lassa virus. The virus is a single-stranded RNA virus belonging to the virus family Arenaviridae. About 1 in 5 infections result in severe disease, where the virus affects several organs such as the liver, spleen and kidneys. (WHO, 2024a).",
+    "code": "BI0215",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0215",
+    "source_file": "data/distribution/BI0215_Lassa_Fever.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0209": {
+    "term": "Power Outage/ or Blackout",
+    "context": "In the electric power domain, especially in power transmission and distribution, a power outage usually refers to a partial or total loss of power supply to some end user (e.g., population, enterprises, critical systems). Triggering factors may include accidents, equipment breakdowns, failure of control mechanisms, targeted attacks (physical or cyber), organisational errors, and natural hazards (adapted from Pescaroli et al., 2017; UK Cabinet Office, 2017; EIS Council, 2019; FEMA, 2018).",
+    "code": "TL0209",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0209",
+    "source_file": "data/distribution/TL0209_Power_Outage/_or_Blackout.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0202": {
+    "term": "Ash/Tephra Fall (including Volcanic Ballistic Projectiles)",
+    "context": "Tephra is a collective term for volcanic fragments (pyroclasts) generated by the fragmentation of fresh magma and old (i.e., pre- existing) rocks ejected into the atmosphere during an explosive eruption, irrespective of size, composition and shape. The term 'volcanic ash' refers to the finest particles of tephra (<2 mm in diameter)(cf. Pistolesi et al. 2025).",
+    "code": "GH0202",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0202",
+    "source_file": "data/distribution/GH0202_Ash/Tephra_Fall_(including_Volcanic_Ballistic_Projectiles).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0301": {
+    "term": "Leaks and Spills",
+    "context": "A leak or a spill is an incident involving the uncontrolled release of a toxic substance, potentially resulting in harm to public health and the environment. Chemical incidents can occur as a result of natural events, or as a result of accidental or intentional events. These incidents can be sudden and acute or have a slow onset when there is a \u2018silent\u2019 release of a chemical. Leaks and spills can range from small releases to full-scale major emergencies (adapted from WHO, no date).",
+    "code": "TL0301",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0301",
+    "source_file": "data/distribution/TL0301_Leaks_and_Spills.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0305": {
+    "term": "Rock, debris and earth topples",
+    "context": "A topple is the forward rotation out of the slope of a mass of soil or rock about a point or axis below the center of gravity of the displaced mass (Cruden and Varnes, 1996).",
+    "code": "GH0305",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0305",
+    "source_file": "data/distribution/GH0305_Rock,_debris_and_earth_topples.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0302": {
+    "term": "African Swine Fever",
+    "context": "African swine fever (ASF) is a highly contagious viral disease of domestic and wild pigs, whose mortality rate can reach 100%. It is not a danger to human health, but it has devastating effects on pig populations and the farming economy. (WOAH, no date).",
+    "code": "BI0302",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0302",
+    "source_file": "data/distribution/BI0302_African_Swine_Fever.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0226": {
+    "term": "Typhoid Fever",
+    "context": "Typhoid fever is a life-threatening infection caused by the bacterium Salmonella typhi. It is usually spread through contaminated food or water. As of 2019 estimates, there are 9 million cases of typhoid fever annually, resulting in about 110 000 deaths per year. (WHO, 2023).",
+    "code": "BI0226",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0226",
+    "source_file": "data/distribution/BI0226_Typhoid_Fever.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0503": {
+    "term": "Wastewater",
+    "context": "Wastewater is regarded as a combination of one or more of the following materials: domestic effluent consisting of \u2018blackwater\u2019 (excreta, urine and faecal sludge, contaminants from pharmaceutical and personal care products) and \u2018greywater\u2019 (used water from washing and bathing); water from commercial establishments and institutions, including hospitals; industrial effluent, stormwater and other urban runoff; and agricultural, horticultural and aquaculture runoff (UNEP, 2023a).",
+    "code": "TL0503",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0503",
+    "source_file": "data/distribution/TL0503_Wastewater.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0301": {
+    "term": "Ammonia",
+    "context": "Ammonia (NH3) is a colourless acrid-smelling reactive gas at ambient temperature and pressure and is considered a significant public health hazard (WHO, 1986; PHE, 2019).",
+    "code": "CH0301",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0301",
+    "source_file": "data/distribution/CH0301_Ammonia.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0109": {
+    "term": "Viral Haemorrhagic Fevers",
+    "context": "Viral haemorrhagic fevers include a spectrum of relatively mild to severe life-threatening diseases characterized by sudden onset of muscle and joint pain, fever, bleeding and shock from loss of blood. In severe cases, one of the most prominent symptoms is bleeding, or haemorrhaging, from orifices and internal organs (WHO, no date a).",
+    "code": "BI0109",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0109",
+    "source_file": "data/distribution/BI0109_Viral_Haemorrhagic_Fevers.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0238": {
+    "term": "Trypanosomiasis",
+    "context": "Trypanosomiasis, human African (sleeping sickness) and animal trypanosomosis (nagana) are caused by protozoan parasites belonging to the genus Trypanosoma transmitted by infected tsetse flies and is endemic in sub-Saharan Africa. Without treatment, the disease is considered fatal (adapted from WHO, 2023 and FAO, no date).",
+    "code": "BI0238",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0238",
+    "source_file": "data/distribution/BI0238_Trypanosomiasis.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0403": {
+    "term": "Eutrophication",
+    "context": "Eutrophication refers to the phenomenon of increased production of organic matter, primarily nitrogen and phosphorus, in aquatic systems (Nixon, 1995). Eutrophication can be caused by human activities (e.g. sewage outfall, agricultural runoff, aquaculture) and may result in secondary environmental effects such as algal blooms and fish kills (NOAA, 2007; UNEP, 2015). Given the complex structure and functioning of ecosystems, and the multitude of pressures they face (Cloern, 2001), the precise definition of eutrophication remains to be established (Pannard et al., 2024).",
+    "code": "EN0403",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0403",
+    "source_file": "data/distribution/EN0403_Eutrophication.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0610": {
+    "term": "Snowmelt Flooding",
+    "context": "A snowmelt flood is a significant flood rise in a river caused by the melting of snowpack accumulated during the winter (WMO, 2012).",
+    "code": "MH0610",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0610",
+    "source_file": "data/distribution/MH0610_Snowmelt_Flooding.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0103": {
+    "term": "Thunderstorm",
+    "context": "A thunderstorm is defined as one or more sudden electrical discharges, manifested by a flash of light (lightning) and a sharp or rumbling sound (thunder) (WMO, no date).",
+    "code": "MH0103",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0103",
+    "source_file": "data/distribution/MH0103_Thunderstorm.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0301": {
+    "term": "Land Degradation",
+    "context": "Land degradation is the reduction or loss, in arid, semi-arid and dry sub-humid areas, of the biological or economic productivity and complexity of rainfed cropland, irrigated cropland or range, pasture, forest and woodlands resulting from land uses or from a process or combination of processes, including processes arising from human activities and habitation patterns such as soil erosion caused by wind and/or water; deterioration of the physical, chemical and biological or economic properties of soil; and long-term loss of natural vegetation (UNCCD, 1993).",
+    "code": "EN0301",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0301",
+    "source_file": "data/distribution/EN0301_Land_Degradation.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0206": {
+    "term": "Supply Chain Failure",
+    "context": "Supply chain failure refers to an event in the supply chain that disrupts the flow of materials on their journey from initial suppliers through to final customers (Walters, 2007).",
+    "code": "TL0206",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0206",
+    "source_file": "data/distribution/TL0206_Supply_Chain_Failure.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0203": {
+    "term": "Forest Disturbances",
+    "context": "Forest disturbance is the damage caused by any factor (biotic or abiotic) that adversely affects the vigour and productivity of the forest, and which is not a direct result of human activities. It includes disturbance by insect pests, diseases, severe weather events and fires (FAO, 2018; 2020).",
+    "code": "EN0203",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0203",
+    "source_file": "data/distribution/EN0203_Forest_Disturbances.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0103": {
+    "term": "Lead",
+    "context": "Lead is a naturally occurring highly toxic heavy metal. Its widespread use has caused extensive environmental contamination and health problems in many parts of the world. It is a cumulative toxicant that affects multiple body systems, including the neurological, haematological, gastrointestinal, cardiovascular and renal systems. Children are particularly vulnerable to the neurotoxic effects of lead, and even relatively low levels of exposure can cause serious and, in some cases, irreversible neurological damage (WHO, 2024).",
+    "code": "CH0103",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0103",
+    "source_file": "data/distribution/CH0103_Lead.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0903": {
+    "term": "Chemical Warfare Agents",
+    "context": "Chemical agents or \u2018chemical warfare agents\u2019 (chemical weapons) are chemicals, including dual -use chemicals, used to cause intentional death or harm through their toxic properties, and are a major public hazard. (OPCW, 2024a, b, c).",
+    "code": "CH0903",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0903",
+    "source_file": "data/distribution/CH0903_Chemical_Warfare_Agents.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0217": {
+    "term": "Leptospirosis",
+    "context": "Leptospirosis is an infectious disease caused by a pathogenic bacterium of the genusLeptospira. These bacteria called leptospires affect both humans and animals. Humans become infected through direct contact with the urine of infected animals or with a urine-contaminated environment which can lead to serious and sometimes fatal disease (adapted from WHO & ILS, 2003).",
+    "code": "BI0217",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0217",
+    "source_file": "data/distribution/BI0217_Leptospirosis.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0207": {
+    "term": "Loss of Mangroves",
+    "context": "Mangroves are distinctive tropical and sub-tropical, woody plants that grow at the interface/intertidal zone between land and sea, where they exist in conditions of high salinity, extreme tides, strong winds, high temperatures and muddy, anaerobic soils (Kathiresan and Bingham, 2001). The destruction of mangrove habitat is caused by both human and natural causes. Humans have cleared mangrove forests to expand farmlands, aquaculture ponds or urban areas. Natural stressors, such as sediment erosion, extreme storm surges or drought have also resulted in mangrove habitat loss. The loss of mangroves has devastated coastal communities, which depend on them for socio-economic activities and environmental conservation, especially in regions with low mangrove diversity and coverage.",
+    "code": "EN0207",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0207",
+    "source_file": "data/distribution/EN0207_Loss_of_Mangroves.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0314": {
+    "term": "Shrimp disease (bacterial) - Acute Hepatic Pancreatic Necrosis",
+    "context": "Shrimp acute hepatopancreatic necrosis disease (AHPND) is caused by virulent strains ofVibrio parahaemolyticusand related Vibrio species. AHPND-associated mortalities occur early in the production cycle, usually within 30 to 35 days of stocking, and because of this AHPND was initially referred to as early mortality syndrome (WOAH, 2023).",
+    "code": "BI0314",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0314",
+    "source_file": "data/distribution/BI0314_Shrimp_disease_(bacterial)_-_Acute_Hepatic_Pancreatic_Necrosis.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0304": {
+    "term": "Squall",
+    "context": "A squall is an atmospheric phenomenon characterised by a very large variation of wind speed: it begins suddenly, has a duration of the order of minutes and decreases suddenly in speed. It is often accompanied by a shower or thunderstorm (WMO, 2018).",
+    "code": "MH0304",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0304",
+    "source_file": "data/distribution/MH0304_Squall.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0305": {
+    "term": "Contagious Caprine Pleuropneumonia (CCPP)",
+    "context": "Contagious caprine pleuropneumonia (CCPP) is a disease affecting goats and some wild ruminant species, caused byMycoplasma capricolum subsp. capripneumoniae(Mccp). In goats, it is manifested by anorexia, fever and respiratory signs such as dyspnoea, polypnea, cough and nasal discharges. The acute and subacute disease is characterised by unilateral serofibrinous pleuropneumonia with severe pleural effusion. (Adapted from WOAH, 2021).",
+    "code": "BI0305",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0305",
+    "source_file": "data/distribution/BI0305_Contagious_Caprine_Pleuropneumonia_(CCPP).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0214": {
+    "term": "HIV and AIDS",
+    "context": "Human immunodeficiency virus (HIV) is a virus that attacks the body\u2019s immune system. Acquired immunodeficiency syndrome (AIDS) occurs at the most advanced stage of infection. HIV targets the body\u2019s white blood cells, weakening the immune system. This makes it easier to get sick with diseases like tuberculosis, infections and some cancers. HIV is spread from the body fluids of an infected person, including blood, breast milk, semen and vaginal fluids. WHO now defines Advanced HIV Disease (AHD) as CD4 cell count less than 200 cells/mm3 or WHO stage 3 or 4 in adults and adolescents. All children younger than 5 years of age living with HIV are considered to have advanced HIV disease (WHO, 2024a).",
+    "code": "BI0214",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0214",
+    "source_file": "data/distribution/BI0214_HIV_and_AIDS.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0233": {
+    "term": "Rotavirus",
+    "context": "Rotaviruses are the most common cause of severe diarrhoeal disease in young children throughout the world. According to WHO estimates in 2013 about 215,000 children aged under 5 years die each year from vaccine-preventable rotavirus infections; the vast majority of these children live in low-income countries (WHO, 2018).",
+    "code": "BI0233",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0233",
+    "source_file": "data/distribution/BI0233_Rotavirus.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0401": {
+    "term": "Compressive Soils",
+    "context": "Compressive soils are prone to volumetric change when subject to mechanical loading (USDA, 1990:30). Collapsible soils are metastable in that they are prone to volumetric change (collapse) on wetting and loading (Rogers, 1995).",
+    "code": "GH0401",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0401",
+    "source_file": "data/distribution/GH0401_Compressive_Soils.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0110": {
+    "term": "Waterborne Diseases",
+    "context": "Contaminated water and poor sanitation are linked to transmission of diseases such as cholera, diarrhoea, dysentery, hepatitis A, hepatitis E, typhoid and polio (adapted from WHO, 2023a and WHO, 2023b).",
+    "code": "BI0110",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0110",
+    "source_file": "data/distribution/BI0110_Waterborne_Diseases.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0101": {
+    "term": "Geomagnetic Disturbance",
+    "context": "A geomagnetic disturbance refers to perturbations in Earth's magnetosphere caused by sudden and significant variations in the solar wind's speed, density, and magnetic properties. The intensity of a geomagnetic disturbance can be measured using different geomagnetic indexes. Although a geomagnetic disturbance is a global phenomenon, the intensities and characteristics vary at different geographic locations (NOAA, 2023).",
+    "code": "ET0101",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0101",
+    "source_file": "data/distribution/ET0101_Geomagnetic_Disturbance.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0402": {
+    "term": "Inland Water Ways Transportation Accident",
+    "context": "An inland waterway transportation accident is an unwanted or unintended sudden event or a specific chain of such events occurring in connection with inland water vessel operations, which have harmful consequences (United Nations, European Union and the International Transport Forum at the OECD, 2019).",
+    "code": "TL0402",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0402",
+    "source_file": "data/distribution/TL0402_Inland_Water_Ways_Transportation_Accident.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0302": {
+    "term": "Stampede or Crushing (Human)",
+    "context": "Stampede or crushing is the surge of individuals in a crowd, in response to real or perceived danger or loss of physical space. It often disrupts the orderly movement of crowds resulting in movement for self-protection leading to increased localised crowd density and physical compression of the human bodies (Adapted from Burkle & Hsu, 2011; Illiyas et al., 2013; Ngai, et al., 2009).",
+    "code": "SO0302",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0302",
+    "source_file": "data/distribution/SO0302_Stampede_or_Crushing_(Human).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0101": {
+    "term": "Downburst",
+    "context": "A downburst is a violent and damaging downdraught reaching the ground surface, associated with a severe thunderstorm (WMO, 1992).",
+    "code": "MH0101",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0101",
+    "source_file": "data/distribution/MH0101_Downburst.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0311": {
+    "term": "Rift Valley Fever",
+    "context": "Rift Valley fever (RVF) is an acute haemorrhagic viral disease, affecting small and large ruminants and camels. RVF virus is a member of thePhlebovirusgenus. The disease causes high mortality, especially in newborns and mass abortions in pregnant animals. Humans become infected from contact with tissues/blood of infected animals including abortive material and through mosquito bites. Disease in humans presents as influenza-like illness, haemorrhagic fever, encephalitis and occasionally death (adapted from FAO, 2003; WHO, 2018; OIE 2020).",
+    "code": "BI0311",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0311",
+    "source_file": "data/distribution/BI0311_Rift_Valley_Fever.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0106": {
+    "term": "Runoff / Nonpoint Source Pollution",
+    "context": "Nonpoint sources of pollution refer to pollution that does not have a single point of origin or has not been introduced into a receiving freshwater or maritime environment from a specific outlet. The pollutants are generally carried off from the land by agricultural runoff, urban stormwater, atmospheric deposition or subaqueous groundwater discharges. The most common categories of nonpoint pollution are agriculture, forestry, urban areas, mining, construction, dams and channels, land disposal and saltwater intrusion.",
+    "code": "EN0106",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0106",
+    "source_file": "data/distribution/EN0106_Runoff_/_Nonpoint_Source_Pollution.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0201": {
+    "term": "Lava Flows and Domes",
+    "context": "Lava flows and lava domes form from molten rock that erupts and cools on or near the Earth\u2019s surface. A lava flow is an outpouring of fluid, relatively low-viscosity molten rock, whereas a lava dome is a pile of relatively viscous lava that cannot flow far from the vent (cf. Dietterich et al., 2025; Harnett et al., 2025), the collapse of which may be hazardous.",
+    "code": "GH0201",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0201",
+    "source_file": "data/distribution/GH0201_Lava_Flows_and_Domes.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0501": {
+    "term": "Heatwave",
+    "context": "A heatwave is a marked, unusual period of hot weather over a region persisting for at least two or three consecutive days and nights during the hot period of the year based on local climatological conditions, with thermal conditions recorded above given thresholds (WMO and WHO, 2015).",
+    "code": "MH0501",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0501",
+    "source_file": "data/distribution/MH0501_Heatwave.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0203": {
+    "term": "Chikungunya",
+    "context": "Chikungunya is a mosquito-borne viral infection caused by the chikungunya virus. It causes fever and severe arthralgia (joint pain) which is often debilitating. The disease can be endemic and epidemic in countries (WHO, 2025).",
+    "code": "BI0203",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0203",
+    "source_file": "data/distribution/BI0203_Chikungunya.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0101": {
+    "term": "Malware",
+    "context": "Malware is a summary term for different forms of malevolent software designed to infiltrate and infect computers, typically without the knowledge of the owner (ITU, 2008).",
+    "code": "TL0101",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0101",
+    "source_file": "data/distribution/TL0101_Malware.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0305": {
+    "term": "Permafrost Loss",
+    "context": "Permafrost is defined as ground that remains frozen at or below 0\u00b0C for a minimum of two consecutive years. Permafrost loss, also known as permafrost thaw, is the progressive loss of ground ice in permafrost, usually due to input of heat. Thaw can occur over decades to centuries over the entire depth of permafrost ground, with impacts occurring while thaw progresses. During thaw, temperature fluctuations are subdued because energy is transferred by phase change between ice and water. After the transition from permafrost to non-permafrost, ground can be described as thawed (IPCC, 2019).",
+    "code": "EN0305",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0305",
+    "source_file": "data/distribution/EN0305_Permafrost_Loss.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0501": {
+    "term": "Bacterial Plant Disease",
+    "context": "A bacterial plant disease is the occurrence of plant diseases caused by bacterial microorganisms over large areas with significant impacts on crop and forest productivity or natural habitat (adapted from FAO, 2018).",
+    "code": "BI0501",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0501",
+    "source_file": "data/distribution/BI0501_Bacterial_Plant_Disease.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0606": {
+    "term": "Surface Water Flooding",
+    "context": "Surface water flooding is that part of the rain which remains on the ground surface during rain and either runs off or infiltrates after the rain ends, not including depression storage (WMO, 2012).",
+    "code": "MH0606",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0606",
+    "source_file": "data/distribution/MH0606_Surface_Water_Flooding.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0504": {
+    "term": "Hazardous Waste",
+    "context": "Hazardous waste is waste that has physical, chemical, or biological characteristics such that it requires special handling and disposal procedures to avoid negative health effects, adverse environmental effects or both (Joint UNEP/OCHA Environment Unit, 2011).",
+    "code": "TL0504",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0504",
+    "source_file": "data/distribution/TL0504_Hazardous_Waste.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0205": {
+    "term": "Smoke",
+    "context": "Smoke is a suspension in the air of small particles produced by combustion (WMO, 2017).",
+    "code": "MH0205",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0205",
+    "source_file": "data/distribution/MH0205_Smoke.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0102": {
+    "term": "Ionospheric Disturbances",
+    "context": "Ionospheric disturbances refer to the state of the ionosphere characterized by irregular variations of ionospheric parameters without a systematic pattern. These disturbances can be of different spatiotemporal scales and have distinct characteristics at different geographic locations. Different ionospheric disturbances pose different risks to various applications (WMO, 1992).",
+    "code": "ET0102",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0102",
+    "source_file": "data/distribution/ET0102_Ionospheric_Disturbances.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0308": {
+    "term": "Newcastle Disease",
+    "context": "Newcastle Disease (ND) is a highly contagious and often severe disease found worldwide that affects birds caused by virulent strains of avian paramyxovirus type 1 (WOAH, no date).",
+    "code": "BI0308",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0308",
+    "source_file": "data/distribution/BI0308_Newcastle_Disease.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0232": {
+    "term": "Rabies",
+    "context": "Rabies is a serious public health problem in over 150 countries and territories. It is a viral zoonotic disease that affects the central nervous system and spreads from bites, licks, and scratches from infected mammals. It is almost always fatal when clinical signs appear, killing approximately 59,000 people every year (adapted from WHO, 2024a; and WOAH no date).",
+    "code": "BI0232",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0232",
+    "source_file": "data/distribution/BI0232_Rabies.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0235": {
+    "term": "Smallpox",
+    "context": "Smallpox is an acute contagious disease caused by the variola virus. Before its eradication, smallpox was one of the world\u2019s most devastating diseases known and was fatal in up to 30% of cases (WHO, no date a).",
+    "code": "BI0235",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0235",
+    "source_file": "data/distribution/BI0235_Smallpox.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0206": {
+    "term": "Desertification",
+    "context": "Desertification refers to land degradation in arid, semi-arid and dry sub-humid areas resulting from various factors, including climatic variations and human activities (UNCCD, 2017).",
+    "code": "EN0206",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0206",
+    "source_file": "data/distribution/EN0206_Desertification.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0204": {
+    "term": "Sand haze",
+    "context": "A dust haze (or sand haze) is a suspension in the air of dust or small sand particles, raised from the ground prior to the time of observation by a dust storm or sandstorm. The dust storm or sandstorm may have occurred either at or near the observation site or far from it (WMO, 2025).",
+    "code": "MH0204",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0204",
+    "source_file": "data/distribution/MH0204_Sand_haze.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0307": {
+    "term": "Extra-tropical Cyclone",
+    "context": "An extra-tropical cyclone is a low-pressure system, which develops in latitudes outside the tropics (WMO, 1992).",
+    "code": "MH0307",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0307",
+    "source_file": "data/distribution/MH0307_Extra-tropical_Cyclone.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0219": {
+    "term": "Malaria",
+    "context": "Malaria is a life-threatening disease caused by parasites that are transmitted to people mostly through the bites of infected female Anopheles mosquitoes. In 2023, there were an estimated 263 million cases of malaria worldwide and the estimated number of malaria deaths stood at 597,000 in 83 countries (adapted from WHO, 2024a).",
+    "code": "BI0219",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0219",
+    "source_file": "data/distribution/BI0219_Malaria.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0303": {
+    "term": "Suicide Cluster",
+    "context": "The term \u2018suicide cluster\u2019 describes a situation in which more suicides than expected occur in terms of time, place, or both (PHE, 2019). Two types of suicide clusters can be distinguished (Joiner, 1999): clusters where suicides occur during a restricted time period and are related to actual or fictional media-related phenomena, and space-time clusters (or point clusters), where an unusually high number of suicides occur in a small geographical area, or institution, and over a relatively brief period of time (adapted from Joiner, 1999 and PHE, 2019).",
+    "code": "SO0303",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0303",
+    "source_file": "data/distribution/SO0303_Suicide_Cluster.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0244": {
+    "term": "Pandemic Influenza (Human)",
+    "context": "Pandemic influenza is the worldwide spread of a new influenza virus to which there is little or no pre-existing immunity in the human population (WHO, 2019).",
+    "code": "BI0244",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0244",
+    "source_file": "data/distribution/BI0244_Pandemic_Influenza_(Human).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0201": {
+    "term": "Deforestation",
+    "context": "Deforestation is the conversion of forest to other land use independently of whether human-induced or not (FAO, 2023).",
+    "code": "EN0201",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0201",
+    "source_file": "data/distribution/EN0201_Deforestation.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0202": {
+    "term": "Forest Declines and Diebacks",
+    "context": "Forest declines and diebacks are episodic events characterised by premature, progressive loss of tree and stand vigour and health over a given period without obvious evidence of a single clearly identifiable causal factor such as physical disturbance or attack by primary disease or insect (Ciesla & Donaubauer, 1994).",
+    "code": "EN0202",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0202",
+    "source_file": "data/distribution/EN0202_Forest_Declines_and_Diebacks.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0210": {
+    "term": "Escherichia Coli (STEC)",
+    "context": "Escherichia coli(E. coli) is a bacterium commonly found in the gut. Some strains can cause serious food poisoning, leading to diarrhoea and sometimes to life-threatening complications including haemolytic uraemic syndrome (WHO, 2018a).",
+    "code": "BI0210",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0210",
+    "source_file": "data/distribution/BI0210_Escherichia_Coli_(STEC).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0601": {
+    "term": "Radioactive Waste",
+    "context": "Radioactive waste is radioactive material for which no further use is foreseen but still contains, or is contaminated with, radionuclides. Radioactive waste can be in gas, liquid or solid form (IAEA, 2018). It may remain radioactive from a few hours to hundreds of thousands of years.",
+    "code": "TL0601",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0601",
+    "source_file": "data/distribution/TL0601_Radioactive_Waste.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0510": {
+    "term": "Waste Treatment Lagoons",
+    "context": "Waste [treatment] lagoons can be defined as impoundments made by excavation or earth fill for biological treatment of animal and other agricultural waste (Spellman & Bieber, 2012).",
+    "code": "TL0510",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0510",
+    "source_file": "data/distribution/TL0510_Waste_Treatment_Lagoons.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0214": {
+    "term": "Drain and Sewer Flooding",
+    "context": "Drain and sewer flooding is said to occur when sewage or foul water leaks from the sewerage system (through pipes, drains or manholes) or floods up through toilets, sinks or showers inside a building (Priestly, 2016).",
+    "code": "TL0214",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0214",
+    "source_file": "data/distribution/TL0214_Drain_and_Sewer_Flooding.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0213": {
+    "term": "Hepatitis C",
+    "context": "Hepatitis C is a blood-borne liver disease caused by the hepatitis C virus: the virus can cause both acute and chronic hepatitis, ranging in severity from a mild illness lasting a few weeks to a serious, lifelong illness including liver cirrhosis and liver cancer. Hepatitis C is endemic and epidemic worldwide (WHO, 2024a).",
+    "code": "BI0213",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0213",
+    "source_file": "data/distribution/BI0213_Hepatitis_C.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0103": {
+    "term": "Ambient (Outdoor) Air Pollution",
+    "context": "Ambient (outdoor) air pollution is pollution that is present at concentrations that affect human health, ecosystems and agriculture. It is primarily measured through the presence of particulate matter (PM10 and PM2.5), ozone, nitrogen dioxide, sulphur dioxide and carbon monoxide in the air. Ambient air pollution is one of the leading environmental risk factors affecting urban and rural populations around the world, resulting in an estimated 4.2 million premature deaths in 2019 (WHO, 2024).",
+    "code": "EN0103",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0103",
+    "source_file": "data/distribution/EN0103_Ambient_(Outdoor)_Air_Pollution.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0304": {
+    "term": "Explosion",
+    "context": "Explosion-related technological incidents can be defined as accidental or intentional rapid energetic events that result in the actual or potential exposure of responders and/or members of the public to a chemical hazard (adapted from WHO, no date).",
+    "code": "TL0304",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0304",
+    "source_file": "data/distribution/TL0304_Explosion.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0402": {
+    "term": "Soil Degradation",
+    "context": "Soil degradation is defined as a change in soil health status resulting in a diminished capacity of the ecosystem to provide goods and services for its beneficiaries (FAO, 2020).",
+    "code": "GH0402",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0402",
+    "source_file": "data/distribution/GH0402_Soil_Degradation.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0103": {
+    "term": "Civil Unrest",
+    "context": "Civil unrest is an umbrella term for a wide spectrum of social and/or political phenomena, and although there is no commonly agreed definition, the term is used widely among United Nations agencies, funds and programmes.",
+    "code": "SO0103",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0103",
+    "source_file": "data/distribution/SO0103_Civil_Unrest.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0101": {
+    "term": "Household Air Pollution",
+    "context": "Household air pollution is pollution primarily resulting from the incomplete combustion of solid fuels (e.g. wood, dung, charcoal, coal, kerosene), resulting in the emission of potentially toxic pollutants, including particles of varying sizes, carbon monoxide (CO), nitrogen dioxide, volatile and semi-volatile organic compounds (e.g. formaldehyde and benzo[a]pyrene), methylene chloride and dioxins. It is one of the leading environmental risk factors for disease and premature death and is generated by the use of inefficient and polluting fuels and technologies in and around homes.",
+    "code": "EN0101",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0101",
+    "source_file": "data/distribution/EN0101_Household_Air_Pollution.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0402": {
+    "term": "Sea Level Rise",
+    "context": "Sea-level change (sea-level rise / sea-level fall) refers to a change in the height of sea level, both globally and locally (relative sea-level change), at seasonal, annual, or longer time scales. It results from a change in ocean volume due to a change in the mass of water in the ocean (e.g. melting of glaciers and ice sheets), changes in ocean water density (e.g. expansion under warmer conditions), changes in the shape of ocean basins, changes in the Earth's gravitational and rotational fields, and local land subsidence or uplift (IPCC, 2019).",
+    "code": "EN0402",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0402",
+    "source_file": "data/distribution/EN0402_Sea_Level_Rise.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0201": {
+    "term": "Aflatoxins",
+    "context": "Aflatoxins are mycotoxins \u2013 toxic compounds that are naturally produced by certain types of mould (fungi). Aflatoxins are among the most poisonous mycotoxins and are produced by certain moulds (Aspergillus flavus and A. parasiticus) that grow in soil, decaying vegetation, hay, and grains. Aflatoxins pose a serious health risk to humans and livestock (WHO, 2023).",
+    "code": "CH0201",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0201",
+    "source_file": "data/distribution/CH0201_Aflatoxins.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0308": {
+    "term": "Safety Hazards Associated with Oil and Gas",
+    "context": "Oil and gas extraction, and associated servicing activities involve many types of equipment and materials. Identifying and controlling hazards is critical to preventing injuries and deaths (US Department of Labor, no date).",
+    "code": "TL0308",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0308",
+    "source_file": "data/distribution/TL0308_Safety_Hazards_Associated_with_Oil_and_Gas.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0302": {
+    "term": "Saltwater Intrusion",
+    "context": "Seawater intrusion is the process by which saltwater infiltrates a coastal aquifer, leading to contamination of fresh groundwater (Prince Edward Island Department of Environment, Labour and Justice, 2011).",
+    "code": "EN0302",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0302",
+    "source_file": "data/distribution/EN0302_Saltwater_Intrusion.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0113": {
+    "term": "Zoonotic Diseases",
+    "context": "Zoonotic diseases, or zoonoses, are diseases shared between animals \u2013 including livestock, wildlife, and pets \u2013 and people. They can pose serious risks to both animal and human health and may have far-reaching impacts on economies and livelihoods and represent a major public health problem. Zoonotic diseases are commonly spread at the human-animal-environment interface \u2013 where people and animals interact with each other in their shared environment (adapted from WHO, FAO, WOAH, 2019 & WHO, 2020).",
+    "code": "BI0113",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0113",
+    "source_file": "data/distribution/BI0113_Zoonotic_Diseases.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0504": {
+    "term": "Freeze",
+    "context": "A freeze is an air temperature equal to or less than the freezing point of water (0\u00b0C) (adapted from WMO, 1992).",
+    "code": "MH0504",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0504",
+    "source_file": "data/distribution/MH0504_Freeze.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0303": {
+    "term": "Gale (Strong Gale)",
+    "context": "A gale is wind with a speed of between 34 and 40 knots (62\u201374 km/h, 32\u201338 mph). Also known as Beaufort scale wind force 8 (WMO, 1992).",
+    "code": "MH0303",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0303",
+    "source_file": "data/distribution/MH0303_Gale_(Strong_Gale).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0104": {
+    "term": "Black Carbon",
+    "context": "Black carbon refers to the substance formed through the incomplete combustion of fossil fuels, biofuels and biomass, which is emitted in both anthropogenic and naturally occurring soot. It consists of pure carbon in several linked forms. Black carbon warms the Earth by absorbing heat in the atmosphere and by reducing albedo \u2013 the ability to reflect sunlight \u2013 when deposited on snow and ice. It is operationally defined as an aerosol species based on measurement of light absorption and chemical reactivity and/or thermal stability (UNEP, 2019).",
+    "code": "EN0104",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0104",
+    "source_file": "data/distribution/EN0104_Black_Carbon.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0509": {
+    "term": "Icing (Including Ice)",
+    "context": "Icing refers to any deposit or coating of ice on an object caused by the impact of liquid hydrometeors, usually supercooled (WMO, 1992).",
+    "code": "MH0509",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0509",
+    "source_file": "data/distribution/MH0509_Icing_(Including_Ice).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0304": {
+    "term": "Wetland Loss/Degradation",
+    "context": "Wetland loss/degradation is a negative trend in wetland condition, caused by physical or direct/indirect human-induced processes, expressed as a long-term reduction or loss of at least one of the following: biological productivity, ecological role or value to humans (Olsson et al., 2019). Wetlands are defined as areas of marsh, fen, peatland or water, whether natural or artificial, permanent or temporary, with water that is static or flowing, fresh, brackish or salt, including areas of marine water the depth of which at low tide does not exceed six metres (Convention on Wetlands, 1971: Article 1.1). Wetlands may incorporate riparian and coastal zones adjacent to the wetlands, and islands or bodies of marine water deeper than six metres at low tide lying within the wetlands (Convention on Wetlands, 1971: Article 2.1).",
+    "code": "EN0304",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0304",
+    "source_file": "data/distribution/EN0304_Wetland_Loss/Degradation.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0104": {
+    "term": "Mercury",
+    "context": "Mercury is a naturally occurring element that is found in air, water and soil. Exposure to mercury \u2013 even small amounts \u2013 may cause serious health problems and is a threat to the development of the foetus in utero and for children early in life (WHO, 2021).",
+    "code": "CH0104",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0104",
+    "source_file": "data/distribution/CH0104_Mercury.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0237": {
+    "term": "Tuberculosis",
+    "context": "Tuberculosis (TB) is a curable bacterial infectious disease caused byMycobacterium tuberculosisthat most commonly affects the lungs. It causes national epidemics of varied severity worldwide. Forms of TB that are resistant to treatment - multi-drug-resistant TB (MDR-TB) and extensively drug-resistant TB (XDR-TB) - are public health crises and threaten health security worldwide (WHO, 2024).",
+    "code": "BI0237",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0237",
+    "source_file": "data/distribution/BI0237_Tuberculosis.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0204": {
+    "term": "Lahars",
+    "context": "Lahars\u00a0are\u00a0discrete,\u00a0rapid,\u00a0gravity-driven,\u00a0water-saturated\u00a0flows\u00a0containing\u00a0water and solid particles of volcanic rock, sediment, ice, wood, and other debris that originate at volcanoes (Gudmundsson, 2015; Vallance and Iverson, 2015).",
+    "code": "GH0204",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0204",
+    "source_file": "data/distribution/GH0204_Lahars.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0607": {
+    "term": "Glacial Lake Outburst Flooding",
+    "context": "A \u2018glacial lake outburst flood\u2019 is a phrase used to describe a sudden release of a significant amount of water retained in a glacial lake, irrespective of the cause (Emmer, 2017).",
+    "code": "MH0607",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0607",
+    "source_file": "data/distribution/MH0607_Glacial_Lake_Outburst_Flooding.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0306": {
+    "term": "Foot-and-mouth disease",
+    "context": "Foot-and-mouth disease is caused by a virus of the familyPicornaviridae, genusAphthovirus. It is a highly contagious and economically important disease of cloven-hoofed domestic animals (cattle, buffaloes, pigs, sheep, goats) and wild animals (adapted from FAO no date; WOAH, no date).",
+    "code": "BI0306",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0306",
+    "source_file": "data/distribution/BI0306_Foot-and-mouth_disease.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0501": {
+    "term": "Biodiversity Loss",
+    "context": "Biodiversity loss refers to the reduction of any aspect of biological diversity (i.e. diversity at the genetic, species and ecosystem levels) in a particular area through death (including extinction), destruction or manual removal. It can occur at many scales, from global extinctions to local population extinctions, leading to a decline in total diversity at the same scale.",
+    "code": "EN0501",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0501",
+    "source_file": "data/distribution/EN0501_Biodiversity_Loss.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0603": {
+    "term": "Flash Flooding",
+    "context": "A flash flood is a flood of short duration with a relatively high peak discharge\u00a0 (WMO, 2021).",
+    "code": "MH0603",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0603",
+    "source_file": "data/distribution/MH0603_Flash_Flooding.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0224": {
+    "term": "Mpox",
+    "context": "Mpox, previously known as monkeypox, is a viral illness caused by the monkeypox virus, a species of the genus\u202fOrthopoxvirus. There are two distinct clades of the virus: clade I (with subclades Ia and Ib) and clade II (with subclades IIa and IIb). Mpox can be fatal in some cases (adapted from WHO, 2024).",
+    "code": "BI0224",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0224",
+    "source_file": "data/distribution/BI0224_Mpox.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0202": {
+    "term": "Building, highrise, cladding",
+    "context": "A building high-rise cladding fire hazard occurs when combustible materials such as cladding on a high-rise building greatly increases risk in the event of a fire and can have a catastrophic outcome (adapted from Rockpanel, no date)",
+    "code": "TL0202",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0202",
+    "source_file": "data/distribution/TL0202_Building,_highrise,_cladding.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0305": {
+    "term": "Tornado",
+    "context": "A tornado is a rotating column of air extending from the base of a cumuliform cloud and often visible as a condensation funnel in contact with the ground, and/or attendant circulating dust or debris cloud at the ground (WMO, 2017).",
+    "code": "MH0305",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0305",
+    "source_file": "data/distribution/MH0305_Tornado.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0404": {
+    "term": "Hail",
+    "context": "Hail is precipitation in the form of particles of ice (hailstones). These can be either transparent or partly or completely opaque. They are usually spheroidal, conical or irregular in form, and generally 5\u221250 mm in diameter. The particles may fall from a cloud either separately or agglomerated in irregular lumps (WMO, 2017).",
+    "code": "MH0404",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0404",
+    "source_file": "data/distribution/MH0404_Hail.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0507": {
+    "term": "Electronic Waste (E-Waste)",
+    "context": "Electrical and electronic waste, or E-waste, refers to electrical or electronic equipment that is waste, including all components, sub-assemblies and consumables that are part of the equipment at the time the equipment becomes waste (UNEP, 2019a).",
+    "code": "TL0507",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0507",
+    "source_file": "data/distribution/TL0507_Electronic_Waste_(E-Waste).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0604": {
+    "term": "Fluvial (Riverine) Flooding",
+    "context": "Overflowing by water of the normal confines of a watercourse or other body of water (WMO, 2012).",
+    "code": "MH0604",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0604",
+    "source_file": "data/distribution/MH0604_Fluvial_(Riverine)_Flooding.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0107": {
+    "term": "Vaccine-Preventable Diseases",
+    "context": "Vaccine-preventable diseases are those infectious diseases that can be prevented by vaccination (WHO, 2019).",
+    "code": "BI0107",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0107",
+    "source_file": "data/distribution/BI0107_Vaccine-Preventable_Diseases.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0302": {
+    "term": "Rock, debris and earth spreads (including landscape creep)",
+    "context": "Rock spread: Near-horizontal stretching (elongation) of a mass of coherent blocks of rock as a result of intensive deformation of an underlying weak material, or by multiple retrogressive sliding controlled by a weak basal surface. Usually with fairly limited total displacement and slow movement (Hungr et al., 2014).",
+    "code": "GH0302",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0302",
+    "source_file": "data/distribution/GH0302_Rock,_debris_and_earth_spreads_(including_landscape_creep).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0208": {
+    "term": "Nuclear Plant Failure",
+    "context": "Nuclear plant failure occurs when the accidental melting of the core of a nuclear reactor results in a complete or partial core collapse (adapted from USNRC, 1975).",
+    "code": "TL0208",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0208",
+    "source_file": "data/distribution/TL0208_Nuclear_Plant_Failure.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0510": {
+    "term": "Thaw",
+    "context": "Thaw is the melting of snow or ice at the Earth\u2019s surface due to a temperature rise above 0\u00b0C (WMO, 1992).",
+    "code": "MH0510",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0510",
+    "source_file": "data/distribution/MH0510_Thaw.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0301": {
+    "term": "Rock, debris and earth falls",
+    "context": "A rock, debris or earth fall is a fragment of rock (a block), body of debris or earth (here taken to include mud) detached by sliding, toppling, or falling, that falls from a vertical or sub-vertical cliff and proceeds down slope by bouncing and flying along ballistic trajectories or by rolling on talus or debris slopes (adapted from Highland and Bobrowsky, 2008).",
+    "code": "GH0301",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0301",
+    "source_file": "data/distribution/GH0301_Rock,_debris_and_earth_falls.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0403": {
+    "term": "Blizzard",
+    "context": "A blizzard is a severe snowstorm characterised by poor visibility, usually occurring at high latitudes and in mountainous regions (WMO, 1992).",
+    "code": "MH0403",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0403",
+    "source_file": "data/distribution/MH0403_Blizzard.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0508": {
+    "term": "Health-care Waste",
+    "context": "Health-care waste is a by-product of health care that includes sharps, non-sharp blood contaminated items, blood, body parts and tissues, chemicals, pharmaceuticals and radioactive materials. Safe management of health-care waste protects health-care workers, waste handlers, patients and their families and the community to preventable infections, toxic effects and injuries (adapted from WHO, no date, and WHO, 2017).",
+    "code": "TL0508",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0508",
+    "source_file": "data/distribution/TL0508_Health-care_Waste.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0303": {
+    "term": "Classical Swine Fever",
+    "context": "Classical swine fever, also known as hog cholera, is a contagious viral disease of domestic and wild swine. It is caused by a virus of the genusPestivirusof the familyFlaviviridae(WOAH, no date).",
+    "code": "BI0303",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0303",
+    "source_file": "data/distribution/BI0303_Classical_Swine_Fever.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0701": {
+    "term": "Rogue Wave",
+    "context": "Rogue waves are extreme waves with overall or crest heights that are abnormally high relative to the background significant wave height (WMO, 2018).",
+    "code": "MH0701",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0701",
+    "source_file": "data/distribution/MH0701_Rogue_Wave.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0203": {
+    "term": "Pyroclastic Density Current",
+    "context": "Pyroclastic density currents are hot, fast-moving mixtures of volcanic particles and gas that flow according to their density relative to the surrounding medium and the Earth's gravity. They typically originate from the gravitational collapse of explosive eruption columns, lava domes or lava-flow fronts, and explosive lateral blasts (cf. Charbonnier et al., 2025).",
+    "code": "GH0203",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0203",
+    "source_file": "data/distribution/GH0203_Pyroclastic_Density_Current.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0500": {
+    "term": "Persistent Organic Pollutants",
+    "context": "Persistent organic pollutants (POPs) are chemicals of global concern due to their potential for long-range transport, persistence in the environment, ability to bio-magnify and bio-accumulate in ecosystems, as well as their significant negative effects on human health and the environment.",
+    "code": "CH0500",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0500",
+    "source_file": "data/distribution/CH0500_Persistent_Organic_Pollutants.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0203": {
+    "term": "Structural Failure",
+    "context": "Structural failure corresponds to the exceedance of ultimate limit state in many of the load-carrying elements, which compromise the structural stability of the building (Rossetto, 2013).",
+    "code": "TL0203",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0203",
+    "source_file": "data/distribution/TL0203_Structural_Failure.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0506": {
+    "term": "Freezing Rain (Ice storm)",
+    "context": "Freezing rain is rain where the temperature of the water droplets is below 0\u00b0C. Drops of supercooled rain may freeze on impact with the ground, in-flight aircraft or other objects (WMO, 2017).",
+    "code": "MH0506",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0506",
+    "source_file": "data/distribution/MH0506_Freezing_Rain_(Ice_storm).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0403": {
+    "term": "Soil Erosion",
+    "context": "Erosion is the wearing away of the land surface by water, wind, ice, gravity or other natural or anthropogenic agents that abrade, detach and remove soil particles from one point on the earth's surface, for deposition elsewhere. Four main forms are recognized: water, wind, harvest and tillage. (FAO, 2020).",
+    "code": "GH0403",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0403",
+    "source_file": "data/distribution/GH0403_Soil_Erosion.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0215": {
+    "term": "Reservoir Flooding",
+    "context": "Man-made reservoirs, sometimes called artificial lakes, are important water sources in many countries around the world. In contrast to natural processes of lake formation, reservoirs are artificial, usually formed by constructing a dam across a river or by diverting a part of the river flow and storing the water in a reservoir. Reservoir flooding occurs as an uncontrolled release of water if a dam or reservoir fails (adapted from UNEP, 2000 and Defra and EA, 2014).",
+    "code": "TL0215",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0215",
+    "source_file": "data/distribution/TL0215_Reservoir_Flooding.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0601": {
+    "term": "Levels of Contaminants in Food and Feed",
+    "context": "A contaminant in food and feed is defined as any substance not intentionally added but present in such food or feed as a result of the production, manufacture, processing, preparation, treatment, packing, packaging, transport or storage, or as a result of environmental contamination, which can lead to major public hazards (FAO and WHO, 2019).",
+    "code": "CH0601",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0601",
+    "source_file": "data/distribution/CH0601_Levels_of_Contaminants_in_Food_and_Feed.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0205": {
+    "term": "Volcanic Gases and Aerosols",
+    "context": "Volcanic gas\u00a0includes\u00a0any gas-phase substance that is emitted by\u00a0volcanic\u00a0or volcanic-geothermal\u00a0activity.\u00a0Volcanic\u00a0aerosols\u00a0include\u00a0liquid\u00a0or\u00a0solid\u00a0particles that are small enough to be suspended in the air, and that are emitted by volcanic or volcanic-geothermal activity (adapted from Baxter and Horwell, 2015, Fischer and Chiodini, 2015, and Williams-Jones and Rymer ,2015).",
+    "code": "GH0205",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0205",
+    "source_file": "data/distribution/GH0205_Volcanic_Gases_and_Aerosols.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0243": {
+    "term": "Seasonal Influenza",
+    "context": "Seasonal influenza is an acute respiratory infection caused by influenza viruses which circulate in all parts of the world with around a billion cases of seasonal influenza annually, including 3\u20135 million cases of severe illness. It causes 290,000 to 650,000 respiratory deaths annually (adapted from WHO, 2025).",
+    "code": "BI0243",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0243",
+    "source_file": "data/distribution/BI0243_Seasonal_Influenza.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0505": {
+    "term": "Plastic Waste",
+    "context": "Plastic Waste is defined as any discarded plastic (organic, or synthetic, material derived from polymers, resins or cellulose) generated by any industrial process, or by consumers. (Source: GEMET/APD).",
+    "code": "TL0505",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0505",
+    "source_file": "data/distribution/TL0505_Plastic_Waste.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0101": {
+    "term": "International Armed Conflict (IAC)",
+    "context": "International armed conflict covers all cases of declared war and other de facto armed conflict between two or more States, even if the state of war is not recognised by one of them and/or the use of armed force is unilateral (ICRC, 2024).",
+    "code": "SO0101",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0101",
+    "source_file": "data/distribution/SO0101_International_Armed_Conflict_(IAC).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0105": {
+    "term": "Supply Chain Attack",
+    "context": "A supply chain attack is when products, services, or technology you are supplied with have been breached or compromised, and are in turn used to infiltrate and further compromise your own systems (ICO, no date).",
+    "code": "TL0105",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0105",
+    "source_file": "data/distribution/TL0105_Supply_Chain_Attack.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0105": {
+    "term": "Neglected Tropical Diseases",
+    "context": "Neglected tropical diseases (NTDs) are a diverse group of conditions\u202fcaused by a variety of pathogens (including viruses, bacteria, parasites, fungi and toxins) and associated with devastating health, social and economic consequences. NTDs are mainly prevalent among impoverished communities in tropical areas, although some have a much larger geographical distribution. (WHO, no date a).",
+    "code": "BI0105",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0105",
+    "source_file": "data/distribution/BI0105_Neglected_Tropical_Diseases.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0102": {
+    "term": "Air Pollution (Point Source)",
+    "context": "A point source of air pollution is an identifiable stationary location or fixed facility from which air pollutants are released, which may be human-made or natural in origin (adapted from Kibble and Harrison, 2005; Dunne et al., 2014).",
+    "code": "EN0102",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0102",
+    "source_file": "data/distribution/EN0102_Air_Pollution_(Point_Source).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0602": {
+    "term": "Biological Agents",
+    "context": "Biological and toxin agents are either microorganisms like viruses, bacteria or fungi, or toxic substances produced by living organisms that are produced and released deliberately to cause disease and death in humans, animals or plants (WHO, no date).",
+    "code": "BI0602",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0602",
+    "source_file": "data/distribution/BI0602_Biological_Agents.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0602": {
+    "term": "Radioactive Agents & Material",
+    "context": "A substance or a material emitting, or related to the emission of, ionizing radiation (either in the form of electro-magnetic waves or particle radiation) is radioactive. Depending on the magnitude of exposure, the radioactive substance may affect human health; as such it is subject to regulatory control by national laws and national regulatory authorities. Radioactive material may also be a hazard to animal health, other forms of life and the environment (IAEA, 2018).",
+    "code": "TL0602",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0602",
+    "source_file": "data/distribution/TL0602_Radioactive_Agents_&_Material.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0303": {
+    "term": "Debris and earth (mud)flows and rock avalanches",
+    "context": "Flows are gravitational mass movements down a slope in the form of a fluid. Flows often leave behind a distinctive, fan-shaped deposit where the landslide material has stopped moving (cf. British Geological Survey 2024)",
+    "code": "GH0303",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0303",
+    "source_file": "data/distribution/GH0303_Debris_and_earth_(mud)flows_and_rock_avalanches.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0502": {
+    "term": "Solid Waste",
+    "context": "Solid waste covers discarded materials that are no longer required by the owner or user. Solid waste includes materials that are in a solid or liquid state but excludes wastewater and small particulate matter released into the atmosphere (United Nations, 2014).",
+    "code": "TL0502",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0502",
+    "source_file": "data/distribution/TL0502_Solid_Waste.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0507": {
+    "term": "Glaze",
+    "context": "Glaze is a smooth compact deposit of ice, generally transparent, formed by the freezing of super-cooled drizzle droplets or raindrops on objects with a surface temperature below or slightly above 0\u00b0C (WMO, 2017).",
+    "code": "MH0507",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0507",
+    "source_file": "data/distribution/MH0507_Glaze.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0703": {
+    "term": "Storm Surge",
+    "context": "A storm surge reflects the difference between the actual water level under the influence of a meteorological disturbance (storm tide) and the level which would have occurred in the absence of the meteorological disturbance (i.e., astronomical tide) (WMO, 2008, 2011, 2017).",
+    "code": "MH0703",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0703",
+    "source_file": "data/distribution/MH0703_Storm_Surge.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0205": {
+    "term": "Near-Earth Object",
+    "context": "A near-Earth object (NEO) is an asteroid or comet whose trajectory brings it to within 1.3 astronomical units of the Sun and hence within 0.3 astronomical units, or approximately 45 million kilometres, of the Earth\u2019s orbit (UN OOSA, no date).",
+    "code": "ET0205",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0205",
+    "source_file": "data/distribution/ET0205_Near-Earth_Object.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0105": {
+    "term": "Acid Rain",
+    "context": "Acid rain is rain that, in the course of its history, has combined with chemical elements or pollutants in the atmosphere and reaches the Earth\u2019s surface as a weak acid solution (WMO/UNESCO, 2012).",
+    "code": "EN0105",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0105",
+    "source_file": "data/distribution/EN0105_Acid_Rain.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0221": {
+    "term": "Measles",
+    "context": "Measles is a highly contagious, serious disease caused by a virus from the paramyxovirus family. It spreads easily when an infected person breathes, coughs or sneezes. It can cause severe disease, complications, and even death (adapted from WHO 2024).",
+    "code": "BI0221",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0221",
+    "source_file": "data/distribution/BI0221_Measles.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0242": {
+    "term": "Zika Virus",
+    "context": "Zika virus disease is a disease transmitted primarily by Aedes mosquitoes which can lead to complications including microcephaly and other congenital malformations and neurodevelopmental disorders (WHO, 2022a).",
+    "code": "BI0242",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0242",
+    "source_file": "data/distribution/BI0242_Zika_Virus.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0234": {
+    "term": "Shigellosis",
+    "context": "Shigellosis is an acute invasive enteric infection caused by bacteria belonging to the genus Shigella and is estimated to cause at least 80 million cases of bloody diarrhoea and 700,000 deaths each year (WHO, 2005).",
+    "code": "BI0234",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0234",
+    "source_file": "data/distribution/BI0234_Shigellosis.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0201": {
+    "term": "Dust storm or Sandstorm",
+    "context": "A dust storm is an ensemble of particles of dust or sand energetically lifted to great heights by a strong and turbulent wind (WMO, 2017).",
+    "code": "MH0201",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0201",
+    "source_file": "data/distribution/MH0201_Dust_storm_or_Sandstorm.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0241": {
+    "term": "Yellow Fever",
+    "context": "Yellow fever is an acute viral haemorrhagic disease transmitted by infected mosquitoes and is a high-impact high-threat disease, with risk of international spread, which represents a potential threat to global health security (WHO, 2023).",
+    "code": "BI0241",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0241",
+    "source_file": "data/distribution/BI0241_Yellow_Fever.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0107": {
+    "term": "Social Engineering - Phishing",
+    "context": "Social engineering corresponds to all techniques aimed at persuading a target into revealing specific information or performing a specific action for illegitimate reasons (ECS, no date).",
+    "code": "TL0107",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0107",
+    "source_file": "data/distribution/TL0107_Social_Engineering_-_Phishing.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0605": {
+    "term": "Snakebite envenoming",
+    "context": "A snakebite envenoming is a potentially life-threatening disease caused by toxins in the bite of a venomous snake (WHO, 2023).",
+    "code": "BI0605",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0605",
+    "source_file": "data/distribution/BI0605_Snakebite_envenoming.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0308": {
+    "term": "Sinkhole",
+    "context": "Sinkholes (also known as dolines) are depressions or holes in the ground caused by the dissolution, collapse or erosion of rock below the landsurface. This is one of several hazards that result in subsidence, i.e., lowering or collapse of the ground (adapted from USGS, no date; and BGS, no date).",
+    "code": "GH0308",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0308",
+    "source_file": "data/distribution/GH0308_Sinkhole.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0307": {
+    "term": "Liquefaction",
+    "context": "Liquefaction refers to the loss of strength experienced in loosely packed, saturated or close to saturated sediments at or near the ground surface in response to strong ground shaking, such as earthquakes, cyclic loading (repeated application of stresses), and vibration from machinery, or due to the development of excess pore water pressure resulting from a change in head or confining pressures. (c. AGI, 2017; USGS, no date).",
+    "code": "GH0307",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0307",
+    "source_file": "data/distribution/GH0307_Liquefaction.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0400": {
+    "term": "Asphyxiant \u200b\u200bGases",
+    "context": "Asphyxiant gases are gases that can cause unconsciousness or death by suffocation by displacing oxygen from air. Asphyxiant gases that have no other health effects are considered as simple asphyxiants. Simple asphyxiant gases become harmful to humans at high concentrations by lowering the percentage of oxygen in air (regularly present at 21%) to 19.5% or lower. (CCOHS, 2024)",
+    "code": "CH0400",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0400",
+    "source_file": "data/distribution/CH0400_Asphyxiant_\u200b\u200bGases.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0307": {
+    "term": "Mining Hazards",
+    "context": "Mining hazards may cause major environmental and health impacts such as pollution of water bodies, degradation of forest resources, depletion of soil nutrients, destruction of wildlife habitat, and threats to human health. (adapted from UNDP and UN Environment, 2018).",
+    "code": "TL0307",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0307",
+    "source_file": "data/distribution/TL0307_Mining_Hazards.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0304": {
+    "term": "Contagious Bovine Pleuropneumonia (CBPP)",
+    "context": "Contagious bovine pleuropneumonia (CBPP) is an infectious and contagious respiratory disease of cattle and water buffalo caused byMycoplasma mycoidessubsp.mycoides(Mmm) with a major impact on livestock production and a potential for rapid spread (WOAH, 2024a).",
+    "code": "BI0304",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0304",
+    "source_file": "data/distribution/BI0304_Contagious_Bovine_Pleuropneumonia_(CBPP).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0102": {
+    "term": "Cadmium",
+    "context": "Cadmium is a toxic heavy metal which is widely distributed in the Earth\u2019s crust (soil and rocks), air and water; however, human activity has greatly increased levels in environmental media relevant to population exposure. Human exposure to cadmium represents a major public health concern as it has been associated with a range of acute and long-term adverse health effects and diseases (WHO, 2019).",
+    "code": "CH0102",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0102",
+    "source_file": "data/distribution/CH0102_Cadmium.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0405": {
+    "term": "Snow",
+    "context": "Snow is the precipitation of ice crystals, isolated or agglomerated, falling from a cloud (WMO, 2017).",
+    "code": "MH0405",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0405",
+    "source_file": "data/distribution/MH0405_Snow.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0405": {
+    "term": "Sand Mining",
+    "context": "Sand mining (extraction) is defined as the removal of primary (virgin) natural sand and sand resources (mineral sands and aggregates) from the natural environment (terrestrial, riverine, coastal, or marine) for extracting valuable minerals, metals, crushed stone, sand and gravel for subsequent processing (UNEP, 2019).",
+    "code": "EN0405",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0405",
+    "source_file": "data/distribution/EN0405_Sand_Mining.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0201": {
+    "term": "Anthrax",
+    "context": "Anthrax is a disease caused by the spore-forming bacteria Bacillus anthracis. Anthrax is primarily a disease of herbivorous animals, although all mammals, including humans, can contract it. In humans, anthrax manifests itself in three distinct patterns (cutaneous, gastrointestinal, inhalational) (adapted from WHO, FAO, & OIE, 2008; CDC, 2020).",
+    "code": "BI0201",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0201",
+    "source_file": "data/distribution/BI0201_Anthrax.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0901": {
+    "term": "Corrosive Substances",
+    "context": "Corrosive substances are materials, such as strong acids and strong bases, that, through chemical reactions, cause visible destruction of biological tissues, and other materials. Acids are substances that have a high tendency to donate protons when completely dissociating into ions in water; whereas strong bases are substances that accept protons when completely dissociating into ions in water. Both are highly corrosive and catalyse the decomposition of biological molecules. (Burrows et al., 2021)",
+    "code": "CH0901",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0901",
+    "source_file": "data/distribution/CH0901_Corrosive_Substances.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0603": {
+    "term": "Methanol",
+    "context": "Methanol is a colourless, volatile liquid. Categorized as an alcohol, methanol is commonly used as a solvent and reagent in an array of industrial applications. Outbreaks of methanol poisoning most commonly arise from the consumption of adulterated or informally produced spirit drinks (adapted from NCBI, 2024 and WHO, 2014).",
+    "code": "CH0603",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0603",
+    "source_file": "data/distribution/CH0603_Methanol.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0205": {
+    "term": "Wildfires",
+    "context": "Any unplanned and uncontrolled vegetation fire that, regardless of ignition source, may negatively affect social, economic or environmental values, and require suppression response or other action according to agency policy (FAO, 2024).",
+    "code": "EN0205",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0205",
+    "source_file": "data/distribution/EN0205_Wildfires.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0307": {
+    "term": "Lumpy Skin Disease",
+    "context": "Lumpy skin disease is a vector-borne pox disease of domestic cattle and Asian water buffalo and is characterised by the appearance of skin nodules on all body surfaces including the udder (FAO, 2017).",
+    "code": "BI0307",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0307",
+    "source_file": "data/distribution/BI0307_Lumpy_Skin_Disease.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0204": {
+    "term": "Forest Invasive Species",
+    "context": "Forest invasive species are any species that are non-native to a particular forest ecosystem and whose introduction and spread cause, or are likely to cause, socio-cultural, economic or environmental harm, or harm to human health (adapted from FAO, 2015).",
+    "code": "EN0204",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0204",
+    "source_file": "data/distribution/EN0204_Forest_Invasive_Species.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0401": {
+    "term": "Drought",
+    "context": "A drought is a period of abnormally dry weather characterised by a prolonged deficiency of precipitation below a certain threshold over a large area and a period longer than a month (WMO, 2023).",
+    "code": "MH0401",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0401",
+    "source_file": "data/distribution/MH0401_Drought.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0407": {
+    "term": "Ground Gases (CH4, Rn, etc.)",
+    "context": "Ground gases are natural gases generated by various processes including material decay (natural and anthropogenic) and magma bodies (adapted from UK HMRC, 2016 and USGS, no date).",
+    "code": "GH0407",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0407",
+    "source_file": "data/distribution/GH0407_Ground_Gases_(CH4,_Rn,_etc.).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0229": {
+    "term": "Polio",
+    "context": "Polio (human) is a highly infectious viral disease, which mainly affects young children, where 1 in 200 leads to irreversible paralysis and among those paralysed, 5\u201310% die when their breathing muscles become immobilized (WHO, 2025).",
+    "code": "BI0229",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0229",
+    "source_file": "data/distribution/BI0229_Polio.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0308": {
+    "term": "Sub-Tropical Cyclone",
+    "context": "A subtropical cyclone is a non-frontal, low-pressure system that has characteristics of both tropical and extra-tropical cyclones. Like tropical cyclones, they are non-frontal, synoptic-scale cyclones that originate over tropical or subtropical waters and have a closed surface wind circulation about a well-defined centre (WMO, 2024 a).",
+    "code": "MH0308",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0308",
+    "source_file": "data/distribution/MH0308_Sub-Tropical_Cyclone.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0306": {
+    "term": "Depression or Cyclone (Low Pressure Area)",
+    "context": "A depression or cyclone is a region of the atmosphere in which the pressure is lower than that of the surrounding region at the same level (WMO, 1992).",
+    "code": "MH0306",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0306",
+    "source_file": "data/distribution/MH0306_Depression_or_Cyclone_(Low_Pressure_Area).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0501": {
+    "term": "Disaster and Conflict Waste",
+    "context": "Disaster and conflict waste is the waste generated by the impact of a disaster or conflict, both as a direct effect of the disaster or conflict as well as in the post-disaster and post-conflict phase as a result of poor waste management (UNEP/OCHA, 2011).",
+    "code": "TL0501",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0501",
+    "source_file": "data/distribution/TL0501_Disaster_and_Conflict_Waste.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0208": {
+    "term": "Diphtheria",
+    "context": "Diphtheria is a widespread severe infectious disease caused by the bacterium Corynebacterium diphtheriae and the toxin they produce. It is a potentially life-threatening, vaccine-preventable disease that primarily affects the throat and upper airways and has the potential for epidemics (WHO, 2024a).",
+    "code": "BI0208",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0208",
+    "source_file": "data/distribution/BI0208_Diphtheria.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0312": {
+    "term": "Rinderpest",
+    "context": "Rinderpest was an acute, highly contagious viral disease of wild and domesticated ruminants and pigs, characterized by sudden onset of fever, oculonasal discharges, necrotic stomatitis, gastroenteritis and death. Rinderpest was eradicated in 2011 (FAO & OIE, 2011).",
+    "code": "BI0312",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0312",
+    "source_file": "data/distribution/BI0312_Rinderpest.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0404": {
+    "term": "River Erosion and Accretion",
+    "context": "River erosion is the removal of material from the banks and beds of rivers and streams (cf. Lawler, 1993). River accretion is the formation of new land such as channel bars, sandbanks and deltas by sedimentation or changing river flow (after Islam and Guchhait, 2020 and Hasanuzzaman et al., 2024).",
+    "code": "GH0404",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0404",
+    "source_file": "data/distribution/GH0404_River_Erosion_and_Accretion.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0309": {
+    "term": "Subsidence and Uplift",
+    "context": "Subsidence is a lowering or collapse of the ground (BGS, 2020). Uplift is the converse.",
+    "code": "GH0309",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0309",
+    "source_file": "data/distribution/GH0309_Subsidence_and_Uplift.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0207": {
+    "term": "Dengue",
+    "context": "Dengue is a mosquito-borne disease that is caused by a virus of the Flaviviridae family and transmitted by female mosquitoes mainly of the species Aedes aegypti and, to a lesser extent, A. albopictus. The incidence of dengue has grown dramatically around the world in recent decades, with cases reported to WHO increasing from 505 430 cases in 2000 to 5.2 million in 2019 (adapted from WHO, 2024).",
+    "code": "BI0207",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0207",
+    "source_file": "data/distribution/BI0207_Dengue.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0404": {
+    "term": "Rail Accident",
+    "context": "A rail accident is a sudden event or a specific chain of such events (occurring during train operation) which has harmful consequences (United Nations, European Union and the International Transport Forum at the OECD, 2019).",
+    "code": "TL0404",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0404",
+    "source_file": "data/distribution/TL0404_Rail_Accident.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0104": {
+    "term": "Foodborne Diseases",
+    "context": "Foodborne diseases are caused by contamination of food and occur at any stage of the food production, delivery and consumption chain. They can result from several forms of environmental contamination including pollution in water, soil or air, as well as unsafe food storage and processing. Foodborne diseases encompass a wide range of illnesses from diarrhoea to cancers (WHO, no date a).",
+    "code": "BI0104",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0104",
+    "source_file": "data/distribution/BI0104_Foodborne_Diseases.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0506": {
+    "term": "Marine Debris",
+    "context": "Marine debris is any persistent, manufactured or processed solid material discarded, disposed of or abandoned in the marine and coastal environment. Marine litter consists of items that have been made or used by people and deliberately discarded into the sea or rivers or on beaches; brought indirectly to the sea with rivers, sewage, stormwater or winds; or accidentally lost, including material lost at sea in bad weather (adapted from UN Environment, no date and NOAA, no date).",
+    "code": "TL0506",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0506",
+    "source_file": "data/distribution/TL0506_Marine_Debris.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0403": {
+    "term": "Invasive Species, Including Weeds",
+    "context": "\u2018Invasive species\u2019, also known as \u2018alien invasive species\u2019, are species whose introduction, establishment and spread into new areas threaten ecosystems, habitats or other species and cause social, economic or environmental harm, or harm to human health (FAO, 2007:82).",
+    "code": "BI0403",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0403",
+    "source_file": "data/distribution/BI0403_Invasive_Species,_Including_Weeds.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0105": {
+    "term": "Fluoride and Iodine/Iodide Excess or Inadequate Intake",
+    "context": "Fluoride is a naturally occurring mineral to which the public are often exposed via drinking water. Depending on dose intake, fluoride may have both beneficial effects (reducing the incidence of dental caries) or negative effects (causing tooth enamel and skeletal fluorosis following prolonged high exposure) (adapted from NCBI, 2020 and WHO, no date). Some water supplies are fluoridated in order to achieve improved dental health.",
+    "code": "CH0105",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0105",
+    "source_file": "data/distribution/CH0105_Fluoride_and_Iodine/Iodide_Excess_or_Inadequate_Intake.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0301": {
+    "term": "Infectious Animal Diseases (Not Zoonoses)",
+    "context": "Non-zoonotic infectious animal diseases are not shared between animals and humans (WHO, FAO, & OIE, 2019).",
+    "code": "BI0301",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0301",
+    "source_file": "data/distribution/BI0301_Infectious_Animal_Diseases_(Not_Zoonoses).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0402": {
+    "term": "Locust upsurge",
+    "context": "Widespread and heavy infestations of crops and natural vegetation by locusts causing significant threats to food security, livelihoods and natural habitats in multiple regions (adapted from FAO, 2009a).",
+    "code": "BI0402",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0402",
+    "source_file": "data/distribution/BI0402_Locust_upsurge.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0207": {
+    "term": "Critical Infrastructure Failure",
+    "context": "Critical Infrastructure failure is defined as the failure in one or more of the physical structures, facilities, networks and other assets which provide services that are essential to the social and economic functioning of a community or society (UNGA, 2016).",
+    "code": "TL0207",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0207",
+    "source_file": "data/distribution/TL0207_Critical_Infrastructure_Failure.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0501": {
+    "term": "Pesticides",
+    "context": "Pesticide means any substance, or mixture of substances of chemical or biological ingredients intended for repelling, destroying or controlling any pest, or regulating plant growth.",
+    "code": "CH0501",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0501",
+    "source_file": "data/distribution/CH0501_Pesticides.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0405": {
+    "term": "Road Traffic Accident",
+    "context": "A road traffic accident involving at least one road vehicle in motion on a public road or private road to which the public has right of access, resulting in at least one injured or killed person. Approximately 1.19 million people die each year as a result of road traffic crashes, which are the leading cause of death for children and young adults aged 5-29 years with 92% of the world's fatalities on the roads occurring in low- and middle-income countries, even though these countries have around 60% of the world's vehicles (adapted from UNECE, Eurostat, ITF, 2019 and WHO, 2023a).",
+    "code": "TL0405",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0405",
+    "source_file": "data/distribution/TL0405_Road_Traffic_Accident.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0302": {
+    "term": "Carbon Monoxide",
+    "context": "Carbon monoxide is a colourless, odourless gas that can be poisonous to humans and is considered a significant public health hazard (WHO, 1999).",
+    "code": "CH0302",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0302",
+    "source_file": "data/distribution/CH0302_Carbon_Monoxide.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0310": {
+    "term": "Shrink-Swell Subsidence",
+    "context": "Subsidence is a lowering or collapse of the ground, caused by various factors, including groundwater lowering, sub-surface mining or tunnelling, consolidation, sinkholes, or changes in moisture content in expansive soils. Shrink-swell is the term applied to the behaviour of expansive soils. These are a group of soils that exhibit volumetric change in response to changes in moisture content, such that they shrink in response to desiccation and swell by hydration, resulting in ground subsidence and ground heave respectively (BGS, 2020).",
+    "code": "GH0310",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0310",
+    "source_file": "data/distribution/GH0310_Shrink-Swell_Subsidence.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0608": {
+    "term": "Ice-Jam Flooding Including Debris",
+    "context": "An ice-jam flood including debris is defined as an accumulation of shuga including ice cakes, below ice cover. It is broken ice in a river which causes a narrowing of the river channel, a rise in water level and local floods (WMO, 2012).",
+    "code": "MH0608",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0608",
+    "source_file": "data/distribution/MH0608_Ice-Jam_Flooding_Including_Debris.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0405": {
+    "term": "Coastal Erosion and Accretion",
+    "context": "Coastal erosion is the process of removal of material at the shoreline which leads to the loss of land as the shoreline retreats landward.\u00a0 Coastal accretion is the product of deposition of material at the shoreline which leads to gain of land as the coast advances seaward (Gibb, 1978).",
+    "code": "GH0405",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0405",
+    "source_file": "data/distribution/GH0405_Coastal_Erosion_and_Accretion.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0601": {
+    "term": "Antimicrobial Resistance",
+    "context": "Antimicrobial-resistant (AMR) microorganisms are bacteria, fungi, viruses, or parasites that evolve to withstand antimicrobial treatments, including antibiotics, antifungals, antivirals, and antiparasitics. These resistant microorganisms, make infections harder to treat, increasing the risk of disease spread, severe illness, and mortality. AMR is a major global public health and food security challenge and is driven by the misuse and overuse of antimicrobials in human medicine, animal health, and plant production and protection, as well as environmental contamination (adapted from WHO, 2023 and FAO, 2025).",
+    "code": "BI0601",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0601",
+    "source_file": "data/distribution/BI0601_Antimicrobial_Resistance.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0605": {
+    "term": "Groundwater Flooding",
+    "context": "A groundwater flood is the emergence of groundwater at the ground surface away from perennial river channels or the rising of groundwater into man-made ground, under conditions where the \u2018normal\u2019 ranges of groundwater level and groundwater flow are exceeded (BGS, 2010).",
+    "code": "MH0605",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0605",
+    "source_file": "data/distribution/MH0605_Groundwater_Flooding.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0102": {
+    "term": "Non-International Armed Conflict (NIAC)",
+    "context": "It is widely accepted today that two key conditions must be met for a situation of violence to be considered a Non-International Armed Conflict (NIAC) and therefore subject to International humanitarian law (IHL): the non-state party/parties must be organized, and the violence between the parties must be sufficiently intense. The existence of a NIAC is not predicated on any other threshold or condition. In particular, political or other motivations of the parties play no role in the classification of a conflict. (adapted from ICRC, 2024)",
+    "code": "SO0102",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0102",
+    "source_file": "data/distribution/SO0102_Non-International_Armed_Conflict_(NIAC).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0206": {
+    "term": "Crimean-Congo Haemorrhagic Fever",
+    "context": "Crimean-Congo haemorrhagic fever (CCHF) is a tick-borne viral infection caused by the CCHF virus. It causes severe viral haemorrhagic fever outbreaks and epidemics. CCHF outbreaks have a case fatality rate of 10-40% (WHO, 2025).",
+    "code": "BI0206",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0206",
+    "source_file": "data/distribution/BI0206_Crimean-Congo_Haemorrhagic_Fever.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0102": {
+    "term": "Lightning (Electrical Storm)",
+    "context": "Lightning is the luminous manifestation accompanying a sudden electrical discharge that takes place from or inside a cloud or, less often, from high structures on the ground or from mountains (WMO, 2017).",
+    "code": "MH0102",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0102",
+    "source_file": "data/distribution/MH0102_Lightning_(Electrical_Storm).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0203": {
+    "term": "Meteorite Impact",
+    "context": "A meteorite is an object that survives a trip through Earth\u2019s atmosphere and hits the ground (adapted from NASA, no date).",
+    "code": "ET0203",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0203",
+    "source_file": "data/distribution/ET0203_Meteorite_Impact.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0204": {
+    "term": "Bridge Failure",
+    "context": "Bridge failure is the inability of a bridge, or its components, to perform as specified by its design and construction requirements (Wardhana and Hadipriono, 2003).",
+    "code": "TL0204",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0204",
+    "source_file": "data/distribution/TL0204_Bridge_Failure.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0245": {
+    "term": "Avian Influenza",
+    "context": "Avian influenza is an infectious disease of birds caused by type A influenza viruses of theOrthomyxoviridaefamily. Naturally occurring among wild bird populations, avian influenza viruses can infect domestic poultry and other bird species. Some avian influenza viruses can also infect mammals and those affecting humans are called zoonotic. A pandemic can occur when a novel influenza virus spreads in human populations worldwide (adapted from FAO, 2009; WHO, 2023a; 2023b; WOAH, no date).",
+    "code": "BI0245",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0245",
+    "source_file": "data/distribution/BI0245_Avian_Influenza.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0509": {
+    "term": "Landfilling",
+    "context": "Landfill is the final placement of waste in or on the land in a controlled or uncontrolled way according to different sanitary, environmental protection and other safety requirements (UN Data, no date).",
+    "code": "TL0509",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0509",
+    "source_file": "data/distribution/TL0509_Landfilling.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0201": {
+    "term": "Airburst",
+    "context": "An airburst is defined as a high-energy explosion in mid-air caused either by an artificial explosive device or by the sudden disruption of a natural object entering the Earth's atmosphere at high speeds at an altitude where the hydrodynamic pressure exceeds the structural integrity of the object (adapted from ESA, No date).",
+    "code": "ET0201",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0201",
+    "source_file": "data/distribution/ET0201_Airburst.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0202": {
+    "term": "Ultraviolet Radiation",
+    "context": "Ultraviolet radiation (UVR) exposure, either from the sun or from artificial sources such as sunbeds, is primarily responsible for skin cancers. Globally in 2020, over 1.5 million cases of skin cancers were diagnosed and over 120, 000 skin cancer-associated deaths were reported. (WHO 2022a).",
+    "code": "ET0202",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0202",
+    "source_file": "data/distribution/ET0202_Ultraviolet_Radiation.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0204": {
+    "term": "Cholera",
+    "context": "Cholera is an acute diarrhoeal infection caused by ingestion of food or water contaminated with the bacterium Vibrio cholerae. Cholera is a global threat to public health (WHO, 2024a).",
+    "code": "BI0204",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0204",
+    "source_file": "data/distribution/BI0204_Cholera.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0503": {
+    "term": "Dzud",
+    "context": "A dzud (a Mongolian term that describes \u2018severe winter conditions\u2019\u2019, sometimes spelled zud) is a cold-season disaster in which anomalous climatic (i.e., heavy snow and severe cold) and/or land-surface (snow/ ice cover and lack of pasture) conditions lead to reduced accessibility and/or availability of forage/pastures, and ultimately to high livestock mortality during winter\u2013spring (Natsagdorj & Dulamsuren, 2001).",
+    "code": "MH0503",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0503",
+    "source_file": "data/distribution/MH0503_Dzud.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0101": {
+    "term": "Earthquake",
+    "context": "Earthquake is a term used to describe the sudden slip on a fault and the ground shaking that occurs from the radiated seismic energy during the slipping event. The sudden slip can be caused by stress changes in the earth or volcanic/magmatic activity (USGS, no date).",
+    "code": "GH0101",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0101",
+    "source_file": "data/distribution/GH0101_Earthquake.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0225": {
+    "term": "Paratyphoid fever",
+    "context": "Paratyphoid fever results from systemic infection with Salmonella enterica serotype Paratyphi. It is characterised by febrile illness and, in severe cases, gastrointestinal bleeding, altered mental status, intestinal perforation, and death (IHME 2021).",
+    "code": "BI0225",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0225",
+    "source_file": "data/distribution/BI0225_Paratyphoid_fever.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0511": {
+    "term": "Tailings",
+    "context": "Tailings are a by-product of mining, consisting of the processed rock or soil left over from the separation of the commodities of value from the rock or soil within which they occur (adapted from GISTM, 2020).",
+    "code": "TL0511",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0511",
+    "source_file": "data/distribution/TL0511_Tailings.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0216": {
+    "term": "Leprosy",
+    "context": "Leprosy is a curable infectious disease, endemic in many countries, caused by the bacteriumMycobacterium leprae(M. leprae). It mainly affects the skin, peripheral nerves, mucosa of the upper respiratory tract and eyes. Untreated, it can lead to permanent disability (adapted from WHO, 2025).",
+    "code": "BI0216",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0216",
+    "source_file": "data/distribution/BI0216_Leprosy.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0203": {
+    "term": "Haze",
+    "context": "Haze is a suspension in the air of extremely small, dry particles invisible to the naked eye and sufficiently numerous to give the air an opalescent appearance (WMO, 2017).",
+    "code": "MH0203",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0203",
+    "source_file": "data/distribution/MH0203_Haze.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0503": {
+    "term": "Viral, Phytoplasma and Viroid Plant Disease Outbreaks",
+    "context": "Viral, phytoplasma and viroid plant disease outbreaks refer to sudden occurrence of plant diseases caused by viruses, phytoplasma (syn. mycoplasma-like organisms) and viroids over large areas with significant impact on crop production or natural habitats (adapted from Nakashima & Murata, 1993; Hammond & Owens, 2006; FAO / IPPC, 2016; Rubio et al., 2020).",
+    "code": "BI0503",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0503",
+    "source_file": "data/distribution/BI0503_Viral,_Phytoplasma_and_Viroid_Plant_Disease_Outbreaks.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0706": {
+    "term": "Sea Ice (Icebergs)",
+    "context": "Sea ice is any form of ice found at sea (WMO, 2015).",
+    "code": "MH0706",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0706",
+    "source_file": "data/distribution/MH0706_Sea_Ice_(Icebergs).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0300": {
+    "term": "Gravitational Mass Movement (\u2018Landslide\u2019)",
+    "context": "A gravitational mass movement (\u2018landslide\u2019) is the downslope movement of soil, rock and organic materials under the effects of gravity, which occurs when the gravitational driving forces exceed the frictional resistance of the material resisting on the slope. Such movements may be terrestrial or submarine (GH0306) (cf. Cruden and Varnes, 1996).",
+    "code": "GH0300",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0300",
+    "source_file": "data/distribution/GH0300_Gravitational_Mass_Movement_(\u2018Landslide\u2019).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0309": {
+    "term": "New World Screwworm (NWS)",
+    "context": "The New World screwworm (NWS),Cochliomyia hominivorax(Coquerel), is an obligate parasite of mammals, including humans, during their larval stages. Larvae feeding on the skin and underlying tissues of the host cause a condition known as wound or traumatic myiasis, which can be fatal (adapted from PAHO, no date and WOAH, no date).",
+    "code": "BI0309",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0309",
+    "source_file": "data/distribution/BI0309_New_World_Screwworm_(NWS).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0210": {
+    "term": "Water Supply Failure",
+    "context": "Water supply failure is the physical shortage or scarcity in access of water supply due to the failure of institutions to ensure a regular supply or due to a lack of adequate infrastructure (adapted from UN-Water, no date).",
+    "code": "TL0210",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0210",
+    "source_file": "data/distribution/TL0210_Water_Supply_Failure.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0401": {
+    "term": "Financial shock",
+    "context": "A financial shock is an unexpected disturbance which originates from the financial sector and has a significant effect on an economy (e.g. national, regional, or global). The term is largely used to refer to events which have negative impacts (ECB, 2013).",
+    "code": "SO0401",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0401",
+    "source_file": "data/distribution/SO0401_Financial_shock.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0406": {
+    "term": "Snow Storm",
+    "context": "A snow storm is a meteorological disturbance giving rise to a heavy fall of snow, often accompanied by strong winds (WMO, 1992).",
+    "code": "MH0406",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0406",
+    "source_file": "data/distribution/MH0406_Snow_Storm.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0102": {
+    "term": "Bloodborne Viruses",
+    "context": "Bloodborne viruses are viruses transmitted by direct contact with infected blood or other body fluids (adapted from WHO, 2023).",
+    "code": "BI0102",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0102",
+    "source_file": "data/distribution/BI0102_Bloodborne_Viruses.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0104": {
+    "term": "Solar Energetic Particles",
+    "context": "Solar energetic particle (SEP) events occur when a large-scale magnetic eruption, often accompanied by a coronal mass ejection and/or a related solar flare, accelerates charged particles in the solar atmosphere to significant fractions of the speed of light. The primary particles of interest are protons. SEP arrive with diverse fluxes and energies at different geographic locations (NOAA, 2023).",
+    "code": "ET0104",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0104",
+    "source_file": "data/distribution/ET0104_Solar_Energetic_Particles.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0201": {
+    "term": "Explosive Ordnance",
+    "context": "Explosive ordnance, including explosive remnants of war, is interpreted as encompassing the following munitions: mines, cluster munitions, unexploded ordnance, abandoned ordnance, booby traps and other devices (IMAS 4.10) that remain in the environment following the cessation of armed conflict.",
+    "code": "SO0201",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0201",
+    "source_file": "data/distribution/SO0201_Explosive_Ordnance.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0902": {
+    "term": "Ammonium Nitr\u200b\u200bate",
+    "context": "Ammonium nitrate (NH4NO3) is principally used as a high nitrogen content fertilizer in agricultural applications. It is also a major component of industrial explosives, and similar mixtures have been used as improvised explosive devices. Thousands of people have been killed in accidental ammonium nitrate explosions triggered either by a shock/explosion, or by fire spreading into a storage facility. Overuse as a fertilizer can lead to contamination of drinking water.",
+    "code": "CH0902",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0902",
+    "source_file": "data/distribution/CH0902_Ammonium_Nitr\u200b\u200bate.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0231": {
+    "term": "Q Fever",
+    "context": "Q fever is a common zoonosis (infection that could transmit from animals to humans), caused by Coxiella burnetii. Natural reservoirs include several domestic and wild animals, most of which show no signs of disease (although infection can cause abortions). Due to the high resilience in the environment of Coxiella, humans are most often infected by inhalation of aerosols produced in contaminated locations, but other modes of infection have been documented (including food-borne) (ECDC, no date).",
+    "code": "BI0231",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0231",
+    "source_file": "data/distribution/BI0231_Q_Fever.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0239": {
+    "term": "Varicella and herpes zoster",
+    "context": "Varicella is an acute, highly contagious disease caused by varicella- zoster virus. Following infection, the virus remains latent in neural ganglia and in about 10-20% of cases it is reactivated to cause herpes zoster, or shingles, generally in persons over 50 years of age or immunocompromised individuals. (WHO, no date).",
+    "code": "BI0239",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0239",
+    "source_file": "data/distribution/BI0239_Varicella_and_herpes_zoster.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0508": {
+    "term": "Ground Frost",
+    "context": "Ground frost is a covering of ice, in one of its many forms, produced by the sublimation of the water vapour on objects colder than 0\u00b0C (WMO, 1992).",
+    "code": "MH0508",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0508",
+    "source_file": "data/distribution/MH0508_Ground_Frost.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0300": {
+    "term": "Toxic Gases",
+    "context": "Toxic gases are substances in the gaseous state that cause hazardous physiological effects when inhaled, affecting the respiratory, cardiovascular, and nervous systems, making them major public hazards (WHO 2000).",
+    "code": "CH0300",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0300",
+    "source_file": "data/distribution/CH0300_Toxic_Gases.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0103": {
+    "term": "Diarrhoeal Diseases",
+    "context": "Diarrhoeal diseases are infectious diseases, contaminants and other causes of diarrhoea. Diarrhoea is defined as the passage of three or more loose or liquid stools per day, or more frequently than is normal for the individual. Diarrhoeal disease is the third leading cause of death in children 1\u201359 months of age. It is both preventable and treatable. (WHO, 2024a).",
+    "code": "BI0103",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0103",
+    "source_file": "data/distribution/BI0103_Diarrhoeal_Diseases.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0401": {
+    "term": "Air Transportation Accident",
+    "context": "An air transportation accident is defined as an occurrence associated with the operation of an aircraft which takes place between the time any person boards the aircraft with the intention of flight until such time as all such persons have disembarked, in which one of the following applies: a person is fatally or seriously injured, the aircraft sustains damage or structural failure, and the aircraft is missing or is completely inaccessible (United Nations, European Union, the International Transport Forum at the OECD, 2019:119).",
+    "code": "TL0401",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0401",
+    "source_file": "data/distribution/TL0401_Air_Transportation_Accident.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0303": {
+    "term": "Salinity & Sodicity",
+    "context": "Salt-affected soils consist of saline and sodic soils. Saline soils are those with an elevated amount of soluble salts, which reduces the ability of plants to take up water from soil due to the high osmotic pressure of the soil solution (FAO, 1985).",
+    "code": "EN0303",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0303",
+    "source_file": "data/distribution/EN0303_Salinity_&_Sodicity.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0306": {
+    "term": "Submarine Gravitational Mass Movement (\u2018Landslide\u2019)",
+    "context": "A submarine gravitational mass movement (\u2018Landslide\u2019) is\u00a0 the downslope movement of sediment or rock due to gravity, occurring when the downslope forces exceed the sediment's resistance to movement (Adapted from Lee et al., 2007).",
+    "code": "GH0306",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0306",
+    "source_file": "data/distribution/GH0306_Submarine_Gravitational_Mass_Movement_(\u2018Landslide\u2019).html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0603": {
+    "term": "Harmful Algal Blooms",
+    "context": "Harmful algal blooms result from noxious and/or toxic algae that cause direct and indirect negative impacts on aquatic ecosystems, coastal resources, and human health (Kudela et al., 2015).",
+    "code": "BI0603",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0603",
+    "source_file": "data/distribution/BI0603_Harmful_Algal_Blooms.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0222": {
+    "term": "Meningococcal Meningitis",
+    "context": "Meningococcal meningitis is a bacterial form of meningitis, a serious infection of the thin lining that surrounds the brain and spinal cord, that is caused by the bacteriumNeisseria meningitidis. Meningococcal meningitis has the potential to cause large-scale epidemics and is observed worldwide (adapted from WHO, 2025).",
+    "code": "BI0222",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0222",
+    "source_file": "data/distribution/BI0222_Meningococcal_Meningitis.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0313": {
+    "term": "Oyster Disease Aquaculture",
+    "context": "There are a number of causal agents recognised for oyster diseases. Examples of major oyster diseases and their causal protozoan agents are: bonamiosis (Bonamia exitiosa, B. ostreae); marteiliosis (Marteilia refringens); perkinsosis (Perkinsus marinus, P. olseni). These oyster diseases are notifiable OIE-listed diseases and occur worldwide (WOAH, 2024a).",
+    "code": "BI0313",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0313",
+    "source_file": "data/distribution/BI0313_Oyster_Disease_Aquaculture.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0202": {
+    "term": "Environmental Degradation from Conflict",
+    "context": "Environmental degradation is both a driver and consequence of disasters and conflict, reducing the capacity of the environment to meet social and ecological needs (Adapted from UNDRR, 2022).",
+    "code": "SO0202",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0202",
+    "source_file": "data/distribution/SO0202_Environmental_Degradation_from_Conflict.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0101": {
+    "term": "Airborne Diseases",
+    "context": "Airborne transmission of infectious agents refers to the transmission of disease caused by the dissemination of very small droplets that remain infectious when suspended in air over long distances and time, and potentially cause significant morbidity and mortality (adapted from WHO, 2020).",
+    "code": "BI0101",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0101",
+    "source_file": "data/distribution/BI0101_Airborne_Diseases.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0202": {
+    "term": "Brucellosis",
+    "context": "Brucellosis is a bacterial disease caused by various Brucella species, which mainly infect cattle, swine, goats, sheep and dogs. Humans generally acquire the disease through direct contact with infected animals (WHO, 2020).",
+    "code": "BI0202",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0202",
+    "source_file": "data/distribution/BI0202_Brucellosis.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0708": {
+    "term": "Marine Heatwave",
+    "context": "A period of extreme warm near-sea surface temperature (SST) that persists for days to months and can extend up to thousands of kilometres (IPCC, 2019).",
+    "code": "MH0708",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0708",
+    "source_file": "data/distribution/MH0708_Marine_Heatwave.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0704": {
+    "term": "Storm Tides",
+    "context": "A storm tide is the actual sea level as influenced by a weather disturbance. The storm tide consists of the normal astronomical tide plus the storm surge (WMO, 2017).",
+    "code": "MH0704",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0704",
+    "source_file": "data/distribution/MH0704_Storm_Tides.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0228": {
+    "term": "Plague",
+    "context": "Plague is caused by the bacteriaYersinia pestis, and can be a very severe disease in people, with a case-fatality ratio of 30% to 60% for the bubonic type and is always fatal for the pneumonic kind when left untreated (WHO, 2022).",
+    "code": "BI0228",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0228",
+    "source_file": "data/distribution/BI0228_Plague.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0204": {
+    "term": "Space Hazard / Accident",
+    "context": "A space accident is any accident involving space objects that cause damage (adapted from UNGA, 1971).",
+    "code": "ET0204",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0204",
+    "source_file": "data/distribution/ET0204_Space_Hazard_/_Accident.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0503": {
+    "term": "Perfluoroalkyl and Polyfluoroalkyl Substances",
+    "context": "Polyfluoroalkyl substances (PFAS) are a large family of chemicals in which \u200bmultiple fluorine atoms are attached to an alkyl chain within a molecule\u200b. If all possible sites of an alkyl chain are occupied by fluorine atoms, the substance may also be referred to as a perfluoroalkyl substance as in perfluorooctanoic acid (PFOA) or perfluorooctanesulfonic acid (PFOS). (WHO, 2023).",
+    "code": "CH0503",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0503",
+    "source_file": "data/distribution/CH0503_Perfluoroalkyl_and_Polyfluoroalkyl_Substances.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0302": {
+    "term": "Derecho",
+    "context": "Derechos are fast-moving bands of thunderstorms with destructive winds. The winds can be as strong as those found in hurricanes or even tornadoes. Unlike hurricanes and tornadoes, these winds follow straight lines (NOAA, 2019).",
+    "code": "MH0302",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0302",
+    "source_file": "data/distribution/MH0302_Derecho.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0309": {
+    "term": "Tropical Cyclone",
+    "context": "A tropical cyclone is a cyclone of tropical origin of small diameter (some hundreds of kilometres) with a minimum surface pressure in some cases of less than 900 hPa, very violent winds and torrential rain; sometimes accompanied by thunderstorms. It usually contains a central region, known as the 'eye' of the storm, with a diameter of the order of some tens of kilometres, and with light winds and a more or less lightly clouded sky (WMO, 2023).",
+    "code": "MH0309",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0309",
+    "source_file": "data/distribution/MH0309_Tropical_Cyclone.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0303": {
+    "term": "Soil Pollution",
+    "context": "Soil pollution refers to the presence of a chemical or substance out of place and/or present in a soil at higher-than-normal concentration that has adverse effects on any non-targeted organism (Rodr\u00edguez-Eugenio et al., 2018).",
+    "code": "TL0303",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0303",
+    "source_file": "data/distribution/TL0303_Soil_Pollution.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0303": {
+    "term": "Chlorine",
+    "context": "Chlorine is a reactive pale green gas with many uses including disinfection of water. Chlorine is approximately 2.4 times heavier than air and has a characteristic odour similar to bleach. Most significant exposures to chlorine result from loss of containment of chlorine during storage and transport. Human exposure can result in symptoms ranging from mild irritation to rapid death related to pulmonary oedema. It is considered a significant public health hazard (adapted from IPCS, 1982 and PHE, 2019).",
+    "code": "CH0303",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0303",
+    "source_file": "data/distribution/CH0303_Chlorine.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0602": {
+    "term": "Substandard and Falsified Medical Products",
+    "context": "Substandard and falsified medical products are defined as those that may cause harm to patients and fail to treat the diseases for which they were intended (WHO, 2018).",
+    "code": "CH0602",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/ch0602",
+    "source_file": "data/distribution/CH0602_Substandard_and_Falsified_Medical_Products.html"
+  },
+  "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0202": {
+    "term": "Fog",
+    "context": "Fog is a suspension of very small, usually microscopic water droplets in the air, reducing visibility at the Earth\u2019s surface (WMO, 2017).",
+    "code": "MH0202",
+    "url": "https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0202",
+    "source_file": "data/distribution/MH0202_Fog.html"
+  }
+}

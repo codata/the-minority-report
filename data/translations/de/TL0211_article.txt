@@ -1,0 +1,63 @@
+Definition
+Der Ausfall von Notfallkommunikation ist ein Oberbegriff für Telekommunikation von „außergewöhnlicher Natur“ unter abnormalen und potenziell nachteiligen Netzwerbedingungen (ITU, 2007).
+
+Primary reference(s)
+ITU, 2007. Y.2172: Prioritätsstufen der Dienstwiederherstellung in Next‑Generation‑Netzwerken. Internationale Fernmeldeverband (ITU). Abgerufen am 26. Januar 2025.
+
+Annotations
+Additional scientific description
+Notfallkommunikation ist von entscheidender Bedeutung, wenn ein Katastrophenereignis eintritt, um Notfall- und Katastrophenreaktionsteams, Regierungsministerien, -abteilungen und -behörden sowie humanitäre Organisationen die Koordination und Durchführung von Katastrophenreaktions- und Wiederaufbauarbeiten zu ermöglichen. Der Ausfall von Notfallkommunikation ist eng mit der Dienstwiederherstellung verbunden. Die Dienstwiederherstellung wird als ein Satz automatisierter oder manueller Verfahren beschrieben, die nach einem Netzwerkfehler aufgerufen werden, um die Fähigkeit erfolgreicher Kommunikationsumleitung und -vollendung um das fehlerhafte Netzwerktelement(en) zu verbessern (ITU, 2014). Alle Formen von Kommunikationsverkehr werden voraussichtlich von Next‑Generation‑Netzwerken getragen – Kontrollschichtverkehr (z. B. Routing‑ und Signalisierungsnachrichten), Notfallkommunikation, Echtzeit‑Sprach- und Video‑Dienstleistungen, Daten­dienste, virtuelle private Netzwerke (VPN), sowie traditioneller „Best Effort“-Verkehr. In einem solchen Umfeld ist es wichtig, Prioritätsklassifikationen zuzuweisen und Regeln für die Dienstwiederherstellung festzulegen, sodass kritische Dienste (z. B. Kontrollschichtverkehr und Notfallkommunikation) im Falle von Netzwerküberlastungen oder -ausfällen gegenüber anderen Diensten bevorzugt erkannt und wiederhergestellt werden. Da Dienstflüsse voraussichtlich mehrere Netzwerkdomänen durchqueren, ist die Prioritätsklassifikation ein wichtiger Schritt bei der Entwicklung der erforderlichen Signalisierungsprotokoll‑Erweiterungen sowie der Mechanismen zur Ermöglichung einer bevorzugten Wiederherstellung kritischer Dienste (ITU, 2014). Die Anforderungen an die Katastrophenkommunikation hinsichtlich Zuverlässigkeit, Robustheit und Widerstandsfähigkeit unterscheiden sich ebenfalls in den verschiedenen Phasen einer Katastrophe. Der umfangreiche Umfang des Katastrophenmanagements aus Kommunikationsperspektive muss in Bezug auf die Art der Kommunikationstechnologien und deren Nutzung in den verschiedenen Phasen der Katastrophe berücksichtigt werden (ITU, 2014).
+
+Metrics and numeric limits
+Die ITU entwickelt derzeit globale Richtlinien für Länder, um nationale Notfalltelekommunikationspläne (NETS) zu erstellen, die für Frühwarnungen und im Notfall eingesetzt werden können. Der Rahmen soll die Exposition eines Landes gegenüber natürlichen Gefahren und Katastrophen ansprechen, bevor Daten‑ und Kommunikationssysteme für den Notfall entwickelt werden (ITU, 2019).
+
+Key relevant UN convention / multilateral treaty
+Die Tampere-Konvention über die Bereitstellung von Telekommunikationsressourcen für Katastrophenminderung und Hilfsoperationen wurde 2005 eingerichtet. Dieses internationale Abkommen ermöglicht es Ländern, regulatorische Hindernisse zu beseitigen, um sofort Notfallkommunikation bereitzustellen, wenn eine Katastrophe eintritt (United Nations Treaty Collection, 1998).
+
+Drivers
+Natürliche Gefahren können die Telekommunikationsinfrastruktur zerstören und schwere Netzwerkunterbrechungen verursachen. Elektrische Energie ist für das Funktionieren dieser Notfallkommunikationssysteme unerlässlich, und Stromausfälle stehen in direktem Zusammenhang mit den Auslösern dieser Gefahr (Townsend und Moss, 2005; Chang et al., 2007). Darüber hinaus wirken menschliche Gefahren, wie Sabotage, Vandalismus und Krieg, auf die Notfallkommunikation ein. Natürliche Gefahren beeinträchtigen die Notfalltelekommunikation. Während und nach einem Erdbeben sind Notfallkommunikationen entscheidend. Zuverlässige Kommunikation ist von wesentlicher Bedeutung für die Verbreitung von Informationen, die Koordination von Rettungsmaßnahmen und dafür, dass Menschen informiert bleiben und mit Angehörigen in Kontakt treten können. In der unmittelbaren Nachfolgesituation können herkömmliche Telefonanrufe unzuverlässig sein, sodass Textnachrichten, soziale Medien und batteriebetriebene Radios wichtige Kommunikationsmittel werden (US Department of Homeland Security, 2024; PAHO, 2009). Solare geomagnetische Stürme erzeugen Röntgenstrahlung und solareradio‑Burst, beschleunigen Sonnenpartikel auf relativistische Geschwindigkeiten, verursachen erhebliche Störungen des Sonnenwinds und können nachteilige Effekte auf das Stromnetz, Satelliten, Avionik, Flugpassagiere, Signale von Satellitennavigationssystemen, Mobiltelefone und mehr haben (National Research Council, 2008; Royal Academy of Engineering, 2013).
+
+Impacts
+Der Ausfall von Notfallkommunikation kann zum Fehlbetrieb von Frühwarnsystemen führen und das Potenzial für sekundäre Schäden erhöhen. Er verringert zudem die Katastrophenreaktionsfähigkeit, indem er Verzögerungen verursacht oder die Effizienz von Notfallreaktionsoperationen reduziert. Darüber hinaus kann die Telekommunikationsinfrastruktur, die eng mit Strom- und ICT-Systemen interagiert, Ziel von Cyberangriffen werden und zusätzliche Schwachstellen im System schaffen (CISA, 2023). Ein Ausfall der Notfallkommunikation hat im Kontext anderer Gefahren noch größere Auswirkungen; zum Beispiel sind Waldbrände die häufigste Art von Notfällen, die insbesondere Übertragungsnetzschaltkreise betreffen (Salema & Caldeirinha, 2024). Probleme im Zusammenhang mit dem Ausfall der Notfallkommunikation erhöhen das Risiko von physischen Schäden und finanziellen Verlusten, wobei eine schnelle Servicewiederherstellung entscheidend ist, um die Katastrophenreaktionsfähigkeit zu verbessern und die Notfallkonnektivität zu erhöhen.
+
+Multi-hazard context
+Die nachstehende Abbildung fasst häufige Wechselwirkungen zwischen Ausfall der Notfallkommunikation und anderen Gefahren zusammen. Diese Informationen sollten mit Vorsicht verwendet und im Katastrophenrisikomanagement nicht ausschließlich herangezogen werden, insbesondere da einige Interaktionen möglicherweise nicht berücksichtigt wurden. Beachten Sie, dass gefährliche Ereignisse, die gleichzeitig oder lokal in Raum oder Zeit auftreten, nicht notwendigerweise gegenseitig verursachen, verstärken oder in anderer Weise zusammenhängen. Spezifische Beispiele für einen Multi‑Hazard‑Kontext finden Sie in den oben genannten Abschnitten „Gefahrenursachen“ und „Auswirkungen“.
+
+Multi-hazard diagram
+
+Risk Management
+Der NETS‑Framework der ITU kann in allen Phasen des Katastrophenmanagements eingesetzt werden und bietet Richtlinien für ein Land, robuste Informations‑ und Kommunikationstechnologiesysteme (ICT) vor, während und nach einer Katastrophe einzurichten (ITU, 2019). In groß angelegten Katastrophensituationen sind Ausfälle der Notfallkommunikation häufig auf Netzwerküberlastungen oder Interdependenzen mit Stromsystemen zurückzuführen. Um diese Risiken zu adressieren, ist es entscheidend, die Widerstandsfähigkeit der Kommunikationssysteme zu erhöhen, indem Maßnahmen wie die Überwachung des Netzwerkverkehrs und der Systemleistung implementiert werden. Darüber hinaus können Risiken durch die Einrichtung von Backup‑Kommunikationssystemen, die Sicherung alternativer Kommunikationswege und die Vorplanung des Personals und der Ressourcen zur Gewährleistung unterbrechungsfreier Operationen gemildert werden. Mobile Technologie dient als kritisches Werkzeug zur Minderung von Ausfällen der Notfallkommunikation, ermöglicht effektive Kommunikation über alle Phasen des Katastrophenmanagements hinweg, einschließlich Vorbereitung, Resilienzbildung, Reaktion und Erholung. Sie gewährleistet den Zugang zu wichtigen Informationen und spielt eine besonders bedeutende Rolle bei der Verbreitung und Kommunikation von Frühwarnungen (GSMA, 2023).
+
+Monitoring
+Ausfälle der Notfallkommunikation verschärfen die Risiken von Katastrophen, indem sie die Kommunikation und Koordination unter Einsatzkräften behindern und zu verzögerten oder ineffektiven Notfallreaktionen sowie zu erhöhten physischen und finanziellen Schäden führen können. Eine schnelle Servicewiederherstellung ist entscheidend für die Verbesserung der Katastrophenreaktionsfähigkeiten, da sie zeitnahe Kommunikation, Informationsaustausch und koordinierte Maßnahmen zur Schadensminderung sowie zur Unterstützung betroffener Bevölkerungen ermöglicht (OECD, 2025).
+
+References
+Chang S.E., McDaniels T.L., Mikawoz J., Peterson K. Interdependenzen von Infrastrukturausfällen bei extremen Ereignissen: Stromausfallfolgen im Eissturm von 1998. Natural Hazards, 41 (2) (2007), S. 337-358. Abgerufen am 19. Mai 2025
+
+Cybersecurity and Infrastructure Security Agency (CISA), 2023. Cyber‑Risikoabschätzung des Notfalldienstsektors. Cybersecurity and Infrastructure Security Agency (CISA). Abgerufen am 26. Januar 2025
+
+Groupe Spéciale Mobile Association (GSMA), 2021. Nationale Notfallkommunikationspläne: Enabler und Schutzmaßnahmen. Ein kurzer Evaluationsleitfaden für politische Entscheidungsträger. Abgerufen am 19. Mai 2025
+
+GSMA, 2023. Cell Broadcast für Frühwarnsysteme: Eine Übersicht über die Technologie und deren Implementierung. Abgerufen am 26. Januar 2025
+
+International Telecommunication Union (ITU), 2014. Lückenanalyse von Katastrophenhilfe‑Systems, Netzwerkrückstand und Wiederherstellung. ITU‑T Focus Group on Disaster Relief Systems, Resilience and Recovery Network. International Telecommunication Union (ITU). Abgerufen am 26. Januar 2025
+
+ITU, 2019. Globale Richtlinien zur Entwicklung nationaler Notfalltelekommunikationspläne: Entwurf für Kommentare. Internationale Fernmeldeverband (ITU). ITU‑Richtlinien für nationale Notfalltelekommunikationspläne. Abgerufen am 26. Januar 2025
+
+National Research Council. 2008. Schwere Weltraumwettermeldungen: Verständnis gesellschaftlicher und wirtschaftlicher Auswirkungen: Bericht eines Workshops. Washington, DC: The National Academies Press. DOI: 10.17226/12507. Abgerufen am 19. Mai 2025
+
+Organisation for Economic Co‑operation and Development (OECD), 2025. Stärkung der Widerstandsfähigkeit von Kommunikationsnetzwerken. OECD Digital Economy Papers, Mai 2025, Nr. 374. Organisation for Economic Co‑operation and Development (OECD). Abgerufen am 19. Mai 2025
+
+Pan American Health Organization (PAHO), 2009. Informationsmanagement und Kommunikation in Notfällen und Katastrophen: Handbuch für Katastrophenreaktionsteams. Pan American Health Organization (PAHO). Abgerufen am 19. Mai 2020
+
+Royal Academy of Engineering, 2013. Extreme Space Weather: Auswirkungen auf Ingenieur‑ und Infrastruktursysteme. Abgerufen am 19. Mai 2020
+
+Salema, C., und Caldeirinha, R. 2024. ‘Perspektivkapitel: Mobile‑Radio‑Notfallkommunikation für groß angelegte Waldbrandbekämpfung – Portugal als Fallstudie’. Fire Safety Engineering - Maßnahmen, Politiken und Anwendungen [Working Title]. IntechOpen. doi:10.5772/intechopen.1007773. Abgerufen am 19. Mai 2025
+
+Townsend, A.M. und M.L. Moss, 2005. Telekommunikationsinfrastruktur in Katastrophen: Vorbereitung von Städten auf Krisenkommunikation. Telecommunications Infrastructures in Disaster: Preparing Cities for Crisis Communications - World | ReliefWeb. Abgerufen am 26. Januar 2025
+
+United Nations Treaty Collection, 1998. Kapitel XXV: Telekommunikation: 4. Tampere‑Konvention über die Bereitstellung von Telekommunikationsressourcen für Katastrophenminderung und Hilfsoperationen. Abgerufen am 10. Mai 2025
+
+US Department of Homeland Security, 2025. Erdbeben. Abgerufen am 19. Mai 2020
+
+Cite this [Copy citation]
