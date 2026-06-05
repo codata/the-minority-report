@@ -1,5 +1,5 @@
 ollama
-requests
+requests==2.31.0
 beautifulsoup4
 rdflib
 mlcroissant
@@ -11,4 +11,7 @@ torch
 datasets
 spacy
 fastmcp
-
+fastapi
+uvicorn
+python-multipart
+google-generativeai

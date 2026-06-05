@@ -1,0 +1,1388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Minority Report - Technical Translation & Hazard Extraction</title>
+  <meta name="description" content="AI-powered agentic pipeline for disaster risk terminology translation, controlled vocabulary mapping, and hazard entity recognition.">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+  
+  <style>
+    :root {
+      /* Harmulous HSL Color Palette (Dark Space Theme) */
+      --bg-primary: hsl(222, 47%, 10%);
+      --bg-secondary: hsl(223, 47%, 14%);
+      --bg-tertiary: hsl(224, 47%, 18%);
+      --accent-primary: hsl(250, 85%, 65%);
+      --accent-primary-hover: hsl(250, 85%, 72%);
+      --accent-secondary: hsl(320, 80%, 60%);
+      --text-primary: hsl(210, 40%, 98%);
+      --text-secondary: hsl(215, 20%, 70%);
+      --text-muted: hsl(215, 12%, 50%);
+      --border-color: hsl(223, 47%, 22%);
+      --border-focus: hsl(250, 85%, 65%);
+      --success: hsl(142, 70%, 45%);
+      --warning: hsl(38, 92%, 50%);
+      --danger: hsl(350, 80%, 55%);
+      
+      --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      --font-title: 'Outfit', sans-serif;
+      --font-mono: 'Fira Code', monospace;
+      
+      --radius-sm: 6px;
+      --radius-md: 12px;
+      --radius-lg: 18px;
+      --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      --shadow-glow: 0 0 20px rgba(138, 92, 246, 0.15);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-family: var(--font-sans);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+      overflow-x: hidden;
+      background-image: 
+        radial-gradient(at 0% 0%, hsla(250, 85%, 65%, 0.08) 0px, transparent 50%),
+        radial-gradient(at 100% 100%, hsla(320, 80%, 60%, 0.08) 0px, transparent 50%);
+    }
+
+    /* Page Container */
+    .container {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+
+    /* Header Styling */
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 3rem;
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 1.5rem;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .logo-mark {
+      position: relative;
+      width: 40px;
+      height: 40px;
+      background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: var(--shadow-glow);
+    }
+
+    .logo-mark::after {
+      content: '';
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border: 2px solid var(--accent-primary);
+      border-radius: 50%;
+      animation: pulse-ring 2s infinite;
+    }
+
+    @keyframes pulse-ring {
+      0% { transform: scale(1); opacity: 1; }
+      100% { transform: scale(1.5); opacity: 0; }
+    }
+
+    .logo-dot {
+      width: 14px;
+      height: 14px;
+      background-color: var(--bg-primary);
+      border-radius: 50%;
+    }
+
+    .brand-text h1 {
+      font-family: var(--font-title);
+      font-size: 1.8rem;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      background: linear-gradient(to right, var(--text-primary), var(--text-secondary));
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .brand-text p {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    .server-status {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.85rem;
+      background-color: var(--bg-secondary);
+      padding: 0.5rem 1rem;
+      border-radius: 30px;
+      border: 1px solid var(--border-color);
+    }
+
+    .status-indicator {
+      width: 8px;
+      height: 8px;
+      background-color: var(--success);
+      border-radius: 50%;
+      box-shadow: 0 0 8px var(--success);
+    }
+
+    /* Tabs Navigation */
+    .tabs-nav {
+      display: flex;
+      gap: 0.5rem;
+      background-color: var(--bg-secondary);
+      padding: 0.4rem;
+      border-radius: var(--radius-md);
+      border: 1px solid var(--border-color);
+      margin-bottom: 2rem;
+      overflow-x: auto;
+    }
+
+    .tab-btn {
+      background: none;
+      border: none;
+      color: var(--text-secondary);
+      font-family: var(--font-sans);
+      font-weight: 500;
+      font-size: 0.95rem;
+      padding: 0.75rem 1.5rem;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      transition: var(--transition-smooth);
+      white-space: nowrap;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .tab-btn:hover {
+      color: var(--text-primary);
+      background-color: hsla(210, 40%, 98%, 0.03);
+    }
+
+    .tab-btn.active {
+      color: var(--text-primary);
+      background-color: var(--bg-tertiary);
+      box-shadow: var(--shadow-glow);
+      border: 1px solid var(--border-color);
+    }
+
+    /* Tab Content Panels */
+    .tab-panel {
+      display: none;
+      animation: fadeIn 0.4s ease;
+    }
+
+    .tab-panel.active {
+      display: block;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Card Layouts */
+    .card {
+      background-color: var(--bg-secondary);
+      border-radius: var(--radius-lg);
+      border: 1px solid var(--border-color);
+      padding: 2.5rem;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+      margin-bottom: 2rem;
+    }
+
+    .card-title {
+      font-family: var(--font-title);
+      font-size: 1.4rem;
+      font-weight: 700;
+      margin-bottom: 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      color: var(--text-primary);
+    }
+
+    /* Form Elements */
+    .form-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
+    @media (min-width: 768px) {
+      .form-grid {
+        grid-template-columns: 2fr 1fr;
+      }
+    }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    label {
+      font-size: 0.85rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-secondary);
+    }
+
+    input[type="text"],
+    textarea,
+    select {
+      background-color: var(--bg-primary);
+      border: 1px solid var(--border-color);
+      color: var(--text-primary);
+      font-family: var(--font-sans);
+      font-size: 0.95rem;
+      padding: 0.8rem 1rem;
+      border-radius: var(--radius-sm);
+      transition: var(--transition-smooth);
+      width: 100%;
+    }
+
+    input[type="text"]:focus,
+    textarea:focus,
+    select:focus {
+      outline: none;
+      border-color: var(--border-focus);
+      box-shadow: 0 0 10px rgba(138, 92, 246, 0.2);
+    }
+
+    textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .help-text {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    /* Buttons */
+    .btn {
+      background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+      border: none;
+      color: var(--text-primary);
+      font-family: var(--font-sans);
+      font-weight: 600;
+      font-size: 1rem;
+      padding: 0.9rem 2rem;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      transition: var(--transition-smooth);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      box-shadow: var(--shadow-glow);
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+      filter: brightness(1.1);
+      box-shadow: 0 0 25px rgba(138, 92, 246, 0.35);
+    }
+
+    .btn:active {
+      transform: translateY(0);
+    }
+
+    .btn:disabled {
+      background: var(--border-color);
+      color: var(--text-muted);
+      cursor: not-allowed;
+      transform: none;
+      box-shadow: none;
+    }
+
+    .btn-secondary {
+      background: var(--bg-tertiary);
+      border: 1px solid var(--border-color);
+      color: var(--text-primary);
+      box-shadow: none;
+    }
+
+    .btn-secondary:hover {
+      background: var(--border-color);
+      box-shadow: none;
+      transform: translateY(-1px);
+    }
+
+    /* Terminal Console Log Output */
+    .console-box {
+      background-color: hsl(222, 47%, 6%);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      padding: 1.5rem;
+      font-family: var(--font-mono);
+      font-size: 0.9rem;
+      color: hsl(120, 100%, 75%);
+      overflow-y: auto;
+      max-height: 350px;
+      margin-top: 1.5rem;
+      white-space: pre-wrap;
+    }
+
+    .console-box.error {
+      color: hsl(350, 100%, 75%);
+    }
+
+    .console-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.75rem;
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 0.5rem;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      color: var(--text-muted);
+    }
+
+    /* Results Card */
+    .results-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
+
+    @media (min-width: 768px) {
+      .results-grid {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      }
+    }
+
+    .result-item {
+      background-color: var(--bg-tertiary);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      padding: 1.25rem;
+      position: relative;
+      transition: var(--transition-smooth);
+    }
+
+    .result-item:hover {
+      transform: translateY(-2px);
+      border-color: var(--accent-primary);
+    }
+
+    .result-lang {
+      font-weight: 700;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      color: var(--accent-secondary);
+      margin-bottom: 0.5rem;
+    }
+
+    .result-val {
+      font-family: var(--font-title);
+      font-size: 1.3rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .result-meta {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      width: fit-content;
+    }
+
+    .badge-consensus {
+      background-color: hsla(142, 70%, 45%, 0.15);
+      color: var(--success);
+      border: 1px solid hsla(142, 70%, 45%, 0.3);
+    }
+
+    .badge-no-consensus {
+      background-color: hsla(350, 80%, 55%, 0.15);
+      color: var(--danger);
+      border: 1px solid hsla(350, 80%, 55%, 0.3);
+    }
+
+    /* Database Table styling */
+    .table-container {
+      overflow-x: auto;
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      margin-top: 1.5rem;
+      background-color: var(--bg-primary);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+    }
+
+    th, td {
+      padding: 1rem 1.25rem;
+      border-bottom: 1px solid var(--border-color);
+      font-size: 0.95rem;
+    }
+
+    th {
+      background-color: var(--bg-secondary);
+      font-weight: 600;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      font-size: 0.8rem;
+      letter-spacing: 0.05em;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    tr:hover td {
+      background-color: hsla(210, 40%, 98%, 0.02);
+    }
+
+    .search-bar {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .action-btn-group {
+      display: flex;
+      gap: 0.5rem;
+    }
+
+    .action-btn {
+      background: var(--bg-tertiary);
+      border: 1px solid var(--border-color);
+      color: var(--text-primary);
+      padding: 0.4rem 0.8rem;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 0.8rem;
+      text-decoration: none;
+      font-weight: 500;
+      transition: var(--transition-smooth);
+    }
+
+    .action-btn:hover {
+      border-color: var(--accent-primary);
+      background-color: var(--border-color);
+    }
+
+    /* Hazard Highlighter styling */
+    .hazard-highlight-area {
+      background-color: var(--bg-primary);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      padding: 1.5rem;
+      min-height: 120px;
+      font-size: 1.1rem;
+      line-height: 1.8;
+      margin-top: 1.5rem;
+    }
+
+    .hazard-tag {
+      background: linear-gradient(135deg, hsla(38, 92%, 50%, 0.25), hsla(350, 80%, 55%, 0.25));
+      border-bottom: 2px dashed var(--warning);
+      padding: 0.1rem 0.3rem;
+      border-radius: 3px;
+      cursor: pointer;
+      position: relative;
+      font-weight: 500;
+    }
+
+    .hazard-tag::after {
+      content: attr(data-label);
+      position: absolute;
+      bottom: 100%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-4px);
+      background-color: var(--bg-tertiary);
+      color: var(--text-primary);
+      border: 1px solid var(--border-color);
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-family: var(--font-sans);
+      white-space: nowrap;
+      opacity: 0;
+      visibility: hidden;
+      transition: var(--transition-smooth);
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+      z-index: 10;
+    }
+
+    .hazard-tag:hover::after {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    /* Loader Indicator */
+    .loading-container {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+      padding: 2rem 0;
+    }
+
+    .spinner {
+      width: 48px;
+      height: 48px;
+      border: 4px solid var(--border-color);
+      border-top-color: var(--accent-primary);
+      border-radius: 50%;
+      animation: spin 1s infinite linear;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    .loading-text {
+      font-family: var(--font-title);
+      font-weight: 600;
+      color: var(--text-secondary);
+      animation: pulse-opacity 1.5s infinite ease-in-out;
+    }
+
+    @keyframes pulse-opacity {
+      0%, 100% { opacity: 0.6; }
+      50% { opacity: 1; }
+    }
+
+    /* Custom File Input */
+    .file-drop-area {
+      border: 2px dashed var(--border-color);
+      border-radius: var(--radius-md);
+      padding: 3rem;
+      text-align: center;
+      cursor: pointer;
+      transition: var(--transition-smooth);
+      background-color: var(--bg-primary);
+    }
+
+    .file-drop-area:hover {
+      border-color: var(--accent-primary);
+      background-color: hsla(250, 85%, 65%, 0.02);
+    }
+
+    .file-drop-area p {
+      margin-top: 0.5rem;
+      color: var(--text-secondary);
+    }
+
+    .file-drop-icon {
+      font-size: 2.5rem;
+      color: var(--text-muted);
+      margin-bottom: 1rem;
+    }
+
+    #file-input {
+      display: none;
+    }
+
+    .file-selected-name {
+      margin-top: 1rem;
+      font-family: var(--font-mono);
+      font-size: 0.85rem;
+      color: var(--accent-secondary);
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="brand">
+        <div class="logo-mark">
+          <div class="logo-dot"></div>
+        </div>
+        <div class="brand-text">
+          <h1>The Minority Report</h1>
+          <p>Technical Translator & Controlled Vocabulary</p>
+        </div>
+      </div>
+      <div class="server-status">
+        <div class="status-indicator"></div>
+        <span>Pipeline Engine Active</span>
+      </div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <nav class="tabs-nav" aria-label="Pipeline operations">
+      <button class="tab-btn active" data-tab="single-translate-panel">
+        Translate Term
+      </button>
+      <button class="tab-btn" data-tab="scrape-translate-panel">
+        Scrape & Translate URL
+      </button>
+      <button class="tab-btn" data-tab="hazard-panel">
+        Disaster Hazard NER
+      </button>
+      <button class="tab-btn" data-tab="csv-panel">
+        Batch CSV Translation
+      </button>
+      <button class="tab-btn" data-tab="database-panel" id="db-tab-btn">
+        Translations Database
+      </button>
+    </nav>
+
+    <!-- Loader -->
+    <div class="loading-container" id="global-loader">
+      <div class="spinner"></div>
+      <div class="loading-text" id="loader-message">Processing with Pipeline Engine...</div>
+    </div>
+
+    <!-- PANEL 1: Single Term Translation -->
+    <div class="tab-panel active" id="single-translate-panel">
+      <div class="card">
+        <h2 class="card-title">Translate Single Technical Term</h2>
+        <form id="single-translate-form">
+          <div class="form-grid">
+            <div class="form-group">
+              <label for="term-input">Technical Term</label>
+              <input type="text" id="term-input" placeholder="e.g., Digital Twin" required>
+              <span class="help-text">The specialized technical or scientific term to translate.</span>
+            </div>
+            <div class="form-group">
+              <label for="languages-input">Target Languages (ISO, CSV)</label>
+              <input type="text" id="languages-input" value="fr,es,de" required>
+              <span class="help-text">Comma-separated language codes.</span>
+            </div>
+          </div>
+          
+          <div class="form-group" style="margin-top: 1.5rem;">
+            <label for="context-input">Conceptual Context (Scope Note)</label>
+            <textarea id="context-input" placeholder="e.g., A virtual representation of physical assets, processes, people, places, systems and devices that can be used for various purposes." required></textarea>
+            <span class="help-text">Provide context to ensure high semantic accuracy.</span>
+          </div>
+
+          <div class="form-group" style="margin-top: 1.5rem;">
+            <label for="models-input">Ollama Models (Consensus requires 2+)</label>
+            <input type="text" id="models-input" value="gpt-oss:latest">
+            <span class="help-text">Comma-separated list of models. If only one model is specified, consensus logic is bypassed.</span>
+          </div>
+
+          <div style="margin-top: 2rem;">
+            <button type="submit" class="btn" id="btn-translate-single">
+              Execute Translation
+            </button>
+          </div>
+        </form>
+
+        <div id="single-results-area" style="display: none; margin-top: 2rem;">
+          <h3 class="card-title" style="font-size: 1.1rem;">Consensus Translation Results</h3>
+          <div class="results-grid" id="single-results-grid"></div>
+        </div>
+
+        <div id="single-log-area" style="display: none;">
+          <div class="console-header">
+            <span>Pipeline Engine Log Output</span>
+          </div>
+          <div class="console-box" id="single-log-box"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- PANEL 2: Scrape & Translate URL -->
+    <div class="tab-panel" id="scrape-translate-panel">
+      <div class="card">
+        <h2 class="card-title">Scrape & Translate from Source URL</h2>
+        <form id="scrape-translate-form">
+          <div class="form-group">
+            <label for="url-input">Source URL</label>
+            <input type="text" id="url-input" placeholder="e.g., https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0103" required>
+            <span class="help-text">Authoritative URL (e.g. PreventionWeb HIPS, EcoPortal Concept URLs) to extract and translate.</span>
+          </div>
+
+          <div class="form-grid" style="margin-top: 1.5rem;">
+            <div class="form-group">
+              <label for="scrape-languages-input">Target Languages</label>
+              <input type="text" id="scrape-languages-input" value="fr,es,de" required>
+            </div>
+            <div class="form-group">
+              <label for="scrape-models-input">Ollama Models</label>
+              <input type="text" id="scrape-models-input" value="gpt-oss:latest">
+            </div>
+          </div>
+
+          <div style="margin-top: 2rem;">
+            <button type="submit" class="btn" id="btn-translate-scrape">
+              Scrape and Translate
+            </button>
+          </div>
+        </form>
+
+        <div id="scrape-details-card" style="display: none; background-color: var(--bg-primary); border-radius: var(--radius-md); padding: 1.5rem; margin-top: 2rem; border: 1px solid var(--border-color);">
+          <h3 style="font-family: var(--font-title); font-size: 1.1rem; margin-bottom: 0.5rem; color: var(--accent-secondary);" id="scraped-title">Scraped Term: ...</h3>
+          <p style="font-size: 0.95rem; color: var(--text-secondary);" id="scraped-desc">Scraped Definition: ...</p>
+        </div>
+
+        <div id="scrape-results-area" style="display: none; margin-top: 2rem;">
+          <h3 class="card-title" style="font-size: 1.1rem;">Consensus Translation Results</h3>
+          <div class="results-grid" id="scrape-results-grid"></div>
+        </div>
+
+        <div id="scrape-log-area" style="display: none;">
+          <div class="console-header">
+            <span>Pipeline Engine Log Output</span>
+          </div>
+          <div class="console-box" id="scrape-log-box"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- PANEL 3: Disaster Hazard NER -->
+    <div class="tab-panel" id="hazard-panel">
+      <div class="card">
+        <h2 class="card-title">Disaster Hazard Named Entity Recognition (NER)</h2>
+        <form id="hazard-form">
+          <div class="form-group">
+            <label for="hazard-query-input">Query Text for Extraction</label>
+            <textarea id="hazard-query-input" placeholder="e.g., There was massive flooding and seismic hazard recorded in the valley. Lumimyrsky on laittanut Englannissa pakan sekaisin." required></textarea>
+            <span class="help-text">Enter any paragraph or text block. The spaCy NER model will scan for hazard classes and HIPS codes.</span>
+          </div>
+
+          <div style="margin-top: 2.0rem;">
+            <button type="submit" class="btn" id="btn-extract-hazards">
+              Extract Terminology
+            </button>
+          </div>
+        </form>
+
+        <div id="hazard-results-area" style="display: none; margin-top: 2.5rem;">
+          <h3 class="card-title" style="font-size: 1.1rem;">Identified Hazard Terms</h3>
+          <div class="hazard-highlight-area" id="hazard-highlight-box"></div>
+          
+          <div class="table-container" style="margin-top: 1.5rem;">
+            <table>
+              <thead>
+                <tr>
+                  <th>Matched Text</th>
+                  <th>Label Class</th>
+                  <th>Span (Start - End)</th>
+                </tr>
+              </thead>
+              <tbody id="hazard-table-body"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- PANEL 4: Batch CSV Translation -->
+    <div class="tab-panel" id="csv-panel">
+      <div class="card">
+        <h2 class="card-title">Batch Technical Translations via CSV</h2>
+        <form id="csv-form">
+          <div class="file-drop-area" id="drop-area">
+            <div class="file-drop-icon">📤</div>
+            <h3>Drag & Drop CSV File Here</h3>
+            <p>or click to browse local files (maximum 10MB)</p>
+            <input type="file" id="file-input" accept=".csv">
+            <div class="file-selected-name" id="file-name-display"></div>
+          </div>
+
+          <div class="form-grid" style="margin-top: 2rem;">
+            <div class="form-group">
+              <label for="csv-languages-input">Target Languages</label>
+              <input type="text" id="csv-languages-input" value="fr,es,de" required>
+            </div>
+            <div class="form-group">
+              <label for="csv-models-input">Ollama Models</label>
+              <input type="text" id="csv-models-input" value="gpt-oss:latest">
+            </div>
+          </div>
+
+          <div style="margin-top: 2rem;">
+            <button type="submit" class="btn" id="btn-upload-csv" disabled>
+              Process CSV Batch
+            </button>
+          </div>
+        </form>
+
+        <div id="csv-log-area" style="display: none; margin-top: 2rem;">
+          <div class="console-header">
+            <span>Batch Translation Output</span>
+          </div>
+          <div class="console-box" id="csv-log-box"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- PANEL 5: Database Explorer -->
+    <div class="tab-panel" id="database-panel">
+      <div class="card">
+        <h2 class="card-title">Controlled Vocabulary Database Explorer</h2>
+        
+        <div class="search-bar">
+          <input type="text" id="db-search" placeholder="Search by term, translation, code or language...">
+          <button type="button" class="btn btn-secondary" id="btn-clear-search">Clear</button>
+        </div>
+
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <th>Term</th>
+                <th>Lang</th>
+                <th>Translation</th>
+                <th>Confidence</th>
+                <th>Winning Model</th>
+                <th>Consensus Status</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="db-table-body">
+              <tr>
+                <td colspan="7" style="text-align: center; color: var(--text-muted);">Loading database...</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Tab Switching Logic
+    const tabs = document.querySelectorAll('.tab-btn');
+    const panels = document.querySelectorAll('.tab-panel');
+
+    tabs.forEach(tab => {
+      tab.addEventListener('click', () => {
+        tabs.forEach(t => t.classList.remove('active'));
+        panels.forEach(p => p.classList.remove('active'));
+
+        tab.classList.add('active');
+        const activePanel = document.getElementById(tab.getAttribute('data-tab'));
+        if (activePanel) {
+          activePanel.classList.add('active');
+        }
+
+        // Trigger db load when switching to database panel
+        if (tab.getAttribute('data-tab') === 'database-panel') {
+          loadDatabase();
+        }
+      });
+    });
+
+    // API Helpers
+    const loader = document.getElementById('global-loader');
+    const loaderMessage = document.getElementById('loader-message');
+
+    function showLoader(message) {
+      loaderMessage.textContent = message;
+      loader.style.display = 'flex';
+    }
+
+    function hideLoader() {
+      loader.style.display = 'none';
+    }
+
+    function createResultCard(result) {
+      const card = document.createElement('div');
+      card.className = 'result-item';
+
+      const langDiv = document.createElement('div');
+      langDiv.className = 'result-lang';
+      langDiv.textContent = result.language || 'unknown';
+      card.appendChild(langDiv);
+
+      const valDiv = document.createElement('div');
+      valDiv.className = 'result-val';
+      valDiv.textContent = result.translation || 'No translation';
+      card.appendChild(valDiv);
+
+      const metaDiv = document.createElement('div');
+      metaDiv.className = 'result-meta';
+
+      const modelSpan = document.createElement('span');
+      modelSpan.textContent = 'Model: ' + (result.winning_model || 'N/A');
+      metaDiv.appendChild(modelSpan);
+
+      const confSpan = document.createElement('span');
+      confSpan.textContent = 'Confidence: ' + (result.confidence !== undefined ? (result.confidence * 100).toFixed(0) + '%' : 'N/A');
+      metaDiv.appendChild(confSpan);
+
+      const consensus = result.consensus || '';
+      const badge = document.createElement('span');
+      badge.className = 'badge ' + (consensus.toLowerCase().includes('consensus reached') || consensus.toLowerCase().includes('single model') ? 'badge-consensus' : 'badge-no-consensus');
+      badge.textContent = consensus || 'No Consensus';
+      metaDiv.appendChild(badge);
+
+      card.appendChild(metaDiv);
+      return card;
+    }
+
+    // Tab 1: Single Translate
+    const singleForm = document.getElementById('single-translate-form');
+    const singleResultsArea = document.getElementById('single-results-area');
+    const singleResultsGrid = document.getElementById('single-results-grid');
+    const singleLogArea = document.getElementById('single-log-area');
+    const singleLogBox = document.getElementById('single-log-box');
+
+    singleForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      
+      const term = document.getElementById('term-input').value.trim();
+      const context = document.getElementById('context-input').value.trim();
+      const languages = document.getElementById('languages-input').value.trim();
+      const models = document.getElementById('models-input').value.trim();
+
+      showLoader('Running multi-agent consensus translation pipeline...');
+      singleResultsArea.style.display = 'none';
+      singleLogArea.style.display = 'none';
+      singleResultsGrid.replaceChildren();
+
+      try {
+        const response = await fetch('/api/translate', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ term, context, languages, models })
+        });
+
+        const data = await response.json();
+        
+        if (!response.ok) {
+          throw new Error(data.detail || 'Translation pipeline failed');
+        }
+
+        // If returned is a list of results
+        if (Array.isArray(data)) {
+          data.forEach(item => {
+            singleResultsGrid.appendChild(createResultCard(item));
+          });
+          singleResultsArea.style.display = 'block';
+        } else {
+          // If message/info
+          singleLogBox.textContent = JSON.stringify(data, null, 2);
+          singleLogArea.style.display = 'block';
+        }
+
+      } catch (err) {
+        singleLogBox.textContent = 'Error: ' + err.message;
+        singleLogArea.style.display = 'block';
+        singleLogBox.className = 'console-box error';
+      } finally {
+        hideLoader();
+      }
+    });
+
+    // Tab 2: Scrape & Translate URL
+    const scrapeForm = document.getElementById('scrape-translate-form');
+    const scrapeDetailsCard = document.getElementById('scrape-details-card');
+    const scrapedTitle = document.getElementById('scraped-title');
+    const scrapedDesc = document.getElementById('scraped-desc');
+    const scrapeResultsArea = document.getElementById('scrape-results-area');
+    const scrapeResultsGrid = document.getElementById('scrape-results-grid');
+    const scrapeLogArea = document.getElementById('scrape-log-area');
+    const scrapeLogBox = document.getElementById('scrape-log-box');
+
+    scrapeForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      
+      const url = document.getElementById('url-input').value.trim();
+      const languages = document.getElementById('scrape-languages-input').value.trim();
+      const models = document.getElementById('scrape-models-input').value.trim();
+
+      showLoader('Scraping page and running translation pipeline...');
+      scrapeDetailsCard.style.display = 'none';
+      scrapeResultsArea.style.display = 'none';
+      scrapeLogArea.style.display = 'none';
+      scrapeResultsGrid.replaceChildren();
+
+      try {
+        const response = await fetch('/api/scrape-translate', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ url, languages, models })
+        });
+
+        const data = await response.json();
+        
+        if (!response.ok) {
+          throw new Error(data.detail || 'Scraping/Translation failed');
+        }
+
+        // Show scraped details
+        scrapedTitle.textContent = 'Scraped Term: ' + (data.term || 'Unknown');
+        scrapedDesc.textContent = 'Scraped Context: ' + (data.context || 'None');
+        scrapeDetailsCard.style.display = 'block';
+
+        if (Array.isArray(data.results)) {
+          data.results.forEach(item => {
+            scrapeResultsGrid.appendChild(createResultCard(item));
+          });
+          scrapeResultsArea.style.display = 'block';
+        } else {
+          scrapeLogBox.textContent = JSON.stringify(data.results, null, 2);
+          scrapeLogArea.style.display = 'block';
+        }
+
+      } catch (err) {
+        scrapeLogBox.textContent = 'Error: ' + err.message;
+        scrapeLogArea.style.display = 'block';
+        scrapeLogBox.className = 'console-box error';
+      } finally {
+        hideLoader();
+      }
+    });
+
+    // Tab 3: Disaster Hazard NER
+    const hazardForm = document.getElementById('hazard-form');
+    const hazardResultsArea = document.getElementById('hazard-results-area');
+    const hazardHighlightBox = document.getElementById('hazard-highlight-box');
+    const hazardTableBody = document.getElementById('hazard-table-body');
+
+    hazardForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      
+      const query = document.getElementById('hazard-query-input').value.trim();
+
+      showLoader('Analyzing text query with spaCy NER...');
+      hazardResultsArea.style.display = 'none';
+      hazardTableBody.replaceChildren();
+      hazardHighlightBox.replaceChildren();
+
+      try {
+        const response = await fetch('/api/find-hazards', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ query })
+        });
+
+        const data = await response.json();
+        
+        if (!response.ok) {
+          throw new Error(data.detail || 'NER execution failed');
+        }
+
+        if (Array.isArray(data) && data.length > 0) {
+          // Render Highlighting
+          // Sort hazards by start index
+          const sortedHazards = [...data].sort((a, b) => a.start - b.start);
+          
+          let lastIndex = 0;
+          sortedHazards.forEach(hazard => {
+            // Text before entity
+            if (hazard.start > lastIndex) {
+              const textNode = document.createTextNode(query.substring(lastIndex, hazard.start));
+              hazardHighlightBox.appendChild(textNode);
+            }
+
+            // Entity element
+            const mark = document.createElement('span');
+            mark.className = 'hazard-tag';
+            mark.setAttribute('data-label', hazard.label);
+            mark.textContent = query.substring(hazard.start, hazard.end);
+            hazardHighlightBox.appendChild(mark);
+
+            lastIndex = hazard.end;
+
+            // Row in table
+            const row = document.createElement('tr');
+            
+            const termTd = document.createElement('td');
+            termTd.textContent = hazard.text;
+            row.appendChild(termTd);
+
+            const labelTd = document.createElement('td');
+            const labelBadge = document.createElement('span');
+            labelBadge.className = 'badge badge-consensus'; // styled green/success
+            labelBadge.textContent = hazard.label;
+            labelTd.appendChild(labelBadge);
+            row.appendChild(labelTd);
+
+            const spanTd = document.createElement('td');
+            spanTd.className = 'help-text';
+            spanTd.textContent = hazard.start + ' - ' + hazard.end;
+            row.appendChild(spanTd);
+
+            hazardTableBody.appendChild(row);
+          });
+
+          // Text after last entity
+          if (lastIndex < query.length) {
+            const textNode = document.createTextNode(query.substring(lastIndex));
+            hazardHighlightBox.appendChild(textNode);
+          }
+
+          hazardResultsArea.style.display = 'block';
+        } else {
+          // No hazards found
+          hazardHighlightBox.appendChild(document.createTextNode('No disaster risk terminology matching spaCy model patterns was identified.'));
+          const row = document.createElement('tr');
+          const td = document.createElement('td');
+          td.colSpan = 3;
+          td.style.textAlign = 'center';
+          td.style.color = 'var(--text-muted)';
+          td.textContent = 'No matching hazard codes found.';
+          row.appendChild(td);
+          hazardTableBody.appendChild(row);
+          hazardResultsArea.style.display = 'block';
+        }
+
+      } catch (err) {
+        alert('NER analysis error: ' + err.message);
+      } finally {
+        hideLoader();
+      }
+    });
+
+    // Tab 4: Batch CSV upload
+    const dropArea = document.getElementById('drop-area');
+    const fileInput = document.getElementById('file-input');
+    const fileNameDisplay = document.getElementById('file-name-display');
+    const btnUploadCsv = document.getElementById('btn-upload-csv');
+    const csvForm = document.getElementById('csv-form');
+    const csvLogArea = document.getElementById('csv-log-area');
+    const csvLogBox = document.getElementById('csv-log-box');
+    
+    let selectedFile = null;
+
+    dropArea.addEventListener('click', () => fileInput.click());
+    
+    fileInput.addEventListener('change', (e) => {
+      handleFiles(e.target.files);
+    });
+
+    dropArea.addEventListener('dragover', (e) => {
+      e.preventDefault();
+      dropArea.style.borderColor = 'var(--accent-secondary)';
+    });
+
+    dropArea.addEventListener('dragleave', () => {
+      dropArea.style.borderColor = 'var(--border-color)';
+    });
+
+    dropArea.addEventListener('drop', (e) => {
+      e.preventDefault();
+      dropArea.style.borderColor = 'var(--border-color)';
+      handleFiles(e.dataTransfer.files);
+    });
+
+    function handleFiles(files) {
+      if (files.length > 0) {
+        selectedFile = files[0];
+        fileNameDisplay.textContent = 'Selected: ' + selectedFile.name + ' (' + (selectedFile.size / 1024).toFixed(1) + ' KB)';
+        fileNameDisplay.style.display = 'block';
+        btnUploadCsv.removeAttribute('disabled');
+      }
+    }
+
+    csvForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      if (!selectedFile) return;
+
+      const languages = document.getElementById('csv-languages-input').value.trim();
+      const models = document.getElementById('csv-models-input').value.trim();
+
+      const formData = new FormData();
+      formData.append('file', selectedFile);
+      formData.append('languages', languages);
+      formData.append('models', models);
+
+      showLoader('Processing CSV batch translation queue (this might take several minutes)...');
+      csvLogArea.style.display = 'none';
+
+      try {
+        const response = await fetch('/api/translate-csv', {
+          method: 'POST',
+          body: formData
+        });
+
+        const data = await response.json();
+
+        if (!response.ok) {
+          throw new Error(data.detail || 'CSV processing failed');
+        }
+
+        csvLogBox.textContent = 'Successfully processed batch translations!\n\n' + JSON.stringify(data, null, 2);
+        csvLogBox.className = 'console-box';
+        csvLogArea.style.display = 'block';
+
+      } catch (err) {
+        csvLogBox.textContent = 'Error: ' + err.message;
+        csvLogBox.className = 'console-box error';
+        csvLogArea.style.display = 'block';
+      } finally {
+        hideLoader();
+      }
+    });
+
+    // Tab 5: DB Explorer
+    const dbTableBody = document.getElementById('db-table-body');
+    const dbSearch = document.getElementById('db-search');
+    const btnClearSearch = document.getElementById('btn-clear-search');
+    let allDbData = [];
+
+    async function loadDatabase() {
+      dbTableBody.replaceChildren();
+      const loadingRow = document.createElement('tr');
+      const loadingTd = document.createElement('td');
+      loadingTd.colSpan = 7;
+      loadingTd.style.textAlign = 'center';
+      loadingTd.textContent = 'Loading records...';
+      loadingRow.appendChild(loadingTd);
+      dbTableBody.appendChild(loadingRow);
+
+      try {
+        const response = await fetch('/api/translations');
+        if (!response.ok) {
+          throw new Error('Failed to load translations');
+        }
+        allDbData = await response.json();
+        renderDatabaseTable(allDbData);
+      } catch (err) {
+        dbTableBody.replaceChildren();
+        const errRow = document.createElement('tr');
+        const errTd = document.createElement('td');
+        errTd.colSpan = 7;
+        errTd.style.textAlign = 'center';
+        errTd.style.color = 'var(--danger)';
+        errTd.textContent = 'Error loading database: ' + err.message;
+        errRow.appendChild(errTd);
+        dbTableBody.appendChild(errRow);
+      }
+    }
+
+    function renderDatabaseTable(data) {
+      dbTableBody.replaceChildren();
+
+      if (data.length === 0) {
+        const row = document.createElement('tr');
+        const td = document.createElement('td');
+        td.colSpan = 7;
+        td.style.textAlign = 'center';
+        td.style.color = 'var(--text-muted)';
+        td.textContent = 'No translations found in database.';
+        row.appendChild(td);
+        dbTableBody.appendChild(row);
+        return;
+      }
+
+      data.forEach(item => {
+        const row = document.createElement('tr');
+
+        const termTd = document.createElement('td');
+        termTd.style.fontWeight = '500';
+        termTd.textContent = item.term || 'N/A';
+        row.appendChild(termTd);
+
+        const langTd = document.createElement('td');
+        langTd.className = 'help-text';
+        langTd.textContent = item.language || 'N/A';
+        row.appendChild(langTd);
+
+        const transTd = document.createElement('td');
+        transTd.textContent = item.translation || 'N/A';
+        row.appendChild(transTd);
+
+        const confTd = document.createElement('td');
+        const confidenceVal = parseFloat(item.confidence);
+        confTd.textContent = !isNaN(confidenceVal) ? (confidenceVal * 100).toFixed(0) + '%' : 'N/A';
+        row.appendChild(confTd);
+
+        const modelTd = document.createElement('td');
+        modelTd.className = 'help-text';
+        modelTd.textContent = item.winning_model || 'N/A';
+        row.appendChild(modelTd);
+
+        const consensusTd = document.createElement('td');
+        const consensus = item.consensus || '';
+        const badge = document.createElement('span');
+        badge.className = 'badge ' + (consensus.toLowerCase().includes('consensus reached') || consensus.toLowerCase().includes('single model') ? 'badge-consensus' : 'badge-no-consensus');
+        badge.textContent = consensus || 'No Consensus';
+        consensusTd.appendChild(badge);
+        row.appendChild(consensusTd);
+
+        const actionTd = document.createElement('td');
+        const actionsDiv = document.createElement('div');
+        actionsDiv.className = 'action-btn-group';
+
+        const downloadLink = document.createElement('a');
+        downloadLink.className = 'action-btn';
+        downloadLink.href = '/api/croissant/' + encodeURIComponent(item.term) + '/download';
+        downloadLink.textContent = 'Croissant';
+        actionsDiv.appendChild(downloadLink);
+
+        actionTd.appendChild(actionsDiv);
+        row.appendChild(actionTd);
+
+        dbTableBody.appendChild(row);
+      });
+    }
+
+    dbSearch.addEventListener('input', () => {
+      const query = dbSearch.value.trim().toLowerCase();
+      if (!query) {
+        renderDatabaseTable(allDbData);
+        return;
+      }
+
+      const filtered = allDbData.filter(item => {
+        return (
+          (item.term && item.term.toLowerCase().includes(query)) ||
+          (item.translation && item.translation.toLowerCase().includes(query)) ||
+          (item.winning_model && item.winning_model.toLowerCase().includes(query)) ||
+          (item.language && item.language.toLowerCase().includes(query)) ||
+          (item.code && item.code.toLowerCase().includes(query)) ||
+          (item.consensus && item.consensus.toLowerCase().includes(query))
+        );
+      });
+
+      renderDatabaseTable(filtered);
+    });
+
+    btnClearSearch.addEventListener('click', () => {
+      dbSearch.value = '';
+      renderDatabaseTable(allDbData);
+    });
+  </script>
+</body>
+</html>
