@@ -1,0 +1,60 @@
+**Definición**  
+Los eventos de partículas solares energéticas (SEP) ocurren cuando una erupción magnética a gran escala, a menudo acompañada por una ejección de masa coronal y/o un destello solar relacionado, acelera partículas cargadas en la atmósfera solar a fracciones significativas de la velocidad de la luz. Las partículas primarias de interés son protones. Los SEP llegan con flujos y energías diversas a diferentes ubicaciones geográficas (NOAA, 2023).  
+
+**Referencia(es) primaria(s)**  
+NOAA Space Weather Prediction Center, 2023. Solar Radiation Storm. Accedido 31 de enero de 2025.  
+ESA, 2025. Solar Orbiter. Solar orbiter top science questions: #3 How do solar eruptions produce energetic particle radiation that fills the heliosphere. Accedido 31 de enero de 2025.  
+
+**Anotaciones**  
+*Descripción científica adicional*  
+Al llegar a la Tierra, los protones de alta velocidad penetran la magnetosfera, la cual actúa como un escudo protector contra partículas cargadas de menor energía. Una vez dentro de la magnetosfera, las partículas siguen la guía de las líneas del campo magnético y entran principalmente en la atmósfera terrestre cerca de los polos norte y sur. Sin embargo, las partículas más energéticas también pueden alcanzar la atmósfera superior de baja latitud. Los eventos SEP pueden afectar gravemente el hardware espacial, interrumpir las comunicaciones por radio y crear condiciones para redirigir el tráfico aéreo comercial fuera de las regiones polares. Los monitores de neutrones pueden usarse para registrar la intensidad del flujo de partículas en diferentes regiones del planeta.  
+
+**Métricas y límites numéricos**  
+Los eventos de partículas solares energéticas se clasifican mediante una escala de cinco niveles introducida por la Administración Nacional Oceánica y Atmosférica de los Estados Unidos (NOAA) en 1999 (NOAA, 2023). La escala se encuentra actualmente en revisión y se presenta a continuación.  
+
+| Escala | Descripción | Efecto | Medida física (Flujo ≥ 10 MeV partículas/s·ster·cm²) | Frecuencia media (1 ciclo = 11 años) |
+|--------|-------------|--------|-------------------------------------------------------|--------------------------------------|
+| **S5** | Extremo | **Biológico:** Riesgo de radiación alta e inevitable para astronautas en EVA (actividad extravehicular); pasajeros y tripulación en aviones de gran altitud en latitudes altas pueden estar expuestos a riesgo radiológico. <br>**Operaciones satelitales:** Los satélites pueden volverse inútiles, los impactos de memoria pueden causar pérdida de control, puede haber ruido grave en datos de imagen, los rastreadores estelares pueden no localizar fuentes; daño permanente a paneles solares posible. <br>**Otros sistemas:** Posible apagón total de comunicaciones de alta frecuencia (HF) a través de regiones polares, y errores de posición dificultan enormemente las operaciones de navegación. | 105 | Menos de 1 por ciclo |
+| **S4** | Severo | **Biológico:** Riesgo de radiación inevitable para astronautas en EVA; pasajeros y tripulación en aviones de gran altitud en latitudes altas pueden estar expuestos a riesgo radiológico. <br>**Operaciones satelitales:** Puede experimentar problemas en dispositivos de memoria y ruido en sistemas de imagen; problemas de rastreador estelar pueden causar problemas de orientación, y la eficiencia de paneles solares puede degradarse. <br>**Otros sistemas:** Apagón de radio HF en regiones polares y aumento de errores de navegación durante varios días es probable. | 104 | 3 por ciclo |
+| **S3** | Fuerte | **Biológico:** Se recomienda evitar radiación para astronautas en EVA; pasajeros y tripulación en aviones de gran altitud en latitudes altas pueden estar expuestos a riesgo radiológico. <br>**Operaciones satelitales:** Probables fallos por eventos de una sola muestra, ruido en sistemas de imagen y ligera reducción de eficiencia en paneles solares. <br>**Otros sistemas:** Propagación HF degradada en regiones polares y errores de posición de navegación son probables. | 103 | 10 por ciclo |
+| **S2** | Moderado | **Biológico:** Pasajeros y tripulación en aviones de gran altitud en latitudes altas pueden estar expuestos a riesgo de radiación elevado. <br>**Operaciones satelitales:** Posibles fallos ocasionales por eventos de una sola muestra. <br>**Otros sistemas:** Pequeños efectos en propagación HF en regiones polares y posibles efectos en navegación en lugares de la cúpula polar. | 102 | 25 por ciclo |
+| **S1** | Menor | **Biológico:** Ninguno. <br>**Operaciones satelitales:** Ninguno. <br>**Otros sistemas:** Impactos menores en radio HF en regiones polares. | 1050 |  |
+
+Los centros de Clima Espacial designados por la Organización de Aviación Civil Internacional (ICAO) se espera que proporcionen a las aerolíneas avisos sobre niveles de radiación aumentados a altitudes de vuelo cuando las tasas de dosis debidas a un evento de protones solares excedan 30 µSv/h (MOD) y 80 µSv/h (SEV) (ICAO, 2019).  
+
+**Convención/Tratado multinacional relevante de la ONU**  
+No aplicable. Sin embargo, los límites de exposición a la radiación están indirectamente regulados por las directrices de la ICAO y la ICRP.  
+
+**Motivadores**  
+*Eventos solares eruptivos:* Los eventos de partículas solares energéticas ocurren durante erupciones magnéticas a gran escala en el Sol, a menudo asociadas con ejecuciones de masa coronal (CMEs) y estallidos solares. Estos eventos resultan de la aceleración de partículas cargadas, principalmente protones, a altas velocidades.  
+
+**Impactos**  
+*Exposición a partículas:* Las partículas solares energéticas, particularmente protones de alta energía, pueden representar peligros para astronautas en el espacio y para el personal de aerolíneas durante vuelos de gran altitud. El aumento del flujo de partículas energéticas durante los eventos SEP puede llevar a niveles de flujo que superen los límites de seguridad. El aumento del flujo de partículas dentro de la atmósfera también puede afectar el software y hardware en la aviónica de los aviones, causando fallos transitorios o permanentes.  
+*Anomalías y fallos satelitales:* Las partículas solares energéticas pueden causar interrupciones y daños a los satélites. Cuando partículas de alta energía chocan con componentes electrónicos sensibles a bordo de los satélites, especialmente en electrónica y paneles solares, pueden deteriorar o impedir las capacidades de comunicación y navegación, llevando a fallos de satélite completos. Los SEP pueden dañar satélites, particularmente sensores a bordo y placas solares. La radiación creada por los SEP puede aumentar la exposición de la tripulación de vuelo y pasajeros a radiación, llevando a riesgos potenciales para la salud y la necesidad de redirigir vuelos a latitudes más bajas. Los vuelos en rutas transpolares son los más afectados y pueden requerir desviación o cancelación.  
+*Riesgos de partículas para astronautas:* Las dosis aumentadas de radiación por partículas pueden plantear riesgos graves para la salud y afectar la planificación y ejecución de misiones espaciales. Existe riesgo de salud a largo plazo para poblaciones expuestas a niveles elevados de flujo de partículas debido a la exposición acumulativa durante eventos SEP.  
+
+**Contexto de multi-riesgo**  
+La figura a continuación resume las interacciones comunes entre partículas solares energéticas y otros peligros. Esta información debe usarse con cautela y no debe ser el único fundamento en la Gestión de Riesgos de Desastres, particularmente porque algunas interacciones pueden no haberse incluido. Tenga en cuenta que los eventos peligrosos que ocurren juntos o localmente en espacio o tiempo no necesariamente causan, amplían o están relacionados entre sí. Ejemplos específicos de contexto multi-riesgo se pueden encontrar en las secciones “Motivadores” y “Impactos” anteriores.  
+
+**Diagrama de multi-riesgo**  
+
+**Gestión del Riesgo**  
+*Monitoreo del clima espacial:* Los servicios de clima espacial monitorean la actividad solar y proporcionan alertas y pronósticos para eventos SEP potenciales. Estos sistemas de monitoreo ayudan a detectar y evaluar el riesgo de eventos SEP, permitiendo acciones de gestión de riesgo apropiadas.  
+*Pronóstico de flujo de partículas:* Se utilizan modelos sofisticados y técnicas de análisis de datos para pronosticar el flujo e intensidad de partículas solares energéticas durante eventos SEP. Esto permite a los operadores de satélites y naves espaciales evaluar los riesgos potenciales y tomar las precauciones necesarias para proteger los sistemas y mitigar el impacto de la radiación.  
+*Blindaje radiológico:* Se proporcionan medidas de blindaje a astronautas y al personal de aerolíneas, como materiales de blindaje de plomo o polietileno, para reducir la exposición a partículas solares energéticas durante periodos de alto riesgo. Las naves espaciales y satélites también están equipados con medidas de blindaje para proteger los componentes sensibles de los efectos radiativos, considerando el entorno radiativo previsto donde operarán.  
+*Redirección de vuelos y restricciones de altitud:* Durante períodos de actividad solar elevada y eventos SEP, aerolíneas y autoridades de aviación pueden considerar redirigir vuelos lejos de regiones polares altas o ajustar las altitudes de vuelo para reducir la exposición de la tripulación y los pasajeros a niveles aumentados de flujo de partículas. El sistema de asesoría SWX de la ICAO ayuda a las aerolíneas a mitigar la exposición sugiriendo alteraciones de ruta de vuelo.  
+
+**Monitoreo**  
+Los miembros de los Servicios Internacionales de Medio Ambiente Espacial (ISES) proporcionan sistemas de alerta para usuarios específicos en sus países. Los centros de Clima Espacial designados por la Organización de Aviación Civil Internacional (ICAO) brindan a las aerolíneas avisos sobre SEP.  
+
+**Referencias**  
+Desai M., y Giacalone, J., 2016. “Large gradual solar energetic particle events,” Living Reviews in Solar Physics, vol. 13, no. 3. Large gradual solar energetic particle events | Living Reviews in Solar Physics. Accedido 31 de enero de 2025.  
+ESA, 2019. Solar Orbiter Top Science Questions: #3 How do solar eruptions produce energetic particle radiation that fills the heliosphere? ESA Science & Technology - Solar Orbiter top science questions: #3 How do solar eruptions produce energetic particle radiation that fills the heliosphere? Accedido 31 de enero de 2025.  
+ICAO, 2019. New global aviation space weather network launched. International Civil Aviation Organization (ICAO). Accedido 31 de enero de 2025.  
+International Civil Aviation Organization, 2019. Manual on Space Weather Information in Support of International Air Navigation (Doc 10100); Technical report; ICAO: Montreal, Canada.  
+NOAA Space Weather Prediction Center, 2023. Solar Radiation Storm. Accedido 31 de enero de 2025.  
+NOAA, 2011. Solar Radiation Storm scale. Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA). Accedido 31 de enero de 2025.  
+NOAA, 2019. Solar Radiation Storm. Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA). Accedido 31 de enero de 2025.  
+Tylka, A. J., 2001. “New insights on solar energetic particles form Wind and ACE,” Journal of Geophysical Research, vol. 106, no. A11. New insights on solar energetic particles from Wind and ACE - Tylka - 2001 - Journal of Geophysical Research: Space Physics - Wiley Online Library. Accedido 31 de enero de 2025.  
+
+Cite this [Copy citation]

@@ -1,0 +1,61 @@
+Definition  
+Sonnenenergierte Partikelereignisse (SEP) treten auf, wenn eine großflächige magnetische Eruption, häufig begleitet von einer koronalen Massenauswurf (CME) und/oder einer damit verbundenen Sonnenflamme, geladene Teilchen in der Sonnenatmosphäre auf bedeutende Bruchteile der Lichtgeschwindigkeit beschleunigt. Die wichtigsten Teilchen sind Protonen. SEP erreichen unterschiedliche geografische Standorte mit variierenden Strömen und Energien (NOAA, 2023).  
+
+Primary reference(s)  
+NOAA Space Weather Prediction Center, 2023. Solar Radiation Storm. Zugriff 31. Januar 2025.  
+ESA, 2025. Solar Orbiter. Solar Orbiter Top Science Questions: #3 How do solar eruptions produce energetic particle radiation that fills the heliosphere. Zugriff 31. Januar 2025.  
+
+Annotations  
+Additional scientific description  
+Bei Erreichen der Erde dringen die hochgeschwindigkeits Protonen durch die Magnetosphäre, die als schützende Barriere gegen niedrigenergetische geladene Teilchen wirkt. Sobald sie sich innerhalb der Magnetosphäre befinden, folgen die Teilchen den magnetischen Feldlinien und treten überwiegend in die Erdatmosphäre in der Nähe der Nord- und Südpole ein. Dennoch können die energischeren Teilchen auch die obere Atmosphäre in niedrigen Breiten erreichen. SEP‑Ereignisse können Raumfahrtausrüstung schwer beeinträchtigen, Radiokommunikationen stören und Umleitungen kommerzieller Luftverkehrswege von polarregionen erforderlich machen. Neutronenmonitore können zur Aufzeichnung der Teilchenstromintensität in unterschiedlichen Regionen des Planeten verwendet werden.  
+
+Metrics and numeric limits  
+Sonnenenergierte Partikelereignisse werden anhand einer fünfstufigen Skala klassifiziert, die 1999 von der US National Oceanic and Atmospheric Administration (NOAA) eingeführt wurde (NOAA, 2023). Die Skala befindet sich derzeit in der Überprüfung und wird unten dargestellt.  
+
+| Skala | Beschreibung | Wirkung | Physikalische Messung (Flux ≥ 10 MeV Partikel/s·ster·cm²) | Durchschnittliche Häufigkeit (1 Zyklus = 11 Jahre) |
+|-------|--------------|--------|----------------------------------------------------------|-----------------------------------------------------|
+| S5 | Extrem | Biologisch: Unvermeidliche hohe Strahlenhazard für Astronauten bei EVA (extra-vehikuläre Aktivität); Passagiere und Besatzung in hoch fliegenden Flugzeugen an hohen Breitengraden können Strahlenrisiken ausgesetzt sein. | Satellitenbetrieb: Satelliten können unbrauchbar werden, Speicherprobleme können Kontrollverlust verursachen, erheblicher Rauschpegel in Bilddaten, Sterntrackere können Quellen nicht lokalisieren; dauerhafte Beschädigung von Solarpaneelen möglich. | 105 Weniger als 1 pro Zyklus |
+| S4 | Schwer | Biologisch: Unvermeidbare Strahlenhazard für Astronauten bei EVA; Passagiere und Besatzung in hoch fliegenden Flugzeugen an hohen Breitengraden können Strahlenrisiken ausgesetzt sein. | Satellitenbetrieb: Speichergeräteschwierigkeiten und Rauschen in Bildsystemen; Sterntrackerprobleme können Orientierungsprobleme verursachen, Effizienz von Solarpaneelen kann reduziert werden. | 104,3 pro Zyklus |
+| S3 | Stark | Biologisch: Vermeidung von Strahlenhazard empfohlen für Astronauten bei EVA; Passagiere und Besatzung in hoch fliegenden Flugzeugen an hohen Breitengraden können Strahlenrisiken ausgesetzt sein. | Satellitenbetrieb: Single‑Event‑Upsets, Rauschen in Bildsystemen und leichte Reduktion der Effizienz in Solarpaneelen sind wahrscheinlich. | 103,10 pro Zyklus |
+| S2 | Moderat | Biologisch: Passagiere und Besatzung in hoch fliegenden Flugzeugen an hohen Breitengraden können erhöhtes Strahlenrisiko ausgesetzt sein. | Satellitenbetrieb: Gelegentliche Single‑Event‑Upsets möglich. | 102,25 pro Zyklus |
+| S1 | Gering | Biologisch: Keine | Satellitenbetrieb: Keine | 1050 pro Zyklus |
+
+Die von der Internationalen Zivilluftfahrtorganisation (ICAO) benannten Space‑Weather‑Zentren sollen den Verkehrsflugzeugen Berichte über erhöhte Strahlungswerte in der Flughöhe liefern, wenn die Dosisraten infolge eines solar‑protonen Ereignisses 30 µSievert/h (MOD) bzw. 80 µSievert/h (SEV) überschreiten (ICAO, 2019).  
+
+Key relevant UN convention / multilateral treaty  
+Nicht anwendbar. Allerdings werden die Grenzwerte für Strahlenexposition indirekt durch ICAO- und ICRP-Richtlinien geregelt.  
+
+Drivers  
+Solareruptive Ereignisse: Sonnenenergierte Partikelereignisse treten während großflächiger magnetischer Eruptionen auf der Sonne auf, oft in Verbindung mit koronalen Massenauswürfen (CMEs) und Sonnenflammen. Diese Ereignisse resultieren aus der Beschleunigung von geladenen Teilchen, hauptsächlich Protonen, auf hohe Geschwindigkeiten.  
+
+Impacts  
+Partikelexposition: Sonnenenergierte Partikel, insbesondere hochenergetische Protonen, können Gefahren für Astronauten im Weltraum und Flugbesatzungen bei Hochflügen darstellen. Der erhöhte Strom an energiereichen Teilchen während SEP‑Ereignissen kann zu überhöhten Strahlungswerten führen, die die Sicherheitsgrenzen überschreiten. Erhöhter Teilchenstrom in der Atmosphäre kann auch Software und Hardware in Flugzeugavionik beeinträchtigen und zu vorübergehenden oder dauerhaften Fehlfunktionen führen.  
+
+Satellitenanomalien und Ausfälle: Sonnenenergierte Partikel können Störungen und Schäden an Satelliten verursachen. Wenn hochenergetische Teilchen empfindliche elektronische Komponenten an Bord von Satelliten treffen, insbesondere Elektronik und Solarpaneele, kann die Kommunikation und Navigation beeinträchtigt werden, was zu Fehlfunktionen, Datenfehlern oder sogar vollständigen Satellitenausfällen führt. SEPs können Satelliten, insbesondere an Bord befindliche Sensoren und Solarmodule, beschädigen. Die von SEPs erzeugte Strahlung kann die Exposition von Flugbesatzungen und Passagieren erhöhen, was potenzielle Gesundheitsrisiken mit sich bringt und die Umleitung von Flügen zu niedrigeren Breitengraden erforderlich macht. Flüge über transpolar routes sind am stärksten betroffen und können Abweichungen oder Stornierungen erfordern.  
+
+Partikelsicherheitsrisiken für Astronauten: Erhöhte Partikelstrahlungsdosen können ernsthafte Gesundheitsrisiken darstellen und die Planung sowie Durchführung von Weltraummissionen beeinflussen. Langfristige Gesundheitsrisiken bestehen für Populationen, die während SEP‑Ereignissen einer kumulativen Exposition ausgesetzt sind.  
+
+Multi-hazard context  
+Die folgende Abbildung fasst die häufigen Wechselwirkungen zwischen sonnenenergierten Partikeln und anderen Gefahren zusammen. Diese Informationen sollten mit Vorsicht verwendet werden und nicht ausschließlich als Grundlage für das Katastrophenrisikomanagement dienen, da einige Interaktionen möglicherweise nicht einbezogen wurden. Zu beachten ist, dass gefährliche Ereignisse, die gleichzeitig oder lokal in Raum oder Zeit auftreten, nicht notwendigerweise Ursache, Verstärkung oder sonstige Beziehung zueinander haben. Spezifische Beispiele für Multi‑Hazard‑Kontext finden Sie in den Abschnitten „Gefahren­treiber“ und „Auswirkungen“ oben.  
+
+Multi‑hazard diagram  
+
+Risk Management  
+* Space‑Weather‑Monitoring: Raumfahrwettersysteme überwachen die Sonnenaktivität und liefern Warnungen und Prognosen für potenzielle SEP‑Ereignisse. Diese Überwachungssysteme helfen, das Risiko von SEP‑Ereignissen zu erkennen und zu bewerten, wodurch geeignete Risikomanagementmaßnahmen ergriffen werden können.  
+* Partikelstromprognose: Hochentwickelte Modelle und Datenanalysetechniken werden eingesetzt, um den Strom und die Intensität von sonnenenergierten Teilchen während SEP‑Ereignissen vorherzusagen. Dies ermöglicht es Satelliten- und Raumfahrzeugbetreibern, potenzielle Risiken zu bewerten und notwendige Vorsichtsmaßnahmen zu ergreifen, um die Systeme zu schützen und die Auswirkungen der Strahlung zu mildern.  
+* Strahlenschutz: Astronauten und Flugbesatzungen erhalten Strahlenschutzmaßnahmen, z. B. aus Blei‑ oder Polyethylen‑Schutzmaterialien, um die Exposition gegenüber sonnenenergierten Teilchen während hoher Risikophasen zu reduzieren. Raumfahrzeuge, Satelliten und planetare Rover sind ebenfalls mit Schutzeinrichtungen ausgestattet, um empfindliche Komponenten vor Strahlungseffekten zu schützen. Dabei werden die erwarteten Strahlungsbedingungen berücksichtigt, unter denen sie betrieben werden.  
+* Umleitung von Flügen und Höheneinschränkungen: Während Perioden erhöhter Sonnenaktivität und SEP‑Ereignisse können Fluggesellschaften und Luftfahrtbehörden die Umleitung von Flügen von hochpolarregionen oder die Anpassung der Flughöhen in Erwägung ziehen, um die Exposition von Besatzung und Passagieren gegenüber erhöhten Teilchenströmen zu verringern. Das ICAO SWX‑Beratungsystem unterstützt die Fluggesellschaften dabei, die Exposition zu mindern, indem Flugrouten geändert werden.  
+
+Monitoring  
+Space‑Weather‑Services, Mitglieder der International Space Environment Services (ISES), bieten Warnsysteme für spezifische Nutzer in ihren Ländern an. Die von der Internationalen Zivilluftfahrtorganisation (ICAO) benannten Space‑Weather‑Zentren geben den Verkehrsflugzeugen Berichte über SEPs.  
+
+References  
+Desai M., und Giacalone, J., 2016. „Große allmähliche sonnenenergierte Partikelereignisse“, Living Reviews in Solar Physics, vol. 13, no. 3.  
+ESA, 2019. Solar Orbiter Top Science Questions: #3 How do solar eruptions produce energetic particle radiation that fills the heliosphere? ESA Science & Technology – Solar Orbiter top science questions: #3 How do solar eruptions produce energetic particle radiation that fills the heliosphere? Zugriff 31. Januar 2025.  
+ICAO, 2019. Neues globales Luftfahrts‑Wetternetzwerk gestartet. International Civil Aviation Organization (ICAO). Zugriff 31. Januar 2025.  
+International Civil Aviation Organization, 2019. Manual on Space Weather Information in Support of International Air Navigation (Doc 10100); Technical report; ICAO: Montréal, Canada.  
+NOAA Space Weather Prediction Center, 2023. Solar Radiation Storm. Zugriff 31. Januar 2025.  
+NOAA, 2011. Solar Radiation Storm Scale. Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA). Zugriff 31. Januar 2025.  
+NOAA, 2019. Solar Radiation Storm. Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA). Zugriff 31. Januar 2025.  
+Tylka, A. J., 2001. „Neue Erkenntnisse zu sonnenenergierten Teilchen aus Wind und ACE“, Journal of Geophysical Research, vol. 106, no. A11.  
+Cite this [Copy citation]
