@@ -1,0 +1,60 @@
+Definition  
+Eine fortgeschrittene Bedrohung entsteht durch einen Gegner mit hochentwickeltem Fachwissen und erheblichen Ressourcen, wodurch er durch die Nutzung mehrerer unterschiedlicher Angriffsvektoren (z. B. Cyber, physisch und Täuschung) Chancen schafft, seine Ziele zu erreichen (NIST, 2012).
+
+Primary reference(s)  
+National Institute of Standards and Technology, 2012. Leitfaden zur Durchführung von Risikobewertungen. DOI:10.6028/NIST.SP.800-30r1. Zugriff am 25. Januar 2025.
+
+Annotations  
+
+Additional scientific description  
+Eine Advanced Persistent Threat (APT) im Bereich Cybersicherheit bezeichnet einen ausgedehnten und gezielten Cyberangriff, bei dem häufig ein unautorisierter Benutzer Zugriff auf ein Netzwerk erhält und über einen längeren Zeitraum unbemerkt bleibt. Das Hauptziel von APTs besteht typischerweise darin, Netzwerkaktivitäten zu beobachten, Daten zu stehlen oder Störungen zu verursachen, anstatt sofortigen Schaden anzurichten. Diese Bedrohung gilt als „fortgeschritten“, weil die ausgeklügelten Techniken zur Ausnutzung von Schwachstellen verwendet werden, und als „persistierend“, weil ein kontinuierlicher Aufwand betrieben wird, um ein bestimmtes Ziel zu erreichen.  
+Einer der frühesten anerkannten APT-Vorfälle war der Titan Rain-Angriff zwischen 2003 und 2006, bei dem Angreifer die Verteidigungsnetze der USA infiltrierten, um sensible Informationen zu stehlen (Council of Foreign Relations 2005). Die Entdeckung des Stuxnet-Wurms im Jahr 2010 markierte eine bedeutende Eskalation und zeigte die Fähigkeit von APTs, physischen Schaden zu verursachen, indem sie die Iranischen Kernzentifugen angreiften (Zetter 2014). Ein weiteres bemerkenswertes Beispiel ist der Operation Aurora-Angriff im Jahr 2009, der mehrere Unternehmen, darunter Google, zielte, um geistiges Eigentum und E‑Mail-Konten von Aktivisten zuzugreifen (Council of Foreign Relations 2010). Aktuelle Vorfälle, wie SolarWinds (2020) und die Kampagnen von Nobelium (2022), veranschaulichen die sich entwickelnden APT-Techniken, die Lieferketten und Cloud-Infrastrukturen anvisieren (Ghanbari et al., 2024).  
+APTs setzen ein facettenreiches Spektrum an Techniken ein, um ihre Ziele zu erreichen. Diese Angriffe sind auf die Eigenschaften ihrer Ziele zugeschnitten und können daher viele Formen annehmen. Häufig beginnen sie mit einer Infiltration des Zielsystems durch Spear-Phishing, Zero‑Day-Schwachstellen (unbekannte Sicherheitslücken) oder andere fortgeschrittene Techniken, um Systeme unbemerkt zu infiltrieren. Sobald sie im System sind, können Angreifer entweder still bleiben, den Datenverkehr überwachen und Informationen sammeln, oder sie nutzen seitliche Bewegung, um das Netzwerk zu durchqueren und Privilegien zu erhöhen, um Zugang zu sensiblen Bereichen zu erhalten. Die Persistenz wird aufrechterhalten, indem Hintertüren und Rootkits installiert werden, wodurch kontinuierlicher Zugriff und Datenexfiltration ohne Auslösen von Sicherheitswarnungen möglich sind.  
+Schädliche Akteure, insbesondere staatliche Gruppen und organisierte Cyberkriminelle, verlassen sich häufig auf APTs, weil sie effektiv langfristige strategische Ziele erreichen. Obwohl sie seltener sind als massenwirksame Angriffe wie Ransomware, stellen APTs einen bedeutenden Anteil an hochwirksamen Cybervorfällen dar. Ihre Komplexität und das Potenzial für erhebliche Schäden machen sie zu bevorzugten Methoden für Spionage, Diebstahl von geistigem Eigentum oder Sabotage.
+
+Metrics and numeric limits  
+Nicht zutreffend.
+
+Key relevant UN convention / multilateral treaty  
+Internationale Rechtsinstrumente zur Bekämpfung von APTs sind Teil umfassenderer Cybersecurity‑ und Cybercrime‑Rahmenwerke. Die Budapester Konvention der Europarats zum Cybercrime bildet die Grundlage für internationale Zusammenarbeit bei der Bekämpfung von Cybervergehen, einschließlich solcher, die APTs betreffen. UN‑Resolutionen zur Cybersicherheit ermutigen Mitgliedstaaten, Maßnahmen zum Schutz kritischer Infrastrukturen zu ergreifen und den Informationsaustausch zu fördern, um Cyberbedrohungen zu verhindern. Die Abwesenheit spezifischer Verträge, die ausschließlich auf APTs abzielen, verdeutlicht die Herausforderungen, solche hochentwickelten und sich wandelnden Bedrohungen weltweit anzugehen. Da APTs häufig von Staaten ausgeführt werden, fällt ihre Regulierung unter den Bereich des internationalen öffentlichen Rechts.
+
+Drivers  
+Nicht zutreffend.
+
+Impacts  
+Nicht zutreffend.
+
+Multi-hazard context  
+Nicht zutreffend.
+
+Risk Management  
+Den Schutz vor einer APT zu gewährleisten, ist eine komplexe Aufgabe, die die Zeit, Ressourcen und den Aufwand berücksichtigt, den der Angreifer bereit ist, um seine Operation durchzuführen. Darüber hinaus ist es schwierig, a priori Strategien zu verordnen, die bei der Risikominimierung für alle Fälle anwendbar sind, wenn die APT unterschiedliche Ansätze annehmen kann. Die komplexe und sich entwickelnde Natur von APTs erfordert einen maßgeschneiderten und adaptiven Verteidigungsansatz, da keine einzelne Lösung alle potenziellen Bedrohungen abdecken kann. Stattdessen müssen Organisationen mehrere Strategien integrieren, um einen robusten Schutz sicherzustellen. Laut Asharani et al. (2019) lassen sich Verteidigungsstrategien gegen Advanced Persistent Threats (APTs) in drei Hauptgruppen einteilen: Überwachung, Erkennung und Minderung. Jede spielt eine entscheidende Rolle bei der Risikominimierung unbefugten Zugriffs.  
+
+Monitoring Methodologies  
+Diese umfassen den Einsatz von Tools wie Firewalls und Antiviren-Software, um verschiedene Teile des Systems zu beobachten. Fortgeschrittene Firewalls können den Datenverkehr auf bekannte bösartige Muster und Signaturen analysieren sowie Verhaltensanalysen einsetzen, um abnormale Aktivitäten zu erkennen. Zusätzlich ist die Überwachung der CPU-Auslastung wichtig, da ungewöhnliche Muster bei der Ressourcennutzung auf verdächtiges Verhalten hinweisen können.  
+
+Detection Methodologies  
+Dazu gehören verschiedene Anomalie‑Erkennungsmethoden, wie statische Analyse, neuronale Netze und Ansätze des maschinellen Lernens (Hodge und Austin et al., 2004). Diese Techniken helfen, APTs zu identifizieren, die über den mittleren bis langen Zeitraum hinweg persistieren. Ein Beispiel ist ein Intrusion Detection System (IDS), das den Netzwerkverkehr analysiert, um ungewöhnliche Aktivitäten zu erkennen und Sicherheitsteams vor potenziellen Bedrohungen zu warnen.  
+
+Mitigation Methodology  
+Die Minderung von APTs kann durch reaktive und proaktive Ansätze erreicht werden. Reaktive Methoden beinhalten die Identifizierung potenzieller Angriffswege und Schwachstellen zu einem gegebenen Zeitpunkt, die Vorhersage kritischer Bereiche und die Bewertung ihrer Schwere. Proaktive Strategien konzentrieren sich hingegen auf die Täuschung von Angreifern. Diese Techniken sollen die Eindringlinge in die Irre führen und dazu bringen, ihre Angriffsstrategien zu ändern, wodurch die Auswirkungen der Bedrohung verringert werden.  
+
+Monitoring  
+Nicht zutreffend  
+
+References  
+Alshamrani, A., Myneni, S., Chowdhary, A. und Huang, D., 2019. Eine Untersuchung zu Advanced Persistent Threats: Techniken, Lösungen, Herausforderungen und Forschungschancen. In IEEE Communications Surveys & Tutorials, Bd. 21, Nr. 2, S. 1851‑1877, Zweites Quartal 2019, doi: 10.1109/COMST.2019.2891891. Zugriff am 16. Jan. 2025.  
+
+Brandão, P.R. und Limonova, V., 2021. Verteidigungs­methoden gegen Advanced Persistent Threats (APTs). American Journal of Applied Sciences 2021. DOI:10.3844/ajassp.2021.207.212. Zugriff am 16. Jan. 2025.  
+
+Council on Foreign Relations (CFR), 2005. Titan Rain. Zugriff am 16. Jan. 2025.  
+
+Council on Foreign Relations (CFR), 2010. Operation Aurora. Zugriff am 16. Jan. 2025.  
+
+Ghanbari, H., Koskinen, K. und Wei, Y., 2024. Von SolarWinds zu Kaseya: Der Aufstieg von Lieferkettenangriffen in einer digitalen Welt. Journal of Information Technology Teaching Cases, 0(0). DOI: 10.1177/20438869241299823. Zugriff am 16. Januar 2025.  
+
+Hodge, V.J. und Austin, J., 2004. Eine Untersuchung zu Ausreißer‑Erkennungsmethoden. Artificial Intelligence Review, 22, S. 85‑126. Zugriff am 16. Januar 2025.  
+
+National Institute of Standards and Technology (NIST), 2012. Special Publication 800-30 Revision 1: Leitfaden zur Durchführung von Risikobewertungen. Gaithersburg, MD: US-Department of Commerce. Zugriff am 16. Januar 2025.  
+
+Zetter, K., 2014. Ein beispielloser Blick auf Stuxnet, die weltweit erste digitale Waffe. WIRED Magazine. Zugriff am 16. Januar 2025.

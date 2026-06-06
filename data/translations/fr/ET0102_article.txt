@@ -1,0 +1,58 @@
+Définition  
+Les perturbations ionosphériques désignent l'état de l'ionosphère caractérisé par des variations irrégulières des paramètres ionosphériques sans motif systématique. Ces perturbations peuvent présenter différentes échelles spatiotemporelles et avoir des caractéristiques distinctes selon les emplacements géographiques. Différentes perturbations ionosphériques posent des risques différents pour diverses applications (WMO, 1992).  
+
+Références principales  
+WMO, 1992. Vocabulaire météorologique international. Organisation météorologique mondiale (OMM), Rapport n° 182. Consulté le 31 janvier 2025.  
+
+Annotations  
+Description scientifique supplémentaire  
+Les perturbations ionosphériques peuvent provenir d'événements de météo spatiale, notamment des éruptions solaires, des événements de particules solaires, des tempêtes géomagnétiques et de l'augmentation de la pré-inversion ionosphérique, surtout en période locale nocturne, en raison d'un fort courant vertical ionosphérique. Ces perturbations peuvent sévèrement perturber la propagation des ondes radio, notamment aux hautes latitudes (AMS, 2012). L'ionosphère, partie de la haute atmosphère terrestre, joue un rôle pivot dans la réflexion et la modification des ondes radio pour la communication, la navigation et le suivi radar des objets spatiaux. L'air dans l'ionosphère est ionisé. De grandes quantités d'électrons libres, de l'ordre de 10³ à 10⁶ par cm³, sont présentes. La concentration en électrons dépend de la région ionosphérique et des conditions géophysiques. Le Soleil, émettant des rayons X et ultraviolets, est la source principale d'ionisation. Les électrons libres permettent la réflexion des ondes radio dans l'ionosphère, facilitant la propagation radio longue distance grâce aux réflexions provenant des régions ionosphériques et de la surface terrestre. La concentration en électrons dans l'ionosphère subit des variations à différentes échelles spatiotemporelles, dont la plupart dépendent des variations de flux UV et X du Soleil. Cette variation de flux entraîne des changements correspondants dans la densité ionosphérique. La précipitation de particules, notamment aux hautes latitudes, influence significativement le comportement ionosphérique. L'ionosphère se compose des régions D, E, F1 et F2, avec des maxima locaux de densité en électrons. La région F, abritant le principal maximum de densité en électrons dans l'ionosphère, est particulièrement notable. L'irradiation solaire influence l'ionisation, entraînant un pôle face au Soleil comparé au côté du jour et le pôle face au Soleil (NOAA, 2019b). Les bouffées de protons solaires et la précipitation de particules provoquent des effets dans l'ionosphère surtout aux hautes latitudes. Les impacts des bouffées de protons solaires et de la précipitation aurorale peuvent être observés, surtout aux hautes latitudes et dans les coussins polaires. Une tempête ionosphérique, qu'elle soit positive ou négative, est un type spécifique de perturbation ionosphérique caractérisé par une augmentation ou une diminution de la concentration en électrons dans la région F2 pendant et/ou après une tempête géomagnétique par rapport à ses valeurs tranquilles. Les perturbations ionosphériques sont une combinaison de phénomènes ionosphériques et atmosphériques influencés par divers facteurs, notamment les coordonnées du point d'observation, l'heure locale, la saison et d'autres conditions.  
+
+Métriques et limites numériques  
+En raison de leurs spécificités régionales élevées, il n'existe pas d'indice/échelle globale pour les perturbations ionosphériques. L'estimation de l'impact pour chaque région se base sur les diagnostics régionaux.  
+Les Centres de météo spatiale désignés par l'Organisation de l'aviation civile internationale (OACI) doivent fournir aux compagnies aériennes des avis concernant les conditions anormales de communication HF et de performance GNSS sur la base des paramètres et seuils suivants (OACI, 2019) :  
+
+| Paramètre d'impact | MODSEV | Amplification scintillation GNSS | S40.50.8 | Scintillation de phase GNSS | σφ 0.4 rad | 0.7 rad | Retard ionosphérique dans le signal GNSS | Contenu total d'électrons | 125 TECU (1 TECU = 10¹⁶ el/m²) | 175 TECU | Cap polaire | Absorption des ondes HF | Absorption du bruit cosmique par la couche D ionosphérique | 2 dB | 5 dB | Dépression post-orage de la réflectivité HF | Diminution de la fréquence maximale utilisable | 30 % | 50 % |
+|-------------------|--------|----------------------------------|----------|----------------------------|------------|--------|----------------------------------------|------------------------|--------------------------------|-----------------|--------------------|--------------------------------------|-----------------------------------------------------|------|------|------------------------------------------|-------------------------------------------|-----|-----|
+
+Convention ou traité multilatéral clé des Nations Unies  
+Cadre de Sendai pour la réduction du risque de catastrophe 2015‑2030.  
+
+Moteurs  
+Les moteurs, entre autres, incluent l'activité solaire : de nombreuses perturbations ionosphériques sont provoquées par l'activité solaire, notamment les éruptions solaires, les événements de particules solaires et les éjections de masse coronale. Une activité solaire accrue peut entraîner des tempêtes ionosphériques plus fréquentes et intenses. Les vents solaires rapides provoquant des régions d'interaction de flux dans le vent solaire peuvent également entraîner des perturbations ionosphériques. Les moteurs irréguliers incluent la convection troposphérique intensive, l'activité sismique, les explosions artificielles et les éclipses solaires.  
+
+Impacts  
+Disruption de la communication radio : les perturbations ionosphériques peuvent affecter la propagation des ondes radio en résonance atmosphérique, entraînant une dégradation de la qualité ou l'échec des liaisons de communication dans les régions concernées. Plus précisément, elles peuvent impacter les communications radio HF (haute fréquence), cruciales pour l'aviation, les opérations maritimes et les services d'urgence. Cela peut affecter les communications de contrôle du trafic aérien, les communications avion‑avion et d'autres systèmes radio utilisés en aviation.  
+Erreurs de navigation : les perturbations ionosphériques peuvent également introduire des erreurs dans les signaux GNSS, dégradant la précision et la fiabilité des systèmes de navigation par satellite globaux (GNSS), provoquant des erreurs de positionnement, de navigation et de timing.  
+Traînée satellitaire : elle augmente la traînée atmosphérique sur les satellites en orbite basse terrestre, modifiant la dynamique orbitale et potentiellement réduisant la durée de vie des satellites. Les perturbations ionosphériques peuvent provoquer des augmentations à court terme importantes de la température et de la densité de l'atmosphère supérieure, augmentant la traînée sur les satellites et modifiant leurs orbites.  
+Les observations radioastronomiques et d'autres activités de recherche spatiale sont confrontées à des défis, car la transmission et la réception précises des signaux à travers l'ionosphère sont affectées.  
+Les perturbations de la navigation GNSS affectent les industries dépendant d'un positionnement précis, telles que la construction, l'agriculture et la logistique.  
+La réponse d'urgence et la gestion des catastrophes subissent des retards en raison de canaux de communication compromis, affectant la coordination lors des catastrophes naturelles ou des crises.  
+
+Contexte multi‑risque  
+La figure ci‑dessous résume les interactions courantes entre les perturbations ionosphériques et d'autres risques. Ces informations doivent être utilisées avec prudence et ne doivent pas être prises à la légère dans la gestion du risque de catastrophe, notamment car certaines interactions peuvent ne pas avoir été incluses. Notez que les événements dangereux se produisant simultanément ou localement dans l'espace ou le temps ne provoquent pas nécessairement, n'amplifient pas ou ne sont pas autrement liés les uns aux autres. Des exemples spécifiques de contexte multi‑risque se trouvent dans les sections « Moteurs de risque » et « Impacts » ci‑dessus.  
+
+Diagramme multi‑risque  
+
+Gestion des risques  
+Surveillance du temps spatial : un éventail d'organisations surveille les conditions et fournit des alertes et des prévisions liées aux tempêtes ionosphériques. Cela permet aux parties prenantes d'être conscientes des impacts potentiels et de prendre les précautions nécessaires.  
+Déviation et report de vols : dans les cas où les perturbations ionosphériques représentent un risque significatif pour les opérations aériennes, les vols peuvent être détournés vers des itinéraires alternatifs ou reportés jusqu'à ce que la tempête s'estompe. Cela aide à atténuer les impacts potentiels de la communication radio perturbée et des erreurs de navigation.  
+Les compagnies aériennes et les organisations aéronautiques mettent en œuvre des stratégies d'atténuation pour minimiser les impacts des perturbations ionosphériques. Cela peut inclure la mise en place de systèmes de communication alternatifs, l'utilisation de méthodes de navigation de secours et la formation des pilotes et contrôleurs aériens pour gérer les perturbations liées au temps spatial.  
+Les satellites nécessitent une protection contre les surtensions et une protection contre les surcharges pour protéger les équipements sensibles.  
+Établir des stations au sol redondantes dans des zones géographiquement diversifiées pour maintenir la communication satellitaire même si une station est affectée par des perturbations ionosphériques.  
+Développer la redondance des liaisons de communication en utilisant des bandes de fréquences diverses, des chemins de communication et des modes de transmission. Cela garantit que les canaux alternatifs peuvent être activés rapidement si les liaisons de communication principales sont perturbées.  
+Densité atmosphérique : diverses organisations fournissent des services pour les conditions atmosphériques influencées par le temps spatial.  
+
+Surveillance  
+Les services de météo spatiale membres des International Space Environment Services (ISES) fournissent des systèmes d'alerte pour les utilisateurs spécifiques dans leurs pays. Les centres de météo spatiale désignés par l'Organisation de l'aviation civile internationale (OACI) publient des avis sur les perturbations ionosphériques destinés aux compagnies aériennes.  
+
+Références  
+AMS, 2012. Tempête ionosphérique. Glossaire de la météorologie, American Meteoroidal Society (AMS). Consulté le 31 janvier 2025.  
+ESA, sans date. Produits fédérés du UK Met Office (UKMO). Réseau de services météorologiques spatiaux ESA. Consulté le 31 janvier 2025.  
+ISES, 2019. Échelle de tempête ionosphérique. International Space Environment Service (ISES). Consulté le 31 janvier 2025.  
+NOAA, 2019a. Ionosphère. Centre de prévision des phénomènes météorologiques spatiaux, National Oceanic and Atmospheric Administration (NOAA). Consulté le 31 janvier 2025.  
+NASA, 2019a. Ionosphère. Centre de prévision des phénomènes météorologiques spatiaux, National Oceanic and Atmospheric Administration (NOAA). Consulté le 25 novembre 2019.  
+NOAA, 2019b. Glossaire météorologique spatial. Centre de prévision des phénomènes météorologiques spatiaux, National Oceanic and Atmospheric Administration (NOAA). Consulté le 31 janvier 2025.  
+Centre de prévision des phénomènes météorologiques spatiaux NOAA. Traînée satellitaire. Consulté le 31 janvier 2025.  
+
+Citer ceci [Copier la citation]

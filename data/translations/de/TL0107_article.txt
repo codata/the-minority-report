@@ -1,0 +1,52 @@
+Definition  
+Social engineering entspricht allen Techniken, die darauf abzielen, ein Ziel dazu zu bringen, spezifische Informationen preiszugeben oder eine spezifische Aktion auszuführen, um illegitime Gründe zu verfolgen (ECS, ohne Datum).  
+
+Primary reference(s)  
+ECS, ohne Datum. Social Engineering; Juli‑Awareness‑Kalender. Europäische Cybersicherheitsorganisation (ECS) Zugriff am 3. April 2025  
+
+Annotations  
+Additional scientific description  
+Social Engineering ist eine Manipulationstechnik, die die menschliche Psychologie ausnutzt, um unautorisierten Zugriff auf Informationen oder Systeme zu erlangen. Es konzentriert sich auf das menschliche Element, häufig die schwächste Kette in der Cybersicherheit, anstatt auf technische Schwachstellen. Social Engineering umfasst ein breites Spektrum an Aktivitäten, die darauf abzielen, menschliche Fehler oder Verhaltensweisen auszunutzen, um Zugriff auf Informationen oder Dienstleistungen zu erlangen. Es nutzt verschiedene Formen der Manipulation, um Opfer dazu zu verleiten, Fehler zu begehen oder sensible oder geheime Informationen preiszugeben.  
+
+Als Begriff hat Social Engineering eine Geschichte, die die Cybersicherheit und ICT vorausgeht. Historisch war es mit der Kontrolle von Gesellschaften und den Governance-Techniken verbunden, die von Autoritäten zur Gestaltung dieser eingesetzt wurden. Mit dem Aufkommen digitaler Technologien begann der Begriff sich zu verschieben, und bis Ende 1990 war er Teil des gemeinsamen Vokabulars von Hackern, wodurch seine Verwendung im Bereich Cybersicherheit gefestigt wurde (Hatfield 2018). Digitale Täuschung hat sich erheblich weiterentwickelt und trägt zur neuen Front der Social‑Engineering‑Angriffe bei. Diese Angriffe stellen ernsthafte Bedrohungen für digitale Vermögenswerte dar und führen häufig zu finanziellen Verlusten und Verletzungen der Privatsphäre. Sie können über verschiedene Kanäle ausgeführt werden, einschließlich E-Mails, Phishing-Websites, Textnachrichten, Sprach‑ oder Videoanrufe sowie soziale Medienplattformen (WEF, 2024).  
+
+Die in Social Engineering verwendeten Techniken sind vielfältig und kontinuierlich anpassungsfähig. Social Engineering kann aus mindestens zwei unterschiedlichen Perspektiven betrachtet werden: den Opfern, die sie anvisieren, oder dem Ansatz, den sie wählen. Im ersten Fall ist eine gängige Social‑Engineering‑Technik Phishing. Phishing beinhaltet das Versenden betrügerischer Mitteilungen, die so aussehen, als kämen sie von seriösen Quellen, mit dem Ziel, sensible Daten wie Anmeldedaten oder Finanzinformationen zu stehlen. In der Regel zielt Phishing auf ein breites Publikum ab und nutzt die Anzahl der Versuche (z. B. Spam‑Kampagnen an Hunderte oder Tausende von Personen) anstelle der Qualität (Phishing‑Angriffe sind in der Regel ungeschliffen und leicht erkennbar). Spear‑Phishing hingegen ist eine gezieltere Form von Phishing, die sich auf bestimmte Personen oder Organisationen konzentriert. In diesem Fall ist die an die Opfer gesendete Nachricht maßgeschneidert. Dies erfordert Vorbereitung und Hintergrundprüfungen der Opfer, was es schwierig macht, die Anzahl zu erhöhen, aber effektiver gegen gezielte Personen ist. Whaling ist eine spezielle Form des Spear‑Phishings, die hochrangige Personen wie Geschäftsführer und Top‑Manager anvisiert.  
+
+Aus der Perspektive des Ansatzes kann Social Engineering viele Formen annehmen. E‑Mails oder andere Formen der Online‑Nachrichtenteilung (z. B. Direktnachrichten in sozialen Medien) sind die häufigsten Formen. Vishing (Voice‑Phishing) und Smishing (SMS‑Phishing) nutzen Telefonanrufe bzw. Textnachrichten, um Opfer zu täuschen. Watering‑Hole‑Angriffe kompromittieren Websites, die häufig von der Zielgruppe besucht werden, was zu Malware‑Infektionen führt. Homograph‑Angriffe nutzen Ähnlichkeiten in Zeichensätzen (z. B. Ersetzen von „o“ durch „0“ in URLs), um Benutzer zu täuschen, und Typo‑Squatting beruht auf häufigen Schreibfehlern legitimer Websites, um ahnungslose Benutzer zu locken (z. B. Registrierung einer Website wie www.indrr.org, um den Verkehr von Benutzern zu erfassen, die versuchen, www.undrr.org zu erreichen, aber falsch tippen).  
+
+Künstliche Intelligenz spielt eine bedeutende Rolle bei der Verstärkung von Social‑Engineering‑Angriffen, unter anderem durch Deepfakes. KI kann große Datenmengen analysieren, um hochgradig personalisierte und überzeugende Nachrichten (für Spear‑Phishing‑Angriffe) zu erstellen und kann gleichzeitig die Lieferung und Verwaltung von groß angelegten Phishing‑Kampagnen automatisieren. Die Kombination dieser beiden Eigenschaften ist besorgniserregend, da sie zu einem neuen Ansatz führen könnte, der groß angelegte Spear‑Phishing‑Kampagnen ausführen kann (Hazell, 2023).  
+
+Social Engineering wird von böswilligen Akteuren stark genutzt, weil es wirksam und kostengünstig ist. Es ist eine verbreitete Cyberangriffs‑Methode und dient häufig als initialer Vektor für komplexere Infiltrationen (z. B. ein Benutzer davon zu überzeugen, auf einen Link zu klicken oder eine Datei mit Malware herunterzuladen).  
+
+Metrics and numeric limits  
+Nicht anwendbar.  
+
+Key relevant UN convention / multilateral treaty  
+Derzeit gibt es kein spezifisches internationales Rechtsinstrument, das ausschließlich mit Social Engineering befasst ist. Allgegenwende bieten breitere Rahmenwerke wie die Budapest‑Konvention über Cyberkriminalität Richtlinien zur Bekämpfung von Cyberkriminalitätsaktivitäten, einschließlich solcher, die durch Social‑Engineering‑Techniken erleichtert werden (Rat der Europäischen Union, 2025).  
+
+Drivers  
+Angreifer bevorzugen Social Engineering oft, weil es weniger und weniger spezialisierte Ressourcen erfordert als technisches Hacken und mit minimalem Risiko hohe Belohnungen bringen kann. Die hybride Arbeitskultur und die zunehmende Abhängigkeit von E‑Mails und Messaging‑Apps sind moderne Ermöglicher, während generative KI ein Treiber für überzeugendere Fälschungen sein kann. Bestimmte Bedingungen erleichtern Social‑Engineering‑Angriffe, darunter unzureichendes Sicherheitsbewusstsein, weit verbreiteter Einsatz von sozialen Medien und Organisationskulturen, die Cybersicherheit nicht priorisieren. Menschliche Faktoren wie Vertrauen, Autorität und Dringlichkeit werden ausgenutzt, um Individuen zu überzeugen und Sicherheitsprotokolle zu umgehen.  
+
+Impacts  
+Betrug, Diebstahl und der Anstieg von identitätsbasierten Angriffen gehen mit dem Anstieg von Social‑Engineering‑Kampagnen einher, hauptsächlich durch Phishing (ENISA, 2024).  
+
+Multi-hazard context  
+Nicht zutreffend.  
+
+Risk Management  
+Der Schutz vor Social Engineering erfordert die Implementierung robuster Sicherheitsrichtlinien und die Durchführung regelmäßiger Sensibilisierungstrainings¹. Aus technischer Sicht ist es hilfreich, Lösungen wie E‑Mail‑Filter und KI‑basierte Erkennungssysteme zu implementieren. Es ist entscheidend, eine Sicherheitskultur, Achtsamkeit und Skepsis gegenüber unaufgeforderten Mitteilungen zu fördern (ITU, ohne Datum). Trotz seiner Rolle bei der Verstärkung von Social Engineering kann künstliche Intelligenz auch zu einem Sicherheitstool werden, da sie eine entscheidende Rolle bei der Identifizierung und Abschwächung von Social‑Engineering‑Bedrohungen spielen kann. Modelle des maschinellen Lernens können Muster und Anomalien in der Kommunikation analysieren, um Phishing‑Versuche und betrügerische Aktivitäten zu erkennen (Odufian et al., 2025).  
+
+Monitoring  
+Nicht zutreffend.  
+
+References  
+Rat der Europäischen Union, 2025. Die Konvention über Cyberkriminalität (Budapest‑Konvention, ETS Nr. 185) und ihre Protokolle. Zugriff am 3. April 2025.  
+Agentur der Europäischen Union für Cybersicherheit (ENISA), 2024. ENISA Threat Landscape 2024. Zugriff am 3. April 2025.  
+Hatfield, J.M., 2018. Social engineering in cybersecurity: The evolution of a concept. Computers & Security, 73, S.102–113. DOI: 10.1016/j.cose.2017.10.008 Zugriff am 3. April 2025.  
+Hazell, J., 2023. Spear Phishing with Large Language Models. The Centre for the Governance of AI. Zugriff am 3. April 2025.  
+Internationale Fernmeldeunion (ITU), ohne Datum. Combatting SPAM. Zugriff am 13. Januar 2025.  
+Odufisan, O.I., Abhulimen, O.V. und Ogunti, E.O., 2025. Harnessing artificial intelligence and machine learning for fraud detection and prevention in Nigeria. Journal of Economic Criminology, 7, 100127. DOI: 10.1016/j.jeconc.2025.100127. Zugriff am 3. April 2025.  
+Weltwirtschaftsforum (WEF), 2024. AI could empower and proliferate social engineering cyberattacks. Zugriff am 3. April 2025.  
+
+Cite this [Copy citation]  
+Zitieren Sie dies [Zitierung kopieren]

@@ -1,0 +1,45 @@
+Definition  
+Eine Datenverletzung tritt auf, wenn die Daten, für die ein Unternehmen/Organisation verantwortlich ist, einen Sicherheitsvorfall erleiden, der zu einer Verletzung der Vertraulichkeit, Verfügbarkeit oder Integrität führt (Europäische Kommission, kein Datum).
+
+Primary reference(s)  
+Europäische Kommission, kein Datum. Was ist eine Datenverletzung und was müssen wir im Falle einer Datenverletzung tun? Zugriff am 31. Oktober 2024.
+
+Annotations  
+Additional scientific description  
+Eine Datenverletzung in der Cybersicherheit bezeichnet einen Vorfall, bei dem sensible, geschützte oder vertrauliche Daten ohne Autorisierung eingesehen, offengelegt oder abgerufen werden. Dies kann personenbezogene Daten, Finanzinformationen, geistiges Eigentum oder andere kritische Daten umfassen, die potenziell Schaden für Einzelpersonen oder Organisationen verursachen können. Datenverletzungen treten in verschiedenen Formen auf, wie unautorisierten Zugriff auf Datenbanken, Abfangen von Daten im Transit oder Insider-Bedrohungen. Verletzungen personenbezogener Daten gefährden persönlich identifizierbare Informationen (PII), wie Namen, Adressen, Sozialversicherungsnummern und Finanzdetails, was zu Identitätsdiebstahl und Datenschutzverletzungen führt. Nicht-personenbezogene Datenverletzungen betreffen die Offenlegung von proprietären Geschäfts­informationen, geistigem Eigentum oder anderen sensiblen organisatorischen Daten und können finanzielle Verluste sowie Wettbewerbsnachteile verursachen. Datenverletzungen können zu nationalen Gefahren eskalieren, wenn sie kritische Infrastrukturen, Regierungsbehörden oder groß angelegte Daten­speicher anvisieren. Ein Beispiel ist die Datenverletzung im Jahr 2015 der U.S. Office of Personnel Management, bei der sensible Informationen von über 21 Millionen Bundesangestellten kompromittiert wurden, was erhebliche Risiken für nationale Sicherheit und Geheimdienste darstellte (Koerner, 2016). Im Jahr 2022 betrafen 1.774 Datenverletzungen mehr als 392 Millionen Personen weltweit und machten rechtlich geschützte Informationen frei, die Personen identifizierten, die Dienste in Bereichen wie Finanzen, Gesundheitswesen und Sozialleistungen nutzten. Diese Datenverletzungen haben zudem erhebliche wirtschaftliche Auswirkungen; ihre Kosten steigen jährlich um mehr als 20 % und belaufen sich inzwischen auf 4‑6 % des globalen BIP (WEF, 2023). Der menschliche Faktor ist die häufigste Schwachstelle und macht 68 % der Verletzungen aus, die auf unbeabsichtigte menschliche Handlungen zurückzuführen sind. Social‑Engineering‑Taktiken täuschen Personen häufig, indem sie zum Klicken von bösartigen Links oder zum Teilen sensibler Informationen verleiten, die anschließend ausgenutzt werden können (Verizon, 2024).
+
+Metrics and numeric limits  
+Nicht verfügbar.
+
+Key relevant UN convention / multilateral treaty  
+Internationale Rechtsinstrumente, die Datenverletzungen betreffen, umfassen die Konvention des Europarats über Cybercrime (Budapest‑Konvention), die die internationale Zusammenarbeit bei der Bekämpfung von Cyberkriminalität, einschließlich unautorisierter Zugriffe und Daten­interferenzen, erleichtert. Darüber hinaus regeln zahlreiche nationale und regionale Vorschriften personenbezogene Datenverletzungen, wie die Datenschutz‑Grundverordnung der Europäischen Union, das California Consumer Privacy Act, das Canadian Personal Information Protection and Electronic Documents Act usw.
+
+Drivers  
+- Mangel an Cybersecurity-Investitionen  
+- Menschliches Versagen  
+- Risiko durch Dritte  
+- Zunehmende Angriffsfläche durch APIs  
+Zukünftige Verletzungen werden voraussichtlich vor allem große Tech‑Unternehmen anvisieren, die über umfangreiche Kundendaten und große Mengen sensibler Daten verfügen. Diese vermehrte Zielgerichtetheit resultiert aus Faktoren wie der weitverbreiteten Nutzung von APIs, dem Wachstum der Datendigitalisierung und unentdeckten Zero‑Day‑Schwachstellen.
+
+Impacts  
+Im Jahr 2023 verstärkte sich das globale Datenverletzungs‑Spektrum signifikant gegenüber früheren Jahren, einschließlich eines Anstiegs von 72 % bei der Anzahl der Daten­verletzungen gegenüber dem bisherigen Höchststand von 2022 (WEF, 2024). Trotz der Zunahme von Verletzungen werden Benachrichtigungen immer unklarer. Im Jahr 2022 gaben 66 % der öffentlichen Benachrichtigungen in den Vereinigten Staaten keine Informationen über die betroffenen Opfer oder die Details des Angriffs preis, hauptsächlich wegen fehlender nationaler Datenschutzgesetze. Darüber hinaus entsprechen Post‑Breach‑Services wie Kredit‑Monitoring häufig nicht den empfohlenen Schritten zur Reduzierung des Risikos zukünftiger Expositionen und Verletzungen (WEF, 2023).
+
+Multi‑hazard context  
+Die Folgen von Datenverletzungen können gravierend sein, zu finanziellen Verlusten, Rufschädigung, rechtlichen und regulatorischen Konsequenzen, Betriebsunterbrechungen und Schäden für Einzelpersonen (Identitätsdiebstahl, Datenschutzverletzungen usw.) oder Organisationen. Datenverletzungen können Organisationen und Einzelpersonen weiteren Gefahren aussetzen, wie erhöhten Cyber‑Security‑Bedrohungen, z. B. Malware, Datenmanipulation (Störung von Betrieb/Verursachung von Fehlinformationen usw.) und Lieferkettenunterbrechungen (bei Drittanbietern und Partnern infolge einer Kaskade von Sicherheitsproblemen in vernetzten Systemen).
+
+Risk Management  
+Um diese Risiken effektiv zu adressieren und zu mindern, sollten Organisationen proaktive Schritte ergreifen, um Verbraucher­informationen zu schützen und klare, umsetzbare Leistungskennzahlen zu definieren. Unternehmen sollten ermutigt werden, Mehr‑Faktor‑Authentifizierungsdienste für Kunden einzuführen und gemeinsam Branchennormen festzulegen. Versicherer und Regulierungsbehörden können das Bewusstsein und die Reduzierung von Datenverletzungen fördern, indem sie Anreize für Organisationen bieten, die Verbraucherdaten­schutz und Unternehmens­sicherheit priorisieren. Cyber‑Versicherungen können diesen Ansatz unterstützen, indem sie niedrigere Prämien, kostenlose Vor‑Verletzungs‑Services und kontinuierliches Underwriting anbieten, das sich an sich ändernde Bedrohungen und sich entwickelnde Praktiken des Cyber‑Risk‑Managements anpasst. Die geeignetste Strategie zur Minderung des Risikos einer Datenverletzung hängt davon ab, wie der Angriff ausgeführt wird.  
+Credential‑Theft‑Angriffe: Implementierung robuster Passwort‑Politiken und Mehr‑Faktor‑Authentifizierung (MFA), ergänzt durch Passwort‑Manager und regelmäßige Aktualisierung von Zugangsdaten (Kost, 2024).  
+Phishing‑Angriffe: Durchführung regelmäßiger Mitarbeiterschulungen und Aufklärungsprogramme sowie Implementierung von E‑Mail‑Sicherheitsmaßnahmen wie Anti‑Spoofing und Verschlüsselung.  
+Schwachstellen‑Ausnutzung: Aufrechterhaltung eines robusten Patch‑Management‑Systems, Durchführung regelmäßiger Schwachstellen‑Bewertungen und Penetrationstests sowie Implementierung von Netzwerk‑Segmentierung, um kritische Systeme zu isolieren.
+
+Monitoring  
+Nicht verfügbar
+
+References  
+Europäische Kommission, kein Datum. Was ist eine Datenverletzung und was müssen wir im Falle einer Datenverletzung tun? [online] Zugriff am 15. Januar 2025.  
+Koerner, B.I., 2016. Inside the cyberattack that shocked the US Government. [online] Zugriff am 15. Januar 2025.  
+Verizon, 2024. 2024 Data Breach Investigations Report. [online] Zugriff am 15. Januar 2025.  
+World Economic Forum (WEF), 2023. How to handle the data breaches increasing at rapid speed. [online] Zugriff am 15. Januar 2025.  
+World Economic Forum (WEF), 2024. What does 2024 have in store for the world of cybersecurity? [online] Zugriff am 15. Januar 2025.  
+Kost, E., 2024. How to prevent data breaches in 2025 (Highly Effective Strategy). [online] Zugriff am 15. Januar 2025.

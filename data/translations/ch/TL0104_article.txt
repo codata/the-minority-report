@@ -1,0 +1,37 @@
+定义  
+拒绝服务（Denial of Service）是阻止授权访问资源或延迟时间关键操作的行为。（时间关键的操作可能是毫秒，也可能是小时，取决于所提供的服务）(NIST, 2017).  
+
+主要参考资料  
+NIST, 2017. 计算机安全：信息安全导论. 特别出版物 800-12 修订版. 美国国家标准与技术研究院 (NIST). 访问时间：2025年1月25日。  
+
+注释  
+额外的科学描述  
+拒绝服务（DoS）通过外部输入（如进入的网络流量）压垮计算机系统或网络，使其无法满足预期用户的需求，在这种情况下，攻击常被称为分布式拒绝服务（DDoS），或利用其漏洞耗尽计算资源。这种中断导致用户无法访问服务和信息，造成重大的运营和财务影响 (CISA, 2021)。分布式拒绝服务（DDoS）攻击仍然是互联网中持续存在的烦恼。它们利用互联网缺乏集中式访问控制这一事实。由于这一脆弱性是早期互联网的核心设计决策，DDoS攻击一直持续存在。早期攻击与黑客文化相关，但其焦点很快转向商业利用。还有许多政治用途的DDoS攻击，包括网络战争、黑客行动主义和恐怖主义 (Brooks et al, 2021)。DoS 和 DDoS 的使用在网络安全史中有良好记录。早期攻击已在早期互联网时代出现，最早的事件之一发生在1995年的法国，随后一年对位于纽约市的互联网服务提供商 Panix 发生重大事件 (Brooks et al, 2021)。多年过去，这些攻击在复杂性和规模上不断演进，2016年的 Mirai 恶意软件支持的机器人网络攻击就是一个典型例子，它利用物联网（IoT）设备发起大规模 DDoS 攻击，扰乱了全球主要网站 (CISA, 2017)。DoS 可能因人为错误（如配置错误）、其他事件（如电源故障）或有意攻击而产生。DoS 攻击采用多种技术。主要区别在于 DoS 与 DDoS 攻击之间。DoS 攻击通常来自单一源，针对单个系统，而 DDoS 攻击涉及多个被攻陷系统，通常形成机器人网络，来同时淹没目标，从而使防御显著更具挑战性。连接设备数量的不断增加——尤其是在物联网（IoT）爆炸的背景下——也在增加 DDoS 攻击发生的风险，因为每个连接设备都有可能成为机器人网络的一部分。拒绝服务（DoS）攻击发生在合法用户无法访问信息系统、设备或其他网络资源时，这是由于恶意网络威胁行为者的行动。拒绝服务状态会向目标主机或网络注入流量，直到目标无法响应或直接崩溃，影响电子邮件、网站、在线账户（如银行业务）或其他服务。DoS 攻击会在资源和服务无法访问期间给组织造成时间和金钱的损失。DoS 攻击可进一步按方法分类：基于体量的攻击压垮网络带宽（例如，用过量流量淹没网站），而利用计算限制的攻击则发送畸形请求或发起无限循环来耗尽计算资源。DoS 攻击在针对关键基础设施时可能升级为国家级危险。一个先例是2007年对爱沙尼亚的网络攻击，协调的 DDoS 攻击瘫痪了政府、银行和媒体网站，导致广泛的中断，并凸显了国家层面的脆弱性 (Ottis, 2008)。DoS 攻击常被恶意行为者采用，因为其相对易于执行且可能造成重大破坏。每年，数据记录大量 DoS 和 DDoS 事件，使其成为最常见的网络攻击形式之一 (Bergamini de Neira et al, 2023)。2024年，NETSCOUT 报告全球超过1300万起 DDoS 攻击，且多向攻击趋势上升 (NETSCOUT, 2024)。  
+
+驱动因素  
+导致 DDoS 增长的最关键因素之一是无安全保护的 IoT 设备的激增。现代网络中广泛的连接性和不足的安全协议为攻击者利用漏洞并发起成功 DoS 攻击提供了肥沃的土壤。  
+
+影响  
+拒绝服务（DoS）攻击发生在合法用户无法访问信息系统、设备或其他网络资源时，这是由于恶意网络威胁行为者的行动。受影响的服务可能包括电子邮件、网站、在线账户（如银行业务）或依赖受影响计算机或网络的其他服务。(CISA, 2021)。DDoS 攻击在自然灾害或疫情期间可能加剧医疗保健或金融系统的失败。(ENISA, 2023)。  
+
+多灾害背景  
+暂无可用信息  
+
+风险管理  
+降低 DoS 风险需要技术和战略措施的结合。实施强大的网络安全协议、利用入侵检测与防御系统，以及采用 AI 驱动的安全解决方案，可增强组织的韧性。此外，速率限制、流量过滤和使用内容分发网络等策略有助于减轻攻击影响。人工智能也可在防御 DoS 攻击中发挥关键作用。AI 系统能够分析网络流量以识别异常，实现实时检测和响应，提升过滤恶意流量的能力，动态分配资源，并基于模式和行为预测潜在威胁。ITU 通过在区域和国际层面开展 CyberDrills，提高成员国的网络安全准备、保护和事件响应能力（ITU，未注明日期）。CyberDrill 是每年的一次活动，期间模拟网络攻击、信息安全事件或其他类型的干扰，以测试组织的网络能力，从检测安全事件到适当响应并最大限度减少相关影响。通过 CyberDrills，参与者可以验证政策、计划、程序、流程和能力，从而实现运营的准备、预防、响应、恢复和连续性。  
+
+监测  
+暂无可用信息  
+
+参考文献  
+Bergamini de Neira, A., Kantarci, B. & Nogueira, M., 2023. Distributed denial of service attack prediction: Challenges, open issues and opportunities. Computer Networks, 222(C), Feb. DOI: 10.1016/j.comnet.2022.109553 访问时间：2025年4月3日。  
+Brooks, R.R., Yu, L., Ozcelik, I., Oakley, J. & Tusing, N., 2022. Distributed Denial of Service (DDoS): A History. IEEE Annals of the History of Computing, 44, pp.44–54. 访问时间：2025年4月3日。  
+Cybersecurity and Infrastructure Security Agency (CISA), 2017. Heightened DDoS Threat Posed by Mirai and Other Botnets. 访问时间：2025年4月3日。  
+Cybersecurity and Infrastructure Security Agency (CISA), 2021. Understanding Denial-of-Service Attacks. 访问时间：2025年4月3日。  
+European Union Agency for Cybersecurity (ENISA), 2023. ENISA Threat Landscape 2023. 访问时间：2025年4月3日。  
+International Telecommunication Union (ITU), 未注明日期. CyberDrills. 访问时间：2025年4月3日。  
+NETSCOUT, 2024. Threat Intelligence Report 2024. 访问时间：2025年4月3日。  
+Ottis, R., 2008. Analysis of the 2007 Cyber Attacks against Estonia from the Information Warfare Perspective. In: Proceedings of the 7th European Conference on Information Warfare and Security, Plymouth, 2008. Reading: Academic Publishing Limited, pp.163–168. 访问时间：2025年4月3日。  
+National Institute of Standards and Technology (NIST), 2017. 计算机安全：信息安全导论. 特别出版物 800-12 修订版 1. Gaithersburg, MD: U.S. Department of Commerce. 访问时间：2025年4月3日。  
+
+引用此文献 [复制引用]

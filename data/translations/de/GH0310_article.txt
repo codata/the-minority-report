@@ -1,0 +1,43 @@
+Definition  
+Subsidenz bezeichnet die Absenkung oder den Einsturz des Bodens, die durch verschiedene Faktoren verursacht wird, darunter Senkung des Grundwassers, Untergrundbergbau oder Tunneln, Konsolidierung, Höhlenbildung oder Änderungen des Feuchtigkeitsgehalts in expansiven Böden. Shrink‑Swell ist der Begriff, der das Verhalten expansiver Böden beschreibt. Diese Bodenarten zeigen ein volumetrisches Veränderungsverhalten in Reaktion auf Änderungen des Feuchtigkeitsgehalts, sodass sie sich bei Austrocknung zusammenziehen und sich bei Hydratation ausdehnen, was zu Bodenabsenkung bzw. Bodenauftrieb führt (BGS, 2020).
+
+Primary reference(s)  
+BGS, 2020. Ausdehnungs- und Schrumpfböden. British Geological Survey (BGS). 27. September 2024.
+
+Annotations  
+Die Eigenschaften expansiver Böden lassen sich auf das Vorhandensein von Schwellenklummineralien zurückführen. Diese Tonmineralien unterscheiden sich in ihrer Fähigkeit, Wasser aufzunehmen, je nach ihrer jeweiligen Struktur. Expansive Tongruppen mit zunehmender Anfälligkeit für Schwellen umfassen Kandite (z. B. Kaolin, Halotitan), Illite (z. B. Phengit, Glauconit), Vermiculit und Smectit (z. B. Montmorillonit, Talk). Diese Mineralien entstehen durch Verwitterung, werden üblicherweise an Land gebildet und anschließend zu den Ozeanen transportiert. Ihre Verteilung spiegelt die zugrunde liegende Herkunftsstein‑Geologie, ihre Diagenese und Belastungsgeschichte (z. B. stressinduzierte Smectit‑zu‑Illite‑Transformationen) sowie die Art der Verwitterung wider; zum Beispiel sind feuchte Klimazonen mit kaolinreichem Boden assoziiert, während trockene Umgebungen durch smectithaltige Tonmineralien charakterisiert sind (Environmental Characteristics of Clays and Clay Mineral Deposits (usgs.gov)).
+
+Metrics and numeric limits  
+Für die am stärksten expansiven Tonmineralien sind Erweiterungen von 10 % üblich (Nelson und Miller, 1992). Vor Ort lassen sich expansive Tonböden in der Trockenzeit durch tiefe Risse erkennen, die in grob polygonalen Mustern auftreten und üblicherweise als Mudcracks bekannt sind. Die Zone saisonaler Feuchtigkeitsänderungen liegt in der Regel in den oberen 1,5–2 m, kann aber bis zu 5 m betragen (BGS, 2020). Dies führt zu zyklischem Shrink‑/Swell‑Verhalten im oberen Teil der Bodensäule, und Risse können sich auf beträchtliche Tiefen erstrecken. Böden können mit dem Expansion Index getestet werden, der einen Hinweis auf ihr Schwellenpotenzial gibt, das Ingenieure zur Spezifikation von Bauvorschriften verwenden können (ASTM D 4829).
+
+Key relevant UN convention / multilateral treaty  
+Sendai-Framework für Katastrophenvorsorge 2015–2030.
+
+Drivers  
+Zu den Triebkräften der Shrink‑Swell‑Subsidenz gehören die Senkung des Grundwassers, Grundwasserentnahme, Untergrundbergbau oder Tunnelbau, Konsolidierung, Höhlenbildung, Hitzewellen und Dürrezyklen sowie Veränderungen des Feuchtigkeitsgehalts in expansiven Böden.
+
+Impacts  
+Unter der Tiefe des Einflussbereichs atmosphärischer Feuchtigkeitsänderungen dominiert der Wasserbedarf der Vegetation, insbesondere von Bäumen auf Tonböden, die Änderungen des Feuchtigkeitsgehalts, die zu Bodenabsenkung (Subsidenz) und Auftrieb (Heave) führen. Wo Subsidenz und Auftrieb unter oder in der Nähe von Gebäuden und Infrastrukturen auftreten, kann dies zu Schäden führen (Florida Department of Environmental Protection, 2020). Der offensichtlichste Weg, wie expansive Böden Fundamente schädigen können, ist durch Auftrieb, wenn sie bei Zunahme der Feuchtigkeit ausdehnen. Ausdehnende Böden heben sich an und reißen leicht beladene, kontinuierliche Streifenfundamente, und verursachen häufig Spannungsrisse in Bodenplatten. Der Auftrieb ist üblicherweise differenziell und spiegelt die unterschiedlichen Widerstandskräfte über die strukturellen Fundamente wider. Shrink‑Swell kann die strukturelle Stabilität während seismischer Ereignisse beeinflussen und so zu Infrastrukturschäden führen.
+
+Multi-hazard context  
+Die untenstehende Abbildung fasst typische Wechselwirkungen zwischen Shrink‑Swell‑Subsidenz und anderen Gefahren zusammen. Diese Informationen sollten mit Vorsicht verwendet und nicht ausschließlich im Rahmen des Katastrophenrisikomanagements herangezogen werden, insbesondere weil einige Wechselwirkungen möglicherweise nicht berücksichtigt wurden. Beachten Sie, dass gefährliche Ereignisse, die gleichzeitig oder lokal in Raum oder Zeit auftreten, nicht zwangsläufig eine Ursache, Verstärkung oder sonstige Beziehung zueinander haben. Spezifische Beispiele für Mehrfachgefahrskontexte finden sich in den Abschnitten ‚Gefahrenursachen‘ und ‚Auswirkungen‘ oben.
+
+Multi-hazard diagram  
+
+Risk Management  
+Die weit verbreitete Verteilung dieser Böden weltweit hat die Charakterisierung durch Indextests erforderlich gemacht, um sanierungsrelevante Maßnahmen zu informieren. Im einfachsten Fall werden die Plastizitätsindizes verwendet, um anorganische Tonmineralien mit inhärenter Schwellenkapazität zu definieren (z. B. BRE, 1993). Die Ausdehnung von Böden lässt sich ebenfalls direkt im Labor messen, indem ein neu geformtes Bodenprobe eingetaucht und deren Volumenänderung gemessen oder mithilfe von LiDAR-Techniken (Hobbs et al., 2014) und Erdbeobachtungsanwendungen (Jones et al., 2023). Präventionsstrategien umfassen die Verwendung von nicht-expansiven Böden im Bauwesen oder die Anwendung von Bodenstabilisatoren, um Shrink‑Swell-Verhalten vor Baubeginn zu mildern. Der beste Weg, Schäden durch expansive Böden zu vermeiden, besteht darin, die Gebäudefundamente unterhalb der Zone der Feuchtigkeitsfluktuation auszubauen, angepasst an das Vorhandensein von Vegetation (Rogers et al., keine Angabe). Dramatische Veränderungen wie das Auslichten von Vegetation in Verbindung mit Bauflächen auf expansiven Böden sollten begrenzt werden, um Änderungen im Bodenverhalten zu verhindern (z. B. Jones, 2012).
+
+Monitoring  
+Der Abschnitt und die untenstehende Tabelle geben einen Überblick über die Überwachung von Flusserosion und -akkrétion. Diese Informationen können zur Vorhersage innerhalb eines nationalen Frühwarnsystems (EWS) verwendet werden. Da die Kapazitäten und Prozesse von EWS je nach Land variieren, sollten die aktuellsten und spezifischsten Informationen bezüglich des EWS von der zuständigen nationalen oder regionalen Behörde/Agentur für Katastrophenmanagement eingeholt werden. Welche Institution(en) erzeugen Katastrophenrisikodaten/-informationen? Nationale Geologische Umfragen (z. B. British Geological Survey) stellen oft Daten zur Shrink‑Swell-Wahrscheinlichkeit, -Vorkommen und -Wahrscheinlichkeit im Zusammenhang mit Grundstein- und Oberflächengeologie, häufig im Kontext eines sich verändernden Klimas, bereit. Wie wird die Gefahr beobachtet/überwacht/vorhergesagt? GNSS, InSAR, bodenpenetrierendes Radar und Bodfeuchtesensoren werden alle zur Überwachung der Bodenbedingungen eingesetzt.
+
+References  
+ASTM, 2021. ASTM D 4829-21. Standard Test Method for Expansion Index of Soils. Zugriff 1. Mai 2025  
+Building Research Establishment (BRE), 1993. Digest 240: Niedriggeschlossene Gebäude auf schrumpfendem Tonboden: Teil 1. Building Research Establishment (BRE). Zugriff 15. Oktober 2024  
+Florida Department of Environmental Protection, 2020. Problem Soils. Zugriff 15. Oktober 2024  
+Foley, N.K. 1999. Zugriff 1. August 2024  
+Hobbs, P.R.N., L.D. Jones, M.P. Kirkham, P. Roberts, E.P. Haslam und D.A. Gunn, 2014. A new apparatus for determining the shrinkage limit of clay soils. Géotechnique, 64:195-203. Zugriff 1. August 2024  
+Jones, Lee D.; Jefferson, Ian. 2012 Expansive soils. In: Burland, J., (Hrsg.) ICE Manual of Geotechnical Engineering. Volume 1, Geotechnical Engineering Principles, Problematic Soils and Site Investigation. London, UK, ICE Publishing, 413-441  
+Jones, L.D., Bateson, L., Hulbert, A. und Cigna, F., 2023. Modelling Potential Rates of Natural Subsidence using Geological and PSI Ground Motion Data: An Experiment in Europe and Great Britain. Authorea Preprints. DOI: 10.22541/essoar.170355052.24628258/v1  
+Nelson, J.D. und D.J. Miller, 1992. Expansive Soils: Problems and Practice in Foundation and Pavement Engineering. Wiley  
+Rogers, J.D., R. Olshansky und R.B. Rogers, keine Angabe. Damage to Foundations from Expansive Soils. Zugriff 1. August 2024  
+Cite this [Copy citation]

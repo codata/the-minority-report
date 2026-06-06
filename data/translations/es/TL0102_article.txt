@@ -1,0 +1,53 @@
+Definition  
+Una brecha de datos ocurre cuando los datos de los cuales una empresa/organización es responsable sufre un incidente de seguridad que resulta en una violación de la confidencialidad, disponibilidad o integridad (European Commission, no date).  
+
+Primary reference(s)  
+European Commission, no date. ¿Qué es una brecha de datos y qué debemos hacer en caso de una brecha de datos? Accedido 31 octubre 2024  
+
+Annotations  
+Additional scientific description  
+Una brecha de datos en ciberseguridad se refiere a un incidente en el que se accede, divulga o recupera datos sensibles, protegidos o confidenciales sin autorización. Esto puede involucrar datos personales, información financiera, propiedad intelectual u otros datos críticos, lo que puede causar daños potenciales a individuos u organizaciones.  
+Las brechas de datos se manifiestan en diversas formas, como acceso no autorizado a bases de datos, interceptación de datos en tránsito o amenazas internas.  
+Las brechas de datos personales comprometen información personal identificable (PII), como nombres, direcciones, números de seguridad social y detalles financieros, lo que conduce al robo de identidad y violaciones de privacidad.  
+Las brechas de datos no personales se refieren a la exposición de información comercial propietaria, propiedad intelectual u otros datos organizacionales sensibles, lo que puede causar pérdidas financieras y desventajas competitivas.  
+Las brechas de datos pueden escalar a peligros nacionales cuando apuntan a infraestructuras críticas, agencias gubernamentales o repositorios de datos a gran escala.  
+Un precedente es la brecha de datos de 2015 del Office of Personnel Management de EE. UU., donde la información sensible de más de 21 millones de empleados federales fue comprometida, planteando riesgos significativos para la seguridad nacional y las operaciones de inteligencia (Koerner, 2016).  
+En 2022, 1 774 brechas de datos afectaron a más de 392 millones de personas en todo el mundo, exponiendo información legalmente protegida que identificaba a personas que accedían a servicios en sectores como finanzas, atención médica y servicios sociales.  
+Estas brechas de datos también tienen un impacto económico significativo, con costos que aumentan en más del 20 % anualmente, representando ahora entre el 4 % y el 6 % del PIB mundial (WEF, 2023).  
+El factor humano es la vulnerabilidad más prevalente, representando el 68 % de las brechas vinculadas a acciones humanas involuntarias.  
+Las tácticas de ingeniería social a menudo engañan a las personas para que hagan clic en enlaces maliciosos o compartan información sensible, que luego puede ser explotada (Verizon, 2024).  
+
+Metrics and numeric limits  
+Not available.  
+
+Key relevant UN convention / multilateral treaty  
+Los instrumentos legales internacionales que abordan las brechas de datos incluyen la Convención sobre el Delito Informático del Consejo de Europa (Convención de Budapest), que facilita la cooperación internacional para combatir la ciberdelincuencia, incluido el acceso no autorizado e interferencia de datos.  
+Además, numerosas regulaciones nacionales y regionales abordan las brechas de datos personales, como el Reglamento General de Protección de Datos de la Unión Europea, la Ley de Privacidad del Consumidor de California, la Ley de Protección de la Información Personal y Documentos Electrónicos de Canadá, etc.  
+
+Drivers  
+Falta de inversión en ciberseguridad, error humano, riesgo de terceros, aumento de la superficie de ataque mediante APIs. Las brechas futuras probablemente se centrarán en las principales empresas tecnológicas que manejan grandes bases de clientes y cantidades significativas de datos sensibles. Este aumento de la focalización se debe a factores como el uso generalizado de APIs, el crecimiento de la digitalización de datos y vulnerabilidades zero-day no detectadas.  
+
+Impacts  
+En 2023, el panorama de las brechas de datos globales se intensificó significativamente en comparación con años anteriores, incluyendo un aumento del 72 % en el número de compromisos de datos respecto al máximo anterior en 2022 (WEF, 2024). A pesar del aumento de las brechas, las notificaciones de brechas están volviéndose más confusas. En 2022, el 66 % de los avisos públicos en los Estados Unidos no proporcionaron información sobre las víctimas afectadas o los detalles del ataque, principalmente debido a la falta de leyes de privacidad nacionales. Además, los servicios post‑brecha, como la monitorización de crédito, a menudo no se alinean con los pasos recomendados para reducir el riesgo de exposiciones y brechas futuras (WEF, 2023).  
+
+Multi-hazard context  
+Las consecuencias de las brechas de datos pueden ser graves, provocando pérdidas financieras, daños reputacionales, implicaciones legales y regulatorias, interrupciones operativas y perjuicios a individuos (robo de identidad, violaciones de privacidad, etc.) u organizaciones. Las brechas de datos pueden exponer a las organizaciones y a los individuos a peligros adicionales como amenazas de ciberseguridad crecientes, por ejemplo malware, manipulación de datos (interrumpiendo operaciones/activando desinformación, etc.) y disrupción de la cadena de suministro (a proveedores y socios terceros como resultado de una cascada de problemas de seguridad en sistemas interconectados).  
+
+Risk Management  
+Para abordar y mitigar eficazmente estos riesgos, las organizaciones deben tomar medidas proactivas para proteger la información del consumidor y definir indicadores de rendimiento claros y accionables. Se debe incentivar a las empresas a implementar servicios de autenticación multifactor para clientes y a colaborar en la elaboración de estándares industriales. Las aseguradoras y reguladores pueden fomentar la conciencia y la reducción de brechas de datos ofreciendo incentivos a las organizaciones que prioricen la protección de datos del consumidor y la seguridad empresarial. El seguro cibernético puede respaldar este enfoque al ofrecer primas más bajas, servicios pre‑brecha gratuitos y suscripción continua que se adapta a las amenazas cambiantes y a las prácticas de gestión de riesgos cibernéticos en evolución. La estrategia más adecuada para mitigar el riesgo de una brecha de datos depende de cómo se lleva a cabo el ataque.  
+- **Ataques de robo de credenciales:** Implementar políticas de contraseñas sólidas y autenticación multifactor (MFA), además de usar gestores de contraseñas y actualizar las credenciales regularmente (Kost, 2024).  
+- **Ataques de phishing:** Realizar programas regulares de capacitación y concienciación para empleados e implementar medidas de seguridad de correo electrónico como anti‑spoofing y cifrado.  
+- **Explotación de vulnerabilidades:** Mantener un sistema robusto de gestión de parches, realizar evaluaciones regulares de vulnerabilidades y pruebas de penetración, y aplicar segmentación de red para aislar sistemas críticos.  
+
+Monitoring  
+Not available  
+
+References  
+European Commission, no date. ¿Qué es una brecha de datos y qué debemos hacer en caso de una brecha de datos? [online] Accedido 15 enero 2025.  
+Koerner, B.I., 2016. Inside the cyberattack that shocked the US Government. [online] Accedido 15 enero 2025.  
+Verizon, 2024. 2024 Data Breach Investigations Report. [online] Accedido 15 enero 2025.  
+World Economic Forum (WEF), 2023. How to handle the data breaches increasing at rapid speed. [online] Accedido 15 enero 2025.  
+World Economic Forum (WEF), 2024. What does 2024 have in store for the world of cybersecurity? [online] Accedido 15 enero 2025.  
+Kost, E., 2024. How to prevent data breaches in 2025 (Highly Effective Strategy). [online] Accedido 15 enero 2025.  
+
+Cite this [Copy citation]

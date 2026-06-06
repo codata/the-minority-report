@@ -1,0 +1,55 @@
+**Definition**  
+Un ataque a la cadena de suministro ocurre cuando los productos, servicios o tecnologías que se reciben han sido comprometidos o violados, y a su vez se utilizan para infiltrarse y comprometer más aún los propios sistemas (ICO, sin fecha).
+
+**Primary reference(s)**  
+ICO, sin fecha, Supply Chain Attack. Accedido 25 de enero de 2025.
+
+**Annotations**  
+**Additional scientific description**  
+En ciberseguridad, los ataques a la cadena de suministro se refieren a la explotación de vulnerabilidades de seguridad dentro de la cadena de suministro de una organización para infiltrarse en sus sistemas y redes. Los atacantes apuntan a los elementos menos seguros de la cadena de suministro, como proveedores de terceros, fabricantes o prestadores de servicios (por ejemplo, proveedores de nube), con el objetivo de comprometer el objetivo final aprovechando la interconexión de los ecosistemas digitales modernos. Este método permite a los atacantes eludir las medidas de seguridad tradicionales explotando relaciones de confianza.
+
+La historia de los ataques a la cadena de suministro ha evolucionado junto con la creciente complejidad de las redes de suministro globales. Los casos tempranos notables incluyen el ataque de 2011 a RSA Security, donde los atacantes comprometieron tokens SecurID a través de un proveedor para penetrar a contratistas de defensa (Greenberg, 2021). Más recientemente, el ataque de SolarWinds en 2020 demostró el impacto severo de tales brechas. En este incidente, actores de amenaza sofisticados insertaron código malicioso en las actualizaciones de software de la empresa, afectando a numerosas organizaciones gubernamentales y privadas en todo el mundo y resaltando las vulnerabilidades inherentes a las cadenas de suministro (Williams, 2020).
+
+Se emplean varias técnicas en los ataques a la cadena de suministro. Estas incluyen la manipulación de actualizaciones de software (como en el ataque SolarWinds), el compromiso de repositorios de código, la infección de componentes de hardware durante la fabricación y la explotación de vulnerabilidades en servicios de terceros. Los atacantes pueden insertar código malicioso en actualizaciones de software legítimas o aprovechar puertas traseras en dispositivos de hardware para obtener acceso no autorizado.
+
+Muchas organizaciones dependen de proveedores de servicios de terceros para gestionar sus entornos en la nube, lo que ha llevado a los atacantes a centrarse en estos proveedores en una forma única de ataque a la cadena de suministro basada en la identidad. Estos ataques explotan los amplios permisos que a menudo se otorgan a las cuentas de los proveedores de servicios, los cuales pueden tener acceso a múltiples entornos de clientes. Este acceso interconectado aumenta el potencial de impacto de un compromiso, haciendo a los proveedores de servicios un objetivo atractivo (Microsoft, 2023).
+
+Una de las amenazas más significativas en la cadena de suministro proviene del software de código abierto. Las comunidades de código abierto ofrecen numerosos módulos y paquetes ampliamente utilizados por empresas en todo el mundo, incluidos aquellos en cadenas de suministro. Sin embargo, debido a que el software de código abierto a menudo carece de propiedad clara y seguridad garantizada, suele introducir vulnerabilidades en las arquitecturas de seguridad (Forbes, 2022). Otra técnica prominente en los ataques a la cadena de suministro incluye el secuestro de actualizaciones y el compromiso de la firma de código. Los proveedores de software distribuyen rutinariamente actualizaciones desde servidores centralizados para mantener y mejorar sus productos. Los actores de amenaza pueden explotar este proceso infiltrándose en la red del proveedor para insertar malware en una actualización o modificarla para ganar control no autorizado sobre la funcionalidad del software. La firma de código, un mecanismo utilizado para verificar la autenticidad e integridad del software, es otro objetivo crítico. Los actores maliciosos socavan este proceso usando certificados autofirmados, explotando controles de acceso mal configurados o comprometiendo sistemas de firma. Al hacerse pasar por proveedores de confianza y embebiendo código malicioso en actualizaciones, los atacantes pueden ejecutar con éxito ataques altamente engañosos y dañinos (NIST, 2021). En 2023, los atacantes comprometieron la aplicación de escritorio de 3CX a través de instaladores infectados, propagando malware a través de un sistema VoIP ampliamente utilizado (Fortiguard, 2023).
+
+Los actores maliciosos dependen cada vez más de los ataques a la cadena de suministro debido a su alto impacto y la dificultad de detección. La complejidad de las cadenas de suministro modernas y la dependencia de proveedores de terceros crean numerosas oportunidades de explotación, haciendo de los ataques a la cadena de suministro una preocupación significativa en ciberseguridad. Al mismo tiempo, los ataques a la cadena de suministro suelen ser dirigidos. Por lo tanto, solo los actores con mayores recursos y capacidades pueden (normalmente) ejecutarlos.
+
+**Metrics and numeric limits**  
+No aplica.
+
+**Key relevant UN convention / multilateral treaty**  
+Los instrumentos legales internacionales que abordan los ataques a la cadena de suministro están incluidos dentro de los marcos más amplios de ciberseguridad y ciberdelito. La Convención de Budapest de la Unión Europea sobre Ciberdelito proporciona directrices para la cooperación internacional en la lucha contra el ciberdelito, incluidos los delitos que pueden involucrar ataques a la cadena de suministro.
+
+**Drivers**  
+Estos ataques, que implican la explotación o alteración de software, hardware o aplicaciones de terceros, representan un desafío significativo para las organizaciones.
+
+**Impacts**  
+Fraude, robo
+
+**Multi-hazard context**  
+No aplica
+
+**Risk Management**  
+Defenderse contra los ataques a la cadena de suministro requiere un enfoque integral que incluya la verificación rigurosa de proveedores, la implementación de estándares de seguridad estrictos, la monitorización continua y la fomento de la colaboración entre organizaciones y sus socios. Dado que muchos ataques dependen de proveedores externos con dependencias complejas en sus herramientas y servicios, lograr una protección completa puede ser difícil. Sin embargo, las organizaciones pueden adoptar estrategias proactivas para defenderse contra vectores de ataque comunes (Cloudflare, sin fecha).  
+Ejecutar una Evaluación de Riesgos de Terceros: esto implica probar el software de terceros antes del despliegue, exigir a los proveedores que cumplan con políticas de seguridad específicas, implementar una Política de Seguridad de Contenidos (CSP) para controlar los recursos ejecutables en el navegador y usar la Integridad de Subrecursos (SRI) para detectar contenido JavaScript sospechoso.  
+Implementar Zero Trust: Zero Trust asegura que todos los usuarios—empleados, contratistas y proveedores—se verifiquen y monitoreen continuamente dentro de la red de la organización. Al verificar la identidad y los privilegios de usuarios y dispositivos, Zero Trust evita que los atacantes exploten credenciales de usuarios legítimos robadas para infiltrarse en la organización.  
+DevSecOps: La seguridad de la cadena de suministro aprovecha DevSecOps para defenderse contra ataques descubriendo primero todos los componentes, obteniendo visibilidad de la cadena de suministro y asegurando componentes de aplicaciones nativas en la nube. Al integrar la seguridad a lo largo del proceso de desarrollo, DevSecOps garantiza el despliegue en tiempo real de operaciones de seguridad mientras se alinea sin problemas con los objetivos comerciales (GitLab, sin fecha).
+
+**Monitoring**  
+No aplica
+
+**References**  
+Cloudflare, sin fecha. What is supply chain attack? Accedido 16 de enero de 2025.  
+Forbes, 2022. Mitigating the risk of supply chain attacks in the age of cloud computing. Accedido 15 de enero de 2025.  
+FortiGuard Labs, 2023. Threat Signal Report: Supply Chain Attack Through 3CX Desktop App. Accedido 15 de enero de 2025.  
+GitLab, sin fecha. What is DevSecOps? Accedido 16 de enero de 2025.  
+Greenberg, A., 2021. The Full Story of the Stunning RSA Hack Can Finally Be Told. Accedido 15 de enero de 2025.  
+Information Commissioner’s Office (ICO), sin fecha. Supply chain attacks. Accedido 15 de enero de 2025.  
+Microsoft, 2023. Announcing Microsoft Defender for Cloud Capabilities to Counter Identity-Based Supply Chain Attacks. Microsoft Tech Community. Accedido 15 de enero de 2025.  
+National Institute of Standards and Technology (NIST), 2021. Defending Against Software Supply Chain Attacks. Accedido 16 de enero de 2025.  
+Williams, J., 2020. What You Need to Know About the SolarWinds Supply-Chain Attack. SANS Institute.  
+Cite this [Copy citation]

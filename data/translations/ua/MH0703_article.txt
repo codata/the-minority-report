@@ -1,0 +1,69 @@
+**Definition**  
+Потік штормового підйому відображає різницю між фактичним рівнем води під впливом метеорологічного порушення (штормовий потік) і рівнем, який би виник без метеорологічного порушення (тобто астрономічний потік) (WMO, 2008, 2011, 2017).
+
+**Primary reference(s)**  
+WMO, 2008. Technical Regulations, Volume III: Hydrology, WMO No. 49. World Meteorological Organization (WMO). Accessed 16 May 2025.  
+WMO, 2011. Guide to Storm Surge Forecasting, WMO No. 1076. World Meteorological Organization (WMO). Accessed 16 May 2025.  
+WMO, 2017. Regional Association IV – Hurricane Operational Plan for North America, Central America and the Caribbean, WMO-No. 1163. World Meteorological Organization (WMO). Accessed 16 May 2025.
+
+**Annotations**  
+
+**Additional scientific description**  
+Потік штормового підйому – це підйом рівня морської води, спричинений виключно штормом. Це аномальний підйом рівня морської води під час шторму, вимірюваний як висота води над нормальним передбачуваним астрономічним потоком. Підйом викликається в першу чергу вітром шторму, який тисне воду на берег. Амплітуда штормового підйому в конкретному місці залежить від орієнтації узбережжя щодо траєкторії шторму, інтенсивності, розміру і швидкості шторму, а також локальної батиметрії (NOAA, 2019a). Це ілюструється графіком нижче (NOAA, 2019a).  
+Штормовий потік – це рівень води, що виникає внаслідок поєднання штормового підйому і нормального (астрономічного) потоку. Наприклад, 3‑метровий штормовий підйом над високим потоком, який піднявся на 2 метри над середнім рівнем моря, призведе до штормового потоку, що піднявся на 5 метрів над середнім рівнем моря. Штормовий підйом не слід плутати зі штормовим потоком. Цей підйом рівня води може викликати надзвичайні повені в прибережних районах, що виникають, коли штормові потоки досягають 6 метрів (20 футів) або більше у деяких випадках (NOAA, 2019b).
+
+**Storm surge vs. storm tide (NOAA, 2019.)**  
+
+**Metrics and numeric limits**  
+Not available.
+
+**Key relevant UN convention / multilateral treaty**  
+Sendai Framework for Disaster Risk Reduction 2015-2030.
+
+**Drivers**  
+Під час штормового потоку над ним б'ються потужні хвилі, згенеровані сильним вітром.
+
+**Impacts**  
+Площа повені морської води може розширюватися вздовж узбережжя понад 100 км, причому вода може тиснути кілька кілометрів усередину, якщо територія низькорозташована. Поєднані ефекти штормового потоку та поверхневих хвиль можуть зруйнувати будівлі, змивати дороги і сповалювати кораблі (Australian Government, 2020). У 1953 році, наприклад, шторм у Північному морі призвів до одночасного штормового підйому і високого весняного потоку. У той час системи публічної попереджувальності були в основному неефективними, і як наслідок багато людей були недостатньо підготовлені. У результаті повені зазнали понад 2500 смертей і значної шкоди будинкам, бізнесу та сільськогосподарським угідьям. Після події штормового підйому 1953 року уряд Великої Британії збільшив інвестиції в берегові захисні споруди і вдосконалення систем попередження (Met Office, no date).
+
+**Multi-hazard context**  
+Нижче подано схему, що узагальнює поширені взаємодії між штормовими підйомами і іншими небезпеками. Цю інформацію слід використовувати з обережністю і не слід покладатися на неї виключно при управлінні ризиками, особливо тому, що деякі взаємодії можуть не бути включені. Зауважте, що небезпечні події, що відбуваються разом або локально в просторі чи часі, не обов'язково спричиняють, посилюють або іншим чином пов'язані одне з одним. Конкретні приклади контексту мульти‑ризиків можна знайти у розділах «Drivers» та «Impacts» вище.
+
+**Multi-hazard diagram**
+
+**Risk Management**  
+Прикладами національних параметрів оповіщення є попередження про штормовий підйом, випущене в Канаді (Government of Canada, 2019) і радник щодо спостереження/попередження про штормовий підйом, випущений Світовою метеорологічною організацією (WMO, 2017).
+
+Matt McIntosh/NOAA  
+Source: Matt McIntosh, NOAA  
+
+**Monitoring**  
+Вищезазначений розділ і таблиця нижче пропонують огляд моніторингу штормових підйомів. Цю інформацію можна використовувати для прогнозування в рамках національної системи раннього попередження (EWS). Оскільки можливості та процеси EWS різняться в різних країнах, найсвіжішу й конкретну інформацію щодо EWS слід отримувати від відповідного національного або регіонального агентства/властивості, відповідального за управління ризиками.
+
+> **Which institution(s) produce(s) Disaster Risk Data/Information?**  
+> National, subnational, and local disaster management agencies responsible for monitoring storm surge risks, issuing alerts, and coordinating emergency response efforts.  
+> Meteorological service tracking tropical cyclones, wind speeds, atmospheric pressure changes, and storm patterns that drive storm surges.  
+> Hydrological service monitoring coastal water levels, river outflows, and tide interactions that influence storm surge intensity.  
+> Oceanographic and marine research institutions studying wave dynamics, sea level rise, and ocean currents that contribute to storm surges.  
+> Geophysical and geological research institutions analysing coastal landforms, subsidence, and sediment transport that affect storm surge behaviour.  
+> Space and remote sensing agencies using satellite imagery, radar altimetry, and buoy data to detect and forecast storm surge development.  
+> Maritime and naval safety authorities monitoring sea conditions and issuing advisories for shipping, ports, and offshore industries.  
+> Energy and utility companies assessing risks to coastal power plants, oil refineries, and offshore wind farms from storm surge impacts.  
+> Land use and urban planners integrating storm surge risk assessments into coastal zoning laws, infrastructure development, and disaster mitigation strategies.  
+> Health authorities evaluating public health risks, including waterborne diseases, infrastructure failures, and emergency medical response needs.  
+> Researchers and academics, including climate scientists and hydrodynamic modelers, studying storm surge forecasting, climate change impacts, and coastal resilience.  
+> Environmental organizations and conservation groups advocating for wetland restoration, mangrove conservation, and nature-based storm surge mitigation strategies.  
+> Coastal communities and local governments engaged in flood preparedness, early warning dissemination, and resilience-building initiatives.
+
+**How is the Hazard Observed/Monitored/Forecast?**  
+Storm surges are monitored using tide gauges, satellite imagery, and ocean buoys to track rising sea levels and wave heights during storms. Meteorologists analyse wind speeds, atmospheric pressure, and storm intensity to predict surge behaviours. Computer models simulate how water will move inland, helping forecasters issue early warnings. These alerts help coastal communities, emergency responders, and infrastructure managers prepare for potential flooding and damage.
+
+**References**  
+Australian Government, 2020. Storm Surge. Bureau of Meteorology. Accessed 16 May 2025.  
+Government of Canada, 2019. Storm Surge: Criteria for Public Weather Alerts. Accessed 16 May 2025.  
+Met Office, no date. Storm surge. Accessed 16 May 2025.  
+NOAA, 2019a. What is storm surge? National Ocean Service, National Oceanic and Atmospheric Administration (NOAA). Accessed 16 May 2025.  
+NOAA, 2019b. Storm Surge Overview. National Hurricane Center and Central Pacific Hurricane Center, National Oceanic and Atmospheric Administration (NOAA). Accessed 16 May 2025.  
+WMO, 2017. Regional Association IV – Hurricane Operational Plan for North America, Central America and the Caribbean, WMO-No. 1163. World Meteorological Organization (WMO). Accessed 16 May 2025.  
+
+Cite this [Copy citation]

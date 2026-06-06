@@ -1,0 +1,54 @@
+Definición  
+Una inundación por derretimiento de nieve es un aumento significativo del nivel de agua en un río causado por el derretimiento de la acumulación de nieve que se ha acumulado durante el invierno (WMO, 2012).  
+
+Referencia(s) primaria(s)  
+WMO, 2012. Definition number 1352. International Glossary of Hydrology. WMO-No. 385. World Meteorological Organization (WMO). Accessed 16 May 2025.  
+
+Anotaciones  
+Descripción científica adicional  
+En zonas de altura y de latitud alta donde se acumula nieve extensa durante el invierno, el deshielo primaveral produce escurrimientos de agua de fusión. Si los aumentos de temperatura son rápidos, la velocidad de fusión puede provocar inundaciones, que pueden extenderse a las partes inferiores de los sistemas fluviales. La gravedad de las inundaciones por agua de fusión aumentará si el deshielo se acompaña de fuertes lluvias y puede agravarse aún más si el subsuelo permanece congelado. Aunque es un fenómeno estacional, cuando existen grandes campos de nieve en las nasas, que pueden producir inundaciones beneficiosas en las zonas aguas abajo, los efectos graves pueden ocurrir a escala menor, especialmente en áreas sujetas a cambios entre clima frío y más cálido y lluvioso en invierno (USGS, no date) y pendientes pronunciadas.  
+
+Métricas y límites numéricos  
+Not identified.  
+
+Convención clave de la ONU / tratado multilateral relevante  
+Sendai Framework for Disaster Risk Reduction 2015-2030.  
+
+Factores impulsores  
+High soil moisture conditions prior to snowmelt, frozen ground, heavy snow cover, widespread heavy rain during the melt period, and rapid snowmelt (unseasonably warm temperatures, high humidity, rainfall, etc.) (NOAA, no date).  
+
+Impactos  
+Notwithstanding the general considerations provided in the chapeau about floods, snowmelt floods can have similar impacts to flash floods (in the upper part of the catchment, combined with a fast thaw) or riverine floods (downstream to the melting area). The effect of snowmelt on potential flooding, mainly during the spring, causes concern for many people around the world. Besides flooding, rapid snowmelt can trigger landslides and debris flows. In combination with specific weather conditions, such as excessive rainfall on melting snow, for example, it may even be a major cause of floods (USGS, no date). Health impacts from floods: Floods are one of the most common hazards. The effects of flooding on health are extensive and significant, ranging from mortality and injuries resulting from trauma and drowning to infectious diseases and mental health problems (acute and long-term). While some of these outcomes are relatively easy to track, ascertaining the human impact of floods is still weak. For example, it has been reported that two-thirds of deaths associated with flooding are from drowning, with the other third from physical trauma, heart attacks, electrocution, carbon monoxide poisoning and fire. Often, only immediate traumatic deaths from flooding are recorded (WHO, 2013). Morbidity associated with floods is usually due to injuries, infections, chemical hazards and mental health effects (acute as well as delayed) (WHO, 2013). Hypothermia may also be a problem, particularly in children, if trapped in floodwaters for lengthy periods (WHO, no date). There may also be an increased risk of respiratory tract infections due to exposure (loss of shelter, exposure to flood waters and rain). Power cuts related to floods may disrupt water treatment and supply plants, thereby increasing the risk of water-borne diseases as well as affecting the proper functioning of health facilities, including cold chain (WHO, no date). Floods can potentially increase the transmission of communicable diseases (WHO, no date). The longer-term health effects associated with a flood are less easily identified. They include effects due to displacement, destruction of homes, delayed recovery and water shortages (WHO, 2013).  
+
+Contexto multi-riesgo  
+The figure below summarises common interactions between snowmelt flooding and other hazards. This information should be used with caution and not be solely relied upon in Disaster Risk Management, particularly as some interactions may not have been included. Note that hazardous events occurring together or locally in space or time may not necessarily cause, amplify, or be otherwise related to each other. Specific examples of multi-hazard context can be found in the ‘Hazard drivers’ and ‘Impacts’ sections above.  
+
+Diagrama multi-riesgo  
+
+Gestión de Riesgos  
+Cryosphere observation is needed to monitor the snowmelt rate, combined with traditional streamflow observation and flood forecasting techniques downstream to the area experiencing snowmelt. The Flash Flood Guidance System (FFGS) of the World Meteorological Organization takes into account estimated precipitation from several sources, such as satellites, radar as available, and gauges as available to be input into a snow model (SNOW -17) which estimates snow water equivalent (SWE) and melt that are input into the Sacramento-soil moisture accounting model (SAC-SMA) to estimate upper soil moisture (soil water deficit). SNOW-17 uses air temperature as an index to determine energy exchange across the snow-air interface. In addition to temperature, the only other input variable needed to run the model is precipitation. Air temperature is also used to estimate snowmelt. SWE is referred to as the depth of water produced if a snow cover is completely melted on a horizontal surface. The SWE product generated by FFGS is a direct output of the SNOW-17 accumulation and ablation model. Melt is the estimate of ablation due to melt processes and is the direct output of the SNOW-17 model (WMO, 1999).  
+
+Monitoreo  
+The section above and the table below offer an overview of monitoring snowmelt flooding. This information can be used for forecasting within a national early warning system (EWS). Since EWS capacities and processes differ across countries, the most current and specific information regarding EWS should be obtained from the appropriate national or regional agency/authority responsible for disaster management.  
+
+¿Qué(s) institución(es) producen(n) datos/información de riesgo de desastres?  
+- Meteorological services tracking temperature fluctuations, precipitation, and weather patterns influencing snowmelt rates.  
+- Hydrological services monitoring snowpack levels, river flows, soil moisture, and groundwater recharge to assess flood risks.  
+- Geological and geophysical agencies studying terrain characteristics, soil permeability, and land stability that affect snowmelt runoff.  
+- National, subnational, and local disaster management agencies responsible for monitoring snowmelt flood risks, issuing alerts, and coordinating emergency response efforts.  
+- Health authorities assessing public health risks from floodwater contamination, infrastructure failures, and emergency medical needs.  
+- Engineers and water resource management agencies designing and maintaining flood control structures, reservoirs, and drainage systems to manage excess runoff.  
+- Land use and urban planners incorporating snowmelt flood risk assessments into zoning laws, watershed management, and urban development strategies.  
+- Energy and utility companies monitoring flood risks to hydropower stations, water treatment facilities, and critical infrastructure in snowmelt-prone regions.  
+- Researchers and academics, including hydrologists and climate scientists, studying snowmelt dynamics, climate change impacts, and flood forecasting models.  
+- Environmental organisations and conservation groups working on watershed management, reforestation, and ecosystem-based flood mitigation strategies.  
+
+¿Cómo se observa / monitorea / pronostica el riesgo?  
+Snowmelt floods are monitored using satellite imagery, snowpack sensors, river gauges, and weather stations that track temperature, snow depth, and water content in the snow. Hydrologists analyse how quickly snow is melting and how much water will flow into rivers and streams. Forecast models combine temperature trends, soil moisture, and precipitation data to predict flooding risks. Early warnings help communities, emergency responders, and infrastructure managers prepare for rising water levels and potential flooding.  
+
+Referencias  
+NOAA, no date. Snowmelt flooding. National Weather Service Training Portal, National Oceanic and Atmospheric Administration (NOAA). Accessed 16 May 2025.  
+USGS, no date. Snowmelt Runoff and the Water Cycle. United States Geological Survey (USGS). Accessed 16 May 2025.  
+WHO, no date. Flooding and communicable diseases fact sheet. World Health Organization (WHO). Accessed 16 May 2025.  
+WHO, 2013. Floods in the WHO European Region: Health effects and their prevention. World Health Organization (WHO), Regional Office for Europe. Accessed 16 May 2025.  
+Cite this [Copy citation]

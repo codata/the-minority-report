@@ -1,0 +1,51 @@
+Definition  
+Malware ist ein Sammelbegriff für verschiedene Formen von bösartiger Software, die darauf ausgelegt ist, Computer zu infiltrieren und zu infizieren, typischerweise ohne Wissen des Eigentümers (ITU, 2008).  
+
+Primäre Referenz(en)  
+ITU, 2008. ITU Study on the Financial Aspects of Network Security: Malware and Spam. International Telecommunication Union (ITU). Zugriff am 31. Oktober 2024.  
+
+Annotations  
+Zusätzliche wissenschaftliche Beschreibung  
+Malware ist ein Zusammenschluss der Begriffe „malicious software“. Es bezieht sich auf Software, die entwickelt wurde, um Schäden zu verursachen, Betrieb zu stören oder unbefugten Zugriff auf Computersysteme, Netzwerke oder Geräte zu erlangen. Es umfasst verschiedene schädliche Softwaretypen, jeder mit spezifischen Merkmalen und Ausbreitungs­methoden. Malware wird häufig in „Familien“ (bezieht sich auf einen bestimmten Malwaretyp mit einzigartigen Merkmalen) und „Varianten“ (in der Regel eine andere Version des Codes in einer bestimmten Familie) (International Telecommunication Union, 2008) kategorisiert. Malware umfasst verschiedene Arten von Software, wie zum Beispiel:  
+
+Viruses: Befestigen sich an legitimen Programmen und verbreiten sich von Gerät zu Gerät, wenn diese Programme ausgeführt werden.  
+Worms: Replizieren sich selbst, um sich ohne ein Host-Programm auf andere Systeme zu verbreiten.  
+Trojan horses: Verhüllen sich als harmlos erscheinende Software, um Benutzer zum Ausführen zu verleiten, wodurch das System kompromittiert wird.  
+Ransomware: Cyberkriminelle verschlüsseln Daten und fordern Zahlung im Austausch für Entschlüsselungsschlüssel.  
+Spyware: Versammelt heimlich Informationen, indem sie die Aktivitäten der Benutzer überwacht.  
+Wiper: Löscht oder beschädigt dauerhaft Daten, die auf infizierten Maschinen gespeichert sind.  
+Rootkits: Ermöglichen unbefugten Zugriff, indem sie ihre Präsenz im System verbergen.  
+
+Die Geschichte von Malware reicht mindestens bis in die 80er Jahre zurück, als die ersten entdeckt wurden (Milošević, 2014). Bedeutende Vorfälle umfassen den Morris Worm im Jahr 1988, der einen bedeutenden Teil des frühen Internets stürzte, und den jüngeren WannaCry Ransomware-Angriff im Jahr 2017, der Organisationen weltweit betraf. Malware kann über mehrere Vektoren geliefert werden, wie E‑Mail-Anhänge (insbesondere im Zusammenhang mit Phishing-Angriffen), bösartige Websites, infizierte Softwaredownloads oder über Netzwerkschwachstellen. Heutzutage können Angreifer künstliche Intelligenz nutzen, um fortgeschrittene Malware zu erstellen, wie polimorphe Varianten, die ihren Code ändern können, um traditionelle Sicherheitsmaßnahmen zu umgehen. Darüber hinaus ist file‑less Malware eine zunehmende Bedrohung, da sie die Erkennung durch herkömmliche Antivirenprogramme umgehen kann (Liu et al., 2024). Im Gegensatz zu Standard‑Malware, die auf Dateien oder ausführbare Dateien angewiesen ist, nutzt file‑less Malware legitime Systemtools und vorhandene Dateien, Anwendungen und Systemdienste, um bösartige Aktivitäten zu implementieren. File‑less Malware kann Systeme über mehrere Vektoren erreichen, wie Phishing‑E-Mails, kompromittierte Websites oder Watering‑Hole‑Angriffe. Sobald sie Zugang erlangt, kann sie sensible Informationen stehlen und die Infektion im gesamten Netzwerk verbreiten, was zu nationalen und internationalen Gefahren führt, wenn andere Systeme gezielt oder andersartig angegriffen werden, z. B. wenn Drittanbieter, ihre Zulieferer oder Unterlieferanten angegriffen werden. Ein Präzedenzfall ist der Stuxnet‑Wurm, der 2010 entdeckt wurde und darauf ausgelegt war, die iranischen Atomkraftwerke zu sabotieren. Diese hochentwickelte Malware zeigte das Potenzial von Cyberwaffen, physischen Schaden zu verursachen und die nationale Sicherheit zu stören (Zetter, 2014). Böse Akteure nutzen Malware häufig wegen ihrer Vielseitigkeit und Wirksamkeit. Malware bleibt eine der häufigsten Formen von Cyberangriffen, mit Millionen neuen Malwareproben, die jährlich entdeckt werden (Statista, 2024). Sie dient verschiedenen Zwecken, von finanzieller Gewinnmaximierung durch Ransomware bis hin zu Spionage und Dienstunterbrechung.  
+
+Metrics and numeric limits  
+Mehr als 1 Milliarde neue Malwarevarianten wurden im Jahr 2023 weltweit erkannt (Statista, 2024).  
+
+Key relevant UN convention / multilateral treaty  
+Internationale Rechtsinstrumente zur Bekämpfung von Malware sind im Rahmen umfassender Cybercrime-Frameworks verankert.  
+Die Budapest-Konvention des Europarates über Cybercrime bietet Richtlinien für internationale Zusammenarbeit bei der Bekämpfung von Cybercrime, einschließlich Straftaten, die die Erstellung, Verbreitung oder Nutzung von Malware betreffen.  
+Der Pall Mall Process Code of Practice for States, aktualisiert 2025, ist ein weltweit inklusiver Dialog zur Bekämpfung der Verbreitung und des unverantwortlichen Gebrauchs kommerzieller Cyberintrusion‑Tools und -Dienste.  
+
+Drivers  
+Software‑Schwachstellen, Anstieg der digitalen Abhängigkeit, Cybercrime‑Wirtschaft, geopolitische Spannungen.  
+
+Impacts  
+Malware‑Angriffe können zu nationalen Gefahren eskalieren, wenn kritische Infrastrukturen oder Regierungssysteme betroffen sind. Ein Präzedenzfall ist der Stuxnet‑Wurm, der 2010 entdeckt wurde und darauf ausgelegt war, die iranischen Atomkraftwerke zu sabotieren. Diese hochentwickelte Malware zeigte das Potenzial von Cyberwaffen, physischen Schaden zu verursachen und die nationale Sicherheit zu stören.  
+
+Multi-hazard context  
+Malware kann zu erheblichen Serviceunterbrechungen, finanziellen Verlusten, potenziellen Einnahmeverlusten, Daten- und Informationsverlust oder -diebstahl, Verlust oder Beschädigung der IT‑Infrastruktur, Reputationsschäden für Organisationen und Einzelpersonen führen und erhebliche Zahlung von Lösegeld sowie regulatorische Bußgelder nach sich ziehen. Darüber hinaus können die Kosten für die Wiederherstellung steigen. Die Auswirkungen eines erfolgreichen Malware‑Angriffs können auch das Vertrauen der Öffentlichkeit in Organisationen, Politiker und den öffentlichen Sektor erschüttern. Es besteht zudem die Gefahr weiterer Ausnutzung, wenn Informationen kompromittiert werden. Software‑Systeme sind mit physischen Systemen verknüpft. Malware kann verwendet werden, um Zugang zu Systemen zu ermöglichen, die weitere Gefahren auslösen, z. B. die Erhöhung von Chemikalien in Wasserverteilungseinrichtungen, um große Teile der Bevölkerung zu vergiften, indem Wasser­systeme manipuliert werden. Dies wurde in Florida (2021), Kalifornien (2021), Israel (2020) und den USA (2016) versucht (Sikder et al., 2023).  
+
+Risk Management  
+Die Verteidigung gegen Malware erfordert zunächst das Bewusstsein der Nutzer, da die meisten Malware-Instanzen durch nutzergenerierte Eingaben (wie das Klicken auf betrügerische oder kompromittierte Links) aktiviert werden. Technische Maßnahmen, einschließlich der Nutzung von Antiviren- und Anti‑Malware‑Software, regelmäßiger Systemupdates und -patches sowie Netzwerksegmentierung, können zusätzliche Schutzschichten bieten, sollten jedoch nicht als Alternative zum Nutzerbewusstsein betrachtet werden.  
+
+Monitoring  
+Die Bedrohungsüberwachung erfolgt auf internationaler, nationaler, sektorialer und organisatorischer Ebene, wobei Informationen zur Malware‑Identifikation über verschiedene Mechanismen geteilt werden, um die Risiken zu mindern.  
+
+References  
+International Telecommunication Union (ITU), 2008. ITU Study on the Financial Aspects of Network Security: Malware and Spam. Genf: ITU.  
+Liu, S., Peng, G., Zeng, H. and Fu, J., 2024. A survey on the evolution of fileless attacks and detection techniques. [online] Zugriff am 16. Januar 2025.  
+Milošević, N., 2014. History of malware. [online] Zugriff am 16. Januar 2025.  
+Sikder, M.N.K., Nguyen, M.B.T., Elliott, E.D. und Batarseh, F.A., 2023. Deep H2O: Cyber‑attacks detection in water distribution systems using deep learning. Journal of Water Process Engineering, 52, 103568 [online]. DOI: 10.1016/j.jwpe.2023.103568. Zugriff am 16. Januar 2025.  
+Statista, kein Datum. Annual number of new malware variants detected worldwide from 2019 to 2023. [online] Zugriff am 16. Januar 2025.  
+Zetter, K., 2014. An unprecedented look at Stuxnet, the world’s first digital weapon. Wired. [online] Zugriff am 16. Januar 2025.  
+Zitieren Sie dies [Zitat kopieren]

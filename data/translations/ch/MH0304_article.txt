@@ -1,0 +1,62 @@
+Definition  
+阵风是一种大气现象，特征是风速变化幅度非常大：它突然开始，持续时间大约为几分钟，然后风速突然降低。阵风常伴随阵雨或雷暴（WMO，2018）。
+
+Primary reference(s)  
+WMO，2018。《Codes 手册，国际代码，第一卷第2期》。WMO-No. 306。世界气象组织（WMO）。访问日期：2025年5月16日。
+
+Annotations  
+Additional scientific description  
+
+The National Oceanic and Atmospheric Administration (NOAA) National Weather Service describes a squall as follows (NOAA, 2019):  
+A strong wind characterised by a sudden onset in which the wind speed increases to at least 16 knots and is sustained at 22 knots or more for at least one minute.  
+In nautical use, a severe local storm considered as a whole, that is, winds, cloud mass and (if any) precipitation, thunder and lightning.  
+
+The American Meteorological Society describes a squall as follows (AMS, 2012):  
+A strong wind characterised by a sudden onset, a duration of the order of minutes, and then a sudden decrease in speed.  
+In U.S. observational practice, a squall is reported only if a wind speed of 16 knots or more is sustained for at least two minutes (thereby distinguishing it from a gust).  
+In nautical use, a severe local storm considered as a whole, that is, winds and cloud mass and (if any) precipitation, thunder and lightning.  
+
+Metrics and numeric limits  
+Not available.  
+
+Key relevant UN convention / multilateral treaty  
+Sendai Framework for Disaster Risk Reduction 2015-2030.  
+
+Drivers  
+Squalls occur during thunderstorms.  
+
+Impacts  
+阵风是风况的突发变化。一般而言，阵风可能并不非常强劲，持续时间也很短。然而，由于其不可预测性和突如其来的出现，阵风对需要相对平静海况的海上作业构成威胁（Lu 等，2018）。风相关灾害，如阵风和风暴，可能严重影响人体健康。直接影响发生在风暴冲击阶段，导致因风力造成的死亡和伤害。被吹起、被飞行碎片或倒下的树木击中以及交通事故是主要危险。间接影响发生在风暴冲击前后阶段，包括跌倒、撕裂伤和穿刺伤，通常在风暴前后准备或清理时出现。停电是一个关键问题，可能导致触电、火灾和烧伤，以及汽油动力电力发电机产生的一氧化碳中毒（CH0302）。此外，由于缺乏医疗服务或药物，慢性病可能恶化。其他健康影响包括感染和昆虫叮咬（Goldman 等，2014）。  
+
+Multi-hazard context  
+下图概述了阵风与其他灾害之间的常见相互作用。此信息应谨慎使用，不能仅仅依赖于灾害风险管理，特别是因为某些相互作用可能未被纳入。请注意，空间或时间上同时或局部发生的危险事件并不一定会相互导致、放大或以其他方式相关。多灾害情境的具体示例可在上述的“灾害驱动因素”和“影响”部分中找到。  
+
+Multi-hazard diagram  
+多灾害图示  
+
+Risk Management  
+No Information Available  
+
+Monitoring  
+The section above and the table below offer an overview of monitoring tornadoes. This information can be used for forecasting within a national early warning system (EWS). Since EWS capacities and processes differ across countries, the most current and specific information regarding EWS should be obtained from the appropriate national or regional agency/authority responsible for disaster management.  
+
+Which institution(s) produce(s) Disaster Risk Data/Information?  
+National, subnational, and local disaster management agencies responsible for monitoring squalls, issuing warnings, and coordinating emergency response efforts.  
+Meteorological services tracking atmospheric conditions that contribute to squall formation using satellites and Doppler radar to detect storm development and wind speeds.  
+Transportation and infrastructure agencies assessing risks to roads, bridges, railways, and airports from extreme winds and debris.  
+Energy and utility companies monitoring risks to power grids, wind turbines, and electrical infrastructure due to high winds and falling debris.  
+Health authorities evaluating public safety risks, including injuries from flying debris, structural collapses, and emergency medical response needs.  
+Researchers and academics, including meteorologists and climatologists, studying squall formation, dynamics, wind shear effects, and forecasting improvements.  
+
+How is the Hazard Observed/Monitored/Forecast?  
+Squalls are monitored using Doppler radar, weather satellites, and other remote sensing technologies that track cloud formations, wind patterns, and lightning activity.  
+Meteorologists assess atmospheric conditions, including temperature, humidity, and wind shear, to predict the development and intensity of squalls.  
+By integrating advanced numerical weather models with real-time observational data, forecasters can improve the accuracy of squall predictions and track their movement.  
+This enables timely warnings to mitigate risks to aviation, infrastructure, and communities from associated hazards such as heavy rainfall, strong winds, lightning, and hail.  
+
+References  
+American Meteorological Society (AMS), 2012. Glossary of Meteorology: Squall. American Meteorological Society (AMS). Accessed 16 May 2025.  
+Goldman, A., Eggen, B., Golding, B. and Murray, V., 2014. The health impacts of windstorms: a systematic literature review. Public Health, 128, pp.3–28.  
+Lu, Y., Ozaki, M. and Wada, R., 2018. Squalls in sea off coast of Japan and their effects on marine operations based on weather observatory data at remote islands. Journal of Marine Science and Technology, 23, pp.104–121.  
+National Oceanic and Atmospheric Administration (NOAA), 2019. National Weather Service Glossary: Squall. National Oceanic and Atmospheric Administration (NOAA). Accessed 16 May 2025.  
+Cite this [Copy citation]

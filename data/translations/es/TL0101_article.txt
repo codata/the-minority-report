@@ -1,0 +1,57 @@
+Definición  
+Malware es un término resumen para distintas formas de software malicioso diseñado para infiltrarse e infectar computadoras, típicamente sin el conocimiento del propietario (ITU, 2008).  
+
+Referencia(s) primaria(s)  
+ITU, 2008. Estudio de la UIT sobre los aspectos financieros de la seguridad de la red: Malware y Spam. Unión Internacional de Telecomunicaciones (UIT). Accedido el 31 de octubre de 2024.  
+
+Anotaciones  
+Descripción científica adicional  
+Malware es una palabra compuesta de “malicious software”. Se refiere a software diseñado para causar daños, interrumpir operaciones o obtener acceso no autorizado a sistemas informáticos, redes o dispositivos. Comprende diversos tipos de software dañino, cada uno con características y métodos de propagación específicos. El malware se categoriza a menudo en “familias” (refiriéndose a un tipo particular de malware con características únicas) y “variantes” (normalmente una versión diferente de código dentro de una familia específica) (Unión Internacional de Telecomunicaciones, 2008).  
+
+Malware comprende diversos tipos de software, como:  
+- Virus: se adjuntan a programas legítimos y se propagan de un dispositivo a otro cuando se ejecutan esos programas.  
+- Worms: se replican para propagarse a otros sistemas sin necesidad de un programa anfitrión.  
+- Caballos de Troya: se disfrazan de software benéfico para engañar a los usuarios y que los ejecute, comprometiendo así el sistema.  
+- Ransomware: los ciberdelincuentes cifran datos y exigen pago a cambio de las llaves de descifrado.  
+- Spyware: recopila información de forma encubierta al monitorizar las actividades de los usuarios.  
+- Wiper: elimina permanentemente o corrompe datos almacenados en máquinas infectadas.  
+- Rootkits: permiten acceso no autorizado ocultando su presencia dentro del sistema.  
+
+La historia del malware se remonta al menos a los años 80, cuando se crearon los primeros (Milošević, 2014). Incidentes notables incluyen el Morris Worm en 1988, que interrumpió una parte significativa de la primera internet, y el ataque ransomware WannaCry en 2017, que afectó a organizaciones en todo el mundo.  
+
+El malware puede entregarse a través de múltiples vectores, como adjuntos de correo electrónico (especialmente en el contexto de ataques de phishing), sitios web maliciosos, descargas de software infectado o mediante vulnerabilidades de red. Hoy, los atacantes pueden aprovechar la inteligencia artificial para crear malware avanzado, como los polimórficos, que pueden alterar su código para evadir la detección por medidas de seguridad tradicionales.  
+
+Además, el malware sin archivos representa una amenaza creciente debido a su capacidad para evadir la detección por programas antivirus tradicionales (Liu et al., 2024). A diferencia del malware estándar que depende de archivos o ejecutables, el malware sin archivos explota herramientas de sistema legítimas y aprovecha archivos, aplicaciones y servicios del sistema existentes para implementar actividades maliciosas. El malware sin archivos puede ingresar a sistemas a través de múltiples vectores, como correos electrónicos de phishing, sitios web comprometidos o ataques de “watering hole”. Una vez que obtiene acceso, puede robar información sensible y propagar la infección por toda la red, generando riesgos nacionales e internacionales cuando otros sistemas son objetivo deliberada o inadvertidamente, por ejemplo, proveedores terceros atacados o uno de sus proveedores o subproveedores. Un precedente es el worm Stuxnet descubierto en 2010, que fue diseñado para sabotear las instalaciones nucleares de Irán. Este malware sofisticado resaltó el potencial de las armas cibernéticas para causar daños físicos y perturbar la seguridad nacional (Zetter, 2014).  
+
+Los actores maliciosos dependen con frecuencia del malware por su versatilidad y eficacia. El malware sigue siendo una de las formas más comunes de ataque cibernético, con millones de nuevas muestras detectadas anualmente (Statista, 2024). Sirve diversos propósitos, desde ganancias financieras mediante ransomware hasta espionaje y interrupción de servicios.  
+
+Métricas y límites numéricos  
+Se detectaron más de 1 000 millones de nuevas variantes de malware a nivel mundial en 2023 (Statista, 2024).  
+
+Convención / tratado multilateral clave de la ONU  
+Los instrumentos legales internacionales que abordan el malware están incluidos dentro de marcos más amplios de ciberdelincuencia. La Convención de Budapest del Consejo de Europa sobre Ciberdelincuencia brinda directrices para la cooperación internacional en la lucha contra la ciberdelincuencia, incluidas las infracciones que involucran la creación, distribución o uso de malware. El Código de Buenas Prácticas del Proceso de Pall Mall para Estados, actualizado en 2025, es un diálogo inclusivo a nivel mundial para abordar la proliferación y el uso irresponsable de herramientas y servicios comerciales de intrusión cibernética.  
+
+Causas  
+Vulnerabilidades de software, aumento de la dependencia digital, economía de la ciberdelincuencia, tensiones geopolíticas.  
+
+Impactos  
+Los ataques de malware pueden escalar a riesgos nacionales cuando atacan infraestructuras críticas o sistemas gubernamentales. Un precedente es el worm Stuxnet descubierto en 2010, que estaba diseñado para sabotear las instalaciones nucleares de Irán. Este malware sofisticado resaltó el potencial de las armas cibernéticas para causar daños físicos y perturbar la seguridad nacional.  
+
+Contexto multi-riesgo  
+El malware puede resultar en una interrupción significativa de los servicios, pérdida financiera, posible pérdida de ingresos, pérdida o robo de datos e inteligencia, pérdida o daño a la infraestructura de TI, daño reputacional a organizaciones e individuos, y conllevar a pagos significativos de rescates y multas regulatorias. También pueden aumentar los costos de recuperación. Además, los impactos de un ataque de malware exitoso pueden contribuir a la pérdida de confianza pública en organizaciones, políticos y el sector público. Existe también la amenaza de una mayor explotación si la información se ve comprometida. Los sistemas de software están interconectados con sistemas físicos. El malware puede utilizarse para habilitar el acceso a sistemas que pueden abrir otros riesgos, como aumentar químicos en las instalaciones de distribución de agua para envenenar a grandes partes de la población mediante la manipulación de los sistemas de agua. Esto se ha intentado en Florida (2021), California (2021), Israel (2020) y EE. UU. (2016) (Sikder et al., 2023).  
+
+Gestión de Riesgos  
+La defensa contra el malware requiere, primero, la concienciación del usuario, ya que la mayoría del malware se activa tras una entrada generada por el usuario (como hacer clic en enlaces fraudulentos o comprometidos). Las medidas técnicas, que incluyen el uso de software antivirus y anti-malware, actualizaciones y parches regulares del sistema, y la segmentación de redes, pueden proporcionar capas adicionales de protección, pero no deben considerarse una alternativa a la concienciación del usuario.  
+
+Monitoreo  
+El monitoreo de amenazas se lleva a cabo a nivel internacional, nacional, sectorial y organizacional, donde la información sobre la identificación de malware se comparte mediante diversos mecanismos para mitigar los riesgos.  
+
+Referencias  
+Unión Internacional de Telecomunicaciones (UIT), 2008. Estudio de la UIT sobre los aspectos financieros de la seguridad de la red: Malware y Spam. Ginebra: UIT.  
+Liu, S., Peng, G., Zeng, H. y Fu, J., 2024. Un estudio sobre la evolución de ataques sin archivos y técnicas de detección. [en línea] Accedido el 16 de enero de 2025.  
+Milošević, N., 2014. Historia del malware. [en línea] Accedido el 16 de enero de 2025.  
+Sikder, M.N.K., Nguyen, M.B.T., Elliott, E.D. y Batarseh, F.A., 2023. Deep H2O: Detección de ciberataques en sistemas de distribución de agua mediante aprendizaje profundo. Journal of Water Process Engineering, 52, 103568 [en línea]. DOI: 10.1016/j.jwpe.2023.103568. Accedido el 16 de enero de 2025.  
+Statista, sin fecha. Número anual de nuevas variantes de malware detectadas en todo el mundo de 2019 a 2023. [en línea] Accedido el 16 de enero de 2025.  
+Zetter, K., 2014. Una mirada sin precedentes a Stuxnet, la primera arma digital del mundo. Wired. [en línea] Accedido el 16 de enero de 2025.  
+
+Cite this [Copy citation]

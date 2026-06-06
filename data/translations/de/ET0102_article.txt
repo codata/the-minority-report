@@ -1,0 +1,60 @@
+Definition  
+Ionospherische Störungen beziehen sich auf den Zustand der Ionosphäre, der durch unregelmäßige Schwankungen ionosphärischer Parameter ohne ein systematisches Muster gekennzeichnet ist. Diese Störungen können unterschiedliche räumlich‑zeitliche Skalen aufweisen und unterschiedliche Merkmale an verschiedenen geografischen Standorten haben. Verschiedene ionosphärische Störungen bergen unterschiedliche Risiken für verschiedene Anwendungen (WMO, 1992).
+
+Primary reference(s)  
+WMO, 1992. International Meteorological Vocabulary. World Meteorological Organization (WMO), Report No. 182. Accessed 31 January 2025.
+
+Annotations  
+Additional scientific description  
+Ionospherische Störungen können aus Ereignissen der Weltraumwetterentwicklung entstehen, einschließlich Sonnenflares, Solarpartikelsevents, geomagnetischen Stürmen und ionosphärischem Vorumkehr-Enhancement, insbesondere nachts lokal, aufgrund schneller vertikaler ionosphärischer Drift. Diese Störungen können die Funkwellensignalübertragung stark beeinträchtigen, insbesondere in hohen Breiten (AMS, 2012). Die Ionosphäre, ein Teil der oberen Atmosphäre der Erde, spielt eine entscheidende Rolle bei der Reflexion und Modifikation von Funksignalen für Kommunikation, Navigation und Radarspurung von Weltraumobjekten. Die Luft in der Ionosphäre ist ionisiert. Große Mengen freier Elektronen sind im Bereich von 10³ – 10⁶ pro 1 cm³ vorhanden. Die Elektronenkonzentration hängt von der ionosphärischen Region und den geophysikalischen Bedingungen ab. Die Sonne, die X‑Rays und ultraviolette Strahlung emittiert, ist die primäre Ionisationsquelle. Freie Elektronen ermöglichen die Reflexion von Funksignalen in der Ionosphäre, was die Langstreckenfunksignalübertragung durch Reflexionen von ionosphärischen Regionen und der Erdoberfläche erleichtert. Die Elektronenkonzentration in der Ionosphäre unterliegt Veränderungen unterschiedlicher räumlich‑zeitlicher Skalen, von denen die meisten von Schwankungen in solarer UV‑ und X‑Ray‑Fluxen abhängen. Diese Flux‑Variation führt zu entsprechenden Änderungen in der ionosphärischen Dichte. Partikelpräzipitation, insbesondere in hohen Breiten, beeinflusst das Verhalten der Ionosphäre erheblich. Die Ionosphäre besteht aus den D, E, F1 und F2 Regionen, mit lokalen Maxima der Elektronendichte. Die F‑Region, die die Hauptmaxima der Elektronendichte in der Ionosphäre beherbergt, ist besonders bemerkenswert. Solarstrahlung beeinflusst die Ionisation, sodass der vom Sonnenlicht abgewandte Pol im Vergleich zur Tagesseite anders wirkt, und der Pol, der zur Sonne zeigt (NOAA, 2019b). Solarproton‑Bursts und Partikelpräzipitation verursachen Effekte in der Ionosphäre, vor allem in hohen Breiten. Die Auswirkungen von Solarproton‑Bursts und auroralem Präzipitation können insbesondere in hohen Breiten und in den Polarkappen beobachtet werden. Eine ionosphärische Sturm, sei es positiv oder negativ, ist eine spezifische Art ionosphärischer Störung, die durch einen Anstieg oder Abfall der Elektronenkonzentration innerhalb der F2‑Region während und/oder nach einem geomagnetischen Sturm im Vergleich zu ihren ruhigen Werten gekennzeichnet ist. Ionosphärische Störungen sind eine Kombination von ionosphärischen und atmosphärischen Phänomenen, die von verschiedenen Faktoren beeinflusst werden, einschließlich der Koordinaten des Beobachtungspunkts, der lokalen Zeit, der Jahreszeit und anderer Bedingungen.
+
+Metrics and numeric limits  
+Aufgrund ihrer hohen regionalen Spezifität gibt es keinen globalen Index/Skala für ionosphärische Störungen. Die Auswirkungensschätzung für jede Region basiert auf regionalen Diagnostiken. Die von der Internationalen Zivilluftfahrtorganisation (ICAO) bestimmten Weltraumwetterzentren werden erwartet, den Fluggesellschaften Aufzeichnungen über anomale Bedingungen in der HF-Kommunikation und in der GNSS-Leistung basierend auf den folgenden Parametern und Schwellenwerten zu geben (ICAO, 2019):
+
+Impact Parameter | MOD | SEV | GNSS Ampl. Scint. S | 40 | 50 | 8  
+GNSS Phase Scint. | σφ | 0.4 rad | 0.7 rad  
+Ionospheric delay in GNSS signal | Total Electron Content | 125 TECU (1 TECU = 10¹⁶ el/m²) | 175 TECU  
+Polar Cap Absorption of HF waves | Cosmic Noise Absorption by ionospheric D‑layer | 2 dB | 5 dB  
+Post Storm Depression of HF reflectivity | Decrease in the Maximum Usable Frequency | 30 % | 50 %
+
+Key relevant UN convention / multilateral treaty  
+Sendai Framework for Disaster Risk Reduction 2015‑2030.
+
+Drivers  
+Treiber, unter anderem, umfassen die Sonnenaktivität: Viele ionosphärische Störungen werden durch die Sonnenaktivität verursacht, einschließlich Sonnenflares, Solarpartikelsevents und koronaler Massenauswürfe. Zunahme der Sonnenaktivität kann zu häufigeren und intensiveren ionosphärischen Stürmen führen. Schnelle Sonnengeschwindigkeitsströmungen, die Interaktionsregionen im Sonnengewässer erzeugen, können ebenfalls ionosphärische Störungen antreiben. Unregelmäßige Treiber umfassen intensive troposphärische Konvektionsprozesse, seismische Aktivität, künstliche Explosionen und Sonnenfinsternisse.
+
+Impacts  
+Störung der Funkkommunikation: Ionosphärische Störungen können die Funkwellensignalübertragung im Himmel beeinflussen, was zu einer Qualitätsverschlechterung oder zum Ausfall von Kommunikationsverbindungen in den betroffenen Regionen führt. Insbesondere kann es die HF (High‑Frequency)-Funkkommunikation beeinträchtigen, die für die Luftfahrt, maritime Operationen und Notdienste von entscheidender Bedeutung ist. Dies kann die Kommunikation des Flugsicherungsdienstes, die Flugzeug‑zu‑Flugzeug-Kommunikation und andere auf Funk basierende Systeme, die in der Luftfahrt verwendet werden, beeinträchtigen.  
+
+Navigationsfehler: Ionosphärische Störungen können zudem Fehler in GNSS‑Signalen einführen, wodurch die Genauigkeit und Zuverlässigkeit von Global Navigation Satellite Systems (GNSS) beeinträchtigt werden, was Fehler in Positionsbestimmung, Navigation und Zeitsystemen verursacht.  
+
+Satellitenabtrieb: Ionosphärische Störungen erhöhen den atmosphärischen Abtrieb von Satelliten im niedrigen Erdorbit, verändern die Orbitaldynamik und verkürzen potenziell die Lebensdauer der Satelliten. Sie können kurzfristige, erhebliche Temperatur- und Dichteerhöhungen in der oberen Atmosphäre verursachen, die den Abtrieb erhöhen und die Orbitveränderungen verstärken.  
+
+Herausforderungen für radiowissenschaftliche Beobachtungen und andere Weltraumforschungstätigkeiten, da die präzise Signalübertragung und -empfang durch die Ionosphäre beeinträchtigt werden. GNSS‑Navigationsstörungen wirken sich auf Branchen aus, die auf präzises Positionieren angewiesen sind, wie Bauwesen, Landwirtschaft und Logistik. Die Katastrophen- und Notfallreaktion leidet unter Verzögerungen aufgrund kompromittierter Kommunikationskanäle, was die Koordination bei Naturkatastrophen oder Krisen beeinträchtigt.  
+
+Multi-hazard context  
+Die nachstehende Abbildung fasst die häufigen Wechselwirkungen zwischen ionosphärischen Störungen und anderen Gefahren zusammen. Diese Informationen sollten mit Vorsicht verwendet und nicht ausschließlich für das Katastrophenrisikomanagement herangezogen werden, insbesondere da einige Wechselwirkungen möglicherweise nicht berücksichtigt wurden. Beachten Sie, dass gefährliche Ereignisse, die gleichzeitig oder lokal im Raum oder in der Zeit auftreten, nicht zwangsläufig miteinander verbunden, verstärkt oder sonst miteinander in Beziehung stehen müssen. Spezifische Beispiele für den Multi‑Hazard-Kontext finden sich in den Abschnitten „Gefahren‑Treiber“ und „Auswirkungen“ oben.
+
+Multi-hazard diagram  
+
+Risk Management  
+Weltraumwetterüberwachung: Eine Reihe von Organisationen überwachen die Bedingungen und stellen Warnungen und Vorhersagen zu ionosphärischen Stürmen bereit. Dies ermöglicht den Stakeholdern, sich der potenziellen Auswirkungen bewusst zu sein und die notwendigen Vorsichtsmaßnahmen zu treffen.  
+Flugumleitung und Verschiebung: In Fällen, in denen ionosphärische Störungen ein erhebliches Risiko für die Luftfahrtoperationen darstellen, können Flüge zu alternativen Routen umgeleitet oder verschoben werden, bis der Sturm abklingt. Dies hilft, die potenziellen Auswirkungen von gestörter Funkkommunikation und Navigationsfehlern zu mildern.  
+Fluggesellschaften und Luftfahrtorganisationen implementieren Minderungstrategien, um die Auswirkungen ionosphärischer Störungen zu minimieren. Dazu gehört die Einführung alternativer Kommunikationssysteme, die Nutzung von Backup‑Navigationsmethoden und die Schulung von Piloten und Flugsicherungsleitern im Umgang mit Weltraumwetterbedingten Störungen.  
+Satelliten benötigen Abschirmung und Überspannungsschutz, um empfindliche Elektronik zu schützen. Etablieren Sie redundante Bodendepots an geografisch unterschiedlichen Standorten, um die Satellitenkommunikation aufrechtzuerhalten, auch wenn ein Depot von ionosphärischen Störungen betroffen ist.  
+Entwickeln Sie Redundanz in Kommunikationsverbindungen, indem Sie vielfältige Frequenzbänder, Kommunikationswege und Übertragungsmodi nutzen. Dies gewährleistet, dass alternative Kanäle schnell aktiviert werden können, wenn die primären Kommunikationsverbindungen unterbrochen sind.  
+Atmosphärendichte: Verschiedene Organisationen bieten Dienste für atmosphärische Bedingungen an, die vom Weltraumwetter beeinflusst werden.
+
+Monitoring  
+Weltraumwetterdienste der Internationalen Raumklimadienste (ISES) stellen Warnsysteme für spezifische Nutzer in ihren Ländern bereit. Die von der Internationalen Zivilluftfahrtorganisation (ICAO) bestimmten Weltraumwetterzentren veröffentlichen Warnhinweise über ionosphärische Störungen für Fluggesellschaften.
+
+References  
+AMS, 2012. Ionospheric storm. Glossary of Meteorology, American Meteoroidal Society (AMS). Accessed 31 January 2025.  
+ESA, no date. Federated products from the UK Met Office (UKMO). ESA Space Weather Service Network. Accessed 31 January 2025.  
+ISES, 2019. Ionospheric storm scale. International Space Environment Service (ISES). Accessed 31 January 2025.  
+NOAA, 2019a. Ionosphere. Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA). Accessed 31 January 2025.  
+NASA, 2019a. Ionosphere. Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA). Accessed 25 November 2019.  
+NOAA, 2019b. Space Weather Glossary. Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA). Accessed 31 January 2025.  
+NOAA Space Weather Prediction Center. Satellite Drag. Accessed 31 January 2025.  
+
+Cite this [Copy citation]

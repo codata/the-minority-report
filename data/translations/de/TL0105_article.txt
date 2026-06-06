@@ -1,0 +1,62 @@
+Definition
+Ein Supply-Chain-Angriff liegt vor, wenn Produkte, Dienstleistungen oder Technologien, die Sie erhalten, kompromittiert oder verletzt wurden und anschließend dazu verwendet werden, Ihre eigenen Systeme zu infiltrieren und weiter zu kompromittieren (ICO, kein Datum).
+
+Primary reference(s)
+ICO, kein Datum, Supply Chain Attack. Zugriff am 25. Januar 2025.
+
+Annotations
+Zusätzliche wissenschaftliche Beschreibung
+In der Cybersicherheit beziehen sich Supply-Chain-Angriffe auf die Ausnutzung von Sicherheitsschwachstellen innerhalb der Lieferkette einer Organisation, um deren Systeme und Netzwerke zu infiltrieren. Angreifer zielen auf weniger sichere Elemente der Lieferkette ab – wie Drittanbieter, Lieferanten oder Dienstleister wie Cloud-Anbieter – mit dem Ziel, das Endziel zu kompromittieren, indem sie die Vernetzung moderner digitaler Ökosysteme nutzen. Diese Methode ermöglicht es Angreiferinnen und Angreifern, traditionelle Sicherheitsmaßnahmen zu umgehen, indem sie vertrauenswürdige Beziehungen ausnutzen.
+
+Die Geschichte der Supply-Chain-Angriffe hat sich parallel zur zunehmenden Komplexität globaler Lieferketten entwickelt. Bedeutende frühe Fälle umfassen den Angriff 2011 auf RSA Security, bei dem Angreifer über einen Lieferanten SecurID-Token kompromittierten, um Verteidigungsunternehmen zu verletzen (Greenberg, 2021). In jüngerer Zeit zeigte der SolarWinds-Angriff 2020 die gravierenden Auswirkungen solcher Sicherheitsverletzungen. In diesem Vorfall haben ausgeklügelte Bedrohungsakteure bösartigen Code in die Software-Updates des Unternehmens eingefügt, wodurch zahlreiche Regierungs- und Privatorganisationen weltweit betroffen waren und die inhärenten Schwachstellen in Lieferketten hervorgehoben wurden (Williams, 2020).
+
+Verschiedene Techniken kommen bei Supply-Chain-Angriffen zum Einsatz. Dazu gehören die Manipulation von Software-Updates (wie beim SolarWinds-Angriff), das Kompromittieren von Code-Repositories, die Infektion von Hardware-Komponenten während der Herstellung und die Ausnutzung von Schwachstellen in Drittanbieterdiensten. Angreifer können bösartigen Code in legitime Software-Updates einfügen oder Hintertüren in Hardware-Geräten nutzen, um unautorisierten Zugriff zu erlangen.
+
+Viele Organisationen verlassen sich auf Drittanbieterdienstleister zur Verwaltung ihrer Cloud-Umgebungen, was Angreifer dazu veranlasst hat, sich auf diese Anbieter in einer einzigartigen Form von Supply-Chain-Angriffen – identitätsbasierten Angriffen – zu konzentrieren. Diese Angriffe nutzen die umfangreichen Berechtigungen, die Dienstleisterkonten oft erhalten, die Zugriff auf mehrere Kundenumgebungen haben können. Dieser vernetzte Zugriff erhöht die potenzielle Auswirkung einer Kompromittierung und macht Dienstleister zu einem attraktiven Ziel (Microsoft, 2023).
+
+Einer der bedeutendsten Supply-Chain-Angriffe stammt aus Open-Source-Software. Open-Source-Communities bieten zahlreiche Module und Pakete, die weltweit von Unternehmen genutzt werden, einschließlich solcher in Lieferketten. Da Open-Source-Software jedoch oft keine klare Eigentümerschaft und keine garantierte Sicherheit aufweist, führt sie häufig Schwachstellen in Sicherheitsarchitekturen ein (Forbes, 2022). Eine weitere prominente Technik bei Supply-Chain-Angriffen besteht darin, Updates zu hijacken und die Code-Signierung zu kompromittieren.
+
+Softwareanbieter verteilen routinemäßig Updates von zentralisierten Servern, um ihre Produkte zu warten und zu verbessern. Bedrohungsakteure können diesen Prozess ausnutzen, indem sie das Netzwerk des Anbieters infiltrieren, um Malware in ein Update einzufügen oder es zu modifizieren, um unautorisierten Zugriff auf die Funktionalität der Software zu erlangen. Die Code-Signierung, ein Mechanismus zur Überprüfung der Authentizität und Integrität von Software, ist ein weiteres kritisches Ziel. Schädliche Akteure untergraben diesen Prozess, indem sie selbstsignierte Zertifikate verwenden, falsch konfigurierte Zugriffskontrollen ausnutzen oder Signiersysteme kompromittieren.
+
+Durch das Vortäuschen vertrauenswürdiger Anbieter und das Einbetten von bösartigem Code in Updates können Angreifer hochgradig täuschende und schädliche Angriffe erfolgreich durchführen (NIST, 2021). Im Jahr 2023 kompromittierten Angreifer die Desktop-App von 3CX über infizierte Installer und verbreiteten Malware über ein weit verbreitetes VoIP-System (Fortiguard, 2023).
+
+Schädliche Akteure verlassen sich zunehmend auf Supply-Chain-Angriffe, da sie hohe Auswirkungen haben und schwer zu erkennen sind. Die Komplexität moderner Lieferketten und die Abhängigkeit von Drittanbietern schaffen zahlreiche Ausnutzungsmöglichkeiten, wodurch Supply-Chain-Angriffe ein erhebliches Anliegen in der Cybersicherheit darstellen. Gleichzeitig sind Supply-Chain-Angriffe oft zielgerichtet. Daher können (in der Regel) nur Akteure mit höheren Ressourcen und Fähigkeiten sie durchführen.
+
+Metrics and numeric limits
+Nicht zutreffend.
+
+Key relevant UN convention / multilateral treaty
+Internationale Rechtsinstrumente, die sich mit Supply-Chain-Angriffen befassen, sind Teil breiterer Cybersicherheits- und Cyberkriminalitätsrahmen. Die Budapest-Konvention der Europäischen Union zur Bekämpfung von Cyberkriminalität bietet Leitlinien für die internationale Zusammenarbeit bei der Bekämpfung von Cyberkriminalität, einschließlich Straftaten, die Supply-Chain-Angriffe umfassen könnten.
+
+Drivers
+Diese Angriffe, die die Ausnutzung oder Veränderung von Drittanbieter-Software, Hardware oder Anwendungen beinhalten, stellen eine erhebliche Herausforderung für Organisationen dar.
+
+Impacts
+Betrug, Diebstahl
+
+Multi-hazard context
+Nicht zutreffend
+
+Risk Management
+Die Verteidigung gegen Supply-Chain-Angriffe erfordert einen umfassenden Ansatz, der die gründliche Überprüfung von Lieferanten, die Implementierung strenger Sicherheitsstandards, kontinuierliches Monitoring und die Förderung der Zusammenarbeit zwischen Organisationen und ihren Partnern umfasst. Da viele Angriffe auf externe Anbieter mit komplexen Abhängigkeiten in ihren Tools und Dienstleistungen angewiesen sind, kann ein vollständiger Schutz schwierig sein. Organisationen können jedoch proaktive Strategien anwenden, um sich gegen häufige Angriffswerte zu verteidigen (Cloudflare, kein Datum).
+
+Durchführung einer Drittanbieter-Risk-Bewertung: Dies beinhaltet das Testen von Drittanbieter-Software vor dem Einsatz, die Forderung an Anbieter, spezifische Sicherheitsrichtlinien einzuhalten, die Implementierung einer Content Security Policy (CSP) zur Kontrolle ausführbarer Ressourcen im Browser und die Nutzung von Subresource Integrity (SRI), um verdächtigen JavaScript-Inhalt zu erkennen.
+
+Implementierung von Zero Trust: Zero Trust stellt sicher, dass alle Benutzer – Mitarbeiter, Auftragnehmer und Lieferanten – kontinuierlich innerhalb des Netzwerks der Organisation verifiziert und überwacht werden. Durch die Überprüfung der Identität und der Berechtigungen von Benutzern und Geräten verhindert Zero Trust, dass Angreifer gestohlene legitime Benutzeranmeldeinformationen nutzen, um die Organisation zu infiltrieren.
+
+DevSecOps: Die Supply-Chain-Sicherheit nutzt DevSecOps, um sich gegen Angriffe zu verteidigen, indem zunächst alle Komponenten entdeckt, Transparenz in der Lieferkette geschaffen und cloud-native Anwendungs­komponenten gesichert werden. Durch die Integration von Sicherheit in den gesamten Entwicklungsprozess gewährleistet DevSecOps die Echtzeit-Bereitstellung von Sicherheitsmaßnahmen, während es sich nahtlos an die Geschäftsziele anpasst (GitLab, kein Datum).
+
+Monitoring
+Nicht zutreffend
+
+References
+Cloudflare, kein Datum. Was ist ein Supply-Chain-Angriff? Zugriff am 16. Januar 2025.
+Forbes, 2022. Das Risiko von Supply-Chain-Angriffen im Zeitalter der Cloud-Computing reduzieren. Zugriff am 15. Januar 2025.
+FortiGuard Labs, 2023. Threat Signal Report: Supply Chain Attack Through 3CX Desktop App. Zugriff am 15. Januar 2025.
+GitLab, kein Datum. Was ist DevSecOps? Zugriff am 16. Januar 2025.
+Greenberg, A., 2021. Die komplette Geschichte des erstaunlichen RSA-Hacks kann endlich erzählt werden. Zugriff am 15. Januar 2025.
+Information Commissioner’s Office (ICO), kein Datum. Supply-Chain-Angriffe. Zugriff am 15. Januar 2025.
+Microsoft, 2023. Ankündigung der Microsoft Defender for Cloud-Funktionen zur Bekämpfung von identitätsbasierten Supply-Chain-Angriffen. Microsoft Tech Community. Zugriff am 15. Januar 2025.
+National Institute of Standards and Technology (NIST), 2021. Verteidigung gegen Software Supply-Chain-Angriffe. Zugriff am 16. Januar 2025.
+Williams, J., 2020. Was Sie über den SolarWinds-Supply-Chain-Angriff wissen müssen. SANS Institute.
+Zitieren Sie dies [Zitation kopieren]

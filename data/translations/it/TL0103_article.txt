@@ -1,0 +1,59 @@
+DEFINIZIONE  
+Una minaccia avanzata è creata da un avversario con livelli sofisticati di competenza e risorse significative, che gli consente, tramite l'uso di molteplici vettori di attacco diversi (ad esempio, cibernetico, fisico e di inganno), di generare opportunità per raggiungere i propri obiettivi (NIST, 2012).  
+
+RIFERIMENTI PRINCIPALI  
+National Institute for Standards and Technology (NIST), 2012. Guida alla conduzione delle valutazioni del rischio. DOI:10.6028/NIST.SP.800-30r1. Consultato il 25 gennaio 2025.  
+
+ANNOTAZIONI  
+**Descrizione scientifica aggiuntiva**  
+Una Minaccia Persistente Avanzata (APT) nella cybersecurity si riferisce a un attacco informatico prolungato e mirato in cui, spesso, un utente non autorizzato ottiene l'accesso a una rete e rimane non rilevato per un periodo prolungato. L'obiettivo principale delle APT è tipicamente osservare l'attività della rete, rubare dati o causare interruzioni, piuttosto che infliggere danni immediati. Questa minaccia è considerata “avanzata” a causa delle tecniche sofisticate impiegate per sfruttare le vulnerabilità, e “persistente” a causa dello sforzo continuo per raggiungere un obiettivo specifico. Uno degli incidenti APT più antichi riconosciuti è stato l'attacco Titan Rain tra il 2003 e il 2006, in cui gli aggressori hanno infiltrato le reti di difesa degli Stati Uniti per rubare informazioni sensibili (Council of Foreign Relations 2005). La scoperta del worm Stuxnet nel 2010 ha segnato un'elevata escalation, dimostrando la capacità delle APT di causare danni fisici puntando i centrifugi nucleari dell’Iran (Zetter 2014). Un altro esempio notevole è l’attacco Operation Aurora del 2009, che ha mirato a diverse aziende, tra cui Google, per accedere alla proprietà intellettuale e agli account email di attivisti (Council of Foreign Relations 2010). Incidenti recenti, come SolarWinds (2020) e le campagne di Nobelium (2022), esemplificano tecniche APT in evoluzione mirate a catene di approvvigionamento e infrastrutture cloud (Ghanbari et al., 2024). Le APT impiegano un’ampia gamma di tecniche per raggiungere i loro obiettivi. Questi attacchi sono progettati intorno alle caratteristiche dei loro bersagli e possono assumere molte forme. Spesso iniziano con un’intrusione nel sistema target utilizzando spear‑phishing, vulnerabilità zero‑day (difetti di sicurezza sconosciuti) o altre tecniche avanzate per infiltrarsi nei sistemi senza essere rilevati. Una volta dentro, gli aggressori possono rimanere silenziosi, monitorando il traffico e raccogliendo informazioni, o possono usare il movimento laterale per navigare nella rete, utilizzando l’escalation dei privilegi per accedere a aree sensibili. La persistenza è mantenuta tramite l’installazione di backdoor e rootkit, consentendo l'accesso continuo e l’estrazione dei dati senza scatenare allarmi di sicurezza. Gli attori malevoli, in particolare i gruppi statali e i cybercriminali organizzati, si affidano frequentemente alle APT per la loro efficacia nel raggiungere obiettivi strategici a lungo termine. Sebbene meno comuni degli attacchi a massa come il ransomware, le APT rappresentano una percentuale significativa degli incidenti cyber ad alto impatto. La loro complessità e il potenziale di danni sostanziali le rendono i metodi preferiti per l’elicottero, il furto di proprietà intellettuale o il sabotaggio.  
+
+METRICHE E LIMITI NUMERICI  
+Non applicabile.  
+
+CONVENZIONI RILEVANTI DELL'ONU / TRATTATI MULTILATERALI  
+Gli strumenti legali internazionali che trattano le APT sono inclusi all’interno dei più ampi framework di cybersecurity e cybercrime. La Convenzione di Budapest del Consiglio d'Europa sul Cybercrime fornisce una base per la cooperazione internazionale nella lotta contro i reati informatici, inclusi quelli che coinvolgono le APT.  
+
+Le risoluzioni delle Nazioni Unite sulla cybersecurity incoraggiano gli Stati membri ad adottare misure per proteggere le infrastrutture critiche e promuovere lo scambio di informazioni per prevenire minacce informatiche. Tuttavia, l’assenza di trattati specifici incentrati esclusivamente sulle APT evidenzia le difficoltà nell’affrontare minacce così sofisticate ed evolutive a livello globale.  
+
+Poiché le APT sono spesso condotte da attori statali, la loro regolamentazione rientrerebbe nel campo del diritto pubblico internazionale.  
+
+FATTORI TRAINANTI  
+Non applicabile.  
+
+IMPATTI  
+Non applicabile.  
+
+CONTEXTO MULTI-PERICOLO  
+Non applicabile.  
+
+GESTIONE DEL RISCIO  
+Difendere contro un'APT è un compito complesso, considerando la quantità di tempo, risorse e sforzi che l'aggressore è disposto a investire per compiere la propria operazione. Inoltre, data la varietà di approcci che un'APT può adottare, è difficile prescrivere in anticipo strategie per ridurre il rischio applicabili a tutti i casi. La natura complessa ed evolutiva delle APT richiede un approccio di difesa su misura e adattivo, poiché nessuna soluzione singola può affrontare tutte le potenziali minacce. Invece, le organizzazioni devono integrare molteplici strategie per garantire una protezione robusta. Secondo Asharani et al. (2019), le strategie di difesa contro le Minacce Persistenti Avanzate (APT) sono suddivise in tre gruppi principali: monitoraggio, rilevamento e mitigazione. Ognuno di essi svolge un ruolo critico nella riduzione del rischio di accesso non autorizzato.  
+
+**Metodologie di monitoraggio:** Queste prevedono l’uso di strumenti come firewall e software antivirus per osservare varie parti del sistema. I firewall avanzati sono in grado di analizzare il traffico alla ricerca di modelli e firme malevoli conosciuti, nonché di impiegare l’analisi comportamentale per rilevare attività anomale. Inoltre, il monitoraggio dell’utilizzo della CPU è importante, poiché modelli inusuali nell’utilizzo delle risorse possono indicare comportamenti sospetti.  
+
+**Metodologie di rilevamento:** Queste includono l’impiego di varie metodologie di rilevamento di anomalie, come l’analisi statica, le reti neurali e gli approcci di apprendimento automatico (Hodge e Austin et al., 2004). Queste tecniche aiutano a identificare le APT che persistono nel medio e lungo termine. Per esempio, un Sistema di Rilevazione delle Intrusioni (IDS) può analizzare il traffico di rete per individuare attività insolite e avvisare i team di sicurezza di potenziali minacce.  
+
+**Metodologia di mitigazione:** La mitigazione delle APT può essere ottenuta tramite approcci reattivi e proattivi. I metodi reattivi prevedono l’identificazione di percorsi di attacco e vulnerabilità potenziali in un dato momento, la previsione delle aree critiche e la valutazione della loro gravità. Le strategie proattive, al contrario, si concentrano sull’ingannare gli aggressori. Queste tecniche mirano a fuorviare gli intrusi e a costringerli a modificare le loro strategie di attacco, riducendo così l’impatto della minaccia.  
+
+MONITORAGGIO  
+Non applicabile.  
+
+RIFERIMENTI  
+Alshamrani, A., Myneni, S., Chowdhary, A. e Huang, D., 2019. Una panoramica sulle minacce persistenti avanzate: Tecniche, soluzioni, sfide e opportunità di ricerca. in IEEE Communications Surveys & Tutorials, vol. 21, no. 2, pp. 1851-1877, Secondo trimestre 2019, doi: 10.1109/COMST.2019.2891891. Consultato il 16 gennaio 2025.  
+
+Brandao, P.R. e Limonova, V., 2021. Metodologie di difesa per le minacce persistenti avanzate (APTs). American Journal of Applied Sciences 2021. DOI:10.3844/ajassp.2021.207.212. Consultato il 16 gennaio 2025.  
+
+Council on Foreign Relations (CFR), 2005. Titan Rain. Consultato il 16 gennaio 2025.  
+
+Council on Foreign Relations (CFR), 2010. Operation Aurora. Consultato il 16 gennaio 2025.  
+
+Ghanbari, H., Koskinen, K. e Wei, Y., 2024. Da SolarWinds a Kaseya: l’ascesa degli attacchi alla catena di approvvigionamento in un mondo digitale. Journal of Information Technology Teaching Cases, 0(0). DOI: 10.1177/20438869241299823. Consultato il 16 gennaio 2025.  
+
+Hodge, V.J. e Austin, J., 2004. Un sondaggio sulle metodologie di rilevamento delle anomalie. Artificial Intelligence Review, 22, pp.85-126. Consultato il 16 gennaio 2025.  
+
+National Institute of Standards and Technology (NIST), 2012. Pubblicazione speciale 800-30 Revision 1: Guida alla conduzione delle valutazioni del rischio. Gaithersburg, MD: U.S. Department of Commerce. Consultato il 16 gennaio 2025.  
+
+Zetter, K., 2014. Una prospettiva senza precedenti su Stuxnet, la prima arma digitale del mondo. WIRED Magazine. Consultato il 16 gennaio 2025.  
+
+CITA QUESTO [COPIA CITAZIONE]

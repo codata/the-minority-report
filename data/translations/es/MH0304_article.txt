@@ -1,0 +1,48 @@
+Definition  
+Una squall es un fenómeno atmosférico caracterizado por una variación muy grande de la velocidad del viento: comienza de forma súbita, dura el orden de minutos y disminuye de forma brusca en velocidad. Frecuentemente se acompaña de lluvia o tormenta (OMM, 2018).  
+
+Primary reference(s)  
+OMM, 2018. Manual on Codes, International Codes, Volume I.2. OMM-No. 306. World Meteorological Organization (WMO). Accedido 16 mayo 2025.  
+
+Annotations  
+Additional scientific description  
+El Servicio Meteorológico Nacional (NOAA) describe una squall de la siguiente manera (NOAA, 2019):  
+Una fuerte ráfaga de viento caracterizada por un inicio repentino en el que la velocidad del viento aumenta a al menos 16 nudos y se mantiene a 22 nudos o más durante al menos un minuto. En uso náutico, una tormenta local severa considerada en su conjunto, es decir, vientos, masa de nubes y (si las hay) precipitación, truenos y relámpagos.  
+La Sociedad Meteorológica Americana (AMS) describe una squall de la siguiente manera (AMS, 2012):  
+Una ráfaga de viento caracterizada por un inicio repentino, una duración de minutos y luego una disminución súbita de velocidad. En la práctica observacional de EE. UU., una squall se reporta solo si una velocidad de viento de 16 nudos o más se mantiene durante al menos dos minutos (diferenciándola así de un granizo). En uso náutico, una tormenta local severa considerada en su conjunto, es decir, vientos y masa de nubes y (si las hay) precipitación, truenos y relámpagos.  
+
+Metrics and numeric limits  
+No disponible.  
+
+Key relevant UN convention / multilateral treaty  
+Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030.  
+
+Drivers  
+Las squalls ocurren durante tormentas eléctricas.  
+
+Impacts  
+Las squalls son cambios súbitos en las condiciones del viento. En general, una squall puede no ser muy fuerte y durar solo un corto tiempo. Sin embargo, debido a su imprevisibilidad y llegada repentina, las squalls representan una amenaza para las operaciones marinas que requieren un estado de mar relativamente tranquilo (Lu et al., 2018). La salud humana puede verse gravemente afectada por los peligros relacionados con el viento, como squalls y tormentas de viento. Los efectos directos ocurren durante la fase de impacto de la tormenta, causando muerte y lesiones por la fuerza del viento. Convertirse en aire, ser golpeado por escombros voladores o árboles caídos y accidentes de tráfico son los principales peligros. Los efectos indirectos, que ocurren durante las fases previas y posteriores al impacto de la tormenta, incluyen caídas, laceraciones y heridas punzantes, y ocurren al prepararse o limpiar después de una tormenta. Los apagones son un problema clave y pueden llevar a electrocución, incendios y quemaduras y envenenamiento por monóxido de carbono (CH0302) de generadores eléctricos alimentados por gasolina. Además, la empeoración de enfermedades crónicas por falta de acceso a atención médica o medicación puede ocurrir. Otros impactos en la salud incluyen infecciones y picaduras de insectos (Goldman et al., 2014).  
+
+Multi-hazard context  
+La figura de abajo resume las interacciones comunes entre squalls y otros peligros. Esta información debe usarse con cautela y no depender únicamente de ella en la Gestión del Riesgo de Desastres, particularmente porque algunas interacciones pueden no haber sido incluidas. Tenga en cuenta que los eventos peligrosos que ocurren juntos o localmente en espacio o tiempo no necesariamente causan, amplían o están de otro modo relacionados entre sí. Ejemplos específicos de contexto de multi-peligro se pueden encontrar en las secciones “Drivers” e “Impacts” anteriores.  
+
+Multi-hazard diagram  
+
+Risk Management  
+No Information Available  
+
+Monitoring  
+La sección anterior y la tabla a continuación ofrecen una visión general de la monitorización de tornados. Esta información puede usarse para la previsión dentro de un sistema de alerta temprana nacional (EWS). Dado que las capacidades y procesos de EWS difieren entre países, la información más actual y específica sobre el EWS debe obtenerse de la agencia/autorización nacional o regional adecuada responsable de la gestión de desastres.  
+
+Which institution(s) produce(s) Disaster Risk Data/Information?  
+Agencias de gestión de desastres nacionales, subnacionales y locales responsables de la monitorización de squalls, emisión de alertas y coordinación de esfuerzos de respuesta de emergencia. Servicios meteorológicos que rastrean las condiciones atmosféricas que contribuyen a la formación de squalls usando satélites y radar Doppler para detectar el desarrollo de tormentas y las velocidades del viento. Agencias de transporte e infraestructura que evalúan riesgos para carreteras, puentes, ferrocarriles y aeropuertos por vientos extremos y escombros. Empresas de energía y servicios públicos que monitorean riesgos para redes eléctricas, turbinas eólicas e infraestructura eléctrica debido a vientos fuertes y escombros caídos. Autoridades de salud que evalúan riesgos de seguridad pública, incluyendo lesiones por escombros voladores, colapsos estructurales y necesidades de respuesta médica de emergencia. Investigadores y académicos, incluidos meteorólogos y climatólogos, que estudian la formación de squalls, la dinámica, los efectos de la fricción del viento y mejoras en la previsión.  
+
+How is the Hazard Observed/Monitored/Forecast?  
+Las squalls se monitorean mediante radar Doppler, satélites meteorológicos y otras tecnologías de teledetección que rastrean formaciones de nubes, patrones de viento y actividad de rayos. Los meteorólogos evalúan las condiciones atmosféricas, incluyendo temperatura, humedad y fricción del viento, para predecir el desarrollo e intensidad de las squalls. Al integrar modelos numéricos meteorológicos avanzados con datos observacionales en tiempo real, los pronosticadores pueden mejorar la precisión de las predicciones de squalls y rastrear su movimiento. Esto permite advertencias oportunas para mitigar riesgos a la aviación, infraestructura y comunidades de peligros asociados como lluvias intensas, vientos fuertes, rayos e granizo.  
+
+References  
+Sociedad Meteorológica Americana (AMS), 2012. Glosario de Meteorología: Squall. Sociedad Meteorológica Americana (AMS). Accedido 16 mayo 2025  
+Goldman, A., Eggen, B., Golding, B. y Murray, V., 2014. Los impactos en la salud de tormentas de viento: una revisión sistemática de la literatura. Public Health, 128, pp.3–28.  
+Lu, Y., Ozaki, M. y Wada, R., 2018. Squalls en el mar frente a la costa de Japón y sus efectos en operaciones marinas basados en datos de observatorio meteorológico en islas remotas. Journal of Marine Science and Technology, 23, pp.104–121.  
+National Oceanic and Atmospheric Administration (NOAA), 2019. Glossary of National Weather Service: Squall. National Oceanic and Atmospheric Administration (NOAA). Accedido 16 mayo 2025.  
+Cite this [Copy citation]

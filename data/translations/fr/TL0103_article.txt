@@ -1,0 +1,56 @@
+Définition  
+Une menace avancée est créée par un adversaire disposant de niveaux d’expertise sophistiqués et de ressources importantes, lui permettant, grâce à l’utilisation de multiples vecteurs d’attaque différents (par exemple, cyber, physique et tromperie), de générer des opportunités pour atteindre ses objectifs (NIST, 2012).  
+
+Références principales  
+National Institute for Standards and technology, 2012. Guide for conducting risk assessments. DOI:10.6028/NIST.SP.800-30r1. Consulté le 25 janvier 2025.  
+
+Annotations  
+Description scientifique supplémentaire  
+Une menace persistante avancée (APT) en cybersécurité désigne une attaque cybernétique prolongée et ciblée où, souvent, un utilisateur non autorisé accède à un réseau et reste non détecté pendant une période prolongée. L’objectif principal des APT est généralement d’observer l’activité réseau, de voler des données ou de provoquer des perturbations, plutôt que d’infliger des dommages immédiats. Cette menace est considérée comme « avancée » en raison des techniques sophistiquées employées pour exploiter les vulnérabilités, et « persistante » en raison de l’effort continu pour atteindre un objectif spécifique. L’un des premiers incidents d’APT reconnus fut les attaques Titan Rain entre 2003 et 2006, où des attaquants infiltrèrent les réseaux de défense américains pour voler des informations sensibles (Council of Foreign Relations 2005). La découverte du ver Stuxnet en 2010 a marqué une escalade significative, démontrant la capacité des APT à causer des dommages physiques en ciblant les centrifugeuses nucléaires iraniennes (Zetter 2014). Un autre exemple notable est l’attaque Operation Aurora en 2009, qui a ciblé plusieurs entreprises, dont Google, pour accéder à la propriété intellectuelle et aux comptes e‑mail d’activistes (Council of Foreign Relations 2010). Les incidents récents, tels que SolarWinds (2020) et les campagnes Nobelium (2022), illustrent l’évolution des techniques APT ciblant les chaînes d’approvisionnement et les infrastructures cloud (Ghanbari et al., 2024).  
+Les APT emploient un éventail multifacette de techniques pour atteindre leurs objectifs. Ces attaques sont conçues autour des caractéristiques de leurs cibles et peuvent donc prendre de nombreuses formes. Souvent, elles commencent par une intrusion dans le système cible par spear‑phishing, des vulnérabilités zero‑day (défauts de sécurité inconnus) ou d’autres techniques avancées pour infiltrer les systèmes sans être détectés. Une fois à l’intérieur, les attaquants peuvent rester silencieux, surveiller le trafic et collecter des informations, ou utiliser le mouvement latéral pour naviguer dans le réseau, en employant l’escalade de privilèges pour accéder aux zones sensibles. La persistance est maintenue par le déploiement de backdoors et de rootkits, permettant un accès continu et une exfiltration de données sans déclencher d’alarmes de sécurité.  
+Les acteurs malveillants, en particulier les groupes d’état et les cybercriminels organisés, s’appuient fréquemment sur les APT en raison de leur efficacité pour atteindre des objectifs stratégiques à long terme. Bien qu’ils soient moins fréquents que les attaques ciblées en masse comme les rançongiciels, les APT représentent une proportion significative des incidents cybernétiques à fort impact. Leur complexité et leur potentiel de dommages substantiels les rendent préférés pour l’espionnage, le vol de propriété intellectuelle ou le sabotage.  
+
+Limites métriques et numériques  
+Non applicable.  
+
+Convention ou traité multilatéral clé  
+Les instruments juridiques internationaux abordant les APT sont englobés dans des cadres plus larges de cybersécurité et de cybercriminalité. La Convention de Budapest du Conseil de l’Europe sur la cybercriminalité fournit une base de coopération internationale pour lutter contre les infractions cybernétiques, y compris celles impliquant des APT.  
+Les résolutions des Nations Unies sur la cybersécurité encouragent les États membres à adopter des mesures pour protéger les infrastructures critiques et promouvoir l’échange d’informations afin de prévenir les menaces cybernétiques. Cependant, l’absence de traités spécifiques exclusivement consacrés aux APT souligne les défis liés à la gestion de ces menaces sophistiquées et évolutives à l’échelle mondiale.  
+Étant donné que les APT sont souvent menées par des acteurs étatiques, leur régulation relève du champ du droit public international.  
+
+Moteurs  
+Non applicable.  
+
+Impacts  
+Non applicable.  
+
+Contexte multi‑risques  
+Non applicable.  
+
+Gestion des risques  
+Se défendre contre une APT est une tâche complexe, compte tenu de la quantité de temps, de ressources et d’efforts que l’attaquant est disposé à investir pour mener à bien son opération. De plus, étant donné l’approche diversifiée que les APT peuvent adopter, il est difficile de prescrire des stratégies a priori pour minimiser le risque, applicables à tous les cas. La nature complexe et évolutive des APT exige une approche de défense sur mesure et adaptable, car aucune solution unique ne peut couvrir toutes les menaces potentielles. Au lieu de cela, les organisations doivent intégrer plusieurs stratégies pour garantir une protection robuste. Selon Asharani et al. (2019), les stratégies de défense contre les menaces persistantes avancées (APT) se classent en trois groupes principaux : surveillance, détection et atténuation. Chacun joue un rôle crucial pour réduire le risque d’accès non autorisé.  
+Méthodologies de surveillance : ces méthodes utilisent des outils tels que les pare-feu et les logiciels antivirus pour observer différentes parties du système. Les pare-feu avancés sont capables d’analyser le trafic pour détecter des motifs et des signatures malveillants connus, ainsi que d’employer l’analyse comportementale pour identifier des activités anormales. En outre, surveiller l’utilisation du processeur est important, car des schémas inhabituels dans l’utilisation des ressources peuvent indiquer un comportement suspect.  
+Méthodologies de détection : elles incluent l’emploi de différentes méthodes de détection d’anomalies, telles que l’analyse statique, les réseaux neuronaux et les approches d’apprentissage automatique (Hodge et Austin et al., 2004). Ces techniques aident à identifier les APT qui persistent sur le moyen à long terme. Par exemple, un système de détection d’intrusion (IDS) peut analyser le trafic réseau pour repérer une activité inhabituelle et alerter les équipes de sécurité sur des menaces potentielles.  
+Méthodologie d’atténuation : l’atténuation des APT peut être réalisée par des approches réactives et proactives. Les méthodes réactives impliquent l’identification des chemins d’attaque potentiels et des vulnérabilités à un moment donné, la prédiction des zones critiques et l’évaluation de leur gravité. Les stratégies proactives, en revanche, se concentrent sur la tromperie des attaquants. Ces techniques visent à induire les intrus en erreur et les obliger à modifier leurs stratégies d’attaque, réduisant ainsi l’impact de la menace.  
+
+Surveillance  
+Non applicable.  
+
+Références  
+Alshamrani, A., Myneni, S., Chowdhary, A. et Huang, D., 2019. Une enquête sur les menaces persistantes avancées : techniques, solutions, défis et opportunités de recherche. IEEE Communications Surveys & Tutorials, vol. 21, no. 2, pp. 1851-1877, Secondquarter 2019, doi: 10.1109/COMST.2019.2891891. Consulté le 16 janvier 2025.  
+
+Brandao, P.R. et Limonova, V., 2021. Méthodologies de défense pour les menaces persistantes avancées (APT). American Journal of Applied Sciences 2021. DOI:10.3844/ajassp.2021.207.212. Consulté le 16 janvier 2025.  
+
+Council on Foreign Relations (CFR), 2005. Pluie Titan. Consulté le 16 janvier 2025.  
+
+Council on Foreign Relations (CFR), 2010. Opération Aurora. Consulté le 16 janvier 2025.  
+
+Ghanbari, H., Koskinen, K. et Wei, Y., 2024. De SolarWinds à Kaseya : l'essor des attaques de la chaîne d'approvisionnement dans un monde numérique. Journal of Information Technology Teaching Cases, 0(0). DOI: 10.1177/20438869241299823. Consulté le 16 janvier 2025.  
+
+Hodge, V.J. et Austin, J., 2004. Une enquête sur les méthodologies de détection d'outliers. Artificial Intelligence Review, 22, pp.85-126. Consulté le 16 janvier 2025.  
+
+National Institute of Standards and Technology (NIST), 2012. Publication spéciale 800-30 Révision 1 : Guide pour la réalisation d'évaluations de risques. Gaithersburg, MD : U.S. Department of Commerce. Consulté le 16 janvier 2025.  
+
+Zetter, K., 2014. Un regard sans précédent sur Stuxnet, la première arme numérique du monde. WIRED Magazine. Consulté le 16 janvier 2025.  
+
+Citer ceci [Copier la citation]

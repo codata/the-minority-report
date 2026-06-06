@@ -1,0 +1,99 @@
+Definition
+Une sécheresse est une période de temps anormalement sec caractérisée par une déficience prolongée de précipitations inférieure à un seuil donné sur une grande zone et une période supérieure à un mois (WMO, 2023).
+
+Primary reference(s)
+WMO, 2020. Directives sur la définition et la surveillance des événements météorologiques et climatiques extrêmes. Organisation météorologique mondiale (WMO). Version finale en cours. Consulté le 18 novembre 2019.
+
+Annotations
+Additional scientific description
+La sécheresse est décrite comme des conditions qui sont significativement plus sèches que la normale ou qui limitent autrement la disponibilité d'humidité à un degré potentiellement dommageable (WMO et GWP, 2016) ou comme des conditions où il y a eu une absence prolongée ou une déficience marquée de précipitations (WMO/UNESCO, 2012). Alors que la sécheresse peut être définie simplement comme l'absence d'eau, il s'agit d'un phénomène complexe qui est surveillé sur plusieurs échelles temporelles et souvent défini en fonction des besoins. C'est un phénomène à apparition lente qui s'intensifie progressivement et peut affecter de nombreux secteurs de l'économie et de l'environnement. Les sécheresses peuvent être caractérisées en termes de gravité, de localisation, de durée et de moment. Elles peuvent naître d'une gamme de processus hydrométéorologiques qui suppriment les précipitations et/ou limitent la disponibilité des eaux de surface ou souterraines. Divers indicateurs et indices de sécheresse offrent des options pour identifier la gravité, la localisation, la durée, le début et l'achèvement de ces conditions. Il est important de noter que les impacts de la sécheresse peuvent être aussi variés que les causes de la sécheresse. Les sécheresses peuvent affecter négativement l'agriculture et la sécurité alimentaire, la production hydroélectrique et l'industrie, la santé humaine et animale, la sécurité des moyens de subsistance, ainsi que la sécurité personnelle et l'accès à l'éducation. De tels impacts dépendent des contextes socio-économiques dans lesquels les sécheresses se produisent, en termes de personnes ou d'entités exposées et des vulnérabilités spécifiques des entités exposées (WMO et GWP, 2016). La communauté de la sécheresse a défini plusieurs types différents de sécheresse pouvant avoir des impacts généraux ou spécifiques à un secteur (NOAA, sans date b) :
+
+– Sécheresse météorologique : se produit lorsqu'un climat sec domine une zone. Elle est généralement définie sur la base du degré de sécheresse et de la durée de la période sèche.
+
+– Sécheresse hydrologique : se produit lorsqu'une faible disponibilité d'eau devient apparente et est associée aux effets de périodes de déficit de précipitations sur la disponibilité des eaux de surface ou souterraines.
+
+– Sécheresse agricole : se produit lorsqu'une production agricole est affectée. Elle se concentre sur les pénuries de précipitations, les différences entre l'évapotranspiration réelle, les déficits d'eau souterraine, les nappes phréatiques réduites, etc.
+
+– Sécheresse socioéconomique : relie l'offre et la demande de certains biens économiques à des éléments de sécheresse météorologique, hydrologique et agricole. Elle se produit également lorsque la demande d'un bien économique dépasse l'offre à la suite d'un déficit lié aux conditions météorologiques.
+
+Metrics and numeric limits
+Des indices spécifiques ont été créés pour évaluer la sécheresse. Par exemple, l'indice de sécheresse Palmer et l'indice de précipitation standardisé (SPI), ainsi que des modèles complexes avancés (tels que le National Land Data Assimilation System [NLDAS] ou l'indicateur combiné de sécheresse en Europe) (European Drought Observatory, 2019), qui calculent l'humidité du sol et d'autres variables hydrologiques. Il existe également des indices utilisés pour la prévision de l'approvisionnement en eau (tels que l'indice d'approvisionnement en eau de surface [SWSI]), et des indices qui reflètent les impacts sur la végétation (tels que l'indice de santé de la végétation [VHI] et l'indice de réponse à la sécheresse de la végétation [VegDRI]) (NOAA, sans date c).
+
+Les indicateurs sont des variables ou des paramètres utilisés pour décrire les conditions de sécheresse, et ils comprennent les précipitations, la température, le débit des cours d'eau, les niveaux d'eau souterraine et de réservoir, l'humidité du sol et la nappe neigeuse. Les indices sont généralement des représentations numériques des sévérités de sécheresse, évalués à l'aide d'entrées climatiques ou hydrométéorologiques. Ils visent à mesurer l'état qualitatif des sécheresses sur le paysage pour une période donnée. Les indices peuvent simplifier les relations complexes et fournir des outils de communication utiles pour divers publics et utilisateurs, y compris le grand public. Les indices servent à fournir une évaluation quantitative de la gravité, de la localisation, du moment et de la durée des événements de sécheresse. La gravité fait référence à l'écart par rapport à la normale d'un indice. Un seuil de gravité peut être établi pour déterminer quand une sécheresse a commencé, quand elle se termine et la zone géographique affectée. La localisation désigne la zone géographique connaissant des conditions de sécheresse. Le moment et la durée sont déterminés par les dates approximatives de début et de fin (WMO et GWP, 2016).
+
+Le Manuel des indicateurs et indices de sécheresse de l'Organisation météorologique mondiale (WMO) fournit un compendium des indicateurs/indices de sécheresse les plus couramment utilisés qui sont appliqués dans les régions sujettes à la sécheresse. Les indices sont regroupés en : météorologie (23 indices) ; humidité du sol (4 indices) ; hydrologie (8 indices) ; télédétection (10 indices) ; et composite ou modélisé (5 indices). Chaque indice est détaillé avec son origine, ses caractéristiques, ses paramètres d'entrée, son application, ses forces, ses faiblesses, ses ressources et ses références (WMO et GWP, 2016). Le manuel comprend de nombreux indicateurs/indices de sécheresse couramment utilisés, tels que plusieurs versions des indices de sécheresse Palmer et l'indice de sécheresse Keetch-Byram.
+
+L'indice de précipitation standardisé (SPI) est un indice qui ne prend en compte que les précipitations et qui est facile à utiliser. Une période d'enregistrement d'au moins 30 ans de données est recommandée, et une période plus courte ne doit être utilisée qu'avec prudence. Le SPI peut être très utile lorsque la quantité de données pour les calculs est limitée. Il est plus facile à communiquer dans certaines situations que dans d'autres indices plus complexes, car il ne se base que sur les précipitations reçues et une comparaison avec les quantités de précipitations historiques. Le SPI est un indice basé sur la probabilité de recevoir une quantité donnée de précipitations, et les probabilités sont standardisées de sorte qu'un indice de zéro indique la quantité médiane de précipitations (la moitié des précipitations historiques est inférieure à la médiane, et l'autre moitié est supérieure à la médiane). L'indice est négatif pour la sécheresse et positif pour les conditions humides. Le SPI peut être calculé sur une période de un mois à 24 mois, afin de capturer à la fois les conditions à court terme et à long terme (WMO, 2012 ; NOAA, sans date c). En juin 2011, le Seizième Congrès météorologique mondial a adopté une résolution recommandant que le SPI soit utilisé par tous les services météorologiques et hydrologiques nationaux (NMHSs) du monde entier pour caractériser les sécheresses météorologiques, en plus d'autres indices de sécheresse utilisés dans leur service.
+
+Key relevant UN convention / multilateral treaty
+Convention des Nations Unies pour la lutte contre la désertification dans les pays qui subissent une sécheresse grave et/ou une désertification, notamment en Afrique (UNCCD, 1994). Établie en 1994, la Convention des Nations Unies pour la lutte contre la désertification (UNCCD) est le seul accord international juridiquement contraignant liant l'environnement et le développement à une gestion durable des terres. La Convention s'attaque spécifiquement aux zones arides, semi-arides et sous-humides sèches, connues sous le nom de terres arides, où se trouvent certains des écosystèmes et peuples les plus vulnérables (UNCCD, 2017).
+
+The United Nations Watercourses Convention (United Nations, 1997) entered into force on 17 August 2014.
+La Convention des cours d'eau des Nations Unies (Nations Unies, 1997) est entrée en vigueur le 17 août 2014.
+
+Drivers
+Facteurs déterminants
+La sécheresse est associée aux vagues de chaleur et à un manque ou à l'absence de pluie.
+
+Impacts
+La sécheresse peut avoir un impact sérieux sur la santé, l'agriculture, les économies, l'énergie et l'environnement. On estime que 55 millions de personnes dans le monde sont touchées par la sécheresse chaque année, et c'est le danger le plus grave pour le bétail et les cultures dans presque toutes les régions du monde. La sécheresse menace les moyens de subsistance des populations, augmente le risque de maladies et de décès, et provoque des migrations de masse. La pénurie d'eau touche 40 % de la population mondiale, et jusqu'à 700 millions de personnes courent le risque d'être déplacées à cause de la sécheresse d'ici 2030 (OMS, 2025). La probabilité d'impacts sanitaires liés à la sécheresse varie largement et dépend en grande partie de la gravité de la sécheresse, de la vulnérabilité de la population de base, des infrastructures sanitaires et sanitaires existantes, et des ressources disponibles pour atténuer les impacts lorsqu'ils surviennent (Stanke et al., 2013). Lorsque la sécheresse provoque des pénuries d'eau et de nourriture, il peut y avoir de nombreux impacts sur la santé de la population touchée, qui peuvent augmenter le risque de maladie et de décès. La sécheresse peut avoir des effets sanitaires aigus et chroniques, notamment : malnutrition due à la diminution de la disponibilité des aliments, y compris les carences en micronutriments (telles que l'anémie ferriprive) ; risque accru de maladies infectieuses (telles que le choléra, la diarrhée et la pneumonie), en raison d'une malnutrition aiguë, d'un manque d'eau et de sanitaires, et du déplacement ; stress psychosocial et troubles de santé mentale ; et perturbation des services de santé locaux en raison d'un manque d'approvisionnements en eau, de la perte du pouvoir d'achat, de la migration et/ou du fait que les travailleurs de santé soient contraints de quitter les zones locales. Une sécheresse sévère peut également affecter la qualité de l'air en rendant les feux de forêt et les tempêtes de poussière plus probables, augmentant le risque sanitaire chez les personnes déjà touchées par des maladies pulmonaires, comme l'asthme ou la maladie pulmonaire obstructive chronique (MPOC), ou des maladies cardiaques (OMS, 2025). En tant que chef du cluster santé pour les urgences mondiales, l'Organisation mondiale de la santé (OMS) travaille avec ses partenaires pour répondre aux catastrophes liées à la sécheresse. Cela comprend : garantir une supplémentation alimentaire appropriée ; des services de santé, tels que l'immunisation, la santé infantile et maternelle, et la santé mentale ; la constitution d'équipes mobiles de santé et la sensibilisation ; la surveillance épidémiologique, l'alerte précoce et la réponse ; et la demande de financement d'urgence pour soutenir l'action sanitaire (OMS, 2025).
+
+Multi-hazard context
+Contexte multi‑risque
+La figure ci‑dessous résume les interactions courantes entre les sécheresses et d'autres dangers. Cette information doit être utilisée avec prudence et ne doit pas être la seule base de décision en gestion des risques de catastrophe, notamment car certaines interactions peuvent ne pas avoir été incluses. À noter que les événements dangereux qui se produisent simultanément ou localement dans l'espace ou le temps ne provoquent pas forcément, n'amplifient pas, et ne sont pas nécessairement liés les uns aux autres. Des exemples spécifiques de contexte multi‑risque se trouvent dans les sections « Facteurs déterminants du danger » et « Impacts » ci‑dessus.
+
+Multi-hazard diagram
+Diagramme multi‑risque
+
+Risk Management
+Gestion des risques
+Beaucoup de travaux ont été réalisés sur la gestion de la sécheresse. Le Programme de gestion intégrée de la sécheresse (IDMP), co-parrainé par l'OMM et le Global Water Partnership (GWP), a développé une approche à trois piliers pour la gestion intégrée de la sécheresse. Ces piliers comprennent : la surveillance et l'alerte précoce de la sécheresse ; l'évaluation de la vulnérabilité et de l'impact de la sécheresse ; et la mitigation, la préparation et la réponse à la sécheresse. L'IDMP compte plus de 35 organisations partenaires, dont l'Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO) et la Convention des Nations Unies pour la lutte contre la désertification (UNCCD). L'IDMP a élaboré les directives de politique nationale de gestion de la sécheresse, qui comprennent un processus en 10 étapes pour aider les pays à élaborer des plans et des politiques nationales de sécheresse (OMM et GWP, 2014).
+
+Monitoring
+Surveillance
+Le paragraphe ci‑dessus et le tableau ci‑dessous présentent un aperçu de la surveillance des sécheresses. Ces informations peuvent être utilisées pour la prévision au sein d'un système d'alerte précoce national (EWS). Étant donné que les capacités et processus d'EWS varient d'un pays à l'autre, les informations les plus récentes et spécifiques concernant l'EWS doivent être obtenues auprès de l'agence ou de l'autorité nationale ou régionale appropriée chargée de la gestion des catastrophes.
+
+Quelles(s) institution(s) produisent/pourvoient des données/informations sur le risque de catastrophe ?
+- Agences nationales, subnationales et locales de gestion des catastrophes responsables de la surveillance des risques de sécheresse, de la diffusion d'alertes précoce et de la coordination des stratégies de réponse.
+- Services météorologiques suivant les schémas de précipitations, les tendances de température et les conditions atmosphériques influençant la sécheresse.
+- Services hydrologiques surveillant les niveaux d'eau souterraine, les flux fluviaux, le stockage des réservoirs et les conditions d'humidité du sol.
+- Les Centres de surveillance de la sécheresse sont des institutions qui collectent, analysent et diffusent des données sur les conditions de sécheresse.
+- Agences spatiales et de télédétection utilisant des satellites pour surveiller la santé de la végétation, l'humidité du sol et la disponibilité en eau.
+- Agences agricoles et de sécurité alimentaire évaluant les impacts de la sécheresse sur la production de cultures, l'approvisionnement alimentaire et la santé du bétail.
+- Agences de gestion des ressources en eau évaluant la disponibilité en eau douce, l'épuisement des eaux souterraines et les politiques d'utilisation durable de l'eau.
+- Entreprises énergétiques et de services publics surveillant la production d'hydroélectricité, les fluctuations de la demande d'énergie et les risques pour les industries dépendantes de l'eau.
+- Urbanistes et planificateurs d'utilisation des terres intégrant les évaluations du risque de sécheresse dans les lois de zonage, les stratégies de conservation de l'eau et les plans de développement durable.
+- Autorités sanitaires évaluant les risques pour la santé publique liés à la rareté de l'eau, à la sécurité alimentaire, au stress thermique et aux épidémies de maladies liées à la sécheresse.
+- Chercheurs et universitaires, y compris les climatologues, les hydrologues et les agronomes, étudiant les prévisions de la sécheresse...
+
+How is the Hazard Observed/Monitored/Forecast?
+Comment le danger est-il observé/surveillé/prévu ?
+La sécheresse est surveillée à l'aide de satellites, de stations météorologiques et de capteurs d'humidité du sol afin de suivre les déficits de précipitations, les tendances de température et la disponibilité en eau dans les rivières, les lacs et les eaux souterraines. Les météorologues analysent les modèles climatiques, y compris El Niño et La Niña, pour prédire les conditions de sécheresse. Des modèles informatiques avancés simulent les tendances climatiques et hydrologiques à long terme, aidant les prévisionnistes à émettre des alertes précoce. Les centres de surveillance de la sécheresse, tels que le U.S. Drought Monitor et l'European Drought Observatory, fournissent des évaluations et des prévisions en temps réel pour aider les gouvernements, les agriculteurs et les communautés à se préparer et à atténuer les impacts de la sécheresse.
+
+References
+Références
+European Drought Observatory, 2019. Indicateur combiné de sécheresse (CDI). Consulté le 16 mai 2025.
+
+National Oceanic and Atmospheric Administration (NOAA), sans date b. Définition de la sécheresse. National Centers for Environmental Information, National Oceanic and Atmospheric Administration (NOAA). Consulté le 16 mai 2025.
+
+National Oceanic and Atmospheric Administration (NOAA), sans date c. Mesure de la sécheresse. National Centers for Environmental Information, National Oceanic and Atmospheric Administration (NOAA). Consulté le 16 mai 2025.
+
+Stanke, C., Kerac, M., Prudhomme, C., Medlock, J. et Murray, V., 2013. Effets sanitaires de la sécheresse : une revue systématique des preuves. PLoS Currents. Consulté le 16 mai 2025.
+
+United Nations Convention to Combat Desertification (UNCCD), 1994. Convention des Nations Unies pour la lutte contre la désertification dans les pays qui subissent une sécheresse grave et/ou une désertification, notamment en Afrique. Consulté le 16 mai 2025.
+
+United Nations Convention to Combat Desertification (UNCCD), 2017. Le cadre stratégique futur de la Convention. ICCD/COP(13)/L.18. Convention des Nations Unies pour la lutte contre la désertification (UNCCD). Consulté le 16 mai 2025.
+
+United Nations, 1997. Convention sur le droit des usages non navigationnels des cours d'eau internationaux. Consulté le 16 mai 2025.
+
+World Health Organization (WHO), 2025. Sécheresse. Organisation mondiale de la santé (OMS). Consulté le 16 mai 2025.
+
+World Meteorological Organization (WMO), 2012. Indice de précipitation standardisé : guide de l'utilisateur. OMM-No. 1090. Organisation météorologique mondiale (OMM). Consulté le 16 mai 2025.
+
+World Meteorological Organization (WMO) and Global Water Partnership (GWP), 2014. Directives de politique nationale de gestion de la sécheresse : un modèle d'action (D.A. Wilhite). Programme de gestion intégrée de la sécheresse (IDMP) Outils et séries de directives 1. Consulté le 16 mai 2025.
+
+World Meteorological Organization (WMO) and Global Water Partnership (GWP), 2016. Manuel des indicateurs et indices de sécheresse. OMM No. 1173. Organisation météorologique mondiale (OMM) et Global Water Partnership (GWP). Consulté le 16 mai 2025.
+
+World Meteorological Organization (WMO) and United Nations Educational, Scientific and Cultural Organization (UNESCO), 2012. Glossaire international de l'hydrologie. OMM-No. 385. Consulté le 16 mai 2025.
+
+Cite this [Copy citation]
