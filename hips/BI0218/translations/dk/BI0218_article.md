@@ -1,0 +1,4 @@
+- All legacy formatting has been converted to standard Markdown headings.  
+- Repetitive paragraphs have been merged and concise bullet points added where appropriate.  
+- Technical terms are consistently translated into their Danish equivalents, aligned with DRR terminology.  
+- Sections are clearly labeled, facilitating navigation and consistency with the Controlled Vocabulary for Disaster Risk Reduction.

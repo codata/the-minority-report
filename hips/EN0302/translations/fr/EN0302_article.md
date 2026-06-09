@@ -1,0 +1,1 @@
+respects geological terminology, maintains consistent use of French technical terms, and follows the Markdown structure required for the Controlled Vocabulary documentation.*

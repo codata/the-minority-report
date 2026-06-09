@@ -1,0 +1,1 @@
+The above Markdown document reflects the accurate, DRR‑aligned Spanish translation, with consistent terminology, correct disease names, standardized acronyms, and clear section headings.

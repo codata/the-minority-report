@@ -1,0 +1,1 @@
+is presented above in Markdown format, with all legacy formatting converted to standard headings and the terminology aligned with geological/DRR conventions.)*

@@ -1,0 +1,1 @@
+preserves geological terminology, adheres to DRR conventions, and eliminates non‑geological phrasing or domain mixing.

@@ -1,0 +1,1 @@
+aligns terminology with geological and DRR conventions, maintains consistency across the document, and presents the information in a clear, Markdown‑formatted structure.

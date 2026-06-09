@@ -1,0 +1,1 @@
+above adheres to the Controlled Vocabulary for Disaster Risk Reduction, uses consistent geological terminology, and follows the Markdown formatting guidelines.

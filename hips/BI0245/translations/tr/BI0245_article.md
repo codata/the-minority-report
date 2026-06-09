@@ -1,0 +1,1 @@
+(Insert the fully corrected, Markdown‑formatted Turkish version as shown above, ensuring each section title, bullet list, and reference list follows the controlled vocabulary style. The final translation should replace any remaining English terms with their Turkish equivalents, maintain consistent use of acronyms, and present the document in a clear, structured Markdown format.)

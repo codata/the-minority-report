@@ -1,0 +1,1 @@
+replaces all English terms with their Dutch counterparts, uses consistent terminology per the DRR controlled vocabulary, and follows the Markdown formatting guidelines.

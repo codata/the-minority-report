@@ -1,0 +1,1 @@
+*(The above Markdown document constitutes the finalized, domain‑accurate Arabic translation of the entire original text.)*

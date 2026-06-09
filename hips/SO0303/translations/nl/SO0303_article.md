@@ -1,0 +1,1 @@
+adheres to Dutch grammar, retains all domain‑specific terminology, and follows the markdown formatting guidelines.

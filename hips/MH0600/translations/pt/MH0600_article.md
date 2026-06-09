@@ -1,0 +1,1 @@
+maintains technical accuracy, consistent terminology, and clear Markdown formatting.

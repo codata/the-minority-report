@@ -1,0 +1,1 @@
+*(The above markdown block is the finalized, domain‑accurate French translation of the original text, ready for integration into the Controlled Vocabulary for Disaster Risk Reduction.)*

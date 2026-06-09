@@ -1,0 +1,66 @@
+### Definition  
+Virale bloedende koorts omvat een spectrum van relatief milde tot ernstige levensbedreigende ziekten die gekenmerkt worden door plotselinge opkomst van spierpijn, gewrichtspijn, koorts, bloeding en shock door bloedverlies. In ernstige gevallen is een van de meest opvallende symptomen de bloeding, of bloedingen, uit openingen en interne organen (WHO, no date a).
+
+### Primary reference(s)  
+WHO, no date a. Haemorrhagic fevers: Viral. Wereldgezondheidsorganisatie (WGO). Toegang 18 februari 2025.
+
+### Annotations  
+**Additional scientific description**  
+Virale bloedende koorts (VBK) omvat een spectrum van relatief milde tot ernstige levensbedreigende ziekten die gekenmerkt worden door plotselinge opkomst van spierpijn, gewrichtspijn, koorts, bloeding en shock door bloedverlies. In ernstige gevallen is een van de meest opvallende symptomen de bloeding, of bloedingen, uit openingen en interne organen (WHO, no date a). VBK zijn geassocieerd met de opkomst van grote epidemieën met hoge sterfgevallenpercentages doordat er geen specifieke medische tegenmaatregelen zoals vaccins of antivirale middelen bestaan, met uitzondering van gele koorts. Het ontbreken van tijdige laboratoriumdiagnose, late detectie, inadequate infectiepreventieve maatregelen in zorginstellingen en zwakke vectorcontroleprogramma’s kunnen bovendien uitbraken van virale bloedende koorts verlengen. Virale bloedende koorts (VBK) worden veroorzaakt door drie families (Arenaviridae, Filoviridae, Flaviviridae) en één orden (Bunyavirales) enveloppe‑RNA‑virussen (CDC, 2024). De meeste VBK vallen in één van vier virale families:
+
+- **Arenaviridae** – Elke arenavirus heeft één of een paar nauw verwante knaagdieren die het virus dragen zonder zelf ziek te worden. Dit staat bekend als het reservoir, of bron van het virus in de natuur. Het reservoir kan het virus verspreiden naar mensen via geïnfecteerd urine, speeksel of uitwerpselen en kan ernstige ziekte veroorzaken. Mensen worden geïnfecteerd met arenavirussen door:
+  1. Contact met urine, uitwerpselen of nestmateriaal van een geïnfecteerde knaagdier
+  2. Ademhaling van in lucht verontreinigde urine, uitwerpselen of nestmateriaal
+  3. Beten of krassen door een geïnfecteerd knaagdier
+  4. Consumptie van voedsel besmet met urine, uitwerpselen of speeksel van een geïnfecteerd knaagdier
+  5. Contact met een andere persoon die bepaalde arenavirussen heeft, zoals Chapare, Lassa, Machupo en Lujo (CDC, 2024).
+
+- **Bunyavirales** – Virussen in de Bunyavirales‑orden worden verspreid door knaagdieren of insecten zoals muggen, teken of zandvliegjes. Ze kunnen milde tot ernstige ziekte veroorzaken bij dieren en mensen. Veel van deze virussen kunnen niet tussen mensen verspreiden. Echter, persoon‑naar‑persoon verspreiding van de Crimean‑Congo bloedende koorts heeft plaatsgevonden in zorginstellingen waar infectiepreventie beperkt was (CDC, 2024).
+
+- **Filoviridae** – Filovirussen kunnen ernstige ziekte veroorzaken bij mensen en niet‑menselijke primaten (zoals apen en gorilla’s). De Egyptische Rousette‑vlieg (Rousettus aegyptiacus) is een grot‑levende vleermuis en het reservoir voor de Marburg‑virus. Vleermuizen geïnfecteerd met orthomarburgvirussen tonen geen duidelijke ziekteverschijnselen. Het is niet bekend welk dier ebolavirussen in de natuur draagt, maar wetenschappers vermoeden dat vleermuizen waarschijnlijk betrokken zijn. Zodra filovirussen in de menselijke populatie worden geïntroduceerd, kunnen ze zich tussen mensen verspreiden via contact met lichaamsvloeistoffen van een geïnfecteerde persoon. Verzorgers en zorgverleners die geen gepaste persoonlijke beschermingsmiddelen gebruiken, lopen een hoger risico op infectie (CDC, 2024).
+
+- **Flaviviridae** – Flavivirussen zijn wereldwijd verspreid. Deze virussen, die voornamelijk door muggen en teken worden verspreid, kunnen milde tot ernstige ziekte of zelfs de dood veroorzaken. Ze kunnen ook ziekte veroorzaken bij dieren, wat een grote economische en sociale impact heeft op mensen in getroffen gebieden (CDC, 2024).
+
+- **Paramyxoviridae** – Paramyxovirussen kunnen plotselinge ademhalingsziekte veroorzaken. Hoewel er veel virussen binnen de Paramyxoviridae-familie zijn, worden Hendra- en Nipah‑virussen als ernstiger beschouwd omdat ze een gespecialiseerde laboratorium (biosafety level 4) vereisen en ernstige ziekte, verspreiding tussen dieren en mensen veroorzaken en momenteel geen vaccin of behandeling beschikbaar is (CDC, 2024).
+
+De volgende vier virale families omvatten de meeste VBK:  
+- **Arenavirus** (Bunyavirales) – Lassa‑koortsvirus, Lujo‑virus, Junin‑virus, Chapare‑virus, Sabia‑virus, Machupo‑virus, Guanarito‑virus  
+- **Filoviridae** – Ebola‑virus (EBOV), Sudan‑virus (SUDV), Bundibugyo‑virus (BDBV), Taï Forest‑virus (TAFV), Marburg‑virus (MARV), Ravn‑virus  
+- **Flaviviridae** – Alkhurma bloedende koortsvirus, Kyasanur Forest Disease‑virus, Omsk bloedende koortsvirus, Dengue‑virus, Gele koortsvirus  
+- **Bunyavirales** – Hantavirus, Nairovirus (Crimean‑Congo bloedende koortsvirus), Phenuivirus (Rift Valley bloedende koortsvirus)  
+- **Paramyxoviridae** – Hendra‑virus, Nipah‑virus
+
+**Metrics en numerieke grenzen**  
+Het Wereldgezondheidsorganisaties (WGO) Globale Klinische Platform heeft als doel klinische kenmerken, prognostische factoren en uitkomsten van virale bloedende koorts te begrijpen, met de nadruk op filovirusinfecties. Bijgedragen gegevens helpen de WGO bij het ondersteunen van lidstaten in het begrijpen van gezondheidsproblemen vanuit nationale en internationale perspectieven. Zorginstellingen en samenwerkingspartners over de hele wereld hebben klinische gegevens bijgedragen aan het WGO Klinische Data Platform (WHO, no date b; WHO, no date c).
+
+**Relevante VN-conventie / multilateraal verdrag**  
+Internationale Gezondheidsverordeningen (2005), 3e ed. (WGO, 2016b).
+
+**Aandrijffactoren**  
+Virale bloedende koorts komt wijdverspreid voor in tropische en subtropische regio’s (WHO, no date). De meeste hebben een niet‑menselijke natuurlijke reservoir, waarbij sommigen via muggen of teken worden overgedragen. Een klein aantal is preventief via vaccin (bijv. gele koorts) en andere heeft potentiële vaccins en behandelingen in verschillende ontwikkelingsfasen (WHO, no date a).
+
+**Impact**  
+VBK worden geassocieerd met grote epidemieën met hoge sterfgevallenpercentages, doordat er geen specifieke medische tegenmaatregelen zoals vaccins of antivirale middelen bestaan, met uitzondering van gele koorts. Het ontbreken van tijdige laboratoriumdiagnose, late detectie, inadequate infectiepreventieve maatregelen in zorginstellingen en zwakke vectorcontroleprogramma’s kunnen bovendien uitbraken van virale bloedende koorts verlengen (WHO, no date). De opkomst en wederopkomst van virale bloedende koorts is wereldwijd een groeiend zorgpunt en er zijn meerdere transmissiemodi: persoon‑naar‑persoon via direct contact met symptoombewuste patiënten, lichaamsvloeistoffen of cadavers (onvoldoende infectiepreventie in een ziekenhuisomgeving – Crimean‑Congo bloedende koorts, Lassa, Ebola), slachtpraktijken, consumptie van rauw vlees van geïnfecteerde dieren of niet-steriel melk (Crimean‑Congo bloedende koorts, Rift Valley bloedende koorts), direct contact met knaagdieren of inhalatie van materialen besmet met knaagdier‑uitwerpselen (Lassa), muggenbeten (Rift Valley bloedende koorts, Dengue) of teken (Crimean‑Congo bloedende koorts) (WHO EMRO, no date).
+
+**Multi‑hazard context**  
+De effectiviteit van VBK‑surveillance en -controle vereist internationale samenwerking, het overbruggen van kloof tussen verschillende wetenschappelijke disciplines en publieke gezondheidsinitiatieven. Door kennis, middelen en strategieën op wereldschaal te bundelen, kan de internationale gezondheidsgemeenschap een allesomvattende en preventieve respons op VBK‑uitbraken vormgeven. Lokale gemeenschapsbetrokkenheid speelt een cruciale rol bij het succesvol implementeren van surveillance‑ en controle‑maatregelen. Hier is het begrijpen van lokale culturele praktijken en ziektepercepties essentieel om interventies te ontwerpen die niet alleen effectief maar ook cultureel gevoelig en acceptabel zijn (Hewson, 2024). Het gebruik van geavanceerde technologieën zoals GIS, remote sensing en genomische sequentiering versterkt de mogelijkheid om de verspreiding en transmissie‑patronen van VBK in realtime te monitoren en te analyseren. Zulke tools zijn essentieel voor het verzamelen van data en het genereren van inzichten die effectieve publieke gezondheidsinterventies mogelijk maken (Hewson, 2024).
+
+**Risk Management**  
+De WGO heeft een Globaal Klinisch Platform opgezet voor patiëntniveau anonieme klinische data. Het is een beveiligd, beperkt toegangs‑, wachtwoord‑beschermd platform dat gehost wordt op REDCap (WGO no date c). De doelstellingen van het Platform zijn: het beschrijven van de klinische karakterisering van een ziekte, haar natuurlijke geschiedenis en ernst; het identificeren van de associatie van klinische kenmerken van virale bloedende koorts met uitkomsten; en het bevorderen van inzicht in het klinisch hulpbronnen‑gebruik bij het verlenen van hoogwaardige ondersteunende zorg (WGO no date b). Vorige versies van dit platform bevatten data voor individuele virale bloedende koorts, bijv. Marburg‑virusziekte, Ebola‑virusziekte en Sudan‑virusziekte. Deze nieuwste versie beoogt een gemeenschappelijke tool te zijn die gebruikt kan worden in deze en andere ziekten en mogelijk toekomstige vergelijkingen tussen virale ziekten mogelijk maakt. De WGO nodigt lidstaten, zorginstellingen en andere entiteiten uit om deel te nemen aan de wereldwijde inspanning om anonieme klinische data te verzamelen met betrekking tot vermoedelijke of bevestigde gevallen van virale bloedende koorts en om data bij te dragen aan het WGO Globaal Klinisch Platform (WGO no date c). Het WGO R&D Blueprint voor Epidemics fungeert als een globaal platform voor onderzoek en ontwikkeling samenwerking, waarbij de nadruk ligt op de betekenis van internationale samenwerking bij het versnellen van onderzoek en ontwikkeling van medische tegenmaatregelen (MCM’s) om epidemieën en pandemieën te bestrijden. In het hart van deze inspanningen staat het concept van ‘pathogen prioritering’. Diverse VBK zijn geïdentificeerd als prioriteiten voor onderzoek om resultaten te genereren die de regelgevende beoordeling en beleidsbeslissingen informeren, terwijl nationale en individuele belangen gerespecteerd blijven. Zulke eenvoudige protocollen kunnen worden geïntegreerd in de uitbraakrespons (WGO, 2024).
+
+**Monitoring**  
+De WGO ondersteunt landen bij het uitvoeren van strategische risicoanalyse voor alle hazards in de context van gezondheidsnoodgevallen en rampen, wat leidt tot de ontwikkeling van een landsrisico‑profiel. Met een landsrisico‑profiel, inclusief een seizoensrisicokalender, kunnen landen potentiële noodgevallen anticiperen voordat ze plaatsvinden en vroegwaarschuwings- en actielijnen activeren (WGO, 2021). Het vroege waarschuwings‑, alarm‑ en respons‑systeem (EWARS) van de WGO is ontworpen om de detectie van ziekte-uitbraken in noodsituaties te verbeteren, zoals in landen in conflict of na een natuurramp. Het is een eenvoudige en kosteneffectieve manier om snel een ziekten‑surveillance‑systeem op te zetten. EWARS wordt tijdens een noodsituatie ingezet als aanvulling op het nationale ziekten‑surveillance‑systeem. De WGO werkt met ministeries van gezondheid en partners van de gezondheidssector om lokale zorgverleners te trainen in het gebruik van het systeem. Na de noodsituatie moet EWARS worden geïntegreerd terug in het nationale systeem (WGO no date b).
+
+**References**  
+CDC, 2024. About Viral hemorrhagic fevers (VHFs). Centers for Disease Control and Prevention (CDC). Toegang 24 mei 2025.  
+Hewson, R., 2024. Understanding Viral Haemorrhagic Fevers: Virus Diversity, Vector Ecology, and Public Health Strategies. Pathogens. 13(10):909. doi: 10.3390/pathogens13100909. PMID: 39452780; PMCID: PMC11510013. Toegang 26 mei 2025.  
+WHO EMRO, no date. Haemorrhagic fevers, Viral. World Health Organization Eastern Mediterranean Region Office (WHO EMRO). Toegang 26 mei 2025.  
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Toegang 13 februari 2025.  
+WHO, 2021. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all-hazards health emergency risk assessment. World Health Organization (WHO). Toegang 13 februari 2025.  
+WHO, 2024. Pathogens prioritization: a scientific framework for epidemic and pandemic research preparedness. World Health Organization (WHO). Toegang 17 februari 2025.  
+WHO, 2020. Dengue and Severe Dengue. World Health Organization (WHO). Toegang 24 mei 2025.  
+WHO, no date a. Haemorrhagic fevers: Viral. World Health Organization (WHO). Toegang 17 februari 2025.  
+WHO, no date b. The WHO Global Clinical Platform forms to support the case management of viral haemorrhagic fever. Toegang 24 mei 2025.  
+WHO, no date c. The WHO Global Clinical Platform forms to support the case management of viral haemorrhagic fever. World Health Organization (WHO). Toegang 17 februari 2025.  
+
+---

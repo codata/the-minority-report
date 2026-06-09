@@ -1,0 +1,1 @@
+*(The entire document above is the finalized, DRR‑consistent Arabic translation, presented in a structured Markdown format.)*

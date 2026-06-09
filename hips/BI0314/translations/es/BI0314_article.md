@@ -1,0 +1,43 @@
+```markdown
+### Definition
+La enfermedad aguda de necrosis hepato‑pancreática (AHPND) es causada por cepas virulentas de *Vibrio parahaemolyticus* y especies relacionadas de *Vibrio*. Las mortalidades asociadas a AHPND ocurren tempranamente en el ciclo de producción, usualmente dentro de 30 a 35 días tras la introducción, y por esta razón AHPND fue inicialmente referida como síndrome de mortalidad temprana (OIE, 2023).
+
+### Primary reference(s)
+OIE, 2023. *Manual of Diagnostic Tests for Aquatic Animals: Acute Hepatopancreatic Necrosis Disease*. Capítulo 2.2.1. Organización Mundial de la Salud Animal (OIE). Accedido el 12 de marzo de 2025.
+
+### Annotations
+#### Additional scientific description
+La enfermedad aguda de necrosis hepato‑pancreática (AHPND) es una enfermedad bacteriana que ha causado mortalidades masivas en poblaciones criadas de camarón de pata blanca y camarón tigre gigante. El agente causal son cepas virulentas de *Vibrio parahaemolyticus* y cuatro otras especies de *Vibrio* (*V. harveyi*, *V. campbellii*, *V. owendii*, *V. punensis*). AHPND fue listada por la Organización Mundial de la Salud Animal (OIE) como enfermedad notificable en 2016 (OIE, 2019a). La enfermedad fue inicialmente reportada en Asia en 2010. Desde entonces ha sido reportada en las Américas (2013) y África (2017). Vea WOAH WAHIS para información reciente sobre distribución a nivel país (OIE, 2023). Los agentes causales, descubiertos en 2013, son aislamientos de *V. parahaemolyticus* y especies relacionadas de *Vibrio* que portan un plásmido de 69‑73 kbp (pVA1) que contiene genes *pirABvp* que producen proteínas (12,7 kDa y 50,1 kDa) que actúan conjuntamente para causar AHPND. Los genes de la toxina *pirABvp* en estas especies de *Vibrio* son similares a los genes de la toxina *pirAB* de *Photorhabdus spp.*, que son bacterias gram‑negativas, luminiscentes, en forma de bastón de la familia *Enterobacteriaceae* (FAO, 2018). La *PirAB* tiene propiedad insecticida; su toxicidad resulta en hinchazón severa y desprendimiento del epitelio del intestino medio en larvas de la polilla *Plutella xylostella*. Signos clínicos y mortalidad de AHPND pueden iniciar tan pronto como 10 días después de la introducción. Signos clínicos principales involucran el hígado‑páncreas del camarón: atrofia significativa, pérdida de color, y presencia de manchas o rayas negras debido a tubérculos melanizados. Signos clínicos adicionales incluyen cáscaras blandas y estómago vacío o casi vacío (OIE, 2019a).
+
+### Metrics and numeric limits
+No disponible.
+
+### Key relevant UN convention / multilateral treaty
+Marco Sendai para la Reducción del Riesgo de Desastres 2015‑2030.
+
+### Drivers
+La enfermedad aguda de necrosis hepato‑pancreática es causada por cepas únicas de *V. parahaemolyticus* y cuatro otras especies de *Vibrio*. Las bacterias *Vibrio* son ubicuas en ambientes marinos y de agua salobre, y sus poblaciones se ven afectadas por temperatura, salinidad y turbidez. Estas bacterias relacionadas con AHPND pueden estar presentes tanto en el camarón cultivado como en el agua, sedimentos y organismos asociados en los estanques de cultivo y en el entorno acuático circundante (OIE, 2019a).
+
+### Impacts
+Signos clínicos y mortalidad de AHPND pueden iniciar tan pronto como 10 días después de la introducción. Signos clínicos principales involucran el hígado‑páncreas del camarón: atrofia significativa, pérdida de color, y presencia de manchas o rayas negras debido a tubérculos melanizados. Signos clínicos adicionales incluyen cáscaras blandas y estómago vacío o casi vacío (OIE, 2019a).
+
+### Multi‑hazard context
+Brotes de enfermedad de camarón, que se consideran la causa principal de pérdida de producción en la cría de camarón, han traído insostenibilidad socio‑económica y ambiental a la industria de la acuicultura de camarones (Kumar et al., 2021).
+
+### Risk Management
+Se han intentado varios métodos terapéuticos, con resultados mixtos, para combatir AHPND en poblaciones de camarones infectados en granjas, pero existe falta de datos científicos que corroboren la eficacia de sus reivindicaciones. Estos incluyen antibióticos, terapia con bacteriófagos, probióticos, etc. (FAO, 2020). Desde la aparición de AHPND, los productores de camarón en el Sudeste Asiático y Latinoamérica han cambiado diseños y operaciones de granjas para facilitar el manejo de esta enfermedad; tales cambios incluyen el uso de estanques más pequeños y revestidos; drenajes centrales; agua limpia prefiltrada; tilapia para remoción de sedimentos; aumento de aireación; regímenes de alimentación frecuentes para reducir alimento sin comer; y probióticos aplicados a los estanques. Se han implementado medidas de bioseguridad como el uso de post‑larvas libres de patógenos y control de acceso al sitio de cultivo para prevenir la introducción de patógenos. Estas estrategias de manejo parecen haber sido efectivas, ya que la producción mundial de camarón ha mostrado una recuperación gradual desde 2016 (FAO, 2020). Buenas prácticas de acuicultura y bioseguridad incluyen la gestión de la granja (selección antes de la introducción; preparación del agua y fondo del estanque); destrucción y disposición adecuada de camarones enfermos; desinfección de instalaciones afectadas; control de vectores; contención mediante control de movimiento y zonificación; y evitación de fuentes de estrés (densidad alta de cultivo, mala calidad del agua u otras condiciones ambientales subóptimas como temperatura o salinidad subóptimas) (FAO, 2020). La Organización Mundial de la Salud Animal (OIE) brinda recomendaciones sobre AHPND que incluyen asesoría sobre importación, tránsito y mantenimiento de estatus libre de AHPND (OIE, 2024). Un informe publicado conjuntamente por la Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO) y la Sociedad de Pesquerías de Asia en 2018, con el objetivo de actualizar el conocimiento y la experiencia en el manejo de AHPND y temas relacionados desde la perspectiva de gobierno, academia y sectores productores (FAO, 2018).
+
+### Monitoring
+La sección y la tabla a continuación ofrecen una visión general del monitoreo para la enfermedad de camarón – enfermedad hepato‑pancreática aguda. Esta información puede usarse para pronosticar dentro de un sistema de alerta temprana nacional (EWS). Dado que las capacidades y procesos de EWS difieren entre países, la información más actual y específica sobre el EWS debe obtenerse de la agencia o autoridad nacional o regional responsable de la gestión de desastres.  
+**¿Qué institución(es) producen Datos/Información de Riesgo de Desastre?** Organización Mundial de la Salud Animal (OIE); Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO); Ministerios de Pesca.  
+**¿Cómo se observa / monitorea / pronostica el riesgo?** Se observa y monitorea clínicamente a través de signos, incluyendo por ejemplo hígado‑páncreas pálido‑blanco, atrofia, estómago y intestino medio vacíos, manchas o rayas negras visibles dentro del hígado‑páncreas (debido a tubérculos melanizados) y cáscaras blandas en la fase crónica de la enfermedad.
+
+### References
+FAO, 2018. *FAO Technical Assistance Efforts to Deal with Acute Hepatopancreatic Necrosis Disease (AHPND) of Cultured Shrimp*. Food and Agriculture Organization of the United Nations (FAO). Accedido el 12 de marzo de 2025.  
+FAO, 2020. *Shrimp acute hepatopancreatic necrosis disease strategy manual*. Food and Agriculture Organization of the United Nations (FAO). Accedido el 12 de marzo de 2025.  
+Kumar, V., Roy, S., Behera, B.K., Bossier, P., Das, B.K., 2021. Acute Hepatopancreatic Necrosis Disease (AHPND): Virulence, Pathogenesis and Mitigation Strategies in Shrimp Aquaculture. *Toxins (Basel)*, 13(8):524. doi: 10.3390/toxins13080524. PMID: 34437395; PMCID: PMC8402356. Accedido el 18 de junio de 2025.  
+OIE, 2019a. *Manual of Diagnostic Tests for Aquatic Animals: Acute Hepatopancreatic Necrosis Disease*. Capítulo 2.2.1. Organización Mundial de la Salud Animal (OIE). Accedido el 12 de marzo de 2025.  
+OIE, 2019b. *Aquatic Animal Health Code: Acute hepatopancreatic necrosis disease*. Capítulo 9.1. Organización Mundial de la Salud Animal (OIE). Accedido el 12 de marzo de 2025.  
+OIE, 2023. *Manual of Diagnostic Tests for Aquatic Animals: Acute Hepatopancreatic Necrosis Disease*. Capítulo 2.2.1. Organización Mundial de la Salud Animal (OIE). Accedido el 12 de marzo de 2025.  
+OIE, 2024. *Aquatic Animal Health Code: Acute hepatopancreatic necrosis disease*. Capítulo 9.1. Organización Mundial de la Salud Animal (OIE). Accedido el 12 de marzo de 2025.
+```

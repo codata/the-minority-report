@@ -1,0 +1,1 @@
+aligns terminology with the Controlled Vocabulary for Disaster Risk Reduction, maintains consistency across acronyms, and removes ambiguous or non‑geological terms. All domain‑specific phrases are rendered in standard Ukrainian technical language.

@@ -1,0 +1,38 @@
+> ### Definition  
+> Riooloverstroming treedt op wanneer afvalwater of wanwater uit het rioolnetwerk (via leidingen, drains of greppels) lekt of wanneer het zich opstapelt in toiletten, wastafels of douches binnen een gebouw (Priestly, 2016).  
+>   
+> ### Primary reference(s)  
+> Priestly, S., 2016. Sewer flooding. House of Commons Library, London. Aangetrokken 26 januari 2025.  
+>   
+> ### Annotations  
+> Extra wetenschappelijke beschrijving  
+> Drain‑ en/of riooloverstroming is een toestand waarbij afvalwater en/of oppervlaktewater ontsnapt uit of niet binnenkomt in een drain‑ of riolagesysteem en het op het oppervlak blijft of binnen gebouwen komt. Drains en/of riolen kunnen ook hydraulische overschuif ondergaan, wat een toestand is waarin afvalwater en/of oppervlaktewater onder druk wordt gehouden binnen een gravitatie‑drain of riolagesysteem, maar niet ontsnapt om de oppervlakte te overstromen (European Standard, 1995). Het UNESCO Intergovernmental Hydrological Programme (IHP) Urban Water Series, bestaande uit een reeks boeken over stedelijk waterbeheer, behandelt fundamentele kwesties met betrekking tot de rol van water in steden en de effecten van urbanisatie op de hydrologische cyclus en waterbronnen. Door te focussen op geïntegreerde benaderingen voor duurzaam stedelijk waterbeheer, biedt de Series waardevolle wetenschappelijke en praktische informatie voor stedelijke waterprofessionals, beleidsmakers en opvoeders wereldwijd (UNESCO, 2011). Waterbeheer is doorgaans sterk gedecentraliseerd, met de algehele verantwoordelijkheid op het niveau van de lokale overheid. Er zijn echter nog landen waar het federale niveau of de staat een sleutelrol spelen in de dagelijkse werking (UNESCO / ARCEAI IdF, 2016). In 1970 identificeerde de Verenigde Naties drie megasteden. Dit aantal steeg naar 10 in 1990 en 28 in 2014. Volgens projecties zullen er in 2030 41 megasteden zijn, veel in de minst ontwikkelde landen. Door de geschiedenis heen hebben deze steden vaak zowel tijd als middelen gemist om hun stedelijke diensten, inclusief die met betrekking tot water, sanitaire voorzieningen en regenwaterafvoer, te ontwikkelen. Deze situatie creëert diepe kwetsbaarheden en complexe uitdagingen. Het is cruciaal dat megasteden hun ervaringen delen om diensten te ontwikkelen die voldoen aan de verwachtingen van hun inwoners (UNESCO / ARCEAI IdF, 2016). De studie van hydrologische extreme moet rekening houden met het feit dat mensen deel uitmaken van het hydrologische systeem, zowel als agenten van verandering als begunstigden van ecosystemendiensten. Hoewel er significante vooruitgang is geboekt in het koppelen van hydrologische en biogeofysische modellen in het afgelopen decennium, blijven deze vooruitgangen onbereikbaar voor besluitvormers en andere professionals in het watersektor. Met de meeste rivierbedding die niet langer ‘natuurlijk’ is omdat mensen leven en interageren met het continu veranderende hydrologische systeem, blijft er een behoefte aan een beter begrip van de gekoppelde mens‑ecosystemen (UNESCO IHP, 2019).  
+>   
+> ### Metrics and numeric limits  
+> Niet geïdentificeerd.  
+>   
+> ### Key relevant UN convention / multilateral treaty  
+> De European Committee for Standardization (CEN) biedt hydraulische prestatiecriteria in de Europese Norm EN 752 (CEN, 1996 & 1997).  
+>   
+> ### Drivers  
+> Stedelijke overstromingen veroorzaakt door zware pluviale regenstormen zijn gerapporteerd voor een toenemend aantal locaties wereldwijd (Grüning & Grimm, 2015; Schmitt & Scheid, 2020). Gedurende vele jaren was het ontwerp van stedelijke afvoersystemen gebaseerd op concepten van ontwerpstormfrequenties. Oppervlakteafvoer en rioolstroomwaarden zijn berekend voor site‑specifieke neerslagintensiteiten geleverd door nationale weersdiensten of databases (IDF‑kuren) en vereiste rioolpijples en diameters zijn geselecteerd. Er is weinig aandacht besteed aan het mogelijke optreden van riooloverstroming en resulterende schade, in het algemeen, en in termen van site‑specifieke factoren van overstromingsgevaar (Schmitt & Scheid, 2020). In sommige stedelijke gebieden worden rioolnetwerken en drains vaak over tijd geblokkeerd door onvoldoende onderhoud, wat leidt tot riooloverstromingen tijdens stormen en overstromingsincidenten (Dang et al., 2025). Deze uitdaging is bijzonder acuut in dichtbevolkte steden in ontwikkelingslanden in Azië, waar afvoersystemen vaak onvoldoende zijn (Acosta‑Coll et al., 2018).  
+>   
+> ### Impacts  
+> De ernst en schaal van stedelijke overstromingen worden beïnvloed door factoren zoals neerslagintensiteit, duur en frequentie (Dang et al., 2025). Afvalwater bevat schadelijke micro-organismen zoals bacteriën, virussen en protozoa. Dit draagt aanzienlijk bij aan de verspreiding van ziekten zoals tyfus en cholera en kan de kans vergroten op worminfecties uit bodem besmet met ontlasting. De overstroming zelf kan populaties verplaatsen en leiden tot verdere gezondheidsproblemen (Howard et al., 2002). Mensen moeten vermijden om een overstromde kelder binnen te gaan of matches te ontsteken tot de nutsbedrijven het gas en de elektrische dienst hebben afgesloten. Overstromingen in stedelijke afvoersystemen treden op in verschillende stadia van hydraulische overschuif, afhankelijk van het afvoersysteem (afzonderlijk of gecombineerd), algemene ontwerpkenmerken en specifieke lokale beperkingen. Wanneer particuliere afvalwaterdrains rechtstreeks zijn aangesloten op het openbare riool zonder terugslagkleppen, zijn de mogelijke effecten van hydraulische overschuif afhankelijk van de niveaus van de laagste rioolinlaat binnen het huis, de riolerijn en het waterpeil tijdens overschuif. Wanneer het waterpeil in het openbare riool het niveau van de gravities inlaten in het huis onder straatniveau overschrijdt, zal er binnen het huis overstroming optreden door terugslag effecten. In zo’n geval kan overstroming optreden, evenals oppervlakteoverstroming. Op dezelfde manier kan hydraulische overschuif in het riool het water op particuliere eigendommen via stormwaterafvoer brengen, wanneer hun inlaatsniveau onder het waterpeil van de overschuif storm of gecombineerd riool ligt. In beide gevallen kan de frequentie van overstroming, direct gekoppeld aan het niveau van inlaten versus waterpeil (drukhoogte) in het riool, gemakkelijk voorspeld worden door hydrodynamische rioolstrom‑simulaties, onder voorbehoud van de beschikbaarheid van fysieke gegevens voor particuliere drains en openbare rioleringssystemen (Schmitt et al., 2002).  
+>   
+> ### Multi‑hazard context  
+> De onderstaande figuur samenvat gebruikelijke interacties tussen drain‑ en riooloverstroming en andere gevaren. Deze informatie moet met voorzichtigheid gebruikt worden en mag niet als enige basis dienen in Disaster Risk Management, vooral omdat sommige interacties mogelijk niet zijn inbegrepen. Let op dat gevaarlijke gebeurtenissen die samen of lokaal in ruimte of tijd optreden niet noodzakelijkerwijs veroorzaken, versterken of anderszins gerelateerd zijn aan elkaar. Specifieke voorbeelden van multi‑hazard context kunnen gevonden worden in de ‘Hazard drivers’ en ‘Impacts’ secties hierboven.  
+>   
+> ### Multi‑hazard diagram  
+> (Geen informatie beschikbaar)  
+>   
+> ### Risk Management  
+> Stedelijke afvoersystemen zijn kritische infrastructuur voor het beheren van overstromingsrisico's in steden. Door klimaatverandering gecreëerde intense regenval verkort de tijd die stedelijke bewoners hebben om te reageren tijdens noodsituaties.  
+>   
+> ### Monitoring  
+> Geen informatie beschikbaar.  
+>   
+> ### References  
+> (Referentielijst zoals gegeven)
+
+---

@@ -1,0 +1,1 @@
+preserves the controlled vocabulary, uses consistent Ukrainian terminology, and adheres to Markdown formatting suitable for technical hazard profile documentation.*

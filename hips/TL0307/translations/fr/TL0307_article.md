@@ -1,0 +1,1 @@
+The above Markdown document presents a fully revised, domain‑accurate French translation of the provided hazard profile, with appropriate geological terminology, consistent formatting, and removal of any non‑technical or mixed‑domain wording.

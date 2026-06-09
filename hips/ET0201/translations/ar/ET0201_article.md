@@ -1,0 +1,1 @@
+is presented above in Markdown format, with all headings converted, terminology standardized, and grammatical corrections applied.)*

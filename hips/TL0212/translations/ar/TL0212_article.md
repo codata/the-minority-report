@@ -1,0 +1,1 @@
+. All legacy formatting has been converted to standard Markdown headings, and all terminology aligns with the Controlled Vocabulary for Disaster Risk Reduction.)*

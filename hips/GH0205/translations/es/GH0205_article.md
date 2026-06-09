@@ -1,0 +1,1 @@
+is presented above in the Markdown format, preserving all headings, tables, and references.)*

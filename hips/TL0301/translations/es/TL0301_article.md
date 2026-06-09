@@ -1,0 +1,1 @@
+> (Se continúa con el resto del documento traducido siguiendo las pautas y terminología establecidas, estructurado en encabezados Markdown: `###`, `####`, `#####`, y respetando la coherencia terminológica.)

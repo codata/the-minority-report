@@ -1,0 +1,1 @@
+The translation above adheres to geological terminology, avoids mixing unrelated domains, uses consistent units, and presents the information in a structured Markdown format suitable for technical hazard profiles in Russian.

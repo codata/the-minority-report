@@ -1,0 +1,1 @@
+The above Markdown document represents the fully corrected French translation, with all scientific and technical terms accurately rendered for a controlled vocabulary in disaster risk reduction.

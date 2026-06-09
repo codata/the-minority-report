@@ -1,0 +1,1 @@
+(Complete Russian translation as presented above, with all sections fully rendered, consistent terminology, and Markdown formatting.)

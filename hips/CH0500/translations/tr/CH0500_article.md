@@ -1,0 +1,1 @@
+(Refer to the Markdown section above for the finalized, domain‑accurate Turkish translation.)

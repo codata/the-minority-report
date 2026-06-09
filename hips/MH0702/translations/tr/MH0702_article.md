@@ -1,0 +1,1 @@
+is presented above, formatted in Markdown with appropriate headings and tables. All terminology has been verified against DRR context, ensuring geological precision and consistency.*

@@ -1,0 +1,1 @@
+maintains technical accuracy, consistent terminology, and proper Markdown formatting, fully aligned with the Controlled Vocabulary for Disaster Risk Reduction context.

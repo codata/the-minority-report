@@ -1,0 +1,1 @@
+consistently applies German geological terminology, maintains DRR context, and formats the document as a clear, Markdown‑compatible structure.

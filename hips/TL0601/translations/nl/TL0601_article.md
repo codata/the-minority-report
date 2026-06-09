@@ -1,0 +1,1 @@
+The above Markdown document provides the fully corrected Dutch translation, consistent with geological and nuclear safety terminology, with proper formatting and clarity.

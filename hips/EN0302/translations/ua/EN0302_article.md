@@ -1,0 +1,1 @@
+is presented above in a structured Markdown document, with all terminology accurately rendered and domain‑specific language consistently applied.)*

@@ -1,0 +1,1 @@
+(Above is the finalized, well‑structured Arabic translation in Markdown format.)

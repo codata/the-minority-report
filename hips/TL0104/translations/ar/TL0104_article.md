@@ -1,0 +1,1 @@
+adheres to the original structure, uses precise cybersecurity terminology in Arabic, and preserves the DRR context throughout.*

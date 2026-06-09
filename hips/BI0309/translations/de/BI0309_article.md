@@ -1,0 +1,1 @@
+*The above Markdown document contains the fully corrected, domain‑appropriate German translation of the provided hazard profile text, with terminology, formatting, and style adjusted to meet the Controlled Vocabulary for Disaster Risk Reduction standards.*

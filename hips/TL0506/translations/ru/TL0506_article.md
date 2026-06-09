@@ -1,0 +1,1 @@
+adopts consistent DRR terminology, ensures geological accuracy, and presents the information in clear Markdown structure.

@@ -1,0 +1,1 @@
+*(The above Markdown block is the finalized, properly formatted Dutch translation of the original English technical hazard profile.)*

@@ -1,0 +1,1 @@
+The Markdown document above provides the final, domain‑accurate translation of the original English text into Italian, fully aligned with the Controlled Vocabulary for Disaster Risk Reduction context.

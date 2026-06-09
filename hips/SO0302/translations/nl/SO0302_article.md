@@ -1,0 +1,1 @@
+uses consistent, field‑appropriate Dutch terminology, removes mixed‑domain inaccuracies, and presents the document in clear Markdown format.

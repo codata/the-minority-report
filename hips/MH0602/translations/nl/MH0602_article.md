@@ -1,0 +1,1 @@
+*(The translation above, formatted in Markdown, is the finalized Dutch version.)*

@@ -1,0 +1,1 @@
+aligns with Dutch geological terminology, follows the Controlled Vocabulary for Disaster Risk Reduction, and presents the information in a clear, markdown‑formatted structure.

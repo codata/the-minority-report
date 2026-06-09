@@ -1,0 +1,1 @@
+The above Markdown document provides a fully vetted, domain‑accurate Arabic translation of the provided hazard profile text, ensuring consistency with geological and disaster‑risk terminology.

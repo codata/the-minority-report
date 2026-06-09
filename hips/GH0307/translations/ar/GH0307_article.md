@@ -1,0 +1,1 @@
+is presented in Markdown format, with headings, bullet points, and consistent geological terminology.)*

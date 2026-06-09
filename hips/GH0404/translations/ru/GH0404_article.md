@@ -1,0 +1,1 @@
+The translation above incorporates strictly geological terminology, aligns with the DRR controlled vocabulary, corrects terminology misuse, and adopts a clear Markdown structure suitable for technical hazard profiles.

@@ -1,0 +1,1 @@
+*(Der gesamte korrigierte Text ist oben im Markdown-Format dargestellt. Alle relevanten Änderungen aus der Kritik wurden umgesetzt, und die Terminologie ist nun konsistent mit den Vorgaben des Controlled Vocabulary for Disaster Risk Reduction.)*

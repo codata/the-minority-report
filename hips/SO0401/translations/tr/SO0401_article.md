@@ -1,0 +1,51 @@
+### Tanım  
+Mali şok, finans sektöründen kaynaklanan beklenmeyen bir rahatsızlık olup, bir ekonomi üzerinde (örneğin ulusal, bölgesel veya küresel) önemli bir etkiye sahiptir (ECB, 2013). Terim, genellikle negatif etkileri olan olayları ifade etmek için kullanılır.
+
+### Birincil Referans(lar)  
+ECB, 2013. *Mali Şoklar ve Makroekonomi: Heterojenlik ve Non‑Linearities.* Avrupa Merkez Bankası (ECB), Ara Sözlük Serisi No. 143. 20 Mart 2025 tarihinde erişildi.
+
+### Ek Bilimsel Açıklama  
+*Mali şok* terimi, finansal sistemdeki bozulma olayını genellikle varlıkların ani yeniden fiyatlandırılması (çoğu kez ekonomik koşulların şiddetli bozulması ile birlikte) ile ilişkilendirir. Mali şoklar öngörülmesi zor olsa da, borçluların ödenebilirlik yeteneklerine göre aşırı risk alındığında (örneğin yüksek kaldıraçlı firmalar) daha olasıdır (Peersman, 2015). Mali şoklar, finansal sistem içinde ve dışında farklı faktörlerle tetiklenebilir. Genellikle, ekonomik koşulların kötüleşmesi finansal kurumların ödenebilirliğini ve piyasaları zayıflattığında, bu da firmalar ve hanehalkı için daha sıkı finansal koşullara yol açar (Ong & Jobst, 2013). Önemli bir ekonomik yavaşlama, işletme iflaslarını, yüksek işsizliği ve sınırlı kamu yatırımlarını artırabilir. Şiddetli varlık fiyat düşüşü tüketicileri ve işletmeleri kredilerini geri ödeyemez hâle getirdiğinde ve finansal kurumlar likiditeye erişim sağlayamadığında (nakit veya kolayca nakde çevrilebilir varlıklar) mali şoklar finansal krizlere dönüşebilir (Moretti ve diğ., 2020). Örneğin, 2007‑2009 Küresel Finansal Krizi öncesinde ABD sub‑prime mortgage piyasasının çöküşü, borçluların aşırı kaldıraçlanması, sıcak bir konut piyasası ve bankaların mortgage kredilerini yeniden paketleyip yeni finansal araçlara dönüştürürken (menkul kıymetleştirme) şeffaflık eksikliği nedeniyle büyük ölçüde etkilenmiştir (Jobst, 2008). Güncel döviz ve/veya egemen borç krizleri, sürdürülebilir dış dengesizlikleri (kamu hesabının bozulması, kamu veya özel sektör kuruluşlarının yabancı para borcunun ani geri çekilmesi) finansal sistemde kırılganlıkları artırabilir (Claessens ve diğ., 2014).
+
+### Metrikler ve Sayısal Sınırlar  
+Mali şoklara bağlı ölçütler genellikle finansal istikrarın yönlerine odaklanır, çünkü mali şokların oluşumunu tahmin etme zorluğu nedeniyle (IMF, 2020a). Örnek ölçütler:  
+
+- **Finans sektörü:** bankaların ve banka olmayan finansal kurumların (sigorta şirketleri, yatırım fonları ve diğer varlık yöneticileri) ödenebilirlik, likidite, varlık kalitesi; temerrüt riski (kredi derecelendirmesi veya temerrüt swap yayılımı).  
+- **Piyasalar:** hisse senedi fiyatları, kurumsal tahvil spreadleri (temerrüt riski göstergesi), piyasa likiditesi ve dalgalanma, konut fiyatları (kabuk/çöküş göstergesi).  
+- **Diğer sektörler:** kurumsal finansal risk ölçütleri (örneğin, kurumsal borç), hanehalkı borcu, kamu borcu ve aynı zamanda gerçek ekonomik aktivite (örneğin, GSYİH büyümesi, faiz oranları, enflasyon) ve dış oranlar (örneğin, ödemeler dengesi, döviz kurları).
+
+### İlgili BM Konvansiyonu / Çok Taraflı Anlaşma  
+- Uluslararası Para Fonu (IMF, 2020b) Anlaşma Maddeleri  
+- Basel III: Daha Dayanıklı Bankalar ve Bankacılık Sistemleri için Küresel Düzenleyici Çerçeve (Bank for International Settlements, 2020).
+
+### Sürücüler  
+Birkaç tehlike mali şoklara yol açabilir.
+
+### Etkiler  
+Mali şoklar tedarik zinciri başarısızlığı ve sivil huzursuzluklara yol açabilir.
+
+### Çok Tehlike Bağlamı  
+Aşağıdaki figür, mali şok ve diğer tehlikeler arasındaki yaygın etkileşimleri özetler. Bu bilgi dikkatle kullanılmalı ve yalnızca Afet Risk Yönetimi içinde güvenilir kabul edilmemelidir; özellikle bazı etkileşimler dahil edilmemiş olabilir. Bir arada veya aynı zamanda meydana gelen tehlikeler her zaman birbirini tetikleme, artırma veya başka bir şekilde ilişkilendirmez. Çok tehlike bağlamına ilişkin özel örnekler yukarıdaki “Tehlike Sürücüleri” ve “Etkiler” bölümlerinde bulunabilir.
+
+### Çok Tehlike Diyagramı  
+
+### Risk Yönetimi  
+Bir ülkenin finans sektörünün sağlığı ve işleyişi, hem kendi hem de diğer ekonomilerin geniş kapsamlı etkileri vardır. Ödenebilirlik denetleyicileri ve denetmenleri, finansal sistemin (araçları, piyasaları ve altyapıları) hanehalkı, işletme ve hükümetlere depo, kredi ve diğer finansal hizmetleri sunma kapasitesini korumada merkezi rol oynar (OECD, 2010). Özel teşvikleri kamu çıkarına uyacak şekilde düzenleyen politikalar geliştirmek ve aşırı risk alma sınırlandırmak zordur. Bazı durumlarda, bir finansal kurum ve/veya piyasa **Çok Büyüktür‑Küçük Olmaz (TBTF)** olarak kabul edilebilir; ödenebilirliği ve başarısızlığı finansal sistemin işleyişinde büyük aksaklıklara yol açabilir, bu da finansal koşulların sıkılaşmasına ve ekonomik faaliyetlerin daralmasına neden olur. Bu durum, hükümetin (doğrudan finansal destek önlemleriyle) stres dönemlerinde kurtarıcı olacağını ummaya yol açar. Mevduat sigortası (bankaların başarısız olması durumunda mevduatçıların paralarına erişimini garanti eden) gibi güvenlik ağları, finansal sistemin stres dönemlerinde işleyişini sürdürmesine yardımcı olur. Mali şoklar için erken uyarı sistemleri, piyasa güveninin ve kurumsal ödenebilirliğin hızla düşmesi riskini azaltır; bu, geniş ekonomik zorluklar, iş kaybı ve sosyal istikrarsızlığa yol açabilir. Bu sistemler gerçek‑zaman denetimi ve periyodik değerlendirmelerle çalışır. Ulusal düzeyde, düzenlenmiş finansal kurumlar hem mikroprudensiyel hem de makroprudensiyel gözetimle karşı karşıyadır: Mikroprudensiyel denetim, bankalar, sigorta şirketleri ve yatırım fonları gibi bireysel finansal kurumların güvenliğini ve sağlamlığını hedefler. Denetçiler, düzenli yerinde ve dışarıda incelemeler yapar, bu kurumların iyi yönetildiğinden ve olumsuz şokların (örneğin, resesyon) etkisini emmek için yeterli sermayeye sahip olduğundan emin olur. Makroprudensiyel gözetim, bu finansal denetim kavramını tüm sistem ölçeğine yükseltir, tüm veya birden fazla kurum arasındaki ortak zayıflıkları hedefler. Makroprudensiyel önlemler (ekstra sermaye gereklilikleri gibi) bireysel firmalarla sınırlı değildir; tüm ilgili kurumlara eşit olarak uygulanır. Uluslararası kurumlar, ortak standartlar ve akran incelemeleri (örneğin, Bank for International Settlements, Financial Stability Board) yoluyla denetmenler ve düzenleyiciler arasında sınır ötesi koordinasyonu kolaylaştırır; bazıları ise çok taraflı gözetim ve ülkelerle doğrudan etkileşim (örneğin, kapasite geliştirme ve teknik yardım) üzerinde odaklanır (IMF, 2020a; Dünya Bankası, 2020). Uluslararası düzeyde bu faaliyetler şunları içerir: Finansal Sektör Değerlendirme Programı (FSAP), bir ülkenin finans sektörünün kapsamlı ve derinlemesine analizi. FSAP değerlendirmeleri, gelişmekte olan ekonomiler ve ortaya çıkan pazarlar için IMF ve Dünya Bankası ortak sorumluluğundadır; “gelişmiş ekonomiler” için yalnızca Uluslararası Para Fonu sorumludur (IMF, 2019). Erken Uyarı Alıştırması (EWE), IMF ve Finansal İstikrar Kurulu (FSB) tarafından yılda iki kez yapılan, düşük olasılıklı, yüksek etki risklerin (aykırı riskler olarak da bilinir) küresel ekonomi için bir değerlendirmesidir. 2008 yılında, G20, her iki kurumun da küresel ekonomi için düşük olasılıklı, yüksek etki riskleri belirlemesine yardımcı olmak amacıyla bir erken uyarı alıştırması geliştirmelerini istedi.
+
+### İzleme  
+Merkez bankaları, ticari finansal kurumlar ve Uluslararası Para Fonu, Finansal İstikrar Kurulu ve Bank for International Settlements gibi uluslararası kuruluşlar, mali şok riskine ilişkin verileri izler ve üretir. Bu, finansal kurumların belirli ve tüm sistem ölçeğindeki denetimi ve gözetimini içerir; varlık fiyatları, kredi boşluğu (örneğin, aşırı kredi verme ölçütleri) ve çıktı boşluğu (örneğin, ekonomik ısınma veya yavaşlama göstergeleri) gibi ölçütleri içerir (Chen & Svirydzenka, 2021). Erken uyarı sistemleri, mali şokların ortaya çıkmasından birkaç ay veya hatta yıllar önce potansiyel şok sinyallerini algılayabilir, toplanmış bilgilere dayanarak (Chen & Svirydzenka, 2021). Bu bilgi daha sonra kamu raporlaması ve finansal kurumlar ve düzenleyiciler arasındaki doğrudan iletişim yoluyla paylaşılır.
+
+### Referanslar  
+Bank for International Settlements, 2020. *Basel III: Daha Dayanıklı Bankalar ve Bankacılık Sistemleri için Küresel Düzenleyici Çerçeve*. 17 Şubat 2025 tarihinde erişildi.  
+Claessens, S., A. Kose, L. Laeven ve F. Valencia, 2014. *Finansal Krizler: Nedenleri, Sonuçları ve Politika Tepkileri*. Uluslararası Para Fonu. 17 Şubat 2025 tarihinde erişildi.  
+Chen, S. ve K. Svirydzenka, 2021. *Finansal Döngüler – Banka Krizlerinin Erken Uyarı Göstergeleri?* IMF Çalışma Kağıdı WP/21/116. 6 Şubat 2025 tarihinde erişildi.  
+IMF, 2019. *Finansal Sektör Değerlendirme Programı (FSAP)*, 3 Haziran 2019. Uluslararası Para Fonu (IMF). 17 Şubat 2025 tarihinde erişildi.  
+IMF, 2020a. *Uluslararası Para Fonu Anlaşma Maddeleri*. Uluslararası Para Fonu (IMF). 17 Şubat 2025 tarihinde erişildi.  
+IMF, 2020b. *Küresel Finansal İstikrar Raporu*. Uluslararası Para Fonu (IMF). 17 Şubat 2025 tarihinde erişildi.  
+IMF, 2023. *IMF-FSB Erken Uyarı Alıştırması*. 17 Şubat 2025 tarihinde erişildi.  
+Jobst, A.A., 2008. *Menkul Kıymetleştirme Nedir?* Finance and Development, Eylül 2008, Uluslararası Para Fonu. 17 Şubat 2025 tarihinde erişildi.  
+Moretti, M., M.C. Dobler ve A.P. Chavarri, 2020. *Sistemik Bank Krizlerini Yönetmek: Yeni Dersler ve Yeniden Öğrenilen Dersler*. 11 Şubat 2020, Uluslararası Para Fonu. 17 Şubat 2025 tarihinde erişildi.  
+OECD, 2010. *Etkili ve Verimli Finansal Düzenleme için Politika Çerçevesi*. Ekonomik İşbirliği ve Kalkınma Örgütü (OECD). 17 Şubat 2025 tarihinde erişildi.  
+Ong, L.L. ve A.A. Jobst, 2020. *Stres Testi: İlkeler, Kavramlar ve Çerçeveler*. Uluslararası Para Fonu. 17 Şubat 2025 tarihinde erişildi.  
+Peersman, G., 2015. *Mali şokların ekonomiyi nasıl etkilediği?* 17 Şubat 2025 tarihinde erişildi.  
+World Bank, 2020. *Küresel Finansal Gelişim Raporu 2019/2020: Küresel Finansal Krizden Bir On Yıllık Sonra Banka Düzenlemesi ve Gözetimi.* 17 Şubat 2025 tarihinde erişildi.

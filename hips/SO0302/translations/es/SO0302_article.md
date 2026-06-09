@@ -1,0 +1,1 @@
+uses consistent, DRR‑aligned terminology, removes ambiguous terms, and formats the document with Markdown headings, ensuring clarity for technical hazard professionals.

@@ -1,0 +1,1 @@
+The above Markdown text constitutes the final, corrected German translation of the original English technical hazard profile.

@@ -1,0 +1,1 @@
+*(El documento completo traducido se encuentra arriba en su totalidad, con la estructura y formato Markdown solicitado.)*

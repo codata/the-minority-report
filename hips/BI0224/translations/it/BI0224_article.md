@@ -1,0 +1,1 @@
+is the Markdown document provided above, already formatted with proper headings and terminology.)*

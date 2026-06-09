@@ -1,0 +1,67 @@
+> **Definition**  
+> Flüsse sind gravitative Massbewegungen, die sich nach unten entlang eines Hangs in Form einer Flüssigkeit bewegen. Flüsse hinterlassen häufig eine charakteristische, fanförmige Ablagerung, in der das Landschmuck gestoppt hat (vgl. British Geological Survey 2024). Unterkategorien von Flüssen lassen sich anhand des Typs und Anteils des Materials (z. B. Boden, Trümmer oder Erde) sowie der Geschwindigkeit der Massbewegung definieren (vgl. Cruden & Varnes, 1996; Hungr et al., 2014). Schlammflüsse gelten hier als Unterkategorie der Bodenströmungen. Der Begriff Gesteinslawine beschreibt eine extrem schnelle, massive, flussähnliche Bewegung fragmentierter Gesteine, die aus einer großen Gesteinsrutschbewegung oder einem Gesteinsfall resultiert (Hungr et al., 2014).
+
+> **Primäre Referenzen**  
+> - BGS 2024. British Geological Survey, *Discovering Geology* — Understanding landslides. Abgerufen am 24. Oktober 2024.  
+> - Hungr, O., S. Leroueil & L. Picarelli, 2014. Die Varnes‑Klassifikation der Landschmucktypen, ein Update. *Landslides*, 11:167‑194. DOI 10.1007/s10346‑013‑0436‑y
+
+> **Annotationen**  
+> **Zusätzliche wissenschaftliche Beschreibung**  
+> Trümmerflüsse und Bodenströmungen treten häufig in kleinen, steilen Bachs­kanälen auf und werden oft mit Überschwemmungen verwechselt (Highland & Bobrowsky, 2008). Die Grenze zwischen Trümmerfluss und Schlammfluss ist graduell, wobei ein Schlammfluss aus feinerem Sediment besteht (Hungr et al., 2014).  
+> Einer der häufigsten Typen gravitativer Massbewegungen, die durch intensive Niederschläge ausgelöst werden, ist ein Trümmerfluss. Er wird häufig als kanalisiertes Trümmerfluss bezeichnet, weil er in steilen Gebirgsschnellbächen, üblicherweise während intensiver Niederschlagsereignisse, aber auch bei schnellem Schneeschmelzen ausgelöst wird. In den Medien wird ein Trümmerfluss oft als Mudslide oder Schlammfluss bezeichnet. Ein weiterer Typ des Trümmerflusses heißt Hang‑Trümmerfluss, der auch synonym mit Trümmerlawine verwendet wird (Hungr et al., 2014).  
+> Gesteinslawinen sind eine translationale Form der Massbewegung, bei der das transportierte Material trockenes Gestein ist, das vor oder während des Hang‑Ausfalls fragmentiert wird. Sie sind schnell, haben lange Ausläufe und große Volumina und beinhalten häufig die Einlagerung von Hangmaterial, wodurch oft Trümmerrutsche oder Trümmerflüsse entstehen. Die Bewegung von Gesteinslawinen ist so massiv, dass die Hauptmenge der Gesteinsfragmente zusammen als weitgehend kohärente Masse wirken (Collins, 2014). Oft gibt es eine graduelle Veränderung von Rutschbewegungen zu Flüssen, abhängig vom Wassergehalt, der Mobilität und der Evolution der Bewegung.
+
+> **Messgrößen und numerische Grenzen**  
+> Es gibt keine systematische Möglichkeit, Trümmerflüsse weltweit zu erfassen, jedoch können sie auf Länderebene existieren. Volumenbereich (10³–10⁶ m³) für die meisten Ereignisse (Hungr et al., 2014; Jakob & Hungr, 2005).
+
+> **Wichtiges UN‑Vertrag / multilateraler Vertrag**  
+> Sendai‑Rahmenwerk für Risikoreduktion bei Katastrophen 2015‑2030.
+
+> **Treiber**  
+> Flüsse werden durch Niederschlag, das Schmelzen von Gipfelsee oder -schnee durch vulkanische Hitze oder durch Gletscher‑Ausbruchschwemmungen (Hungr et al., 2014) ausgelöst. Sie können auch aus Rutschbewegungen (vgl. GH0301) und Gesteinslawinen entstehen, die sich zu Trümmerflüssen entwickeln können. Klimawandel‑Einflüsse auf Permafrost sind mit einer steigenden Häufigkeit von Gesteinslawinen verbunden, die durch das Schmelzen von Eis oder das Auftauen von Permafrost ausgelöst werden (USGS, 2018).
+
+> **Auswirkungen**  
+> Gesteins, Trümmer- und Bodenströmungen können verheerende Auswirkungen haben. Ein Beispiel für einen Schlammfluss ist Indonesien, wo am 29. Mai 2006 heißer Schlamm und Gas aus einem Reisfeld in der Nähe eines Explorationsbrunnens in Ost‑Java austreten begannen. Mehr als ein Jahrzehnt später dauert der Lusi‑Schlammfluss weiterhin auf der indonesischen Insel an (NASA, 2019). Im Laufe der Jahre haben fließende Schlammströme des Lusi‑Schlammflusses mehr als 40 000 Menschen vertrieben, 15 Dörfer zerstört und fast 3 Mrd. USD Schaden verursacht (NASA, 2019). Die Lusi‑Eruption ist eine der dramatischsten und zerstörerischsten Eruptionen ihrer Art. Einige Dörfer wurden von 40 m (130 ft) dicken Schlammschichten begraben. Der Schlamm, dessen Konsistenz der von Brei ähnelt, fließt konstant aus dem Hauptauslass von Lusi. Alle dreißig Minuten oder so senden Schubphasen im Fluss Wolken aus Wasser‑Dampf, Kohlendioxid und Methan, die zehn Meter in die Luft schießen (NASA, 2019). Häufig als „Mudslide“ in den Medien bezeichnet, erlitt das britische Kolumba‑Canada die Auswirkungen eines atmosphärischen Flusses im November 2021, der mehrere Trümmerflüsse/Schlammflüsse und Überschwemmungen auslöste, als jede wichtige Straße östlich von Vancouver blockiert, zerstört oder überflutet wurde (Watterodt & Doberstein, 2023). Ein atmosphärischer Fluss ist ein intensives, warmes Niederschlagsereignis, das aus dem Pazifik stammt. Aus diesem Ereignis wurden fünf Personen von einem Trümmerfluss nördlich von Vancouver und östlich von Vancouver weggespült, zwei Trümmerflüsse blockierten eine Autobahn, wobei mehr als 275 Personen 48 Stunden lang eingeschlossen waren. Hauptverkehrswege waren etwa eine Woche blockiert; die Kosten betrugen 675 Mio. $ (kanadische Währung) an versicherten Verlusten, 1‑5 Mio. $ an unversicherten Verlusten und 900 Mio. $ bis 1,5 Mio. $ an geschätzten wirtschaftlichen Verlusten für die Lieferkette und Arbeitsmarkt‑Störungen (Watterodt & Doberstein, 2023). Gesteinslawinen stellen einige der gefährlichsten und teuersten geologischen Gefahren in bergigem Terrain dar. Ein typisches Beispiel war der Frank‑Slide, der am 29. April 1903 auftrat und 110 Mrd. t (~44 Mrd. m³) Kalkstein vom Gipfel des Turtle‑Mountains in Alberta freisetzte. Die fallende Masse war 150 m tief, 425 m hoch und 1 km breit (Frank Slide Interpretive Centre, 2018). Der Frank‑Slide ereignete sich nachts. Er wurde durch ungewöhnliche Wetterbedingungen (wiederholte Frost‑Trocknungszyklen) ausgelöst, die auch von Untergrundminen beeinflusst wurden. Die Gesteinslawine begrub Teile der Stadt Frank und tötete mindestens 80 Menschen in ihrem Weg; sie ist das tödlichste Landschmuckereignis Kanadas (Frank Slide Interpretive Centre, 2018). Im Juli 2021 wurde die Stadt Lytton in BC, Kanada, als heißestes Gebiet der Erde (ca. 49,9 °C) für ein paar Tage aufgezeichnet. Kurz darauf wurde sie von Waldbränden heimgesucht. Der folgende Monat im August lösten Trümmerflüsse aus, die bei starkem Regen in steilen Bachs­kanälen auftraten, die Zerstörung in und um Lytton beitrugen.
+
+> **Multi‑hazard‑Kontext**  
+> Die untenstehende Abbildung fasst die häufigen Interaktionen zwischen Trümmer- und Bodenströmungen (Schlamm) sowie Gesteinslawinen (bekannt als Flüsse) und anderen Gefahren zusammen. Diese Informationen sollten mit Vorsicht verwendet und nicht ausschließlich für das Risikomanagement bei Katastrophen herangezogen werden, insbesondere da einige Interaktionen möglicherweise nicht einbezogen wurden. Beachten Sie, dass gefährliche Ereignisse, die gleichzeitig oder lokal in Raum oder Zeit auftreten, nicht notwendigerweise verursacht, verstärkt oder anderweitig miteinander verbunden sind. Spezifische Beispiele für Multi‑Hazard‑Kontext finden Sie in den Abschnitten „Treiber“ und „Auswirkungen“ oben.
+
+> **Multi‑Hazard‑Diagramm**  
+> (Diagramm in der Originalquelle referenziert)
+
+> **Risikomanagement**  
+> Instrumentelle Überwachung zur Erkennung der Bewegung und Geschwindigkeit kann beispielsweise Dehnungsmessstreifen, GPS (Global Positioning System), Seismometer, Luftbild, Satellitenbilder, LiDAR (Highland & Bobrowsky, 2008) einsetzen, mit variierenden Erfolgsgraden. Minderungskonzepte umfassen aktive Schutzmaßnahmen, die die Gefahr selbst entfernen, und passive Schutzmaßnahmen, die die Auswirkungen (z. B. auf Gebäude, Kommunikationswege) mildern (Dennis & Didier, 2024). Aktive Schutzmaßnahmen können beinhalten:  
+> (i) generelle Methoden wie Oberflächen- oder Tiefenentwässerungssysteme und Hangvegetation, die Erosion durch Abfluss (Gulldurchbruch) und Infiltration begrenzen und die mechanischen Eigenschaften (Reibung, Kohäsion von Gesteinsfugen) verändern;  
+> (ii) Stützstrukturen wie Stützwände, Gesteinsbolzen oder verankertes Netz, das mit Spritzbeton bedeckt ist;  
+> (iii) Drahtnetze (gespannt oder befestigt), d. h. Metallstrukturen, die das Massiv enthalten und die Ausbreitung fallender Gesteine und Blöcke verhindern, die zu einer Flussbewegung führen könnten;  
+> (iv) Abtragung / Abbau, radikale Lösungen, die instabile Elemente entfernen, obwohl diese Lösungen nicht immer so endgültig sind wie erwartet (die kontinuierliche Veränderung und die Explosionsvibrationen sind oft schädlich für die Stabilität der umgebenden Massivkörper) (Dennis & Didier, 2024). In der Nähe der Whistler‑Autobahn in BC wurden Maßnahmen gegen Trümmerflüsse durch Bau von Sammelbecken (Blais‑Stevens & Hungr, 2008) umgesetzt.  
+
+> **Passive Schutzmaßnahmen** umfassen Barrieren, Umleitungsanlagen, Zäune usw., die entweder ablenken, blockieren oder die Flüsse hemmen. Sie werden basierend auf numerischen Simulationen der Flussgefahr platziert, und ihre Nutzung ist abhängig vom Hangmaterial.  
+> (i) Barrieren und Dämme, die am Fuße instabiler Hänge platziert werden, um die Ausbreitung von Gesteinsfragmenten zu stoppen, bevor sie Infrastruktur oder andere exponierte Vermögenswerte erreichen;  
+> (ii) Umleitungsanlagen oder Dämmen, die auf dem Hang installiert werden, um den Fluss in einen Bereich ohne Vermögenswerte zu lenken;  
+> (iii) Schutzgallerien, ähnlich wie Lawinen-Tunnel, schützen wahrscheinlich Kommunikationswege bei der Passage von Korridoren;  
+> (iv) Rigide Zäune können auf steilen Hängen so nah wie möglich an den Ausgangsbereichen platziert werden; jedoch ist deren Installation oft schwierig;  
+> (v) Deformierbares Drahtnetz kann niedriger auf den Hängen platziert werden, bis sie nahe an die relevanten Problemstellen sind; der bekannteste Fall ist die Verwendung von „Unterwasser‑Typ‑Netzen“ (in der Zweiten Weltkrieg verwendet, um die Durchdringung von Häfen durch Unterwasserfahrzeuge zu verhindern), die zwischen starren Pfosten gespannt und von schmelzenden Karabinern gehalten werden; dieses Gerät ist somit berechnet, um eine zuvor bestimmtes Energieeinwirkung zu widerstehen, die in der Studie der Randomness und deren Ausbreitung analysiert wurde (Dennis & Didier, 2024).  
+
+> **Überwachung**  
+> Der Abschnitt und die untenstehende Tabelle bieten einen Überblick über die Überwachung von Flüssen. Diese Informationen können für die Prognose innerhalb eines nationalen Frühwarnsystems (EWS) verwendet werden. Da die EWS‑Kapazitäten und -Prozesse in den Ländern unterschiedlich sind, sollten die aktuellsten und spezifischsten Informationen zu EWS von der zuständigen nationalen oder regionalen Behörde, die für Katastrophenmanagement verantwortlich ist, eingeholt werden.  
+
+> **Institutionen, die Risikodaten/informationen produzieren**  
+> Lokale Behörden; Geologische Untersuchungen können Risikodaten/informationen erzeugen  
+
+> **Wie wird die Gefahr beobachtet/überwacht/vorhersagen?**  
+> Hänge, die Flüsse erzeugen können über Satellitenbilder, InSAR und visuelle Beobachtungen überwacht werden, unter anderem. Andere Techniken umfassen Schwellenbasierte Niederschlagswarnungssysteme.  
+
+> **Referenzen**  
+> - Blais‑Stevens, A., Hungr, O., 2008, *Landslides and their mitigation along the Sea to Sky corridor, British Columbia*, Proceedings from the 4th Canadian Conference on Geohazards, Quebec City QC, 495‑502.  
+> - British Geological Survey, 2024. *Discovering Geology* — Understanding landslides. Abgerufen am 24. Oktober 2024.  
+> - Collins, G.S., 2014. *Rock avalanche*. In: *Encyclopedia of Planetary Landforms*. Springer. Abgerufen am 15. Oktober 2020.  
+> - Cruden, D.M. & Varnes, D.J., 1996. *Landslide types and processes*. In: Turner, A.K. & Schuster, R.L. (Hrsg.), *Landslides: Investigation and Mitigation*. Special Report 247. Transportation Research Board, National Research Council, Washington, DC, 36‑75.  
+> - Dennis, F. & H. Didier, 2024. *Rocky Landslides and Landslides – A Fatality?* *Encyclopedia of the Environment*. Abgerufen am 24. Oktober 2024.  
+> - Frank Slide Interpretive Centre, 2018. *Canada’s Deadliest Rockslide*. https://frankslide.ca/sites/frankslide/files/editor_files/Frank_Slide_S… Abgerufen am 24. Oktober 2024.  
+> - Highland, L.M. & P. Bobrowsky, 2008, *The landslide handbook — A guide to understanding landslides*. US Geological Survey, Circular 1325. Reston, VA: Geological survey. Abgerufen am 24. Oktober 2024.  
+> - Hungr, O., S. Leroueil & L. Picarelli, 2014. *The Varnes classification of landslide types, an update*. *Landslides*, 11:167‑194. DOI 10.1007/s10346‑013‑0436‑y.  
+> - Jakob, M., Hungr, O. & Jakob, D.M., 2005. *Debris‑flow hazards and related phenomena* (Vol. 739). Berlin: Springer.  
+> - NASA, 2019. *A Muddy Mess in Indonesia*. National Aeronautics and Space Administration (NASA). Abgerufen am 24. Oktober 2024.  
+> - USGS, 2018. *United States Geological Survey. Postfire debris‑flow hazards*. Abgerufen am 24. Oktober 2024.  
+> - Watterodt, F. & Doberstein, B., 2023. *The post‑disaster window: The 2021 British Columbia atmospheric river phenomenon as a focusing event for policy change*, ICLR Quick Response Program, Final report, 33 p.

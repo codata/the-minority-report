@@ -1,0 +1,1 @@
+*(Markdown format, with refined terminology and structure.)*

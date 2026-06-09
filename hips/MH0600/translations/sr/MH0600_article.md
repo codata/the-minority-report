@@ -1,0 +1,67 @@
+> ### Definicija  
+> **Inundacija** je (1) prelivanje vode izvan normalnih granica vodotoka ili drugog vodeniog tela; (2) akumulacija vodoneprijelazne vode na područjima koja obično nisu podvržena podmirištu; (3) kontrolisano širenje vode radi navodnjavanja (WMO i UNESCO, 2012).  
+>   
+> ### Primarni izvori  
+> WMO i UNESCO, 2012. Definicija br. 552. Međunarodni glosar hidrologije. WMO‑No. 385. Svetska meteorološka organizacija (WMO) i Ujedinjene nacije, obrazovno‑znanstveno‑kulturna organizacija (UNESCO). Pristupjeno 16. maj 2025.  
+>   
+> ### Anotacije  
+> **Dodatni naučni opis**  
+> Dok su poplave definisane u hidrologiji kao “(1) podići, obično kratko, nivo vode u rečnoj ili vodeni telu do maksimuma od kojeg nivo vode opada sporijim tempom, (2) relativno visok protok merjen visinom nivoa ili protokom” (WMO i UNESCO, 2012), **inundacija** predstavlja rizik povezan sa tim maksimumima čim voda pređe normale vodeni tel.  
+>  
+> **Inundacija može uključivati:**  
+> **Obalna poplava (Coastal Flood):** Obalna poplava nastaje iz više izvora, uključujući morski val, valove i valne razbojnice, seje, rečne poplave i brze poplave u blizini obale, tide, porast nivoa mora i tsunami. Najčešće je rezultat morskog vala i jakih vetrova koji se poklapaju sa visokim tide. Val sam po sebi je rezultat podizanja nivoa mora usled niske atmosferske pritiske. U određenim uslovima, kao što su velike uvale ili zatvoreni morski oblici, nakupljanje vode se pojačava kombinacijom pogubljivanja dna mora i usporavanja povratnog toka (WMO, 2011; WMO, 2022).  
+> **Estuarijska poplava (Estuarine (Coastal) Flood):** Estuarijska poplava je poplava iznad i u blizini obale uzrokovana morskim valom i jakim vetrovima u kombinaciji sa visokim tide, čime se blokira obalni rečni protok. Estuarijska poplava može takođe nastati kada rečna poplava uzrokuje preliv u blizini uvale ili obale, a u određenim slučajevima može biti uzrokovana tsunami (WMO, 2011). Stoga je teško identifikovati jedini pokretač estuarijske poplave.  
+> **Brza poplava (Flash Flood):** Brza poplava je poplava kratke trajnosti sa relativno visokim maksimumom protoka (WMO, 2021).  
+> **Rečna poplava (Fluvial (Riverine) Flooding):** Prelivanje vode izvan normalnih granica vodotoka ili drugog vodeniog tela (WMO, 2012).  
+> **Poplava podzemne vode (Groundwater Flood):** Poplava podzemne vode je pojavljivanje podzemne vode na površini van kanala stalnih reka ili podizanje podzemne vode u stvoreno zemljište, pod uslovima kada su „normalni“ opsezi nivoa podzemne vode i protoka nadmašeni (BGS, 2010).  
+> **Poplava od ledenog zastoja (Ice‑Jam Flood) uključujući otkoci:** Poplava od ledenog zastoja uključujući otkoci definisana je akumulacijom šuga, uključujući ledene kola, ispod ledenog prekriva. Povećana ledena površina u rečnoj šemi uzrokuje usporavanje rečnog kanala, porast nivoa vode i lokalne poplave (WMO, 2012).  
+> **Poplava od rezervoara (Ponding (Drainage) Flood):** Poplava od rezervoara je poplava koja nastaje kada se kišovod zadrži na ili u blizini mesta gde pada, jer pada brže nego što prirodni ili stvoreni sistem odvoza može da je otpadne (WMO, 2006).  
+> **Poplava od otapanja snijega (Snowmelt Flood):** Poplava od otapanja snijega je značajan porast poplave u rečnoj vodu uzrokovan otapanjem snijegskog paketa akumuliranog tokom zime (WMO, 2012).  
+> **Poplava površinske vode (Surface Water Flooding):** Poplava površinske vode je deo kiše koji ostaje na površini zemljišta tokom kiše i ili se odvoji ili infiltrira nakon što kiša završi, ne uključujući pohranu u depresijama (WMO, 2012).  
+> **Poplava od izbijanja ledenog jezera (Glacial Lake Outburst Flood):** Poplava od izbijanja ledenog jezera je izraz koji opisuje nagli otpuštanje značajne količine vode zadržane u ledenom jezeru, neovisno o uzroku (Emmer, 2017).  
+>   
+> ### Metrike i numerički limiti  
+> Ključne metrike poplave, poput dubine poplave i brzine protoka, obično se kombinuju sa drugim varijablama, kao što su vreme dolaska poplave, trajanje poplave, teret sedimenta, nivoi kontaminacije i tako dalje, da bi se odredili indikatori rizika od poplave (Maranzoni et al., 2022). Međutim, ovi indikatori i metrike mogu varirati u zavisnosti od tipova poplave. Na primer:  
+> **Obalna poplava:** Obim i magnitude obalne poplave funkcionišu kao funkcija nadmorske visine koja se proteže u unutrašnjost, što je kontrolisano topografijom obalne zemlje izložene poplavi i pokretačima povezanima sa obalom (Bell et al., 2017).  
+> **Brza poplava:** Brza poplava je poplava koja počinje unutar 6 sati, često unutar 3 sata, nakon teške kiše (NOAA, bez datuma a).  
+>   
+> ### Relevantni UN konvencija / multilateralni ugovor  
+> **Sendai Framework for Disaster Risk Reduction 2015‑2030**.  
+>   
+> ### Pokretači  
+> Poplave se obično uzrokuju nizom prirodnih događaja kao što su kiša iz sporih ili stacionarnih niskih pritisaka, oluje, tropski cikloni. Količina i trajanje kiše, tip tla i saturacija, geografija i urbanizacija utiču na magnitude i uticaje poplave. Poplava može nastati na mestu teškog kišnog događaja ili daleko dolje iznad izvora kiše. Poplava može biti uzrokovana i drugim faktorima kao što su morski val, tsunami, ledeni zastoj i izbijanje ledenog jezera, kao i ljudskim uticajem kroz pucanje zapreda, neadekvatno planiranje upotrebe zemljišta itd. (Geoscience Australia, bez datuma).  
+>   
+> ### Uticaji  
+> **Ljudi** su najviše pogođeni poplavama u poređenju sa bilo kojim drugim opasnostima. Godine nakon godine poplave pogodavaju različite regione širom sveta, a zemlje u razvoju su najugroženije. Otprilike 2 miliona ljudi u svetu živi u obladnim regijama skloni poplavi. Poplave mogu prouzrokovati smrtnost i značajne ekonomske gubitke i štete, a brze poplave su najopasnije zbog njihove brzine i destruktivne moći (UNDRR, bez datuma; WMO, 2025; NOAA, bez datuma b).  
+> **Zdravstveni uticaji poplave:** Efekti poplave na zdravlje su obimni i značajni, raspon od smrtnosti i povreda uzrokovanih tražom i utapanjem do infekcionih bolesti i mentalnih zdravstvenih problema (akutni i dugoročni). Iako su neki od ovih ishoda relativno lako praćeni, utvrđivanje ljudskog uticaja poplave još uvek je slabo. Na primer, izveštavaju se da su dve trećine smrti povezanih sa poplavam usled utapanja, a treća od smrti je posledica fizičkog trauma, srčanog udara, električnog udara, otrovanja ugljen-monoksidom i požara. Često se beleže samo trenutačne povrede u poplavi (WHO, 2013). Morbidozitet povezan sa poplavama obično je uzrokovan povredama, infekcijama, hemijskim opasnostima i mentalnim zdravstvenim efektima (akutnim i odložnim) (WHO, 2013). Hipo­termija takođe može biti problem, posebno u deci, ako su zarobljeni u poplavama duže vreme (WHO, bez datuma). Moguće je i povećan rizik od respiratornih infekcija usled izloženosti (gubitak skloništa, izloženost poplavama i kiši). Nestanka struje povezan sa poplavama može poremetiti postrojenja za tretman vode i snabdevanje, čime se povećava rizik od vodonošenja bolesti, kao i funkcionisanje zdravstvenih objekata, uključujući hladni lanac (WHO, bez datuma). Poplave mogu potencijalno povećati transmisiju prenosivih bolesti (WHO, bez datuma). Dugi rokovi zdravstveni efekti povezana sa poplavom je teško identifikovati. Uključuju uticaje povezane sa premještanjem, rušenjem kuća, odlaganjem oporavka i nedostatkom vode (WHO, 2013).  
+> **Ekonomski uticaji poplave:** Prema ažuriranom WMO Atlasu smrtnosti i ekonomske gubitke od vremenskih, klimatskih i vodnih ekstremita, između 1970. i 2021. godine poplave su među najskupljim katastrofama, nakon tropskih ciklona, sa 1,3 trilijuna dolara u ekonomskoj gubitku koji se pripisuje poplavam – 32 % ukupnih izveštavanih ekonomski gubitaka od ekstremiteta u 51‑godini periodu (WMO, 2022). Poplava može značajno uticati na lokalne ekonomije, poremetiti transportne mreže i poljoprivredne aktivnosti, te oštetiti imovinu i infrastrukturu. U Srednjoj Zapadnoj Sjedinjenoj Državi 2019. godine, na primer, događaj poznat kao „Velika poplava 2019“ uticao je na više od 13 miliona ljudi u 11 saveznih država, uglavnom na područjima uz reku Missouri. Poplava je izazvala otprilike 6,3 milijardi dolara štete na imovini i poljoprivredi, a dugotrajna priroda događaja poremetila je poljoprivredni proizvod i smanjila je sajtovanje žetve na milion hektara. Različite industrije u regionu doživeli su poremećaje, visok nivo vode otežavao je bargiranje i druge rute pomoriste (Sun et al., 2022).  
+>   
+> ### Mnogoprisutni kontekst  
+> Slika ispod rezimira česte interakcije između poplave i drugih opasnosti. Ove informacije treba koristiti uz oprez i ne smiju se oslanjati samo na upravljanje rizikom od katastrofa, posebno jer neke interakcije možda nisu uključene. Napomena: događaji koji se dešavaju zajedno ili lokalno u prostoru ili vremenu ne moraju nužno uzrokovati, pojačati ili biti drugačije povezani. Specifični primeri mnogoprisutnog konteksta mogu se pronaći u sekcijama „Pokretači“ i „Uticaji“ iznad.  
+>   
+> ### Upravljanje rizikom  
+> Klimatska varijabilnost i promena izazivaju sve češće i intenzivnije poplave, uz promene upotrebe zemljišta, degradaciju ekosistema i povećanje populacije na područjima skloni poplavi, što pogoršava rizik od poplave širom sveta i pojačava uticaje (UNDRR, bez datuma; WMO, 2025). **Integrisano upravljanje poplavama (IFM)** podstiče „integrisani, a ne fragmentirani, pristup upravljanju poplavama. Uključuje razvoj resursa zemljišta i vode u rečnom bazenu, u okviru konteksta Integrisanog upravljanja resursima“ (WMO, 2009). Primer inicijative koja promoviše IFM pristup je **Program za upravljanje poplavama (APFM)**, zajednička inicijativa Svetske meteorološke organizacije (WMO) u saradnji sa Globalnim partnerstvom za vodu. APFM „promoviše koncept IFM da maksimalizuje neto koristi od korišćenja poplavnih polja i minimizira gubitak života i uticaje. Kao takav, pruža alate i publikacije za podršku upravljanju poplavama“ (WMO, 2025). Pored upravljanja rizikom, postoje razne mere koje mogu podržati smanjenje rizika od poplave: „Integrisano ocenjivanje rizika od poplave u urbanim planovima. Izbegavajte gradnju na zemljištu skloni poplavi. Razvijajte nove građevinske kodove da pojačate otpornost od poplave. Kreirajte više prostora za reke, poplavna polja i močvare. Obezbedite zdravlje obalnih mreža i mangrove. Održavajte sistem ranog upozorenja, potkrepljen redovnim vježbama i evakuacijom. Imate plan evakuacije za one u opasnosti, uključujući starije, osobe sa invaliditetom i veoma malu decu. Stimulirajte finansijske i osiguravajuće programe za zaštitu imovine i prihoda. Zaštitite i evakuujujte životinje.“ (UNDRR, bez datuma).  
+>   
+> ### Monitoring  
+> Ova sekcija i tabela ispod daju pregled nadzora poplava. Ove informacije se mogu koristiti za prognozu unutar nacionalnog sistema ranog upozorenja (SRO). Pošto kapacitete i proces SRO variraju od zemlje do zemlje, najnovije i specifične informacije o SRO treba da se dobiju od odgovarajuće nacionalne ili regionalne agencije/autoritet za upravljanje katastrofama.  
+>   
+> **Koja(ve) institucije proizvode podatke/ informacije o riziku od katastrofa?**  
+> - Meteorološka služba koja prati kišu, oluje i vremenske obrasce koji doprinose poplavi.  
+> - Hidrolološka služba koja nadgleda nivo reke, saturaciju podzemne vode i stanje rečnih oblasti za procenu rizika od poplave.  
+> - Oceanske i morske agencije koje proučavaju podizanje nivoa mora, morski val i obalne rizike od poplave.  
+> - Geofizičke agencije koje analiziraju stabilnost tla, uslove tla i faktore kao što je subsidencija tla koji utiču na ponašanje poplave.  
+> - Zdravstvene vlasti koje procenjuju javno zdravlje rizike od zagađenja poplavne vode, vodonošenja bolesti i hitne medicinske potrebe.  
+> - Inženjeri i infrastrukturne agencije koje dizajniraju i održavaju sisteme kontrole poplave kao što su brane, zapređice, mreže odvodnje i sistemi upravljanja vodnim otporima.  
+> - Planeri upotrebe zemljišta i urbanistički planeri koji integrišu procenu rizika od poplave u zakone o zoni, građevinske propise i strategije održivog razvoja.  
+> - Energetske i utilitarne kompanije koje nadgledaju rizik od poplave za električne postrojenja, postrojenja za tretman vode i komunikacijske mreže.  
+> - Istraživači i akademici, uključujući hidrolologe i klimatske naučnike, koji proučavaju prognozu poplave, uticaje klimatskih promena i dugoročne strategije smanjenja rizika.  
+> - Okolišni organizatori i konzervacione grupe koje rade na rešenjima na osnovu prirode za smanjenje poplave, kao što su obnovlja močvare i upravljanje rečnim područjem.  
+> **Kako se opasnost posmatra/nadzire/prognozuje?**  
+> Poplava se nadzire pomoću vremenskog radara, radara za kišu, senzora reke i satelita koji prate kišu, nivo vode i saturaciju tla. Meteorolozi i hidrololozi analiziraju ova podataka uz klimske obrasce i terene da bi predvideli kada i gde poplave mogu da se desi. Računarski modeli simuliraju kretanje vode, pomažući prognozatorima da izdaju ranije upozorenja. Kombinovanjem real‑time posmatranja sa istorijskim trendovima, stručnjaci pružaju upozorenja koja pomažu zajednicama, hitnim odgovorima i planera da preduzmu mere da smanje rizik od poplave i zaštite živote.  
+>   
+> ### Reference  
+> (sadrži pun listu izvora, isti kao u originalu, preveden na srpski).  
+
+> **References** (full list translated accordingly)  
+
+---

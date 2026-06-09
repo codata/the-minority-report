@@ -1,0 +1,53 @@
+```markdown
+### Définition
+Les agents nucléaires proviennent du rayonnement neutronique (n) qui est un neutron émis par un noyau instable, notamment lors de la fission atomique et de la fusion nucléaire. À l’exception d’une fraction des rayons cosmiques, les neutrons sont généralement produits artificiellement. Étant des particules électriquement neutres, les neutrons peuvent être très pénétrants ; lorsqu’ils interagissent avec la matière ou les tissus, ils provoquent l’émission de rayonnement bêta et gamma. Le rayonnement neutronique requiert donc un blindage lourd pour réduire l’exposition (AIEA, 2004).
+
+### Référence primaire
+AIEA, 2004. *Radiation, People and the Environment*. International Atomic Energy Agency (IAEA). Accès le 1 décembre 2019.
+
+### Annotations
+Description scientifique supplémentaire  
+La dispersion du rayonnement neutronique par les armes nucléaires, y compris les dispositifs nucléaires improvisés (IND), entraîne un rendement nucléaire différent de celui des dispositifs de dispersion de rayonnement (RDD). Ce rendement nucléaire est mesuré en kilotonnes (kT) et une unité équivaut à l’énergie explosive équivalente à mille tonnes de TNT. Les détonations nucléaires sont capables de produire des impacts bien supérieurs à ceux de toute explosive conventionnelle (AIEA, 2004). Un effet significatif d’une explosion nucléaire est l’onde de choc générée. L’onde de choc provient de la boule de feu qui s’étend rapidement, générant une onde de pression se déplaçant rapidement loin du point de détonation. Initialement, près du point de déclenchement (également appelé « point zéro ») pour une explosion nucléaire de surface, la surpression est extrêmement élevée. À mesure que l’on s’éloigne du point de déclenchement, la surpression et la vitesse de l’onde de choc se dissipent jusqu’à un point où elles cessent d’être destructrices. Dans le cas d’un incident de terrorisme nucléaire, la pulsation thermique peut provoquer des brûlures cutanées chez les personnes situées à quelques kilomètres de l’incident qui ont une vue en ligne de vue sur la boule de feu (AIEA, 2004).  
+Il y aura de nombreux dangers après un incident de terrorisme nucléaire, notamment des feux généralisés et la présence de matériaux toxiques, mais l’un des plus significatifs en termes de santé humaine pour un incident nucléaire de niveau de sol ou proche du sol sera la radiation résiduelle provenant des débris radioactifs et de l’activation neutronique des matériaux. Bien que les niveaux de radiation soient les plus dangereux dans les premières heures, certaines zones à quelques kilomètres à l’est peuvent encore être dangereuses des jours après l’incident. L’identification rapide de ces zones de débris pour la mise en œuvre de mesures protectrices est l’une des priorités les plus élevées pour les autorités de gestion des urgences et de santé publique (AIEA, 2004).
+
+### Métriques et limites numériques
+Identification de la zone de radiation dangereuse (taux d’exposition ≥ 10 R h⁻¹, 0,1 Gy h⁻¹ taux de kerma d’air) aura des implications critiques sur les activités de réponse dans ou à proximité des zones de débris. La zone de radiation dangereuse est une zone où de grandes doses pourraient être délivrées aux intervenants d’urgence en peu de temps. La relation entre dose et effet de santé est principalement établie via les survivants des bombes d’Hiroshima et Nagasaki, évalués en 1950 et poursuivis par la US Atomic Bomb Causality Commission (ABCC) et son successeur, la Fondation binationale de recherche sur les effets radiologiques (RERF) (NCRP, 2010). Après un incident de terrorisme nucléaire de niveau de sol, la zone de radiation dangereuse sera créée par les débris déposés dans les premières heures et aura des limites pouvant s’étendre sur 32 km, selon le rendement et la météo. La zone de radiation dangereuse se rétrécira rapidement à mesure que les débris se désintègrent et ne sera peut-être plus qu’une à deux kilomètres de long après quelques jours. Par exemple, un intervenant d’urgence travaillant dans une zone avec un taux d’exposition initial de 10 R h⁻¹ (≈ 0,1 Gy h⁻¹ taux de kerma d’air) 4 heures après l’incident recevra ≈ 25 R (≈ 0,25 Gy kerma d’air) dans une période de travail de 4 heures (NCRP, 2010).
+
+### Convention / traité multilatéral pertinent
+Les arrangements et capacités de réponse nationale et mondiale efficaces sont essentiels pour minimiser les impacts des incidents et des urgences nucléaires et radiologiques. L’AIEA maintient le cadre international de préparation et de réponse d’urgence (EPR), basé sur des instruments juridiques internationaux (AIEA, 2019).  
+Dans le cadre de ces activités, l’AIEA élabore des normes de sécurité, des lignes directrices et des outils techniques ; aide les États membres à renforcer la capacité de réponse d’urgence ; et maintient le Système d’incident et d’urgence de l’AIEA pour la coordination rapide.
+
+### Conducteurs
+Les agents nucléaires, résultant de la dispersion du rayonnement neutronique, sont associés aux armes nucléaires, y compris les dispositifs nucléaires improvisés (IND). Les conflits et les accidents sur les sites de production ou de stockage peuvent également libérer des agents nucléaires.
+
+### Impacts
+Une étude de l’espérance de vie pour étudier les conséquences sanitaires sur une grande population après les bombes d’Hiroshima et Nagasaki a montré que les survivants situés à 1 500 m de l’épicentre (kerma d’ensemble corporel > 1 Gy) ont en moyenne une réduction de 2,6 ans d’espérance de vie due au cancer induit par la radiation (Smith, 2007).
+
+### Contexte multi‑risques
+Le diagramme ci‑dessous résume les interactions courantes entre les agents nucléaires et d’autres dangers. Cette information doit être utilisée avec prudence et ne doit pas être prise uniquement en compte dans la gestion du risque de catastrophe, en particulier car certaines interactions peuvent ne pas avoir été incluses. Notez que les événements dangereux se produisant ensemble ou localement dans l’espace ou le temps peuvent ne pas nécessairement causer, amplifier ou être autrement liés les uns aux autres. Des exemples spécifiques de contexte multi‑risque peuvent être trouvés dans les sections « Conducteurs de danger » et « Impacts » ci‑dessus.
+
+### Diagramme multi‑risques
+UNDRR  
+Gestion du risque  
+Les actions protectrices pour prévenir ou réduire l’exposition à la radiation dans le cas d’une situation d’urgence radiologique dépendent du type d’urgence et peuvent inclure : se mettre à l’abri ; évacuation ou même relocalisation permanente d’une zone affectée ; restriction de la consommation d’aliments ou d’eau contaminés ; administration d’iode de blocage de la thyroïde (dans le cas d’une libération d’iode radioactif, voir le document d’information sur l’iode) ; surveillance et mesure de la radiation chez les personnes affectées et dans l’environnement ; sécurisation des sources radioactives et nettoyage des zones affectées ; ainsi que fournir des informations, une communication de risque, un soutien psychologique, des soins médicaux et un suivi à long terme à ceux qui en ont besoin (AIEA, 2021).  
+Un système d’alerte précoce (SAP) lié aux agents nucléaires fournit des alertes précoces pour les événements tels que la libération de matériaux nucléaires, les fuites de radiation et les accidents nucléaires, visant une réponse immédiate et la prévention. Ce système utilise principalement un équipement de détection de radiation, des données satellitaires, des capteurs terrestres et des mécanismes d’alerte automatisés pour détecter des signes d’incidents nucléaires en temps réel et envoyer des avertissements. Le SAP détecte rapidement la libération de matériaux nucléaires et envoie des alertes aux régions susceptibles d’être exposées à une radiation sévère ou aux zones où les matériaux pourraient se répandre dans l’atmosphère, permettant aux gens de prendre des mesures d’évacuation ou de protection radiologique appropriées.
+
+### Surveillance
+La section et le tableau ci‑dessous offrent un aperçu de la surveillance des agents nucléaires. Ces informations peuvent être utilisées pour les prévisions dans un système d’alerte précoce national (SAP). Comme les capacités et les processus des SAP diffèrent d’un pays à l’autre, les informations les plus récentes et les plus spécifiques concernant le SAP doivent être obtenues auprès de l’agence ou de l’autorité nationale ou régionale chargée de la gestion des catastrophes.
+
+#### Institution(s) produisant des données/infos sur le risque de catastrophe ?
+Commission préparatoire de la Convention de test nucléaire complet (CTBTO) ; AIEA
+
+#### Comment le danger est observé/surveillé/prédit ?
+CTBTO exploite le Système international de surveillance (SIS) composé de 321 stations de surveillance hébergées par 89 pays. Ce SIS inclut des méthodes de vérification utilisant des stations sismiques pour surveiller les tests souterrains en mesurant les ondes de choc, des stations hydroacoustiques pour détecter les ondes sonores, des stations infrasonores, et des stations radionucléaires pour détecter les particules ou gaz radioactifs (CTBTO, sans date).  
+AIEA organise des visites sur site nucléaire.
+
+### Références
+1. Comprehensive Nuclear‑Test‑Ban Treaty Organization (CTBTO), sans date. *The International Monitoring System*. Accès le 25 janvier 2025.  
+2. International Atomic Energy Agency (IAEA), 2004. *Radiation, people and the environment*. Accès le 25 janvier 2025.  
+3. International Atomic Energy Agency (IAEA), 2019. *Preventive measures for nuclear and other radioactive material out of regulatory control: Implementing guide*. *Nuclear Security Series* No 36‑G. Accès le 25 janvier 2025.  
+4. International Atomic Energy Agency (IAEA), 2021. *Radiation in everyday life*. Accès le 25 janvier 2025.  
+5. National Center for Biotechnology Information (NCBI), 2014. *Lessons learned from the Fukushima nuclear accident for improving safety of U.S. nuclear plants*. Accès le 25 janvier 2025.  
+6. National Council on Radiation Protection and Measurements (NCRP), 2010. *Responding to a radiological or nuclear terrorism incident: A guide for decision makers: Report No. 165*. Accès le 25 janvier 2025.  
+7. Smith, J.T., 2007. *Are passive smoking, air pollution and obesity a greater mortality risk than major radiation incidents?* BMC Public Health, 7, p. 49. doi:10.1186/1471-2458-7-49. Accès le 25 janvier 2025.
+```

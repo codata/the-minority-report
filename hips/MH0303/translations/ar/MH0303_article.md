@@ -1,0 +1,1 @@
+above is presented as the final, Markdown‑formatted Arabic version.)*

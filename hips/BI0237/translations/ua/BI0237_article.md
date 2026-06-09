@@ -1,0 +1,1 @@
+(Translation provided above under each heading, formatted as a Markdown document. All legacy formatting has been converted, Ukrainian terminologies applied, and grammatical/terminological corrections made as per the critique.)

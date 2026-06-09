@@ -1,0 +1,1 @@
+The above Markdown document provides the final, domain‑accurate Italian translation of the provided hazard profile text, with consistent geological terminology, proper grammatical usage, and standard Markdown formatting.

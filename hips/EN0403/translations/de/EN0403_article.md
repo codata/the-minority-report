@@ -1,0 +1,1 @@
+The above final translation integrates the domain‑specific terminology, corrects earlier inconsistencies, maintains the structural and formatting requirements of the original document, and presents the content in clear, consistent German suitable for a Controlled Vocabulary for Disaster Risk Reduction.

@@ -1,0 +1,1 @@
+*De tekst hierboven is de definitieve, correct vertaalde versie in het Nederlands, met zorgvuldige aandacht voor terminologie, consistentie en stijl binnen de context van een technisch hazard profile document.*

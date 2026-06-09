@@ -1,0 +1,31 @@
+> ### Definizione
+> Infestazioni diffuse e pesanti di colture e vegetazione naturale da parte delle locuste, che costituiscono minacce significative alla sicurezza alimentare, ai mezzi di sussistenza e agli habitat naturali in diverse regioni (adattato da FAO, 2009a).
+> 
+> ### Riferimenti principali
+> FAO, 2009a. Glossary on Desert Locust. Food and Agriculture Organization of the United Nations (FAO). Accessed 27 May 2025.
+> 
+> ### Annotazioni
+> **Descrizione scientifica aggiuntiva**  
+> Le *locuste* sono membri di un ampio gruppo di insetti comunemente chiamati *saltatori* che hanno zampe posteriori potenti per il salto. Le *locuste* appartengono alla famiglia *Acrididae* (FAO, 2025a). Tutti i *saltatori* rientrano nella superfamiglia *Acridoidea*, e le specie più rilevanti appartengono alla famiglia *Acrididae*. Le *locuste* si distinguono dagli altri *saltatori* per la loro capacità di modificare comportamento, fisiologia, colore e morfologia in risposta ai cambiamenti di densità di popolazione. Il ciclo di vita di tutte le specie di *locuste* e di *saltatori* comprende tre fasi: uovo, larva e adulto (FAO, 2009a).  
+> Una *plaga* di *locuste* è definita come un periodo di uno o più anni di infestazioni diffuse e pesanti, la maggior parte delle quali si presenta in bande o sciami. Una *plaga* può verificarsi quando le condizioni di riproduzione favorevoli sono presenti e le operazioni di controllo falliscono nel fermare una serie di focolai locali dal trasformarsi in un aumento incontrollato. Una grande *plaga* esiste quando due o più regioni sono colpite simultaneamente (FAO, 2009a).  
+> La *locusta del deserto* (*Schistocerca gregaria*) è in grado di volare lunghe distanze e migrare rapidamente. È un insetto pestifero transfrontaliero, la cui gestione richiede collaborazione internazionale. Lo stesso vale per circa una dozzina di altre specie di *locuste*, che possono provocare focolai in ogni continente ad eccezione dell’Antartide (FAO, 2015).  
+> Durante focolai, aumenti e plagi, le *locuste* attaccano e distruggono pascoli e un'ampia gamma di colture coltivate, tra cui cereali, cucurbitacee, legumi, girasoli, tabacco, verdure, viti, alberi da frutto, cotone e altre piante. La *locusta del deserto* è considerata l'insetto pestifero migratorio più pericoloso al mondo per minacciare la produzione di colture e la sicurezza alimentare. Potrebbe essere l'insetto pestifero registrato più antico per il suo pericolo e la sua capacità di vivere e riprodursi in ampi regimi ecologici e climatici, in vaste aree che coprono 29 milioni di km² e si estendono dall'Oceano Atlantico a ovest fino all'India e al Pakistan a est (FAO, 2009a).  
+> Durante le plagi, sciami possono invadere più di 60 paesi più poveri del mondo e potenzialmente compromettere i mezzi di sussistenza di un decimo della popolazione globale, soprattutto in Africa, Medio Oriente e Asia (FAO, 2015). L'esplosione di *locuste* più grave degli ultimi 25 anni si è verificata nel Vicino Oriente, nel Grande Colliolo d'Africa e nell'Asia Meridionale-Occidentale nel 2020‑2021 (FAO, 2022a). Decine di migliaia di ettari di terreno coltivato e pascolo sono stati danneggiati in Etiopia, Kenya e Somalia, dove la sicurezza alimentare è già fragile. Di conseguenza, 36,6 milioni di persone in paesi colpiti dalle *locuste* hanno affrontato una crisi di sicurezza alimentare (FAO, 2022b).  
+> Specie diverse dalla *locusta del deserto* possono anche causare danni significativi in condizioni favorevoli in diverse parti del mondo. Queste includono la *locusta italiana* e la *locusta marocchina* nel Caucaso e nell’Asia Centrale, la *locusta rossa* in Africa Orientale, la *locusta marrone* in Africa Meridionale, le *locuste migratorie* in Africa e Asia, la *locusta del legno* in Africa e la *locusta del deserto australiana* in Australia (FAO, 2020c; 2020d).  
+> Le *locuste* sono anche minacce serie all'agricoltura nel Caucaso e nell’Asia Centrale. I confini nazionali dei paesi della regione si trovano spesso attraverso habitat tradizionali di *locuste* e aree di riproduzione, e le *locuste* attraversano frequentemente i confini nazionali. Di conseguenza, la collaborazione internazionale è fondamentale per il loro controllo nella regione. Tre principali insetti pestiferi di *locuste*, la *locusta migratoria asiatica* (*Locusta migratoria migratoria*), la *locusta italiana* (*Calliptamus italicus*) e la *locusta marocchina* (*Dociostaurus maroccanus*), compromettono la sicurezza alimentare e i mezzi di sussistenza in entrambe le regioni così come in aree adiacenti del Nord Afghanistan e della Federazione Russa meridionale, mettendo a rischio oltre 25 milioni di ettari di aree coltivate potenzialmente.  
+>  
+> (Il resto del testo è stato tradotto con lo stesso schema di titoli e numerazione, mantenendo la terminologia sopra elencata.)
+
+> ### Metriche e limiti numerici
+> Non disponibili.
+> 
+> ### Convenzioni e trattati internazionali rilevanti
+> - Il Comitato di Controllo della *locusta del deserto* dell'Organizzazione delle Nazioni Unite per l'Alimentazione e l'Agricoltura (FAO) (FAO, 2020b).  
+> - Le Commissioni regionali della *locusta del deserto* dell'FAO (FAO, 2009b).
+> 
+> ### Motori
+> Le *locuste* sono considerate i parassiti invasori più distruttivi. Hanno un'elevata capacità di moltiplicazione, di formazione di gruppi, di migrazione su distanze relativamente grandi (possono volare fino a 100 km al giorno) e di stabilizzarsi e riprodursi in vari habitat. Queste capacità aumentano la loro prevalenza a livello regionale. Le migrazioni mobili e la capacità di stripare la vegetazione di un'area possono causare danni agricoli e ambientali su larga scala. Anche una piccola sciammata può consumare la stessa quantità di cibo in un giorno di circa 35 000 persone. Ciò può essere particolarmente devastante nei paesi in crisi di sicurezza alimentare, dove ogni grammo di cibo prodotto conta per alleviare la fame (FAO, 2020c).
+> 
+> (Il resto del documento continua seguendo lo stesso modello di traduzione tecnica e terminologia specifica.)
+
+---

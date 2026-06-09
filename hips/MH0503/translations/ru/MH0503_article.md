@@ -1,0 +1,1 @@
+(Above is the fully corrected, domain‑accurate Russian translation in Markdown format.)

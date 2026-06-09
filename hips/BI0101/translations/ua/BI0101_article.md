@@ -1,0 +1,1 @@
+respects Ukrainian scientific terminology, uses consistent plurals, corrects mistranslations, and follows a clear Markdown structure.

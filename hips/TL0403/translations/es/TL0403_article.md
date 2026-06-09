@@ -1,0 +1,1 @@
+aligns all technical terms with the DRR controlled vocabulary, removes inconsistencies, and presents the content in a clear, well‑structured Markdown format.

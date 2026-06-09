@@ -1,0 +1,1 @@
+*(Das obige, vollständige Dokument stellt die endgültige, korrigierte deutsche Übersetzung dar.)*

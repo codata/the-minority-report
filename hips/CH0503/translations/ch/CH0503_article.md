@@ -1,0 +1,1 @@
+– The above Markdown document presents a coherent, domain‑accurate Chinese translation of the original hazard profile, with consistent terminology, proper formatting, and alignment with the Controlled Vocabulary for Disaster Risk Reduction.

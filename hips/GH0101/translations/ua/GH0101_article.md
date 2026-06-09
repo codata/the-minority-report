@@ -1,0 +1,1 @@
+The above Markdown document incorporates the refined terminology, consistent abbreviations, and clear Ukrainian expressions suitable for a controlled vocabulary in disaster risk reduction.

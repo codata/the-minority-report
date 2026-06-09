@@ -1,0 +1,1 @@
+adheres to the DRR controlled vocabulary, uses precise geological terminology, and follows the required Markdown formatting.

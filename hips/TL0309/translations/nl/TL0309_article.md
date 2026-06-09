@@ -1,0 +1,1 @@
+The above Markdown document reflects accurate Dutch terminology, consistent formatting, and correct use of domain‑specific language appropriate for a Controlled Vocabulary for Disaster Risk Reduction.

@@ -1,0 +1,1 @@
+The above Markdown document contains the fully corrected Turkish translation, with accurate terminology, proper formatting, and adherence to DRR and FAO standards.

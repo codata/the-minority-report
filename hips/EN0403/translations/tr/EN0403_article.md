@@ -1,0 +1,2 @@
+(final, Markdown formatted)  
+*(The translation above is the final, corrected version. All technical terms follow the DRR controlled vocabulary, headings are converted to Markdown, and legacy formatting is removed.)*

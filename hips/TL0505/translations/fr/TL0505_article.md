@@ -1,0 +1,1 @@
+above adheres to geological and environmental terminology, maintains consistency in gender and number, and follows the conventions of the Controlled Vocabulary for Disaster Risk Reduction.

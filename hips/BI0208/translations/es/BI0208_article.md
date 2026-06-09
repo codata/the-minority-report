@@ -1,0 +1,53 @@
+```markdown
+### Definition  
+La **difteria** es una enfermedad infecciosa grave y extendida causada por la bacteria **_Corynebacterium diphtheriae_** y la toxina que produce. Es una enfermedad potencialmente mortal, prevenible con vacuna, que afecta principalmente la garganta y las vías respiratorias superiores y tiene el potencial de provocar epidemias (OMS, 2024a).
+
+### Primary reference(s)  
+OMS, 2024a. *Difteria*. Organización Mundial de la Salud (OMS). Accedido 16 de febrero de 2024.
+
+### Annotations  
+#### Descripción científica adicional  
+La difteria es una enfermedad prevenible con vacuna causada por especies de *Corynebacterium* productoras de toxina. Los brotes de difteria en las poblaciones humanas son principalmente causados por *C. diphtheriae*, que se transmite de persona a persona, normalmente a través de gotas respiratorias, secreciones o lesiones cutáneas infectadas. La difteria también puede ser causada por *C. ulcerans* o *C. pseudotuberculosis*; sin embargo, por ser infecciones zoonóticas con transmisión limitada de persona a persona, rara vez se asocian con brotes grandes (OMS, 2024a; OMS, 2024b).
+
+Los casos típicos de difteria presentan síntomas en la vía respiratoria superior, incluyendo faringitis, nasofaringitis, amigdalitis o laringitis, o cualquier combinación de estos síntomas. La toxina producida por la bacteria puede causar la formación de una **pseudomembrana** en la vía respiratoria superior y puede dañar otros órganos. Las complicaciones graves incluyen obstrucción respiratoria aguda, toxicidad sistémica aguda, miocarditis, insuficiencia renal, complicaciones neurológicas y muerte. Las **tasas de mortalidad** (TMR) superiores al 10 % se han reportado en brotes de difteria; con TMR más altas en entornos donde el acceso a tratamientos adecuados, como la **antitoxina de difteria (DAT)**, es limitado (OMS, 2024b).
+
+Tras el establecimiento del **Programa Ampliado de Inmunización (PAI)** en 1974, que incluyó una vacuna multivalente infantil (incluido el toxoide de difteria), la incidencia mundial de difteria disminuyó drásticamente. Sin embargo, resurgimientos dramáticos de la enfermedad se han observado globalmente durante la última década, con un promedio de casi 10 000 casos reportados anualmente—un aumento del 50 % respecto a la década anterior. Aunque la mayoría de los brotes han sido pequeños y esporádicos, los brotes más grandes han ocurrido en áreas de baja cobertura vacunal o en entornos frágiles y afectados por conflictos, incluidos Bangladesh, Etiopía, Haití, India, Indonesia, Venezuela (República Bolivariana de) y Yemen; uno de los brotes más grandes de la década comenzó en 2022 en Nigeria y sigue en curso (OMS, 2024b).
+
+La cultura y la identificación de *C. diphtheriae*, seguida de la confirmación de producción de toxina mediante la prueba de Elek, sigue siendo el estándar de oro para la confirmación de laboratorio de la difteria. Sin embargo, métodos que incluyen sistemas de identificación automatizados, pruebas moleculares y genotipado también pueden desempeñar un papel en la toma de decisiones de salud pública, a veces más rápidamente y eficazmente que los métodos estándar en un entorno de brote. Se requiere una consideración cuidadosa de los beneficios y limitaciones de cada método para garantizar el mejor uso de los recursos disponibles y la alineación con los objetivos de salud pública (OMS, 2024b).
+
+La Organización Mundial de la Salud ha publicado orientación interina para la gestión clínica y el diagnóstico de laboratorio de la difteria (OMS, 2024a; 2024b).
+
+### Metrics and numeric limits  
+En 2023, hubo **24 780** casos reportados de difteria a nivel mundial (OMS, 2025). En 2023, se estimó que el **84 %** de los niños en todo el mundo recibieron las 3 dosis recomendadas de vacuna con difteria durante la infancia (OMS, 2024a).
+
+### Key relevant UN convention / multilateral treaty  
+Reglamentos de Salud Internacional (2005), 3ª ed. (OMS, 2016).
+
+### Drivers  
+La difteria ha experimentado resurgimientos cada vez que la cobertura de inmunización se vuelve baja. La infraestructura de salud dañada y los servicios de salud en países que experimentan o se recuperan de un desastre natural o conflicto interrumpen la inmunización rutinaria. El hacinamiento en campamentos residenciales aumenta el riesgo de infección. La pandemia de COVID‑19 impactó la entrega de servicios de inmunización rutinaria y actividades de vigilancia. Estos contratiempos han dejado a muchos niños susceptibles a enfermedades prevenibles con vacuna, como la difteria (OMS, 2024a).
+
+### Impacts  
+La difteria sigue siendo un problema de salud significativo en países con cobertura de vacunación rutinaria pobre o con focos de no inmunizados (OMS, 2017). Los síntomas de la difteria suelen comenzar 2–5 días después de la exposición a la bacteria. Los síntomas típicos de la infección incluyen dolor de garganta, fiebre, ganglios cervicales inflamados y debilidad. Dentro de 2–3 días de la infección, el tejido muerto en la vía respiratoria forma un recubrimiento grueso y grisáceo que puede cubrir los tejidos en la nariz, las amígdalas y la garganta, dificultando la respiración y la deglución (OMS, 2024a). La mayoría de las enfermedades graves y muertes por difteria ocurren como resultado de la toxina de difteria y sus efectos. Las complicaciones pueden incluir inflamación del corazón y los nervios (OMS, 2024a). Para los individuos no vacunados sin tratamiento adecuado, la difteria puede ser fatal en alrededor del 30 % de los casos, con niños menores de 5 años con mayor riesgo de morir. Cualquier persona no inmune (no vacunada o subvacunada) puede infectarse (OMS, 2024a). El riesgo de complicaciones o muerte disminuye considerablemente si se brinda tratamiento adecuado temprano en el curso de la enfermedad. Por esta razón, si se sospecha difteria, se debe confirmar con pruebas lo antes posible y comenzar el tratamiento tan pronto como sea posible. Los casos de difteria suelen tratarse con antitoxina de difteria, así como con antibióticos. La antitoxina específica de difteria neutraliza la toxina en circulación en la sangre (OMS, 2024a).
+
+### Multi‑hazard context  
+Antes de la introducción de la vacuna contra la difteria y la vacunación masiva en la década de 1930, los casos ocurrían en todo el mundo (OMS, 2024a). Recientemente, como resultado de la subvacunación, los brotes se han producido con creciente frecuencia a pesar de la disponibilidad de una vacuna segura y eficaz (OMS, 2024a). La infraestructura de salud dañada y los servicios de salud en países que experimentan o se recuperan de un peligro natural o conflicto interrumpen la inmunización rutinaria. El hacinamiento en campamentos residenciales aumenta el riesgo de infección (OMS, 2024a).
+
+### Risk Management  
+La difteria puede prevenirse con vacunas que a menudo se dan en combinación con tétanos y tosferina, y otras enfermedades (OMS, 2024a). La OMS recomienda un total de 6 dosis de vacuna con difteria a partir de las 6 semanas de edad hasta la adolescencia para proporcionar protección a largo plazo. La vacunación a nivel comunitario con alta cobertura como parte de los servicios de inmunización rutinaria integrados en la atención primaria de salud es la forma más efectiva de prevenir la difteria. Todos los niños deben vacunarse contra la difteria con una serie primaria completa y 3 dosis de refuerzo adicionales para una protección a largo plazo. La vacuna es segura y eficaz. La vacuna contra la difteria suele combinarse con vacunas para enfermedades como tétanos, tosferina, *Haemophilus influenzae*, hepatitis B e inactivada polio (OMS, 2024a). El programa esencial de inmunización comenzó en 1974. Las vacunas combinadas de difteria se introdujeron como parte de este programa desde su inicio y han prevenido >90 % de los casos de enfermedad entre 1980–2000. En años recientes, ha habido brotes de difteria debido a una cobertura vacunal insuficiente. Para controlar estos brotes, la OMS ha trabajado con los estados miembros en la respuesta a brotes y en el fortalecimiento de los programas de inmunización rutinaria para mejorar y mantener la cobertura de inmunización y prevenir infecciones y muertes por difteria (OMS, 2024a).
+
+### Monitoring  
+La OMS apoya a los países a realizar evaluaciones de riesgo estratégico de todos los peligros en los contextos de emergencias sanitarias y desastres, lo que resulta en el desarrollo de un perfil de riesgo nacional. Potenciados con el perfil de riesgo nacional, inclusive con un calendario de riesgo estacional, los países pueden anticipar emergencias potenciales antes de que ocurran para activar alertas tempranas e informar acciones tempranas (OMS, 2021). El Sistema de Alerta Temprana y Respuesta (EWARS) de la OMS ha sido diseñado para mejorar la detección de brotes de enfermedades en entornos de emergencia, como en países en conflicto o después de un desastre por peligros naturales. Es una forma simple y rentable de establecer rápidamente un sistema de vigilancia de enfermedades. EWARS se despliega durante una emergencia como complemento al sistema de vigilancia nacional de enfermedades. La OMS trabaja con los Ministerios de Salud y socios del sector de salud para capacitar a los trabajadores de salud locales en el uso del sistema. Después de la emergencia, EWARS debe reintegrarse al sistema nacional (OMS, 2023).
+
+### References  
+- OMS, 2016. *Reglamentos de Salud Internacional (2005), 3ª ed.* Organización Mundial de la Salud (OMS). Accedido 25 de mayo de 2025.  
+- OMS, 2017. *Vacunas contra la difteria: documento de posición de la OMS – Agosto 2017, Registro Epidemiológico Semanal, 2017, vol. 92, 31.* Organización Mundial de la Salud (OMS). Accedido 25 de mayo de 2025.  
+- OMS, 2021. *Kit de herramientas estratégico para evaluar riesgos (STAR): un kit de herramientas integral para la evaluación de riesgos de emergencias de salud de todos los peligros.* Organización Mundial de la Salud (OMS). Accedido 26 de mayo de 2025.  
+- OMS, 2023. *Sistema de Alerta Temprana y Respuesta (EWARS).* Organización Mundial de la Salud (OMS). Accedido 26 de mayo de 2025.  
+- OMS, 2024a. *Difteria.* Organización Mundial de la Salud (OMS). Accedido 25 de mayo de 2025.  
+- OMS, 2024b. *Pruebas de laboratorio para la difteria en entornos de brote: guía interina.* Organización Mundial de la Salud (OMS). Accedido 16 de febrero de 2025.  
+- OMS, 2024c. *Manejo clínico de la difteria: directriz.* Organización Mundial de la Salud (OMS). Accedido 16 de febrero de 2025.  
+- OMS, 2025. *Casos reportados de difteria e incidencia.* Organización Mundial de la Salud (OMS). Accedido 16 de febrero de 2025.
+
+### Cite this  
+Cite this [Copy citation]
+```

@@ -1,0 +1,36 @@
+### Tanım
+İşkence (sıkıştırma) veya kitle baskısı, gerçek ya da algılanan tehlike veya fiziksel alan kaybına yanıt olarak bir kalabalıkta bireylerin ani yükselişidir. Bu, kalabalıkların düzenli hareketini bozar; kendini korumak amacıyla hareket edilmesine yol açar ve yerel yoğun kalabalık yoğunluğunu artırır, insan bedenlerinin fiziksel sıkıştırılmasına neden olur (Burkle & Hsu, 2011; Illiyas et al., 2013; Ngai et al., 2009).
+
+### Başlıca Referans(lar)
+- Burkle, F.M. Jr. ve E.B. Hsu, 2011. *Ram Janki Temple: İnsan İşkencelerini Anlama*. Lancet, 377:106‑107.  
+- Illiyas, F., S. Mani, A. Pradeepkumar ve K. Mohan, 2013. *Din Festivallerinde İnsan İşkenceleri: Hindistan’da Kitle Toplama Acil Durumlarının Karşılaştırmalı İncelemesi*. International Journal of Disaster Risk Reduction, 5:10‑18.  
+- Ngai, K.M., F.M. Burkle Jr., A. Hsu ve E.B. Hsu, 2009. *İnsan İşkenceleri: Tarihsel ve Hakemli Kaynakların Sistematik İncelemesi*. Disaster Medicine and Public Health Preparedness, 3:191‑195.
+
+### Ek Bilimsel Açıklama
+Kitle toplantıları, belirli bir zaman diliminde belirli bir amaçla belirli bir konumda yoğunlaşan insan topluluğunun tanımıdır ve ülke ya da topluluğun planlama ve yanıt kaynaklarını zorlayabilir (WHO, 2015). Nüfus artışı ve insan hareketliliğinin sürekli artışıyla kitle toplantıları daha sık görülmekte ve katılımcı sayısı artmaktadır (Johansson et al., 2012). Toplu toplantılar spontan (örneğin, tren istasyonlarında yoğunluk) veya planlı (spor, kültür, müzik festivalleri, dini hac veya siyasi etkinlikler) olabilir. Suudi Arabistan’daki Hajj hacı ve Hindistan’daki Kumbh Mela, küresel en büyük düzenli kitle toplantılarıdır, milyonlarca hacıyı bir araya getirir (Ahmed et al., 2006; Illiyas et al., 2013). Kitle toplantıları sağlık üzerinde farklı şekillerde etkili olabilir ve kitle felaketleri ortaya çıkabilir: altyapı çökmesi, yangın olayları, terör saldırıları, şiddetli isyanlar ve insan işkenceleri dahil (Soomaroo & Murray, 2012; WHO, 2015; Still, 2019). İşkenceler ve sıkıştırmalar yüksek ölüm oranları taşır ve ateşle ilgili hastalıklar dışındaki en yaygın ölüm nedeni olur (Steffen et al., 2012; Still, 2019). Çoğu sıkıştırma yarası travmatik asfiks ile sonuçlanır, göğüs ve/veya üst karın bölgesinde dış baskı nedeniyle yaralanır; bu durum kısmi veya tamamen solunumun durmasıyla sonuçlanır. Orta kalabalıklarla bile önemli baskı kuvvetlerinin bulunabileceği bildirildi; altı‑yedi kişi tek yönde iterek 4500 N (1000 lb) kadar kuvvet oluşturabilir (Ngai et al., 2009). İnsan işkencelerinin hayatta kalanları ve otopsi raporları travmatik asfiksin ölümün birincil nedeni olduğunu gösterir; ancak kalp krizi, göğüs içi veya karın içi organlara doğrudan sıkıştırma yarası, baş yarası ve boyun baskısı gibi diğer mekanizmalar da göz önünde bulundurulmuştur. Tüm bu mekanizmalar mümkündür, ancak gerçek destekleyici kanıt çok azdır. Otopsi bulgularına göre “öldüğü insanlar… genellikle (ayakta) dik bir pozisyonda ölür” baskı kuvveti nedeniyle ve “kalabalık yoğunluğu ve basınç hafiflenene kadar yere düşmezler” (Ngai et al., 2009). Sıkıştırma kuvvetleri önceden arka veya tersine uygulandığında solunum yetmezliği olurken, yanaklarıyla sıkıştırma kuvveti deneyimleyenler korunur; muhtemelen göğüs genişlemesi aynı ölçüde zarar görmez (Ngai et al., 2009). Tam yaralanma yelpazesi – kırıklar, çıkıklar ve diğer mekanik yaralanmalar – beklenebilir. Hayatta kalanların çoğu posttravmatik stres, keder veya hayatta kalma suçluluğu yaşayabilir ve psikolojik danışmanlık veya müdahale gerektirebilir (Ngai et al., 2009).
+
+### Ölçüm ve Sayısal Sınırlar
+İşkencelerin etkisini ölçmek için standart bir metrik yoktur. Ancak işkenceleri sınıflandırmak konusunda çok tartışma vardır; bazı akademisyenler olayı bildiren ölü sayısına göre sınıflandırılması gerektiğini düşünürken, diğerleri yaralanma sayısını veya ölüm oranlarını dikkate alınması gerektiğini savunur.
+
+### Ana İlgili Birleşmiş Milletler Sözleşmesi / Çok Taraflı Antlaşma
+*Uluslararası Sağlık Yönetmelikleri (2005)* (WHO, 2016).
+
+### Sürücüler
+Toplu toplantı felaketleri hakkında güvenilir bilgi olay sonrası soruşturmalarla elde edilir. Anektotik haber raporları ve gözlemler de olaylar hakkında bilgi sağlar. İşkenceyi tetikleyen yaygın rapor edilen faktörler arasında tehdit söylentileri, ani yüksek sesler, dar geçit ve aşırı kalabalık yer alır. Çoğu işkence iç mekanda, gündüz saatlerinde ve spor etkinliklerinde meydana gelir (Hsieh et al., 2009).
+
+### Etkiler
+Son yıllarda insan işkencelerinin ölüm sayısı giderek daha iyi belgelenmektedir. Ölüm sayısının artmasının yanı sıra düşük ve orta gelirli ülkelerde toplam nüfus yoğunluğunun artmasıyla artan ölüm oranları da görülmektedir (de Almeida & von Schreeb, 2019). 1990 öncesinde, özellikle gelişmemiş ülkelerde rapor edilmemiş büyük işkencelere yol açmış birçok olay bulunabilir. Genellikle yaralanmalar tahmini veya kaydedilmezken, doğrudan ölümler (yaralanma sonrası ölümler dahil değil) daha net raporlanır ve elde edilir (Ngai et al., 2009; Still, 2019). İşkenceler ve sıkıştırma olayları genellikle organizasyonların halka açık toplantılarda güvenli bir ortam sağlamadaki sistematik başarısızlıkları nedeniyle meydana gelir (Still, 2019). 1980–2007 arasında Ngai yöntemi 215 işkence olayı belirledi; 1980–2012 arasında 350 olay, 7069 ölüm ve 14 078 yaralanma (Hsieh et al., 2009) 10 243 ölüm ve 22 445 yaralanma (Ngai et al., 2009). Kadınlar, çocuklar ve yaşlılar, dış baskıdan kendilerini koruyamadıkları için daha fazla etkilendiği rapor edilmiştir (de Almeida & von Schreeb, 2019).
+
+### Çoklu Tehlike Bağlamı
+Meteorolojik, hidrolojik, dış gezegen, jeo tehlike, çevresel, kimyasal, teknolojik veya toplumsal hızlı başlangıçlı tehlikeler bir kitle toplantısı sırasında meydana geldiğinde işkenceye yol açabilir. İşkenceler diğer tehlikeleri (çevresel, kimyasal, teknolojik veya toplumsal) tetikleyebilir.
+
+### Risk Yönetimi
+Her iki organizasyonlu ve planlanmamış kitle toplantıları, etkinliği düzenleyen topluluk, devlet veya ülkenin planlama ve yanıt kaynaklarını zorlar. Güvenli ve sağlıklı bir kitle toplantısı için erken çok sektörlü hazırlık gereklidir: etkinlik düzenleyiciler, sağlık acil durum yöneticileri, halk sağlığı otoriteleri, yerel hastane acil servisleri, ilk yardım personeli ve polis ve acil hizmetler gibi diğer sektör ortakları (WHO & PHE, 2017). Seul Halloween sıkıştırması bulguları, doğru polis varlığı ve yanıt, insan akışını yönetme ve etkili iletişimin önemi vurgular. Risk değerlendirmesi herhangi bir etkinlik planlamasında temel bir adımdır. Bu, risk azaltma önlemlerinin seçilmesini ve uygulanmasını, yanıt planlamasını ve sağlık operasyonları için kapasite geliştirmeyi, yerinde yaralanma bakımını ve yerel hastaneleri, hastalık gözetimini ve salgın yanıtını, çevresel sağlık ve gıda güvenliğini, halk bilgilerini ve sağlık tanıtımını, liderlik, koordinasyon ve iletişimi, ve acil hazırlık ve yanıtı içerir (WHO & PHE, 2017).
+
+### İzleme
+Bilgi yok.
+
+### Referanslar
+*(Referanslar aynı kalır, gerektiğinde başlıklar Türkçe çevirisiyle eklenebilir.)*
+
+---

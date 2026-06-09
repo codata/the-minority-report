@@ -1,0 +1,1 @@
+*The Markdown document above provides a fully corrected, domain‑accurate translation of the entire original text, respecting DRR terminology, Italian grammatical conventions, and consistent use of acronyms and scientific terms.*

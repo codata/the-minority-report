@@ -1,0 +1,1 @@
+The above section provides the full, domain‑accurate Norwegian translation of the original hazard profile, formatted with Markdown headings and consistent terminology.

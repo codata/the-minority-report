@@ -1,0 +1,1 @@
+adheres to the controlled vocabulary used in the UN DRR, avoids non‑geological or lay terminology, and maintains the structure and precision required for a hazard profile document.*

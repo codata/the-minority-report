@@ -1,0 +1,1 @@
+adheres to DRR‑controlled vocabulary, uses appropriate Dutch terminology for virology and public health, maintains consistent formatting with Markdown, and eliminates geological or unrelated domain terminology.*

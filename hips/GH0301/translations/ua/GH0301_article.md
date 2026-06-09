@@ -1,0 +1,1 @@
+The above Markdown document represents the finalized, context‑accurate Ukrainian translation of the original technical hazard profile.

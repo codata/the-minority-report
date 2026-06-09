@@ -1,0 +1,1 @@
+preserves the technical terminology, follows the DRR controlled vocabulary, and conforms to Italian linguistic conventions for scientific and public‑health documents.*

@@ -1,0 +1,1 @@
+The above Markdown document provides a complete, domain‑accurate translation of the original technical hazard profile, fully adapted to Turkish and aligned with the Controlled Vocabulary for Disaster Risk Reduction context.

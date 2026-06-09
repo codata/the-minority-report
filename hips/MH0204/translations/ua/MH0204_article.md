@@ -1,0 +1,1 @@
+above incorporates all terminological adjustments, consistent Ukrainian phrasing, proper metric units, and adheres to the DRR controlled vocabulary. It eliminates misspellings, clarifies ambiguous phrases, and aligns with Ukrainian academic standards for hazard documentation.*

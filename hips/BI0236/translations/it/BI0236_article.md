@@ -1,0 +1,1 @@
+The translation above preserves the technical terminology, uses concise, standardized Italian terminology consistent with the Controlled Vocabulary for Disaster Risk Reduction, and follows Markdown formatting conventions.

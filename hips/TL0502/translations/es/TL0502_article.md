@@ -1,0 +1,69 @@
+### Definición
+Los **residuos sólidos** comprenden los materiales desechados que ya no son requeridos por el propietario o usuario. Los residuos sólidos incluyen materiales que están en estado sólido o líquido pero excluyen aguas residuales y pequeñas partículas liberadas en la atmósfera (Naciones Unidas, 2014).
+
+### Referencia(s) principal(es)
+Programa de las Naciones Unidas para el Medio Ambiente, 2024. *Perspectiva Mundial de Gestión de Residuos 2024*. Accedido 11 febrero 2025.
+
+### Anotaciones
+#### Descripción científica adicional
+Los residuos sólidos pueden incluir tales materiales como:
+- Residuos sólidos municipales, que abarcan basura doméstica general como desperdicio de alimentos, ceniza y materiales de embalaje.
+- Heces humanas descartadas en basura.
+- Residuos de construcción y demolición (incluido el asbesto).
+- Residuos peligrosos (incluidos PFAs y otros químicos).
+- Residuos sanitarios.
+- Residuos de desastre.
+
+**Ejemplos de residuos de desastre**: residuos de infraestructura dañada, botellas plásticas de agua, embalaje de otros suministros de emergencia y otros residuos de operaciones de ayuda; escombros resultantes del desastre; barro y lodo depositado por el desastre; árboles caídos y rocas que obstruyen el transporte y las comunicaciones (OMS, 2024).  
+Los **residuos controlados** se recogen y luego se reciclan o disponen en una instalación controlada. Los **residuos no controlados** no se recogen y se verten o queman en el interior abierto, o se recogen y luego se verten o queman en su destino final (PNUMA, 2024).
+
+Los países de bajos ingresos tienen poblaciones rurales proporcionalmente más grandes, lo que significa que más personas viven cerca de lugares donde se produce comida. En estos países, se usa menos embalaje para transportar la comida de las áreas rurales a las urbanas. El embalaje, por lo tanto, constituye una proporción menor de los **residuos sólidos municipales** (RSM). Esto se puede observar en la composición de los RSM en África subsahariana y Sudamérica. Estas regiones tienen una proporción relativa mayor de desperdicio de alimentos, no porque desperdicien más alimentos que otras regiones, sino porque tienen una menor participación de residuos de embalaje en su flujo de RSM. Las poblaciones de mayor ingreso, más urbanizadas, requieren más embalaje para transportar la comida de forma segura desde las zonas rurales a las áreas urbanas. Además, los consumidores de mayor ingreso tienden a priorizar la conveniencia, lo que resulta en más productos de un solo uso y embalaje de entregas a domicilio y comidas para llevar que se encuentran en la corriente de los RSM. Estos consumidores también tienen más ingresos disponibles para gastar en bienes como ropa y productos de higiene personal. El impacto de sus patrones de consumo en la composición del RSM se puede observar, por ejemplo, en la composición de los RSM en América del Norte y el Norte y Oeste de Europa. Otros factores que afectan la composición del RSM incluyen el clima (se puede generar más residuos de jardín en áreas con alta precipitación), la densidad poblacional y las prácticas culturales (PNUMA, 2024).
+
+### Problemas conceptuales y metodológicos de las estadísticas de residuos sólidos
+Se han identificado durante mucho tiempo. A través de los países y las regiones, existen desafíos significativos en cuanto a los datos de residuos y su disponibilidad. Un problema importante es la falta de estandarización en la medición y el reporte; otro es la falta de sistemas de monitoreo bien desarrollados en muchos países, lo que significa que no existen estimaciones adecuadas para indicadores simples como la cantidad total de residuos recogidos y la participación de residuos recogidos depositados en vertederos controlados. Si bien existen relaciones significativas entre la generación de residuos y los indicadores como el Índice de Desarrollo Humano, la participación de población urbana, el ingreso nacional bruto y las tasas de alfabetización adulta, el análisis muestra que el mejor modelo es una regresión lineal usando solo el PIB per cápita (PNUMA, 2024).
+
+### Métricas y límites numéricos
+La generación mundial de residuos sólidos municipales, por hogares; minoristas y otros pequeños negocios; proveedores de servicios públicos; y otras fuentes similares, se estimó en 2.1 mil millones de toneladas/año en 2020 y en 23 mil millones de toneladas/año en 2024. Debido a una combinación de crecimiento económico y poblacional, se proyecta que aumente en un 56 % a 3.8 mil millones de toneladas para 2050 si no se toman medidas urgentes (PNUMA, 2024).  
+La participación global de la disposición de RSM no controlados (vertido y quema abierta; ver Sección 2.3.6) se proyecta que aumente ligeramente, de 38 % en 2020 a 41 % para 2050. Sin embargo, al considerar el crecimiento proyectado de RSM (Sección 2.1) se tendrá un aumento casi doble en RSM no controlados, de 806 millones de toneladas en 2020 a 1.6 mil millones de toneladas en 2050 (PNUMA, 2024).
+
+### Convenio o tratado multilateral relevante de la ONU
+Convención de Basilea sobre el Control de Movimientos Transfronterizos de Residuos Peligrosos y su Disposición (1989). En el momento de escribir, había 187 partes en la Convención de Basilea (Colección de Tratados de la ONU 2019).
+- Enmiendas a la Convención de Basilea sobre residuos plásticos (2019) y E‑residuos (2021‑2022).
+- Marco Global de PNUMA sobre Químicos y Residuos (2023).
+- Actualizaciones de políticas de residuos de la OCDE (2023‑2024).
+
+### Impulsores
+La generación de residuos sólidos, y en particular los residuos sólidos municipales (RSM), se relaciona linealmente con el PIB y los problemas de gestión de residuos provocan la acumulación de residuos. Por ejemplo, el número de países de ingresos medianos en rápido crecimiento, donde los problemas de gestión de residuos son especialmente prominentes, está aumentando. En 2020, el 38 % de los RSM generados globalmente fueron no controlados (PNUMA, 2024). Aproximadamente 2.7 mil millones de personas no tienen su basura recogida: 2 mil millones en zonas rurales y 700 millones en zonas urbanas. Esto equivale a 540 millones de toneladas de RSM, o alrededor del 27 % del total global, no recogidos (PNUMA, 2024).
+
+### Impactos
+La mala gestión de residuos (incluida la recolección y disposición ineficaces) causa contaminación del aire, suelo y agua (Entorno de la ONU, sin fecha). Los residuos, incluidos los sólidos, influyen en la crisis planetaria triple de:
+- **Cambio climático**: El transporte, procesamiento y disposición de residuos genera CO₂ y otros gases de efecto invernadero (GEI) y contaminantes atmosféricos que contribuyen al cambio climático.
+- **Pérdida de biodiversidad**: Las prácticas de disposición indiscriminada pueden introducir químicos peligrosos en suelos, cuerpos de agua y aire, causando daños a largo plazo, potencialmente irreversibles, a la flora y fauna locales, impactando negativamente la biodiversidad, dañando ecosistemas completos y entrando en la cadena alimentaria humana.
+- **Contaminación**: Entre 400 000 y 1 millón de personas mueren cada año como resultado de enfermedades relacionadas con residuos mal gestionados, incluyendo diarrea, malaria, enfermedades cardíacas y cáncer (Williams et al., 2019). Los residuos sólidos crean hábitats favorables para insectos, roedores y otros vectores de enfermedades y, por lo tanto, aumentan el riesgo de enfermedades como dengue, malaria y fiebre amarilla (OMS, 2013; Asociación de Esferas, 2018). Además, las comunidades pueden recolectar entre los residuos sólidos, lo que conduce a un aumento de casos de enfermedades como disentería y exposición a otras sustancias nocivas o tóxicas. Mientras tanto, el vertido indiscriminado de residuos también puede bloquear cursos de agua provocando inundaciones (OMS, 2013), contaminando el medio ambiente e impactando a los ecosistemas acuáticos, incluido el entorno marino. Las personas que transitan por áreas con residuos sólidos están expuestas al riesgo de lesiones por vidrios rotos, agujas, etc., y a la exposición a contaminantes. Los residuos tienen un impacto desmoralizador en las comunidades y pueden disminuir la moral (OMS, 2013).
+
+### Contexto multi‑riesgo
+La figura a continuación resume las interacciones comunes entre residuos sólidos y otros riesgos. Esta información debe usarse con precaución y no debe ser la única base para la Gestión del Riesgo de Desastres, particularmente porque algunas interacciones pueden no haber sido incluidas. Tenga en cuenta que los eventos peligrosos que ocurren juntos o localmente en espacio o tiempo no necesariamente causan, amplían o están relacionados entre sí. Ejemplos específicos de contexto multi‑riesgo se pueden encontrar en las secciones “Impulsores de riesgo” y “Impactos” anteriores.
+
+### Diagrama multi‑riesgo
+
+### Gestión del riesgo
+Existe una necesidad urgente de medidas de reducción de uso de recursos y generación de residuos en la fase upstream y de reducción de impactos ambientales en la fase downstream. Diferentes sectores desempeñan diferentes roles en la entrega de estas medidas (PNUMA, 2024).
+
+### Tabla 1: La jerarquía de residuos y el papel de diferentes partes de la sociedad en el control de la generación y gestión de residuos municipales (PNUMA, 2024)
+
+El reutilizar y reciclar reduce la demanda de extracción de materias primas intensivas en energía y daños ambientales, permite valorar los residuos como recurso y previene la contaminación de residuos que se filtren en el medio ambiente. La reutilización aparece más alta en la jerarquía de residuos ya que no implica procesos intensivos en energía como el reciclaje. Sin embargo, el reciclaje no es el objetivo final de la gestión de residuos: siempre es mejor reducir los residuos previniendo su aparición en primer lugar, o reutilizar materiales que de otra manera se convertirían en residuos, que producir residuos y luego reciclarlos. Una **economía circular** es un modelo de producción y consumo que implica compartir, alquilar, reutilizar, reparar, renovar y reciclar materiales y productos existentes tanto tiempo como sea posible para extender el ciclo de vida de los productos, reduciendo la extracción de nuevos recursos en favor de reutilizar los existentes (OMS, 2024). La **RESP** es un enfoque de política que hace responsables a los productores por sus productos a lo largo de toda la vida útil, incluyendo en la etapa posterior al consumidor. Al hacerlo, ayuda a lograr objetivos ambientales como metas de reciclaje. Al mismo tiempo, la RESP genera financiación de los productores que ayuda a pagar la recolección, clasificación y reciclaje de los residuos, además de generar información detallada sobre la producción, los productos, la generación de residuos y el tratamiento. La guía de la OCDE identifica principios sobre el uso de la RESP, describe opciones posibles y detalla los beneficios y las compensaciones de diferentes enfoques. De esta manera, la OCDE ayuda a armonizar el uso de los esquemas de la RESP entre países (OCDE, 2016).
+
+El tratamiento de residuos a energía térmica, también conocido como incineración con recuperación de energía, es un método de tratamiento de residuos que se utiliza en un número relativamente pequeño de países. La generación de residuos a energía representa un uso lineal de recursos ya que los materiales que se queman nunca pueden recuperarse y reutilizarse. Aunque las tecnologías de residuos a energía se usan ampliamente en algunos países industrializados, persisten interrogantes sobre la adopción de estas tecnologías. Los **GEI** y otros contaminantes atmosféricos emitidos por procesos de combustión pueden también obstaculizar la capacidad de los países para cumplir con las obligaciones relacionadas con sus Contribuciones Determinadas a Nivel Nacional (CDN) y las asignaciones de los sistemas de comercio de emisiones (PNUMA, 2024). La disposición segura de residuos sólidos es crítica para la salud pública, ya que los residuos sólidos presentan un peligro en emergencias (OMS, 2013; 2024). El Manual de la Esfera (Asociación de Esferas, 2018) es la herramienta internacionalmente reconocida (pero no vinculante legalmente) en el campo de los estándares humanitarios, incluyendo la gestión de residuos sólidos.
+
+### Monitoreo
+No hay información disponible.
+
+### Referencias
+- Organización para la Cooperación y el Desarrollo Económico (OCDE), 2016. *Responsabilidad extendida del productor y instrumentos económicos*. [en línea] Accedido 21 mayo 2025.  
+- Asociación de Esferas, 2018. *El Manual de la Esfera: Carta humanitaria y estándares mínimos en la respuesta humanitaria*. 4ª edición. Accedido 21 mayo 2025.  
+- Programa de las Naciones Unidas para el Medio Ambiente (PNUMA), 2024. *Perspectiva Mundial de Gestión de Residuos 2024: Más allá de una era de residuos – convertir la basura en un recurso*. [en línea]. Accedido 21 mayo 2025.  
+- Colección de Tratados de la ONU, 2019. Capítulo XXVII. Medio ambiente. Convención de Basilea sobre el Control de Movimientos Transfronterizos de Residuos Peligrosos y su Disposición. [en línea]. Accedido 11 febrero 2025.  
+- Williams, M., Gower, R., Green, J., Whitebread, E., Lenkiewicz, Z. y Schröder, P., 2019. *No Time to Waste: Tackling the Plastic Pollution Crisis Before It’s Too Late*. Teddington, Reino Unido: Tearfund. [en línea]. Accedido 11 febrero 2025.  
+- Organización Mundial de la Salud (OMS), 2013. *Notas técnicas sobre agua potable, saneamiento e higiene en emergencias: Gestión de residuos sólidos en emergencias*. OMS. Accedido 11 febrero 2025.  
+- Organización Mundial de la Salud (OMS), 2024. *Compendio de la OMS y otras Guías de las Naciones Unidas sobre Salud y Medio Ambiente – Capítulo 4. Residuos sólidos*. [en línea]. Accedido 11 febrero 2025.
+```

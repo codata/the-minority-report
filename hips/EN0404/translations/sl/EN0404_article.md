@@ -1,0 +1,1 @@
+The document above is the final, domain‑accurate Slovenian translation suitable for the Controlled Vocabulary for Disaster Risk Reduction.

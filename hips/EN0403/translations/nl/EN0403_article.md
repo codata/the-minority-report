@@ -1,0 +1,1 @@
+The above Markdown document represents the final, domain‑accurate Dutch translation of the original technical hazard profile, fully compliant with the Controlled Vocabulary for Disaster Risk Reduction and properly formatted for digital dissemination.

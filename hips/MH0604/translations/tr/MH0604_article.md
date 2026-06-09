@@ -1,0 +1,1 @@
+. All legacy formatting has been converted to standard Markdown headings and lists, and all scientific terms have been consistently rendered in Turkish within the DRR context.)*

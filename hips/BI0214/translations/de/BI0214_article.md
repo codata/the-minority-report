@@ -1,0 +1,79 @@
+```markdown
+### Definition
+
+Human‑Immunodeficiency‑Virus (HIV) ist ein Virus, das das Immunsystem des Körpers angreift. Acquired‑Immunodeficiency‑Syndrom (AIDS) tritt im fortgeschrittenen Stadium der Infektion auf. HIV greift die weißen Blutkörperchen an und schwächt damit das Immunsystem. Dies erleichtert die Erkrankung an Krankheiten wie Tuberkulose, Infektionen und einigen Krebsarten. HIV wird durch Körperflüssigkeiten einer infizierten Person übertragen, einschließlich Blut, Muttermilch, Sperma und Vaginalflüssigkeiten. WHO definiert nun fortgeschrittene HIV‑Erkrankung (AHD) als CD4‑Zellzahl < 200 Zellen/mm³ oder WHO‑Stufe 3 oder 4 bei Erwachsenen und Jugendlichen. Alle Kinder unter 5 Jahren, die HIV haben, gelten als fortgeschrittene HIV‑Erkrankung (WHO, 2024a).
+
+### Primary Reference(s)
+
+WHO, 2024a. HIV/AIDS. World Health Organization (WHO). Abgerufen 13. Februar 2025.
+
+### Anmerkungen
+
+Weitere wissenschaftliche Beschreibung  
+HIV bleibt ein bedeutendes globales Gesundheitsproblem und hat bis heute etwa 42,3 Millionen Leben gekostet. Die Übertragung läuft in allen Ländern weltweit weiter (WHO, 2024a). Ende 2023 lebten schätzungsweise 39,9 Millionen Menschen mit HIV, 65 % davon in der WHO‑Afrikaregion. Im Jahr 2023 starben schätzungsweise 630 000 Menschen an HIV‑bedingten Ursachen und etwa 1,3 Millionen Menschen erfassten HIV (WHO, 2024a). Es gibt keine Heilung für HIV‑Infektionen. Mit Zugang zu wirksamer HIV‑Prävention, Diagnose, Therapie und Versorgung, einschließlich opportunistischer Infektionen, ist HIV‑Infektion zu einer kontrollierbaren chronischen Erkrankung geworden, die es Menschen mit HIV ermöglicht, ein langes und gesundes Leben zu führen (WHO, 2024a). WHO, der Global Fund und UNAIDS haben globale HIV‑Strategien, die mit dem SDG‑Ziel 3.3 zur Beendigung der HIV‑Epidemie bis 2030 übereinstimmen (WHO, 2024a). Bis 2025 sollten 95 % aller Menschen mit HIV diagnostiziert sein, 95 % davon leben mit lebensrettender antiretroviraler Therapie, und 95 % der Menschen, die behandelt werden, sollten eine unterdrückte Viruslast erreichen (WHO, 2024a). Im 2023 lagen diese Prozentzahlen bei 86 %, 89 % bzw. 93 % (WHO, 2024a). Im 2023 wussten 86 % aller Menschen mit HIV von ihrem Status, 77 % erhielten antiretrovirale Therapie und 72 % hatten unterdrückte Viruslasten (WHO, 2024a).
+
+### Messgrößen und numerische Grenzen
+
+Global data (WHO, 2024b).  
+- Menschen mit HIV – Schätzung 39,9 Millionen [36,1‑44,6 Millionen] im Ende 2023, davon 1,4 Millionen [1,1‑1,7 Millionen] Kinder (0‑14 Jahre).  
+- 38,6 [34,9‑43,1 Millionen] Erwachsene (15+ Jahre).  
+- HIV‑Inzidenz – 1,3 Millionen [1,0‑1,7 Millionen] Menschen erfassten HIV im 2023.  
+- Seit 2010 wurde die Zahl der Personen, die HIV erfassten, um 39 % reduziert, von 2,1 Millionen [1,7‑2,7 Millionen].  
+- 120 000 [83 000‑170 000] Kinder erfassten HIV im 2023.  
+- 1,2 Millionen [950 000‑1,5 Millionen] Erwachsene erfassten HIV im 2023.  
+- Die Zahl der Personen, die HIV erfassten, sank auf 0,17 [0,13‑0,21] pro 1000 uninfizierte Bevölkerung im 2023 von 0,32 [0,25‑0,40] im 2010.  
+- Seit Beginn der Epidemie erfassten 88,4 Millionen [71,3 Millionen‑112,8 Millionen] Menschen HIV.  
+- HIV‑bedingte Mortalität – 2023 starben 630 000 [500 000‑820 000] Menschen an HIV‑bedingten Ursachen weltweit.  
+- Seit 2010 wurden HIV‑bedingte Todesfälle um 51 % reduziert, von 1,3 Millionen [1,0‑1,7 Millionen].  
+- Die globale HIV‑Epidemie hat 2023 69 % weniger Leben gekostet seit dem Höhepunkt 2004.  
+- 76 000 [53 000‑110 000] Kinder starben an HIV‑bedingten Ursachen im 2023.  
+- 560 000 [430 000‑730 000] Erwachsene starben an HIV‑bedingten Ursachen im 2023.  
+- HIV bleibt ein bedeutendes globales Gesundheitsproblem, das bisher 42,3 Millionen [35,7‑51,1 Millionen] Leben gekostet hat.
+
+### Wichtige UN‑Convention / multilaterale Verträge
+
+International Health Regulations (2005), 3rd ed. (WHO, 2016).
+
+### Treiber
+
+HIV kann durch den Austausch von Körperflüssigkeiten von Menschen mit HIV übertragen werden, einschließlich Blut, Muttermilch, Sperma und Vaginalsekret. HIV kann auch während Schwangerschaft und Geburt an ein Kind übertragen werden. Menschen werden nicht durch alltägliche Kontakte wie Küssen, Umarmen, Händeschütteln oder Teilen persönlicher Gegenstände, Lebensmittel oder Wasser infiziert. Risikobeurteile und -bedingungen, die das Risiko einer HIV‑Infektion erhöhen, umfassen:  
+- Anal‑ oder Vaginalverkehr ohne Kondom;  
+- eine andere sexuell übertragbare Infektion (STI) wie Syphilis, Herpes, Chlamydien, Gonorrhö und bakterielle Vaginose;  
+- gefährlicher Alkoholkonsum oder Drogenkonsum im Kontext sexuellen Verhaltens;  
+- gemeinsames Teilen von kontaminierten Nadeln, Spritzen und anderen Injektionsgeräten oder Drogenlösungen beim Injizieren;  
+- unsichere Injektionen, Bluttransfusionen oder Gewebetransplantationen;  
+- medizinische Verfahren, die unsterile Schnitte oder Piercings beinhalten;  
+- versehentliche Nadelschläge, einschließlich bei Gesundheitsdienstleistern.
+
+### Auswirkungen
+
+Seit Beginn der Epidemie wurden 88,4 Millionen [71,3‑112,8 Millionen] Menschen mit dem HIV‑Virus infiziert und etwa 42,3 Millionen [35,7‑51,1 Millionen] Menschen starben an HIV. Weltweit lebten im Ende 2023 schätzungsweise 39,9 Millionen [36,1‑44,6 Millionen] Menschen mit HIV. Etwa 0,6 % [0,6‑0,7 %] der Erwachsenen im Alter von 15‑49 Jahren weltweit leben mit HIV, obwohl die Belastung der Epidemie zwischen Ländern und Regionen stark variiert. Die WHO‑Afrikaregion bleibt am schwersten betroffen, mit einem von jedem 30. Erwachsenen (3,4 %) mit HIV und mehr als zwei Dritteln der Menschen mit HIV weltweit (WHO, 2024c). Die Symptome von HIV variieren je nach Infektionsstadium. HIV verbreitet sich in den ersten Monaten nach der Infektion leichter, viele Menschen sind sich ihres Status erst im späteren Stadium bewusst. In den ersten Wochen nach der Infektion haben Menschen oft keine Symptome. Andere haben grippeähnliche Erkrankungen, einschließlich Fieber, Kopfschmerzen, Hautausschlag und Halsschmerzen. Die Infektion schwächt das Immunsystem weiter. Dies kann weitere Zeichen und Symptome wie geschwollene Lymphknoten, Gewichtsverlust, Fieber, Durchfall und Husten verursachen. Ohne Behandlung können Menschen mit HIV schwere Erkrankungen entwickeln, z. B. Tuberkulose (TB), Cryptocockomeningitis, schwere bakterielle Infektionen und Krebs wie Lymphome und Kaposi‑Sarkom. HIV verschlechtert andere Infektionen, z. B. Hepatitis C, Hepatitis B und Mpox. Menschen mit HIV, die antiretrovirale Therapie (ART) einnehmen und keine nachweisbare Viruslast haben, übertragen HIV nicht an ihre Sexualpartner. Früher Zugang zu ART und Unterstützung, um weiterhin behandelt zu bleiben, ist daher entscheidend, nicht nur um die Gesundheit von Menschen mit HIV zu verbessern, sondern auch um die HIV‑Übertragung zu verhindern.
+
+### Mehrfach‑Gefahren‑Kontext
+
+Mehrfach‑Gefahren‑Folgen umfassen Tuberkulose (TB), Cryptocockomeningitis, schwere bakterielle Infektionen und Krebs wie Lymphome und Kaposi‑Sarkom. HIV verschlechtert andere Infektionen, z. B. Hepatitis C, Hepatitis B und Mpox.
+
+### Risikomanagement
+
+HIV kann durch Schnelldiagnostische Tests diagnostiziert werden, die Ergebnisse am selben Tag liefern. Dies erleichtert die frühzeitige Diagnose und den Anschluss an Therapie und Prävention. Menschen können auch HIV‑Selbsttests durchführen. Kein einzelner Test kann jedoch eine vollständige HIV‑Positive‑Diagnose liefern; Bestätigungstests sind erforderlich, durchgeführt von einer qualifizierten und ausgebildeten Gesundheits‑ oder Gemeindearbeitern. HIV‑Infektion kann mit großer Genauigkeit mit WHO‑qualifizierten Tests im Rahmen einer nationalen Teststrategie und eines Algorithmus nachgewiesen werden. Die am weitesten verbreiteten HIV‑Diagnosetests erkennen Antikörper, die der Körper als Teil seiner Immunantwort gegen HIV produziert. In den meisten Fällen entwickeln Menschen Antikörper gegen HIV innerhalb von 28 Tagen nach der Infektion. In dieser Zeit befinden sich Menschen im sogenannten „Window‑Period“, wenn sie niedrige Antikörperspiegel aufweisen, die von vielen Schnelltests nicht nachgewiesen werden können, sie aber dennoch HIV an andere übertragen können. Personen, die eine kürzliche hoch‑risikoreiche Exposition hatten und negativ getestet wurden, können nach 28 Tagen einen weiteren Test durchführen. Nach einer positiven Diagnose sollten Menschen erneut getestet werden, bevor sie in Behandlung und Versorgung aufgenommen werden, um mögliche Test‑ oder Meldefehler auszuschließen. Während die Tests für Jugendliche und Erwachsene einfach und effizient sind, ist dies bei Babys, die von HIV‑positiven Müttern geboren wurden, nicht der Fall. Für Kinder unter 18 Monaten ist der Schnell‑Antikörpertest nicht ausreichend, um HIV‑Infektion zu erkennen – virologische Tests müssen frühestens bei der Geburt oder im Alter von 6 Wochen durchgeführt werden. Neue Technologien ermöglichen nun die Durchführung dieses Tests an Ort‑der‑Betreuung und ermöglichen Ergebnisse am selben Tag, die die schnelle Verbindung zu Therapie und Versorgung beschleunigen. HIV ist eine vermeidbare Krankheit. Reduzieren Sie das Risiko einer HIV‑Infektion durch:  
+- Verwendung von Kondomen;  
+- HIV‑ und STI‑Tests;  
+- freiwillige medizinische Männliche Beschneidung;  
+- Harm‑Reduction‑Dienste für Menschen, die Drogen injizieren und verwenden.  
+Menschen, die ART einnehmen und keine nachweisbare Viruslast haben, übertragen HIV nicht an ihre Sexualpartner. Zugang zu Tests und ART ist ein wichtiger Teil der Prävention von HIV. Antiretroviral‑Medikamente, die Menschen ohne HIV geben, können eine Infektion verhindern. Wenn sie vor möglicher HIV‑Exposition gegeben werden, wird es Prä‑Expositions‑Prophylaxe (PrEP) genannt, und wenn sie nach der Exposition gegeben werden, heißt es Post‑Expositions‑Prophylaxe (PEP). Menschen können PrEP oder PEP nutzen, wenn das Risiko einer HIV‑Infektion hoch ist; sie sollten einen Arzt konsultieren, wenn sie über die Nutzung von PrEP oder PEP nachdenken. Es gibt keine Heilung für HIV‑Infektion. Sie wird mit antiretroviralen Medikamenten behandelt, die das Virus im Körper daran hindern, sich zu replizieren. Die aktuelle antiretrovirale Therapie (ART) heilt HIV‑Infektion nicht, ermöglicht aber ein stärkeres Immunsystem. Dies hilft ihnen, andere Infektionen zu bekämpfen. Derzeit muss ART jeden Tag für den Rest des Lebens eingenommen werden. ART senkt die Virusmenge im Körper. Dadurch hören die Symptome auf und Menschen können ein erfülltes und gesundes Leben führen. Menschen mit HIV, die ART einnehmen und keine nachweisbare Viruslast haben, übertragen das Virus nicht an ihre Sexualpartner. Schwangere Frauen mit HIV sollten Zugang haben und ART so früh wie möglich einnehmen. Das schützt die Gesundheit der Mutter und verhindert die HIV‑Übertragung an das Föthing vor der Geburt oder durch Muttermilch. Fortgeschrittene HIV‑Erkrankung bleibt ein anhaltendes Problem in der HIV‑Reaktion. WHO unterstützt Länder dabei, das Paket fortgeschrittener HIV‑Erkrankung zu implementieren, um Krankheit und Tod zu reduzieren. Neuere HIV‑Medikamente und Kurzkurstherapien für opportunistische Infektionen wie Cryptocockomeningitis werden entwickelt, die die Art und Weise ändern könnten, wie Menschen ART und Präventionsmedikamente, einschließlich Zugang zu injizierbaren Formulierungen, in Zukunft einnehmen. Tests, Therapie und Viruslast‑Unterdrückungskaskaden bei allen Menschen mit HIV. Bis 2025 sollten 95 % aller Menschen mit HIV ihren HIV‑Status kennen (erste 95‑95‑95‑Ziel). Im 2023 wüssten 86 % [69‑>98 %] von ihrem Status. Um das erste 95‑95‑95‑Ziel zu erreichen, müssen weitere 3,4 Millionen Menschen mit HIV über ihren Status informiert werden. Menschen mit HIV, die antiretrovirale Therapie erhalten (zweite 90). Im 2023 erhielten 77 % [61‑89 %] von Menschen mit HIV antiretrovirale Therapie. Um das zweite 95‑90‑86‑Ziel zu erreichen, müssen weitere 5,4 Millionen Menschen mit HIV ihren Status kennen und antiretrovirale Therapie erhalten. Menschen mit HIV mit unterdrückter Viruslast (dritte 86). Im 2023 hatten 72 % [65‑80 %] von Menschen mit HIV unterdrückte Viruslasten. Um das dritte 95‑90‑86‑Ziel zu erreichen, müssen weitere 5,6 Millionen Menschen mit HIV ihren Status kennen, antiretrovirale Therapie erhalten und Viruslasten unterdrücken.
+
+### Monitoring
+
+Globale Gesundheitssektorenstrategien zu HIV, viraler Hepatitis und sexuell übertragbaren Infektionen für die Periode 2022‑2030 leiten strategische Antworten zur Erreichung der Ziele, AIDS, viraler Hepatitis B und C sowie sexuell übertragbarer Infektionen bis 2030. Die WHO‑Programme für HIV, Hepatitis und STIs empfehlen geteilte und krankheitsspezifische Länderaktionen, unterstützt von WHO und Partnern. Sie berücksichtigen die epidemiologischen, technologischen und kontextuellen Veränderungen der Vorjahre, fördern Lernen und schaffen Möglichkeiten, Innovationen und neues Wissen zu nutzen. WHO‑Programme fordern, die am stärksten betroffenen und gefährdeten Menschen zu erreichen und Ungleichheiten anzugehen. Unter einem Rahmen der universellen Gesundheitsversorgung und primären Gesundheitsversorgung tragen WHO‑Programme zur Erreichung der Ziele der 2030‑Agenda für nachhaltige Entwicklung bei. Das Global Health Observatory (GHO) ist der Zugang zu über 1000 Indikatoren zu prioritären Gesundheitsthemen einschließlich Mortalität und Krankheitsbelastung, dem Millenium‑Entwicklungsziel (Kinder‑Ernährung, Kinder‑Gesundheit, Mutter‑ und reproduktive Gesundheit, Impfungen, HIV/AIDS, Tuberkulose, Malaria, vernachlässigte Krankheiten, Wasser und sanitäre Einrichtungen), nicht‑übertragbaren Krankheiten und Risikofaktoren, epidemie‑anfälligen Krankheiten, Gesundheitssystemen, Umwelt‑Gesundheit, Gewalt und Verletzungen, Gleichberechtigung etc. WHO unterstützt Länder bei der Durchführung von All‑Hazard‑Strategischer Risikoanalyse in Gesundheits‑Notfällen und Katastrophen, die zur Entwicklung eines Länder‑Risikoprofils führen. Mit dem Länder‑Risikoprofil, einschließlich eines saisonalen Risikokalenders, können Länder potenzielle Notfälle vor ihrer Entstehung vorhersagen und Frühwarnungen auslösen sowie frühzeitige Maßnahmen ergreifen (WHO, 2021). Das WHO Frühwarn‑, Alarm‑ und Reaktionssystem (EWARS) wurde entwickelt, um die Erkennung von Krankheitsausbrüchen in Notfallsituationen zu verbessern, z. B. in Ländern im Konflikt oder nach einer Katastrophe. Es ist ein einfaches und kostengünstiges Verfahren, um ein Krankheitsüberwachungssystem schnell aufzubauen. EWARS wird während einer Notlage als Ergänzung zum nationalen Krankheitsüberwachungssystem eingesetzt. WHO arbeitet mit Gesundheitsministerien und Gesundheitssektorpartnern zusammen, um lokale Gesundheitsarbeiter zu schulen. Nach der Notlage sollte EWARS in das nationale System zurückgeführt werden (WHO, ohne Datum).
+
+### Referenzen
+
+- WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Abgerufen 26 Mai 2025.  
+- WHO, 2021. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all‑hazards health emergency risk assessment. World Health Organization (WHO). Abgerufen 19 April 2025.  
+- WHO, 2024a. HIV/AIDS. World Health Organization (WHO). Abgerufen 13 Februar 2025.  
+- WHO, 2024b. HIV statistics, globally and by WHO region, 2024. Abgerufen 13 Februar 2025.  
+- WHO, 2024c. Global situation and trends: HIV. World Health Organization (WHO). Abgerufen 19 April 2025.  
+- WHO, ohne Datum. Early Warning, Alert and Response System (EWARS). World Health Organization (WHO). Abgerufen 19 April 2025.
+```
+
+*All terms are now consistently translated, formatting has been preserved, and the document follows German technical‑medical style guidelines.*

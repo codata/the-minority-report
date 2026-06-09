@@ -1,0 +1,66 @@
+> ### Definition  
+> Es ist heute allgemein anerkannt, dass zwei Schlüsselbedingungen erfüllt sein müssen, damit eine Gewalt‑Situation als Nicht‑internationaler bewaffneter Konflikt (NIAC) gilt und somit dem Internationalen humanitären Recht (IHL) unterliegt: Die nichtstaatliche Partei(en) müssen organisiert sein, und die Gewalt zwischen den Parteien muss ausreichend intensiv sein. Das Vorliegen eines NIAC ist nicht von einer anderen Schwelle oder Bedingung abhängig. Insbesondere spielen politische oder andere Motivationen der Parteien keine Rolle bei der Klassifizierung eines Konflikts. (adapted from ICRC, 2024)  
+
+> ### Primäre Referenzen  
+> ICRC, 2024. Opinion Paper, „How is the term ‘armed conflict’ defined in IHL?“ Zugriff am 31. Mai 2025.  
+
+> ### Anmerkungen  
+> **Weitere wissenschaftliche Beschreibung**  
+> Artikel 3 der Genfer Konventionen regelt „die Situation eines nicht internationalen bewaffneten Konflikts“, und die Definition des Nicht‑internationalen bewaffneten Konflikts (NIAC) spiegelt das Verständnis des Internationalen Komitees vom Roten Kreuz (ICRC) wider, das auf Praxis und internationaler Rechtsprechung (ICRC, 2016) beruht. Die Kategorie NIAC umfasst:  
+
+> * Bewaffnete Konflikte zwischen einer Staatspartei und einer oder mehreren organisierten nichtstaatlichen Parteien (ICRC, 2016).  
+> * Bewaffnete Konflikte ohne Staatspartei, aber zwischen zwei oder mehr organisierten nichtstaatlichen Parteien (UN, 1998).  
+> * Konfrontationen müssen zwischen organisierten Parteien mit organisierten bewaffneten Kräften stattfinden (ICRC, 2016).  
+
+> Während NIAC überwiegend innerhalb eines Staates stattfindet, kann NIAC extraterritoriale Aspekte (ICRC, 2016) und/oder internationale Ausprägungen mit Beteiligung ausländischer Staaten im Rahmen einer unterstützenden Rolle haben (ICRC, 2016).  
+
+> Bewaffnete Gewalt muss eine Mindestintensität aufweisen, die sie von Situationen trennt, die nicht als NIAC gelten, einschließlich:  
+
+> * „Innere Unruhen und Spannungen, wie Unruhen, isolierte und sporadische Gewaltausbrüche und andere Handlungen ähnlicher Art“ (UN, kein Datum; Artikel 1 des Zusatzprotokolls II).  
+> * „Banditismus, ungeordnete und kurzlebige Aufstände oder terroristische Aktivitäten“ (ICRC, 2016).  
+
+> Die Intensität der Gewalt wird Fall‑für‑Fall anhand kumulativer Beweise zu objektiven Kriterien bewertet, und der Internationale Strafgerichtshof für das ehemalige Jugoslawien (ICTY) entwickelte ein nicht‑ausführliches Set von „indikativen Faktoren“, die als Beispiele dienen, um „die Schwere der Angriffe“ zu bestimmen (ICTY, 2008).  
+
+> Aus Sicht des ICRC muss der klassische NIAC‑Ansatz um einen auf Unterstützung basierenden Ansatz für Drittparteien‑Operationen in vorbestehenden NIAC ergänzt werden. Das entscheidende Element ist die direkte und effektive Beitrag der Drittpartei zur kollektiven Durchführung der Hostilitäten durch die Unterstützung, die sie den beteiligten Staaten in der vorbestehenden NIAC bietet (ICRC, 2024).  
+
+> Die Beendigung eines NIAC basiert ebenfalls auf objektiven Kriterien und nicht auf der Erklärung eines Waffenstillstands, eines Waffenstillstands oder eines Friedensabkommens. Internationales humanitäres Recht „erweitert sich über das Ende der Hostilitäten hinaus, bis…ein friedlicher Ausgleich erreicht ist“ (ICTY, 1995: Para. 70). Die Beendigung eines NIAC kann eingeleitet werden, wenn eine der Parteien summiert besiegt wird und nicht mehr existiert oder anderweitig aufgelöst wird, oder wenn ein dauerhafter Mangel an bewaffneten Konfrontationen zwischen den ursprünglichen Parteien besteht.  
+
+> ### Metriken und numerische Grenzen  
+> Die Identifikation und Klassifizierung eines NIAC wird nicht von einer zentralen Behörde durchgeführt, und die Mindestintensitäts‑ und Dauer­schwelle für einen bewaffneten Konfrontation, die als NIAC gilt, wird Fall‑für‑Fall bestimmt (ICRC, 2016). Es gibt zahlreiche akademische Konflikt‑Datensätze, die eigene operative Schwellen für die Mindestanzahl jährlicher Todesfälle bei NIAC‑Ereignissen und -Trends vorgeben. Zwei der einflussreichsten akademischen Konflikt‑Datensätze, das Uppsala Conflict Data Program (Uppsala Universitet, kein Datum) und das Correlates of War (The Correlates of War Project, kein Datum) wenden jährliche konfliktbezogene Todesfaltschwellen von 25 bzw. 1 000 an.  
+
+> ### Wichtige relevante UN‑Vertrag / multilaterale Übereinkunft  
+> Artikel 3 gemeinschaftlich zu den Genfer Konventionen  
+> * Genfer Konvention zum Schutz zivilistischer Personen im Krieg (Vierte Genfer Konvention) (ICRC, 1949).  
+> * 1977 Zusatzprotokoll II zu den Genfer Konventionen von 1949 (ICRC, 1977).  
+> * Römisches Statut des Internationalen Strafgerichtshofs (ICC) (letzte Änderung 2010) (UN, 1998).  
+
+> ### Treiber  
+> Die Globale Plattform betonte die Sicherheitsimplikationen des Klimawandels und der Katastrophen und ermutigte kontext­spezifische Katastrophenrisikoreduktions‑ und Resilienzaufbau‑Strategien in konflikt­betroffenen Ländern und fragilen Kontexten, basierend auf Risikobewertungen, die Katastrophen, Klimarisiken und Konflikte integrieren (UNDRR, 2019).  
+
+> ### Auswirkungen  
+> Bewaffneter Konflikt hat sofortige und schwere Auswirkungen auf Menschenleben, Gesundheit und Würde, mit steigender Zahl von militärischem Personal und Zivilisten, die getötet, verwundet, ohne Würde behandelt, willkürlich festgehalten und/oder von ihren Familien getrennt werden. Sie können gezielt angegriffen, gezwungen, ihre Häuser zu verlassen, und von ihren grundlegenden Rechten als Menschen, wie dem Recht auf lebensnotwendige Versorgung, beraubt worden sein (ICRC, 2023). In bewaffneten Konflikten zielt das internationale humanitäre Recht darauf ab, Menschen, die Umwelt, Lebensgrundlagen, Infrastruktur, Bildungssysteme, Gesundheitssysteme und kulturelle Objekte und Eigentum zu schützen. Auswirkungen können die Verwendung von biologischen, chemischen, nuklearen und explosiven Agenten (BI0602, CH0903, TL0603, TL0306) umfassen. Zusätzlich können explosive Sprengstoffe (Explosivwaffenreste des Krieges) (SO0201) und Umweltschäden durch Konflikte (SO0202) Auswirkungen haben.  
+
+> ### Multi‑Hazard-Kontext  
+> Seit den 1970er Jahren hat sich ein wachsender Forschungsbereich entwickelt, um die Konstruktion von Katastrophenrisiken, die Schnittstelle zwischen natürlichen Gefahren, Gewalt, Konflikt und Fragilität zu vertiefen und nuancieren. Das Zusammenspiel von Katastrophen, Klimawandel, Umwelt­verschlechterung und Fragilität sollte erkannt werden, auch im Kontext wasserbezogener Risiken (Peters, 2019). Die dynamische Natur systemischer Risiken, neue Strukturen zur Steuerung von Risiken in komplexen, adaptiven Systemen und die Entwicklung neuer Instrumente für risikobasierte Entscheidungen, die menschlichen Gesellschaften ermöglichen, in und mit Unsicherheit zu leben, ist besonders notwendig, wo Umwelt‑, Gesundheits‑ und Finanzsysteme, Lieferketten, Informations‑ und Kommunikationssysteme deutlich verwundbar sind. Diese werden von disruptiven Einflüssen wie Klimawandel, Verlust an Biodiversität und ökologischen Systemen, Krankheitsepidemien, Nahrungsmittelknappheit, sozialer Unruhen, politischer Instabilität und Konflikt, finanzieller Instabilität und Ungleichheit herausgefordert und sind zugleich kausale Treiber. Sie schaffen Verwundbarkeit auf mehreren räumlichen Skalen (lokal bis global) und über verschiedene Zeitskalen (von unmittelbar bis Jahrzehnt‑ und darüber hinaus) (UNDRR, 2019). Katastrophen können auch Menschen beeinflussen, die bereits durch Konflikt oder andere Gründe vertrieben wurden (UNDRR, 2025).  
+
+> ### Risikomanagement  
+> Jeder hat das Recht auf Schutz vor Gefahren, unabhängig davon, ob er in einer relativ friedlichen und stabilen Gesellschaft lebt oder in einer, in der Herausforderungen im Zusammenhang mit Gewalt, Konflikt und Fragilität allgegenwärtig sind. Wo diese Herausforderungen existieren, sind Verwundbarkeiten am höchsten und die Kapazitäten zur Katastrophenrisikoreduktion oft unzureichend. Aus diesen Gründen erfordern Konflikt­kontexte dedizierte Unterstützung für die Katastrophenrisikoreduktion (Peters, 2019). Katastrophenrisikoreduktion nimmt die Prävention ernst, setzt sich für mehr Investitionen in Vorbereitung und Abschwächung ein. Diese Haltung hat die Agenda von der besseren Katastrophenbewältigung zur Reduzierung des Katastrophenrisikos verschoben. Flexibilität, die Fähigkeit, in Komplexität zu arbeiten und die Schnelligkeit, große Änderungen in globalen Agenden zu übernehmen und zu integrieren, sind jetzt mehr denn je nötig. In diesem Geist ist eine stärkere Zusammenarbeit zwischen Katastrophenrisikoreduktion und Friedens‑ und Konfliktpräventions‑Gemeinschaften erforderlich. Die Katastrophenrisikoreduktion sollte nicht als separater Akteur angesehen werden; vielmehr sollte sie in die Plattformen und Prozesse integriert werden, die in fragilen und Krisensituationen existieren (Peters, 2019). Internationales humanitäres Recht (IHL) ist ein Regelwerk, das aus humanitären Gründen die Auswirkungen von bewaffneten Konflikten begrenzen soll. Es schützt Personen, die nicht oder nicht mehr an den Feindseligkeiten teilnehmen, und schränkt die Mittel und Methoden der Kriegsführung ein. Internationales humanitäres Recht ist auch als Kriegsgesetz oder bewaffnetes Konfliktesetz bekannt. Internationales humanitäres Recht ist Teil des Völkerrechts, das die Regeln für die Beziehungen zwischen Staaten enthält. Das Völkerrecht ist in Vereinbarungen zwischen Staaten – Verträgen oder Übereinkünften –, in Sitten, die den Staatlichen Praktiken als rechtlich bindend gelten, und in allgemeinen Prinzipien festgelegt. Internationales humanitäres Recht gilt für bewaffnete Konflikte. Es regelt nicht, ob ein Staat tatsächlich Gewalt anwenden darf; dies ist Teil des wichtigen, aber getrennten Abschnitts des Völkerrechts, der in der Charta der Vereinten Nationen festgelegt ist (ICRC, 2004).  
+
+> ### Monitoring  
+> Das Monitoring bewaffneter Konflikte beinhaltet die Beobachtung, Verfolgung und Analyse verschiedener Aspekte von Konfliktsituationen, um ihre Dynamik, Auswirkungen und das Potenzial für Eskalation oder Deeskalation zu verstehen. Dies kann durch verschiedene Methoden erfolgen, darunter Satellitenbilder, Feldberichte und Online‑Portale, mit dem Ziel, Entscheidungsträger zu informieren und Friedensbemühungen zu fördern. Verschiedene Mechanismen existieren, darunter das Online‑Portal „Rule of Law in Armed Conflict“ der Geneva Academy (RULAC), das alle Situationen bewaffneter Gewalt klassifiziert, die einen bewaffneten Konflikt im internationalen humanitären Recht darstellen. Derzeit überwacht es mehr als 110 bewaffnete Konflikte und liefert Informationen zu Parteien, den neuesten Entwicklungen und dem anwendbaren Völkerrecht. Einige dieser Konflikte sind Schlagzeilen, andere nicht. Einige begannen erst kürzlich, andere bestehen seit mehr als 50 Jahren (Geneva Academy, kein Datum).  
+
+> ### Referenzen  
+> Geneva Academy, kein Datum. RULAC: Rule of Law in Armed Conflicts. Zugriff am 31. Mai 2025.  
+> ICRC, 1949. Genfer Konvention zum Schutz zivilistischer Personen im Krieg (Vierte Genfer Konvention). Internationales Komitee vom Roten Kreuz (ICRC). Zugriff am 31. Mai 2025.  
+> ICRC, 2004. Was ist Internationales humanitäres Recht? Internationales Komitee vom Roten Kreuz (ICRC). Zugriff am 31. Mai 2025.  
+> ICRC, 2016. Kommentar zur Ersten Genfer Konvention. Internationales Komitee vom Roten Kreuz (ICRC). Zugriff am 31. Mai 2025.  
+> ICRC, 2023. Häufig gestellte Fragen: Kriegsgesetze. Internationales Komitee vom Roten Kreuz (ICRC). Zugriff am 31. Mai 2025.  
+> ICRC, 2024. Opinion Paper, „How is the term ‘armed conflict’ defined in IHL?“ Internationales Komitee vom Roten Kreuz (ICRC). Zugriff am 31. Mai 2025.  
+> ICTY, 2008. Prosecutor v. Haradinaj et al. (Trial Judgment). International Criminal Tribunal for the former Yugoslavia (ICTY). Zugriff am 31. Mai 2025.  
+> Peters K, 2019. Katastrophenrisikoreduktion in Konflikt­kontexten. Agenda für Maßnahmen. CC BY‑NC‑ND. Overseas Development Institute (ODI). Zugriff am 31. Mai 2025.  
+> The Correlates of War Project, kein Datum. About the Correlates of War Project. Zugriff am 31. Mai 2025.  
+> UN, 1998. Römisches Statut des Internationalen Strafgerichtshofs (ICC) (letzte Änderung 2010). Vereinte Nationen Vertragssammlung. Zugriff am 31. Mai 2025.  
+> UN, kein Datum. Protokoll Zusatz zu den Genfer Konventionen vom 12. August 1949, und zum Schutz der Opfer von Nicht‑internationalen bewaffneten Konflikten (Protokoll II), vom 8. Juni 1977. Zugriff am 31. Mai 2025.  
+> UNDRR, 2019. Global Assessment Report on Disaster Risk Reduction, Genf, Schweiz. Zugriff am 31. Mai 2025.  
+> UNDRR, 2025. Global Assessment Report on Disaster Risk Reduction 2025: Resilience Pays: Financing and Investing for our Future. Genf. ISBN‑PRINT 9789211542561 PDF‑ISBN 978921157674, United Nations Office for Disaster Risk Reduction (UNDRR). Zugriff am 31. Mai 2025.  
+> Uppsala Universitet, kein Datum. Uppsala Conflict Data Program. Department of Peace and Conflict Research. Zugriff am 31. Mai 2025.

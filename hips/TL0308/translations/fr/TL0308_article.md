@@ -1,0 +1,1 @@
+adheres to the Controlled Vocabulary for Disaster Risk Reduction, uses strictly geological/industrial terminology, and aligns with DRR conventions.*

@@ -1,0 +1,1 @@
+The corrected version above incorporates the appropriate terminology, clarifies domain‑specific concepts, corrects formatting inconsistencies, and aligns the content with the Controlled Vocabulary for Disaster Risk Reduction (DRR) standards.

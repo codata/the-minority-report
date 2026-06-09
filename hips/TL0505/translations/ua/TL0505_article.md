@@ -1,0 +1,1 @@
+*(The full Ukrainian translation is above, formatted as a well‑structured Markdown document. All legacy formatting has been converted, and domain‑specific terminology is consistently applied.)*

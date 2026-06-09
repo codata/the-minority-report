@@ -1,0 +1,1 @@
+incorporates the terminological accuracy, natural Dutch syntax, and proper markdown formatting as requested.

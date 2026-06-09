@@ -1,0 +1,1 @@
+, formatted in Markdown and using domain‑appropriate German terminology consistent with the Controlled Vocabulary for Disaster Risk Reduction.*

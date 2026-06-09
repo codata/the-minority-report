@@ -1,0 +1,85 @@
+```markdown
+### Definición
+Una ola de calor es un período marcado e inusual de clima caluroso en una región que persiste por al menos dos o tres días y noches consecutivos durante la temporada de calor del año según las condiciones climatológicas locales, con condiciones térmicas registradas por encima de umbrales establecidos (OMM y OMS, 2015).
+
+### Referencia(s) principal(es)
+OMM y OMS, 2015. Olas de calor y salud: Guía sobre el desarrollo de sistemas de alerta. Organización Meteorológica Mundial (OMM) y Organización Mundial de la Salud (OMS). Accedido el 16 de mayo de 2025.
+
+### Anotaciones
+#### Descripción científica adicional
+La Organización Meteorológica Mundial (OMM) utiliza una definición práctica para abordar los impactos en la salud humana. Define las olas de calor como “períodos de clima inusualmente caluroso y seco o caluroso y húmedo que tienen un inicio y finalización sutil, una duración de al menos dos a tres días y un impacto discernible en las actividades humanas” (OMM y OMS, 2015). La cesación de una ola de calor también puede ser brusca (p. ej. Engel et al., 2013). Los umbrales de temperatura para las olas de calor suelen definirse mediante percentiles, típicamente el percentil 90 o el percentil 95 (p. ej. Nairn y Fawcett, 2015). Esta definición no es suficiente para guiar a los Servicios Meteorológicos e Hidrológicos Nacionales en el desarrollo de métodos y herramientas prácticas para un sistema de monitoreo de olas de calor que permita comparaciones a través de fronteras regionales o internacionales. Las características comunes de las olas de calor —magnitud, duración, extensión, severidad y momento del evento durante la(s) temporada(s) de calor— se utilizan a menudo para comparar eventos de ola de calor (Red Global de Información sobre Salud y Calor, 2020). Similarmente, los periodos cálidos se definen como períodos persistentes de clima anormalmente cálido respecto al momento del año y la climatología local, pero no están confinados a la(s) temporada(s) de calor (OMM, 2020). Un periodo cálido puede definirse de forma similar en términos del percentil 90 o 95 de la temperatura máxima diaria (Tmax). El cambio climático antropogénico ha incrementado la intensidad, frecuencia y duración de las olas de calor (Perkins et al., 2012) y de los días extremadamente calurosos (Rogers et al., 2021), con tendencias proyectadas a continuar (Seneviratne et al., 2012).
+
+### Métricas y límites numéricos
+No es viable adoptar límites numéricos universales para caracterizar el calor extremo porque los impactos de las olas de calor se definen localmente y pueden variar significativamente a escalas subnacionales, influenciados por la geografía, la topografía, el entorno construido, la aclimatación de la población local y condiciones atmosféricas y otras. Los esfuerzos técnicos internacionales se centran en adoptar enfoques consistentes que permitan a los países definir y monitorear el calor extremo de manera operativa, basándose en sus condiciones locales, requisitos de aplicación y otras características descriptivas. Los sistemas de alerta nacionales emplean una variedad de índices y umbrales definidos localmente para describir condiciones de calor excesivo o peligroso. Dado que las temperaturas extremas pueden verse afectadas por otras condiciones meteorológicas, como humedad, viento y radiación solar, muchos índices de calor extremo consideran múltiples variables térmicas. Ejemplos de parámetros nacionales utilizados para definir alertas de calor incluyen los de Canadá (Entorno y Cambio Climático de Canadá, 2019), China (Administración Meteorológica de China, 2012), Estados Unidos (NOAA, 2019), República de Corea (KMA, 2019), India (Gobierno de la India, 2020) y Australia (Bureau of Meteorology, 2025; Nairn y Fawcett, 2015). Muchos sistemas de alerta emplean índices bio‑meteorológicos u holísticos para caracterizar mejor el riesgo de calor, incluyendo:
+
+- **Índices bio‑meteorológicos**: índice de calor, humidex, temperatura aparente, índice de calor excesivo, índices basados en el presupuesto de energía humana (p. ej. temperatura efectiva estándar, temperatura percibida, temperatura equivalente fisiológica, índice de clima térmico universal) (Zare et al., 2018).
+
+- **Enfoque holístico**: temperatura de bulbo húmedo globular, evaluación de la salud del entorno térmico, índice de estrés térmico y evaluación ambiental del calor acumulado, índice de calor excesivo‑aclimatación, Factor de Calor Excesivo (Zare et al., 2018).
+
+Las directrices de la OMM sobre la definición y el monitoreo de eventos climáticos extremos (OMM, 2021) buscan proporcionar orientación sobre la definición, caracterización, monitoreo e informes de eventos climáticos extremos operativamente. Se espera que la adhesión a estas directrices por parte de la comunidad meteorológica proporcione una base para atribuir eventos climáticos extremos y verificar los servicios de pronóstico y predicción (OMM, 2020).
+
+### Convención / tratado multilateral relevante de la ONU
+- Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC) (Asamblea General de la ONU, 1994).
+- Marco de Sendai para la Reducción del Riesgo de Desastres (UNDRR, 2015).
+- Convención Marco de las Naciones Unidas sobre la Combate a la Desertificación (UNCCD, 1994).
+
+### Conductores
+Las temperaturas anormalmente altas y persistentes pueden ser provocadas por una variedad de fenómenos climáticos y meteorológicos, pero el principal conductor de una ola de calor es un sistema de alta presión fuerte y de desplazamiento lento que permanece en una zona durante un periodo prolongado. En algunos casos, estos sistemas se mantienen en posición gracias a un patrón de bloqueo atmosférico, como un bloqueo Omega, que es un par de zonas de baja presión que rodean una zona de alta presión y la fijan. Otros conductores de olas de calor incluyen interacciones de la superficie terrestre y la humedad del suelo, temperaturas de la superficie del mar cercanas, extremos meteorológicos como tormentas tropicales, extremos climáticos como sequías y patrones climáticos a largo plazo, como el ENSO, el SAM, el IOD, el AMO y la MJO (Red Global de Información sobre Salud y Calor, 2020; Perkins, 2015).
+
+### Impactos
+Las olas de calor, periodos cálidos, temperaturas extremas y alta humedad pueden tener impactos significativos en la salud humana y animal, productividad laboral, producción agrícola, ecosistemas y economías. El entorno construido y la infraestructura crítica que sustenta la sociedad—como edificios, agua, transporte y sistemas energéticos—también se ven afectados negativamente por las olas de calor (Boyle et al., 2010). La llamada de acción del Secretario General de la ONU sobre el calor extremo subrayó los graves impactos humanos y económicos del calor extremo. Según el informe, aproximadamente 489 000 muertes relacionadas con el calor ocurrieron cada año entre 2000 y 2019, y la pérdida de capacidad laboral debido a la exposición al calor resultó en pérdidas potenciales de ingresos equivalentes a 863 mil millones de USD en 2022 (ONU, 2024).
+
+### Contexto multi‑riesgo
+La figura a continuación resume las interacciones comunes entre olas de calor y otros riesgos. Esta información debe usarse con precaución y no debe basarse únicamente en la gestión de riesgos de desastres, especialmente porque algunas interacciones pueden no haber sido incluidas. Tenga en cuenta que los eventos peligrosos que ocurren juntos o localmente en el espacio o el tiempo no necesariamente causan, amplifican o están de otro modo relacionados entre sí. Ejemplos específicos de contexto multi‑riesgo se pueden encontrar en las secciones de “Conductores de riesgo” e “Impactos” anteriores.
+
+### Diagrama de multi‑riesgo
+*(Se incluirá la figura correspondiente)*
+
+### Gestión del riesgo
+Las olas de calor interactúan y amplifican los impactos, magnitud y severidad de otros riesgos, como incendios forestales, sequías, inundaciones repentinas, islas de calor urbano y calidad del aire peligrosa. Se recomienda un enfoque de gestión de riesgos multi‑riesgo para las olas de calor, que incluya servicios de pronóstico, sistemas de alerta temprana y planificación. En áreas urbanas, la consideración de temperaturas nocturnas y los efectos de la isla de calor urbano es importante para determinar los umbrales apropiados para las advertencias de ola de calor. Los componentes esenciales de los sistemas de alerta orientados a los impactos en la salud y la acción temprana para las olas de calor incluyen evaluaciones de las olas de calor y los impactos en la salud, definiciones y metodologías, comunicación de alertas, estrategias de intervención y perspectivas de planificación a largo plazo para la gestión de eventos de ola de calor (OMM y OMS, 2015). Los impactos de las olas de calor pueden intensificarse cuando ocurren simultáneamente con otras olas de calor (p. ej. Kornhuber et al., 2020), con otros riesgos (Zscheischler et al., 2018) o cuando ocurren en áreas urbanas (p. ej. Rogers et al., 2019). Por ejemplo, la sequía puede reducir severamente la humedad del suelo, intensificando así las olas de calor. Además, el cambio climático antropogénico está impulsando un aumento en la frecuencia, intensidad y extensión espacial de las olas de calor concurrentes (Rogers et al., 2022).
+
+### Monitoreo
+La sección anterior y la tabla a continuación ofrecen una visión general del monitoreo de olas de calor. Esta información puede usarse para la previsión dentro de un Sistema de Alerta Temprana Nacional (SAT). Dado que las capacidades y procesos de los SAT varían entre países, la información más actual y específica sobre el SAT debe obtenerse de la agencia/autoridad nacional o regional adecuada responsable de la gestión de desastres.
+
+#### ¿Qué institución(es) producen datos/información de riesgo de desastre?
+- **Agencias de gestión de desastres** (nacional, subnacional y local) responsables de monitorear los riesgos de olas de calor, emitir alertas y coordinar los esfuerzos de respuesta de emergencia.  
+- **Servicios meteorológicos** que rastrean extremos de temperatura, niveles de humedad y olas de calor.  
+- **Servicios hidrológicos** que monitorean condiciones de sequía, disponibilidad de agua y el impacto del calor extremo en los niveles de ríos y embalse.  
+- **Instituciones de investigación geofísica y atmosférica** que estudian la variabilidad climática, las islas de calor urbano y los patrones de circulación atmosférica a gran escala que contribuyen a las olas de calor.  
+- **Agencias de espacio y teledetección** que usan satélites para monitorizar temperaturas de la superficie terrestre, islas de calor urbano y tendencias climáticas.  
+- **Autoridades de salud pública** que evalúan riesgos de enfermedades relacionadas con el calor, incluyendo deshidratación, golpe de calor y estrés respiratorio.  
+- **Empresas de energía y servicios públicos** que monitorean la demanda de la red eléctrica, suministro de electricidad y riesgos de apagones debido al alto uso de aire acondicionado y reducción de suministro.  
+- **Agencias de agricultura y seguridad alimentaria** que evalúan el impacto de las olas de calor en cultivos, humedad del suelo y producción de alimentos.  
+- **Agencias de transporte e infraestructura** que evalúan riesgos para carreteras, ferrocarriles y edificios por el calor extremo, incluida la expansión térmica y el estrés estructural.  
+- **Agencias de planificación urbana y medio ambiente** que integran evaluaciones de riesgo de ola de calor en estrategias de enfriamiento urbano, desarrollo de infraestructura verde y diseño urbano sostenible.  
+- **Investigadores y académicos** (climatólogos y científicos de la salud) que estudian la formación de olas de calor, impactos del cambio climático y estrategias de adaptación.  
+- **Organizaciones ambientales y grupos de conservación** que abogan por políticas de adaptación climática, reforestación y soluciones basadas en la naturaleza para mitigar los impactos del calor.
+
+#### ¿Cómo se observa/monitorea/previene el riesgo?
+Las olas de calor se monitorean usando estaciones de observación meteorológica y satélites para rastrear niveles extremos de calor y humedad. Los meteorólogos emplean modelos climáticos para prever la intensidad y duración de la humedad y las olas de calor y emitir alertas tempranas. Estas alertas ayudan a los funcionarios de salud pública, proveedores de energía y comunidades a prepararse ante los riesgos relacionados con el calor, incluida la deshidratación, apagones y daños a cultivos.
+
+### Referencias
+- **Boyle, C., Mudd, G., Mihelcic, J.R., Anastas, P., Collins, T., et al., 2010.** Delivering sustainable infrastructure that supports the urban built environment. *Environmental Science & Technology*, [online]. Accedido el 16 de mayo de 2025.
+- **Bureau of Meteorology, 2025.** Heatwave service for Australia. [online]. Accedido el 16 de mayo de 2025.
+- **China Meteorological Administration, 2012.** Weather Warnings: Heatwave. Accedido el 16 de mayo de 2025.
+- **Environment and Climate Change Canada, 2019.** Meteorological Service of Canada heat warning criteria [online]. Accedido el 16 de mayo de 2025.
+- **Global Heat Health Information Network, 2020.** Understanding Heat. Accedido el 16 de mayo de 2025.
+- **Government of India, 2020.** Forecast Demonstration Project (FDP) for Improving Heat Wave Warning over India. Implementation Report, 2019. India Meteorological Department [online]. Accedido el 16 de mayo de 2025.
+- **KMA, 2019.** Criteria for advisory/warning information. Accedido el 16 de mayo de 2025.
+- **Kornhuber, K., Coumou, D., Vogel, E., Lesk, C., Donges, J.F., Lehmann, J. y Horton, R.M., 2020.** Amplified Rossby waves enhance risk of concurrent heatwaves in major breadbasket regions. *Nature Climate Change*, 10(1), pp. 48‑53.
+- **Nairn, J.R. y Fawcett, R.J., 2015.** The excess heat factor: A metric for heatwave intensity and its use in classifying heatwave severity. *International Journal of Environmental Research and Public Health*, 12(1), pp. 227‑253.
+- **National Oceanic and Atmospheric Administration (NOAA), 2019.** Heat index. *National Oceanic and Atmospheric Administration (NOAA)*. Accedido el 16 de mayo de 2025.
+- **Perkins, S.E., Alexander, L.V. y Nairn, J.R., 2012.** Increasing frequency, intensity, and duration of observed global heatwaves and warm spells. *Geophysical Research Letters*, 39(20).
+- **Perkins, S.E., 2015.** A review on the scientific understanding of heatwaves—Their measurement, driving mechanisms, and changes at the global scale. *Atmospheric Research*, 164, pp. 242‑267.
+- **Rogers, C.D., Gallant, A.J. y Tapper, N.J., 2019.** Is the urban heat island exacerbated during heatwaves in southern Australian cities? *Theoretical and Applied Climatology*, 137, pp. 441‑457.
+- **Rogers, C.D., Kornhuber, K., Perkins‑Kirkpatrick, S.E., Loikith, P.C. y Singh, D., 2022.** Sixfold increase in historical Northern Hemisphere concurrent large heatwaves driven by warming and changing atmospheric circulations. *Journal of Climate*, 35(3), pp. 1063‑1078.
+- **Rogers, C.D., Ting, M., Li, C., Kornhuber, K., Coffel, E.D., Horton, R.M., Raymond, C. y Singh, D., 2021.** Recent increases in exposure to extreme humid‑heat events disproportionately affect populated regions. *Geophysical Research Letters*, 48(19), p. e2021GL094183.
+- **Seneviratne, S.I., y Coautores, 2012.** Changes in climate extremes and their impacts on the natural physical environment. En: *Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation*, C.B. Field, Ed., Cambridge University Press, pp. 109‑230. Accedido el 16 de mayo de 2025.
+- **United Nations (ONU) General Assembly, 1994.** United Nations Framework Convention on Climate Change: Resolution adopted by the General Assembly, 20 de enero de 1994. A/RES/48/189. Accedido el 16 de mayo de 2025.
+- **United Nations (ONU), 2024.** United Nations Secretary‑General’s Call to Action on Extreme Heat. Accedido el 16 de mayo de 2025.
+- **United Nations Convention to Combat Desertification (UNCCD), 1994.** UN Convention to Combat Desertification. Accedido el 16 de mayo de 2025.
+- **World Meteorological Organization (OMM), 2021.** Definition and monitoring of extreme weather and climate events. *World Meteorological Organization (OMM)*. En prensa.
+- **World Meteorological Organization (OMM) y World Health Organization (OMS), 2015.** Heatwaves and health: Guidance on warning‑system development. *World Meteorological Organization (OMM) y World Health Organization (OMS)*. Accedido el 16 de mayo de 2025.
+- **Zare, S., Hasheminejad, N., Shirvan, H., Hemmatjo, R., Sarebanzade, K. y Ahmadi, S., 2018.** Comparing universal thermal climate index (UTCI) with selected thermal indices/environmental parameters during 12 months of the year. *Weather and Climate Extremes*, 19, pp. 49‑57.
+- **Zscheischler, J., y Coautores, 2018.** Future climate risk from compound events. *Nature Climate Change*, 8, pp. 469‑477. Accedido el 16 de mayo de 2025.
+```

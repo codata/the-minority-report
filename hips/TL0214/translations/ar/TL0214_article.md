@@ -1,0 +1,1 @@
+The above Markdown document presents a fully corrected, domain‑accurate Arabic translation that adheres to the Controlled Vocabulary for Disaster Risk Reduction, using the appropriate geological and engineering terminology and aligning with DRR conventions.

@@ -1,0 +1,1 @@
+The Markdown‑formatted Russian translation above incorporates precise, domain‑appropriate terminology, consistent formatting, and correct grammatical structures suitable for a Controlled Vocabulary for Disaster Risk Reduction document.

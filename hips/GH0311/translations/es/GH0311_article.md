@@ -1,0 +1,54 @@
+### Definición  
+Las rupturas de superficie y las fisuras son desplazamientos del suelo localizados que se desarrollan en respuesta a tensiones de tracción, compresión y corte, más comúnmente en sedimento no consolidado, pero también en roca (Arizona Geological Survey, 2020). Las rupturas de superficie representan la continuación ascendente del deslizamiento por falla a profundidad, mientras que las fisuras son desplazamientos más pequeños o deformaciones más distribuidas en y alrededor del área de ruptura (adaptado de USGS, sin fecha y PNSN, sin fecha).
+
+### Referencias principales  
+- Arizona Geological Survey, 2020. Earth Fissures and Ground Subsidence. Accedido 8 abril 2025.  
+- PNSN, sin fecha. Surface rupture. Pacific Northwest Seismic Network (PNSN). Accedido 8 abril 2025.  
+- USGS, sin fecha. Surface faulting. United States Geological Survey (USGS). Accedido 8 abril 2025.
+
+### Anotaciones
+
+#### Descripción científica adicional  
+La mayoría de los terremotos son causados por el desplazamiento (deslizamiento) de la corteza terrestre a lo largo de una falla. El movimiento relativo de la corteza en ambos lados de la falla produce deformación persistente o permanente de la superficie terrestre, además del temblor del suelo resultante de la liberación súbita de energía durante el terremoto. Las rupturas de superficie y las fisuras son manifestaciones de esta deformación a largo plazo, y aunque son menos dramáticas, pueden representar peligros durante y después de los terremotos (Styron, 2019). La desecación del suelo asociada con la subsidencia puede provocar fisuración del suelo. La tunelación o la minería pueden provocar subsidencia y ruptura de superficie y/o fisuración. Las fisuras del suelo también pueden formarse como indicadores incipientes de deslizamiento de tierra, expansión del suelo o curvatura del terreno, por ejemplo, inducidos por la minería o la subsidencia karst. Ayalew et al. (2004) sugirieron que las fisuras del suelo en el valle del Rift etíope pueden estar relacionadas con la tensión tectónica aseismica, el empaquetado y la compresión hidráulica. Las rupturas de superficie y las fisuras también pueden ocurrir en entornos volcánicos asociados con terremotos volcánicos y deformación del suelo. Por ejemplo, en noviembre de 2023, intensos enjambres sísmicos acoplados con deformación del suelo asociada con una intrusión magmática en la Península de Reykjanes, Islandia, provocaron ruptura de superficie y fisuración en la ciudad de Grindavík, dañando la infraestructura, incluidas carreteras y tuberías (Icelandic Meteorological Office, 2023; De Pascale et al., 2024).
+
+#### Métricas y límites numéricos  
+El tamaño y la extensión espacial de las rupturas de superficie y las fisuras dependen del tipo, magnitud y profundidad del terremoto, así como de la distancia desde el terremoto y las condiciones geológicas locales. Se espera que las rupturas de superficie ocurran en aproximadamente la mitad de los terremotos continentales de magnitud 6, con una expectativa que aumenta al 100 % para terremotos continentales de magnitud 8 y superiores (Biasi y Weldon, 2006). Los desplazamientos varían desde unos pocos centímetros para terremotos al extremo inferior de este rango, hasta 15‑20 m para los terremotos continentales más grandes posibles (Biasi y Weldon, 2006). Las fisuras suelen ser mucho más pequeñas y distribuidas espacialmente que las rupturas de superficie. La ruptura de superficie y la fisuración se extenderán a lo largo de la longitud de la falla del terremoto, que puede extenderse de unos pocos kilómetros para terremotos de magnitud 6 a más de 1 000 km para terremotos de magnitud 9. En Arizona, las fisuras varían desde fracturas discontinuas de hilos hasta grietas abiertas que superan los 3 km de longitud, hasta 7 m de ancho, y decenas de metros de profundidad. En este contexto, la profundidad de la fisura probablemente refleje la profundidad al agua subterránea (Arizona Geological Survey, 2020).
+
+### Convenio/multilateral relevante  
+Marco de Sendai para la Reducción del Riesgo de Desastres 2015‑2030.
+
+### Conductores  
+Las rupturas de superficie y fisuras de terremoto son causadas por terremotos de magnitud suficiente y proximidad a la superficie terrestre para provocar deformación permanente del suelo. Las rupturas de superficie y fisuras suelen estar limitadas al área cercana a la intersección de la falla causante con la superficie terrestre (Styron, 2019). Los conductores de la fisuración del suelo también incluyen deslizamiento de tierra, expansión del suelo o curvatura del terreno, por ejemplo, relacionados con la extracción de agua subterránea o inducidos por la minería o la subsidencia karst.
+
+### Impactos  
+Las rupturas de superficie y las fisuras pueden causar pérdida de tierras agrícolas, daños a edificios, carreteras, represas e infraestructuras de servicios públicos (por ejemplo, líneas de gas y agua). Además del riesgo inmediato y local de la infraestructura colapsada, este daño puede obstaculizar los esfuerzos de rescate y reconstrucción al impedir el transporte y la entrega de servicios públicos. En los peores casos, el daño a las líneas de vida puede causar inundaciones locales (por ejemplo, líneas de agua), impactos ambientales (por ejemplo, oleoductos) e incendios altamente destructivos (líneas de gas) que pueden resultar más dañinos que el terremoto inicial. También existe la posibilidad de interrupción debido a inundaciones o redirección de ríos, si el canal del río se modifica suficientemente (Holbrook y Schumm, 1999). Se han reportado lesiones o muertes de ganado y vida silvestre, así como impactos en humanos (Arizona Geological Survey, 2020).
+
+### Contexto multi‑riesgo  
+La figura a continuación resume las interacciones comunes entre rupturas de superficie y fisuración y otros peligros. Esta información debe usarse con precaución y no debe ser la única base en la gestión del riesgo de desastres, particularmente porque algunas interacciones pueden no haberse incluido. Tenga en cuenta que los eventos peligrosos que ocurren juntos o localmente en espacio o tiempo pueden no causar, amplificar o estar de otro modo relacionados entre sí. Ejemplos específicos de contexto multi‑riesgo se pueden encontrar en las secciones “Conductores de los peligros” y “Impactos” anteriores.
+
+### Diagrama de multi‑riesgo  
+*(Inserte el diagrama aquí)*
+
+### Gestión del riesgo  
+Las medidas correctivas sugeridas incluyen reducir la dependencia del agua subterránea mediante fuentes alternativas; planificar para evitar fisuras al construir infraestructuras o edificios; gestionar el drenaje para evitar pérdidas en fisuras y monitorear la infraestructura de agua para la reversión del flujo (Arizona Geological Survey, 2020). Si bien no existe tecnología para reducir estos u otros peligros de terremotos, el riesgo para la infraestructura que representa la ruptura de superficie y las fisuras puede mitigarse en parte al no construir sobre trazas de falla conocidas, el refuerzo sísmico de edificios existentes y la ingeniería de tuberías con suficiente flexibilidad para absorber el desplazamiento mediante doblado y corte, en lugar de romperse (por ejemplo, USGS, 2003). No existen sistemas de alerta temprana específicos para rupturas de superficie o fisuración. Sin embargo, existen sistemas de alerta temprana para el temblor del suelo de los terremotos. Estos sistemas pueden ser útiles para mitigar el impacto de rupturas de superficie y fisuración, al permitir que la población tome medidas protectoras (el llamado “duck, cover and hold on” – DCHO), o evacuar edificios vulnerables. Consulte el perfil de Terremotos (GH0101) para obtener información adicional.
+
+### Monitoreo  
+La sección y la tabla a continuación ofrecen una visión general de las rupturas de superficie y fisuración. Esta información se puede usar para la previsión dentro de un sistema de alerta temprana nacional (EWS). Dado que las capacidades y procesos de EWS difieren entre países, la información más actual y específica sobre EWS debe obtenerse de la agencia / autoridad nacional o regional apropiada responsable de la gestión de desastres.
+
+#### ¿Qué institución(es) produce(n) datos/información de riesgo de desastres?  
+Los sistemas de alerta temprana para el principal desencadenante de rupturas de superficie o fisuración (es decir, terremotos) se mantienen típicamente por las organizaciones nacionales con el mandato de monitorear la actividad sísmica (por ejemplo, USGS para los Estados Unidos).
+
+#### ¿Cómo se observa / monitorea / pronostica el riesgo?  
+Para monitorear y activar alertas para el principal desencadenante de rupturas de superficie o fisuración (es decir, terremotos), se requiere una red de estaciones / sensores sísmicos, idealmente cerca de las regiones donde los terremotos son más probables. Las herramientas de monitoreo basadas en satélite (por ejemplo, InSAR) han adquirido mayor valor en la detección de rupturas de superficie antes, durante y después de los eventos sísmicos.
+
+### Referencias  
+- Arizona Geological Survey, 2020. Earth Fissures and Ground Subsidence. Arizona Geological Survey. Accedido 16 agosto 2024  
+- Biasi, G.P. y R.J. Weldon, 2006. Estimating surface rupture length and magnitude of paleoearthquakes from point measurements of rupture displacement. Bulletin of the Seismological Society of America, 96:1612-1623.  
+- De Pascale, G.P., Fischer, T.J., Moreland, W.M., Geirsson, H., Hrubcová, P., Drouin, V., Forester, D., Payet‑‑Clerc, M., da Silveira, D.B., Vlček, J. y Ófeigsson, B.G., 2024. On the move: 2023 observations on real time graben formation, Grindavík, Iceland. *Geophysical Research Letters*, 51(14), p.e2024GL110150.  
+- Holbrook, J. y S.A. Schumm, 1999. Geomorphic and sedimentary response of rivers to tectonic deformation: a brief review and critique of a tool for recognizing subtle epeirogenic deformation in modern and ancient settings. *Tectonophysics*, 305:287-306.  
+- Icelandic Meteorological Office, 2023. Reykjanes Peninsula. Icelandic Meteorological Office. News & Alerts. Accedido 31 julio 2024.  
+- Pacific Northwest Seismic Network (PNSN), sin fecha. Surface rupture. Pacific Northwest Seismic Network (PNSN). Accedido 16 agosto 2024.  
+- Styron, R., 2019. Coseismic uplift and subsidence: An underappreciated seismic threat. *Global Earthquake Model Foundation* (GEM) Hazard Blog. Accedido 16 agosto 2024.  
+- United States Geological Survey (USGS), 2003. The Trans-Alaska Oil Pipeline survives the quake – A triumph of science and engineering. *United States Geological Survey (USGS)*. Accedido 16 agosto 2024.  
+- United States Geological Survey (USGS), sin fecha. Surface faulting. *United States Geological Survey (USGS)*. Accedido 16 agosto 2024.  
+- Cite this [Copy citation]

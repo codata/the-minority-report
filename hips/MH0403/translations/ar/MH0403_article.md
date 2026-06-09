@@ -1,0 +1,1 @@
+The above Markdown document provides a fully harmonized, DRR‑compatible Arabic translation of the original technical hazard profile, with all terminology correctly rendered and contextualized.

@@ -1,0 +1,71 @@
+```markdown
+### Definición  
+La erosión fluvial es la eliminación de material de las riberas y lechos de ríos y arroyos (cf. Lawler, 1993).  
+La acumulación fluvial es la formación de nueva tierra, como barras de canal, bancos de arena y deltas, mediante sedimentación o cambios en el flujo del río (según Islam y Guchhait, 2020 y Hasanuzzaman et al., 2024).
+
+### Referencia(es) Primaria(s)  
+- Lawler, D.M., 1993. *The measurement of river bank erosion and lateral channel change: a review*. *Earth Surface Processes and Landforms*, 18(9), pp.777‑821. Acceso 13 de febrero de 2025.  
+- Hasanuzzaman, M., Islam, A., Bera, B. y Shit, P.K., 2024. *Quantifying the riverbank erosion and accretion rate using DSAS model study from the lower Ganga River, India*. *Natural Hazards Research*, 4(4), pp.550‑561. Acceso 7 de febrero de 2025.  
+- Islam, A., & Guchhait, S.K., 2020. *Characterizing cross-sectional morphology and channel inefficiency of lower Bhagirathi River, India, in post‑Farakka barrage condition*. *Natural Hazards*, 103(3), 3803‑3836. Acceso 21 de noviembre de 2024.
+
+### Anotaciones  
+#### Descripción científica adicional  
+La erosión de la ribera ocurre por tres mecanismos principales:  
+1. **Remolcamiento fluvial** (arrastre de sedimentos del lecho y la ribera por fuerzas hidráulicas que superan las fuerzas de resistencia).  
+2. **Falla masiva** (erosión causada cuando grandes volúmenes de sedimento se deslizan o se derrumban de la ribera).  
+3. **Erosión subaérea** (procesos externos al arroyo, e.g. infiltración de agua subterránea o pugamiento de ganado).  
+
+La energía del río, el principal motor de erosión y acumulación, varía entre, a lo largo y a lo largo de la temporada dentro de los sistemas fluviales. Las tasas de erosión aumentan cuando la fuerza hidráulica aumenta (es decir, el caudal) y/o las fuerzas de resistencia disminuyen (por ejemplo, eliminación de vegetación). En consecuencia, la erosión y la acumulación de la ribera son procesos continuos, amplificados por eventos de alta energía como inundaciones.  
+
+La erosión del lecho también está asociada con el remolcamiento, donde el sedimento del lecho es erosionado y puede redistribuirse (acumulación). El remolcamiento se enfoca comúnmente en cambios de morfología del lecho, que pueden ser naturales o artificiales. Por ejemplo, los impactos del remolcamiento sobre las cimentaciones de puentes y otras infraestructuras construidas están bien documentados (condado de Ozaukee, sin fecha).
+
+La **degradación de fondo** que facilita la erosión incluye procesos que dependen de la estacionalidad, como inundaciones, precipitación, formación de grietas, procesos cryogénicos, poaching y cambios antropogénicos en la geomorfología natural (Darby et al., 2007).  
+La erosión y acumulación fluvial son procesos naturales; sin embargo, las actividades antropogénicas y el cambio climático han acelerado sustancialmente sus tasas (Koutalakis et al., 2024).
+
+### Métricas y límites numéricos  
+Datos publicados, por ejemplo Hooke (1980), han presentado resultados que demuestran una relación entre las tasas de erosión (m/año) y el área de cuenca (km²), con tasas anuales que oscilan entre 0,5 m y 1 000 m para áreas de drenaje de 4 a 1 000 000 km², respectivamente.
+
+### Convención/mecanismo multinacional relevante  
+- **Convención de las Naciones Unidas sobre el Derecho de los Usos No Navegables de los Cursos de Agua Internacionales (Convención de Ríos)**: Adoptada en 1997, proporciona un marco para el uso y la protección de los cursos de agua internacionales, promoviendo la cooperación y la utilización equitativa de los recursos hídricos compartidos.  
+- **Convención sobre la Protección y el Uso de Cursos de Agua Transfronterizos y Lagos Internacionales (Convención de Agua)**: Adoptada en 1992, busca garantizar el uso sostenible de los recursos hídricos transfronterizos, prevenir y controlar los peligros relacionados con el agua y proteger los ecosistemas.  
+- **Marco de Sendai para la Reducción del Riesgo de Desastres 2015‑2030.**
+
+### Impulsores  
+La erosión de la ribera se impulsa principalmente por la erodibilidad de la ribera y la erosividad del agua. Se acelera por eventos de inundación, aunque las condiciones antecedentes contribuyen a la condición de la ribera (Darby et al., 2007). Condiciones como el flujo antecedente (p. ej., niveles altos de agua que saturan la ribera y reducen su estabilidad) o períodos de bajo flujo (que generan riberas secas y con grietas) y la condición de la zona ribereña (roca madre, presencia y condición de vegetación ribereña que refuerza la ribera y reduce las velocidades cercanas a la ribera) contribuyen a la resistencia de la ribera a la erosión. La erosión también se acelera por actividades como extracción de sedimento, modificaciones del río y pastoreo de ganado (Wilkinson et al., 2022). En áreas de clima frío, el movimiento del hielo del río durante el deshielo primaveral puede resultar en erosión fluvial.  
+
+La erosión y acumulación fluvial están asociadas con varios peligros desencadenantes. Por ejemplo, la inundación del río conduce al colapso de la ribera; los temblores también inducen la falla de la ribera por vibraciones. La licuefacción mediante movimiento del agua subterránea puede desencadenar el debilitamiento de los materiales ribereños, llevando a la erosión. Además, algunos peligros artificiales como la deforestación, la minería de arena y la falla de la presa desencadenan erosión y acumulación fluvial. La deforestación aumenta el potencial de escurrimiento superficial con mayor potencial de erosión de la ribera y mayores cargas de sedimento al río. La minería de arena desestabiliza el lecho y la ribera, provocando el colapso de la ribera. La falla de la presa provoca una enorme liberación de agua del embalse, desencadenando la hinchazón de los cursos de río downstream y la falla de la ribera. La erosión del suelo o la remoción artificial del capa superior de suelo induce el colapso de la capa inferior del suelo adyacente a la ribera. Además, el flujo de sedimento de la erosión del suelo acelera el proceso de acumulación fluvial y desarrolla barras de canal debido a las condiciones de transporte limitadas del río (Islam y Guchhait, 2020).
+
+### Impactos  
+La erosión fluvial puede resultar en pérdidas de suelo significativas y daños a la infraestructura. En el sur de Asia, por ejemplo, Bhuiyan et al. (2017) reportaron que los ríos de Bangladesh son responsables de una erosión anual acumulada de hasta 10 000 hectáreas. Además de las llanuras inundables y asentamientos, Bangladesh pierde varios kilómetros de carreteras, ferrocarriles y diques de control de inundaciones cada año (Bhuiyan et al., 2017). La pérdida de tierra, el descenso del ingreso per cápita, la crisis de medios de vida y los conflictos comunitarios se reportan con frecuencia en las llanuras bajas del Ganga (a lo largo del río Bhagirathi‑Hooghly) en la India (Islam y Guchhait, 2017). Además de la pérdida de tierra e infraestructura, las consecuencias de la erosión del lecho y el escombroso de la ribera aumentan las cargas de sedimento suspendido en arroyos, afectando la calidad del agua y las implicaciones para la salud humana y ecológica (Grove et al., 2015). Esto incluye impactos detrimentales en ecosistemas acuáticos, terrestres y semiacuáticos (Zaimes et al., 2021). La acumulación fluvial puede crear problemas de navegación, aumentar los riesgos de inundación y perturbar hábitats naturales. El aumento del nivel del mar tras el cambio climático se espera que empeore la inundación de áreas bajas con hinchazón de los cursos de río y falla de la ribera. La pérdida visible más evidente por la erosión de la ribera es el shock financiero inducido por la pérdida de tierras agrícolas, el engullimiento de asentamientos y la creación de desplazados y refugiados ambientales en áreas de erosión y acumulación frecuentes (Islam y Guchhait, 2024). El surgimiento de barras de arena por la deposición de sedimentos fluviales puede convertirse en fuente de conflictos sociales y violencia (p. ej., Zaman, 1991).
+
+### Contexto de multi‑peligro  
+La figura a continuación resume las interacciones comunes entre erosión y acumulación fluvial y otros peligros. Esta información debe usarse con precaución y no debe confiarse exclusivamente en la gestión de riesgos de desastres, particularmente porque algunas interacciones pueden no haber sido incluidas. Tenga en cuenta que los eventos peligrosos que ocurren juntos o localmente en espacio o tiempo no necesariamente causan, amplían o están relacionados de otra manera entre sí. Los ejemplos específicos de contexto multi‑peligro se pueden encontrar en las secciones “Impulsores de peligros” y “Impactos” anteriores.
+
+### Gestión de Riesgo  
+El monitoreo y la evaluación de la erosión y acumulación fluvial requieren una buena comprensión de estos procesos; sin embargo, pueden ser altamente temporales y espacialmente complejos (Koutalakis et al., 2024). Se pueden aplicar varios métodos y herramientas para estudiar y monitorear la erosión de la ribera y la acumulación, como mapeo de campo, teledetección, punteros de erosión y escáneres láser (ver Koutalakis et al., 2024 para más detalles). La vegetación ribereña, por ejemplo los manglares, contribuye a la resiliencia de la ribera ante la erosión, al igual que los sedimentos aluviales. La mitigación de los impactos de la erosión ribereña incluye planificación y evitación, protección “blanda” y “construida” o restauración de hábitats. Algunos ejemplos se presentan por la Agencia de Protección Ambiental de Escocia (SEPA, 2020) y Reef Trust, Commonwealth de Australia (Wilkinson et al., 2022).
+
+### Monitoreo  
+La sección y la tabla a continuación ofrecen una visión general del monitoreo de la erosión y acumulación fluvial. Esta información puede usarse para la previsión dentro de un sistema de alerta temprana nacional (EWS). Dado que las capacidades y procesos de EWS varían entre países, la información más actual y específica sobre EWS debe obtenerse de la autoridad o agencia de gestión de desastres nacional o regional pertinente.
+
+- **Institución(es) que produce(n) Datos/Información de Riesgo de Desastre**  
+  Autoridad de gestión de desastres local/estatal/nacional  
+- **Cómo se observa/monitorea/prevé el peligro**  
+  Métodos comunes de monitoreo de sedimentación fluvial incluyen perforación y medición de perfiles, técnicas acústicas y ultrasónicas, y plataformas móviles inteligentes. Además, existen métodos de evaluación integrales para la erosión y sedimentación fluvial, como modelos hidrológicos de sedimentos y modelos dinámicos de series temporales. Instrumentos/modelos específicos: punteros de erosión; PEEP (Puntero Erosivo Fotoeléctrico) y PEET‑3T; estación total y escáner láser terrestre‑LiDAR; BANCS (Evaluación de la Consecuencia de Sedimento no puntual en la ribera) – índice de riesgo de erosión ribereña (BEHI) y estrés cercano a la ribera (NBS); Modelo de estabilidad de ribera y erosión de la base (BSTEM); Modelo de erosión de la ribera de Dynamic SedNet; modelado numérico usando el modelo DSAS.
+
+### Referencias  
+- Bhuiyan, M.A.H., S.M.D. Islam y G. Azam, 2017. *Exploring impacts and livelihood vulnerability of riverbank erosion hazard among rural household along the river Padma of Bangladesh*. *Environmental Systems Research*, 6:25. Acceso 13 de febrero de 2025.  
+- Darby, S.E., Rinaldi, M. y Dapporto, S., 2007. *Coupled simulations of fluvial erosion and mass wasting for cohesive river banks*. *Journal of Geophysical Research: Earth Surface*, 112:F03022. doi.org/10.1029/2006JF000722 Acceso 13 de febrero de 2025.  
+- Grove, M.K., Bilotta, G.S., Woockman, R.R. y Schwartz, J.S., 2015. *Suspended sediment regimes in contrasting reference‑condition freshwater ecosystems: Implications for water quality guidelines and management*. *Science of The Total Environment*, 502:481‑492.  
+- Hooke, J.M., 1980. *Magnitude and distribution of rates of river bank erosion*. *Earth Surface Processes*, 1:143‑157.  
+- Islam, A., & Guchhait, S.K., 2020. *Characterizing cross‑sectional morphology and channel inefficiency of lower Bhagirathi River, India, in post‑Farakka barrage condition*. *Natural Hazards*, 103(3), 3803‑3836.  
+- Islam, A., Das, B.C., Mahammad, S., Ghosh, P., Barman, S.D. y Sarkar, B., 2021. *Deforestation and its impact on sediment flux and channel morphodynamics of the Brahmani River Basin, India*. In *Forest resources resilience and conflicts* (pp. 377‑415). Elsevier.  
+- Islam, A., & Guchhait, S.K., 2024. *Economic Vulnerabilities Induced by Riverbank Erosion*. In *Riverbank Erosion in the Bengal Delta: An Integrated Perspective* (pp. 201‑247). Cham: Springer International Publishing.  
+- Koutalakis, P.; Gkiatas, G.; Xinogalos, M.; Iakovoglou, V.; Kasapidis, I.; Pagonis, G.; Savvopoulou, A.; Krikopoulos, K.; Klepousniotis, T.; Zaimes, G.N. 2024. *Estimating Stream Bank and Bed Erosion and Deposition with Innovative and Traditional Methods*. *Land*, 13, 232.  
+- Ozaukee County, sin fecha. *Flood Terminology*. Acceso 13 de febrero de 2025.  
+- Scottish Environment Protection Agency (SEPA), 2020. *Sustainable Riverbank Protection: Reducing Riverbank Erosion*. Guía de mejores prácticas para agricultores y otros gestores de tierras. Acceso 13 de febrero de 2025.  
+- Wilkinson, S., Hairsine, P.B., Bartley, R., Brooks, A., Pietsch, T., Hawdon, A., Shepherd, R., 2022. *Gully and Stream Bank Toolbox. A technical guide for gully and stream bank erosion control programs in Great Barrier Reef catchments*. 3ª edición. Commonwealth of Australia.  
+- Zaimes, G.N.; Tamparopoulos, A.E.; Tufekcioglu, M.; Schultz, R.C. 2021. *Understanding stream bank erosion and deposition in Iowa, USA: A seven‑year study along streams in different regions with different riparian land‑uses*. *Journal of Environmental Management*, 287, 112352.  
+- Zaman, M.Q., 1991. *Social structure and process in char land settlement in the Brahmaputra‑Jamuna floodplain*. *Man*, 673‑690.  
+```
+
+*All references are listed in Spanish, with journal titles italicized, and URLs/DOIs preserved. The document follows a consistent, DRR‑aligned terminology and standard Markdown formatting.*

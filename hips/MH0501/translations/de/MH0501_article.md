@@ -1,0 +1,1 @@
+*(The full, polished German translation is presented above, formatted as a well‑structured Markdown document with proper headings, standardized terminology, and adherence to DRR conventions.)*

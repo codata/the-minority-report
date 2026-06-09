@@ -1,0 +1,75 @@
+### Definition
+
+La **falla de la cadena de suministro** se refiere a un evento dentro de la cadena que interrumpe el flujo de materiales en su trayecto desde los proveedores iniciales hasta los clientes finales (Walters, 2007).
+
+### Referencia Primaria
+
+Waters, C.D.J., 2007. *Supply Chain Risk Management: Vulnerability and Resilience in Logistics*. Accedido 25 enero 2025.
+
+### Anotaciones
+
+#### Descripción científica adicional
+
+No existe una única definición óptima del término cadena de suministro (UNECE, 2016). Las cadenas de suministro han sido definidas como una red de organizaciones interconectadas e interdependientes que trabajan de forma mutua y cooperativa para controlar, gestionar y mejorar el flujo de materiales e información desde los proveedores hasta los usuarios finales. La falla de las cadenas de suministro reduce la resiliencia en la gestión del riesgo de desastres. En las industrias altamente competitivas actuales, la realidad que enfrentan la mayoría de las organizaciones de fabricación principal o focal en todo el mundo es una donde se han reducido los recursos, se ha agotado el inventario, se ha recortado el gasto en tecnología y los procesos que no son esenciales para el negocio de una organización se han reducido y/o subcontratado. En los mercados globales competitivos, los fabricantes principales no pueden permitirse que cualquier área de sus operaciones esté comprometida. Las operaciones de la cadena de suministro deben ser robustas y resilientes para retener e incrementar la cuota de mercado. La falla de la cadena de suministro es un fenómeno que puede causar problemas mayores para muchas organizaciones, especialmente cuando la falla se vuelve persistente (Karsten, 2018).  
+
+El comercio internacional es vital para la economía mundial. Las empresas que comercian internacionalmente se apoyan en cadenas de suministro globales interconectadas, que son vitales para su competitividad. Pero, como destacan algunos eventos recientes, estos sistemas dinámicos y complejos son vulnerables a numerosos riesgos. Debido a su interconexión, incluso eventos pequeños y localizados pueden escalar rápidamente y causar interrupciones significativas (WEF, 2014). El rendimiento de la cadena de suministro es crítico para el éxito empresarial; por lo tanto, las perturbaciones pueden tener un efecto significativo en la disponibilidad de bienes y servicios cuando estos se reducen; además, el costo de los bienes puede aumentar, la demanda puede incrementarse drásticamente, por ejemplo, para materiales de construcción, y podría provocar compras de pánico. Estos impactos pueden provocar un aumento súbito en la demanda, con el potencial de interrumpir cadenas de suministro enteras (Dulam et al., 2020).  
+
+La infraestructura crítica depende de los suministros de la cadena de suministro para proporcionar servicios esenciales a la comunidad, a nivel nacional, regional y global. Esto incluye agua, transporte, telecomunicaciones, instalaciones educativas, hospitales y otras instalaciones de salud que garantizan que todo permanezca seguro, efectivo y operacional durante y después de los desastres para proporcionar servicios de vida salvada y esenciales.
+
+### Métricas y Límites Numéricos
+
+Diversas métricas se utilizan para evaluar el desempeño de la cadena de suministro, entre ellas:
+
+- **Índice de Tiempo de Entrega (Lead Time Index, LTI)**: mide el rendimiento logístico de comercio, ayudando a los líderes nacionales, responsables políticos y comerciantes privados a comprender los retos que enfrentan y sus socios comerciales para reducir las barreras logísticas al comercio internacional. (Banco Mundial, sin fecha)  
+- **Índice de Congestión Portuaria (Port Congestion Index, PCI)**: mide el nivel de congestión en un puerto, ofreciendo una visión completa de cuán eficientemente opera. (Spire Maritime Docs, sin fecha)  
+- **Tasa de Rotación de Inventario**: mide cuántas veces el inventario se vende o se usa en un periodo determinado, como un año. (Oracle NetSuite, 2024)  
+- **Entrega a Tiempo (On‑Time Delivery, OTD)**: una caída del 25 % en OTD indica una disminución significativa en la capacidad de la compañía para cumplir con los plazos prometidos. Es un indicador clave de rendimiento (KPI) para empresas, especialmente en comercio electrónico y fabricación. (McKinsey & Company, 2019)
+
+### Convenio Clave de la ONU / Tratado Multilateral
+
+- **Marco de Sendai para la Reducción del Riesgo de Desastres 2015‑2030** (UNDRR, 2015).  
+- Otros tratados multilaterales como **Basel III** (BIS) son transversales. Por ejemplo, Basel III 2017‑2028 es un conjunto de medidas acordadas internacionalmente desarrollado por el Comité de Supervisión Bancaria de Basilea en respuesta a la crisis financiera 2007‑09. Las medidas tienen como objetivo fortalecer la regulación, supervisión y gestión de riesgos de los bancos, estableciendo estándares internacionales y mínimos para los requisitos de capital bancario, pruebas de estrés, regulaciones de liquidez y apalancamiento, con el objetivo de mitigar el riesgo de quiebras bancarias y sus impactos en cascada (BIS).
+
+### Impulsadores
+
+En las últimas décadas, las cadenas de suministro se han globalizado, especializado y vuelto más ligeras o justo a tiempo. Son más eficientes y menos riesgosas en ciertas áreas, pero potencialmente más expuestas a la ruptura de la cooperación. Con la inestabilidad económica, inseguridad alimentaria, disponibilidad reducida de tecnología, como los semiconductores, y la falta de suministros médicos adecuados en crisis, los fallos de la cadena de suministro son más impactantes. Los gestores de la cadena de suministro han enfrentado muchos choques como el gran terremoto y tsunami del Este de Japón, la inundación de Tailandia, el volcán Eyjafjallajökull en Islandia, el aumento de la piratería marítima, (Doherty y Botwright, 2020) y la pandemia de COVID‑19 (OMS, sin fecha), todo lo que sacudió las cadenas de suministro en toda la región.
+
+### Impactos
+
+Una encuesta del Foro Económico Mundial 2012 de profesionales de la cadena de suministro clasificó las interrupciones más probables de provocar efectos significativos y sistémicos en las redes de la cadena de suministro. La lista incluía pandemias, peligros naturales, clima extremo, conflictos, shocks de demanda, fallos de TI, y restricciones de exportación/importación, como las restricciones de exportación que se imponen actualmente a los suministros médicos. Los disparadores de la interrupción de la cadena de suministro son difíciles de predecir y a veces ni controlables ni influenciables. La robustez de las redes es primordial para garantizar que la demanda pueda cumplirse con la oferta incluso en tiempos extraordinarios (Doherty y Botwright, 2020). Los desastres naturales a gran escala como terremotos y tsunamis pueden interrumpir toda la cadena de suministro regional. A medida que las cadenas de suministro se vuelven más globalizadas y complejas, sus vulnerabilidades aumentan. Por ejemplo, cuando una inundación provoca interrupciones logísticas y una pandemia simultáneamente provoca escasez de mano de obra, la recuperación de la cadena de suministro se vuelve aún más desafiante. Además, en cadenas de suministro complejas, una sola interrupción puede tener un efecto dominó en otras partes, acelerando el fallo de la cadena de suministro en un contexto de multi‑riesgo (Ye & Abe, 2012).
+
+### Contexto de Multi‑riesgo
+
+La figura a continuación resume las interacciones comunes entre la falla de la cadena de suministro y otros peligros. Esta información debe usarse con precaución y no debe depender únicamente en la Gestión del Riesgo de Desastres, especialmente porque algunas interacciones pueden no haber sido incluidas. Tenga en cuenta que los eventos peligrosos que ocurren juntos o localmente en el espacio o el tiempo pueden no necesariamente causar, amplificar o estar de alguna manera relacionados entre sí. Los ejemplos específicos de contexto de multi‑riesgo se pueden encontrar en las secciones **Impulsadores** e **Impactos** anteriores.
+
+### Diagrama de Multi‑riesgo
+
+*(se insertaría aquí la figura del diagrama)*
+
+### Gestión del Riesgo
+
+Es claro que un problema de la cadena de suministro puede dañar la infraestructura crítica nacional, la resiliencia nacional, la salud, la banca y la resiliencia sectorial general; e incluso la capacidad de una empresa para entregar sus servicios o bienes y podría afectar su viabilidad. El Marco de Sendai enfatiza fuertemente la gestión del riesgo de desastres en lugar de la gestión de desastres. El alcance de la reducción del riesgo de desastres se ha ampliado significativamente para centrarse tanto en los peligros naturales como artificiales y los riesgos y peligros ambientales, tecnológicos y biológicos relacionados (UNDRR, 2015). Tras grandes desastres catastróficos, las organizaciones locales se integran con otras organizaciones de respuesta para formar redes de cadena de suministro de alivio de desastres desarrolladas de forma precipitada. Desafortunadamente, incluso cuando se utilizan prácticas sólidas de gestión de la cadena de suministro, las redes de suministro han encontrado diversos niveles de resiliencia y el rendimiento adecuado del alivio de desastres sigue siendo esquivo (Day, 2014). El sector privado es un participante crítico en la creación de sociedades resilientes al riesgo. **ARISE**, la Alianza del Sector Privado para Sociedades Resilientes al Desastre, es una red de entidades del sector privado liderada por la Oficina de la ONU para la Reducción del Riesgo de Desastres (UNDRR). La **Fundación de Resiliencia al Desastre de Filipinas (PDRF)** ofrece un ejemplo de cómo ARISE y el impacto de su trabajo en el apoyo a la cadena de suministro después del tifón de 2013. La PDRF informó sobre una asociación público‑privada para un programa de semilla de medios de vida en un contexto post‑desastre que trabajó en un escenario post‑desastre en la provincia de Leyte: la PDRF diseñó un programa de recuperación temprana con agencias gubernamentales nacionales, unidades gubernamentales locales y organizaciones no gubernamentales internacionales, aprovechando las capacidades de cada organización en apoyo de micro‑y pequeñas empresas y la normalización de la cadena de suministro local. La **Evaluación de Necesidades Post‑Desastre** proporcionó a los socios del programa una vía para apoyar a las comunidades afectadas y a los medios de vida fuera de los paquetes de ayuda de “kits de inicio” que incluyen artículos como utensilios de cocina, estufas de gas y equipos de cocina para propietarios de negocios de alimentos y existencias de despensa, bolsas de arroz y básculas para dueños de tiendas de variedades. Al ayudar a impulsar la recuperación temprana, las personas recibieron la oportunidad de ayudarse a sí mismas y recuperar sus negocios. También informaron que otro beneficio de esta actividad de recuperación temprana fue la estabilización de los precios del mercado para los productos básicos y la disuasión de oportunistas que aprovechan la vulnerabilidad de la situación comunitaria. Dos meses después de la Evaluación de Necesidades Post‑Desastre, los beneficiarios pudieron agruparse en clústeres/sectors (confección de ropa, operaciones de comida/carindería, elaboración de delicatessen y venta de alimentos). Los miembros del sub‑sector pudieron reunirse, discutir actualizaciones de sus negocios, identificar mercados potenciales y actualizarse con las tendencias del mercado (UNDRR, sin fecha). Los gestores de riesgos, la resiliencia organizacional y los líderes de continuidad del negocio deben ser conscientes de las interrupciones anteriores y abordar las cinco estrategias prioritarias para mejorar las medidas de control: cuantificación del riesgo, planificación de escenarios, intercambio de datos, redes confiables y participación de múltiples partes interesadas en la legislación (Doherty y Botwright, 2020). El Marco de Sendai menciona el fortalecimiento de la resiliencia de las cadenas de suministro como un objetivo importante para la reducción del riesgo de desastres (UNDRR, 2015). Los **Sistemas de Alerta Temprana (EWS)** ayudan a identificar los riesgos que podrían afectar la cadena de suministro proporcionando alertas tempranas antes de que ocurra un desastre, lo que permite medidas de preparación y respuesta. Además, cuando se proporcionan alertas de desastre, las empresas pueden tomar medidas para minimizar el impacto en sus cadenas de suministro y las comunidades pueden desarrollar planes de evacuación, haciendo que los EWS sean extremadamente importantes.
+
+### Monitoreo
+
+No hay información disponible.
+
+### Referencias
+
+- Bank for International Settlements (BIS), sin fecha. *Basel III: International Regulatory Framework for Banks*. Accedido 20 mayo 2025.  
+- Day, J.M., 2014. *Fostering emergent resilience: the complex adaptive supply network of disaster relief*. *International Journal of Production Research*, 52:1970–1988.  
+- Doherty, S., & Botwright, K., 2020. *What past disruptions can teach us about reviving supply chains after COVID-19*. *World Economic Forum* (WEF). Accedido 20 mayo 2025.  
+- Dulam, R., Furuta, K., & Kanno, T., 2020. *An agent‑based simulation to study the effect of consumer panic buying on supply chain*. En: De La Prieta, F. et al. (eds), *Highlights in Practical Applications of Agents, Multi‑Agent Systems, and Trust‑worthiness*. pp. 255–266. DOI: 10.1007/978-3-030-51999-5_21  
+- Karsten, C., 2018. *The dynamics of supply chain failure*. Accedido 20 mayo 2025.  
+- McKinsey & Company, 2019. *Defining ‘on‑time, in‑full’ in the consumer sector*. Accedido 20 mayo 2025.  
+- Oracle NetSuite, 2024. *Inventory Turnover Ratio Defined: Formula, Tips, & Examples*. Accedido 20 mayo 2025.  
+- Spire Maritime Docs, sin fecha. *The Port Congestion Index*. Accedido 20 mayo 2025.  
+- United Nations Office for Disaster Risk Reduction (UNDRR), sin fecha. *A Public‑Private Partnership for a Livelihood Seeding Program in a Post‑Disaster Context*. Accedido 20 mayo 2025.  
+- United Nations Office for Disaster Risk Reduction (UNDRR), 2015. *Sendai Framework for Disaster Risk Reduction 2015–2030*. Accedido 8 noviembre 2020.  
+- United Nations Economic Commission for Europe (UNECE), 2016. *Informative document for the 73rd session of the Inland Transport Committee (ITC), Agenda item 10(g) Supply Chain Challenges for National Competitiveness through Transport*. Accedido 20 mayo 2025.  
+- World Economic Forum (WEF), 2014. *Building Resilience in Supply Chains*. Accedido 20 mayo 2025.  
+- World Health Organization (WHO), sin fecha. *Coronavirus disease (COVID‑19) pandemic*. Accedido 20 mayo 2025.  
+- World Bank, sin fecha. *Metadata Glossary: Lead time to import, median case (days) (Indicator: LP.IMP.DURS.MD)*. Accedido 20 mayo 2025.  
+- Ye, L., & Abe, M., 2012. *The impacts of natural disasters on global supply chains*. *Asia‑Pacific Research and Training Network (ARTNeT) Working Paper Series*, No. 115.  
+
+---

@@ -1,0 +1,56 @@
+```markdown
+## Definición
+
+Las infecciones de transmisión sexual (ITS) se transmiten a través del contacto sexual, que incluye sexo vaginal, anal y oral. Algunas también pueden transmitirse de madre a hijo durante el embarazo, el parto y la lactancia (OMS, 2024).
+
+## Referencia principal
+
+Organización Mundial de la Salud (OMS), 2024. Infecciones de Transmisión Sexual (ITS). Hoja informativa. Accedido 17 febrero 2025.
+
+## Anotaciones
+
+### Descripción científica adicional
+
+Las enfermedades de transmisión sexual (ETS) se propagan principalmente por contacto sexual, incluyendo sexo vaginal, anal y oral. Algunas ETS también pueden transmitirse por medios no sexuales, como por sangre o productos sanguíneos. Muchas ETS, entre ellas sífilis, hepatitis B, VIH, clamidia, gonorrea, herpes y virus del papiloma humano (VPH), también pueden transmitirse de madre a hijo durante el embarazo y el parto. Las ITS tienen un impacto directo en la salud sexual y reproductiva mediante el estigma, la infertilidad, los cánceres y las complicaciones del embarazo, y pueden aumentar el riesgo de VIH. La resistencia antimicrobiana (RAM) es una amenaza importante para reducir la carga de las ITS a nivel mundial (OMS, 2024).
+
+Más de 30 bacterias, virus y parásitos diferentes se conocen por transmitirse mediante contacto sexual, incluyendo sexo vaginal, anal y oral. Algunas ITS también pueden transmitirse de madre a hijo durante el embarazo, el parto y la lactancia. Ocho patógenos están vinculados a la mayor incidencia de ITS. De estos, cuatro son curables actualmente: sífilis, gonorrea, clamidia y tricomoniasis. Los otros cuatro son infecciones virales: hepatitis B, virus del herpes simple (VHS), VIH y VPH (OMS, 2024).
+
+Además, brotes emergentes de nuevas infecciones que pueden adquirirse por contacto sexual, como monkeypox, *Shigella sonnei*, *Neisseria meningitidis*, Ebola y Zika, así como la re‑emergencia de ETS descuidadas como el linfogranuloma venéreo, señalan crecientes desafíos en la prestación de servicios adecuados para la prevención y el control de las ITS.
+
+### Métricas y límites numéricos
+
+Más de 1 millón de ITS curables se adquieren cada día. En 2020, la OMS estimó 374 millones de nuevas infecciones con una de cada cuatro ITS: clamidia (129 millones), gonorrea (82 millones), sífilis (7,1 millones) y tricomoniasis (156 millones). Se estimó que más de 490 millones de personas vivían con herpes genital en 2016, y que unas 300 millones de mujeres tenían infección por VPH, causa primaria de cáncer cervical y cáncer anal entre hombres que tienen relaciones sexuales con hombres. Además, las estimaciones actualizadas de la OMS indican que 254 millones de personas vivían con hepatitis B en 2022 (OMS, 2024).
+
+### Convención o tratado multilateral relevante
+
+Regulaciones Sanitarias Internacionales (2005), 3ª ed. (OMS, 2016a).
+
+## Impulsores
+
+Más de 30 bacterias, virus y parásitos diferentes se conocen por transmitirse mediante contacto sexual, incluyendo sexo vaginal, anal y oral. Algunas ITS también pueden transmitirse de madre a hijo durante el embarazo, el parto y la lactancia (OMS, 2024).
+
+## Impactos
+
+Las ITS tienen un impacto profundo en la salud sexual y reproductiva mundial (OMS, 2024). Las ITS pueden tener consecuencias graves más allá del impacto inmediato de la infección en sí: ITS como herpes, gonorrea y sífilis pueden aumentar el riesgo de adquisición de VIH. La transmisión materno‑infantil de ITS puede resultar en muerte fetal, muerte neonatal, bajo peso al nacer y prematuridad, sepsis, conjuntivitis neonatal y deformidades congénitas. La infección por VPH causa cáncer cervical y otros cánceres. La hepatitis B resultó en poco más de 1 millón de muertes en 2022, principalmente por cirrosis y carcinoma hepatocelular. ITS como gonorrea y clamidia son causas principales de enfermedad inflamatoria pélvica e infertilidad en mujeres. Las personas que buscan detección y tratamiento de ITS enfrentan numerosos problemas. Estos incluyen recursos limitados, estigmatización, mala calidad de servicios y a menudo gastos propios. Algunas poblaciones con las tasas más altas de ITS – como trabajadoras sexuales, hombres que tienen relaciones sexuales con hombres, personas que usan drogas inyectables, presos, poblaciones móviles y adolescentes en países de alto riesgo de VIH – a menudo no tienen acceso a servicios de salud adecuados y amigables. En muchos entornos, los servicios de ITS a menudo se descuidan y están subfinanciados. Estos problemas conducen a dificultades para ofrecer pruebas de infecciones asintomáticas, número insuficiente de personal capacitado, capacidad de laboratorio limitada y suministros insuficientes de medicinas adecuadas (OMS, 2024).
+
+## Contexto de multi‑peligro
+
+A pesar de los esfuerzos continuos para identificar intervenciones simples para reducir el comportamiento sexual riesgoso, la información, la educación y la consejería siguen desempeñando un papel clave. Estas estrategias pueden mejorar la capacidad de las personas para reconocer los síntomas de las ITS, aumentar la probabilidad de que busquen atención y alentar a sus parejas sexuales a hacer lo mismo. Sin embargo, la falta de conciencia pública, la insuficiente formación entre los trabajadores de la salud y el estigma persistente que rodea las ITS siguen siendo barreras mayores para el uso efectivo de estas intervenciones (OMS, 2024).
+
+## Gestión del riesgo
+
+El tratamiento efectivo está disponible actualmente para varias ITS (OMS 2024): tres ITS bacterianas (clamidia, gonorrea y sífilis) y una parasitaria (tricomoniasis) son generalmente curables con regímenes de antibiótico de dosis única existentes. Para herpes y VIH, los medicamentos más efectivos disponibles son antivirales que pueden modular el curso de la enfermedad, aunque no curan la enfermedad. Para hepatitis B, los antivirales pueden ayudar a combatir el virus y a frenar el daño hepático. La resistencia antimicrobiana (RAM) de las ITS – en particular la gonorrea – ha aumentado rápidamente en los últimos años y ha reducido las opciones de tratamiento. El Programa de Vigilancia de la Resistencia Antimicrobiana Gonocócica (GASP) ha mostrado altas tasas de resistencia a muchos antibióticos, incluidas las quinolonas, azitromicina y cefalosporinas de amplio espectro, un tratamiento de última línea. La RAM para otras ITS, como *Mycoplasma genitalium*, también existe pero no se supervisa sistemáticamente (OMS, 2024). Las vacunas seguras y altamente efectivas están disponibles para dos ITS virales: hepatitis B y VPH. Estas vacunas han representado avances importantes en la prevención de ITS. Al final de 2023, la vacuna contra el VPH se había introducido como parte de los programas de inmunización de rutina en 140 países, principalmente en países de ingresos altos y medianos. Para eliminar el cáncer cervical como un problema de salud pública a nivel mundial, se deben alcanzar objetivos de cobertura de vacunación, detección y tratamiento de lesiones precancerosas y manejo del cáncer de VPH para 2030 y mantener este nivel elevado durante décadas. La investigación para desarrollar vacunas contra el herpes genital está avanzada, con varios candidatos a vacuna en fase clínica temprana. Hay evidencia creciente que sugiere que la vacuna para la meningitis (MenB) brinda cierta protección cruzada contra la gonorrea. Se necesita más investigación sobre vacunas para clamidia, gonorrea, sífilis y tricomoniasis (OMS, 2024). La resistencia antimicrobiana a las ETS, en particular la gonorrea, ha aumentado rápidamente en los últimos años, haciendo que enfoques preventivos como la consejería y el acceso a métodos de barrera sean una parte importante de la gestión del riesgo eficaz de estas enfermedades (OMS, sin fecha). El trabajo de la OMS está actualmente guiado por la estrategia sectorial global de salud sobre VIH, hepatitis y ETS, 2022‑2030 (OMS, 2022). Dentro de este marco, la OMS: desarrolla objetivos, normas y estándares globales para la prevención, detección y tratamiento de ITS; apoya la estimación y la carga económica de las ITS y el fortalecimiento de la vigilancia de ITS; monitorea globalmente la RAM de la gonorrea; y lidera el establecimiento de la agenda de investigación global sobre ITS, incluido el desarrollo de pruebas de diagnóstico, vacunas y medicamentos adicionales para la gonorrea y la sífilis. Como parte de su misión, la OMS apoya a los países para: desarrollar planes estratégicos nacionales y directrices; crear un entorno de apoyo que permita a las personas discutir las ITS, adoptar prácticas sexuales más seguras y buscar tratamiento; ampliar la prevención primaria (disponibilidad y uso de condones, etc.); aumentar la integración de los servicios de ITS dentro de los servicios de atención primaria; aumentar la accesibilidad de la atención de ITS centrada en la persona; facilitar la adopción de pruebas de diagnóstico de punto de atención; mejorar y ampliar la intervención sanitaria para el impacto, como la vacunación contra la hepatitis B y el VPH, la detección de sífilis en poblaciones prioritarias; fortalecer la capacidad de monitorear las tendencias de ITS; y monitorear y responder a la RAM de la gonorrea (OMS, 2024).
+
+## Monitoreo
+
+La OMS apoya a los países a realizar una evaluación de riesgo estratégica de todos los peligros en los contextos de emergencias sanitarias y desastres, lo que resulta en el desarrollo de un perfil de riesgo nacional. Con el perfil de riesgo nacional, incluido un calendario de riesgo estacional, los países pueden anticipar posibles emergencias antes de que ocurran para desencadenar alertas tempranas e informar las primeras acciones (OMS, 2021). El Sistema de Alerta Temprana, Alerta y Respuesta (EWARS) de la OMS ha sido diseñado para mejorar la detección de brotes de enfermedades en entornos de emergencia, como en países en conflicto o tras un desastre natural. Es una forma simple y rentable de establecer rápidamente un sistema de vigilancia de enfermedades. EWARS se despliega durante una emergencia como un complemento al sistema de vigilancia de enfermedades nacional. La OMS trabaja con los Ministerios de Salud y socios del sector salud para entrenar a los trabajadores de salud locales en el uso del sistema. Después de la emergencia, EWARS debe reintegrarse al sistema nacional (OMS, sin fecha).
+
+## Referencias
+
+1. Organización Mundial de la Salud (OMS), 2024. Infecciones de Transmisión Sexual (ITS). Hoja informativa. Accedido 17 febrero 2025.  
+2. OMS, sin fecha. Sistema de Alerta Temprana, Alerta y Respuesta (EWARS). Organización Mundial de la Salud (OMS). Accedido 18 abril 2025.  
+3. OMS, 2016. Regulaciones Sanitarias Internacionales (2005), 3ª ed. Organización Mundial de la Salud (OMS). Accedido 13 febrero 2025.  
+4. OMS, 2021. Kit de herramientas estratégica para evaluar riesgos (STAR): un kit de herramientas integral para la evaluación de riesgos de emergencias sanitarias de todos los peligros. Organización Mundial de la Salud (OMS). Accedido 13 febrero 2025.  
+5. OMS, 2022. Estrategia sectorial global de salud sobre VIH, hepatitis viral y ETS para el período 2022‑2030. Organización Mundial de la Salud (OMS). Accedido 17 febrero 2025.  
+
+```

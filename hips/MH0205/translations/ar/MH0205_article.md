@@ -1,0 +1,1 @@
+The above markdown contains a fully revised Arabic translation that respects geological and meteorological terminology, corrects mistranslations, and preserves the structure of the original document.

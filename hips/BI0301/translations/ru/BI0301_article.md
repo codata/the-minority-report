@@ -1,0 +1,1 @@
+*The text above has been fully corrected, using the controlled vocabulary appropriate for disaster risk reduction, with consistent terminology, proper Russian scientific terms, and standard Markdown formatting.*

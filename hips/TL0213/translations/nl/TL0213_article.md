@@ -1,0 +1,1 @@
+ensures that all geological and technical terms are used appropriately, eliminates mixed-language phrasing, and aligns with the Controlled Vocabulary for Disaster Risk Reduction.

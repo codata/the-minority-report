@@ -1,0 +1,64 @@
+> 
+> ### Definición  
+> Los **ordenados explosivos** (incluidos los **relevos explosivos de guerra**) se entienden como comprendiendo las siguientes municiones: minas, municiones de racimo, **ordenados explosivos no explotados** (UXO), **ordenados explosivos abandonados**, trampas mortíferas y otros dispositivos (IMAS 4.10) que permanecen en el entorno tras la cesación del conflicto armado.  
+> Los **relevos explosivos de guerra** se refieren a **ordenados explosivos no explotados** y **ordenados explosivos abandonados** que son dejados por una parte de un conflicto armado tras la cesación de la guerra.  
+> Los **ordenados explosivos no explotados** son municiones que han sido activadas, fusibles, armadas o de otra manera preparadas para su uso, y pueden haber sido disparadas, lanzadas o proyectadas, permaneciendo sin explotar por fallas de funcionamiento, diseño o por cualquier otra razón.  
+> Los **ordenados explosivos abandonados** se refieren a municiones que no se han usado durante un conflicto armado pero han sido dejadas o descartadas.  
+> Las minas son municiones diseñadas para colocarse bajo, sobre o cerca del suelo o cualquier otra superficie y para explotar al presencia, proximidad o contacto de una persona o vehículo.  
+> 
+> ### Referencia principal  
+> Servicio de Acción de Minas de la ONU, 2024. Estándares de Acción de Minas Internacionales 01.10 (IMAS 04.10) Glosario de términos de acción de minas, definiciones y abreviaturas internacionales. Accedido 14 febrero 2025.  
+> 
+> ### Anotaciones  
+> 1. La definición de la ONU (2004) proviene del Protocolo V de la Convención sobre Algunas Armas Convencionales, pero no incluye los **relevos explosivos de guerra** en forma de dispositivos explosivos improvisados. Se menciona como “otros dispositivos” en el Protocolo II enmendado.  
+> 2. Un **ordenado explosivo** puede considerarse “no explotado” o “abandonado” si ha sido “activado, fusible, armado o de otra manera preparado para su uso… antes de ser dejado por una parte de un conflicto armado”.  
+> 3. Hasta octubre de 2024, se conocía que al menos 58 estados y otras áreas (Abhazia, Nagorno‑Karaquel, Somalilandia) estaban contaminados por minas anti‑persona, mientras que 26 estados y 2 otras áreas contaban con contaminación de municiones de racimo, al 31 diciembre 2023 (Monitor de Minas y Municiones de Racimo, 2024a, b).  
+> 4. Un estudio reciente sobre **ordenados explosivos** en más de 100 000 víctimas en 17 países y otras áreas encontró una tasa de mortalidad de 38,8 por cada 100 personas heridas (Pizzino, 2024).  
+> 5. Las municiones de racimo son un ejemplo de **relevos explosivos de guerra** y tienen una larga historia de uso convencional por actores estatales durante la guerra (UNODA, 2020a). Se “diseñan para cubrir una zona con fuerza explosiva” y han sido usadas desde la Segunda Guerra Mundial (Bolton & Nash, 2010:175). Una munición de racimo produce daño al explotar un solo proyectil que fragmenta en una serie de **ordenados explosivos más pequeños**, que luego detonan sobre un área amplia.  
+> 6. Los **relevos explosivos de guerra** también tienen efectos adversos sobre las poblaciones por la liberación de químicos o compuestos químicamente activos en las áreas donde se abandonan, con impactos a largo plazo en agua, suelo, alimentos y medio ambiente general. Un ejemplo es la presencia de urano depleción, que ha tenido impactos significativos en la salud de poblaciones afectadas por conflictos y en el medio ambiente desde su introducción en la guerra convencional (UNODA, 2020b). El urano depleción posee alta densidad y es componente útil de armamento de energía cinética como armamento anti‑tanques (Murray et al., 2002). En áreas con alta contaminación radiactiva, hay riesgo de incendios forestales que queman terreno y redistribuyen partículas radiactivas de forma incontrolada, con impactos negativos profundos en la salud de la población. Esto ha llevado a que armas de urano depleción se usen ampliamente, con restos de partículas inhalados por personas que trabajan y viven cerca de la zona de conflicto (Murray et al., 2002). Los efectos a largo plazo de la exposición a restos de urano depleción desde la perspectiva de la salud siguen siendo poco claros, pero el impacto ambiental es profundo, con aumento de urano en suministros de agua, suelo contaminado y posibles restos de municiones de urano depleción no explotados (Murray et al., 2002).  
+> 
+> ### Métricas y límites numéricos  
+> UNMAS, el Servicio de Acción de Minas de la ONU, compila datos sobre víctimas causadas por **ordenados explosivos** (UNMAS, sin fecha). Por ejemplo, el Informe Anual 2023 de UNMAS comparte datos sobre víctimas de **ordenados explosivos**, contaminación y áreas más afectadas en 20 países (UNMAS, 2023).  
+> 
+> ### Convenios y tratados relevantes  
+> * Convenio sobre Municiones de Racimo (2008) (Biblioteca Daj Hammarskjold, 2020).  
+> * Convenio sobre la Prohibición del Uso, Almacenamiento, Producción y Transferencia de Minas Anti‑Persona y su Destrucción (1997) (Biblioteca Daj Hammarskjold, 2020).  
+> * Convención sobre Algunas Armas Convencionales (CCW) (1980) (Biblioteca Daj Hammarskjold, 2020).  
+> 
+> ### Motores (Drivers)  
+> Los **ordenados explosivos** pueden dispersarse durante inundaciones y deslizamientos (Baselt et al., 2023). Las inundaciones pueden causar erosión del suelo, descubriendo y transportando **relevos explosivos** previamente enterrados, aumentando el riesgo de contaminación de nuevas áreas o recontaminación de áreas previamente despejadas (Njeri & Greene, 2024). Los depósitos de municiones también pueden explotar durante eventos de calor extremo (Small Arms Survey, 2025).  
+> 
+> ### Impactos  
+> Los **relevos explosivos de guerra** tienen un impacto profundo en las poblaciones civiles y su entorno mucho después del fin de un conflicto. Los civiles en áreas con **REW** en su entorno corren riesgo de convertirse en víctimas de **ordenados explosivos**, potencialmente perdiendo extremidades o la vida (UNODA, 2020c). La presencia de **REW** restringe el movimiento de las poblaciones y dificulta la reconstrucción, resultando en acceso limitado a tierras cultivables, alimentos, agua, atención o comercio (UNODA, 2020c). Los **relevos explosivos de guerra** afectan la calidad de fuentes de agua y tierras agrícolas, ya que el material particulado de estos restos puede infiltrarse en el medio ambiente, como ocurre con el urano depleción (Murray et al., 2002). Los **REW** representan una amenaza para la salud y los derechos humanos en más de 60 países de ingresos bajos y medianos (Frost et al., 2017). Entre 1999 y 2023, se registraron 159 445 víctimas de minas y **REW** y 24 502 víctimas de municiones de racimo, con un aumento de las cifras anuales en los últimos años, con al menos 28 957 personas asesinadas o heridas por minas y **REW** entre 2019 y 2023 (Monitor de Minas y Municiones de Racimo, 2024a, b). Aunque el número exacto de sobrevivientes es desconocido, muchos desarrollan secuelas psicológicas y físicas a largo plazo (Frost et al., 2017). Los efectos a largo plazo de **REW** son una carga social y económica para víctimas, familias, comunidades en riesgo y sistemas de salud (Frost et al., 2017). Para civiles y comunidades en países afectados por la guerra, la presencia de estas armas representa una amenaza continua. Muchos civiles inocentes han perdido la vida o extremidades al alterar o entrar en contacto con **relevos explosivos de guerra**. Estas armas también pueden obstaculizar los esfuerzos de reconstrucción y amenazar los medios de subsistencia. No se pueden reconstruir viviendas, hospitales ni escuelas, y el suelo contaminado no puede cultivarse hasta que se despejen esas armas (ICRC, sin fecha).  
+> 
+> ### Contexto multi‑riesgo  
+> La figura a continuación resume las interacciones comunes entre **ordenados explosivos** y otros peligros. Esta información debe usarse con precaución y no debe basarse exclusivamente en la Gestión de Riesgos de Desastres, ya que algunas interacciones pueden no estar incluidas. Tenga en cuenta que los eventos peligrosos que ocurren juntos o localmente en espacio o tiempo no necesariamente causan, amplifican o están relacionados entre sí. Ejemplos específicos de contexto multi‑riesgo se pueden encontrar en las secciones ‘Motivadores de riesgo’ y ‘Impactos’ anteriores.  
+> 
+> ### Gestión del riesgo  
+> El Protocolo V de la Convención sobre Prohibiciones o Restricciones al Uso de Algunas Armas Convencionales describe las siguientes medidas de control para mitigar el impacto de **REW**: 
+> 1. Realizar un levantamiento y evaluar la amenaza que representan los **REW** en una situación post‑conflicto.  
+> 2. Evaluar y priorizar las necesidades de marcado y retiro/despeje de **REW**.  
+> 3. Despejar o retirar los **REW** cuando sea posible y seguro (ONU, 2004:3).  
+> 
+> ### Monitoreo  
+> Establecido en 1997, el Servicio de Acción de Minas de la ONU (UNMAS) lidera, coordina e implementa proyectos y programas para mitigar las amenazas de los **ordenados explosivos** en beneficio de millones de personas en todo el mundo. UNMAS provee a los Estados Miembros, al sistema de la ONU y a la industria minera en general, expertise imparcial y experiencia obtenida a través de su asistencia humanitaria, de desarrollo, operaciones de paz y construcción de paz en países afectados, así como mediante su participación en procesos diplomáticos y tratados. Entre sus responsabilidades y capacidades principales, UNMAS apoya el desarrollo de normas, políticas y estándares, así como la gestión de operaciones de despeje de minas y **relevos explosivos de guerra** (ERW) y la mitigación de amenazas de dispositivos explosivos improvisados (IED). En su sentido amplio, el despeje de minas o “deminación” incluye levantamiento, mapeo y marcado, así como detección y destrucción de minas, **REW** y IED. (UNMAS, sin fecha).  
+> 
+> ### Referencias  
+> - Baselt, I., Skejic, A., Zindovic, B., & Bender, J. (2023). Migración impulsada por la geología de minas y relevos explosivos de guerra—Un estudio enfocado en los Balcanes Occidentales. *Geosciences*, 13(6), 178. DOI: 10.3390/geosciences13060178. Accedido 14 febrero 2025.  
+> - Bolton, M., & Nash, T. (2010). The Role of Middle Power‑NGO Coalitions in Global Policy: The Case of the Cluster Munitions Ban. *Wiley Online Library*, 1:172‑184. Accedido 14 febrero 2025.  
+> - Frost, A., Boyle, P., Autier, P., King, C., Zwijnenburg, W., Hewitson, D., & Sullivan, R. (2017). The effect of explosive remnants of war on global public health: a systematic mixed‑studies review using narrative synthesis. *Lancet Public Health*, 2:E286‑E296. DOI: 10.1016/S2468‑2667(17)30099‑3. Accedido 14 febrero 2025.  
+> - ICRC. (2001). Cluster Bombs and Landmines in Kosovo. International Committee of the Red Cross. Accedido 14 febrero 2025.  
+> - ICRC. (sin fecha). Explosive remnants of war. International Committee of the Red Cross. Accedido 30 mayo 2025.  
+> - Landmine & Cluster Munition Monitor. (2024a). Landmine Monitor 2024. Accedido 14 febrero 2025.  
+> - Landmine & Cluster Munition Monitor. (2024b). Cluster Munition 2024. Accedido 14 febrero 2025.  
+> - Murray, V., Bailey, M., & Spratt, B. (2002). Depleted Uranium: A New Battlefield Hazard. *The Lancet*, 360:S31‑32.  
+> - Njeri, S., & Greene, C. (2024). Land degradation: The ‘double exposure’ of ERW contamination and climate change. Bonn Contact Group on Climate Peace and Security. Accedido 30 mayo 2025.  
+> - Pizzino, S. (2024). Unsafe ground: Counting the direct health impacts of landmines and explosive ordnance (Doctoral dissertation, The University of Queensland). Accedido 14 febrero 2025.  
+> - Small Arms Survey. (2025). Unplanned Explosions at Munitions Sites (UEMS). Accedido 14 febrero 2025.  
+> - UNDP Lao PDR. (2009). Hazardous Ground – Cluster Munitions and UXO in the Lao PDR. Accedido 14 febrero 2025.  
+> - United Nations. (2004). Protocol on Explosive Remnants of War to the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons which may be deemed to be Excessively Injurious or to have Indiscriminate Effects (Protocol V). Accedido 14 febrero 2025.  
+> - UNODA. (2020a). Cluster Munitions. United Nations Office for Disarmament Affairs. Accedido 14 febrero 2025.  
+> - UNODA. (2020b). Depleted Uranium. United Nations Office for Disarmament Affairs. Accedido 14 febrero 2025.  
+> - UNODA. (2020c). Landmines. United Nations Office for Disarmament Affairs. Accedido 14 febrero 2025.  
+
+*(Todos los encabezados y secciones están formateados en Markdown. Las citas están referenciadas en el cuerpo del texto siguiendo el estilo de las guías de la ONU.)*

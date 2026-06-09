@@ -1,0 +1,92 @@
+```markdown
+### Definition
+
+Plasticafval wordt gedefinieerd als elk weggeworpen plastic (organisch of synthetisch, afkomstig van polymeren, harsen of cellulose) dat wordt gegenereerd door een industriële proces of door consumenten. (Bron: GEMET/APD).
+
+### Primary reference(s)
+
+- UNEP, geen datum. Plasticafval. Montevideo Environmental Law Programme. Toegang 11 februari 2025
+
+### Annotations
+
+#### Additional scientific description
+
+Plastic is een lichtgewicht, hygiënisch en weerbestendig materiaal dat in een verscheidenheid aan vormen kan worden gegoten en in een breed scala aan toepassingen kan worden gebruikt. In tegenstelling tot metalen roest of corroderen plastic niet. De meeste plastics zijn niet biologisch afbreekbaar, maar ondergaan in plaats daarvan foto‑degradatie, een proces waarbij blootstelling aan omgevingsfactoren, waaronder zonlicht, ze opdelen in kleinere fragmenten, uiteindelijk microplastische deeltjes vormen die lange tijd in het milieu kunnen blijven. (UNEP, 2018). De 14e bijeenkomst van de Conferentie van de Partijen bij de Basel‑conventie definieerde categorieën afval die bijzondere aandacht vereisen (Europese Commissie, 2019). Deze omvatten: plasticafval, inclusief mengsels van derhalve, met uitzondering van het volgende: plasticafval dat gevaarlijk afval is volgens paragraaf 1(a) van artikel 18; plasticafval dat hieronder vermeld staat, op voorwaarde dat het bestemd is voor recycling op een milieuvriendelijke manier en bijna vrij is van verontreiniging en andere soorten afval; en plasticafval dat vrijwel uitsluitend bestaat uit één niet‑halogeenpolymeer, waaronder maar niet beperkt tot de volgende polymeren: polyethyleen (PE), polypropyleen (PP), polystyreen (PS), acrylonitrile‑butadieen‑styreen (ABS), polyethyleentereftalaat (PET), polycarbonaat (PC), polyuretaan (PUR) en polyether. Plasticafval dat vrijwel uitsluitend bestaat uit één gecureerde hars of condensatieproduct, waaronder maar niet beperkt tot de volgende harsen: ureum‑formaldehyde‑harsen; fenol‑formaldehyde‑harsen; melamine‑formaldehyde‑harsen; epoxy‑harsen; en alkyd‑harsen. Plasticafval dat vrijwel uitsluitend bestaat uit een van de volgende fluorpolymeren: perfluoroethyleen/propyleen (FEP); perfluoroalkoxy‑alkanen; tetrafluoroethyleen/ perfluoro‑alkyl‑vinylether (PFA); tetrafluoroethyleen/ perfluoromethyl‑vinylether (MFA); polyvinylfluoride (PVF); polyvinylidenefluoride (PVDF); en mengsels van plasticafval, bestaande uit polyethyleen (PE), polypropyleen (PP) en/of polyethyleentereftalaat (PET), op voorwaarde dat ze bestemd zijn voor afzonderlijke recycling van elk materiaal en op een milieuvriendelijke manier en bijna vrij zijn van verontreiniging en andere soorten afval. De meeste plastics bestaan gewoonlijk uit een mengsel van polymeren en additieven (bijv. stabilisatoren zoals loodstabilisatoren en cadmiumstabilisatoren; plasticiserers zoals ftalaat; vlamvertragers zoals antimonoxiden, fosfataasen, gebromineerde vlamvertragers en middelketen gechloreerde paraffine). De elementen die het meest voorkomen in plastics zijn koolstof, waterstof, stikstof, zuurstof, chloor, fluor en broom. Sommige van deze elementen zijn gevaarlijk wanneer ze niet gecombineerd zijn, maar worden inert wanneer ze in een organisch polymeer worden geïntegreerd (UNEP, 2023a, 2023b). De samenstelling van plasticafval hangt niet alleen af van de intrinsieke samenstelling van de verschillende plastics die zijn opgenomen, maar ook van onzuiverheden of verontreinigingen. Deze onzuiverheden kunnen ontstaan door de verschillende toepassingen van plastic, evenals de processen van afvalgeneratie en inzameling. Zo kan plasticvoedselverpakking voedselresten bevatten, films die in de landbouw worden gebruikt, een hoog percentage bodem en pesticiden bevatten, en plasticafval van kabels, koper of aluminium bevatten. Deze verontreinigingen kunnen de recycling en het beheer van plasticafval bemoeilijken, aangezien ze extra uitdagingen introduceren voor het waarborgen van een milieuvriendelijk beheer. De aanwezigheid van deze onzuiverheden benadrukt de noodzaak van effectieve scheiding, reiniging en sorteertechnologieën om de recycling efficiëntie te verbeteren en verontreinigingsrisico’s te verminderen (UNEP, 2018). COVID‑19 verhoogde het gebruik van plastic voor eenmalig gebruik, hoewel het plasticgebruik in het algemeen is afgenomen. De lockdowns en de daling van economische activiteit in 2020 verminderden het plasticgebruik met 2,2 % ten opzichte van 2019. Echter, de toename van het gebruik van beschermende persoonlijke uitrusting en plastic voor eenmalig gebruik heeft de plasticverspreiding verergerd. Plasticvervuiling wordt breed gedefinieerd als de negatieve effecten en emissies die voortkomen uit de productie en consumptie van plasticmaterialen en -producten gedurende hun volledige levenscyclus. Deze definitie omvat plasticafval dat verkeerd wordt beheerd (bijv. open verbrand en gestort op onbeheerde stortplaatsen) en lekken en ophoping van plasticobjecten en deeltjes die mensen en de levende en niet‑levende omgeving nadelig kunnen beïnvloeden (UNEP, 2023b). Meer dan 13.000 stoffen zijn tot nu toe geassocieerd met plastics, hetzij bekend voor gebruik in plasticproductie, hetzij gedetecteerd in plasticmaterialen. Chemische stoffen van zorg kunnen worden vrijgegeven vanuit plastic gedurende de hele levenscyclus, niet alleen tijdens de winning van grondstoffen, de productie van polymeren en de fabricage van plasticproducten, maar ook tijdens het gebruik van plasticproducten en aan het einde van hun leven, vooral wanneer afval niet correct wordt beheerd, waardoor ze zich in de lucht, het water en de bodem verplaatsen. Sommige chemicaliën kunnen aanzienlijke uitdagingen opleveren voor technologische oplossingen voor plasticrecycling en materiaal circulariteit (UNEP, 2023a). Bronnen van plasticafval kunnen ook worden gecategoriseerd op basis van toepassingen (bijv. flessen/afdichtingen/deksels: 14,9 %, PET flessen: 12,5 %, supermarkt‑tassen/retail‑tassen: 9,3 %, voedsel‑tassen: 6,5 %, voedselcontainers: 2,1 %, enz.) en oorsprong (bijv. stedelijk vast afval en agro‑industriële afval) (Nayanathara et al., 2024). Afval vereist een overweging van lokale omstandigheden en van zowel de intrinsieke samenstelling van plastic als mogelijke verontreinigingen. De aanwezigheid van onzuiverheden en verontreinigingen in de plastics kan de opties voor het beheer van het afval beïnvloeden in een milieuvriendelijke manier en moet adequaat worden aangepakt. Verontreinigd plasticafval kan een groot of klein gevaar zijn, afhankelijk van de verontreiniger (UNEP, 2023a).
+
+### Metrics and numeric limits
+
+Wereldwijd is de jaarlijkse productie van plastics verdubbeld, stijgend van 234  miljoen ton (Mt) in 2000 tot 460  Mt in 2019. Plasticafval is meer dan verdubbeld, van 156  Mt in 2000 tot 353  Mt in 2019. Na het rekening houden met verliezen tijdens recycling, is slechts 9 % van het plasticafval uiteindelijk gerecycled, terwijl 19 % werd verbrand en bijna 50 % naar sanitaire stortplaatsen werd gebracht. De resterende 22 % werd gedumpt op onbeheerde stortplaatsen, verbrand in open kuilen of gelekt in het milieu. In 2019 alleen lekte 6,1  Mt plasticafval in rivieren, meren en de oceaan. De ophoping van plastics in rivieren impliceert dat lekken in de oceaan decennia zullen blijven doorgaan, zelfs als verkeerd beheerd plasticafval aanzienlijk wordt verminderd. Verder wordt het opruimen van deze plastics steeds moeilijker en kostbaarder naarmate plastics fragmenteren tot steeds kleinere deeltjes (OECD, 2022). Elke minuut wordt het equivalent van één vuilniswagen vol plastic gestort in de oceaan (WE, 2016).
+
+### Key relevant UN convention / multilateral treaty
+
+Basel‑conventie over de controle van grensoverschrijdende verplaatsing en verwijdering van gevaarlijk afval (1989). Op het moment van schrijven waren er 187 partijen bij de Basel‑conventie (UN Treaty Collection, 2019). Bij de 14e bijeenkomst van de Conferentie van de Partijen bij de Basel‑conventie nam de beslissing BC‑14/12 aan, waarbij Annexes II, VIII en IX werden gewijzigd met als doel het verbeteren van de controle van grensoverschrijdende verplaatsing van plasticafval en het verduidelijken van de reikwijdte van de conventie zoals die van toepassing is op dergelijk afval (Europese Commissie, 2019).
+
+De volgende nieuwe items in de Basel‑conventie Plastic Waste Amendment werden effectief op 1 januari 2021:
+
+- Annex II, nieuwe inschrijving Y48: behandelt plasticafval, inclusief mengsels ervan, met verschillende uitzonderingen vermeld onderaan, waardoor ze onder het vooraf geïnformeerde toestemming (PIC) procedure vallen.
+- Annex VIII, nieuwe inschrijving A3210: verduidelijkt de reikwijdte van plasticafval dat als gevaarlijk wordt beschouwd en daarom onder het PIC-proces valt.
+- Annex IX, nieuwe inschrijving B3011 die de bestaande inschrijving B3010 vervangt: verduidelijkt de soorten plasticafval die niet als gevaarlijk worden beschouwd en daarom niet onder het PIC vallen.
+
+Conventie over de preventie van mariene verontreiniging door het storten van afval en andere materie 1972 (IMO, 2020), of de “London Convention” voor kort. Dit is een van de eerste wereldwijde conventies om de mariene omgeving te beschermen tegen menselijke activiteiten en is sinds 1975 in werking. Het doel is het bevorderen van de effectieve controle van alle bronnen van mariene verontreiniging en het nemen van alle haalbare stappen om verontreiniging van de zee door het storten van afval en andere materie te voorkomen. Momenteel zijn 87 staten partij bij dit conventie.
+
+Stockholm‑conventie over Persistent Organic Pollutants (POPs) (2004).
+
+### Drivers
+
+Overconsumptie van plastic, gebrek aan regelgeving en bevolkingsgroei zijn onder de drijvende krachten van plasticproductie en plasticafval (OECD, 2022).
+
+### Impacts
+
+Plasticvervuiling, inclusief plasticafval, schaadt wildlife en beschadigt ecosystemen (UNEP, geen datum) en is verantwoordelijk voor enorme economische verliezen in de toerisme-, visserij- en scheepvaartindustrieën. Wereldwijd wordt geschat dat de totale schade aan het mariene ecosysteem als gevolg van plasticafval minstens USD$ 13 miljard per jaar bedraagt (Independent Group of Scientists, 2019). Naast de schade aan wildlife en ecosystemen, kunnen veel plastics chemisch schadelijk zijn in andere contexten omdat ze zelf potentieel toxisch zijn, additieven bevatten of omdat ze andere verontreinigingen opnemen (Rochman et al., 2013). Het gezondheidsrisico voor microplastische deeltjes in drinkwater is een functie van zowel het risico als de blootstelling. Potentiële risico’s die verband houden met microplastische deeltjes komen in drie vormen voor: de deeltjes zelf, die een fysiek risico vormen, chemicaliën (ongebonden monomeren, additieven en geabsorbeerde chemicaliën uit het milieu), en micro-organismen die zich kunnen hechten en koloniseren op microplastische deeltjes, bekend als biofilm. Op basis van de beperkte beschikbare gegevens vormen chemische stoffen en micro‑pathogenen die geassocieerd zijn met microplastische deeltjes in drinkwater een lage zorg voor de menselijke gezondheid. Hoewel er onvoldoende informatie is om definitieve conclusies te trekken over de toxiciteit van nanodeeltjes, geeft geen betrouwbare informatie aan dat het een zorg is (WHO, 2019). WHO, 2019 en SAPEA (2019) identificeerden dat er heel weinig gepubliceerd data beschikbaar is met betrekking tot blootstelling aan of toxiciteit van microplastische deeltjes en nanoplastische deeltjes bij mensen, . De rapporten erkennen de huidige uitdagingen waarmee wetenschappers worden geconfronteerd bij het verzamelen van robuuste informatie en raden aan om kenniskloof te dichten. Het SAPEA‑rapport stelt op p. 116 dat “het ontbreken van bewijs voor microplastische risico’s momenteel geen mogelijkheid biedt om met voldoende zekerheid te concluderen of het risico aanwezig of afwezig is” (SAPEA, 2019).
+
+### Multi‑hazard context
+
+De onderstaande figuur vat de gebruikelijke interacties tussen plasticafval en andere gevaren samen. Deze informatie moet met voorzichtigheid worden gebruikt en mag niet uitsluitend als basis dienen in het risico‑management van rampen, vooral aangezien sommige interacties mogelijk niet zijn opgenomen. Merk op dat gevaarlijke gebeurtenissen die samen of lokaal in tijd of ruimte plaatsvinden niet noodzakelijkerwijs elkaar veroorzaken, versterken of anderszins met elkaar verband houden. Specifieke voorbeelden van multi‑hazard context zijn te vinden in de secties “Hazard drivers” en “Impacts” hierboven.
+
+### Multi‑hazard diagram
+
+### Risk Management
+
+Plasticafvalrecycling staat voor technische, economische en structurele uitdagingen die nog wereldwijd moeten worden overwonnen (UNEP, 2023b). Recycling van plasticafval kan worden ondersteund met juridische en economische instrumenten (UNEP, 2023b). Om plasticvervuiling te verminderen, is het van cruciaal belang om de staat van diensten voor inzameling van vast afval te verbeteren, de recyclingindustrie te versterken en een veilige verwijdering van afval naar gecontroleerde stortplaatsen te waarborgen (UNEP, 2018). Als onderdeel van waterveiligheidsplanning moeten watervoorzieners ervoor zorgen dat beheersmaatregelen effectief zijn en moeten ze waterbehandelingsprocessen optimaliseren voor deeltjesverwijdering en microbiële veiligheid, wat incidenteel de verwijdering van microplastische deeltjes zal verbeteren. Het rapport stelde ook dat maatregelen moeten worden genomen om plastics beter te beheren en het gebruik van plastics waar mogelijk te verminderen, om plastic- en microplasticvervuiling te minimaliseren ondanks het lage risico voor de menselijke gezondheid dat gepaard gaat met blootstelling aan microplastische deeltjes in drinkwater, aangezien dergelijke acties andere voordelen voor het milieu en het welzijn van de mens kunnen opleveren (WHO, 2019). Het aanpakken van het probleem van plasticafval in een multi‑hazard context vereist een geïntegreerde aanpak die rekening houdt met interacties tussen milieu‑, antropogene en sociaal‑economische factoren. Effectieve beheersstrategieën moeten regelgevingskaders, technologische vooruitgang, bewustmakingscampagnes en mondiale samenwerking omvatten om de milieu‑ en gezondheidsimpact van plasticafval te verminderen (Kaza et al., 2018; Da Costa et al., 2020).
+
+### Monitoring
+
+De sectie en de onderstaande tabel geven een overzicht van het monitoren van plasticafval. Deze informatie kan worden gebruikt voor prognoses binnen een nationaal vroegwaarschuwingssysteem (EWS). Omdat de capaciteiten en processen van EWS per land verschillen, moet de meest actuele en specifieke informatie met betrekking tot EWS worden verkregen bij de juiste nationale of regionale instantie/autoriteit die verantwoordelijk is voor rampenbeheer. Welke instelling(en) produceren rampenrisico‑gegevens/informatie? Academische studies, milieumonitoringsprogramma’s, internationale beleidslijnen en conventies. Hoe wordt het gevaar waargenomen/gebewust/vooruitgeslagen? Zeeschoonmaak en kustmonitoring, remote sensing en satellietbeelden, citizen science en community‑gebaseerde observaties, voorspellende tools en modellen.
+
+### References
+
+Da Costa, J. P., Mouneyrac, C., Costa, M., Duarte, A. C., & Rocha‑Santos, T., 2020. The role of legislation, regulatory initiatives and guidelines on the control of plastic pollution. Frontiers in Environmental Science, 8, 104. Frontiers | The Role of Legislation, Regulatory Initiatives and Guidelines on the Control of Plastic Pollution. Accessed 11 February 2025.
+
+IMO, 2020. Conventie over de preventie van mariene verontreiniging door het storten van afval en andere materie 1972. International Maritime Organization (IMO). Accessed 21 May 2025.
+
+Independent Group of Scientists appointed by the Secretary‑General, Global Sustainable Development Report, 2019. The Future is Now – Science for Achieving Sustainable Development, (United Nations, New York, 2019). Accessed 21 May 2025.
+
+Kaza, Silpa; Yao, Lisa C.; Bhada‑Tata, Perinaz; Van Woerden, Frank, 2018. What a Waste 2.0: A Global Snapshot of Solid Waste Management to 2050. Urban Development;. © Washington, DC: World Bank. Accessed 11 February 2025.
+
+Nayanathara, P. G. C., Pilapitiya, T., Sandaruwan Ratnayake, A., 2024. The world of plastic waste: A review. Cleaner Materials 11, 100220. The world of plastic waste: A review - ScienceDirect. Accessed 11 February 2025.
+
+OECD, 2022. Global plastic Outlook: Economic Drivers, Environmental Impacts and Policy Options. OECD Publishing, Paris. DOI: 10.1787/de747aef-en. Accessed 11 February 2025.
+
+SAPEA, Science Advice for Policy by European Academies, 2019. A Scientific Perspective on Microplastics in Nature and Society. Berlin: SAPEA. 10.26356/microplastics. Accessed 21 May 2025.
+
+Stockholm Convention, 2004. Stockholm Convention on Persistent Organic Pollutants (POPs), 2004. Accessed 21 May 2025.
+
+UN Treaty Collection, 2019. Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal. Environment. Chapter XXVII. Accessed 21 May 2025.
+
+UNEP, geen datum. Tackling marine debris. United Nations Environment Programme (UNEP). Accessed 21 May 2025.
+
+UNEP, 2002. Technical Guidelines for the Identification and Environmentally Sound Management of Plastic Wastes and for their Disposal. UNEP/CHW.6/21. United Nations Environment Programme (UNEP). Accessed 21 May 2025.
+
+UNEP, 2018. Single‑use Plastics: A roadmap for Sustainability. United Nations Environment Programme (UNEP). Accessed 21 May 2025.
+
+UNEP, 2023a. Chemicals in Plastics. United Nations Environment Programme (UNEP). Accessed 11 February 2025.
+
+UNEP, 2023b. Turning Off the tap . United Nations Environment Programme (UNEP). Accessed 11 February 2025.
+
+UNEP, 2023c. Microplastics: The long legacy left behind by plastic pollution. United Nations Environment Programme (UNEP). Accessed 21 May 2025.
+
+WEF, 2016. Every minute, one garbage truck of plastic is dumped into our oceans. This has to stop , World Economic Forum (MEF). Accessed 21 May 2025.
+
+WHO, 2019. Microplastics in Drinking‑Water. World Health Organization (WHO). Accessed 11 February 21 May 2025.
+
+---

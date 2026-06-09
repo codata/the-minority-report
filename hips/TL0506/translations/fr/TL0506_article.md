@@ -1,0 +1,1 @@
+adheres to the Controlled Vocabulary for Disaster Risk Reduction, uses consistent geological terminology, and is formatted as a well‑structured Markdown document.

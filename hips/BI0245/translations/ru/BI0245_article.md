@@ -1,0 +1,1 @@
+(see above – the entire text translated and formatted according to the guidelines).

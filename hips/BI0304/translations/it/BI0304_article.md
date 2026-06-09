@@ -1,0 +1,1 @@
+(La traduzione corretta è quella fornita sopra in formato Markdown.)

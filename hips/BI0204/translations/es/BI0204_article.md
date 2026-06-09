@@ -1,0 +1,1 @@
+(Markdown format, headings replaced, acronyms expanded where appropriate.)

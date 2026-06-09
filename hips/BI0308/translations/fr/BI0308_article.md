@@ -1,0 +1,1 @@
+The above Markdown document presents a fully translated, domain‑consistent, and formatted version of the original English hazard profile for the Newcastle disease, suitable for use in a controlled vocabulary for disaster risk reduction.

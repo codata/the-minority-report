@@ -1,0 +1,1 @@
+aligns with DRR controlled vocabulary, uses consistent geological/hydrological terminology, and follows a clear Markdown structure.

@@ -1,0 +1,1 @@
+*The translation above has been refined to adhere strictly to geological and DRR terminology, ensuring consistency, clarity, and compliance with international conventions.*

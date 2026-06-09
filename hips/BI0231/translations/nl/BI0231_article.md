@@ -1,0 +1,74 @@
+### Definitie  
+Q‑koorts is een veelvoorkomende zoonose (infectie die van dieren op mensen kan overdragen), veroorzaakt door *Coxiella burnetii*. Natuurlijke reservoirs zijn verschillende **domestische dieren** en **wilde dieren**, waarvan de meeste geen klinische symptomen vertonen (hoewel de infectie abortussen kan veroorzaken). Door de hoge **weerstand** van *C. burnetii* in het milieu, worden mensen meestal geïnfecteerd door inademing van aerosolen die geproduceerd worden in **besmette locaties**, maar andere infectie‑modi zijn gedocumenteerd (inclusief voedselovergedragen) (ECDC, geen datum).
+
+### Primaire referentie(nen)  
+ECDC, geen datum. Feiten over Q‑koorts. Europees Centrum voor Ziektepreventie en -Controle (ECDC). Toegang 29 mei 2025.
+
+### Annotaties  
+#### Aanvullende wetenschappelijke beschrijving  
+Q‑koorts werd voor het eerst erkend als een menselijke ziekte in Australië in 1935 en in de VS in het begin van de jaren 1940. De ‘Q’ staat voor ‘query’ en werd toegepast toen de oorzaak onbekend was (CDC, 2024). Q‑koorts is een zoonotische ziekte veroorzaakt door infectie met *C. burnetii* die mensen en andere dieren treft. *C. burnetii* komt zelden voor, maar kan gevonden worden bij koeien, schapen, geiten en andere **domestische zoogdieren**, inclusief katten en honden. Klinische gevallen lijken het meest significant te zijn bij schapen en geiten, met sporadische verliezen en incidentele uitbraken die tot 50‑90 % van de kudde kunnen beïnvloeden. De infectie ontstaat door inademing van een spore‑achtige kleine‑celvariant, en door contact met melk, urine, feces, vaginale slijm of sperma van geïnfecteerde dieren. Zelden is de ziekte **tekenovergedragen** (Spickler, 2017). Mensen zijn vatbaar voor Q‑koorts; infectie kan voortkomen uit zelfs een paar organismen. Sommige mensen worden nooit ziek; echter, degenen die dat wel doen ontwikkelen meestal griep‑achtige symptomen, inclusief koorts, koude rillingen, vermoeidheid en spierpijn (CDC, 2024). De belangrijkste manier om het risico op infectie met Q‑koorts te verminderen is door contact met geïnfecteerde dieren te vermijden, vooral tijdens de gading. Let op dat dieren geïnfecteerd kunnen zijn met *C. burnetii* en gezond lijken. Mensen die direct contact hebben met dieren tijdens gading, zoals dierenartsen en boeren, kunnen een hoger risico hebben op infectie. Slachters zijn ook in risico tijdens contact met geïnfecteerde carcassen (Spickler, 2017). *Coxiella burnetii* kan lange tijd in het milieu overleven en kan door wind lange afstanden worden vervoerd. Wind‑gebonden uitbraken kunnen tientallen tot honderden mensen beïnvloeden die geen direct contact met dieren hebben. In een uitzonderlijk incident werden meer dan 4.000 klinische gevallen erkend in Nederland tussen 2007 en 2010. Pogingen om deze uitbraak te beëindigen resulteerden in tijdelijke slachtverbod en de slacht van meer dan 50.000 kleinrammen. De huidige staat van kennis over *C. burnetii* is incompleet, en sommige aspecten van infecties bij mensen en dieren worden nog steeds betwist of niet goed begrepen (Spickler, 2017). *C. burnetii* is gevonden in de meeste landen die surveillance hebben uitgevoerd. Echter, een paar landen of gebieden, zoals Nieuw‑Zeeland, Noorwegen, IJsland en Frans‑Polynesië, melden dat ze geen bewijs hebben van dit organisme in enquêtes tot op heden (Spickler, 2017).
+
+### Menselijke gezondheid  
+De incubatietijd voor acute Q‑koorts varieert van twee dagen tot zes weken; de meeste patiënten worden ziek binnen twee tot drie weken na blootstelling. Chronische Q‑koorts ontwikkelt zich maanden tot jaren na infectie, hoewel sommige van de latere gevallen kunnen voortkomen uit vertraagde diagnose. Studies van recente uitbraken in Nederland suggereren dat de meeste gevallen van endocarditis kunnen worden gedetecteerd binnen een paar maanden tot een jaar na infectie (Spickler, 2017).
+
+### Dierlijke gezondheid  
+Q‑koorts is een wijdverspreide ziekte veroorzaakt door de bacterie *C. burnetii*, die zoogdieren kan infecteren zoals koeien, schapen, geiten, ezels, kamelen, kippen, honden, katten, vogels, reptielen en artriden. Diervaccinatie is gebruikt in gebieden waar infecties veel voorkomen. De meeste landen houden een lijst met goedgekeurde diervaccins voor gebruik. Raadpleeg voor specifieke regelgeving de diergezondheidsautoriteiten van het land. Q‑koorts wordt voornamelijk geassocieerd met sporadische abortussen of uitbraken van abortussen en dode of zwakke nakomelingen bij koeien, schapen en geiten. Infectie blijft voor meerdere jaren bestaan. Schapen, geiten en koeien zijn voornamelijk **subklinische dragers** maar kunnen bacteriën scheiden in verschillende secreta en excreta. Q‑koorts wordt ook overgedragen door inademing of stof besmet met geïnfecteerde diersecreta of excreta. Q‑koorts kan ook verspreid worden door **tekens** die de bacterie van een geïnfecteerde naar een vatbaar dier overdragen; de feces van het geïnfecteerde dier bevatten de bacterie, waardoor het milieu ook besmet wordt. Mensen krijgen meestal infectie via lucht‑overgedragen transmissie van dierreservoirs, vooral van **domestische ruminanten**, maar andere domestische en wilde dieren (huisdieren, konijnen, vogels, etc.) kunnen betrokken zijn. *C. burnetii* toont verschillende morfologische vormen in zijn ontwikkelingscyclus, en sommige vormen kunnen extracellulaire overleven en zelfs accumuleren in het milieu (FAO, 1994; WOAH, 2024a).
+
+### Metrics en numerieke limieten  
+Q‑koorts werd een nationaal meldbare ziekte in de Verenigde Staten in 1999. CDC verzamelt het aantal gevallen gerapporteerd door staat en lokale gezondheidsdiensten en rapporteert nationale trends. Het aantal Q‑koortsgevallen gerapporteerd aan CDC nam toe, van 19 gerapporteerde gevallen in 2000 tot 173 gerapporteerde gevallen in 2007. In 2008 werd de definitie Q‑koorts gewijzigd om de rapportage van chronische en acute Q‑koorts afzonderlijk toe te staan. Gedurende 2008‑2013 nam het aantal gerapporteerde gevallen licht af, vergeleken met 2007, en kwam terug naar hoge niveaus in 2014. In 2019 werden 178 acute Q‑koortsgevallen gerapporteerd, evenals 34 chronische Q‑koortsgevallen (CDC, 2024b). Voor 2019, 1.069 gevallen van Q‑koorts werden gerapporteerd in de Europese Unie/Europese Economische Ruimte (EU/EEA), 958 (90 %) daarvan werden bevestigd (ECDC, 2021).
+
+### Belangrijkste relevante VN-conventie / multilaterale verdragen  
+Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction (UNODA, geen datum).  
+International Health Regulations (2005), 3rd ed. (WHO, 2016).  
+WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement) (WTO, 1994).  
+United Nations. 2023. Recommendations on the Transport of Dangerous Goods – UN Model Regulations. Verkrijgbaar via: https://unece.org/transport/dangerous-goods/un-model-regulations-rev-23. Toegang 1 januari 2025.
+
+### Dragers  
+#### Mens  
+Introductie van geïnfecteerde dieren, besmette omgeving, stof, consumptie van besmette producten.  
+#### Dier  
+Introductie van geïnfecteerde dieren, besmette omgeving, stof, consumptie van besmette producten.
+
+### Impacten  
+#### Mens  
+Abortussen in latere zwangerschap, besmetting van mensen.  
+Iedereen die werkt met runderen, schapen of producten daarvan loopt een verhoogd risico op Q‑koorts, inclusief de volgende beroepen: boer, slachter, slachthuismedewerker, voedingsverwerkingsmedewerker, dierenarts en wolbewerker. Ernstige ziekte is gerapporteerd bij het foetus; daarom lopen zwangere vrouwen het risico de infectie over te dragen aan hun kinderen. De ziekte kan ook bijzonder ernstig zijn bij pasgeborenen. Mensen met hartklepproblemen lopen een verhoogd risico op endocarditis (ECDC, geen datum).  
+#### Dier  
+Abortussen in latere zwangerschap, besmetting van mensen.
+
+### Multihazard-context  
+Veel factoren beïnvloeden Q‑koortsuitbraken, die zich kunnen manifesteren in verschillende settings met verschillende epidemie‑patronen. Q‑koorts wordt vaak gezien als een risico voor personen die werken met vee, maar het ontbreken van diercontact sluit infectie niet uit vanwege de aanzienlijke capaciteit voor indirecte transmissie, wat waarschijnlijk leidt tot een onderwaardering van het risico op uitbraken in stedelijke gemeenschappen. Ontoerekening van Q‑koorts in deze populaties kan leiden tot moeilijkheden bij het herkennen van uitbraken en daardoor vertraging van de respons (Tan et al., 2023).
+
+### Risicobeheer  
+#### Mens  
+ECDC raadt goede hygiënepraktijken aan op locaties waar dieren worden verwerkt – met name met schapen, runderen en geiten – om de transmissie van de bacterie die Q‑koorts veroorzaakt te voorkomen. Aangezien de ziekte via besmette melk kan worden overgedragen, helpt pasteurisatie van melk en melkproducten de infectie te voorkomen (ECDC, geen datum). Andere risicobeheermaatregelen omvatten beweging‑controle, behandeling met antimicrobica, traceren en vaccinatie.  
+#### Dier  
+Diervaccinatie is gebruikt in gebieden waar infecties veel voorkomen. Algemeen genomen zijn sanitaire maatregelen om na de gading en gadingfluïden te verwijderen, en om gebieden waar dieren zijn gebaard te reinigen en te desinfecteren, effectief in het voorkomen van verspreiding (WOAH, 2024a; 2024b; geen datum). Andere acties omvatten beweging‑controle, behandeling met antimicrobica, traceren en vaccinatie.
+
+### Monitoring  
+De onderstaande tabel biedt een overzicht van monitoring voor Q‑koorts bij dieren. Deze informatie kan gebruikt worden voor voorspelling binnen een nationaal **eerstwaarschuwingssysteem (EWS)**. Omdat de capaciteiten en processen van EWS verschillen per land, moet de meest actuele en specifieke informatie over EWS verkregen worden van de passende nationale of regionale instantie/autoriteit verantwoordelijk voor rampenbeheer.
+
+**Welke instantie(n) produceren Rampenrisicodata/-informatie?**  
+WHO, Ministerie van Volksgezondheid, Ministerie van Landbouw, Ministerie van Voederstapel, FAO‑referentiecentra, WOAH‑referentiecentra.
+
+**Hoe wordt het risico geobserveerd/geïnspecteerd/gepredikt?**  
+Via het wereldwijde eerstwaarschuwingssysteem ondersteunt FAO lidstaten bij risicomonitoring, beoordeling en voorspelling van diergezondheidsbedreigingen om de paraatheid en respons te verbeteren: het Global Animal Disease Information System, EMPRES‑i+, speelt een cruciale rol bij het ondersteunen van landen met vroegtijdige waarschuwing en detectie van dierziekten. Door een uitgebreide realtime platform voor ziekteverkenning te bieden, maakt EMPRES‑i+ monitoring en analyse van diergezondheidsbedreigingen effectief, en werkt nauw samen met landen en regio’s voor informatie-uitwisseling. Dit ondersteunt de verspreiding van risicobeoordelingen en waarschuwingen voor evidence‑gebaseerde besluitvorming. FAO ontwikkelt en onderhoudt besluitondersteuningshulpmiddelen die risico‑kaarten bieden van bestaande en voorspelde risico’s van dierziekten, evenals andere bedreigingen voor de agrarisch‑voedselketen. Bovendien werkt FAO nauw samen met internationale organisaties zoals WHO en WOAH om ziekte-informatie te verifiëren via geïntegreerde mechanismen zoals Epidemic Intelligence from Open Sources (EIOS), het Global Early Warning System (GLEWS+), en het World Animal Health Information System (WAHIS) voor WOAH‑gelijste ziekten. Deze samenwerkingen maken het mogelijk om vroegtijdige waarschuwingen en risicobeoordelingen aan lidstaten te verspreiden, zodat tijdige reacties op potentiële uitbraken mogelijk zijn. FAO empres‑i+: https://empres-i.apps.fao.org/diseases.  
+WOAH WAHIS: https://wahis.woah.org/#/event-management.  
+WHO ondersteunt landen bij het uitvoeren van een all‑hazards strategische risico‑beoordeling in de context van gezondheidsnoodtoestanden en rampen, wat resulteert in de ontwikkeling van een landrisicoprofiel. Met het landrisicoprofiel, inclusief een seizoensrisicokalender, kunnen landen potentiële noodgevallen vóór optreden voorspellen om vroegtijdige waarschuwingen te activeren en vroege acties te informeren (WHO, 2021). Het Early Warning, Alert and Response System (EWARS) is ontworpen om de detectie van ziekteuitbraken te verbeteren in noodsituaties, zoals in landen in conflict of na een natuurramp. Het is een eenvoudige en kosteneffectieve manier om snel een ziekteobservatie‑systeem op te zetten. EWARS wordt ingezet tijdens een noodsituatie als aanvulling op het nationale ziekteobservatiesysteem. WHO werkt met ministeries van Volksgezondheid en partners van de gezondheidssector om lokale gezondheidswerkers te trainen in het gebruik van het systeem. Na de noodsituatie moet EWARS terugintegreren in het nationale systeem (WHO, geen datum).
+
+### Referenties  
+- CDC, 2024a. Q‑koorts. Centra voor Ziektepreventie en -Controle (CDC). Toegang 29 mei 2025.  
+- CDC, 2024b. Epidemiologie en Statistieken. Centra voor Ziektepreventie en -Controle (CDC). Toegang 29 mei 2025.  
+- ECDC, 2021. Q‑koorts – Jaarlijkse epidemiologische rapportage voor 2019. Europees Centrum voor Ziektepreventie en -Controle (ECDC). Toegang 29 mei 2025.  
+- ECDC, geen datum. Feiten over Q‑koorts. Europees Centrum voor Ziektepreventie en -Controle (ECDC). Toegang 29 mei 2025.  
+- FAO, 2000. Specifieke ziekten van koeien – FAO‑paper 119. Toegang 29 mei 2025.  
+- Spickler, A.R., 2017. Q‑koorts Factsheet. Center for Food Security and Public Health. Toegang 29 mei 2025.  
+- Tan, T. et al., 2023. Systematische review van wereldwijde Q‑koortsuitbraken. One Health. 18:100667. doi:10.1016/j.onehlt.2023.100667. PMID:39010957; PMCID:PMC11247264. Toegang 29 mei 2025.  
+- UNODA, geen datum. Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction. United Nations Office for Disarmament Affairs (UNODA). Toegang 29 mei 2025.  
+- WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Toegang 26 mei 2025.  
+- WHO, 2021. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all‑hazards health emergency risk assessment. World Health Organization (WHO). Toegang 26 mei 2025.  
+- WHO, geen datum. Early Warning, Alert and Response System (EWARS). World Health Organization (WHO). Toegang 18 april 2025.  
+- WOAH, 2024a. Manual of Diagnostic Tests and Vaccines for Terrestrial Animals, 13th edition. World Organisation for Animal Health (WOAH). Toegang 29 mei 2025.  
+- WOAH, 2024b. Terrestrial Animal Health Code. 32nd edition. World Organisation for Animal Health (WOAH). Toegang 29 mei 2025.  
+- WOAH, geen datum. Q‑koorts. World Organisation for Animal Health (WOAH). Toegang 29 mei 2025.  
+- WTO, 1994. The WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement). World Trade Organization (WTO). Toegang 1 januari 2025.

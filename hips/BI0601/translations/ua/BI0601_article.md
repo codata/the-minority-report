@@ -1,0 +1,1 @@
+The final translation is provided above in a single, coherent Markdown document, with all terminology aligned with the DRR‑controlled vocabulary, accurate Ukrainian scientific terms, and consistent formatting.

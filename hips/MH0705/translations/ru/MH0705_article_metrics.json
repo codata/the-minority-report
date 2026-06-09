@@ -1,0 +1,32 @@
+{
+  "variables": [
+    "Travel time",
+    "Arrival time",
+    "Inundation distance",
+    "Inundation (maximum) height",
+    "Inundation area",
+    "Inundation height",
+    "Inundation line",
+    "Leading wave",
+    "Mean height",
+    "Run‑up",
+    "Amplitude",
+    "Period",
+    "Wavelength"
+  ],
+  "indicators": [
+    "Travel time",
+    "Arrival time",
+    "Inundation distance",
+    "Inundation (maximum) height",
+    "Inundation area",
+    "Inundation height",
+    "Inundation line",
+    "Leading wave",
+    "Mean height",
+    "Run‑up",
+    "Amplitude",
+    "Period",
+    "Wavelength"
+  ]
+}

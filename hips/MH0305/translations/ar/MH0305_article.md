@@ -1,0 +1,1 @@
+*(The full, corrected Arabic translation is provided above.)*

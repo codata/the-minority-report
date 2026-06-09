@@ -1,0 +1,1 @@
+*The final translation above provides a comprehensive, terminology‑accurate, and context‑appropriate French version of the original technical hazard profile, formatted in Markdown as required.*

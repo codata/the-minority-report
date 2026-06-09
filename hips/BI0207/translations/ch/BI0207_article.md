@@ -1,0 +1,1 @@
+The above Markdown document provides a fully translated, domain‑accurate, and properly formatted Chinese version of the original technical hazard profile.

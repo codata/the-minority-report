@@ -1,0 +1,1 @@
+retains all domain‑specific terminology, standardizes phrasing, and adheres to Italian technical style guidelines suitable for a disaster‑risk‑reduction hazard profile.

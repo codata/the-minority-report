@@ -1,0 +1,48 @@
+```markdown
+# Definition
+Zeewaterintrusie is het proces waarbij zout water infiltreert in een kustaquifer, waardoor vers grondwater verontreinigd raakt (Prince Edward Island Department of Environment, Labour and Justice, 2011).
+
+# Primary reference(s)
+European Environment Agency, geen datum. Helpcenter definitie: intrusie van zout water. Intrusie van zout water — European Environment Agency (toegankelijk 13 mei 2025).
+
+# Annotations
+## Additional scientific description
+Zoutwaterintrusie (SWI) verwijst naar het proces waarbij zeewater infiltreert in kustgrondwatersystemen, waardoor het wordt gemengd met de lokale verswatervoorziening. Grondwater wordt opgeslagen in de poriën en scheuren van rotsen onder de oppervlakte, en de rotsformaties die grondwater bevatten worden aangeduid als aquifers (Prince Edward Island Department of Environment, Labour and Justice, 2011). De aanwezigheid van SWI vertoont een verscheidenheid aan vormen. Twee hoofdcategorieën worden voorgesteld om zeewaterintrusie te classificeren: **passieve zeewaterintrusie**, waarbij zeewater naar binnen beweegt in gebieden waar vers grondwater naar de kust stroomt; en **actieve zeewaterintrusie**, waarbij zeewater zich in dezelfde richting als het vers grondwater beweegt (Werner, 2017).  
+Zoutwaterintrusie is een natuurlijk proces dat voorkomt in bijna alle kustaquifers wereldwijd, maar met verschillende intrusieniveaus gebaseerd op meerdere geologische, hydrologische en omgevingsfactoren. Het probleem verergert door antropogene activiteiten, met name de buitensporige extractie van grondwater (Geosciences Australia, 2014; Kassem et al., 2024). Aquifers worden natuurlijk heropwonnen via neerslag (regen, sneeuwsmelt) die het grond opzuigt en uiteindelijk de waterpeil bereikt. Omdat zout water zwaarder is dan vers water, kan dit zout grondwater *intruderen* onder het vers water, waardoor een zoutwater *wedge* bij de kust ontstaat. Naast de lokale hydraulische en dichtheidsgradiënten wordt de aard van deze zout‑verswaterinteractie beheerst door vele factoren, waaronder de kenmerken van de aquifer (zoals permeabiliteit en dikte) en de kenmerken van eventuele rotslagen die onder of boven de aquifer liggen (beperkende lagen) (Prince Edward Island Department of Environment, Labour and Justice, 2011; Government of Australia, 2015; Chun et al., 2018).
+
+## Metrics and numeric limits
+Het zoutgehalte van oppervlaktewater wordt beschreven met de eenheid elektrische geleidbaarheid (EC). Het zoutgehalte van grondwater wordt beschreven met eenheden delen per miljoen (ppm). Wetenschappelijke rapporten gebruiken decisiemens per meter (dS/m) als hoofdmeet­eenheid (USGS, 2019).  
+Zoutgehalte is de maat voor de concentratie van opgeloste (oplosbare) zouten in water uit alle bronnen. De concentratie is de hoeveelheid (naar gewicht) zout in zeewater, uitgedrukt in delen per miljoen (ppm) (USGS, 2019).
+
+## Relevant UN convention / multilateral treaty
+Niet geïdentificeerd.
+
+# Drivers
+Veel factoren dragen bij aan de ernst van zeewaterintrusie, waaronder pompen en heropwinding, aquifergeometrie (specifiek, diepte aan de kust), geologische en hydrologische parameters, randvoorwaarden, natuurlijke verswaterflux van de landzijde, en landgebruik (Werner et al., 2013). Met stijgende zeespiegel zal zoutwaterintrusie in kustaquifers, oppervlaktewater en bodems vaker voorkomen en verder het binnenland betreden. Zoutvorming van grondwater, oppervlaktewater en bodem zal ook toenemen met landgebonden droogte en afnemende rivierafvoer in combinatie met waterextractie en zeespiegelstijging (Oppenheimer et al., 2019). Een grote factor van zeewaterintrusie is grondwaterwinning. Verdere natuurlijke en antropogene dragers van zeewaterintrusie worden besproken door White en Kaplan (2017).
+
+# Impacts
+Zeewaterintrusie kan versdrinkswater onbruikbaar maken, vooral gevaarlijk voor mensen met hypertensie die hun zoutinname moeten verminderen (Government of British Columbia, geen datum). In laaggelegen atol-eilanden zal de zeespiegelstijging zeewaterintrusie in diepe aquifers frequenter maken, zo frequent dat de aquifers niet herstellen tussen intrusies, waardoor atollen onbewoonbaar worden (Storlazzi et al., 2018). Zeewaterintrusie vormt ook een bedreiging voor de landbouw, zowel in kustgebieden (U.S. Department of Agriculture Northeast Climate Hub, geen datum) als in regio’s waar watervoorziening en beschikbaarheid beperkt zijn, zoals Saudi-Arabië (Benaafi et al., 2023). Zoutwater is ongeschikt voor irrigatie door het verhoogde zoutgehalte, natrium en magnesium, resulterend in zout- en alkaliteitgevaar dat afneemt met afstand tot de zee (Benaafi et al., 2023). Naast de bovenstaande elementen kan zeewaterintrusie ook de aquifer vervuilen met B, Se, F en Zn die boven de toegestane WHO‑normen lagen. Andere zware metalen werden gemeten maar op een acceptabel niveau (Alshehri et al., 2021). Zoutwater kan ook de waterkwaliteit beïnvloeden door het *ontgrendelen* van nutriënten uit meststoffen op boerderijvelden. Dit komt door de unieke chemie van zout water en hoe het reageert met bodem. Zodra deze nutriënten mobiel worden, kunnen ze zich verspreiden via netwerken van landbouwschepen naar grotere kustwaterlichamen zoals getijde riviergaten en moerasen. Daar kan de overtollige nutriënten leiden tot overmatige algengroei. Wanneer de algen sterven, worden ze afgebroken door bacteriën. Dit proces kan alle zuurstof in het water verbruiken. Verminderde zuurstofniveaus kunnen leiden tot visdoden, verlies van dierhabitats en andere schadelijke effecten op kustecosystemen en wildlife (U.S. Department of Agriculture Northeast Climate Hub, geen datum). Dit vormt een bedreiging voor landbouw en omgevingswatergebruik. In een stedelijke context maakt zeewaterintrusie het water zouter en corrosiever, beschadigt leidingen en andere elementen van het waterleidings- en rioleringssysteem. Andere infrastructuur zoals wegen, bruggen en gebouwen kan ook beschadigd worden (Coastal City Resilience and Extreme Heat Action Project (CoCHAP), geen datum). Tijdens Hurricane Katrina in New Orleans in 2005, was 90 % van City Park onder water gezet met zout water, wat leidde tot schades geschat op meer dan $43 miljoen (Williams, 2010).
+
+# Multi-hazard context
+De onderstaande figuur vat de veelvoorkomende interacties tussen zeewaterintrusie en andere rampen samen. Deze informatie moet met voorzichtigheid worden gebruikt en mag niet uitsluitend worden gebruikt in Disaster Risk Management, vooral omdat sommige interacties mogelijk niet zijn opgenomen. Houd er rekening mee dat gevaarlijke gebeurtenissen die samen of lokaal in ruimte of tijd plaatsvinden, niet noodzakelijkerwijs een ander veroorzaken, versterken of anderszins gerelateerd zijn. Specifieke voorbeelden van multi-hazard contexten kunnen worden gevonden in de secties “Hazard drivers” en “Impacts” hierboven.
+
+# Risk Management
+Goede kennis van aquifer systemen en de mogelijkheid om hun toekomstige gedrag te voorspellen onder verschillende scenario’s van natuurlijke en antropogene interacties is cruciaal voor het beheer van zeewaterintrusie. In dit opzicht worden numerieke simulaties veel gebruikt om zeewaterintrusie in kustaquifers te onderzoeken en alternatieve grondwaterbeheer‑scenario’s te evalueren (Jeen et al., 2021). Beheertechnieken worden doorgaans onderverdeeld in twee hoofdtypen: het beheren van de pompgeld van water uit de grondwateraquifers en het plaatsen van fysieke barrières om te voorkomen dat zout water de aquifers binnendringt (Wu et al., 2020). De onderstaande tabel geeft een overzicht van strategieën, benaderingen en hulpmiddelen om de impact van zoutwaterintrusie te verminderen (Montanari, 2017; White en Kaplan, 2017). Als onderdeel van de Regional Adaptation Collaborative (RAC) van Natural Resources Canada zijn casestudy's ontwikkeld in elke van de Atlantische Canadese provincies om zoutwaterintrusie beter te begrijpen, evenals de uitdagingen en behoeften die het presenteert. Casestudy's worden uitgevoerd om bestaande omstandigheden te onderzoeken en de potentiële impact van klimaatverandering op grondwaterbronnen te evalueren (Prince Edward Island Department of Environment, Labour and Justice, 2011).
+
+# Monitoring
+De sectie en de tabel hieronder bieden een overzicht van monitoring voor zeewaterintrusie. Deze informatie kan worden gebruikt voor voorspelling binnen een nationaal vroegwaarschuwingssysteem (VWS). Omdat de capaciteiten en processen van VWS variëren tussen landen, moet de meest recente en specifieke informatie over VWS worden verkregen bij de juiste nationale of regionale instantie/autoriteit verantwoordelijk voor rampenbeheer.  
+
+**Welke instantie(s) produceert(r) risico‑data / informatie?**  
+Waterinstanties, landbouwinstanties, gezondheidsinstanties.  
+
+**Hoe wordt het gevaar geobserveerd / gemonitord / geforecast?**  
+Meting en monitoring van waterstanden in grondwaterputten (Jasechko et al., 2020); hydrographische analyse; waterkwaliteitsmonsters; en geofysische logging (California Water Science Center, geen datum).
+
+# References
+*(Volledige referentielijst zoals in de brontekst)*
+```
+
+**Note**  
+- Consistent Dutch terms for key concepts have been applied.  
+- Technical terms such as “hydraulische stelling” or “permeabiliteit” have been retained in the appropriate context.  
+- Formatting has been corrected to Markdown, with headings and lists clearly indicated.

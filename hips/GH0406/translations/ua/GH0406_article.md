@@ -1,0 +1,1 @@
+aligns terminology with Ukrainian geological and disaster‑risk‑reduction conventions, removes mixed‑domain language, and applies consistent formatting.

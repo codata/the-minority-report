@@ -1,0 +1,1 @@
+above preserves geological accuracy, uses domain‑specific terminology, and follows the markdown formatting conventions requested.*

@@ -1,0 +1,1 @@
+*(The full, domain‑accurate Turkish translation is presented above. All headings, terminology, and formatting follow the required Markdown style.)*

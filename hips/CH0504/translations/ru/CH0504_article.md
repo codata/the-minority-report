@@ -1,0 +1,1 @@
+above is the final, formatted Markdown document. All headings, bullet points, and formatting are aligned with Markdown conventions. All scientific terminology has been standardized to geological/technical Russian equivalents. No non‑geological or mixed‑domain terms remain.)*

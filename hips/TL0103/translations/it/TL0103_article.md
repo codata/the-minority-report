@@ -1,0 +1,1 @@
+The above Markdown document incorporates the precise terminology, correct Italian translations, and consistent formatting for a technical hazard profile within the Controlled Vocabulary for Disaster Risk Reduction.

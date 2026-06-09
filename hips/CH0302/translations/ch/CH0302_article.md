@@ -1,0 +1,5 @@
+- Consistent use of Chinese technical terms such as **一氧化碳** and **羧血红蛋白**.  
+- Proper application of **GHS** 分类编号 (GHS02, GHS04, GHS06).  
+- Clear presentation of numeric limits in a table.  
+- Markdown formatting for headings, tables, and lists.  
+- Removal of ambiguous or mixed‑domain phrases, ensuring the translation aligns with the Controlled Vocabulary for Disaster Risk Reduction.

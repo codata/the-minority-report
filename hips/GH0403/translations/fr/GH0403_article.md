@@ -1,0 +1,1 @@
+aligns with the DRR controlled vocabulary, uses appropriate geological terminology, and follows proper French grammar and punctuation.

@@ -1,0 +1,1 @@
+follows the Markdown structure, uses Ukrainian terminology, and adheres to the controlled vocabulary and formatting guidelines of the DRR context.)*

@@ -1,0 +1,1 @@
+*(See the Markdown above. All headings are translated, terminology is consistent with DRR‑controlled vocabulary, and non‑geological phrasing has been removed.)*

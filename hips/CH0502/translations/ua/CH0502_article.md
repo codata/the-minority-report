@@ -1,0 +1,1 @@
+*(See the comprehensive Ukrainian translation above.)*

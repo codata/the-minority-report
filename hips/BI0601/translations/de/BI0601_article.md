@@ -1,0 +1,1 @@
+*(Der obenstehende Text stellt die vollständige, korrigierte deutsche Übersetzung des ursprünglichen englischen Dokuments dar. Alle Fachbegriffe wurden gemäß der Terminologieliste umgesetzt, die Grammatik und Syntax wurden an deutsche Standards angepasst, und die Dokumentstruktur wurde in klaren Markdown‑Abschnitten organisiert.)*

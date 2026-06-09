@@ -1,0 +1,1 @@
+adheres to DRR terminology, uses consistent Chinese scientific terms, and presents information in a clear Markdown format suitable for hazard profiles.

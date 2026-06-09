@@ -1,0 +1,63 @@
+```markdown
+### Definition
+Débordement de l’eau hors des limites naturelles d’un cours d’eau ou d’un autre corps d’eau (WMO, 2012).
+
+### Primary reference(s)
+WMO, 2012. Definition no. 543. Glossaire international de l’hydrologie. WMO‑No 385. World Meteorological Organization (WMO). Consulté le 15 mai 2025.
+
+### Annotations
+#### Description scientifique supplémentaire
+Alors que les inondations sont définies en hydrologie comme « une élévation, généralement brève, du niveau d’eau d’un cours d’eau ou d’un corps d’eau jusqu’à un pic à partir duquel le niveau d’eau recule à un rythme plus lent » (WMO, 2012), l’inondation représente le danger associé à ces pics chaque fois que l’eau déborde les limites naturelles du corps d’eau. L’inondation fluviale se produit sur une large gamme de systèmes de rivières et de bassins versants. Les inondations dans les vallées fluviales se produisent surtout sur les plaines inondables ou les terrains inondés, lorsque le débit dépasse la capacité des canaux fluviaux et s’écoule au-dessus des berges naturelles ou des digues artificielles (Fernandez, 2015).
+
+#### Metrics and numeric limits
+Non identifié.
+
+#### Key relevant UN convention / multilateral treaty
+Sendai Framework for Disaster Risk Reduction 2015‑2030.
+
+#### Drivers
+Les inondations fluviales résultent principalement d’un événement de précipitations prolongé qui se produit à, ou en amont de, la zone affectée. Elles peuvent également survenir lorsque les structures traditionnelles de contrôle des inondations, telles que les digues, sont débordées ou échouent (NOAA, no date).
+
+#### Impacts
+Alors que les impacts généraux des inondations ont déjà été mentionnés dans le chapeau, l’inondation fluviale est surtout associée à des impacts socio‑économiques (tels que la perturbation des activités, les pertes de biens et de moyens de subsistance) plutôt qu’à une mortalité directe (noyade, événements traumatiques). Les impacts sanitaires sont généralement plus à long terme, associés à la contamination des ressources en eau douce, aux maladies hydriques, etc. L’inondation d’aires utilisées pour des activités socio‑économiques produit une variété d’impacts négatifs. L’ampleur des impacts dépend de la vulnérabilité des activités et de la population ainsi que de la fréquence, de l’intensité et de l’étendue de l’inondation. Certains de ces facteurs incluent la perte de vies et de biens, la perte de moyens de subsistance, la baisse du pouvoir d’achat et de production, la migration de masse, les effets psychosociaux, l’entrave à la croissance économique et au développement, et les implications politiques (WMO, 2009).
+
+#### Control and monitoring measures of fluvial flood
+Les inondations constituent des composantes importantes du régime hydrologique naturel. Elles sont une source majeure d’eau ; elles éliminent les polluants et le sédiment des réseaux fluviaux. Il est naturel que les rivières débordent leurs berges et occupent leurs plaines inondables. En conséquence, l’inondation peut causer des dommages matériels et provoquer la mort et les blessures dans de nombreuses communautés. Bien qu’il n’y ait pas encore de preuve que la fréquence ou l’ampleur des inondations a augmenté à l’échelle mondiale, les zones à risque d’inondation deviennent de plus en plus densément peuplées et donc plus vulnérables. Par conséquent, une série de grands désastres liés aux inondations a eu lieu ces dernières années, avec mort et destruction causées par de tels événements sur chaque continent (GWP, 2013). Il existe besoin d’une approche de gestion des inondations qui améliore le fonctionnement du bassin versant dans son ensemble, reconnaissant que les inondations ont des impacts bénéfiques et ne peuvent jamais être totalement contrôlées. Une telle approche cherche à maximiser les bénéfices nets de l’utilisation des plaines inondables et à minimiser la perte de vies, subordinant la réduction des pertes d’inondation à l’objectif global de maximiser l’utilisation efficiente de la plaine inondable (APFM, 2020). La Gestion intégrée des inondations (GFI) est un processus qui favorise une approche intégrée, plutôt que fragmentée, de la gestion des inondations. Elle intègre le développement des ressources en eau et de l’eau dans un bassin versant, dans le cadre de la Gestion intégrée des ressources en eau, afin de maximiser l’utilisation efficiente des plaines inondables et de minimiser la perte de vies. GFI, comme la Gestion intégrée des ressources en eau, devrait encourager la participation des utilisateurs, des planificateurs et des décideurs à tous les niveaux. L’approche doit être ouverte, transparente, inclusive et communicative ; elle doit nécessiter la décentralisation de la prise de décision ; et elle doit inclure la consultation publique et l’implication des parties prenantes dans la planification et la mise en œuvre. GFI appelle à un changement de paradigme par rapport à l’approche fragmentée traditionnelle et encourage l’utilisation efficace des ressources du bassin versant, en employant des stratégies pour maintenir ou augmenter la productivité des plaines inondables, tout en fournissant des mesures de protection contre les pertes dues aux inondations (WMO, 2009).
+
+#### Health impacts of floods, including fluvial (riverine) floods
+Les inondations sont l’un des dangers les plus courants. Les effets des inondations sur la santé sont étendus et significatifs, allant de la mortalité et des blessures résultant de traumatismes et de noyades, aux maladies infectieuses et aux problèmes de santé mentale (acutis et à long terme). Alors que certains de ces résultats sont relativement faciles à suivre, établir l’impact humain des inondations reste difficile. Par exemple, il a été signalé que deux tiers des décès associés aux inondations proviennent de la noyade, le tiers restant provenant de traumatismes physiques, d’attaques cardiaques, d’électrocution, d’empoisonnement au monoxyde de carbone et d’incendie. Souvent, seules les morts traumatiques immédiates sont enregistrées (OMS, 2013). La morbidité associée aux inondations est généralement due à des blessures, des infections, des risques chimiques (voir HIPs chimiques) et des effets sur la santé mentale (acutis ainsi que retardés) (OMS, 2013). Il peut également y avoir un risque accru d’infections des voies respiratoires en raison de l’exposition (perte d’abri, exposition aux eaux d’inondation et à la pluie). Les coupures de courant liées aux inondations peuvent perturber les usines de traitement et d’approvisionnement en eau, augmentant ainsi le risque de maladies hydriques, ainsi que le bon fonctionnement des installations de santé, y compris la chaîne du froid (OMS, no date). Les inondations peuvent potentiellement augmenter la transmission des maladies transmissibles suivantes : maladies hydriques (telles que la fièvre typhoïde, le choléra, la leptospirose et l’hépatite A) et maladies vecteur‑transmissibles (telles que le paludisme, la dengue et la dengue hémorragique, la fièvre jaune et la fièvre du Nil occidental) (OMS, no date). Les effets sanitaires à long terme associés à une inondation sont moins facilement identifiés. Ils incluent des effets dus à la displacement, à la destruction des maisons, à la récupération retardée et aux pénuries d’eau (OMS, 2013).
+
+#### Multi-hazard context
+La figure ci‑dessous résume les interactions courantes entre l’inondation fluviale et d’autres dangers. Ces informations doivent être utilisées avec prudence et ne doivent pas être uniquement utilisées dans la gestion des risques d’incident, surtout lorsque certaines interactions n’ont pas été incluses. Notez que les événements dangereux se produisant simultanément ou localement dans l’espace ou le temps peuvent ne pas nécessairement causer, amplifier ou être autrement liés les uns aux autres. Des exemples spécifiques du contexte multi‑hazard peuvent être trouvés dans les sections « Drivers de danger » et « Impacts » ci‑dessus.
+
+#### Multi-hazard diagram
+**Risk Management**  
+*No Information Available*
+
+**Monitoring**  
+La section ci‑dessus et le tableau ci‑dessous offrent un aperçu de la surveillance de l’inondation fluviale. Ces informations peuvent être utilisées pour la prévision dans le cadre d’un Système d’Alerte Précoce des Phénomènes (SAPP). Étant donné que les capacités et les processus SAPP varient selon les pays, les informations les plus récentes et spécifiques concernant le SAPP doivent être obtenues auprès de l’agence ou de l’autorité nationale ou régionale appropriée responsable de la gestion des catastrophes.
+
+##### Which institution(s) produce(s) Disaster Risk Data/Information?
+- Les services météorologiques suivent les modèles de précipitations, les systèmes orageux et les conditions atmosphériques qui influencent l’inondation des rivières.
+- Les services hydrologiques surveillent les niveaux de rivières, le débit, l’humidité du sol et les conditions du bassin versant pour évaluer le potentiel d’inondation.
+- Les agences géophysiques étudient les caractéristiques du terrain, le transport sédimentaire et la subsidence terrestre qui impactent l’inondation des rivières.
+- Les agences nationales, sub‑nationales et locales de gestion des catastrophes responsables de la surveillance des risques d’inondation des rivières, de l’émission d’avertissements et de la coordination des réponses d’urgence.
+- Les autorités sanitaires évaluant les risques sanitaires liés aux maladies hydriques, à la contamination et aux besoins de réponse médicale d’urgence.
+- Les ingénieurs concevant les infrastructures de contrôle des inondations telles que les barrages, les digues, les ouvrages d’égouts et les systèmes de drainage pour atténuer l’inondation des rivières.
+- Les urbanistes et planificateurs d’usage du sol intégrant les évaluations des risques d’inondation des rivières dans les lois de zonage, la gestion des bassins versants et les stratégies de développement durable.
+- Les entreprises d’énergie et de services publics surveillant les risques d’inondation pour les centrales électriques, les installations de traitement de l’eau et les infrastructures critiques le long des rivières.
+- Les chercheurs et universitaires, y compris les hydrologues et les climatologues, étudiant les dynamiques du flux fluvial, les impacts du changement climatique et les modèles de prévision d’inondation.
+
+##### How is the Hazard Observed/Monitored/Forecast?
+Les inondations fluviales sont surveillées à l’aide de jauges fluviales, d’images satellitaires et de radars météorologiques pour suivre les niveaux d’eau, les précipitations et les conditions de débit en amont. Les hydrologues analysent les caractéristiques du bassin versant, l’humidité du sol et les tendances de précipitations pour prédire comment les rivières réagiront aux fortes pluies ou aux déblais de neige. Les modèles avancés d’inondation simulent le comportement des rivières, aidant les prévisionnistes à émettre des avertissements jours ou même des semaines à l’avance. En combinant des données en temps réel avec des tendances historiques, les experts fournissent des alertes précoce pour protéger les communautés, les infrastructures et les écosystèmes contre l’inondation fluviale.
+
+### References
+APFM, 2020. Concept APFM. Programme Associé sur la Gestion des Inondations (APFM). Consulté le 15 mai 2025.  
+Fernandez, J., 2015. Livrable 3 : Conception d’un Système d’Alerte Précoce (SAP) et de SOPs pouvant être testés dans quatre sous‑distrits de la région DARDC. Consulté le 15 mai 2025.  
+GWP, 2013. Rapport mensuel mai 2013. Global Water Partnership (GWP). Consulté le 15 mai 2025.  
+NOAA, no date. Comprendre l’inondation par eaux pluviales. National Oceanic and Atmospheric Administration (NOAA). Consulté le 15 mai 2025.  
+OMS, no date. Fiche d’information : Inondations et maladies transmissibles. Organisation mondiale de la santé (OMS). Consulté le 15 mai 2025.  
+OMS, 2013. Inondations dans la région européenne de l’OMS : Effets sanitaires et prévention. Organisation mondiale de la santé (OMS), Bureau régional pour l’Europe. Consulté le 15 mai 2025.  
+WMO, 2009. Gestion intégrée des inondations, note conceptuelle. WMO‑No 1047. World Meteorological Organization (WMO). Gestion intégrée des inondations. Consulté le 16 mai 2025.  
+WMO, 2012. Definition no. 543. Glossaire international de l’hydrologie. WMO‑No 385. World Meteorological Organization (WMO). Consulté le 15 mai 2025.
+```

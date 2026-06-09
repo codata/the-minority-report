@@ -1,0 +1,1 @@
+The corrected Dutch translation above incorporates consistent terminology, proper Dutch equivalents for technical terms, and a clear Markdown structure that aligns with the Controlled Vocabulary for Disaster Risk Reduction.

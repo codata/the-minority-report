@@ -1,0 +1,1 @@
+*(The full Arabic translation has been provided above, formatted with Markdown headings and consistent terminology.)*

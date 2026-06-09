@@ -1,0 +1,55 @@
+### Definition
+Soil degradation is defined as a change in soil health status resulting in a diminished capacity of the ecosystem to provide goods and services for its beneficiaries (FAO, 2020).
+
+### Primary reference(s)
+FAO, 2020. FAO Soils Portal Key definitions. Food and Agriculture Organization of the United Nations (FAO). Accessed 2 October 2024.
+
+### Additional scientific description
+Soil degradation is the reduction in soil health as a result of changes in physical, chemical and biological condition that affect the soil's capacity to function as a vital living system and to provide ecosystem services (adapted from Soil Monitoring Law). Degradation can result in the total loss of the soil body as well as a decline in biodiversity, organic matter, soil fertility and structural condition leading to increased risk of erosion or excessive flooding. Soil degradation can be a natural process or the result of inappropriate or unsustainable land‑management practices. Soil‑degradation processes include: water erosion (e.g., sheet, rill and gully erosion); wind erosion; increased salinity (includes dryland, irrigation and urban salinity as well as sea‑water incursions in coastal areas); the effects of pollutants; and structure decline (includes soil compaction and soil sealing). These processes can occur individually or together. The strong relationship between soil health and food security calls for strategic and immediate actions, especially at the local level, to reverse soil degradation in order to increase food production and alleviate food insecurity in the areas where it is most needed and in the context of climate change (FAO, 2015). In addition, healthy soils play a vital role in regulating both the Earth's climate and the water cycle. Soil degradation can affect the capacity of soils to store carbon, increase greenhouse‑gas emissions and reduce resilience to extreme weather events. Soil is an essential component of **land** and **ecosystems** that both are broader concepts encompassing vegetation, water and climate in the case of land, and in addition to those three aspects, also social and economic considerations in the case of ecosystems. Degraded soils have a health status such that they do not provide the normal goods and services of the particular soil in its ecosystem (FAO, 2020).
+
+### Metrics and numeric limits
+Soils with soil organic carbon (SOC) levels below the critical threshold of 10–15 g kg⁻¹ (1.0 %–1.5 %) are typically considered degraded (Lal, 2015). Land or soil degradation can be assessed using remote sensing. Satellite observations can provide proxies of land degradation such as severity, temporal development and areal extent (Olsson et al., 2022). Various indices have been used to assess land conditions such as the Normalized Difference Vegetation Index (NDVI), the Enhanced Vegetation Index (EVI), and the Plant Phenology Index (PPI) (see Olsson et al., 2022). The NDVI is used to assess the health and density of vegetation and is a widely accepted proxy for assessing soil degradation.
+
+### Key relevant UN convention / multilateral treaty
+- United Nations Convention to Combat Desertification (UNCCD), (UNCDD, 1994);
+- United Nations Convention for Biological Diversity;
+- United Nations Framework Convention on Climate Change.
+
+### Drivers
+Anthropogenic drivers of soil degradation include increasing consumer demand, urbanisation, industrialisation, and competition for land. These in turn result in a range of pressures such as intensive agriculture (imbalance fertilisation, over‑tillage), soil sealing, soil salinisation by irrigation, deforestation, wildfires and pollution. Air pollution can affect semi‑natural areas and urban soils, where the risk management is focused on waste streams or industrial emissions. Studies on antibiotics in the soil environment have revealed that antimicrobials affect soil microbiomes which in turn may affect their quality, driving soil degradation (Cycoń et al., 2019). Climate‑related drivers of land or soil degradation include short‑intensive rainstorms to gradual increases in temperature, precipitation and wind (Olsson et al., 2022). Climate change is amplifying soil degradation through increasing temperature, changing rainfall patterns and intensification of rainfall (Olsson et al., 2022).
+
+### Impacts
+Soil degradation can lead to increased soil erosion, loss of organic matter, nutrient depletion, accumulation of salts and harmful contaminants, and reduction in biodiversity (Soil Atlas, 2024). Around 30 % of the world's soils are moderately to highly degraded. Forty per cent of these degraded soils are located in Africa and most of the rest are in areas that are afflicted by poverty and food insecurity (Soil Atlas 2024). It is estimated that at least 60 % of the soils of the EU are affected by one or more degradational processes (EU Soil Observatory, 2024). Most future land degradation is predicted to occur in the areas with the largest amount of arable land remaining. If current trends continue, experts estimate that by 2050, more than 90 % of the Earth's land areas will be substantially degraded, 4 billion people will live in drylands, 50–700 million people will be forced to migrate, and global crop yields will be reduced by an average of 10 % and up to 50 % in some regions (Nachtergaele et al., 2012 cited by Little, 2019; IUCN, 2015; Gomiero, 2016; IPBES, 2018).
+
+### Multi‑hazard context
+The figure below summarises common interactions between soil degradation and other hazards. This information should be used with caution and not be solely relied upon in Disaster Risk Management, particularly as some interactions may not have been included. Note that hazardous events occurring together or locally in space or time may not necessarily cause, amplify or be otherwise related to each other. Specific examples of multi‑hazard context can be found in the “Hazard drivers” and “Impacts” sections above.
+
+### Risk Management
+For agricultural soils, risk management through agroecology is adopted, which starts by restoring soil life to re‑establish and/or enhance the multiple soil‑based biological processes (FAO, 2015). This requires:
+- **Increasing and monitoring soil organic matter**: Soil organic matter is considered the most common deficiency in degraded mineral soils and the main indicator for soil quality. Practical, accessible indicators can support local decisions and larger landscape monitoring and analyses for district‑level implementation.
+- **Facilitating and monitoring soil biodiversity**: Soil biological communities are directly responsible for multiple ecosystem functions.
+- **Building on local farmers’ knowledge**: Participatory scientific approaches to soil ecosystem management, such as Farmer Field Schools, are of great importance to inform farmers’ knowledge with researchers’ scientific principles in order to better locally adapt agroecological systems.
+- **Wholescale adoption of sustainable soil‑management practices**. Agroforestry systems can reduce soil erosion by as much as 100 times on steep slopes. Growing *Faidherbia albida* in association with millet (*Pennisetum glaucum*) increased grain yields by 50 % in Burkina Faso and Senegal. In Honduras the adoption of soil‑conservation practices tripled or quadrupled maize yields for 1 200 families (FAO, 2015). The FAO and its Global Soil Partnership launched a new program to boost soil productivity and reduce soil degradation for greater food and nutrition security in Africa. The recently adopted Africa Union Soil Initiative for Africa provides a long‑term framework to guide investments and efforts to improve the health and resilience of Africa's soil (FARA, 2020).
+
+### Monitoring
+The section and the table below offer an overview of monitoring soil degradation. This information can be used for forecasting within a national Early Warning System (EWS). Since EWS capacities and processes differ across countries, the most current and specific information regarding EWS should be obtained from the appropriate national or regional agency/authority responsible for disaster management.
+
+**Which institution(s) produce(s) Disaster Risk Data/Information?**  
+Land services; Soil and Water Conservation Agency; Environmental Agency; etc.  
+
+**How is the Hazard Observed/Monitored/Forecast?**  
+Measurement of land surface for soil erosion; sediment concentration of flow for soil erosion; soil analysis for soil salinity, etc.
+
+### References
+Cycoń M, Mrozik A, Piotrowska‑Seget Z., 2019. Antibiotics in the Soil Environment‑Degradation and Their Impact on Microbial Activity and Diversity. *Frontiers in Microbiology*. 2019 Mar 8;10:338. doi: 10.3389/fmicb.2019.00338. PMID: 30906284; PMCID: PMC6418018.  
+EU Soil Observatory, 2024. *EUSO Soil Degradation Dashboard*. European Commission. Accessed 2 October 2024.  
+Food and Agriculture Organization of the United Nations (FAO), 2015. *Agroecology to Reverse Soil Degradation and Achieve Food Security*. Food and Agricultural Organization of the United Nations (FAO). Accessed 2 October 2024.  
+Food and Agriculture Organization of the United Nations (FAO), 2020. *FAO Soils Portal: Soil Degradation*. Food and Agriculture Organization of the United Nations (FAO). Accessed 2 October 2024.  
+Forum for Agricultural Research in Africa (FARA), 2020. *Soil Initiative for Africa*. Forum for Agricultural Research in Africa. Accessed 2 October 2024.  
+Lal, 2015. Restoring Soil Quality to Mitigate Soil Degradation. *Sustainability*. 7(5):5875‑5895.  
+Olsson, L., Barbosa, H., Bhadwal, S., Cowie, A., Delusca, K., Flores‑Rentería, D., Hermans, K., Jobbagy, E., Kurz, W., Li, D. and Sonwa, D.J., 2022. Land degradation. In *Climate Change and Land: an IPCC special report on climate change, desertification, land degradation, sustainable land management, food security and greenhouse‑gas fluxes in terrestrial ecosystems*. Cambridge University Press (pp. 345‑436).  
+Heinrich‑Böll‑Stiftung and others, 2024. *Soil Atlas 2024, Facts and figures about a vital resource*. Accessed 1st May 2025.  
+United Nations Convention to Combat Desertification (UNCDD), 1994. About the Convention, UNCCD. Accessed 2 October 2024.  
+United Nations Environment Programme (UNEP), 2018. Managing soil pollution to achieve sustainable development. UNEP/EA.3/Res.6. UNEP. Accessed 2 October 2024.  
+
+*Cite this* [Copy citation]

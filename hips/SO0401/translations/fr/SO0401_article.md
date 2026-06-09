@@ -1,0 +1,61 @@
+### Definition  
+Un **choc financier** est un bouleversement inattendu provenant du **secteur financier** et ayant un effet significatif sur une économie (par ex. nationale, régionale ou mondiale). Le terme est largement employé pour désigner des événements ayant des impacts négatifs (BCE, 2013).
+
+### Primary reference(s)  
+BCE, 2013. *Chocs financiers et macroéconomie : hétérogénéité et non-linéarités*. Banque centrale européenne, Série de papiers occasionnels n° 143. Consulté le 20 mars 2025.
+
+### Annotations  
+#### Description scientifique supplémentaire  
+Le terme **« choc financier »** désigne généralement un événement perturbateur dans le système financier, se manifestant par une **réévaluation soudaine des actifs** (souvent accompagnée d’une détérioration sévère des conditions économiques). Les chocs financiers sont difficiles à prévoir mais tendent à être plus probables lorsque les emprunteurs sont vulnérables, notamment lorsqu’ils ont pris des risques excessifs par rapport à leur capacité de remboursement (par ex. entreprises très endettées disposant d’un bénéfice futur incertain et d’une faible liquidité) (Peersman, 2015).
+
+Les chocs financiers peuvent être déclenchés par différents facteurs internes et externes au système financier. Ils sont souvent amplifiés par des effets de rétroaction macro‑financiers défavorables, par exemple lorsqu’une détérioration des conditions économiques fragilise la solvabilité des institutions et des marchés financiers, entraînant des conditions financières plus strictes pour les entreprises et les ménages (Ong & Jobst, 2013). Un ralentissement économique significatif peut entraîner une augmentation des insolvabilités d’entreprise, un taux de chômage plus élevé et une contrainte des investissements publics. Ils peuvent évoluer en crises financières si une forte baisse des prix d’actifs conduit les consommateurs et les entreprises à faire défaut sur leurs prêts, et si les institutions financières deviennent incapables d’accéder à la liquidité – que ce soit en espèces ou en actifs facilement convertibles en liquidités (Moretti et al., 2020).
+
+Par exemple, l’effondrement du marché hypothécaire sub‑prime américain, avant la crise financière mondiale 2007‑2009, a été largement motivé par l’endettement excessif des emprunteurs, un marché immobilier surchauffé et un manque de transparence lorsque les banques ré-emballèrent et combinèrent des prêts hypothécaires en nouveaux instruments financiers, ce qui est désigné par le terme **« titrisation »** (Jobst, 2008). Les récentes crises monétaires et/ou de dette souveraine illustrent également que les déséquilibres externes insoutenables, tels qu’une détérioration du compte courant (qui reflète les activités économiques transfrontalières) et une hausse de l’emprunt en devises étrangères par les organisations publiques ou privées (si subitement levée), peuvent amplifier et/ou provoquer des fragilités dans le système financier. Parmi les exemples figurent les crises financières asiatiques de 1997 et la crise financière mondiale 2007‑2009 (Claessens et al., 2014).
+
+### Metrics and numeric limits  
+Les mesures liées aux chocs financiers se concentrent généralement sur les aspects de la stabilité financière, en raison de la difficulté inhérente à prévoir l’occurrence de chocs financiers (FMI, 2020a). Exemples de ces mesures :  
+
+- **Secteur financier** : indicateurs de solidité financière (solvabilité, liquidité, qualité des actifs) des banques et des institutions financières non bancaires (compagnies d’assurance, fonds d’investissement, autres gestionnaires d’actifs), risque de défaut (via les notations de crédit ou les spreads des swaps sur défaut de crédit).  
+- **Marchés financiers** : prix des actions, spreads des obligations d’entreprise (mesure du risque de défaut), liquidité/volatilité du marché, et prix des logements (indiquent bulles/crashs).  
+- **Autres secteurs** : mesures du risque financier d’entreprise (ex. dette d’entreprise), des ménages (ex. dette ménagère), et des gouvernements (ex. dette publique), ainsi que l’activité économique réelle (ex. croissance du PIB, taux d’intérêt, inflation) et les ratios externes (ex. balance des paiements, taux de change).
+
+### Key relevant UN convention / multilateral treaty  
+- Articles de l’accord du Fonds monétaire international (FMI, 2020b).  
+- Basel III : un cadre réglementaire mondial pour des banques et des systèmes bancaires plus résilients (BBC, 2020).
+
+### Drivers  
+Plusieurs dangers peuvent engendrer des chocs financiers.
+
+### Impacts  
+Les chocs financiers peuvent entraîner l’échec de la chaîne d’approvisionnement et des troubles civils.
+
+### Multi‑hazard context  
+La figure ci‑dessous résume les interactions courantes entre le choc financier et d’autres dangers. Cette information doit être utilisée avec prudence et ne doit pas être la seule base pour la gestion des risques de catastrophe, notamment parce que certaines interactions peuvent ne pas avoir été incluses. Notez que des événements dangereux se produisant simultanément ou localement dans l’espace ou le temps ne provoquent pas forcément, n’amplifient pas ou ne sont pas liés d’une manière ou d’une autre les uns aux autres. Des exemples spécifiques de contexte multi‑danger se trouvent dans les sections « Drivers des dangers » et « Impacts » ci‑dessus.
+
+### Risk Management  
+La santé et le fonctionnement du secteur financier d’un pays ont des implications à grande portée pour son économie et pour d’autres économies. Les régulateurs prudentiels et les superviseurs jouent un rôle central dans la protection de la capacité du système financier – ses intermédiaires, marchés et infrastructures – à fournir dépôt, crédit et autres services financiers aux ménages, aux entreprises et aux gouvernements (OCDE, 2010). Concevoir des politiques alignant les incitations privées sur l’intérêt public pour favoriser la discipline du marché et limiter la prise de risque excessive constitue un défi. Dans certains cas, une institution financière et/ou un marché peut être considéré « Too‑Big‑To‑Fail (TBTF) », car son insolvabilité et son échec pourraient provoquer des perturbations massives du fonctionnement du système financier, entraînant un resserrement significatif des conditions financières et une contraction de l’activité économique. Cette situation crée une attente qu’elle soit « bailée » par le gouvernement, via des mesures de soutien financier direct, en période de stress. Les filets de sécurité, tels que l’assurance des dépôts (garantissant aux déposants un accès à leur argent même si une banque échoue), jouent un rôle important comme amortisseurs de choc, contribuant à maintenir le fonctionnement du système financier en période de stress. Les systèmes d’avertissement précoce pour les chocs financiers aident les décideurs à réduire le risque de chutes rapides de confiance sur les marchés et de solvabilité institutionnelle qui peuvent conduire à des difficultés économiques généralisées, à la perte d’emplois et à une instabilité sociale. Ces systèmes fonctionnent grâce à une supervision en temps réel et à des évaluations périodiques. Au niveau national, les institutions financières réglementées sont soumises à une surveillance microprudentielle et macroprudentielle : la surveillance microprudentielle se concentre sur la sécurité et la solidité des institutions financières individuelles, telles que les banques, les compagnies d’assurance et les fonds d’investissement. Les superviseurs effectuent des inspections régulières sur site et hors site pour garantir que ces institutions sont bien gérées et disposent d’un capital suffisant pour absorber l’impact des chocs défavorables (ex. une récession).  
+La surveillance macroprudentielle élève ce concept de supervision financière à une perspective systémique, en se concentrant sur les vulnérabilités communes à l’ensemble ou à plusieurs institutions. Les mesures macroprudentielles pour atténuer le risque, telles que des exigences de capital supplémentaires, ne concernent pas une entreprise individuelle mais s’appliquent uniformément à toutes les institutions pertinentes. Les institutions internationales facilitent la coordination transfrontalière entre superviseurs et régulateurs par le biais d’accords sur des normes communes et de revues par les pairs (ex. BBC, CSF) tandis que d’autres se concentrent sur la surveillance multilatérale et l’engagement direct avec les pays, souvent via le renforcement des capacités et l’assistance technique (ex. FMI, Banque mondiale) (FMI, 2020a ; Banque mondiale, 2020). Au niveau international, ces activités incluent :  
+
+- Le **Programme d’évaluation du secteur financier (PFSE)** constitue une analyse complète et approfondie du secteur financier d’un pays. Les évaluations PFSE sont la responsabilité conjointe du FMI et de la Banque mondiale dans les « économies en développement et marchés émergents », et du FMI seul dans les « économies avancées » (FMI, 2019).  
+- L’**Exercice d’avertissement précoce (EAP)** est une évaluation semestrielle du FMI et du CSF des risques à faible probabilité, à fort impact – également connus sous le nom de « risques de queue » – pour l’économie mondiale. Il a été créé en 2008 lorsque le G20 a demandé aux deux institutions de travailler conjointement sur un exercice d’avertissement précoce afin d’aider les décideurs à identifier les risques de queue et les vulnérabilités susceptibles de conduire à de nouveaux chocs systémiques (FMI, 2023).
+
+### Monitoring  
+Les banques centrales, les institutions financières commerciales et les organisations internationales, telles que le FMI, le CSF et la BBC, surveillent et produisent des données sur le risque de chocs financiers. Cela implique une supervision et une surveillance spécifiques et systémiques des institutions financières, incluant des mesures telles que les prix des actifs, le déficit de crédit (ex. mesures de prêt excessif), et le déficit de production (ex. mesures de surchauffe ou de ralentissement économique) (Chen & Svirydzenka, 2021). Les systèmes d’avertissement précoce peuvent détecter les signaux d’un choc financier potentiel plusieurs mois, voire des années avant le début d’un choc financier, à partir d’informations agrégées (Chen & Svirydzenka, 2021). Ces informations sont ensuite partagées par le biais de rapports publics et de communications directes entre les institutions financières et les régulateurs.
+
+### References  
+
+- Banque des banques centrales, 2020. *Basel III : un cadre réglementaire mondial pour des banques et des systèmes bancaires plus résilients*. Consulté le 17 février 2025.  
+- Claessens, S., A. Kose, L. Laeven et F. Valencia, 2014. *Crises financières : causes, conséquences et réponses politiques*. FMI. Consulté le 17 février 2025.  
+- Chen, S. et K. Svirydzenka, 2021. *Cycles financiers – indicateurs d’avertissement précoce de crises bancaires ?* FMI, Travail Paper WP/21/116. Consulté le 6 février 2025.  
+- FMI, 2019. *Programme d’évaluation du secteur financier (PFSE)*, 3 juin 2019. FMI. Consulté le 17 février 2025.  
+- FMI, 2020a. *Articles de l’accord du Fonds monétaire international*. FMI. Consulté le 17 février 2025.  
+- FMI, 2020b. *Rapport sur la stabilité financière mondiale*. FMI. Consulté le 17 février 2025.  
+- FMI, 2023. *Exercice d’avertissement précoce du FMI‑CSF*. Consulté le 17 février 2025.  
+- Jobst, A.A., 2008. *Qu’est‑ce que la titrisation ?* Finance & Development, septembre 2008, FMI. Consulté le 17 février 2025.  
+- Moretti, M., M.C. Dobler et A.P. Chavarri, 2020. *Gestion des crises bancaires systémiques : nouvelles leçons et leçons reprises*. 11 février 2020, FMI. Consulté le 17 février 2025.  
+- OCDE, 2010. *Cadre politique pour une réglementation financière efficace et efficiente*. OCDE. Consulté le 17 février 2025.  
+- Ong, L.L. et A.A. Jobst, 2020. *Stress testing : principes, concepts et cadres*. FMI. Consulté le 17 février 2025.  
+- Peersman, G., 2015. *Quel est l’impact des chocs financiers sur l’économie ?* Consulté le 17 février 2025.  
+- Banque mondiale, 2020. *Rapport de développement financier mondial 2019/2020 : régulation et supervision bancaire une décennie après la crise financière mondiale*. Consulté le 17 février 2025.
+
+> Cite this [Copy citation]

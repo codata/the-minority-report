@@ -1,0 +1,1 @@
+adheres to geological terminology, maintains DRR‑specific context, and formats the content using Markdown headings and tables for clarity.

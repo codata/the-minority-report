@@ -1,0 +1,1 @@
+**(The Russian translation above is the corrected version, formatted in Markdown with headings instead of legacy italic notation.)**

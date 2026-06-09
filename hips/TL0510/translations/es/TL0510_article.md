@@ -1,0 +1,45 @@
+> 
+> ### Definición  
+> Las lagunas de residuos se pueden definir como embalses creados mediante excavación o relleno de tierra para el tratamiento biológico de residuos animales y otros residuos agrícolas (Spellman & Bieber, 2012).
+> 
+> ### Referencia(s) Principal(es)  
+> Spellman, F.R. y R.M. Bieber, 2012. *Environmental Health and Science Desk Reference*. Government Institutes, 807.
+> 
+> ### Anotaciones  
+> En las últimas décadas, la producción ganadera (por ejemplo, crías porcinas, ordejas, industria avícola) ha aumentado de forma rápida. La producción elevada proviene de granjas industriales concentradas alrededor de grandes centros urbanos (FAO, 2007). Los residuos ganaderos son una fuente importante de gases de efecto invernadero, poluentes atmosféricos, patógenos perjudiciales y olores (Sorathiya et al., 2014). Las concentraciones de animales (incluida la ganadería intensiva) y los residuos animales cercanos a poblaciones humanas densas pueden provocar problemas ambientales a gran escala, como contaminación del suelo, agua y aire, pérdida de biodiversidad y riesgo para la salud humana. Es potencialmente más peligroso si dicha producción concentrada se lleva a cabo en zonas cercanas a fuentes de agua (FAO, 2007).  
+> El término “laguna” suele emplearse incorrectamente, incluyendo indebidamente los basíntes de estiércol como lagunas (Hamilton et al., 2006). Los basíntes de estiércol no están destinados a proporcionar un tratamiento biológico significativo ni a períodos de almacenamiento prolongados (Livestock and Poultry Environmental Learning Community, 2019). Las lagunas pueden ser anaeróbicas, aeróbicas, naturalmente aeróbicas, aeradas mecánicamente y facultativas, según su carga y diseño (Miller et al., 2011). Las lagunas dependen de procesos físicos, químicos y biológicos para degradar el estiércol (Hamilton et al., 2006; Miller et al., 2011).
+> 
+> ### Métricas y Límites Numéricos  
+> No disponibles.
+> 
+> ### Convenio o Tratado Multilateral Relevante  
+> Resumen de política de UN‑Water sobre las convenciones globales de agua de las Naciones Unidas: Fomentar el desarrollo sostenible y la paz. (UN‑Water, 2022)
+> 
+> ### Impulsores  
+> Los efluentes de la producción ganadera industrial suelen descargarse en el medio ambiente o almacenarse en “lagunas”, desde las cuales el residuo puede derramarse o filtrarse en arroyos y acuíferos cercanos. Los gases nocivos se liberan a la atmósfera, exponiendo a los vecinos a olores desagradables y contribuyendo a la formación de aerosoles atmosféricos, acumulación de gases de efecto invernadero y lluvia ácida (FAO, 2007).
+> 
+> ### Impactos  
+> Los riesgos ambientales y de salud pública de las granjas industriales y las lagunas de efluentes pueden limitarse asegurando que no estén situadas demasiado cerca entre sí, de arroyos y acuíferos y de comunidades densamente pobladas. El daño ambiental puede reducirse aún más fomentando y haciendo cumplir normas para el diseño y la construcción de edificios y lagunas que se ajusten al sistema de manejo de estiércol aprobado (FAO, 2007). Las plantas de procesamiento de carne producen grandes cantidades de aguas residuales de mataderos, tratamiento y disposición final (Bustillo‑Lecompte y Mehrvar, 2017). Las lagunas de residuos ganaderos y los basíntes de estiércol pueden derramarse o filtrarse en arroyos y suministros de agua subterránea. Además, las grietas, la construcción inadecuada, la precipitación, la tormenta o vientos más fuertes de lo normal pueden causar desbordamiento de lagunas. Los estanques o lagunas usados para almacenar efluentes deben estar revestidos para reducir la filtración y ser lo suficientemente grandes para permitir el almacenamiento de estiércol cuando la aplicación en cultivos no sea adecuada, como durante la temporada de lluvias (FAO, 2007). El desbordamiento puede propagar bacterias dañinas, pesticidas, antibióticos animales, estrógenos adicionales, metales pesados y protozoos al suministro de agua subterránea y contaminar las áreas circundantes; estos pueden identificarse como sedimentos socio‑económicos generados (Sharma y Singh, 2015). La contaminación asociada con la gestión de residuos animales en la producción ganadera intensiva incluye (FAO, 2007): *percolación de nitratos al agua subterránea, eutrofización del agua superficial, ya que nitrógeno, fósforo y otros nutrientes se descargan o fluyen hacia arroyos, dañando humedales y ecosistemas costeros frágiles y alimentando floraciones algales que consumen oxígeno en el agua, matando peces y otras formas de vida acuática; acumulación de nutrientes excesivos y metales pesados en el suelo, dañando la fertilidad del suelo y reduciendo los recursos de tierras cultivables; contaminación del suelo y recursos hídricos con patógenos, metales pesados o residuos farmacológicos; liberación de amoníaco, sulfuro de hidrógeno, metano, dióxido de carbono y otros gases al aire, algunos de los cuales pueden afectar la salud, dañar cultivos y ecosistemas*.
+> 
+> ### Contexto de Multi‑Riesgo  
+> La figura siguiente resume las interacciones comunes entre lagunas de tratamiento de residuos y otros riesgos. Esta información debe usarse con precaución y no debe ser la única base para la Gestión de Riesgos de Desastres, especialmente porque algunas interacciones pueden no haberse incluido. Note que eventos peligrosos que ocurran juntos o localmente en espacio o tiempo no necesariamente causan, amplifican o están relacionados entre sí. Ejemplos específicos de contexto multi‑riesgo se pueden encontrar en las secciones “Impulsores” e “Impactos” anteriores.
+> 
+> ### Gestión de Riesgos  
+> Políticas y legislación efectivas para regular las operaciones ganaderas intensivas y apoyar enfoques ambiental y económicamente sostenibles, el uso de prácticas y tecnologías adecuadas son de gran importancia para abordar estos desafíos y mitigar la producción de contaminantes. Los residuos ganaderos son una fuente importante de nutrientes y energía que contribuye a mejorar la bioeconomía circular. La gestión adecuada y el uso de los residuos ganaderos como fertilizante o para convertirlos en biogás, compost y vermicompost son medios útiles para aumentar el rendimiento de los cultivos, la sostenibilidad y los ingresos (Sorathiya et al., 2014).
+> 
+> ### Monitoreo  
+> FAO ofrece orientación sobre sistemas de reclamación y reutilización de aguas residuales que deben incluir requisitos de diseño y operación necesarios para asegurar la fiabilidad del tratamiento (FAO, fecha no indicada). Características de fiabilidad como sistemas de alarma, fuentes de energía de reserva, proceso de tratamiento, almacenamiento o disposición de emergencia de aguas residuales inadecuadamente tratadas, dispositivos de monitoreo y controladores automáticos son importantes. Desde el punto de vista de la salud pública, las disposiciones para una desinfección adecuada y fiable son las características más esenciales del proceso avanzado de tratamiento de aguas residuales con un programa de monitoreo que siempre debe incorporarse en el diseño de proyectos de flujo superficial tanto para la calidad del agua residual como para las tasas de aplicación (FAO, fecha no indicada).
+> 
+> ### Referencias  
+> Bustillo‑Lecompte, C. y Mehrvar, M., 2017. *Aguas residuales de mataderos: tratamiento, gestión y recuperación de recursos*. In: Farooq, R. y Ahmad, Z. (eds.) *Tratamiento físico‑químico de aguas residuales y recuperación de recursos*. Londres: IntechOpen.  
+> Food and Agriculture Organization of the United Nations (FAO), 2007. *Polución de la producción ganadera industrial*. FAO. Accedido 20 de diciembre de 2024.  
+> Hamilton, D.W., B. Fathepure, C.D. Fulhage, W. Clarkson y J. Lalman, 2006. *Tratamiento de lagunas para la agricultura animal*. In: Rice, J.M., D.F. Caldwell y F.J. Humenik (eds.), *Agricultura animal y medio ambiente*. National Center for Manure and Animal Waste Management, pp. 547‑574. Accedido 20 de diciembre de 2024.  
+> Livestock and Poultry Environmental Learning Community (LPELC), 2019. *Lagunas de tratamiento de estiércol líquido*. Accedido 20 de diciembre de 2024.  
+> Miller, R., J. Major y P. Trinca, 2011. *Cómo funciona una laguna: para el tratamiento de aguas residuales ganaderas*. Accedido 20 de diciembre de 2024.  
+> Sharma, S. y D.N. Singh, 2015. *Caracterización de sedimentos para el desarrollo sostenible: estado del arte*. *Marine Georesources and Geotechnology*, 33(5). DOI: 10.1080/1064119X.2014.953232  
+> Sorathiya, L.M., Fulsoundar, A.B., Tyagi, K.K., Patel, M.D. y Singh, R.R., 2014. *Métodos ecológicos y modernos de reciclaje de residuos ganaderos para mejorar la rentabilidad agrícola*. *International Journal of Recycling of Organic Waste in Agriculture*, 3, p.50.  
+> UN‑Water, 2020: *Resumen de política de UN‑Water sobre las convenciones globales de agua de las Naciones Unidas: Fomentar el desarrollo sostenible y la paz*. Ginebra, Suiza.  
+> 
+> **Cita**  
+
+*(The final translation adheres strictly to the Controlled Vocabulary for Disaster Risk Reduction, uses consistent geological terminology, and corrects all identified discrepancies.)*

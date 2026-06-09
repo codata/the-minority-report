@@ -1,0 +1,51 @@
+### Definition  
+Mensgemaakte reservoirs, ook wel kunstmatige meren genoemd, vormen belangrijke watervoedingsbronnen in vele landen wereldwijd. In tegenstelling tot natuurlijke meervorming zijn reservoirs kunstmatig, meestal gevormd door het bouwen van een dam over een rivier of door een deel van de rivierstroom af te leiden en het water op te slaan in een reservoir. Reservoiroverstroming ontstaat wanneer er een oncontroleerde waterafvoer plaatsvindt als een dam of reservoir faalt (geïnspireerd door UNEP, 2000 en Defra en EA, 2014).
+
+### Primary reference(s)  
+Defra en EA 2014. *Reservoirs: owner and operator requirements*. Department for Environment, Food & Rural Affairs (Defra) en Environment Agency (EA). Toegang 19 mei 2025.  
+UNEP 2000. *Planning and management of lakes and reservoirs: an integrated approach to eutrophication: a student’s guide*. UNEP International Environmental Technology Centre, United Nations Environment Programme. Toegang 19 mei 2025.
+
+### Annotations  
+
+#### Additional scientific description  
+Reservoirbeheer is een effectief middel voor watervoorziening, hydro‑elektriciteitsproductie, overstromingsbeheersing en milieuvriendelijke verbetering. Dams zijn ontworpen om veilig overstromingswater door te laten; wanneer de ontwerpcapaciteit van de damsluizen wordt overschreden, ontstaat een oncontroleerde waterafvoer boven de damtop, met een hoog risico op falen. Overstroming boven de damtop kan de structurele integriteit van de dam ondermijnen, bijvoorbeeld door erosie of cavitatie, wat snel kan escaleren tot volledige damfalen (US Department of the Interior Bureau of Reclamation, 2014). De meeste damfalen of incidenten gebeuren bij kleine en middelgrote reservoirs, voornamelijk door onvoldoende overstromingscontrole‑normen en slecht beheer. Dit benadrukt het belang van maatregelen om de overstromingspreventiekapaciteit van deze reservoirs te vergroten (Hou et al., 2024).
+
+#### Metrics and numeric limits  
+Globale metrics zijn niet geïdentificeerd. Als voorbeeld: in Engeland zijn 1,1 miljoen eigendommen in het risico van overstroming door structureel falen van grote, verhoogde reservoirs en hun bijbehorende dams (Defra, 2027).
+
+#### Key relevant UN convention / multilateral treaty  
+UN Convention on the Law of the Non‑Navigational Uses of International Watercourses (UN Convention), aangenomen in 1997 (UNGA, 1997).
+
+#### Drivers  
+Zware regenval en toegenomen ijsgroei leiden tot een verhoogde toevoer van water in het reservoir. Naarmate klimaatverandering leidt tot toenemende neerslag, kunnen grotere overstromingspieken ontstaan, waardoor het risico op overtopping toeneemt (Qiu et al., 2021).
+
+#### Impacts  
+Het meest significante risico van reservoiroverstroming is damfalen, dat kan leiden tot massale overstromingen in achterwaartse gebieden. In augustus 2018 veroorzaakten zware regenval het damfalen van het Sheyuegou‑reservoir in Xinjiang, China, met 20 doden en 8 vermiste personen (Ge et al., 2022). Reservoiroverstroming kan economische verliezen, sociale en milieu‑impact, verlies van culturele bronnen en verlies van mensenlevens veroorzaken. De gevolgen van overstromingen zijn afhankelijk van de blootgestelde bevolking en activa achterwaarts, waarschuwingsperiodes, ernst van de overstroming en begrip van de overstroming (U.S. Department of the Interior Bureau of Reclamation, 2014). De effecten van overstromingen op de gezondheid zijn uitgebreid en significant, variërend van mortaliteit en verwondingen door trauma en verdrinking tot infectieziekten en psychische gezondheidsproblemen (acuut en op lange termijn). Terwijl sommige van deze uitkomsten relatief gemakkelijk te volgen zijn, blijft het begrip van de menselijke impact van overstromingen beperkt. Bijvoorbeeld, er is gemeld dat twee‑drieën der doden gerelateerd aan overstromingen door verdrinking zijn, de andere derde door fysieke trauma, hartaanvallen, elektrocutie, koolmonoxidevergiftiging en brand. Vaak worden alleen onmiddellijke traumatische overstromingdoden geregistreerd (WHO, 2013; Wu et al., 2024). Morbiditeit gerelateerd aan overstromingen wordt meestal veroorzaakt door verwondingen, infecties, chemische gevaren en psychische gezondheids‑effecten (acuut alsook vertraagd) (WHO, 2013). Hypothermie kan ook een probleem zijn, met name bij kinderen, als ze lange tijd vastzitten in overstromingswater (WHO, 2021). Er kan ook een verhoogd risico op luchtweginfecties zijn door blootstelling (verlies van onderdak, blootstelling aan overstromingswater en regen). Elektriciteitsonderbrekingen gerelateerd aan overstromingen kunnen de behandeling en levering van waterverwerkings- en bevoorradingsinstallaties verstoren, waardoor het risico op water‑gedragen ziekten toeneemt en de correcte werking van gezondheidsfaciliteiten, inclusief de koude keten, kan worden beïnvloed (WHO, 2021). Overstromingen kunnen potentieel de overdracht van overdrijvende ziekten verhogen, waaronder water‑gedragen ziekten (zoals tyfus, cholera, leptospirose en hepatitis A) en vector‑gedragen ziekten (zoals malaria, dengue, dengue hemorragische koorts, gele koorts en West‑Nijlkoorts) (WHO, 2021). De langetermijneffecten op de gezondheid in verband met een overstroming zijn minder gemakkelijk te identificeren. Ze omvatten effecten door verdrijving, vernietiging van huizen, vertraagd herstel en watertekorten (WHO, 2013).
+
+#### Multi-hazard context  
+De onderstaande afbeelding vat de gebruikelijke interacties tussen reservoiroverstromingen en andere gevaren samen. Deze informatie moet met voorzichtigheid worden gebruikt en mag niet uitsluitend worden geraadpleegd in het disaster risk management, vooral aangezien sommige interacties mogelijk niet zijn opgenomen. Merk op dat gevaarlijke gebeurtenissen die samen of lokaal in ruimte of tijd plaatsvinden, niet noodzakelijk een oorzaak, versterking of ander verband hebben. Specifieke voorbeelden van multi‑hazard context kunnen worden gevonden in de secties ‘Hazard drivers’ en ‘Impacts’ hierboven.
+
+#### Multi‑hazard diagram  
+
+### Risk Management  
+Bij een goed onderhouden reservoir is de kans op falen en het veroorzaken van overstromingen laag. Echter, in het zeer onwaarschijnlijke geval van een damcollaps kan een groot volume water vrijgegeven worden, waardoor een groot gebied snel overspoeld wordt en mogelijk aanzienlijke eigendoms‑schade of verlies van mensenlevens veroorzaakt. In Engeland zijn 1,1 miljoen eigendommen in het risico van overstroming door structureel falen van grote, verhoogde reservoirs en hun bijbehorende dams. De gemiddelde leeftijd van deze structuren is 120 jaar, en de kans op catastrofale falen kan naar verwachting toenemen met de leeftijd. Een belangrijke factor in het voorkomen en minimaliseren van de impact van zo’n catastrofale falen is het vermogen om een reservoir af te slanken in geval van een noodgeval. Dit vermindert de belasting op de damstructuur, verlaagt de kans op falen en, in het ergste geval, minimaliseert de impact achterwaarts bij falen. Reservoirafslank is ook belangrijk om inspectie en onderhoud van de structuren die het reservoir vasthouden toe te staan (Defra, 2017). De optimale werking van reservoiroverstromingsbeheersing omvat diverse beperkingen zoals upstream en downstream overstromingsbeheersing, damveiligheid en irrigatiebehoeften (Dai & She, 2023). De timing en precisie van beslissingen over het openen van de reservoirdeuren zijn cruciaal. Elke vertraging kan leiden tot damschade door overtollig water, wat flash‑floods in nabijgelegen gebieden kan veroorzaken (Doi et al., 2020).
+
+#### Monitoring  
+De sectie en de tabel hieronder bieden een overzicht van het monitoren van reservoiroverstromingen. Deze informatie kan worden gebruikt voor het voorspellen binnen een nationaal vroegwaarschuwingssysteem (EWS). Aangezien EWS‑capaciteiten en -processen verschillen per land, moet de meest actuele en specifieke informatie over EWS worden verkregen van de geschikte nationale of regionale instantie/autoriteit verantwoordelijk voor rampenbeheer.  
+**Welke instantie(s) produceert(r) rampenrisicodata/informatie?** Waterbeheerinstanties, elektriciteitsproducenten.  
+**Hoe wordt het gevaar geobserveerd/gedetecteerd/voorspeld?** Waterpeilen monitoren het waterniveau in het reservoir. Sensoren monitoren trillingen, scheuren en andere structurele anomalieën.
+
+### References  
+
+- Dai, S., & She, Q. (2023). *Construction of multi‑objective reservoir flood control operation preference model*. Desalination and Water Treatment, 299, 259‑268. Toegang 26 januari 2025.  
+- Defra en EA (2017). *Guide to drawdown capacity for reservoir safety and emergency planning* (SC130001, Volume 1 – main guide).  
+- Defra en EA (2014). *Reservoirs: owner and operator requirements*.  
+- Doi, S. M. C., Norwawi, N. M., & Ismail, R. (2020). *An Early Warning System for Reservoir Water Release Operation Using Agent‑Based Negative Selection Model*. Journal of Physics: Conference Series, 1551, 012009.  
+- Ge, W., Jiao, Y., Wu, M., Li, Z., Wang, T., Li, W., Zhang, Y., Gao, W., & van Gelder, P. (2022). *Estimating loss of life caused by dam breaches based on the simulation of floods routing and evacuation potential of population at risk*. Journal of Hydrology, 612, 11.  
+- Hou, W., Zhang, S., Yin, J., & Huang, J. (2024). *Research on Challenges and Strategies for Reservoir Flood Risk Prevention and Control Under Extreme Climate Condition*. Water, 16(23), 3351.  
+- Qiu, H., Chen, L., Zhou, J., He, Z., & Zhang, H. (2021). *Risk analysis of water supply‑hydropower generation‑environment nexus in the cascade reservoir operation*. Journal of Cleaner Production, 283, 12439.  
+- United Nations General Assembly (UNGA) (1997). *Convention on the Law of the Non‑Navigational Uses of International Watercourses*.  
+- US Department of the Interior Bureau of Reclamation (2014). *RCEM – Reclamation Consequence Estimating Methodology*.  
+- World Health Organization (WHO) (2013). *Floods in the WHO European Region: Health effects and their prevention*.  
+- World Health Organization (WHO) (2021). *Flooding and Communicable Diseases Fact Sheet*.  
+- Wu, Y., Wen, B., Gasevic, D., Patz, J. A., Haines, A., Ebi, K. L., Murray, V., Li, S., & Guo, Y. (2024). *Climate Change, Floods, and Human Health*. New England Journal of Medicine, 391(20), 1949‑1958.

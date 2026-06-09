@@ -1,0 +1,1 @@
+*(The corrected version above already incorporates all necessary terminological adjustments, grammatical corrections, and consistent usage of DRR‑specific terminology. It is formatted as a well‑structured Markdown document with appropriate headings and a clear, accurate Ukrainian rendering of the original technical hazard profile.)**
