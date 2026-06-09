@@ -435,7 +435,11 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
     translations_json_objects = []
     data_dir = os.path.dirname(file_path) if file_path else "."
     translations_dir = os.path.join(data_dir, "translations")
-    if not os.path.isdir(translations_dir):
+    alt_translations_dir = os.path.join(os.path.dirname(data_dir), "translations")
+    
+    if os.path.isdir(alt_translations_dir):
+        translations_dir = alt_translations_dir
+    elif not os.path.isdir(translations_dir):
         central_trans = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "data", "translations"))
         if os.path.isdir(central_trans):
             translations_dir = central_trans
@@ -471,10 +475,12 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
             lang_dir = os.path.join(translations_dir, lang)
             if os.path.isdir(lang_dir):
                 for trans_file in os.listdir(lang_dir):
-                    if trans_file.startswith(hips_code + "_") and trans_file.endswith(".txt"):
+                    if trans_file.startswith(hips_code + "_") and trans_file.endswith((".txt", ".md")):
                         trans_path = os.path.join(lang_dir, trans_file)
                         trans_name = os.path.basename(trans_path)
                         field_name = trans_file[len(hips_code)+1:-4]  # e.g., 'summary'
+                        if trans_file.endswith(".md"):
+                            field_name = trans_file[len(hips_code)+1:-3]
                         
                         trans_url = trans_path
                         if rel_base:
@@ -494,7 +500,7 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
                             "@id": f"translation_{lang}_{field_name}",
                             "name": trans_name,
                             "contentUrl": trans_url,
-                            "encodingFormat": "text/plain",
+                            "encodingFormat": "text/markdown" if trans_file.endswith(".md") else "text/plain",
                             "sha256": compute_sha256(trans_path),
                             "inLanguage": lang,
                             "dateModified": iso_date,

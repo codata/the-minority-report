@@ -458,6 +458,13 @@ def _query_model_longtext(text, language, model, longtext_prompt_template):
     prompt = prompt.replace("{{text}}", text)
     
     response_str = mock_llm_call(prompt, model=model).strip()
+    
+    # Extract the final corrected translation if the heading is present
+    import re
+    parts = re.split(r'(?i)\*?\*?(?:4\.\s*)?Corrected Translation:?\*?\*?', response_str)
+    if len(parts) > 1:
+        response_str = parts[-1].strip()
+        
     return response_str
 
         
@@ -536,9 +543,12 @@ def process_terms(rows, languages, models, voter_prompt_template, arbitrator_pro
                             field_text = parsed_data.get(field, parsed_data.get(f"{field}_text"))
                             if field_text and len(field_text.strip()) > 0:
                                 for lang in languages:
-                                    lang_dir = os.path.join(output_dir, "translations", lang)
+                                    hips_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "..", "hips", code)
+                                    lang_dir = os.path.join(hips_dir, "translations", lang)
                                     os.makedirs(lang_dir, exist_ok=True)
-                                    out_file = os.path.join(lang_dir, f"{code}_{field}.txt")
+                                    # For short fields or if it's text, we can just save it as text.
+                                    # We use .md for all fields to support markdown formatting.
+                                    out_file = os.path.join(lang_dir, f"{code}_{field}.md")
                                     if os.path.exists(out_file):
                                         print(f"    [{lang}] {field} already exists at {out_file}. Skipping.")
                                         continue
