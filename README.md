@@ -12,6 +12,8 @@ An agentic pipeline for generating high-quality multilingual technical translati
 - **Web Scraping**: Built-in support for extracting terms and definitions from sites like PreventionWeb.
 - **Formal Provenance**: Every translation is linked to its source model in both CSV and Croissant metadata.
 - **Arbitration Logic**: Automatically resolves disagreements between models by triggering a voting round.
+- **Metrics Extraction**: Dynamically extracts quantifiable variables, indicators, and risk drivers from translated technical text using Chain-of-Thought prompting.
+- **Semantic Croissant Catalog**: Automatically discovers and indexes all multi-lingual datasets, markdown articles, and metrics JSON objects into a single JSON-LD file.
 - **Batch Processing**: Scrape entire indexes of terms and generate metadata in bulk.
 - **Dockerized**: Easy deployment and execution without local environment headaches.
 
@@ -79,6 +81,18 @@ pip install -r requirements.txt
    Generate rich JSON-LD metadata for the entire dataset, enriching it with the HIPS codes and Source URLs from the index cache.
    ```bash
    docker-compose run python3 translation-skill/scripts/batch_croissant.py --input-file data/final_translations.csv --index-file data/index_cache.json --output-dir output/
+   ```
+
+6. **Extract Semantic Metrics**:
+   Extract variables, indicators, and risk drivers from translated markdown files and store them in the CDIF directory structure. You can pass the `--language` flag to explicitly enforce the target language.
+   ```bash
+   python3 translation-skill/scripts/extract_metrics.py --hips-code GH0310 --language ru
+   ```
+
+7. **Generate Semantic Croissant**:
+   Generates a central catalog (`semantic_croissant.json`) that recursively links all translated datasets, `.md` files, and `_metrics.json` records, providing explicit search directives for consumer agents.
+   ```bash
+   python3 translation-skill/scripts/generate_central_croissant.py
    ```
 
 ### 🐍 Using Python Directly
