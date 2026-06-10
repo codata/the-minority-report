@@ -1,0 +1,1 @@
+resolves all terminology mismatches, removes residual English headings, standardises capitalization, and ensures consistency with Norwegian scientific conventions while preserving the technical detail required by the Controlled Vocabulary for Disaster Risk Reduction.

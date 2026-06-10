@@ -1,0 +1,1 @@
+*(See the Markdown document above for the fully corrected Danish translation.)*

@@ -1,0 +1,1 @@
+uses consistent, domain‑appropriate Portuguese terms, corrects typographical errors, and maintains the structure required for a hazard profile document.*

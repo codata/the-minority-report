@@ -1,0 +1,1 @@
+above reflects consistent terminology, proper Croatian scientific expressions, and standardized Markdown formatting, ensuring the text is suitable for a technical hazard profile document within the DRR context.

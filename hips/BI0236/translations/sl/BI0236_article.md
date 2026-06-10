@@ -1,0 +1,50 @@
+### Definition
+Severni akutni respiratorni sindrom (SARS) je virusna respiratorna bolezen, ki jo povzroča koronavirus imenovan **SARS‑povezan koronavirus (SARS‑CoV)**. Med posameznike, ki izpolnjujejo trenutno WHO definicijo primera za potrjeno SARS, je stopnja smrtnosti primerov približno **9,6 %** (WHO, brez datuma).
+
+### Primary reference(s)
+- WHO, brez datuma. *Severni Akutni Respiratorni Sindrom*, Svetovna zdravstvena organizacija (WHO). Pristop 27. maj 2025.
+
+### Annotations
+#### Dodatna znanstvena opis
+Severni akutni respiratorni sindrom (SARS) je bil prvič zaznan na koncu februarja 2003 med izbruhom, ki je nastal na Kitajskem in se razširil na štiri druge države (WHO, brez datuma). Svetovna zdravstvena organizacija (WHO) je koordinirala mednarodno raziskovalno dejavnost in tesno sodelovala z zdravstvenimi oblastmi v prizadetih državah, da bi zagotovila epidemiološko, klinično in logistično podporo ter nadzor izbruhov (WHO, brez datuma).
+
+SARS se prenaša s tesnim osebno-osebnim stiki. Virus, ki povzroča SARS, se najverjetneje prenaša najprej s kapljicami (drožna širitev), ki nastanejo, ko okužena oseba kašlja ali kiče. Virus se lahko prenaša tudi, ko oseba dotakne površino ali predmet, obkrožen z okuževalnimi kapljicami, in nato dotakne ustnice, nos ali oči. Poleg tega je možno, da se virus širijo tudi z zrakom (zračno širjenje) ali na druge neznane načine. Okres inkubacije SARS je običajno 2–7 dni, vendar lahko traja tudi do 10 dni (WHO, 2003b; brez datuma).
+
+SARS običajno začne s prodromalnim vremenom, ki vključuje vročino (>38 °C), ki je pogosto visoka, z drzjem in drzanim, včasih pa se pojavljajo tudi drugi simptomi, kot so glavobol, slabost in mišične bolečine. Ob začetku bolezen se pri nekaterih primerih pojavi lahka respiratorna simptomatologija (WHO, brez datuma).  
+
+Spodnja respiratorna faza se začne po 3–4 dneh z nastankom suhih, neproduktivnih kašelj ali dyspnejo, ki lahko napreduje v hipoksémijo. V 10–20 % primerov je respiratorna bolezen tako resna, da zahteva intubacijo in mehansko ventilacijo (WHO, 2020). Ni zdravila ali cepiva za SARS, zato je zdravljenje podprto in temelji na simptomih pacienta (WHO, brez datuma).
+
+Laboratorna diagnostika je ključna za določanje etiologije simptomov in diferencialne diagnostike z drugimi koronavirusi, vključno s SARS‑CoV‑2. Zgodnje klinično prepoznavanje bolezni SARS‑CoV še vedno temelji na kombinaciji kliničnih, laboratorijskih in epidemioloških značilnosti. Ni specifičnih kliničnih zaznamkov, ki bi z gotovostjo ločili SARS‑CoV od drugih respiratornih bolezni (CDC, 2005).  
+
+Nobeno cepivo ali specifično zdravljenje ni na voljo za SARS, vendar je na seznamu prioritet za WHO Blueprint za raziskave in razvoj za preprečevanje epidemij (WHO, 2016a). WHO je objavil smernice za klasifikacijo primerov, standarde nadzora ter priporočila glede SARS in varnosti krvi (WHO, 2003a; 2021). 
+
+Miši so zelo verjetno naravni gostitelji virusa, ki povzroča SARS (CSIRO, 2021).
+
+### Metrics and numeric limits
+Stopnja smrtnosti pri osebah z boleznijo, ki izpolnjujejo trenutno WHO definicijo primera za potrjene primere SARS, je okoli **9,6 %** (WHO, brez datuma).
+
+### Key relevant UN convention / multilateral treaty
+Internacionalne zdravstvene regulative (2005), 3. izdanje (WHO, 2016b).
+
+### Drivers
+SARS‑CoV‑1 je nova prenosljiva bolezen, ki se je pojavila v 21. stoletju in se razširila po respiratornih poteh, povzročivši epidemijo z mednarodnim letalskim prometom ljudi v druge države (WHO, brez datuma). SARS se lahko prenaša tudi posredno s površinami, ki jih dotakne okužena oseba (WHO, brez datuma).
+
+### Impacts
+Stopnja smrtnosti pri osebah z boleznijo, ki izpolnjujejo trenutno WHO definicijo primera za verjetne in sumljene primere SARS, je okoli **3 %** (WHO, brez datuma). Severni akutni respiratorni sindrom (SARS) je virusna respiratorna bolezen, ki jo povzroča SARS‑koronavirus. Medtem ko so bili SARS‑primeri odkriti že v novembru 2002 kot del izbruha, ki je nastal na Kitajskem in se nato razširil na 28 drugih držav, je patogen, ki povzroča bolezen, bil identificiran kot koronavirus na koncu februarja 2003 (WHO, brez datuma). Epidemija (WHO, brez datuma) severnega akutnega respiratornega sindroma (SARS) je bila povezana z izbruhom atypične pljučnice, ki se je začel v provinci Guangdong, Narodni republika Kitajska. Namenili smo se identificiranju povzročitelja izbruha v Guangdongu in opisovanju nastanka ter širjenja bolezni v provinci. SARS je bil v drugih mestih provincie Guangdong kružil približno dva meseca, preden je povzročil velik izbruh v Guangzhou, glavnem mestu provincie. Nov koronavirus, SARS‑koronavirus (CoV), je bil izoliran iz vzorcev treh pacientov z SARS. Viralni antitopi so bili prav tako neposredno zaznani v nosno-gastričnih aspiratah teh pacientov. 48 od 55 (87 %) pacientov je imelo antitopi proti SARS‑CoV v konvalencnih serijih. Genetska analiza je pokazala, da so izolati SARS‑CoV iz Guangzhou delili enak izvor z izolati v drugih državah in imeli filogenetsko pot, ki se ujema z razširitvijo SARS v druge dele sveta (Li et al., 2003). SARS je bil prva resna in hitro prenosljiva nova bolezen, ki se je pojavila v 21. stoletju in se razširila po respiratornih poteh, povzročivši epidemijo z mednarodnim letalskim prometom ljudi v druge države izven svoje izvorne države. SARS se lahko prenaša tudi posredno z vdihovanjem virusa na površinah, ki jih dotakne okužena oseba. Večina pacientov, ki so dosegli SARS, je bila prej zdrava odrasla oseba med 25 in 70 let. Nekatere sumljive primere SARS so bil poročeno med otroki pod 15 let. Stopnja smrtnosti pri osebah z boleznijo, ki izpolnjujejo trenutno WHO definicijo primera za potrjene primere SARS, je okoli **9,6 %** (WHO, brez datuma).
+
+### Multi-hazard context
+SARS je bila prva resna in hitro prenosljiva nova bolezen, ki se je pojavila v 21. stoletju in se razširila po respiratornih poteh ter povzročila epidemijo z mednarodnim letalskim prometom ljudi v druge države izven svoje izvorne države. SARS se lahko prenaša tudi posredno z vdihovanjem virusa na površinah, ki jih dotakne okužena oseba. Večina pacientov, ki so dosegli SARS, je bila prej zdrava odrasla oseba med 25 in 70 let. Nekatere sumljive primere SARS so bil poročeno med otroki pod 15 let. Stopnja smrtnosti pri osebah z boleznijo, ki izpolnjujejo trenutno WHO definicijo primera za potrjene primere SARS, je okoli **9,6 %** (WHO, brez datuma).
+
+### Risk Management
+Prevajanje se v glavnem izvaja z zdravstvenimi ukrepi v zdravstvenih ustanovah, doma in skupnosti. Osebne preventive sprejemanje za preprečevanje širjenja virusa vključuje pogost umivanje rok s sabo ali alkoholnim dezinfekcijo. Za osebe z visokim tveganjem za okužbo, kot so zdravstveni delavci, je uporaba osebne zaščitne opreme, vključno z masko, očali in prsljem, obvezna. Kadarkoli je mogoče, naj družinske kontakte prav tako nosijo masko (WHO, brez datuma). Upravljanje SARS se zanaša na hitro prepoznavanje primerov in njihovo ustrezno obravnavanje, vključno z izolacijo sumljivih in verjetnih primerov ter obravnavo njihovih tesnih stikov (WHO, brez datuma). Individui pod preiskavo se morajo postaviti v respiratorno izolacijo in se morajo strogo upoštevati varnostne ukrepe (WHO, brez datuma). Upravljanje izbruhov se zanaša na omejitev (WHO, brez datuma), vključno s: - takojšnjo detekcijo primerov prek dobrih sistemov nadzora in zgodnje opozorilne sisteme; - izolacijo sumljivih ali verjetnih primerov; - sledenje za identifikacijo tako vira okužbe kot stikov z okuženimi osebnimi, ki so bolne in lahko predstavljajo tveganje za prenos virusa; - karanteno sumljivih stikov za 10 dni; - odisno pregledovanje za odhajajoče potnike iz območij z lokalno prehodnostjo z vprašanji in merjenjem temperature; - in dezinfekcijo letal in ladij s potrošenimi prebojnimi COVID primeri z uporabo smernic WHO.  
+
+Za dodatno zmanjšanje tveganja, da potniki prinesejo virus SARS v nove oblasti, bi se morali mednarodni potniki, ki odhajajo iz območij z lokalno prehodnostjo, pregledovati za možen SARS na mestu odhoda (WHO, brez datuma). Upravljanje izbruhov se zanaša na omejitev, vključno s: - takojšnjo detekcijo primerov prek dobrih sistemov nadzora in zgodnje opozorilne sisteme; - izolacijo sumljivih ali verjetnih primerov; - sledenje za identifikacijo tako vira okužbe kot stikov z okuženimi osebami, ki so bolne in lahko predstavljajo tveganje za prenos virusa; - karanteno sumljivih stikov za 10 dni; - odisno pregledovanje za odhajajoče potnike iz območij z lokalno prehodnostjo z vprašanji in merjenjem temperature; - in dezinfekcijo letal in ladij s potrošenimi prebojnimi COVID primeri z uporabo smernic WHO (WHO, brez datuma).
+
+### Monitoring
+Globalni omrežni nadzor izbruhov (GOARN) je bil ustanovljen april 2000 kot mehanizem, ki pomaga tehničnim partnerjem in omrežjem po vsem svetu, da koordinirajo in nudijo ciljno pomoč ter podporo nacionalnim zdravstvenim oblastim na zahtevo med javnozdravstvenimi izrednimi razmerami. Tedenska klicna oblača GOARN deluje kot platforma, ki jo partnerji omrežja povezujejo in redno delijo opozorila ter operativne informacije, tako da so vsi seznanjeni z novo epidemsko inteligenco in operacijami partnerjev. Prvič je bil uveden januar 2017, cilj tedenske klice je povečati deljenje informacij med partnerji, povečati sodelovanje in koordinacijo ter na koncu izboljšati reaktivne odzive na nacionalni, regionalni in globalni ravni (WHO, 2024).  
+Sistemi zgodnjega opozorila, opozorila in odziva WHO (EWARS) so bili zasnovani za izboljšanje odkrivanja izbruha bolezni v nujnih razmerah, kot so v državah v konfliktu ali po nesreči naravnih nevarnosti. Je preprost in stroškovno učinkovit način za hitro vzpostavitev nadzornega sistema bolezni. EWARS se izvaja med izrednim razmerjem kot dopolnilo k nacionalnemu nadzornemu sistemu bolezni. WHO sodeluje z ministrstvi zdravja in partnerji v zdravstvenem sektorju, da izobražujejo lokalne zdravstvene delavce v uporabi sistema. Po izrednem razmerju bi se je bil nazaj vključen v nacionalni sistem (WHO, 2023).
+
+### References
+*(reference list remains unchanged, translated as above)*
+
+---

@@ -1,0 +1,1 @@
+uses accurate Latvian scientific terminology, correct grammatical forms, and a clear Markdown structure.

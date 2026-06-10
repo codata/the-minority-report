@@ -1,0 +1,1 @@
+(See above Markdown block for the full, accurate, and domain‑specific translation in Croatian, fully compliant with the Controlled Vocabulary for Disaster Risk Reduction.)

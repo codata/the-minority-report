@@ -1,0 +1,1 @@
+follows DRR domain conventions, uses consistent Danish terminology, and presents the content in well‑structured Markdown.

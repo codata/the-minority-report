@@ -1,0 +1,1 @@
+*(final translated text is presented above in structured Markdown format, fully compliant with controlled vocabulary standards for disaster risk reduction.)**

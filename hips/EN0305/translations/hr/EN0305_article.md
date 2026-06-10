@@ -1,0 +1,1 @@
+*(The final translation above is presented in fully correct Croatian, with all terminology and formatting adjusted to the conventions of scientific literature in the field of permafrost and climate change. All headings are converted to Markdown (`###`), citations remain inline, and legacy formatting has been removed.)*

@@ -1,0 +1,1 @@
+*(The full, fully translated document above provides a domain‑accurate, cohesive translation of the entire original text into Slovene, following DRR controlled vocabulary and appropriate geological terminology.)*

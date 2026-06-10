@@ -1,0 +1,1 @@
+adheres to the Norwegian controlled vocabulary for disaster risk reduction, uses precise geological / risk‑management terminology, and maintains a clear, structured Markdown format.

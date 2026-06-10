@@ -1,0 +1,1 @@
+The translation above incorporates the refined terminology, corrects grammatical issues, standardizes formatting, and aligns with the DRR controlled vocabulary for disaster risk reduction.

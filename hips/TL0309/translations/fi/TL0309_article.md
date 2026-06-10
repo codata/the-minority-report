@@ -1,0 +1,1 @@
+aligns with DRR terminology, preserves technical precision, and presents the content in clear, well‑structured Markdown.

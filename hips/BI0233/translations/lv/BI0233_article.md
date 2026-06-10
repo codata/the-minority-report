@@ -1,0 +1,44 @@
+### Definition  
+Rotavirusi ir biežākā smaga diarejas slimības iemesls maziem bērniem visā pasaulē. Saskaņā ar Pasaules Veselības organizācijas (PVO) novērtējumiem 2013. gadā aptuveni 215 000 bērni zem 5 gadu vecuma nomira no vakcinēšanas novērstām rotavirusa infekcijām; lielākā daļa no šiem bērniem dzīvo zemā ienākuma valstīs (PVO, 2018).
+
+### Primary reference(s)  
+PVO, 2018. Rotavirus. Pasaules Veselības organizācija (PVO). Piekļuvis 17. februārī 2025.
+
+### Annotations  
+#### Papildu zinātniskā apraksts  
+Rotavirus, reovirusu ģimenes loceklis, izraisa ūdeņvielu diareju, vokšanu un smagu dehidratāciju maziem bērniem. Rotavirus ir bieži sastopams, radot 35–60 % no smagiem diarejas gadījumiem bērniem zem 5 gadu vecuma valstīs bez rotavirusa vakcīnas, ar augstāko atbildīgo procentu bērniem. Rotavirusa diareja ir plaša, un bērni tiek iekaisīti agrā vecumā. Tas bieži izraisa nosokmiskos izplūdumus pediatriskās nodaļās, kuras roku mazgāšana un citas infekcijas profilakses un kontroles pasākumi ir vājāki (PVO, no datuma a).
+
+Rotavirus ir biežākā smaga diarejas slimības iemesla bērniem un jauniem bērniem visā pasaulē. Tas tiek pārraidīts caur fekālu‑usta ceļu, tieši no personas uz personu vai netieši caur piesārņotiem objektiem. Tie, kas ir iekaisīti, piedzīvo pēkšņu vēža un vokšanas uzsākšanu, pēc tam uzkāpjot ar eksplozīvu, ūdeņvielu diareju. Rotavirusa diareja ir ļoti spēcīga, bieži noved pie dehidratācijas, kas var būt smaga, prasot hospitalizāciju. Visgrūtākais drauds, ko rada diareja, ir dehidratācija (PVO, no datuma a). Rotavirusa smaga diareja ārstēšanas pamats ir šķidruma aizvietošana un cinka papildināšana (PVO, no datuma a).
+
+Vakcīnas pret rotavirusu ir pieejamas, un vakcinācija ir svarīgs pasākums, lai samazinātu rotavirusa smagiem diarejas gadījumiem un mirtlību (PVO, no datuma a). Rotavirus izraisa ūdeņvielu diareju, vokšanu un smagu dehidratāciju maziem bērniem. Rotavirusa diareja ir plaša un, atšķirībā no bakteriālās diarejas, nav biežākas vietās ar zemu ūdens, sanitāru un higiēnas kvalitāti. Rotaviruss klīst aukstās, sausās sezonās temperētās klimata zonās, bet tropiskajās vietās šis sezonālais kārtošanās modeļa trūkums (PVO, no datuma a). Rotavirusa slimības klīniskā spektrs ir plašs, sākot no pagaidu lapu, līdz smaga diareja un vokšana, kas izraisa dehidratāciju, elektroliītu trūkumu, šoka un nāvi, ja nerūpējas par dehidrēšanu. Parasti gadījumiem pēc 1–3 dienu inkubācijas perioda ir pēkšņi uzsākšanās, ar vēzi un vokšanu, pēc tam ar ūdeņvielu diareju. Gastroenterālie simptomi parasti iznāk 3–7 dienu laikā, bet var ilgst līdz 2–3 nedēļām (PVO, no datuma a). Pasaules Veselības organizācija (PVO) publicēja vadlīnijas par gadījuma klasifikāciju un novērošanas standarta izstrādi (PVO, 2018a).
+
+### Metrics and numeric limits  
+Rotavirus ir gadījuma mirtlības likme (CFR) aptuveni 2,5 % starp bērniem attīstītajās valstīs, kuri piedāvā veselības iestādes. Šī likme ir augstāka reģionos bez labā piekļuves veselības aprūpei. 2013. gadā rotaviruss izraisīja aptuveni 215 000 mirtu visā pasaulē (PVO, 2018b).
+
+### Key relevant UN convention / multilateral treaty  
+Starptautiskie Veselības noteikumi (2005), 3. izdevums (PVO, 2016).
+
+### Drivers  
+Rotavirusi izplūdž iekļauj ļoti augstu koncentrāciju un daudz dienu laikā izplūdīs gļotādos un vokušās izplūdēs iekaisīto personu. Pārraide notiek galvenokārt ar fekālu‑usta ceļu, tieši no personas uz personu vai netieši caur piesārņotiem izplūdē. Universāla rotavirusa infekciju izplatība rāda, ka tīrs ūdens un laba higiēna nepārsniedz ievērojamu ietekmi uz vīrusa pārraidi (PVO, no datuma a). Rotavirusi ir biežākā smaga diarejas slimības iemesla bērniem un jauniem bērniem visā pasaulē. Pētījumi novērtē, ka aptuveni 200 000 cilvēku gadā nomira no infekcijas. Sistematiskajā pārskatā un Bayesiens multinomālais analīze, Black et al. (2024) paziņoja, ka rotaviruss bija lielākā izplatīšanās globalā, kāda ir liela. LMICs, bērni zem 5 gadu vecuma, daļa no mirušajiem par diareju rotaviruss ir zemāka 2021 (108 322 [24,4 %] no 443 342, 95 % neizlēmības intervāls 21,6–29,5) nekā 2000 (316 382 [26,5 %] no 1 196 134, 25,7–28,5), bet 95 % CI pārklāja (Black et al., 2024).
+
+### Impacts  
+Rotaviruss ir gadījuma mirtlības likme aptuveni 2,5 % starp bērniem zemā ienākuma valstīs, kuri piedāvā veselības iestādes. Šī likme ir augstāka reģionos bez labā piekļuves veselības aprūpei (PVO, no datuma a). 2003. gadā publicēta pārskatīšanas publikācija atklāja, ka katru gadu rotaviruss izraisīja aptuveni 111 miljons diarejas gadījumu, kas prasīja tikai mājas aprūpi, 25 miljoniem apmeklējumu, 2 miljoniem hospitalizāciju un 352 000–592 000 mirtus (vidējais 440 000 mirtu) bērniem <5 gadu vecumā. Citiem vārdiem sakot, līdz 5 gadu vecumam gandrīz visi bērni būs piedzīvojuši rotavirusa gastroenterītu, 1 no 5 vajadzēs apmeklēt klīniku, 1 no 60 vajadzēs hospitalizāciju, un aptuveni 1 no 293 izdzīvos. Rotavirusa slimības incidencia ir līdzīga bērniem gan attīstītajās, gan attīstības valstīs. Taču bērni attīstības valstīs mirst biežāk, iespējams, tāpēc, ka viņi nav pieejams hidrēšanas terapija un nav lielāka mērķtiecība ar nelabāku uzturu. Aptuveni 1 205 bērni mirst no rotavirusa slimības katru dienu, un 82 % no šiem mirtumiem notiek bērnu, kas dzīvo vājākajās valstīs (Parashar et al., 2003).
+
+### Multi‑hazard context  
+Black et al. (2024) liecina par progresu, samazinot mirtus no diarejas, ko izraisījusi 12 patogēni bērniem zem 5 gadu vecuma pēdējo divdesmitu gadu laikā. Tomēr viņi iesaka palielināt pūles mērķauditorijas, tostarp rotavirusa vakcīnas, un ārstēšanas, lai izslēgtu turpmākus mirtus (Black et al., 2024).
+
+### Risk Management  
+SMA pārbaudītās rotavirusa vakcīnas ir pieejamas kopš 2008. gada, un šobrīd ir pieejamas četras vakcīnas. Tās visas ir dzīvas, orālā vakcīnas. RotaTeq, Rotavac un ROTASIIL jāizvērtē 3 dēļu grafiku, kamēr Rotarix jāizvērtē 2 dēļu grafiku. Minimālais intervāls 4 nedēļas jāievēro starp dēļiem (PVO, no datuma a). SMA iesaka rotavirusa vakcīnas iekļaut visās tautas immunizācijas programmās un uzskatīt to par prioritāti, īpaši valstīs ar augstu rotavirusa gastroenterīta saistītā mirtlības likme, piemēram, Dienvidas Āzijas un subsahāras Afrikas reģionā (PVO, no datuma a). Papildus, galvenie pasākumi, lai novērstu diareju, ir šādas: piekļuve drošam dzēriena ūdenim, uzlabota sanitāra, roku mazgāšana ar ziepēm, pilnīga malks pirmos sešos mēnešus, laba higiēna un pārtikas higiēna, veselības izglītība par to, kā infekcijas izplūdis (PVO, no datuma a).  
+
+### Monitoring  
+SMA atbalsta valstis veikt visus apdraudējumu stratēģiskos risku novērtējumus veselības ārkārtas un katastrofu kontekstā, kas noved pie valsts risku profila izstrādes. Ievērojot valsts risku profilu, iekļaujot sezonālo risku kalendāru, valstis var paredzēt potenciālas ārkārtas pirms tās notiek, lai izsauktu agrīnas brīdināšanas un informētu agrīnās darbības (PVO, 2021). SMA agrīnie brīdināšanas, brīdināšanas un reakcijas sistēma (EWARS) ir izstrādāta, lai uzlabotu slimības izplūdes noteikšanu ārkārtas situācijās, piemēram, konflikta vai dabas katastrofu reģionos. Tā ir vienkārša un izdevīga metode ātrai slimības novērošanas sistēmas izveidei. EWARS tiek izvietota ārkārtas laikā kā papildinājums uz nacionālo slimības novērošanas sistēmu. SMA strādā ar Veselības ministrijām un veselības sektora partneriem, lai apmācītu vietējās veselības darbiniekus izmantot sistēmu. Pēc ārkārtas EWARS jāatgriežas nacionālajā sistēmā (PVO, no datuma a).
+
+### References  
+Black, R.E., Perin, J., Yeung, D., Rajeev, T., Miller, J., Elwood, S.E., Platts‑Mills, J.A., 2024. *Aprēķināto pasaules un reģionālās atbildes par mirtu iemeslu diapazonu* (Original title retained). Lancet Glob Health.;12(6):e919‑e928. doi: 10.1016/S2214‑109X(24)00078‑0. Epub 2024 Apr 20. PMID: 38648812; PMCID: PMC11099298. Accessed 29 May 2025.  
+Parashar, U.D., Hummelman, E.G., Bresee, J.S., Miller, M.A., Glass, R.I., 2003. *Globālā slimība un mirtu skaits, ko izraisīja rotavirusa slimība bērniem.* Emerg Infect Dis. 9(5):565‑72. doi: 10.3201/eid0905.020562. PMID: 12737740; PMCID: PMC2972763. Accessed 29 May 2025.  
+PVO, 2016. Starptautiskie Veselības noteikumi (2005), 3. izdevums. Pasaules Veselības organizācija (PVO). Accessed 26 May 2025.  
+PVO, 2018a. Rotavirus. Vakcinējamo slimību novērošanas standarti. Pasaules Veselības organizācija (PVO). Accessed 29 May 2025.  
+PVO, 2018b. Rotavirus. Pasaules Veselības organizācijas Ārā Pēkstošā reģionālā birojs. PVO. Accessed 29 May 2025.  
+PVO, 2021. Strādības rīki risku novērtēšanai (STAR): visapmeklējamo veselības ārkārtas risku novērtēšanas komplekts. Pasaules Veselības organizācija (PVO). Accessed 26 May 2025.  
+PVO, no datuma a. Rotavirus. Pasaules Veselības organizācija (PVO). Accessed 29 May 2025.  
+PVO, no datuma b. Agri, brīdināšanas un reakcijas sistēma (EWARS). Pasaules Veselības organizācija (PVO). Accessed 18 Apr 2025.

@@ -1,0 +1,1 @@
+preserves the technical accuracy, adheres to geological and DRR terminology, and is formatted in clear Markdown with proper Estonian terminology throughout.

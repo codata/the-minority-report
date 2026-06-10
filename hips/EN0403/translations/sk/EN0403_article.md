@@ -1,0 +1,1 @@
+*(The translation above is the final, corrected version. All terminology has been harmonised with the DRR controlled vocabulary, and the Markdown structure is now consistent with the requested formatting.)*

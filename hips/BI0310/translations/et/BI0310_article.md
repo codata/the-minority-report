@@ -1,0 +1,1 @@
+The above Markdown document reflects precise, domain‑appropriate terminology, consistent syntax, and correct Estonian grammar, fully aligned with the Controlled Vocabulary for Disaster Risk Reduction.

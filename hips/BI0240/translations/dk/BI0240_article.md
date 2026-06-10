@@ -1,0 +1,1 @@
+adheres to controlled‑vocabulary terminology, uses consistent Danish terminology for all scientific concepts, eliminates non‑geological mixing, and presents information in a clear, structured Markdown format.

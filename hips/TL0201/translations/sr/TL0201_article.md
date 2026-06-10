@@ -1,0 +1,1 @@
+is provided above, including all sections from “Definition” to “Monitoring.” Each subsection is clearly headed, and the technical terminology has been harmonized with standard Serbian DRR vocabulary. The translation now reflects consistent, domain‑appropriate language, improved readability, and correct Markdown formatting.)

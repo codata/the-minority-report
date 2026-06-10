@@ -1,0 +1,1 @@
+above follows DRR conventions, employs accurate Latvian meteorological terminology, and presents the information in clear Markdown format, ready for integration into a Controlled Vocabulary for Disaster Risk Reduction.*

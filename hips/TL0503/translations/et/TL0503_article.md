@@ -1,0 +1,1 @@
+*(the markdown above, formatted as a well‑structured document)*

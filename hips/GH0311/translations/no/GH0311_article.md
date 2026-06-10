@@ -1,0 +1,49 @@
+```markdown
+# Definisjon
+Overflaterupturer og fissurer er lokalisert jordflyt som oppstår som respons på streknings-, komprimerings- og skjærspenninger, vanligvis i ubegrunnet sediment, men også i berg (Arizona Geological Survey, 2020). Overflaterupturer representerer den oppovergående fortsettelsen av feilslipp i dypet, mens fissurer er mindre flyt eller mer distribuert deformasjon i og rundt rupturområdet (tilpasset fra USGS, ingen dato og PNSN, ingen dato).
+
+## Primærreferanser
+- Arizona Geological Survey, 2020. *Earth Fissures and Ground Subsidence*. Tilgjengelig 8. april 2025.  
+- Pacific Northwest Seismic Network (PNSN), ingen dato. *Surface rupture*. Tilgjengelig 8. april 2025.  
+- United States Geological Survey (USGS), ingen dato. *Surface faulting*. Tilgjengelig 8. april 2025.
+
+## Anmerkninger
+### Videre vitenskapelig beskrivelse
+De fleste jordskjelv skyldes flyt (sliding) av jordskorpen langs en feil. Den relative bevegelsen av jordskorpen på hver side av feilen resulterer i vedvarende eller permanent deformasjon av jordoverflaten, i tillegg til jordskjelvsvekket som oppstår fra plutselig frigjøring av energi under jordskjelvet. Overflaterupturer og fissurer er manifestasjoner av denne langsiktige deformasjonen, og selv om de er mindre dramatiske, kan de alle utgjøre farer under og etter jordskjelv (Styron, 2019). Naturlig eller antropogen jordtørring forbundet med subsidence kan føre til jordfissur. Tunnelarbeid eller gruvedrift kan føre til subsidence og overflateruptur og / eller fissur. Jordfissurer kan også danne seg som tidlige indikatorer på jordskred, jordspredning eller cambering, for eksempel, induksjon av gruvedrift eller karstsubsidens. Ayalew et al. (2004) foreslo at jordfissurer i Etiopias riftdale kan være relatert til aseismisk tektonisk strekk, pipere og hydraulisk kompaksjon. Overflaterupturer og fissurer kan også forekomme i vulkanske miljøer forbundet med vulkanske jordskjelv og jorddeformasjon. For eksempel, i november 2023, intense seismiske svampar som er koblet til jorddeformasjon forbundet med en magmatisk intrusjon på Reykjanes-peninsula, Island, førte til overflateruptur og fissur i byen Grindavík, som skadet infrastruktur inkludert veier og rørledninger (Icelandic Meteorological Office, 2023; De Pascale et al., 2024).
+
+### Mål og numeriske grenser
+Størrelsen og den romlige omfanget av overflaterupturer og fissurer avhenger av typen, magnitude og dybde av jordskjelvet, samt avstanden fra jordskjelvet og lokale geologiske forhold. Overflaterupturer forventes i omtrent halvparten av kontinentale magnitude 6‑jordskjelv, med en forventning som øker til 100 % for kontinentale jordskjelv med magnitude 8 og større (Biasi and Weldon, 2006). Flyt varierer fra noen få centimeter for jordskjelv på den lave enden av dette spekteret, opp til 15–20 m for de største mulige kontinentale jordskjelvene (Biasi and Weldon, 2006). Fissurer er generelt mye mindre og mer romlig spredt enn overflaterupturer. Overflateruptur og fissur vil strekke seg langs lengden av jordskjelvsfeilen, som kan strekke seg fra noen kilometer for magnitude 6 jordskjelv til over 1000 km for magnitude 9 jordskjelv. I Arizona varierer fissurer fra diskontinuerlige hårlinjesprekker til åpne jordsprekker som overstiger 3 km i lengde, opp til 7 m bred, og tiender av meter dype. I denne konteksten reflekterer fissurdype sannsynligvis dypet til grunnvannet (Arizona Geological Survey, 2020).
+
+### Viktig relevant FN-konvensjon / multilateralt traktat
+Sendai-rammeverket for katastroferisikoavlastning 2015–2030.
+
+### Drivere
+Overflaterupturer og fissurer ved jordskjelv er forårsaket av jordskjelv av tilstrekkelig magnitude og nærhet til jordoverflaten for å forårsake permanent jorddeformasjon. Overflaterupturer og fissurer er generelt begrenset til området nær den årsakende feilens skjæring med jordoverflaten (Styron, 2019). Drivere for jordfissur inkluderer også jordskred, jordspredning eller cambering, for eksempel, relatert til grunnvannsuttak eller induksjon av gruvedrift eller karstsubsidens.
+
+### Påvirkninger
+Overflaterupturer og fissurer kan forårsake tap av jordbruksland, skade på bygninger, veier, dammer og infrastruktur (f.eks. gass- og vannledninger). I tillegg til den umiddelbare, lokale risikoen for kollapsende infrastruktur, kan denne skaden hemme rednings- og gjenoppbyggingsarbeid ved å hindre transport og infrastrukturlevering. I de verste tilfellene kan skade på livlinjer føre til lokal flom (f.eks. vannledninger), miljøpåvirkning (f.eks. oljerørledninger) og til og med svært ødeleggende branner (gassledninger) som kan være mer skadelige enn det opprinnelige jordskjelvet. Det er også potensial for forstyrrelser på grunn av flom eller omdirigering av elver, hvis elvekanalen er tilstrekkelig modifisert (Holbrook og Schumm, 1999). Kjøttdyr og vilde dyr er blitt skadet eller døde, i tillegg til påvirkning på mennesker (Arizona Geological Survey, 2020).
+
+### Multi-hazard kontekst
+Figuren nedenfor oppsummerer vanlige interaksjoner mellom overflaterupturer og fissur og andre farer. Denne informasjonen bør brukes med forsiktighet og ikke være den eneste grunnlaget for katastroferisikoledelse, spesielt ettersom noen interaksjoner kanskje ikke er inkludert. Merk at farlige hendelser som skjer sammen eller lokalt i tid og rom, trenger ikke nødvendigvis å forårsake, forsterke eller være på annen måte relatert til hverandre. Spesifikke eksempler på multi-hazard kontekst finnes i “Hazard drivers” og “Impacts” avsnittene over.
+
+### Multi-hazard diagram
+
+### Risikostyring
+Anbefalte remedial tiltak inkluderer å redusere avhengigheten av grunnvann ved å bruke alternative kilder; planlegge å unngå fissurer når du bygger infrastruktur eller bygninger; håndtere drenering for å unngå tap inn i fissurer og overvåke vanninfrastruktur for flow reversal (Arizona Geological Survey, 2020). Selv om ingen teknologi eksisterer for å redusere disse eller andre jordskjelvsfarer, kan risikoen for infrastruktur forårsaket av overflateruptur og fissurer delvis reduseres ved å ikke bygge på kjente feilspor, seismisk retrofitting av eksisterende bygninger og ingen rørledninger med tilstrekkelig fleksibilitet til å absorbere flyten ved bøying og skjæring, i stedet for å bryte (f.eks. USGS, 2003). Det finnes ingen spesifikke tidlig varslingssystemer for overflaterupturer eller fissurer. Imidlertid finnes det tidlig varslingssystemer for jordskjelvsvekk. Disse systemene kan være nyttige for å redusere påvirkningen av overflaterupturer og fissurer ved å la befolkningen ta beskyttende tiltak (DCHO), eller å evakuere sårbare bygninger. Se profil for jordskjelv (GH0101) for mer informasjon.
+
+### Overvåking
+Avsnittet og tabellen nedenfor gir en oversikt over overflaterupturer og fissurer. Denne informasjonen kan brukes for prognose innen et nasjonalt tidlig varslingssystem (EWS). Siden EWS-kapasiteter og prosesser varierer mellom land, bør den mest oppdaterte og spesifikke informasjonen om EWS hentes fra den aktuelle nasjonale eller regionale myndigheten/organisasjon som er ansvarlig for katastroferiskledelse. **Hvilke institusjoner produserer katastroferisksdata/informasjon?** Tidlig varslingssystemer for hovedutløserfaren av overflateruptur eller fissur (dvs. jordskjelv) er vanligvis vedlikeholdt av nasjonale organisasjoner med mandat til å overvåke seismisk aktivitet (f.eks. USGS for USA). **Hvordan overvåkes/varsles/hovedfaren?** For å overvåke og aktivere varsler for hovedutløserfaren av overflateruptur eller fissur (dvs. jordskjelv), er det et nettverk av seismiske stasjoner/sensorer som kreves, ideelt nær regionene der jordskjelv er mer sannsynlig. Satellittbaserte overvåkningsverktøy (f.eks. InSAR) har blitt stadig mer verdifulle i å oppdage overflateruptur før, under og etter seismiske hendelser.
+
+## Referanser
+- Arizona Geological Survey, 2020. *Earth Fissures and Ground Subsidence*. Arizona Geological Survey. Tilgjengelig 16. august 2024.  
+- Biasi, G.P. og R.J. Weldon, 2006. Estimating surface rupture length and magnitude of paleoearthquakes from point measurements of rupture displacement. *Bulletin of the Seismological Society of America*, 96:1612–1623.  
+- De Pascale, G.P., Fischer, T.J., Moreland, W.M., Geirsson, H., Hrubcová, P., Drouin, V., Forester, D., Payet‑‑Clerc, M., da Silveira, D.B., Vlček, J. og Ófeigsson, B.G., 2024. On the move: 2023 observations on real time graben formation, Grindavík, Iceland. *Geophysical Research Letters*, 51(14), p.e2024GL110150.  
+- Holbrook, J. og S.A. Schumm, 1999. Geomorphic and sedimentary response of rivers to tectonic deformation: a brief review and critique of a tool for recognizing subtle epeirogenic deformation in modern and ancient settings. *Tectonophysics*, 305:287–306.  
+- Icelandic Meteorological Office, 2023. *Reykjanes Peninsula*. Icelandic Meteorological Office. News & Alerts. Tilgjengelig 31. juli 2024.  
+- Pacific Northwest Seismic Network (PNSN), ingen dato. *Surface rupture*. Pacific Northwest Seismic Network (PNSN). Tilgjengelig 16. august 2024.  
+- Styron, R., 2019. Coseismic uplift and subsidence: An underappreciated seismic threat. Global Earthquake Model Foundation (GEM) Hazard Blog. Tilgjengelig 16. august 2024.  
+- United States Geological Survey (USGS), 2003. *The Trans-Alaska Oil Pipeline survives the quake – A triumph of science and engineering*. United States Geological Survey (USGS). Tilgjengelig 16. august 2024.  
+- United States Geological Survey (USGS), ingen dato. *Surface faulting*. United States Geological Survey (USGS). Tilgjengelig 16. august 2024.  
+
+Cite this: [Copy citation]
+```

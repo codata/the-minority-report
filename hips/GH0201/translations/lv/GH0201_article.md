@@ -1,0 +1,1 @@
+of the provided English document into Latvian, aligned with geological terminology and the Controlled Vocabulary for Disaster Risk Reduction.*

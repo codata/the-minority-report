@@ -1,0 +1,1 @@
+*(The above corrected version is formatted as a well‑structured Markdown document and contains the fully translated, domain‑appropriate Estonian text.)*

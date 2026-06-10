@@ -1,0 +1,1 @@
+The above final Markdown document incorporates all necessary terminological adjustments, consistent Slovenian terminology, corrected grammar and punctuation, and fully translated reference titles.

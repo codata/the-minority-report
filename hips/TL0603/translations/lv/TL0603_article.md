@@ -1,0 +1,1 @@
+above provides a consistent, domain‑accurate rendering of the original English text into Latvian, using the terminology and formatting guidelines outlined in the initial analysis.*

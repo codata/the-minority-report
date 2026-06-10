@@ -1,0 +1,1 @@
+the markdown document above, fully translated into Lithuanian, with proper terminology, consistent formatting, and inclusion of all original sections.

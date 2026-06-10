@@ -1,0 +1,1 @@
+aligns with DRR terminology, preserves domain‑specific terms, and formats the document using Markdown headings, italicization, and proper acronyms.

@@ -1,0 +1,1 @@
+above presents a complete, terminology‑accurate, and format‑consistent rendering of the original hazard profile document into Estonian, adhering to the Controlled Vocabulary for Disaster Risk Reduction.*

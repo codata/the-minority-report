@@ -1,0 +1,1 @@
+above is the final, refined Danish rendering of the entire original document, structured in Markdown with proper headings and accurate, domain‑specific terminology.)*

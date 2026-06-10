@@ -1,0 +1,1 @@
+The translation above incorporates the proper Slovene terminology, maintains a consistent style, and aligns with DRR and epidemiological conventions.

@@ -1,0 +1,1 @@
+The Markdown document above contains the final, corrected Lithuanian translation, using the terminology verified in the Terminological Analysis section and adhering to the Controlled Vocabulary for Disaster Risk Reduction.

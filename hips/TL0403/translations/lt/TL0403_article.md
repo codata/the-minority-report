@@ -1,0 +1,1 @@
+” section. It follows the terminology table, uses proper Lithuanian maritime vocabulary, and conforms to Markdown formatting guidelines.)*

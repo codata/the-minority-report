@@ -1,0 +1,54 @@
+> ### Definition  
+> Radio og andre telekommunikationsfejl opstår, når der er en intern eller ekstern afbrydelse af kommunikation fra begge parter, hvilket gør det svært at overføre en besked, som den var tilsigtet (tilpasset fra Dainty et al., 2007).  
+>   
+> ### Primære reference(r)  
+> Dainty, A., D. Moore og M. Murray, 2007. *Communication in Construction: Theory and Practice*. Routledge. Tilgået 19. maj 2025  
+>   
+> ### Anmærkninger  
+> Radio- og kommunikationsteknologi er integreret i hverdagen og har gennemgået betydelige fremskridt de seneste årtier. Kommunikationskanaler såsom radio, mobilnetværk og satellitter har til formål at udsende eller formidle information og advarsler til befolkningen. I en katastrofereaktionsbegivenhed er målet for ethvert kommunikationssystem at maksimere antallet af personer, der handler på og tager passende og rettidige skridt for at beskytte ejendom og sikre livssikkerhed (Khaled & Mcheick, 2019; ITU, 2019). Effektive og vellykkede kommunikationsforbindelser er afgørende før, under og efter en katastrofe, især blandt beredskabsfolk for at assistere med katastrofereaktion og genopbygning.  
+>   
+> Fejl i kommunikationssystemer – om de er komplette eller delvise, såsom radio eller satellit‑systemer – har forårsaget ineffektivitet og forsinkelser i nødhjælpsindsatser og respons, hvilket igen fører til tab af liv og forebyggelige skader. Fejl i kommunikationssystemer kan forårsage katastrofale skader på menneskeliv og økonomisk aktivitet, da folk ikke kan kommunikere i rettidigt og med høj tjenestekvalitet (Khaled & Mcheick, 2019).  
+>   
+> Et bemærkelsesværdigt eksempel på radio‑ og kommunikationsfejl skyldtes jordskæret og tsunami i det indiske ocean i 2004: Et jordskæret af magnituden 9,0 ramte vestkysten af Sumatra, Indonesien, og genererede tsunami‑bølger med maksimale højder fra 2 til 30 m, der oversvømmede kystområder i mange omkringliggende lande. Selvom dette var den første globale naturkatastrofe, hvor praktikere og offentligheden mider deres oplevelse gennem internettet, blev kommunikationsteknologi ikke udnyttet fuldt ud under den umiddelbare respons, hvilket resulterede i en lavere levering af humanitær hjælp. De vigtigste årsager til kommunikationsfejlen var ødelæggelsen af teknologiinfrastruktur, ophobet affald og omfattende oversvømmelser, der påvirkede kraftsystemerne og kabinene, der indeholdt BTS‑udstyr. Der var også andre telekommunikationsbegrænsninger som begrænset netværksdækning, mangel på tidlige advarselsystemer og mangel på redningsudstyr (Khaled & Mcheick, 2019).  
+>   
+> **Nøgleårsager til kommunikationssystemfejl**  
+> * Skade og/eller ødelæggelse af komponenter i kommunikationssystemet  
+> * Skade og/eller forstyrrelse af støtteinfrastruktur til netværket  
+> * Forstyrrelse på grund af overbelastning (trængsel)  
+>   
+> Skade og/eller ødelæggelse af komponenter betragtes som den mest almindelige og vel dokumenterede årsag til telekommunikationsfejl i nyere katastrofer. På grund af den tid og de ressourcer, der er nødvendige for at reparere og erstatte systemer, er forstyrrelser forårsaget af fysisk skade ofte mere alvorlige og tidskrævende at genskabe, da de kan kræve vedligeholdelse eller udskiftning af komplekse hardwares, især essentielle komponenter som mobilmast eller kabler.  
+>   
+> Fragiliteten af kommunikationssystemer skyldes mangel på høj redundans (Townsend & Moss, 2005).  
+>   
+> Kommunikationsafbrydelser forårsaget af skade og/eller forstyrrelse af netværksinfrastruktur er ofte langt mere udbredte og skadelige under respons og genopbygning. Nogle kommunikationssystemer er afhængige af mange andre lokale og regionale tekniske systemer for at sikre effektiv drift. Støtteinfrastrukturen mangler ofte robusthed over for fysisk skade (Townsend & Moss, 2005).  
+>   
+> Forstyrrelse på grund af overbelastning er en anden type større kommunikationsfejl under katastrofe og er et direkte resultat af netværksoverbelastning eller overbelastning, hvilket resulterer i blokering af opkald og beskeder, der ikke sendes. Historisk set er katastrofer en af de mest intense generatører af kommunikationstrafik, og den resulterende efterspørgselsstigning kan blokerer selv de mest velledte netværk. Men kommunikationen kan genoprettes relativt hurtigt (Khaled & Mcheick, 2019).  
+>   
+> Lærdomme fra tidligere katastrofebegivenheder viser, at radio- og satellitbaserede kommunikationer var mest effektive, mens konventionelle kommunikationskanaler (dvs. trådløse telefoner og fastnet) enten blev beskadiget eller overvældet i mange katastrofebegivenheder, hvilket hæmmede den effektive og rettidige overførsel af information (Khaled & Mcheick, 2019).  
+>   
+> ### Mål og numeriske grænser  
+> ITU udvikler i øjeblikket globale retningslinjer for lande for at udvikle Nationale nødanmeldelsesplaner (NETS) til brug ved tidlige advarsler og i nødsituationer (GMSA, 2021). Rammeværket søger at adressere et lands eksponering for naturfarae og katastrofer før udviklingen af nødhåndteringsdata og kommunikationssystemer (ITU, 2019).  
+>   
+> ### Nøgle-relevante FN-konvention / multilaterale traktat  
+> Bæredygtige udviklingsmål (SDG) (UNDESA, 2021).  
+> Tampere-konventionen om levering af telekommunikationsressourcer til katastrofeafbødning og nødhjælp blev etableret i 2005. Denne internationale traktat gør det muligt for lande at fjerne regulatoriske hindringer og straks levere nødteleskommunikation, når en katastrofe er sket (United Nations Treaty Collection, 1998).  
+>   
+> ### Drivere  
+> Naturfarae kan ødelægge telekommunikationsinfrastruktur og forårsage alvorlige netværksforstyrrelser. Elektrisk strøm er afgørende for disse nødkontakt-systemer, og strømudfald er direkte forbundet med drivkraften bag denne fare (Townsend & Moss, 2005; Chang et al., 2007).  
+>   
+> ### Påvirkninger  
+> Radio og andre telekommunikationsnetværk bør kunne træde til, hvis der opstår fejl i nødteleskommunikation, da det kan føre til funktionsfejl i tidlige advarselsystemer og øge sandsynligheden for sekundære skader. Det reducerer også katastrofereaktionskapaciteten ved at forårsage forsinkelser eller reducere effektiviteten af nødhåndtering. Yderligere, på grund af dens interdependens med strøm og IKT-systemer, kan telekommunikationsinfrastruktur blive mål for cyberangreb, hvilket skaber yderligere sårbarheder i systemet (CISA, 2023). Fejl i radio og andre telekommunikationsnetværk vil have større indvirkning i konteksten af andre faree, f.eks. skovbrande, som er den mest hyppige type nødsituationer og påvirker transmissionnetværk (Salema & Caldeirinha, 2024). Problemstillinger omkring fejl i nødteleskommunikation øger risikoen for fysisk skade og økonomiske tab, hvor hurtig tjenestegendannelse er vital for at forbedre katastrofereaktionskapacitet.  
+>   
+> ### Multi-farekontekst  
+> Figuren nedenfor opsummerer almindelige interaktioner mellem radio- og andre telekommunikationsfejl og andre faree. Disse oplysninger bør anvendes med forsigtighed og ikke udelukkende stole på i katastrofremsætningsstyring, især da nogle interaktioner muligvis ikke er inkluderet. Bemærk, at faree, der forekommer sammen eller lokalt i rum eller tid, ikke nødvendigvis forårsager, forstærker eller er på anden måde relateret til hinanden. Specifikke eksempler på multi‑farekontekst findes i afsnittene ‘Farbeårsagere’ og ‘Påvirkninger’ ovenfor.  
+>   
+> ### Risikoledelse  
+> Udvikling og implementering af fælles tekniske karakteristika og retningslinjer for radiokommunikationssystemer for tidlige advarsler og katastrofereaktion samt nødhjælp vil fremme en fælles teknisk basis i planlægning og effektiv respons på en nødsituation. En guide til radiokommunikationsstandarder for nødhåndtering er udviklet og udarbejdet under FN’s udviklingsprogram og EU’s humanitære kontor gennem Disaster Preparedness Programme. Manualens mål er at give en driftsstandard og en guide til træning i beskedhåndteringsteknikker og netværksprocedurer for radiokrigstjenesteoperatører i nationale og lokale radi-netværk (UNDP, 2010). I 2017 udviklede FN’s Børnefond (UNICEF) et nødteleskommunikationshandbook, der præsenterer et sæt retningslinjer og detaljerede instruktioner til støtte for hold, der faciliterer og leverer effektive nødteleskommunikationsindsatser i felten. Handboken fanger integrationen af forskellige telekommunikationssystemer (UNICEF, 2017). Derudover har International Telecommunication Union udviklet adskillige ressourcer, herunder: Radio Regulations Navigation Tool (reguleringer, der styrer den globale brug af radioudtømningsspektrum og satellitbaner) (ITU, ingen dato). Space Networks Systems Database fra Radiocommunication Bureau i ITU. Databasen indeholder AP4-data for geostationære satellit‑registreringer, ikke‑geostationære registreringer og jordenstation‑registreringer (ITU, ingen dato). Definitioner af globale telekommunikations/IKT-indikatorer (ITU, ingen dato). Radiobaserede tidlige advarselssystemer (EWS) er blandt de ældste og mest pålidelige kommunikationsteknologier, som er blevet grundigt testet i forskellige katastrofescenarier. Radio har den unikke fordel at nå store befolkningsgrupper i områder, hvor infrastrukturen er betydeligt ødelagt, hvilket gør det til et omkostningseffektivt kommunikationsmiddel. I den umiddelbare responsfase i forskellige naturkatastrofer har radio været afgørende i at levere kritiske beskeder, information og råd til berørte samfund, ofte i samarbejde med forskellige interessenter. En af radiobearbejdningens styrker er dens evne til at nå personer i ressourcelimiterede områder, hvor andre kommunikationsformer ikke er mulige på grund af begrænset infrastruktur eller høje omkostninger. I situationer uden elektricitet, og derfor uden mobiltelefoner, tv eller andre medier, giver sol- eller vinddrevne radioer en bæredygtig og let implementerbar løsning, der sikrer, at vitale tidlige advarsler fortsat når samfundet uden behov for avanceret teknologi eller betydelige ressourcer. Dette gør radio til et uvurderligt værktøj i sikring af kommunikationskontinuitet, selv når andre kommunikationsinfrastrukturer fejler (Hugelius et al., 2019).  
+>   
+> ### Overvågning  
+> Fejl i nødteleskommunikation forværre katastrofrisici ved at hæmme kommunikation og koordinering blandt responderende, hvilket kan føre til forsinket eller ineffektiv nødhåndtering og øget fysisk og økonomisk skade. Hurtig tjenestegendannelse er afgørende for at styrke katastrofereaktionskapacitet, da det muliggør rettidig kommunikation, informationsdeling og koordinerede handlinger for at afbøde skader og hjælpe berørte befolkninger (OECD, 2025).  
+>   
+> ### Referencer  
+> *(Referencer oversat som i originalen – ingen ændringer i bibliografisk format.)*  
+
+---

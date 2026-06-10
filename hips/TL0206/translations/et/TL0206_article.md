@@ -1,0 +1,63 @@
+```markdown
+# Definition
+Tarneahela tõrge viitab tarneahela sündmusele, mis häirib materjalide ja teabe voolu nende reisil algsetest tarnijatest lõplikele klientidele (Walters, 2007).
+
+## Primary reference(s)
+Waters, C.D.J., 2007. Supply Chain Risk Management: Vulnerability and Resilience in Logistics. *Accessed 25 January 2025*.
+
+## Annotations
+
+### Additional scientific description
+Pole ühtegi ühekattelist definitsiooni tarneahela terminist (UNECE, 2016). Tarneahelad on määratletud kui ühendatud ja sõltuvuslike organisatsioonide võrgustik, kes töötavad omavahel koostöös, et kontrollida, hallata ja parandada materjalide ja teabe voo alates tarnijatest lõppkasutajateni. Tarneahela tõrge vähendab katastrofi riskide haldamisel vastupidavust. Tänapäeva kõrge konkurentsi tööstustes on reaalsus, millega enamik peamise või peamise tootmistööriista organisatsioone kogu maailmas tegeleb, kus ressursid on vähendatud, varud on kulgenud, tehnoloogiakulud on kokkuhoidlikud ja protsessid, mis ei ole organisatsiooni põhitegevuse osa, on skaleeritud tagasi ja/või välja päritud. Konkurentsivõimelistes globaalsetes turgudel ei saa põhi tootjad endale lubada, et nende tegevuse ükski osa oleks ohus. Tarneahela tegevus peab olema vastupidav ja elastsus suunatud, et säilitada ja suurendada turuosa. Tarneahela tõrge on nähtus, mis võib potentsiaalselt põhjustada tõsiseid probleeme paljude organisatsioonide jaoks, eriti kui tõrge muutub püsivaks (Karsten, 2018).
+
+Rahvusvaheline kaubandus on oluline maailmakuupõhise majanduse jaoks. Rahvusvahelise kaubanduse ettevõtted on toetatud üksteist siduvate globaalsete tarneahelate poolt, mis on nende konkurentsivõime jaoks olulised. Kuid mõned viimased sündmused näitavad, et need dünaamilised, keerukad süsteemid on haavatavad paljude riskide suhtes. Nende omavahelise sidususe tõttu võivad isegi väikesed, kohalikud sündmused kiiresti tõusta ja põhjustada märkimisväärseid häireid (WEF, 2014). Tarneahela jõudlus on äritegevuse edu jaoks kriitiline; seetõttu võivad tarneahela häired põhjustada märkimisväärset mõju kauba ja teenuste saadavusele, kuna need vähenevad; lisaks võib kauba hind tõusta; nõudlus võib dramatiliselt tõusta, näiteks ehitustoodete puhul; ja see võib viia näiteks paniikiamandil. Need mõjud võivad viia nõudluse järsu tõusuni, millel on potentsiaal kogu tarneahela häirida (Dulam et al., 2020).
+
+Kriitiline infrastruktuur sõltub tarneahela varustust, et pakkuda kogukonna, riikliku, piirkondliku ja globaalset vastupidavust vajavaid eluliselt olulisi teenuseid. See hõlmab vee-, transpordi- ja telekommunikatsiooni infrastruktuuri, haridusasutusi, haiglaid ja muid tervishoiuasutusi, mis tagavad, et kõik jäävad ohutuks, tõhusaks ja töövõimekuks nii pärast kui ka pärast katastrofe, et pakkuda elupäästa ja olulisi teenuseid.
+
+## Metrics and numeric limits
+Erinevad mõõdikud on olemas, sealhulgas:
+
+- **Jooksuaegade indeks (Lead Time Index)** – mõõdab maastikukõrguse logistikapöörde, aidates riiklikel juhtidel, võtmeteguritel ja eratehingutest aruandlust, et mõista nende ja nende kaubanduspartnerite väljakutseid logistiliste barjääride vähendamisel rahvusvahelise kaubanduse suhtes (Maailma Pank, kuupäevad).
+- **Sadamakaasluse indeks (Port Congestion Index, PCI)** – mõõdik, mis näitab sadamakaasluse taset, pakkudes põhjalikku vaadet sadama töökindluse kohta (Spire Maritime Docs, kuupäevad).
+- **Varude pöördemäär (Inventory Turnover Ratio)** – näitab, mitu korda varud ühe aasta jooksul müüakse või kasutatakse (Oracle NetSuite, 2024).
+- **Tähtaegne tarnimine (On‑time Delivery, OTD)** – 25 % vähenemine tähtaegsel tarnimisel näitab märkimisväärset langust ettevõtte võimekuses täita lubatud tarnimistasemeid. Seda mõõdikku nimetatakse sageli Tähtaegseks Tarnimiseks (OTD) ja see on võtmetöövõime näitaja (KPI) äride jaoks, eriti e‑kaubanduse ja tootmise valdkondades.
+
+## Key relevant UN convention / multilateral treaty
+Sendai raamistik katastrofi riskide vähendamiseks 2015–2030 (UNDRR, 2015).
+
+Teised multilateraalsetes lepingutes, näiteks Basel III (Bank for International Settlements), on sektori ulatuslikud. Näiteks Basel III 2017–2028 on rahvusvaheline kokkulepitud meetmete komplekt, mis on välja töötatud Basel Banki Juhatuses 2007–09 finantskriisi vastuseks. Meetmed on suunatud panga regulatsiooni, järelevalve ja riskijuhtimise tugevdamiseks. Need seatavad rahvusvahelisi standardeid ja minimaalset nõudeid pangakapitali, stressiküsitluste, likviidsuse ja tõkestamise osas, eesmärgiga vähendada pangavõrgusõlmade ja pangavõrgusõlmade riski ning mõne kaskadide mõju (BIS).
+
+## Drivers
+Viimase kümnendi jooksul on tarneahelad globaalselt, spetsialiseerunud ja muutunud sirgemaks või just‑in‑time. Need on tõhusamad ja vähem riskantsed teatud valdkondades, kuid võivad olla rohkem haavatavad kooperatsiooni katkestuse suhtes. Majanduslik ebastabiilsus, toiduabi puudumine, tehnoloogia piiratud kättesaadavus, näiteks pooljuhtide puhul, ja meditsiinivarustuse ebaõnnestumine kriisidel muudavad tarneahela tõrgete mõju oluliseks. Tarneahela juhid on pidanud kokku paljude šokidega, näiteks Jaapani Great East Japan Earthquake ja tsunami, Taihaani üleujutused, Eyjafjallajökull vulkaan Iislandi, merenduspiraadide tõus (Doherty ja Botwright, 2020) ja koroonaviiruse pandeemia (WHO, kuupäev). Kõik need järsustavad tarneahelaid kogu piirkondades.
+
+## Impacts
+2012. aasta Maailma Majandusfoorum (WEF) uuringu kohaselt hinnatud tarneahela spetsialistid määrasid, et häired, mis võivad põhjustada tõsiseid ja süsteemseid mõjusid tarneahela võrgustikele, hõlmasid pandeemiaid, loodusõnnetusi, äärmuslikku ilmastikku, konflikte, nõudluse šokeid, ICT‑katkestusi ja ekspordimärkimist ning importimispõrude piiranguid, nagu praegu kehtivad meditsiinivarustuse ekspordi piirangud. Tarneahela häirete allikad on raske ennustada, ja mõnikord ei ole need kontrollitavad ega mõjutatavad. Võrgu vastupidavus on ülimalt oluline, et tagada nõudluse täitmine ka vahenduse korral isegi erakordsetel aegadel (Doherty ja Botwright, 2020). Suured loodusõnnetused nagu maavärinad ja tsunamid võivad häirida kogu piirkondlikku tarneahelat. Nagu tarneahelad muutuvad globaalsemaks ja keerukamaks, suureneb nende haavatavus. Näiteks, kui üleujutus põhjustab logistilisi häireid ja pandeemia samal ajal viib tööjõu nappuseni, muutub tarneahela taastamine veelgi keerulisemaks. Lisaks võib keerulistes tarneahelates ühes häirel tekkida kaskaadivõime teistele osadele, mis kiirendab tarneahela tõrget mitmeohutise kontekstis (Ye & Abe, 2012).
+
+## Multi‑hazard context
+Allolev skeem kokkuvõtab tavapärased tarneahela tõrgete ja teiste ohtudega kokkupuudet. See teave tuleks kasutada ettevaatlikult ega peaks täielikult tugineda katastrofi riskide haldamisel, eriti kuna mõningaid kokkupuuteid pole kaasatud. Märkige, et ühel või mitmel kohaliku ruumi või aja sündmuse puhul ei pruugi see olla otseselt põhjustada, suurendada ega olla teistest seotud. Konkreetsed mitmeohutise konteksti näited leiad ülaltoodud „ohutugiatraktori“ ja „mõju“ sektsioonidest.
+
+## Risk Management
+On selge, et tarneahela probleem võib kahjustada kriitilist riiklikku infrastruktuuri, riiklikku vastupidavust, tervist, pangandust ja laiemat sektori vastupidavust; isegi ettevõtte võimet oma teenuseid või kaupu tarbida ja see võib mõjutada selle jätkusuutlikkust. Sendai raamistik rõhutab katastrofi riskide haldamist katastrofi haldamise asemel. Katastrofi riskide vähendamise ulatus on märkimisväärselt laiendanud nii loodus- kui ka inimtehtud ohtude, keskkonna, tehnoloogiliste ja bioloogiliste ohtude ja riskide hõlmavaks. Suurema skale ja katastrofi suuruse sündmuste järel ühenduvad kohaliku organisatsiooni teiste reageeriva organisatsiooni korraldatud katastrofiabi tarneahela võrgustikega. Kahjuks isegi juhul, kui tarneahela juhtimise head praktikad on kasutusel, on tarneaheladel olnud erinevad vastupidavusastmed ja sobiv katastrofiabi tulemusi on järelikult jätkuvalt vältimatu (Day, 2014). Erinev sektor on kriitiline osa riskipõhise ühiskonna loomisest. ARISE, eraisikute jaoks katastrofi vastupidavuse arendamiseks mõeldud privaatse sektori ühendus, on privaatse sektori üks ühtse eesmärgi üksus UN Disaster Risk Reduction Office (UNDRR). Filippiinide katastrofi vastupidavuse fond (PDRF) näide, kuidas ARISE ja selle mõju tarneahela toetusel pärast 2013. aasta tsunami. PDRF teatab avaliku ja eraisikute partnerlussuhte kohta elanikute taastamise programm, mis töötas välja positsiooni taastamine koos riigiametiga, kohaliku valitsuse üksuste ja rahvusvaheliste mittetulundusorganisatsioonidega – kasutades iga organisatsiooni võimeid mikro- ja väikeettevõtete toetamiseks ja kohaliku tarneahela normilisele taastamiseks. Positsioon taastamise hindamine pakkus partneritele võimalust edasi liikuda, et toetada kogukondi ja elustiili väljaspool abipakette, nagu „põhjakoti“ pakkumised, mis sisaldavad köögitarvikuid, gaaside põletisi ja kokkamine varustust, toiduettevõtete omanikeks, kaupade varude, riivijad. Elujärguse taastamisega pakkudes inimestele võimalust enesest aidata ja oma ettevõtteid taastada, on nad ka andnud teada, et teisel tasandil see taastamise tegevus aitab hinnata turuhindade stabiilsust ja takistada opportunistide, kes saavad ära kasutada kogukonna haavatavust. Kaks kuud pärast Positsioon taastamise hindamist said kasutasid klastrisse (sektor) (õunamööda, karik / karik) ja elamispindide (riigi ja rahvusvaheline mittetulundusorganisatsioon). Riskiomanikud, organisatsiooni vastupidavus ja äritegevuse jätkusuutlikkus peaksid olema teadlikud varasemate häirete ja viisikategooria strateegiatest, et täiustada kontrollmeetmeid. Riski määramine, stsenaariumite planeerimine, andmete jagamine, usaldusväärsed võrgustikud ja mitmepoolvõtja sisukate sisalduse. Sendai raamistik mainib tarneahela vastupidavuse tugevdamist tähtsaks eesmärgiks katastrofi riskide vähendamiseks (UNDRR, 2015). Varajaste hoiatusüsteemide (EWS) abil saab tuvastada riske, mis võivad mõjutada tarneahela, pakkudes varajase hoiatusi enne katastrofi, võimaldades valmisolekust ja vastamismeetmeid. Lisaks, kui katastrofi hoiatused annatakse, võivad ettevõtted võtta samme, et vähendada tarneahela mõju ja kogukonnad saavad väljakutse planeerimiseks, et teha EWS väga tähtis.
+
+## Monitoring
+Teave puudub
+
+## References
+Bank for International Settlements (BIS), 2025. Basel III: International Regulatory Framework for Banks. *Accessed 20 May 2025*.
+Day, J.M., 2014. Fostering emergent resilience: the complex adaptive supply network of disaster relief. *International Journal of Production Research*, 52:1970–1988.
+Doherty, S., & Botwright, K., 2020. What past disruptions can teach us about reviving supply chains after COVID‑19. *World Economic Forum* (WEF). *Accessed 20 May 2025*.
+Dulam, R., Furuta, K., & Kanno, T., 2020. An agent‑based simulation to study the effect of consumer panic buying on supply chain. In: De La Prieta, F. et al. (eds), *Highlights in Practical Applications of Agents, Multi‑Agent Systems, and Trust‑worthiness*. pp. 255–266. DOI: 10.1007/978‑3‑030‑51999‑5_21
+Karsten, C., 2018. The dynamics of supply chain failure. *Accessed 20 May 2025*.
+McKinsey & Company, 2019. Defining ‘on‑time, in‑full’ in the consumer sector. *Accessed 20 May 2025*.
+Oracle NetSuite, 2024. Inventory Turnover Ratio Defined: Formula, Tips, & Examples. *Accessed 20 May 2025*.
+Spire Maritime Docs, 2025. The Port Congestion Index. *Accessed 20 May 2025*.
+United Nations Office for Disaster Risk Reduction (UNDRR), 2025. A Public‑Private Partnership for a Livelihood Seeding Program in a Post‑Disaster Context. *Accessed 20 May 2025*.
+United Nations Office for Disaster Risk Reduction (UNDRR), 2015. Sendai Framework for Disaster Risk Reduction 2015–2030. *Accessed 8 November 2020*.
+United Nations Economic Commission for Europe (UNECE), 2016. Informative document for the 73rd session of the Inland Transport Committee (ITC), Agenda item 10(g) Supply Chain Challenges for National Competitiveness through Transport. *Accessed 20 May 2025*.
+World Economic Forum (WEF), 2014. Building Resilience in Supply Chains. *Accessed 20 May 2025*.
+World Health Organization (WHO), 2025. Coronavirus disease (COVID‑19) pandemic. *Accessed 20 May 2025*.
+World Bank, 2025. Metadata Glossary: Lead time to import, median case (days) (Indicator: LP.IMP.DURS.MD). *Accessed 20 May 2025*.
+Ye, L., & Abe, M., 2012. The impacts of natural disasters on global supply chains. *Asia‑Pacific Research and Training Network (ARTNeT) Working Paper Series*, No. 115.
+
+**Cite this [Copy citation]**
+```

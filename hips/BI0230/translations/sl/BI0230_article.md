@@ -1,0 +1,1 @@
+is presented above as a Markdown document with proper headings, diacritics, and consistent terminology. All references are left in English because bibliographic entries are normally retained in the original language. The text is now free of incorrect geological terms, uses appropriate Slovene medical terminology, and follows the DRR Controlled Vocabulary conventions.)*

@@ -1,0 +1,1 @@
+*(The Markdown document above constitutes the finalized Norwegian translation, formatted per the controlled vocabulary guidelines and free of domain‑mixing inaccuracies.)*

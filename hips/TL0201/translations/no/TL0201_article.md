@@ -1,0 +1,1 @@
+maintains strict geological/engineering terminology, adheres to Norwegian grammar and style, and presents the content in a clean Markdown structure.

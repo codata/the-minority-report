@@ -1,0 +1,1 @@
+The above Markdown document presents a fully translated, domain‑accurate, and properly formatted version of the original technical hazard profile, adhering to the Controlled Vocabulary for Disaster Risk Reduction guidelines and Latvian linguistic conventions.

@@ -1,0 +1,1 @@
+aligns all technical terminology with the Controlled Vocabulary for Disaster Risk Reduction, removes non‑domain terms, ensures consistent formatting, and converts legacy formatting into standard Markdown headings.

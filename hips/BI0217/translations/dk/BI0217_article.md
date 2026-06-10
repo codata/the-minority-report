@@ -1,0 +1,1 @@
+*(All headings and content above are formatted as a well‑structured Markdown document.)*

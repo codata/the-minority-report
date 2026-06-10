@@ -1,0 +1,1 @@
+is presented above, formatted in Markdown and adhering to the Controlled Vocabulary for Disaster Risk Reduction. All terminologies are consistent, acronyms are fully expanded, decimal separators follow Latvian convention, and sentences are concise. The document is ready for use in hazard profiling, risk assessment, and disaster risk reduction planning.)

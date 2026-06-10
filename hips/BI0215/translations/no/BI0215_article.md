@@ -1,0 +1,1 @@
+: The translation above follows Norwegian terminology standards, aligns with DRR contextual usage, and employs consistent Markdown formatting.

@@ -1,0 +1,1 @@
+The above document represents the final, domain‑accurate Portuguese translation of the original English hazard profile, formatted in Markdown for clarity and consistency.

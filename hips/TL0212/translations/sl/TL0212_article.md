@@ -1,0 +1,1 @@
+follows the same logical structure as the English source, uses precise Slovenian technical terminology, converts legacy formatting to Markdown, and provides a complete, domain‑appropriate rendering of all content.)*

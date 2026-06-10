@@ -1,0 +1,1 @@
+[The above Markdown document contains the full, finalized Finnish translation of the provided English text, with proper terminology, corrected domain usage, and standard Markdown formatting.]

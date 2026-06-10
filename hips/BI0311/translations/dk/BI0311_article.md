@@ -1,0 +1,1 @@
+aligns with the controlled vocabulary, avoids domain‑mixing, and presents the information in clear Danish suitable for a disaster‑risk‑reduction document.

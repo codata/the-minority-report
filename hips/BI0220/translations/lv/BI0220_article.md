@@ -1,0 +1,1 @@
+above reflects accurate geological and epidemiological terminology in Latvian, removes any domain‑mix‑up, and aligns with the Controlled Vocabulary for Disaster Risk Reduction standards.

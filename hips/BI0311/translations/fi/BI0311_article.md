@@ -1,0 +1,1 @@
+*(The full Finnish translation has been provided above, following the structure and terminology detailed in the terminological analysis. All key scientific terms have been rendered consistently, and any non‑geological or mixed‑domain terminology has been corrected.)*

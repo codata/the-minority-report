@@ -1,0 +1,1 @@
+aligns terminology with the controlled vocabulary for disaster risk reduction, maintains consistent use of Danish technical terms, and presents the content in a clear Markdown structure.

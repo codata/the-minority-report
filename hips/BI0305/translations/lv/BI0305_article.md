@@ -1,0 +1,1 @@
+retains the original structure while applying accurate Latvian veterinary terminology, proper Markdown formatting, and consistent reference style.

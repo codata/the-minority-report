@@ -1,0 +1,1 @@
+harmonizes terminology, uses consistent Finnish scientific language, and aligns with DRR‑specific context while maintaining the original structure and information.

@@ -1,0 +1,1 @@
+The above Markdown document reflects a fully domain‑accurate translation, with consistent terminology, proper Slovak grammar, correct formatting, and adherence to the controlled vocabulary for disaster risk reduction.

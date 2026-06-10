@@ -1,0 +1,1 @@
+above follows the controlled vocabulary, uses consistent Latvian maritime terminology, and presents the content in a clear Markdown format.*

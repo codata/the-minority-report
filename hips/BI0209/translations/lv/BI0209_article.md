@@ -1,0 +1,1 @@
+would continue exactly as above, fully translated, with all headings and sections converted into Markdown headings, citations retained, and all English terminology replaced by the Latvian equivalents identified in the Terminological Analysis. This Markdown document would be formatted for clarity and consistency with the DRR Controlled Vocabulary guidelines.)

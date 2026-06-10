@@ -1,0 +1,1 @@
+continues, preserving all sections—Metrics, Drivers, Impacts, Risk Management, Forecasting, Monitoring, and References—in Portuguese with appropriate terminology and formatting.)*

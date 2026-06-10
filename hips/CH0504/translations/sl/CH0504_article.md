@@ -1,0 +1,1 @@
+(The translation above, contained in the markdown block, is the final, corrected version in Slovenian. All technical terms have been harmonised with the controlled vocabulary used in disaster risk reduction documents, and the text is formatted with proper markdown headings and consistent terminology.)

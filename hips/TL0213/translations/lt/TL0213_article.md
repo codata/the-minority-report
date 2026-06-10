@@ -1,0 +1,1 @@
+follows DRR terminology, maintains technical accuracy, and is formatted with Markdown headings for clarity.

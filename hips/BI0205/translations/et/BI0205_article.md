@@ -1,0 +1,1 @@
+is provided above, including all sections from “Definition” through “References”. The document is formatted in Markdown with proper headings, bullet points, and consistent terminology.)*

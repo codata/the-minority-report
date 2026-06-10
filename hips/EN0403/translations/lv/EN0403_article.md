@@ -1,0 +1,1 @@
+is presented above. All technical terms are standardized, unit formatting follows Latvian conventions, and all contextual clarifications are kept in parentheses. Markdown headings and list formatting are applied consistently throughout.)*

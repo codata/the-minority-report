@@ -1,0 +1,1 @@
+harmonizes terminology, aligns with the Controlled Vocabulary for Disaster Risk Reduction, and preserves the original document structure in Markdown format.

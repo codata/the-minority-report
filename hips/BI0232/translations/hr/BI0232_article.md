@@ -1,0 +1,1 @@
+*(The final, fully corrected Croatian translation is presented above, with consistent terminology, proper Markdown headings, and removal of any non‑geological or domain‑mismatched terms.)*

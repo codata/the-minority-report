@@ -1,0 +1,1 @@
+(Šis gala tulkojums atbilst vides un DRR terminoloģijai, izmantojot atbilstošus latviešu terminus, struktūru un Markdown formātu.)

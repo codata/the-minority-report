@@ -1,0 +1,1 @@
+is presented above. All scientific terms are rendered with the Norwegian equivalents identified in the Terminological Analysis. Sections are formatted using Markdown headings, and legacy formatting has been replaced with standard Markdown syntax.)*

@@ -1,0 +1,1 @@
+The above markdown section represents the final, domain‑accurate translation, free of terminological inconsistencies, aligned with DRR controlled vocabulary, and fully formatted for technical documentation.

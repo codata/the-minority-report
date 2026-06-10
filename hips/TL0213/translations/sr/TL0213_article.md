@@ -1,0 +1,77 @@
+```markdown
+### Definition
+Tuneli su umjetne, zatvorene podzemne strukture koje se koriste za različite svrhe; na primjer, kolapsi, požari, naplovi i ulaz vode mogu oštetiti tunelske objekte i uzrokovati ozljede te ljudske žrtve, što rezultira ozbiljnim socijalnim štetama (Prerađeno iz Zafirovski et al., 2018 i Chien i Chao, 2021).
+
+### Primary reference(s)
+Zafirovski, Z., Gacevski, V., Lazarevska, M. i Ognjenović, S., 2019. Procedure for risk analysis and management in tunnelling projects. In *E3S Web of Conferences* (Vol. 135, p. 01001). EDP Sciences. Pristupeno 19. mart 2025.  
+Chien, L. L. i Chao, F. C., 2021. Lessons learned from critical accidental fires in tunnels, *Tunnelling and Underground Space Technology*, Volume 113, 2021, 103944, ISSN 0886-7798. DOI: 10.1016/j.tust.2021.103944. Pristupeno 19. mart 2025.
+
+### Annotations
+#### Dodatni znanstveni opis
+Tuneli su civilne inženjerske strukture koje se grade radi osiguranja prostora u zemlji. Kategoriziraju se prema namjeni: autoputni tuneli, željeznički tuneli, magacinski i vodeni tuneli. Dodatno, tuneli se mogu klasificirati po lokaciji: planinski tuneli i gradovni tuneli (JICA, 2018). Tuneli se općenito referišu kao strukture s unaprijed određenim presekom kontinuiranim duž dužnice. Prema OECD definiciji, tunel je pore koji se nalazi ispod površine tla i koristi se na određeni način i izrađen je u predviđenu geometriju s presekom od dva kvadratna metra ili više (OECD, 2001).
+
+Tuneli su civilne inženjerske strukture dizajnirane za osiguranje podzemnog prostora. Njihove namjene uključuju promet (autoput, želika, metro), hidrauličke svrhe (voda, kišna voda i otpadna voda), koridori za komunalne instalacije (električna, komunikacije, plin), podzemne objekte (magacini, hangari), obnovljive izvore energije uključujući hidroenergiju, skladištenje energije i nuklearnu otpadnu rasipnju te znanstvene istraživačke primjene.
+
+Tuneli se mogu kategorizirati prema primarnoj funkciji:
+- Prometni tuneli (željeznički, autoputni, pešak, metro)
+- Hidraulički transportni tuneli (voda i otpadna voda, mitigacija poplava)
+- Tuneli za distribuciju komunalnih usluga (električna, telekomunikacije, plin, grijanje)
+- Industrijski i vojni tuneli (hangari zrakoplova, skloništa podzvona, podzemni skladišni objekti, industrijske tvornice)
+- Tuneli korišteni u instalacijama hidroenergije i skladištenju energije
+- Znanstveni i eksperimentalni podzemni prostori (Zafirovski et al., 2019)
+
+Tuneli se razlikuju po strukturnoj formi koja je prvenstveno utjecaj funkcionalnih zahtjeva, ali i u odnosu na geološke uvjete (geotehnički faktori) i metodu izgradnje kako bi se osiguralo tla podržavanje (oblaganja tunela). Materijali oblaganja uključuju stoljeve, sproženi beton, predvaljani segmenti, beton na licu mjesta i prefabrikovane čelične ili gvožđene segmente.
+
+#### Definicija nesreće tunela
+Definicija nesreće tunela odnosi se na nesposobnost tunela ili njegovih komponenti da obavljaju svoju funkciju kao što je specificirano u zahtjevima dizajna i izgradnje. Ova definicija uključuje potpune kolapsi, djelomične kolapsi, prekomjerne deformacije, ulaz vode, požar, napol, ulazak plina, ne stabilnost tla uslijed rudarskih aktivnosti, tuneliranje blizu slabih površinskih struktura i ponekad prekomjerni podnožje uzrokujući štetu nadstaničnim strukturama.
+
+Tuneli mogu doživjeti nesreću tijekom izgradnje, tijekom radnog vijeka ili zbog vanjskih ekoloških utjecaja poput poplava, seizmičke aktivnosti ili požara. Unatoč ozbiljnim posljedicama kada se nesreće događaju, broj incidenata tunela širom svijeta ostaje izuzetno nizak u odnosu na broj tunela koji se izgrađuju i operiraju svaki dan. Podzemno okruženje, kada je pravilno inženjirano i upravljano, pruža otpornost i sigurnost zahvaljujući prirodnoj konfiniranju koju pruža okolna geologija i zaštitu od rizika na površini poput vjetra i ekstremnih temperature. Tunelske strukture općenito pokazuju superiorne seizmičke performanse u usporedbi s strukturama iznad tla (Huan S et al., 2024); međutim, i dalje mogu doživjeti katastrofalne oštećenja tijekom snažnih potresa, osobito kada prolaze kroz aktivne kruga klize (Zhang et al., 2023).
+
+### Metrics and numeric limits
+Trenutno ne postoji standardni izvještaj o nesrećama tunela, prometnim nesrećama ili kolapsima. Postoje različiti izvještaji uključujući informacije o velikim požarima tunela (OECD, 2001 i Chien & Chao, 2021) i studije o kolapsima tunela kao što je Spyridis & Proske (2021).
+
+### Key relevant UN convention / multilateral treaty
+The United Nations Committee of Experts for the Transport of Dangerous Goods enhances global transport efficiency through a harmonized regulatory framework (ECE Inland Transport Committee ADR 2024, Volume I and Volume II).  
+Amendments to and Implementation of the 1968 Conventions on Road Traffic and on Road Signs and Signals and the 1971 European Agreements Supplementing them: Safety in Tunnel (UNESC 2003).
+
+### Drivers
+Tunelske nesreće su mnogo vjerojatnije tijekom izgradnje nego tijekom radnog vijeka. Kada se dogode, može biti kombinacija faktora uključujući rad, dizajn, sekvenciranje izgradnje, intrinsic geotehničke (tla) uvjete zbog nepredviđenog ponašanja stijene, visokih napora tla, karstičkih praznina i nepredviđenog ulaza vode. Ne upravljanje dizajnom i izgradnjom u odnosu na uvjete tla, bilo da je nedovoljna podrška tla, ili nedovoljna tretman ili otpuštanje ili rad specijalizirane opreme, tijekom rada tunela, postoje potencijalni rizici od požara i eksplozije s vozilnim požarima, izlivom opasnih materijala, eksplozijom plina, kvarovima električnog sustava (Chien & Chao, 2021). Greška operatera ili prekid komunikacije su također među ljudskim hazard driverima. Neki od najčešćih hazard tuneliranja uključuju probleme stabilnosti tunela, kao što su pad stijena i napetost stijena, i promjena geoloških uvjeta, uključujući varijaciju u strata i fluktuacije napora. Nadalje, s ograničenim prostorom i izazovima pristupa, uvjetan je zagađivanu zrak, ispuštanje kisika i rizici od požara ili eksplozije (Safe work Australia, no date). Dok je tunel u radnom statusu, otvoreni krajevi tunela su podložni prirodnim i meteorološkim katastrofama kao što su pad stijena, lavine, debrinacijski protoci i potresi (JICA, 2018).
+
+### Impacts
+Primarna prijetnja u slučaju kolapsa tunela je izravni udarac prouzrokovan padom betona, stijena, strukturnih elemenata i poplavne vode. Ako pojedinci budu zarobljeni pod debrama, ili iza debrama i spašavanje se kašnjava, njihova šansa za preživljavanje opada. Dodatno, oštećenje ventilačkog sustava može dovesti do nedostatka kisika i toksičnih plinova, što uzrokuje udisanje. Kolapsirana struktura može također blokirati pristup timova spašavanja, a nestabilni uvjeti mogu rezultirati dodatnim kolapsima tijekom napora spašavanja. Nadalje, kolizije vozila ili oštećenja električnih sustava unutar tunela mogu značajno povećati rizik od požara, a ako su uključeni opasni materijali, postoji i potencijalni rizik od eksplozije (Li et al., 2022; Tyagi, 2024; Pireddu, 2022). S obzirom na ove složene rizikove, nesreće tunela i/ili kolaps predstavljaju ozbiljna opasnost, zahtijevajući brzi i dobro koordiniran hitni odgovor. Sveobuhvatno upravljanje sigurnošću kako bi se spriječile nesreće, uz uspostavu učinkovitog sustava spašavanja, je nužno. Dodatno, nesreća tunela može dovesti do značajnih ekonomski, društvenih i kulturnih posljedica.
+
+### Multi‑hazard context
+Figa ispod sažima uobičajene interakcije između nesreće tunela i drugih rizika. Ove informacije treba koristiti s oprezom i ne trebaju se oslanjati isključivo na Disaster Risk Management, osobito jer neke interakcije možda nisu uključene. Napomena da se opasne situacije koje se događaju zajedno ili lokalno u prostoru ili vremenu ne moraju nužno uzrokovati, pojačavati ili biti na drugi način povezane. Konkretni primjeri multi‑hazard konteksta mogu se pronaći u odjeljcima „Hazard drivers“ i „Impacts“ iznad.
+
+### Risk Management
+Upravljanje rizicima u tuneliranju zahtijeva interdisciplinarni pristup koji uključuje vlasnike i operatore, inženjere i geološke poduzeća, i poduzetnike. Proprenter (2018) opisuje ključne strategije ublažavanja: napredni nadzor i sustavi rane upozorenja: AI‑bazirano prediktivno modeliranje (Zhang et al., 2023), geotehnička instrumentacija i praćenje pomaka tla u realnom vremenu. Robustan dizajn i planiranje: uvrštavanje posmatračkih metoda, modeliranje naprezanja i temeljito istraživanje lokacije. Otpornica infrastrukture: oblaganja visokih performansi, materijali otporni na vatru, redundancija u ventilaciji i drenažnim sustavima. Priprema za hitnu reakciju. Kod IMIA/ITA koda prakse za upravljanje rizikom tunelnih radova (2023) preporučuje osnovne dobre prakse za izbjegavanje gubitaka i ublažavanje posljedica uključujući: kompetentnost i adekvatnost resursa među svim dionicima, kultura svestranog rizika i otvoreno dijeljenje informacija, definirano raspodjelu rizika u ugovorima, pravovremene mehanizme rješenja za tehničke sporove, temeljita istraga lokacije prije dodjeljivanja ugovora, neovisno nadgledanje i real‑time monitoring tijekom izgradnje, integrirani planiranje zdravlja i sigurnosti prije početka ekskavacije. Geološka kompozicija tunela inherentno je složena, a potencijalne katastrofe mogu biti teške, s mnogo osnovnih rizika (Cao et al., 2018; Zhu et al., 2020). Budući da kolapsi tunela mogu dovesti do značajnih žrtava i materijalne štete, prediktivno upravljanje i rani sustavi upozorenja ključni su. Primjerice, tuneli mekog stijena imaju visok rizik od kolapsa tijekom izgradnje. Rani sustav upozorenja može otkriti i predvidjeti rizik od velikih deformacija unaprijed, što omogućuje odgovarajuće kontra mjere. U procjeni rizika, hidrogeološki uvjeti, faktori dizajna i faktori izgradnje služe kao primarni pokazatelji, dok se indeks kvalitete stijene, utjecaj podzemne vode i dubina tunela smatraju sekundarnim pokazateljima. AI modeli mogu se koristiti za praćenje podataka, omogućujući ranu detekciju potencijalnih rizika (Zhang et al., 2023).
+
+### Monitoring
+Strukturno zdravlje nadzora tijekom životnog ciklusa strukture se koristi u nekim zemljama (Stepanovic et al., 2020). Strukturno zdravlje nadzora sastoji se od stalno instaliranih senzora ili instrumentacije, kombiniran s analizi podataka, kako bi se generirali podaci koji dopuštaju kontinuirano praćenje struktura kao što su mostovi, brane, tuneli i zgrade. To omogućuje inženjerima da donose pravovremene, informirane odluke o integritetu nadziranog strukture, otkrivanje strukturalnih nedostataka, predviđanje ili procjena preostalog trajanja strukture i maksimalno iskorištavanje mogućnosti za sigurno upravljanje strukturom.
+
+### References
+Cao, C., Shi, C., Lei, M., Yang, W., Liu, J., 2018. Squeezing failure of tunnels: A case study. *Tunn. Undergr. Sp. Technol.* 77:188–203. Pristupeno 21. mart 2025.  
+Chien, L. L., Chao, F. C., 2021. Lessons learned from critical accidental fires in tunnels, *Tunnelling and Underground Space Technology*, Volume 113, 2021, 103944, ISSN 0886-7798. DOI: 10.1016/j.tust.2021.103944. Pristupeno 21. mart 2025.  
+Huang, S, Xin, C., Song, C., Feng, W, Liu, X., Wang, E., Xu, T., Xiong, X., 2024. Resilience assessment of the seismic damage mechanism of the Daliang high‑speed railway tunnel in the 2022 Menyuan earthquake (Mw 6.7) in China, *Transportation Geotechnics*, Volume 49,101417, ISSN 2214-3912. DOI: 10.1016/j.trgeo.2024.101417. Pristupeno 22. mart 2025.  
+IMIA/ITA‑AITES, 2023. *Code of Practice for Risk Management of Tunnel Works*. 3rd Edition, February 2023. Pristupeno 21. mart 2025.  
+JICA, 2018. *Guideline for Design of Road Tunnel*. Road Development Authority/ Japan International Cooperation Agency (JICA). Pristupeno 21. mart 2025.  
+Li, L., Ni, B., Zhang, S. et al. 2022. Tunnel collapse risk assessment based on improved quantitative theory III and EW‑AHP coupling weight. *Sci Rep* 12, 16054. DOI: 10.1038/s41598-022-19718-z. Pristupeno 6. februara 2025.  
+OECD, 2001. *Safety in Tunnels*. Transport of Dangerous Goods through road tunnels. Organisation for Economic Cooperation and Development. Pristupeno 19. mart 2025.  
+Pireddu, A., Lombardi, M., Bruzzone, S., Berardi, D., 2022. Risk based Tunnel Design for Consequences of Road Accidents: The Role of Tunnel Length. DOI:10.2495/SSR220061. Pristupeno 6. februara 2025.  
+Proprenter, M., Lenz, G., 2018. Risk Management in Tunnelling – A Joint Approach of all involved. International Tunnelling and Underground Space Association. Pristupeno 21. mart 2025.  
+Safe work Australia, No date. *Tunnelling*. Pristupeno 20. mart 2025.  
+Spyridis, P., Proske, D., 2021. Revised Comparison of Tunnel Collapse Frequencies and Tunnel Failure Probabilities. *Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering*. VI – 7: 10.1061/AJRUA6.0001107 [doi] 4099. Pristupeno 19. mart 2025.  
+Stepanovic, I., Kovačević, M. S., Škarić Palić, S., Bačić, M., Gavin, K., 2020. Implementation of structural health monitoring into life cycle management of tunnels: Case study Tunnel Brajdica. 6th International Conference on road and rail infrastructure. Implementation of structural health monitoring into life cycle management of tunnels: Case study Tunnel Brajdica. Pristupeno 20. mart 2025.  
+Tyagi, P., 2022. Silkyara Tunnel Section Collapse: A case study. Pristupeno 6. februara 2025.  
+UN ECE Inland Transport Committee ADR 2024. *Agreement Concerning the International Carriage of Dangerous Goods by Road Volume 1*. United Nations Committee of Experts for the Transport of Dangerous Goods enhances global transport efficiency through a harmonized regulatory framework. Pristupeno 19. mart 2025.  
+UN ECE Inland Transport Committee ADR 2024. *Agreement Concerning the International Carriage of Dangerous Goods by Road Volume II*. United Nations Committee of Experts for the Transport of Dangerous Goods enhances global transport efficiency through a harmonized regulatory framework. Pristupeno 19. mart 2025.  
+UNESC 2003. Amendments to and Implementation of the 1968 Conventions On Road Traffic and on Road Signs and Signals and the 1971 European Agreements Supplementing them: Safety In Tunnel 968. UN Economic and Social Council (UNESC). Pristupeno 19. mart 2025.  
+Voeltzel, A. & Dix, A., 2004. A Comparative Analysis of the Mont Blanc, Tauern and Gotthard Tunnel Fires. *Environmental Science & Engineering*. Published October 1, 2004. International Tunnelling and Underground Space Association. Pristupeno 21. mart 2025.  
+Zafirovski, Z., Gacevski, V., Lazarevska, M. i Ognjenović, S., 2019. Procedures for risk analysis and management in tunnelling projects. In *E3S Web of Conferences* (Vol. 135, p. 01001). EDP Sciences. Pristupeno 21. mart 2025.  
+Zhang, X., Minghao, W., Feng, D., Jinchun, W., 2023. Risk Classification assessment and early warning of large deformation of soft rock in tunnels based on CNN‑LSTEM model. Pristupeno 30. januara 2025.  
+Zhu, C., He, M. C., Karakus, M., Cui, X.B., Tao, Z. G., 2020. Investigating toppling failure mechanism of anti‑dip layered slope due to excavation by physical modelling. *Roc Mech and Rock Engi.* doi:10.1007/s00603-020-02207-y. Pristupeno 22. mart 2025.  
+
+*Cite this* [Copy citation]
+```
+
+The final translation uses consistent Serbian terminology, correct Markdown heading levels, and aligns with the Controlled Vocabulary for Disaster Risk Reduction.

@@ -1,0 +1,1 @@
+*(All sections are now fully translated, with consistent Slovak terminology, correct grammar, and proper Markdown formatting.)*

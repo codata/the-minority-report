@@ -1,0 +1,1 @@
+above follows the technical terminology guidelines, eliminates all identified mistakes, and presents the content in a clear, structured Markdown format suitable for a Controlled Vocabulary for Disaster Risk Reduction document.

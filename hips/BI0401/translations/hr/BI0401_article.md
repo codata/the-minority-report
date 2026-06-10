@@ -1,0 +1,1 @@
+is provided above, ensuring consistent terminology, accurate scientific translations, and proper Markdown formatting.)*

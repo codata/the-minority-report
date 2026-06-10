@@ -1,0 +1,47 @@
+{
+  "variables": [
+    "expansie-index",
+    "volumetrische verandering",
+    "bodemvochtgehalte",
+    "grondwaterstand",
+    "diepte van de vochtgehalte‑schommelingszone",
+    "scheurdiepte van mudcracks",
+    "bodemdiepte van expansieve gronden",
+    "temperatuur",
+    "duur van droogtecycli",
+    "activiteit van aardgraven",
+    "activiteit van ondergrondse mijnbouw",
+    "activiteit van tunnelbouw",
+    "consolidatie‑sterkte",
+    "stressgeschiedenis van het gesteente",
+    "verweringsprocessen",
+    "vegetatie‑waterbehoefte"
+  ],
+  "indicators": [
+    "expansie-index",
+    "presence of mudcracks",
+    "volumetrische veranderingen (krimp/uitzetting)",
+    "grondverzakking",
+    "grondstijging",
+    "bodemvochtvariaties",
+    "detectie via GNSS of InSAR",
+    "bodemvochtigheidssensoren",
+    "LiDAR‑metingen van bodemverandering",
+    "expansiepercentages (bijv. 10 %)"
+  ],
+  "risk_drivers": [
+    "verlaagde grondwaterstand",
+    "grondwaterextractie",
+    "ondergrondse mijnbouw",
+    "tunnelbouw",
+    "consolidatie",
+    "aardgraven",
+    "hittegolven",
+    "droogtecycli",
+    "veranderingen in vochtgehalte",
+    "verwijderen van vegetatie",
+    "klimaatverandering",
+    "verweringsprocessen",
+    "stressgeschiedenis"
+  ]
+}

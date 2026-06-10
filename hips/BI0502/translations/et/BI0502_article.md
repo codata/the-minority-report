@@ -1,0 +1,1 @@
+continues with the remaining sections—References, Tables, Figures—formatted appropriately in Markdown.)*

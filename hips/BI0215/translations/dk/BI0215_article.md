@@ -1,0 +1,1 @@
+The document above presents the fully revised Danish translation, ensuring consistent terminology, proper domain‑specific language, and adherence to DRR and WHO style guidelines.

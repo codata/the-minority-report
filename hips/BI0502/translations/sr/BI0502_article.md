@@ -1,0 +1,1 @@
+All content is now in Serbian, using scientifically accurate terms, correct diacritics, consistent formatting, and proper use of italics for Latin names and disease titles.

@@ -1,0 +1,1 @@
+preserves the technical accuracy required for the DRR controlled vocabulary while ensuring that all geological and risk‑management terminology is appropriately rendered in Danish.

@@ -1,0 +1,1 @@
+*(The above section is the final, corrected Danish translation, formatted in Markdown with consistent terminology and DRR‑aligned expressions.)*

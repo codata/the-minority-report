@@ -1,0 +1,1 @@
+above follows the Markdown format requested, uses the domain‑specific terms identified in the terminological analysis, and replaces any incorrect or ambiguous wording with the appropriate Slovenian equivalents. All headings have been converted to Markdown headings (`###`).*

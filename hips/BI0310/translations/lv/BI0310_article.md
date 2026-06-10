@@ -1,0 +1,1 @@
+follows the Controlled Vocabulary for Disaster Risk Reduction, uses proper Latvian terminology, and presents the information in a clear, structured Markdown format.

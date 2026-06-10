@@ -1,0 +1,52 @@
+{
+  "variables": [
+    "Pourcentage d'expansion",
+    "Profondeur de l'influence de l'humidité",
+    "Profondeur des fissures",
+    "Indice d'expansion",
+    "Indice de plasticité",
+    "Changement volumétrique",
+    "Taux de déplacement",
+    "Niveau de nappe phréatique",
+    "Teneur en eau du sol",
+    "Température du sol",
+    "Concentration de minéraux argileux",
+    "Proportion de kaolinite",
+    "Proportion de smectite",
+    "Débit d'extraction d'eau souterraine",
+    "Résistance à la compression du sol",
+    "Altitude LiDAR",
+    "Déplacement GNSS",
+    "Variation saisonnière d'humidité",
+    "Saturation du sol",
+    "Tension dans les dalles de plancher",
+    "Déformation différentielle"
+  ],
+  "indicators": [
+    "Indice d'expansion",
+    "Indice de plasticité",
+    "Mesure de déplacement GNSS",
+    "Mesure InSAR",
+    "Mesure LiDAR",
+    "Variation de teneur en eau",
+    "Proportion de kaolinite vs smectite"
+  ],
+  "risk_drivers": [
+    "Abaissement de la nappe phréatique",
+    "Extraction d'eaux souterraines",
+    "Exploitation souterraine / tunnelisation",
+    "Consolidation du sol",
+    "Trous de sol (sinkholes)",
+    "Vagues de chaleur",
+    "Cycles de sécheresse",
+    "Variations d'humidité dans les sols expansifs",
+    "Demande en eau de la végétation",
+    "Changement climatique atmosphérique d'humidité",
+    "Défrichement et destruction des végétations",
+    "Construction sur sols expansifs",
+    "Stabilisation insuffisante du sol",
+    "Interaction avec les événements sismiques",
+    "Défaillance des fondations (levée ou retrait)",
+    "Événements de risque simultanés (spatio-temporels)"
+  ]
+}

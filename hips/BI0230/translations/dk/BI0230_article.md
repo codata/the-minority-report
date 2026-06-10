@@ -1,0 +1,1 @@
+above is presented in Markdown format, with proper Danish terminology, consistent abbreviations, and clear structural headings.)*

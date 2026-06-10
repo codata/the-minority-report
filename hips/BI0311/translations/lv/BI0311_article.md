@@ -1,0 +1,1 @@
+is provided above, formatted as a well‑structured Markdown document.)

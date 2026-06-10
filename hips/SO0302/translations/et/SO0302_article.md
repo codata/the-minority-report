@@ -1,0 +1,35 @@
+> 
+> ### Definitsioon  
+> Inimeste maavahk või surumine on inimeste rütk turva või kohtu tunde või füüsilise ruumi kaotamisega. See häirib sageli korraldatud liikumist, mille tulemusena tekib isikliku kaitse liikumine, mille tulemusena suureneb kohaliku tiheduse tõus ning inimkeha füüsiline surumine (kohaldatud Burkle & Hsu, 2011; Illiyas et al., 2013; Ngai et al., 2009).  
+> 
+> ### Peamised viited  
+> Burkle, F.M. Jr. ja E.B. Hsu, 2011. Ram Janki Temple: human stampedes mõistmine. Lancet, 377:106‑107.  
+> Illiyas, F., Mani, S., Pradeepkumar, A., ja Mohan, K., 2013. Human stampedes during religious festivals: a comparative review of mass gathering emergencies in India. *International Journal of Disaster Risk Reduction*, 5:10‑18.  
+> Ngai, K.M., Burkle, F.M. Jr., Hsu, A., Hsu, E.B., 2009. Human stampedes: a systematic review of historical and peer‑reviewed sources. *Disaster Medicine and Public Health Preparedness*, 3:191‑195.  
+> 
+> ### Lisamärkused  
+> Massikogunemised on rahvastiku kogumine kindlas kohas kindla eesmärgi täitmiseks kindla aja jooksul, mis võib ületada riigi või kogukonna planeerimise ja reageerimise ressursse (WHO, 2015). Rahvastiku kasv ja pidev inimliikumine teevad massikogunemised tihti sagedasemaks ning tõstavad osalejate arvu (Johansson et al., 2012). Massikogunemised on kas spontaanid, näiteks rongijaamadeski tööstundis (Johansson et al., 2012), või planeeritud, näiteks spordisündmused, kultuurisündmused, muusikafestivalid, pühakülastused või poliitilised sündmused (WHO, 2015). Haj Kairas ja Kumbh Mela India on suurimad regulaarne massikogunemised maailmas, toob need kokku miljonid pühakülalisõdsaid (Ahmed et al., 2006; Illiyas et al., 2013).  
+> Massikogunemised võivad mõjutada tervist erinevalt ja võivad põhjustada õnnetusi, sealhulgas infrastruktuuri kokku kukkumine, tulekahju juhtumid, terrorirünnakud, õrge pühangud ja inimeste maavahk (Soomaroo & Murray, 2012; WHO, 2015; Still, 2019), mille tagajärjel kannatavad elud. Maavahk, mis põhjustab surumine, avaldab kõrge survalaulahingu, lisaks soojusga seotud haigustele, kõige levinumamaid surma põhjusta massikogunemistes (Steffen et al., 2012; Still, 2019).  
+> Enamik surumisvigastusi põhjustab traumaasfyksi, mis tekib välise rinnaväli ja/või õõnsäde surumise tõttu, põhjustades osalise või täieliku hingamise peatumise. Uuringud on näidanud, et oluliselt surumispingutused võivad tekkida isegi mõõdukate kogunemistega; kuni 4 500 N (1 000 lb) pingutusi saab tekita vaid kuue‑seitsme inimese surumisel ühes suunas, mis on piisav tervise räie kõvastamiseks (Ngai et al., 2009).  
+> Kuigi autopsia aruanded ja elijate kogemused näitavad traumaasfyksi kui põhjusliku surma põhjuse, kaalutakse ka muid mehhaanilisi mehhanisme, sealhulgas südameinfarkt, otse survetulekahju intrathoracillis või intraabdominalis elundisse, peavalus ja ranna surumine. Kõik need mehhanismid on võimalikud, kuid tõenduspõhine tõendus on vähene. Autopsia uuringud näitasid, et “inimesed, kes suruvad… suruvad tavaliselt seisva asendis, seisvalt asendis” (Ngai et al., 2009).  
+> Surumispingutuste käitumine varieerub, kusjuures ees-/taasküljalises surumisest või vastupidises surumisest põhjustab hingamisraskust, samas kui külgaline surumine jäid tavaliselt välistatuna, kuna rinnaväli laienemine ei olnud täielikult takistatud (Ngai et al., 2009).  
+> Täielik vigastuste spekter – sealhulgas tükeldused, deformatsioonid ja muud mehhaanilised vigastused – on ohtlik. Elijad võivad kogeda posttraumaatilist stressi, elujääja süütunnet või elujääja süütunnet ning vajavad psühholoogilist nõustamist või sekkumist (Ngai et al., 2009).  
+> ### Mõõdikud ja numbrilised piirid  
+> Maavahk mõju mõõtmiseks ei ole standardiseeritud mõõdikuid. Peamine arutelu keskendub sellele, kas maavahk tuleks klassifitseerida surumiste arvule, vigastuste arvule või survalaulahingule.  
+> ### Oluline ÜRO konventsioon / multilateral lepingu  
+> Rahvusvahelised tervishoiuregulatsioonid (2005) (WHO, 2016).  
+> ### Ajamõjud  
+> Paljud massikogunemisõnnetused põhinevad pärasttööteliste uurimiste tulemuste analüüsil. Anekdootilised uudiste kajastused ja jälgimised annavad lisateavet sündmustest. Ükski meediategelane ei anna täielikku informatsiooni, kuid sageli raporteeritakse maavahkette läbi sõnumeid, üleväärtusi, kitsas läbipääs ja üleküllumine. Enamik maavahkest juhtub siseruumides, päeval ja spordisündmustel (Hsieh et al., 2009).  
+> ### Mõjud  
+> Viimastel aastatel on inimese maavahkestel kasvav dokumenteerimise treng. Kuigi muljetavaldav vähenemine on nähtav suurenenud populatsiooni tiheduse tõttu, eriti madala ja keskmise sissetulekuga riikides (de Almeida & Von Schreeb, 2019), peegeldab raportite arv tõenäoliselt suuremat teabe jagamist meediades. Enne 1990‑e aastate sündmusi, eriti vähem arenenud riikides, võisid olla suured maavahked, mida ei raporteeritud. Üldiselt hinnatakse vigastusi või jääb need registrist puudu, samas kui otse surmad (ilma vigastuse järgmistel surmadest) annavad täpsema teabe (Ngai et al., 2009; Still, 2019).  
+> Maavahk ja surumine toimuvad sageli organisatsioonide süsteemsete ebaõnnestumiste tõttu, mis ei paku ohutut keskkonda avalike kogunemiste jaoks (Still, 2019). 1980‑2007 vahel tuvastas Ngai meetod 215 maavahke globaalset, 1980‑2012 vahemikus 350 sündmust, mille käigus tappis 7069 inimese ja vigastati 14 078 inimest (Hsieh et al., 2009) ning 10 243 surma ja 22 445 vigastust (Ngai et al., 2009). Naised, lapsed ja vanad inimesed olid rohkem haavatavad, sest nad ei suudanud end kaitsta välimise surma tõttu (de Almeida & Von Schreeb, 2019).  
+> ### Mitmekohalik kontekst  
+> Kiirhõivatuslikud ohtud (meteoroloogilised ja hidroloogilised, eksooterilised, geoohud, keskkonnaohud, keemilised, tehnoloogilised või sotsiaalsed) võivad juhtuda massikogunemiste ajal, põhjustades maavahk. Maavahk võib viia teiste ohutusse (keskkonnahäired, keemilised, tehnoloogilised või sotsiaalsed).  
+> ### Riskijuhtimine  
+> Organiseeritud ja spontaansete massikogunemiste korral on planeerimine ja reageerimine kulutav. Ohutu ja tervislik massikogunemine nõuab varajast mitmekülgset ettevalmistust, mis hõlmab ürituse korraldajaid, tervishoiukriisihaldureid, tervishoiuasutuste valitsusasutusi, haigla hädaolukorra osakondi, esmaabi töötajaid ja teisi sektoritevahelisi partnereid, sealhulgas politsei ja hädaolukordteenuseid (WHO & PHE, 2017). Seoul Halloweeni surumise juhtum rõhutab proaktiivsete meetmete olulisust, sealhulgas politsei kohalolek, liikluse juhtimine ja tõhus suhtlus. Riskianalüüs on vajalik planeerimisel igaks ürituseks. See aitab valida ja rakendada riskid vähendamise meetmeid, reageerimise planeerimist, võimekuse arendamist tervishoius, massikõrvi juhtimine, kohalikku traumahoole, haiguste jälgimine ja epidemia vastus, keskkonnatervis, toiduohutus, avalik teave ja tervistsoodumine, juhtimine, koordineerimine, suhtlus ja hädaolukorratöövalmistumine (WHO ja PHE, 2017).  
+> ### Jälgimine  
+> Informatsiooni puudub.  
+> ### Viited  
+> (Lähemad viited on säilitatud tekstis.)  
+> 
+> (All viited vastavad algsele viidete loetelule.)

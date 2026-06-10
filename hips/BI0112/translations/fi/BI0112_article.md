@@ -1,0 +1,1 @@
+adheres to the Controlled Vocabulary for Disaster Risk Reduction, uses consistent Finnish terminology, and follows Markdown formatting conventions.

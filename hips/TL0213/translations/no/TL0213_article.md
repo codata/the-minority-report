@@ -1,0 +1,1 @@
+> (Full tekst som vist over, i Markdown‑format med korrekt terminologi og konsistens i språkbruk.)

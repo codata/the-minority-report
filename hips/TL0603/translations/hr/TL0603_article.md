@@ -1,0 +1,50 @@
+### Definition  
+Nuklearni agenti proizlaze iz neutronne radijacije (n), koja je neutron izpušten od nestabilnog jezgra, posebice tijekom raspada atoma i nuklearne fuzije. Osim komponente u kozmičkim zrakama, neutrone obično proizvode umjetno. Budući da su električno neutralne čestice, neutroni mogu biti vrlo prodirajući, a kada interagiraju s materijalom ili tkivom, uzrokuju emitiranje beta‑ i gama radijacije. Neutronna radijacija stoga zahtijeva tešku zaštitu radi smanjenja izlaganja (IAEA, 2004).
+
+### Primary reference(s)  
+IAEA, 2004. Radiation, People and the Environment. International Atomic Energy Agency (IAEA). Accessed 1 December 2019.
+
+### Annotations  
+#### Additional scientific description  
+Razrzavanje neutronne radijacije kroz nuklearne zbrane, uključujući improvizirane nuklearne uređaje (IND), rezultira nuklearnim iznosom koji se razlikuje od radijacije razrzavanja (RDD). Taj nuklearni iznos mjere se u kilotonima (kT); jedna jedinica ima eksplozivnu energiju ekvivalentnu tisuću tona TNT-a. Nuklearne detonacije mogu proizvesti utjecaje daleko nadmašujući bilo koju konvencionalnu eksploziju (IAEA, 2004). Jedan značajan učinak nuklearnog eksploziva je munja generisana. Munja potječe iz brzo šireći se vatru eksplozi, koja generira tlakova val koji se brzo kreće od mjesta detonacije. Prvotno, blizu mjesta detonacije (također poznatog kao „ground zero“) za površinski nuklearni udar, prekomjeran tlak je iznimno visok. S povećanjem udaljenosti od „ground zero“, prekomjeran tlak i brzina munje se razrjeđuju do točke na kojoj prestaju biti destruktivni. U slučaju nuklearnog terorističkog incidenta, toplinski impuls može uzrokovati opekline kože na osobama unutar nekoliko milja od incidenta koji imaju viziju u liniji slike vatru (IAEA, 2004).  
+Biti će mnoge opasnosti nakon nuklearnog terorističkog incidenta, uključujući široko rasprostranjene požare i prisutnost toksičnih materijala, ali jedna od najznačajnijih u smislu ljudskog zdravlja za incident na razini tla ili blizu tla bila bi preostala radijacija iz radioaktivnog pada i neutronne aktivacije materijala. Iako su razine radijacije najopasnije u prvim satima, neka područja unutar nekoliko milja na putu dolje još uvijek mogu biti opasna danima nakon incidenta. Brzo identificiranje tih područja radioaktivnog pada za provedbu zaštitnih mjera je jedna od najviših prioriteta za upravljanje hitnim slučajevima i javnozdravstvene vlasti (IAEA, 2004).
+
+### Metrics and numeric limits  
+Identifikacija opasne radijacijske zone (stopa izlaganja ≥10 R h⁻¹, 0,1 Gy h⁻¹ atmosferski kerma) ima kritične implikacije na aktivnosti u ili blizu područja radioaktivnog pada. Opasna radijacijska zona je područje gdje se velike doze mogu osigurati hitnim reagiranima u kratkom vremenu. Odnos doze i zdravstvenog učinka uglavnom je uspostavljen preko preživjelih od bomba Hirošima i Nagasaki, procijenjenih 1950. i nastavljenih od američke komisije za uzroke atomskih bomba (ABCC) i njezine nasljednice binacionalne istraživačke fondacije za učinke radijacije SAD‑Japana (RERF) (NCRP, 2010).  
+Nakon nuklearnog terorističkog incidenta na razini tla, opasna radijacijska zona stvara se od radioaktivnog pada koji se depozituje u prvim satima i može imati granice koje se protežu do 20 milja (~32 km), ovisno o iznosu i vremenu. Opasna radijacijska zona brzo se smanjuje kako radioaktivni pad opada i može biti samo kilometar ili dva duž nakon nekoliko dana. Na primjer, hitni reagiranjem koji radi u području s početnom stopom izlaganja 10 R h⁻¹ (~0,1 Gy h⁻¹ atmosferski kerma) 4 sata nakon nuklearnog terorističkog incidenta, dobiti će ~25 R (~0,25 Gy atmosferski kerma) u 4‑sati radnom periodu (NCRP, 2010).
+
+### Key relevant UN convention / multilateral treaty  
+Effective national and global response arrangements and capabilities are essential to minimise the impacts from nuclear and radiological incidents and emergencies. The International Atomic Energy Agency (IAEA) maintains the international Emergency Preparedness and Response (EPR) framework, which is based on international legal instruments (IAEA, 2019).  
+As part of these activities, the IAEA develops safety standards, guidelines and technical tools; assists Member States in building the capacity for emergency response; and maintains the IAEA Incident and Emergency System to efficiently.  
+The IAEA Preventive Measures for Nuclear and Other Radioactive Material out of Regulatory Control elaborates upon the recommendations given in IAEA Nuclear Security Series No. 15, Nuclear Security Recommendations on Nuclear and Other Radioactive Material out of Regulatory Control, in relation to preventative measures (IAEA, 2019). It serves as a guidance document for Member States interested in strengthening their nuclear security regime as it relates to nuclear and other radioactive material out of regulatory control and in improving their capabilities.
+
+### Drivers  
+Nuklearni agenti, koji uzrokuju razrzavanje neutronne radijacije, povezuju se s nuklearnim zbrnama, uključujući improvizirane nuklearne uređaje (IND). Sukobi i nesreće na lokacijama proizvodnje ili skladištenja također mogu osloboditi nuklearne agente.
+
+### Impacts  
+Studija životnog vijeka koja je istraživala zdravstvene posljedice na velikoj populaciji nakon bomba Hirošim i Nagasaki, pokazala je da su preživjeli unutar 1500 m od epicentra (zaštićeno tijelo kerma >1 Gy) u prosjeku imali smanjenje očekivanog životnog vijeka za 2,6 godine uslijed raka uzrokovanog radijacijom (Smith, 2007).
+
+### Multi‑hazard context  
+Slikica ispod sažima uobičajene interakcije između nuklearnog agenta i drugih opasnosti. Te informacije trebaju se koristiti s oprezom i ne smiju se oslanjati isključivo na upravljanje rizicima od katastrofa, osobito jer neke interakcije možda nisu uključene. Napomena da se opasne događaje koji se događaju zajedno ili lokalno u prostoru ili vremenu ne nužno uzrokuju, pojačavaju ili na drugi način povezuju. Konkretni primjeri multi‑hazard konteksta mogu se pronaći u odjeljcima „Hazard drivers“ i „Impacts“ iznad.
+
+### Multi‑hazard diagram  
+UNDRR  
+Risk Management  
+Zaštitne akcije za sprječavanje ili smanjenje izlaganja radijaciji u slučaju radijacijske hitne situacije ovise o vrsti hitne situacije i mogu uključivati: u potpunosti potupanje; evakuaciju ili čak trajnu relocaciju iz pogođenog područja; ograničenje konzumacije kontaminirane hrane ili vode; administraciju iodine za blokiranje tiroida (u slučaju oslobađanja radioaktivne iodine, vidjeti HIP na Iodinu/Iodid višak/neodgovarajuće unos CH0105); praćenje i mjerenje radijacije kod pogođenih osoba i okoliša; osiguranje radioaktivnih izvora i čišćenje pogođenih područja; kao i pružanje informacija, komunikacije rizika, psihološke podrške, medicinske njege i dugoročnog praćenja onih kojima je potrebna (IAEA, 2021). Sustav ranog upozorenja (EWS) povezan s nuklearnim agentima pruža rane upozorenja za događaje poput oslobađanja nuklearnog materijala, curenja radijacije i nuklearnih nesreća, ciljajući na odmah odgovor i prevenciju. Ovaj sustav prvenstveno koristi opremu za otkrivanje radijacije, podatke s satelita, podzemne senzore i automatizirane mehanizme upozorenja kako bi otkrili znakove nuklearnog incidenta u stvarnom vremenu i poslali upozorenja. EWS brzo otkriva oslobađanje nuklearnog materijala i šalje upozorenja regijama koje bi mogle doživjeti ozbiljno izlaganje radijaciji ili područjima gdje bi materijal mogao širenje u atmosferi, dopuštajući ljudima da poduzmu odgovarajuće evakuacije ili mjere zaštite od radijacije.
+
+### Monitoring  
+Ovaj odjeljak i tablica ispod nude pregled praćenja nuklearnog agenta. Te informacije se mogu koristiti za prognozu u okviru nacionalnog sustava ranog upozorenja (EWS). Budući da kapacitete i procese EWS razlikuju zemlje, najnovije i specifične informacije o EWS trebaju se dobiti od odgovarajuće nacionalne ili regionalne agencije/autoritet za upravljanje katastrofama.  
+Koja institucija(n) proizvodi(p) podatke/informacije o riziku od katastrofe?  
+- Predsjednička komisija za organizaciju sveobuhvatnog ugovora o zabrani nuklearnih testova (CTBTO)  
+- Međunarodna agencija za atomski energiju (IAEA)  
+Kako se opasnost promatra/praću/prognozuje?  
+CTBTO upravlja Međunarodnim sustavom praćenja (IMS) koji se sastoji od 321 stacionarne praćenja u 89 zemalja. Ovaj IMS uključuje metode verifikacije koje koriste seizmičke stanice za praćenje podzemnih testova mjerenjem udarnih valova, hidroakustičke stanice za otkrivanje zvučnih valova, infradźvukovne stanice i radionuklidne stanice za otkrivanje radioaktivnih čestica ili plinova (CTBTO, bez datuma). IAEA organizira posjete nuklearnim lokacijama.
+
+### References  
+Comprehensive Nuclear‑Test‑Ban Treaty Organization (CTBTO), no date. The International Monitoring System. Accessed 25 January 2025.  
+International Atomic Energy Agency (IAEA), 2004. Radiation, people and the environment. Accessed 25 January 2025.  
+International Atomic Energy Agency (IAEA), 2019. Preventive measures for nuclear and other radioactive material out of regulatory control: Implementing guide. Nuclear Security Series No. 36‑G. Accessed 25 January 2025.  
+International Atomic Energy Agency (IAEA), 2021. Radiation in everyday life. Accessed 25 January 2025.  
+National Center for Biotechnology Information (NCBI), 2014. Lessons learned from the Fukushima nuclear accident for improving safety of U.S. nuclear plants. Accessed 25 January 2025.  
+National Council on Radiation Protection and Measurements (NCRP), 2010. Responding to a radiological or nuclear terrorism incident: A guide for decision makers: Report No. 165. Accessed 25 January 2025.  
+Smith, J.T., 2007. Are passive smoking, air pollution and obesity a greater mortality risk than major radiation incidents? BMC Public Health, 7, p.49. doi:10.1186/1471‑2458‑7‑49. Accessed 25 January 2025.

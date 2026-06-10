@@ -1,0 +1,41 @@
+**Definition**  
+Chikungunya je **virusna infekcija prenesena komarcem** uzrokovana virusom chikungunya. Uzrokuje groznicu i tešku **artralgiju** (bol u zglobovima) koja je često **debilitirajuća**. Bolest može biti endemična i epidemija u zemljama (WHO, 2025).
+
+**Primary reference(s)**  
+WHO, 2025. Chikungunya. Svjetska zdravstvena organizacija (WHO). Pristupeno 25 svibnja 2025.
+
+**Annotations**  
+Dodatni znanstveni opis  
+Chikungunya je virusna bolest prva opisana tijekom izbijanja u južnoj Tanzaniji 1952. G. Virus je **RNA virus** koji pripada **rodu Alphavirus** iz **obitelji Togaviridae**. Naziv „chikungunya“ potječe iz riječi na **Kimakonde jeziku**, što znači „postati izobljen“, i opisuje ustojući izgled bolesnika s artralgijom (WHO, 2025). Virus chikungunya prenosi se između ljudi ugrizom zaraženih komaraca – uglavnom *Aedes aegypti* i *Aedes albopictus*. Obje vrste također mogu prenijeti druge komarčije virusne bolesti, uključujući virus dijunke i Zike. U **sintomatskim pacijentima**, početak chikungunya obično je 4–8 dana (raspon 2–12 dana) nakon ugriza zaraženog komarca. Karakterizira ga nagli početak groznice, često praćen teškim bolom u zglobovima. Bol u zglobovima je često **debilitirajuća** i obično traje nekoliko dana, ali može se produžiti, trajati tjedne, mjesece ili čak godine. Drugi česti znakovi i simptomi uključuju oticanje zglobova, bol mišića, glavobolju, mučninu, umor i osip. Budući da se ovi simptomi preklapaju s drugim infekcijama, uključujući one s virusima dijunke i Zike, slučajevi se mogu pogrešno dijagnosticirati. U odsutnosti značajnog bola u zglobovima, simptomi kod zaraženih osoba obično su blagi i infekcija može proći neprimijećeno (WHO, 2025). Laboratorijska dijagnostika se vrši serološkim i/ili virusnim testiranjem. Serološko testiranje može potvrditi prisutnost **anti‑chikungunya antitijela**. **Imunoglobulin M (IgM)** nivo je najviših tri do pet tjedana nakon početka simptoma. Virusno testiranje može izolirati virus sam i treba se provesti na uzorcima prikupljenim u prvoj sedmici nakon početka simptoma (WHO, 2025).
+
+**Metrics and numeric limits**  
+Chikungunya je identificiran u više od 110 zemalja u Aziji, Africi, Europi i Americi (WHO, 2025). Europski centar za prevenciju i kontrolu bolesti (ECDC) objavio je klasifikacije slučajeva za upravljanje izbijanjem, epidemiološko nadgledanje i izvješćivanje (ECDC, 2018).
+
+**Key relevant UN convention / multilateral treaty**  
+Međunarodni zdravstveni propisi (2005), 3. izdanje (WHO, 2016).
+
+**Drivers**  
+Blizina **mjesta reprodukcije vektora** komara i ljudske obitelji je značajan faktor rizika za chikungunya kao i za druge bolesti koje *Aedes* komarci prenose. Trenutni glavni način kontrole ili sprječavanja prijenosa virusa je suzbijanje vektora. Prevencija i kontrola ovise u velikoj mjeri o smanjenju broja prirodnih i umjetnih **kontejnerskih staništa** koja podržavaju reprodukciju komara. To zahtijeva mobilizaciju pogođenih i na riziku zajednica, da isprazne i očiste kontejere s vodom sedmično kako bi se spriječilo razmnožavanje i proizvodnja odraslih. Sustavljeni zajednički napori za smanjenje reprodukcije komara mogu biti učinkovit alat za smanjenje populacije vektora (WHO, 2025).
+
+**Impacts**  
+Većina pacijenata se potpuno oporavlja od infekcije; međutim, povremeno se prijavljuju slučajevi **očnih, srčanih i neurologičkih komplikacija** s chikungunya infekcijama. Pacijenti na ekstremima starosne spektre su u većem riziku od teške bolesti. Novorođenčad zaraženo tijekom poroda i starije osobe s osnovnim medicinskim stanjima mogu postati ozbiljno bolesne i chikungunya infekcija može povećati rizik od smrti (WHO, 2025).
+
+**Multi‑hazard context**  
+Chikungunya vektori su insekti koji pije krv, koji unose mikroorganizme iz bolesti tijekom krvne hrane od zaraženog domaćina (čovjek ili životinja) i kasnije ga prenose na novog domaćina, nakon što se patogen replicira. Često, jednom kad vektor postane zaražen, on je sposoban prenijeti patogen tijekom ostatka života pri svakom narednom ugrizu/krvnoj hrani (WHO, 2020).
+
+**Risk Management**  
+Tijekom izbijanja, insekcidi mogu se sprijepiti za ubijanje letećih komara, primijeniti na površine u i oko kontejnera gdje se komari sjede, i koristiti za liječenje vode u kontejnerima za ubijanje larvi. Ovo se može i izvršiti od strane zdravstvenih vlasti kao hitna mjera za kontrolu populacije komara (WHO, 2025). Za zaštitu tijekom izbijanja chikungunya, preporučuje se odjeća koja minimizira izlaganje kože dnevnim vektorima. Repelenti se mogu nanijeti na izloženu kožu ili odjeću u strogo skladu s uputama na etiketi proizvoda. Repelenti bi trebali sadržavati DEET, IR3535 ili icaridin. Za one koji spavaju tijekom dana, osobito male djece, ili bolesne ili starije osobe, mreže tretirane insekcidima nude dobru zaštitu, jer komari koji prenose chikungunya uglavnom se hrane tijekom dana. Osnovne mjere opreza trebaju se poduzeti osobe koje putuju u područja rizika, a one uključuju upotrebu repelenta, nošenje dugih rukava i hlača i osiguravanje da sobe imaju mreže za sprječavanje ulaska komara (WHO, 2025). Ne postoji specifičan antiviralni lijek za chikungunya. Klinički ciljevi upravljanja prvenstveno su za ublažavanje simptoma. Nema komercijalne cjepivo dostupnog za zaštitu od infekcije virusom chikungunya. Iako postoji nekoliko cjepiva na koje se radi (kako je sredinom 2020.), od kojih su neka u različitim fazama kliničkih ispita, još uvijek su udaljena nekoliko godina od licence i dostupnosti za javnost. Prevencija infekcije izbjegavanjem ugriza komara najbolja je zaštita (WHO, 2025).
+
+**Monitoring**  
+WHO podržava zemlje u provođenju sve‑hazards strateške procjene rizika u kontekstu zdravstvenih nuždi i katastrofa, što rezultira razvojem profila rizika zemlje. Opremljeni profilom rizika zemlje, uključujući sezonski kalendar rizika, zemlje mogu anticipirati moguće nužde prije nego što se dogode, da pokrenu rane upozorenja i informiraju o ranim akcijama (WHO, 2021). WHO‑s sustav ranog upozorenja, upozorenja i reakcije (EWARS) dizajniran je za poboljšanje otkrivanja epidemija bolesti u hitnim uvjetima, kao što su zemlje u sukobu ili nakon prirodne katastrofe. Jednostavan je i jeftin način za brzo postavljanje sustava za nadgledanje bolesti. EWARS se implementira tijekom nužde kao dodatak nacionalnom sustavu nadgledanja bolesti. WHO radi s ministarstvima zdravlja i partnerima zdravstvenog sektora kako bi obučili lokalne zdravstvene radnike za korištenje sustava. Nakon nužde, EWARS bi se trebao ponovno integrirati u nacionalni sustav (WHO, 2023). WHO također podržava zemlje u nadzoru i kontroli arbovirusa kroz implementaciju Globalne inicijative za arbovirus. Pokrenuta 2022. godine, Globalna inicijativa za arbovirus je integrirani strateški plan za suzbijanje izrastanja i ponovno izrastanja arbovirusa s epidemijskim i pandemijskim potencijalom, fokusirajući se na praćenje rizika, prevenciju pandemije, pripremu, otkrivanje i reakciju, i izgradnju koalicije partnera (WHO, 2022b).
+
+**References**  
+ECDC, 2018. Komisijska odluka (EU) 2018/945 od 22. lipnja 2018. o zaražnim bolestima i specijalnim zdravstvenim pitanjima koja se pokrivaju epidemiološkim nadgledanjem, kao i relevantne definicije slučajeva. Europski centar za prevenciju i kontrolu bolesti (ECDC). Pristupeno 25 svibnja 2025.  
+WHO, 2016. Međunarodni zdravstveni propisi (2005), 3. izdanje. Svjetska zdravstvena organizacija (WHO). Pristupeno 25 svibnja 2025.  
+WHO, 2020. Vektorsko prenosne bolesti. Pristupeno 1. siječnja 2025.  
+WHO, 2021. Strateški alati za procjenu rizika (STAR): sve‑hazards alat za procjenu rizika u zdravstvenoj nuždi. Svjetska zdravstvena organizacija (WHO). Pristupeno 25 svibnja 2025.  
+WHO, 2022. Globalna inicijativa za arbovirus. Svjetska zdravstvena organizacija (WHO). Pristupeno 14. studenog 2024.  
+WHO, 2023. Sustav ranog upozorenja, upozorenja i reakcije (EWARS). Svjetska zdravstvena organizacija (WHO). Pristupeno 1. studenog 2024.  
+Cite this [Copy citation]  
+
+---

@@ -1,0 +1,1 @@
+aligns with Finnish medical terminology, removes linguistic inaccuracies, and preserves the structured content required for a controlled vocabulary in disaster risk reduction.*

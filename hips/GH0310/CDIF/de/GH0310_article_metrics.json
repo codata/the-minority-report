@@ -1,0 +1,39 @@
+{
+  "variables": [
+    "Bodenvolumenänderung",
+    "Feuchtigkeitsgehalt des Bodens",
+    "Ausdehnungsindex",
+    "Grundwasserspiegel",
+    "Tiefe der Feuchtigkeits‑Schwankungszone",
+    "Breite und Tiefe der polygonalen Risse",
+    "Bodenbewegung (vertikal)",
+    "Bodenradarsignal",
+    "LiDAR‑Abweichungen",
+    "Bodenfeuchtesensor‑Daten",
+    "Plastizitätsindex"
+  ],
+  "indicators": [
+    "polygonale Risse (Mudcracks)",
+    "Bodenplattenbeschädigung",
+    "Risse an Strip‑Fundamenten",
+    "sichtbare Aufhebungen oder Setzungen",
+    "strukturelle Instabilität",
+    "veränderte Wasserbedürfnisse der Vegetation",
+    "seismische Ereignisse beeinflussen die Stabilität",
+    "Risse in der Nähe von Gebäuden oder Infrastrukturen"
+  ],
+  "risk_drivers": [
+    "Grundwasserabsenkung",
+    "Grundwasserentnahme",
+    "Untergrundabbau",
+    "Tunnelbau",
+    "Verfestigung",
+    "Sickerlöcher",
+    "Hitzewellen",
+    "Dürrezyklen",
+    "Feuchtigkeitsänderungen in ausdehnenden Böden",
+    "Klimawandel",
+    "Baugrund mit ausdehnenden Böden",
+    "Entfernung von Vegetation auf ausdehnenden Böden"
+  ]
+}

@@ -1,0 +1,1 @@
+The final translation above incorporates all terminology adjustments, corrects any previous inconsistencies, and presents the document in a clear, standardized Markdown format suitable for inclusion in a controlled vocabulary for Disaster Risk Reduction.

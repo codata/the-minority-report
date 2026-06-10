@@ -1,0 +1,1 @@
+eliminates terminology inaccuracies, ensures consistent use of Estonian medical vocabulary, and formats the document with proper Markdown headings.

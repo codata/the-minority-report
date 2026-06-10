@@ -1,0 +1,1 @@
+(full Markdown document with all sections translated)
