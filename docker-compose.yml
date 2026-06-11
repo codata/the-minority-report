@@ -33,6 +33,7 @@ services:
       - ./output:/app/output
       - ./logs:/app/logs
       - ./training:/app/training
+      - ./translation-skill:/app/translation-skill
     entrypoint: ["sh", "-c", "uvicorn api:app --app-dir translation-skill/scripts --host 0.0.0.0 --port $$API_PORT"]
 
   ingest:
