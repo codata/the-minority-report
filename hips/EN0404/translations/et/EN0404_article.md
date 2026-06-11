@@ -1,39 +1,63 @@
-> ### Definition  
-> Koraalid kannatavad *koraali bleakivitus*, kui merelaevu temperatuur ületab nende tolerantsiraja: nad kaotavad simbiootilised alged, mis annavad koraalile värvi ja osalevad nende toitmises. Sügav, pikaajaline või korduv bleakivitus võib viia koraalkolonide surma. (Ühendriigid, 2017)  
->   
-> ### Primary reference(s)  
-> Ühendriigid, 2017. *The First Global Integrated Marine Assessment: World Ocean Assessment I.* Cambridge University Press. Lugemist 25. veebruar 2025.  
->   
-> ### Annotations – Lisateavet  
-> Koraalid on simbiootilised organismid, kus koraali polüüp isutab fotosünteetilisi *zooxanthellae* alge, mis pakuvad oma sügusele ja toiduks. Stressi korral eraldab polüüp alged, mis vähendab koraali kasvuvõimet ja paljunemist ning viib *koraali bleakivituse* tekkeni. Kui bleakivitus püsib, võib see põhjustada koraali toitumishäireid ja surma (Saxena jt., 2023). Koraali bleakivitus on suhteliselt uus nähtus: enne 1980. aastat oli see harva esinenud ja loeti kohaliku probleemina. Alates sellest ajast on bleakivite sagedus ja tõsidus kasvanud. Koraalide kahjustatud protsent globaalsete andmete järgi tõusis 8 % aastas 1980‑atel kuni umbes 31 % 2016. (Saxena jt., 2023).  
->   
-> ### Metrics and Numeric Limits – Mõõdikud ja numbrilised piirid  
-> NOAA Koraali rannade vaatlus (NOAA Coral Reef Watch) kasutab **kõrguse lämmusnädal (DHW)** – mõõdik, mis kajastab kogutud termilist stressi, mis võib põhjustada bleakiviti ja mortality. DHW väärtus 4 °C‑nädal viitab bleakivite riskile. 8 °C‑nädal viitab koraaliranna‑laisele bleakivite ja termilisele mortality tõenäolisusele. DHW 12 °C‑nädal tõstab mitme eriainega mortality tõenäosust. DHW 16 °C‑nädal ja enam viitab tõsisele mortality‑nähtavale (50 % üle) ja DHW 20 °C‑nädal või rohkem viitab peaaegu täielikule mortality (80 % üle). (NOAA, 2018)  
->   
-> ### Key Relevant UN Convention / Multilateral Treaty – Olulised ÜRO lepingujahtid  
-> Bioloogilise mitmekesisuse konventsioon (1992) hõlmab eesmärke bioloogilise mitmekesisuse säilitamiseks, jätkusuutlikuks kasutamiseks ja jeneva kasu õiglaseks jagamiseks geneetilistest ressurssidest.  
->   
-> ### Drivers – Mootorid  
-> Peamised bleakivite mootorid on kliimamuutus ja soojus. Muud reef‑stressorid – näiteks eroosi, päikesekirg, tõusvad merelaeva pinnase temperatuurid, saastatus, sedimentatsioon metsakustuse ja ehituse tõttu, predatsioon, varieeruv soolusesus, infektsioonid, haigusspurtid ja tõrjuv virulents, ülejähtlik kalandamine ja hävitavad kalastamispraktikad – on seotud simbiootiliste algede kadumisega koraalides. Bleakivitus tekib, kui ükski keskkonnategurist ületab “surmava” taseme või kui mitu “surumatut” taset kombineeruvad. Komplekssed mootorid kokkuvõtakse allolevas pildis. (Suggett ja Smith, 2019)  
->   
-> ### Impacts – Mõjud  
-> Bleakivite põhjustatud koraaliranna degradeerimine mõjub oluliselt kalakärimisele, kuna koraalid pakuvad toitumist ja elupaika paljudele kalateadustele. Kalategurite vähenemine vähendab suuremate saasturite populatsiooni, mis omakorda mõjutab troopiaalaseid äärpõõsuses kogukondi ja teisi majanduslikult sõltuvaid piirkondi. Koraalirannad toimivad ka looduslikena lainepüügina; nende kaotus teeb rannikuid ohutumaks kahjustustele viimase kümnendikuu jooksul. Majanduslikud hindamised näitavad, et globaalne koraaliranna väärtuse kahju võiks olla aastas 3,4–23,78 milliards USA dollarit (Chen jt., 2015).  
->   
-> ### Multi‑Hazard Context – Mitmavõtmete kontekst  
-> Allolev diagramm illustreerib koraali bleakivite ja teiste ohtade tavapäraseid vastastikuseid suhteid. Kasutamine nõuab ettevaatust ning ei tohi olla ühekülline tõendohutusjuhtimise jaoks.  
->   
-> ### Risk Management – Riskihaldus  
-> Koraali bleakivite korduvaid massi‑tõsiseid sündmusi tõi esile vajadus koraalirannade kaitse ja nende kohanemise toetamiseks kliimamuutuste tõttu. Võimalikud strateegiad hõlmavad:  
-> 1. **Keskkondliku tingimuse kaitse** – marine kaitseala kasutuselevõtt, kalastuse surve vähendamine, toiteainevoolu kontroll.  
-> 2. **Kohanduvuse suurendamine** – koraalide vastupidavuse, tolerantsi ja taastumise arendamine.  
-> 3. **Taastamise projektid** – koraali kasvatamine, kloonide levitamine, alge- ja algeklõpsude kasutamine.  
-> 4. **Elektriline aktiivus bio‑laastel** – nagu Kachchh golfi projekt, mis kasutab elektrivoolu *Bio‑rock* struktuuride puhul.  
-> 5. **Skaalaliste kasvuhoonegaaside emissioonide vähendamine** – suurim pikaajaline lahendus.  
->   
-> ### Monitoring – Jälgimine  
-> Koraali bleakivite jälgimiseks kasutatakse satelliidi andmeid (NOAA Coral Reef Watch), modelle ja kogukonna teaduslikku uurimist (citizen science). Globaalne koraali bleakivite andmebaas (GCBD) sisaldab 34 846 registreerimist 14 405 kohast üle 93 riigi vahel 1980–2020. See andmebaas toetab erinevaid mudelite loomiseks, mis aitab tuvastada bleakivite põhjuslikke tegureid (Zheng, 2024).  
->   
-> ### References – Viited  
-> *[Full reference list remains unchanged; titles italicised, Estonian titles not required unless provided.]*  
+# Määratlus  
+Korallid kannavad ‘valgendumist’, kui merivesi temperatuur on liiga kõrge: nad kaotavad sümbioosilised algid, mis annavad korallile värvi ja osalised toitained. Kriitiline, pikaajaline või korduv valgendumine võib viia koralli kolooniate surmani (United Nations, 2017).  
 
----
+## Esialgsed viited  
+United Nations, 2017. The First Global Integrated Marine Assessment: World Ocean Assessment I. Cambridge University Press. Accessed 25 February 2025.  
+
+### Lisateaduslik kirjeldus  
+Korallid on sümbiootilised organismid, kus koralli polüps majastab fotosünteetilist zooxanthella algit vastastiku huvides. Stressaegadel tühendab polüps algid, mis mõjutab koralli kasvamist ja paljunemist ning viib valgendumiseni. Kui valgendumine püsib, võib see kaasa tuua koralli nälgimise ja surma (Saxena et al., 2023). Koralli valgendumine on suhteliselt uus nähtus. Enne 1980‑ni aastat vaadeldi seda harva ja pideti seda kohaliku probleemiga. Sealt on valgendumise sagedus ja raskusaste kasvanud. Maailmanõutud korallide kahjustamise protsent tõusis 1980‑aastatel 8 % aastas kuni 31 % 2016. (Saxena et al., 2023).  
+
+Tõrge üks 1 °C kuni 2 °C hooajalise maksimaalse üle on piisav valgendumiseks. Kuigi enamik koralli liikide on valgendumise suhtes tundlik, varieerub termiline vastupidavus. Paljud kuumastressiga või valgendunud korallid suruvad hiljem koraldisease tõttu (United Nations, 2017; 2021). Süngevalgendumise sagedane tõus on üks suurimaid ohte koralli pargadele kliimamuutuse tõttu. Maailma kliimamudelite prognoosid näitavad laiast ruumilisest varieeruvusest aastaseid tõsiseid valgendumisjuhtmeid - punkti, mis läheb, on pargu taastumine piiratud (UNEP, 2017). 2005. aastal kaotas USA pool oma karibuse koralli pargade tõttu suur valgendumisjuhtne sündmus. Soojad veed keskendusid Põhja Antilles ning ulatus lõunasse. Satelliitandmed näitasid, et selle sündmuse termiline stress ületas 20 aasta kokkuvõtte (NOAA, no date a). 2020. aastal kajastati valgendumist Hainan'i saare ja Beibu lahe ümber. Great Barrier Reef koges massvalgendumist 1998, 2002, 2006, 2016, 2017 ja 2020. Global Coral‑Bleaching Database (GCBD) sisaldab 34 846 valgendumisrekordi 14 405 allikast 93 riigis (Saxena et al., 2023). Aastane tõsine valgendumise algus määratletakse rohkem kui kaheksa kuupäevade küte (DHW) kolme kuu jooksul. Sel lähemal küte võib olla piisav valgendumise tekitamiseks (van Hooidonk et al., 2016).  
+
+### Mõõdikud ja numbrilised piirid  
+NOAA Coral Reef Watch'i igapäevane globaalne 5 km satelliidi valgendumise kuupäevade küte (DHW) toode mõõdab kogunenud kuumustressi, mis võib viia koralli valgendumiseni ja surmani. DHW väärtus 4 °C‑nädalat tähistab valgendumise riski. 8 °C‑nädalal on tõenäoline kogu pargu valgendumine, kus kuumavaldus on kõrge. Kui DHW jõuab 12 °C‑nädalaseni, on mitme liigi surma tõenäoliseks. 16 °C‑nädalal on oht tõsisele surmale, mis mõjutab üle 50 % koralle, ja 20 °C‑nädalal või enamal on tõenäoline peaaegu kogu surm (üle 80 %) (NOAA, 2018).  
+
+### Olulised rahvusvahelised kokkulepped / mitmekülgsed lepingud  
+Bioloogilise mitmekesisuse konventsioon (1992) sisaldab eesmärke bioloogilise mitmekesisuse säilitamiseks, selle koostisosade jätkusuutlikuks kasutamiseks ja õigeks jagamiseks geneetilistest ressurssidest.  
+
+### Juhtmed  
+Kliimamuutus ja kuumus on põhilised valgendumise põhjused. Mitmed pargu stressorid, nagu erodi, päikesekirg, merepinnase temperatuuride tõus, saaste, sedimentatsioon metsadekatkestuse ja ehituse tõttu, jahutus, muutuva sooluse, nakkused, haiguste levik, suurenenud viirusi, üleliigne kalandamine ja hävitavad kalastamisharjumused, on seotud sümbioosilise alga kaotusega korallis. Valgendumine võib tekkida, kui korallid puutuvad kokku suboptimaalsega tingimusega, mis on oluline kasvule ja ellujäämisele. Valgendumine toimib, kui on olemas raske ("tõrje") annus ühte keskkonnategurite, või mõõdukas ("tõrjesõltuv") annus ühesugustes kombinatsioonides. Juhtmete keerukus koralli valgendumise mõjutamisel kokkuvõtakse allolevas diagrammis (Suggett & Smith, 2019).  
+
+Juhtmete ja nendevahelised suhted  
+Allikas Suggett & Smith, 2019. Koralli valgendumise mustrid on keeruka bioloogilise ja keskkonnategurite võrgustiku tulemus  
+
+Kliimamuutus peetakse koralli valgendumise peamiseks põhjusuks. Tugev tõendusmaterjal toetab mereliste kuumavägi rolli peamiseks valgendumise juhtiks. Kuumavägi raskusastme mõõtmiseks kasutatakse kuupäevade küte (DHW), mis kajastab kogunenud aega, mille jooksul merepinnase temperatuur ületab hooajaarv. Kõik eespool mainitud keskkonnategurid mõjutavad kuumustressiga valgendumise ajast ja raskusastet. See keeruline suhtlus on viinud teadlasi kirjeldama süsteemi kui olukorda, kus „kõik teed võivad viia koralli valgendumiseni” (Suggett & Smith, 2019). Kuna koralli polüps talub ainult kitsast termilist vahemikku, võib 1‑2 °C tõus viia massvalgendumiseni. Kuigi valgendumine väheneb varjatud pargade süsteemis, on see tõhusam piirkondades, mis on valgustatud kõrgete valguse tingimuste (Saxena et al., 2023). Kõrge turbiditsus, põhjustatud liivi ja saastega, vähendab valgust koralli pargadele, suurendades nende vastuvõtlikkust. Täiendavad ohud nagu sagedased ja intensiivsed troopilised tsüklonid, mere hapetamine ja õõneskõrge (mis tõstab UV-kiirgust) lisavad korallidele stressi ja suurendavad valgendumise riski. Eutrofiseerumine kaubadäärte veekogudes tõstab koralli surma (Lesser, 2021).  
+
+### Mõju  
+Koralli pargu halvemine valgendumise tõttu mõjutab oluliselt kalakaitset, kuna korallid pakuvad toitu ja elupaiku paljudele kalalille- ja merelistele faunale. Parju kalade vähenemine on vähendanud suuremate jahutajate liikide arvu. Need mõjud kahjustavad tugevalt troopiliste piirkondade kaubanduskommunikatsiooni, mis sõltuvad kalastest elatus-, tulu- ja toiduseadist. Samuti on mõjutanud tööstusharutega riike, mis importivad kaladest toiduosa (Saxena et al., 2023). Korallid toimivad looduslike lainepõhitehnikate. Massvalgendumise tõttu on kooriku terviklikkus halvenenud, mis on viimase kümnendi jooksul koordisööjate vastu tõhulisem (Saxena et al., 2023). Majanduslikud hinnangud näitavad, et kliimamuutuse tõttu maailmalaadne koralli pargu väärtuse kaotused ulatuvad 3,4 milliardust kuni 23,78 milliardus dollari aastas (Chen et al., 2015; coast.noaa.gov/states/fast‑facts/coral‑reefs.html).  
+
+### Mitmikohutuse kontekst  
+Allolev diagramm kokkuvõtab koralli valgendumise ja teiste ohutegavahelisi kokkupuuteid. Seda teavet tuleks kasutada ettevaatusega ning mitte tugineda sellele üksnes loodusohutule juhtimise jaoks, eriti kuna mõningad suhted võivad puududa. Märkige, et ohutegurid, mis toimuvad koos või samas ruumis või ajas, ei pruugi olla ka omavahel seotud või mõjutada üksteist. Konkreetsed mitmikohutuse näited on leitud „Ohutusjuhtmed” ja „Mõjud” sektsioonidest ülal.  
+
+### Mitmikohutuse diagramm  
+---  
+
+### Riskijuhtimine  
+Korduvad massvalgendumisjuhtmed viimastel aastatel on tõhendanud vajadust koralli pargade kaitsmiseks ja nende kohanemise toetamiseks kliimamuutuse korral. Mitmed lähenemised on võimalikud. Üks lähenemine keskendub keskkonnatingimuste kaitsele, kus korallid kasvavad, et parandada nende tervist ja vähendada kuumavägi mõju. Tehnilised praktikad hõlmavad merikaitsealade (MPA) kasutamist, mis vähendab kalastusjõu koralli pargu, suurendab koralli larrva saakuvõimalusi ja pakub mingit baasi äärmuslike sündmuste vastu. Efektiivne reguleerimine maa päritolu toitainete sissemõjutamise, mis soodustab algade kasvu ja suurendab koralli vastuvõtlikkust kuumustressile, on samuti vajalik samm (Suggett & Smith, 2019). Teine lähenemine suunab tähelepanu koralli kohanemisvõime suurendamisele kõrgemate temperatuuride vastu. Korallid on näidanud võimet arendada vastupanu (võtmiseks valgendumise vastu), vastupidavuse (elamiseks valgendunud seisundis) ja taastumist (tagasipöördumine tervasse pärast valgendumist). Need võimed varieeruvad üksikisikute ja liikide vahel. Mõned näitavad nähtavaid valgendumise märke alles pärast 1–2 nädalat 1,5 °C üle normi, samas kui teised samas piirkonnas võivad jääda valgendumata üle 4–6 nädala. Nende dünaamika mõistmine aitab suunata sihipäraseid sekkumisi. Koralli taastamise projektid on käimas paljudes riikides. Mõned algatused hõlmavad koralli viljastamist või edastamist, kus suurad korallid purutatakse väikesteks lõikudeks või miniatuurlükkadeks (1–5 ühikut). Need lõigud soodustavad kloonide moodustumist, mis kasvavad 25–50 korda algse koralli suurusest. Kloonitud lõigud tunnistavad ja ühinevad omavahel, moodustades suurid kolooniad. Kui need on täiskasvanud — umbes 4–12 kuu pärast — tagastatakse need merele või määratud taastamiskohale (Saxena et al., 2023). Teised meetodid hõlmavad veesüsteemide paigutamist, mis soodustab koralli larrva seonduvust ja kasvu. 2020. aastal kasutati innovaatilist taastamisprotsessi Kachchh'i lahe, Gujarat, India, kus elektrivool läbiti Bio‑rocki (mineraalne liitumine) kaudu. See protsess hõlbustab kaltsiumi ja karbondioksiidi ionite sidumist, mis moodustab kaltsiumkarbonaadi, millele koralli larrvad seovad ja kasvavad kiiresti, ilma oma energia kulutamata (Saxena et al., 2023). Kuid üksikult need taastamise ja kohanemisstrateegiad ei ole praegu piisavad kliimamuutuse laiemate mõjude vastu. Pikaajalise tõhususe ja katastroofilise suurkoralli kadumise vältimiseks tuleb need koos vähendada kasvuhoonegaasi emissioone (Suggett & Smith, 2019).  
+
+### Jälgimine  
+Jälgimine  
+Ülaltoodud sektsioon ja allolev tabel annavad ülevaate koralli valgendumise jälgimisest. See teave võib toetada prognoosimist riiklikus varajases hoiatussüsteemis (EWS). Kuna EWS võimekused ja protsessid varieeruvad riikides, tuleb kõige ajakohasem ja spetsiifilisem teave hankida asjakohast riiklikust või piirkondlikust asutusest või volitatud asutusest, kes vastutab loodusõnnetuste juhtimise eest.  
+
+| Millised asutused toodavad ohutegurite riskikütiseid/teavet? | Kaevandi kogukonnad | Kuidas ohutegurit jälgitakse/vaadatakse/prognoositakse? |
+|---|---|---|
+| **NOAA** |  | The National Oceanic and Atmospheric Administration (NOAA) Coral Reef Watch programme uses satellite data to provide current reef environmental conditions and to rapidly identify areas at risk of coral bleaching (NOAA, no date b). Coral Reef Watch also offers a modelled outlook that predicts the likelihood of coral bleaching heat stress on a week‑by‑week basis, up to four months in advance (the typical duration of a bleaching season). Continuous satellite monitoring of sea surface temperatures at global scales, along with modelled projections of approaching bleaching‑level heat stress, provides resource managers, scientific researchers, and other coral reef ecosystem stakeholders with tools to understand and better manage the complex interactions that lead to coral bleaching. When bleaching conditions arise, these tools can be used to trigger bleaching response plans and to support appropriate management decisions and public communication (NOAA, no date b). In addition, citizen science has been used to monitor the extent of a coral bleaching event in the Philippines in 2020, highlighting the role of local communities in measuring the impact of disturbances such as coral bleaching‑particularly when appropriate methods, tools, and governmental support are available (Licuanan & Mordeno, 2021). |  |  |
+| A Global Coral‑Bleaching Database (GCBD), encompassing 34 846 coral bleaching records from 14 405 sites across 93 countries between 1980 and 2020 (Global Coral Bleaching Database (NCEI Accession 0228498). The GCBD provides vital information on the presence or absence of coral bleaching, along with site exposure, distance to land, mean turbidity, cyclone frequency, and a suite of sea surface temperature metrics recorded at the time of survey (van Woesik & Kratochwill, 2022). This database has supported various models aimed at identifying contributing factors to coral bleaching (Zheng, 2024). |  |  |
+
+## References  
+References  
+Chen, P.Y., Chen, C.C., Chu, L., McCarl, B., 2015. Evaluating the economic damage of climate change on global coral reefs. Global Environmental Change, 30, 12‑20. Evaluating the economic damage of climate change on global coral reefs - ScienceDirect biab101.pdf. Accessed 25 February 2025.  
+Lesser, M.P., 2021. Eutrophication on Coral Reefs: What Is the Evidence for Phase Shifts, Nutrient Limitation and Coral Bleaching. BioScience 71(12), 1216‑1233. biab101.pdf. Accessed 25 February 2025.  
+Licuanan, W.Y., Mordeno, P.Z.B., 2021. Citizen Science Reveals the Prevalence of the 2020 Mass Coral Bleaching in One Town. Philippine Journal of Science, 150 (3): 945‑949. Accessed 25 February 2025.  
+NOAA, no date a. What is coral bleaching? National Oceanic and Atmospheric Administration (NOAA), National Ocean Service. Accessed 25 February 2025.  
+NOAA, no date b. Coral Reef Watch Satellite Monitoring and Modeled Outlooks. National Oceanic and Atmospheric Administration (NOAA) Satellite and Information Service. Accessed 25 February 2025.  
+NOAA, 2018. Daily Global 5km Satellite Coral Bleaching Heat Stress Degree Heating Week. NOAA Coral Reef Watch Daily 5km Satellite Coral Bleaching Heat Stress Degree Heating Week Product (Version 3.1). Accessed 25 February 2025.  
+Saxena, T., Sahgal, A., Gupta, R., Mehra, N., and Arora, R., 2023. Coral Bleaching: Causes, Mechanism, Consequences, Resilience and Preventive Strategies for Mitigation. International Journal of Ecology and Environmental Sciences 49: 327‑340, 2023. Available from: doi.org/10.55863/ijees.2023.2717 Accessed 25 February 2025.  
+Sugget, D.J., Smith, D.J., 2019. Coral bleaching patterns are the outcome of complex biological and environmental networking: Global Change Biology. 2020;26:68‑79. Coral bleaching patterns are the outcome of complex biological and environmental networking. Accessed 25 February 2025.  
+UNEP, 2017. Coral Bleaching Futures: Downscaled projections of bleaching conditions for the world’s coral reefs, implications of climate policy and management responses. United Nations Environment Programme (UNEP). Accessed 25 February 2025.  
+United Nations, 2017. The First Global Integrated Marine Assessment: World Ocean Assessment I. Cambridge University Press. Accessed 25 February 2025.  
+United Nations, 2021. The Second Global Integrated Marine Assessment: World Ocean Assessment II. The Second World Ocean Assessment. Accessed 25 February 2025.  
+van Hooidonk, R., Maynard, J., Tamelander, J., Gove, J., Ahmadia, G., Raymundo, L., Williams, G., Heron, S.F., Planes, S., 2016. Local‑scale projections of coral reef futures and implications of the Paris Agreement. Scientific Reports, 6:39666. doi:10.1038/ srep39666 Local‑scale projections of coral reef futures and implications of the Paris Agreement | Scientific Reports. Accessed 25 February 2025.  
+van Woesik, R., Kratochwil, C., 2022. A global coral‑bleaching database,1980–2020. Nature Scientific Data, 9:20, DOI: 10.1038/s41597‑022‑01121‑y. Accessed 25 February 2025.  
+Zheng, Q., 2024. Exploration on Environmental Causes of Coral Bleaching. Journal of Advances in Engineering and Technology. DOI: 10.62177/jaet.v1i3.84. Accessed 25 February 2025.  
+Cite this [Copy citation]

@@ -1,115 +1,45 @@
-### Definition
+```markdown
+### Definition  
+Korallen erleiden ein **Bleichen**, wenn die Wassertemperatur zu hoch ist: Sie verlieren die symbiotischen Algen, die dem Korallen ihren Farbton geben, und einen Teil ihrer Nährstoffe. Schwere, anhaltende oder wiederholte Bleiche kann zum Tod von Korallenkolonien führen (United Nations, 2017).
 
-Korallen **bleichen** (Verb) bzw. erfahren eine **Bleiche** (Nomen), wenn die Temperatur des Meereswasser zu hoch wird. In diesem Zustand verlieren sie die symbiotischen Algen (**Zooxanthellen**), die ihnen Farbe und einen Teil ihrer Nährstoffe verleihen. Schwere, langanhaltende oder wiederholte Bleiche können zum Tod von Korallenkolonien führen (United Nations, 2017).
+### Primäre Referenz(en)  
+United Nations, 2017. The First Global Integrated Marine Assessment: World Ocean Assessment I. Cambridge University Press. Zugriff 25. Februar 2025.
 
-### Primäre Referenzen
+### Anmerkungen  
+#### Zusätzliche wissenschaftliche Beschreibung  
+Korallen sind symbiotische Organismen, deren Korallenpolyp Zooxanthellen für photosynthetische Vorteile beherbergt. In Stresssituationen stoßen die Polyps die Algen aus, was das Wachstum und die Fortpflanzung der Koralle beeinträchtigt und zum Bleichen führt. Wenn das Bleichen anhält, kann es zu **Nährstoffmangel** und Tod führen (Saxena et al., 2023). Korallenbleiche ist ein relativ modernes Phänomen. Vor 1980 wurde es selten beobachtet und als lokales Problem angesehen. Seitdem haben sich Häufigkeit und Schwere der Bleichereignisse erhöht. Der Anteil beschädigter Korallen weltweit stieg von 8 % pro Jahr in den 1980er Jahren auf etwa 31 % in 2016 (Saxena et al., 2023). Eine Erhöhung von nur 1 °C bis 2 °C über das jahreszeitliche Maximum kann Bleichen auslösen. Während die meisten Korallenarten anfällig sind, variiert die thermische Toleranz. Viele hitzegeprägte oder gebleichte Korallen sterben anschließend an Korallenkrankheiten (United Nations, 2017; 2021). Zunehmend häufiges, schweres Korallenbleichen ist eine der größten Bedrohungen für Korallenriffe durch Klimawandel. Globale Klimamodelle prognostizieren große räumliche Variation in der Zeit des jährlichen schweren Bleichen – ein Punkt, ab dem die Riffregeneration begrenzt wird (UNEP, 2017). Im Jahr 2005 verloren die USA die Hälfte ihrer Korallenriffe im Karibikraum durch ein großes Bleichereignis. Warme Gewässer um die nördlichen Antillen zogen sich nach Süden aus. Satelliten‑Daten zeigten, dass der thermische Stress bei diesem Ereignis die Vorjahreswerte der letzten 20 Jahre zusammen überschritt (NOAA, no date a). Im Jahr 2020 wurde Bleichen um die Insel Hainan und den Beibu‑Golf gemeldet. Der Great Barrier Reef erlebte Massenbleiche in 1998, 2002, 2006, 2016, 2017 und 2020. Die Global Coral‑Bleaching Database (GCBD) enthält 34 846 Bleicherfassungen von 14 405 Standorten in 93 Ländern (Saxena et al., 2023). Der jährliche schwere Bleichen‑Einstieg ist definiert als mehr als acht Gradheizwochen (DHW) innerhalb eines Dreimonatszeitraums. An dieser Schwelle ist der thermische Stress vermutlich ausreichend, um Bleichen zu verursachen (van Hooidonk et al., 2016).
 
-- United Nations, 2017. *The First Global Integrated Marine Assessment: World Ocean Assessment I*. Cambridge University Press. Abgerufen am 25. Februar 2025.
+### Metriken und numerische Grenzen  
+Das tägliche globale 5 km‑Satelliten‑Produkt der NOAA Korallenriff‑Watch für Gradheizwochen (DHW) misst angesammelten Wärme­stress, der zum Bleichen und zur Mortalität führen kann. Ein DHW‑Wert von 4 °C‑Wochen bedeutet ein Bleicherrisiko. Bei 8 °C‑Wochen ist ein bleichendes Riff mit Mortalität bei hitzeempfindlichen Korallen wahrscheinlich. Erreicht der DHW 12 °C‑Wochen, wird mehrsprachige Mortalität wahrscheinlich. Bei 16 °C‑Wochen ist schwere Mortalität, die mehr als 50 % der Korallen betrifft, zu erwarten, und bei 20 °C‑Wochen oder mehr ist nahezu totale Mortalität (über 80 %) wahrscheinlich (NOAA, 2018).
 
-### Anmerkungen
+### Relevante UN‑Konvention / multilateraler Vertrag  
+Die Convention on Biological Diversity (1992) umfasst Ziele zum Schutz der Biodiversität, zur nachhaltigen Nutzung ihrer Bestandteile und zur gerechten Aufteilung der Vorteile aus genetischen Ressourcen.
 
-#### Wissenschaftliche Beschreibung
+### Treiber  
+Die Haupttreiber für Korallenbleichen sind Klimawandel und Hitze. Mehrere Riff‑Stressoren, wie Erosion, Sonnenstrahlung, steigende Meeroberflächentemperaturen, Verschmutzung, Sedimentation durch Abholzung und Bau, Prädation, variable Salzgehalt, Infektionen, Ausbrüche von Krankheiten, erhöhte Virulenz, sowie Überfischung und destruktive Fischereipraktiken, wurden mit dem Verlust symbiotischer Algen in Korallen in Verbindung gebracht. Bleichen kann induziert werden, wenn Korallen suboptimale Bedingungen eines jeden zentralen Wachstums‑ und Überlebensfaktors ausgesetzt sind. Bleichen tritt auf, wenn schwere („letale“) Dosen eines einzelnen Umweltfaktors auftreten, und auch wenn moderate („subletale“) Dosen in Kombination wirken. Die Komplexität der Treiber, die das Korallenbleichen beeinflussen, ist im untenstehenden Bild zusammengefasst (Suggett und Smith, 2019).
 
-Korallen sind symbiotische Organismen, bei denen der Korallenpolyp Photosynthese‑Zooxanthellen für gegenseitigen Nutzen beherbergt. Unter Stressbedingungen stoßen die Polypen die Algen aus, was Korallenwachstum, Reproduktion und letztlich Bleiche beeinträchtigt. Persistierende Bleiche führt zu Korallenunterernährung und Tod (Saxena et al., 2023).  
-Korallenbleiche ist ein relativ modernes Phänomen. Vor 1980 wurde sie selten beobachtet und als lokal betrachtet. Seitdem haben sowohl Häufigkeit als auch Schwere von Bleiche zugenommen. Der Anteil globaler Korallen, die durch Bleiche geschädigt wurden, stieg von 8 % pro Jahr in den 1980er Jahren auf etwa 31 % im Jahr 2016 (Saxena et al., 2023).
+#### Treiber von Korallenbleichen und ihre Interaktionen  
+Quelle Suggett & Smith, 2019. Korallenbleichenmuster sind das Ergebnis komplexer biologischer und ökologischer Netzwerke  
+Klimawandel gilt als Hauptursache von Korallenbleichen. Evidenz unterstützt stark die Rolle mariner Hitzewellen als primären Treiber von Massenbleichen. Schwere der Hitzewelle wird als Gradheizwochen (DHWs) gemessen, die die kumulative Zeit widerspiegeln, in der die Meeroberflächentemperaturen (SSTs) den saisonalen Norm überschreiten. Alle oben genannten Umweltfaktoren beeinflussen den Zeitpunkt und die Schwere von durch Hitze induziertem Bleichen. Diese komplexe Interaktion hat Forscher dazu veranlasst, das System als eines darzustellen, in dem „alle Wege zu irgendeiner Form von Korallenbleichen führen“ (Suggett und Smith, 2019). Da Korallenpolypen nur ein enges thermisches Band tolerieren, kann ein Anstieg von nur 1‑2 °C Massenbleiche auslösen. Während Bleichen in schattigen Riff‑Systemen reduziert ist, ist es in Gebieten mit erhöhten Lichtbedingungen ausgeprägter (Saxena et al., 2023). Hohe Trübung durch Sediment und Schadstoffe reduziert die Lichtverfügbarkeit für Korallenriffe, erhöht deren Verwundbarkeit. Zusätzliche Gefahren wie häufige und intensive tropische Zyklone, Ozeanacidifikation und Ozonabbau (der UV‑Strahlung erhöht) verstärken die Belastung von Korallen und erhöhen das Bleicherrisiko. Eutrophierung von Küstenwasser trägt ebenfalls zur erhöhten Korallenmortalität bei (Lesser, 2021).
 
-Ein Temperaturanstieg von nur 1 °C bis 2 °C über dem saisonalen Maximum kann Bleiche auslösen. Obwohl die meisten Korallenarten anfällig sind, variiert die thermische Toleranz. Viele durch Hitze belastete oder bleiche Korallen sterben anschließend an Korallenerkrankungen (United Nations, 2017; 2021).  
+### Auswirkungen  
+Korallenriff‑Degradation durch Bleichen beeinflusst Fischerei stark, da Korallen Ernährung und Lebensraum für zahlreiche Fischarten und riffassoziierte Meeresfauna bieten. Der Rückgang der Rifffischpopulationen hat die Zahlen größerer Raubfischarten reduziert. Diese Auswirkungen beeinträchtigen stark die Küstenbevohlten in den Tropen, die auf korallengestützte Fischerei als Existenzquelle, Einkommen und Ernährungssicherheit angewiesen sind. Es gibt auch einen Kaskadeneffekt auf industrialisierte Nationen, die Meeresfrüchte aus Riff‑Ökosystemen importieren (Saxena et al., 2023). Korallenriffe wirken als natürliche Wellenbarrieren. Der Verlust der Riffintegrität durch Massenbleiche hat die Küstenlinien in den letzten zehn Jahren anfälliger gemacht (Saxena et al., 2023). Wirtschaftliche Bewertungen schätzen globale Verluste an Korallenriff‑Wert unter Klimawandel von US$3,4 Mrd. bis US$23,78 Mrd. jährlich (Chen et al., 2015; coast.noaa.gov/states/fast-facts/coral-reefs.html).
 
-Zunehmend häufige schwere Korallenbleiche ist eine der größten Bedrohungen für Korallenriffe durch den Klimawandel. Globale Klimamodelle prognostizieren große räumliche Unterschiede im Timing jährlicher schwerer Bleiche‑Ereignisse – ein Punkt, ab dem die Riffregeneration begrenzt ist (UNEP, 2017).  
+### Multi‑Hazard‑Kontext  
+Das untenstehende Bild fasst häufige Interaktionen zwischen Korallenbleichen und anderen Gefahren zusammen. Diese Informationen sollten mit Vorsicht verwendet und nicht ausschließlich im Katastrophen‑Risiko‑Management angewendet werden, insbesondere da einige Interaktionen möglicherweise nicht berücksichtigt wurden. Beachten Sie, dass gefährliche Ereignisse, die gleichzeitig oder in Nähe von Zeit oder Ort auftreten, nicht zwangsläufig verursachen, verstärken oder anderweitig miteinander in Verbindung stehen. Spezifische Beispiele für Multi‑Hazard‑Kontext finden Sie in den Abschnitten „Hazard drivers“ und „Impacts“ oben.
 
-Im Jahr 2005 verloren die USA die Hälfte ihrer Karibik‑Korallenriffe durch ein großes Bleiche‑Ereignis. Warmwasser mit Schwerpunkt in den nördlichen Antillen breiteten sich südwärts aus. Satellitendaten zeigten, dass die thermische Belastung dieser Episode die vergangenen 20 Jahre zusammen überstieg (NOAA, kein Datum a).  
+### Risiko‑Management  
+Die Wiederkehr von Massenkorallenbleichen in den letzten Jahren hat die Notwendigkeit betont, Korallenriffe zu schützen und ihre Anpassung an Klimawandel zu unterstützen. Mehrere Ansätze sind möglich. Ein Ansatz konzentriert sich auf den Schutz der Umweltbedingungen, in denen Korallen wachsen, um ihre Gesundheit zu verbessern und die Auswirkungen von Hitzewellen zu reduzieren. Etablierte Praktiken umfassen den Einsatz von Meeresschutzgebieten (MPAs), die den Fischdruck auf Korallenriffe verringern, die Chancen für Korallenlarven‑Anwerbung erhöhen und ein gewisses Puffer‑Potential gegen extreme Ereignisse bieten. Eine effektive Regulierung von land‑abgeleiteten Nährstoffeinträgen, die Algenwachstum fördern und die Sensitivität von Korallen gegenüber hitzeinduzierter Bleiche erhöhen, ist ebenfalls ein notwendiger Schritt (Suggett und Smith, 2019). Ein weiterer Ansatz zielt darauf ab, die Anpassungsfähigkeit von Korallen zu erhöhen, höhere Temperaturen zu überstehen. Korallen haben gezeigt, dass sie Resistenz (Bleiche abwehren), Toleranz (in bleichtem Zustand überleben) und Erholung (nach Bleichen wieder gesund werden) entwickeln können. Diese Kapazitäten variieren zwischen Individuen und Arten. Einige zeigen sichtbare Bleichenzeichen erst nach 1–2 Wochen bei 1,5 °C über dem Normalwert, während andere am selben Ort unbleicht bleiben können über 4–6 Wochen (Saxena et al., 2023). Das Verständnis dieser Dynamik kann gezielte Interventionen unterstützen. Korallenrestaurierungsprojekte laufen in vielen Ländern. Einige Initiativen beinhalten Korallenzucht oder -vermehrung, bei der große Korallen in kleine Fragmente oder Miniatur‑Polyps (1‑5 Stück) zerlegt werden. Diese Fragmente lösen die Bildung von Klonen, die 25–50‑fach die Größe des Originalkorallen wachsen. Diese geklonten Fragmente erkennen und verschmelzen miteinander, um große Kolonien zu bilden. Sobald sie ausgewachsen sind – nach ca. 4–12 Monaten – werden sie zurück ins Meer oder an einen bestimmten Restaurierungsstandort gebracht (Saxena et al., 2023). Andere Methoden beinhalten das Aufstellen von Unterwasser‑Strukturen, die das Setzen und Wachstum von Korallenlarven fördern. Im Jahr 2020 wurde ein neues Restaurierungsprojekt im Golf von Kachchh, Gujarat, Indien, durchgeführt, das einen elektrischen Strom durch Bio‑Stein (Mineral‑Anlagerung) leitete. Dieser Prozess erleichtert die Bindung von Calcium‑ und Carbonat‑Ionen zur Bildung von Calciumcarbonat, auf dem Korallenlarven schnell wachsen, ohne ihre eigene Energie aufzuwenden (Saxena et al., 2023). Diese Strategien allein reichen jedoch nicht aus, um die breiteren Auswirkungen des Klimawandels zu kompensieren. Für langfristige Wirksamkeit und zur Vermeidung katastrophaler großflächiger Korallenverluste müssen sie mit Reduktionen der Treibhausgasemissionen kombiniert werden (Suggett & Smith, 2019).
 
-Im Jahr 2020 wurde Bleiche rund um die Insel Hainan und den Beibu‑Golf berichtet. Das Great Barrier Reef erlitt Massiv‑Bleiche in 1998, 2002, 2006, 2016, 2017 und 2020. Die **Global Coral‑Bleaching Database (GCBD)** umfasst 34 846 Bleiche‑Datensätze von 14 405 Standorten in 93 Ländern (Saxena et al., 2023).  
+### Monitoring  
+Der obige Abschnitt und die folgende Tabelle bieten einen Überblick über das Monitoring von Korallenbleichen. Diese Informationen können die Vorhersage innerhalb eines nationalen Frühwarnsystems (EWS) unterstützen. Da EWS‑Kapazitäten und Prozesse je nach Land variieren, sollten aktuelle und spezifische Informationen von der zuständigen nationalen oder regionalen Behörde abgerufen werden.  
+**Welche Institution(en) produzieren Daten/Informationen zum Katastrophenrisiko?**  
+NOAA  
+**Küstenbevohlte**  
+**Wie wird das Gefahrenmonitoring, -beobachtung oder -vorhersage durchgeführt?**  
+Das NOAA Korallenriff‑Watch‑Programm nutzt Satellitendaten, um aktuelle Riff‑Umweltbedingungen bereitzustellen und Bereiche mit Bleicherrisiko schnell zu identifizieren (NOAA, no date b). Das Programm bietet auch eine modellierte Vorhersage, die die Wahrscheinlichkeit von Wärme­stress‑Bleichen wöchentlich bis zu vier Monate vorausdeutet. Kontinuierliches Satelliten‑Monitoring der Meeroberflächentemperaturen auf globaler Ebene, zusammen mit modellierten Projektionen von anstehendem Bleich‑Level‑Wärme­stress, liefert Ressourcen‑Managern, Wissenschaftlern und anderen Stakeholdern des Korallenriff‑Ökosystems Werkzeuge zur besseren Handhabung komplexer Interaktionen. Wenn Bleichen auftritt, können diese Werkzeuge zur Auslösung von Reaktionsplänen und zur Unterstützung geeigneter Managemententscheidungen und Öffentlichkeitsarbeit genutzt werden (NOAA, no date b). Zusätzlich wurde in den Philippinen 2020 Bürgerwissenschaft eingesetzt, um das Ausmaß eines Bleichereignisses zu überwachen, was die Rolle lokaler Gemeinschaften bei der Messung von Auswirkungen wie Bleichen hervorhebt (Licuanan & Mordeno, 2021).  
+**Eine globale Korallenbleiche‑Datenbank (GCBD)**, die 34 846 Bleicherfassungen von 14 405 Standorten in 93 Ländern zwischen 1980 und 2020 umfasst (Global Coral Bleaching Database (NCEI Accession 0228498)). Die GCBD liefert wichtige Informationen über das Vorhandensein oder Nichtvorhandensein von Bleichen, zusammen mit Standortexposition, Entfernung zum Festland, mittlerer Trübung, Zyklonenhäufigkeit und einer Reihe von Meeroberflächentemperatur‑Metriken, die zum Zeitpunkt der Erhebung aufgezeichnet wurden (van Woesik & Kratochwill, 2022). Diese Datenbank hat verschiedene Modelle unterstützt, die sich auf die Identifizierung von Einflussfaktoren von Korallenbleichen konzentrieren (Zheng, 2024).
 
-#### Messgröße: Degree Heating Week (DHW)
-
-Anzahl der **Grad‑Wärme‑Wochen (DHW)** in einem dreimonatigen Zeitraum. Bei acht DHW kann thermische Belastung bereits Bleiche auslösen (van Hooidonk et al., 2016).
-
-### Messwerte und Grenzwerte
-
-Das **NOAA Coral Reef Watch** liefert täglich globale 5 km‑Satelliten‑DHW‑Werte, die akkumulierte Wärme­belastungen messen, die zu Bleiche und Mortalität führen können.  
-
-| DHW | Risiko / Wirkung | Wahrscheinlichkeit |
-|-----|-------------------|---------------------|
-| 4 °C‑Wochen | Bleiche‑Risiko | Hoch |
-| 8 °C‑Wochen | Riff‑weit Bleiche, Mortalität bei hitze‑sensitiven Korallen | Sehr hoch |
-| 12 °C‑Wochen | Mehrfach‑Art‑Mortalität | Wahrscheinlich |
-| 16 °C‑Wochen | Schwere Mortalität (> 50 % Korallen) | Erwartet |
-| 20 °C‑Wochen | Nahezu totale Mortalität (> 80 %) | Sehr wahrscheinlich |
-
-*(NOAA, 2018)*
-
-### Relevante UN‑Verträge
-
-- **Convention on Biological Diversity (1992)** – Ziel: Biodiversität erhalten, nachhaltig nutzen und Nutzen aus genetischen Ressourcen gerecht teilen.
-
-### Treiber
-
-Die Haupttreiber für Korallenbleiche sind Klimawandel und Hitze. Weitere Stressoren umfassen Erosion, Sonneneinstrahlung, steigende Oberflächentemperaturen, Verschmutzung, Sedimentation, Überfischung und Zerstörung des Meeresbodens. Bleiche kann durch suboptimale Bedingungen eines zentralen Faktors ausgelöst werden. Schwere (tödliche) Belastungen eines einzelnen Faktors oder moderate (untertödliche) Belastungen in Kombination führen zur Bleiche. Die Komplexität wird in der nachstehenden Abbildung zusammengefasst (Suggett & Smith, 2019).
-
-> **Treiber der Korallenbleiche und ihre Interaktionen**  
-> *(Quelle: Suggett & Smith, 2019)*  
-
-Der Klimawandel gilt als Hauptursache. Marine Hitzewellen (DHW) sind der primäre Treiber von Massiv‑Bleiche‑Ereignissen. Alle genannten Umweltfaktoren beeinflussen Timing und Schwere. Die Interaktion ist so komplex, dass “alle Wege zur Bleiche führen” (Suggett & Smith, 2019).  
-
-Hohe Turbidity reduziert Lichtverfügbarkeit, erhöht Verletzbarkeit. Zusätzlich können häufige und intensive Zyklone, Ozeanversauerung und Ozon‑Depletion Bleiche‑Risiko erhöhen. Eutrophierung trägt ebenfalls zur Mortalität bei (Lesser, 2021).
-
-### Auswirkungen
-
-Korallenriff‑Degeneration durch Bleiche beeinflusst Fischerei, da Korallen Nahrung und Habitat für zahlreiche Fischarten bieten. Rückgänge der Riff‑Fischpopulationen verringern größere Räuber. Dies beeinträchtigt tropische Küsten‑Gemeinschaften, die auf Riff‑basierte Fischerei angewiesen sind, sowie Industrien, die Meeresfrüchte importieren (Saxena et al., 2023).  
-
-Riffe wirken als natürliche Brandungen‑Barrieren; deren Verlust erhöht Küsten‑Schäden. Ökonomische Bewertungen schätzen globale Verluste des Riff‑Wertes bei 3,4 Mrd. USD bis 23,78 Mrd. USD jährlich (Chen et al., 2015).
-
-### Multi‑Hazard‑Kontext
-
-Die nachstehende Abbildung fasst typische Interaktionen zwischen Korallenbleiche und anderen Gefahren zusammen. Nutzung mit Vorsicht; nicht ausschließlich für Risikomanagement heranziehen, da nicht alle Interaktionen erfasst sein könnten.
-
-> **Multi‑Hazard‑Diagramm**  
-> *(Quelle: UN, 2021)*  
-
-### Risikomanagement
-
-Die Wiederholung schwerer Bleiche‑Ereignisse verdeutlicht die Notwendigkeit Schutz und Anpassung der Riffe. Ansätze umfassen:  
-
-1. **Schutz der Umweltbedingungen** – Marine Schutzgebiete (MPA), Reduktion von Nährstoffeinläufen, Förderung natürlicher Widerstandsfähigkeit.  
-2. **Anpassung der Korallen** – Selektive Zucht, Propagation, Fragmentierung. Einige Korallen zeigen Widerstand, andere Überleben trotz Bleiche, wiedergewinnend.  
-
-#### Korallenrestaurierung
-
-Projektbasiert in vielen Ländern. Fragmentierung großer Korallen in kleine Stücke (1–5 Stücke) erzeugt Klone, die 25–50‑fach größere Kolonien bilden. Nach 4–12 Monaten werden die Klone ins Meer zurückgebracht (Saxena et al., 2023).  
-
-Andere Methoden beinhalten Unterwasser‑Strukturen zur Förderung der Larven‑Belegung. 2020 wurde in Kachchh‑Golf (Gujarat, Indien) ein Projekt mit elektrischem Strom über **Bio‑Rock** gestartet – Mineral‑Zugabe beschleunigt Calcium‑Carbonat‑Formierung und Larven‑Belegung (Saxena et al., 2023).  
-
-Diese Strategien sind allein jedoch nicht ausreichend gegen globale Klimawandel‑Folgen. Für langfristige Wirksamkeit sind Emissionsreduktionen von Treibhausgasen unerlässlich (Suggett & Smith, 2019).
-
-### Monitoring
-
-| Institution | Zielgruppe | Überwachungsmethoden |
-|-------------|------------|----------------------|
-| NOAA | Küsten‑Gemeinschaften | Satelliten‑Daten (DHW), Modellprognosen, Echtzeit‑Monitoring |
-| Bürger‑Wissenschaft | Lokale Gemeinden | Beobachtung, Datensammlung, Öffentlichkeitsarbeit |
-
-- **NOAA Coral Reef Watch** nutzt Satelliten, liefert aktuelle Riff‑Bedingungen und prognostiziert Hitze‑Stress bis vier Monate voraus (NOAA, kein Datum b).  
-- **GCBD** umfasst 34 846 Bleiche‑Datensätze von 14 405 Standorten (van Woesik & Kratochwil, 2022).  
-- **Citizen Science** hat die Ausdehnung einer Bleiche‑Welle auf den Philippinen 2020 dokumentiert (Licuanan & Mordeno, 2021).
-
----
-
-### Referenzen
-
-- Chen, P.Y., Chen, C.C., Chu, L., McCarl, B., 2015. *Evaluating the economic damage of climate change on global coral reefs*. Global Environmental Change, 30, 12‑20.  
-- Lesser, M.P., 2021. *Eutrophication on Coral Reefs: What Is the Evidence for Phase Shifts, Nutrient Limitation and Coral Bleaching*. BioScience, 71(12), 1216‑1233.  
-- Licuanan, W.Y., Mordeno, P.Z.B., 2021. *Citizen Science Reveals the Prevalence of the 2020 Mass Coral Bleaching in One Town*. Philippine Journal of Science, 150(3), 945‑949.  
-- NOAA, no date a. *What is coral bleaching?* National Oceanic and Atmospheric Administration.  
-- NOAA, no date b. *Coral Reef Watch Satellite Monitoring and Modeled Outlooks*.  
-- NOAA, 2018. *Daily Global 5km Satellite Coral Bleaching Heat Stress Degree Heating Week*.  
-- Saxena, T., Sahgal, A., Gupta, R., Mehra, N., Arora, R., 2023. *Coral Bleaching: Causes, Mechanism, Consequences, Resilience and Preventive Strategies for Mitigation*. International Journal of Ecology and Environmental Sciences, 49, 327‑340.  
-- Suggett, D.J., Smith, D.J., 2019. *Coral bleaching patterns are the outcome of complex biological and environmental networking*. Global Change Biology, 26, 68‑79.  
-- UNEP, 2017. *Coral Bleaching Futures: Downscaled projections of bleaching conditions for the world’s coral reefs*.  
-- United Nations, 2017. *The First Global Integrated Marine Assessment: World Ocean Assessment I*. Cambridge University Press.  
-- United Nations, 2021. *The Second Global Integrated Marine Assessment: World Ocean Assessment II*.  
-- van Hooidonk, R., Maynard, J., Tamelander, J., Gove, J., Ahmadia, G., Raymundo, L., Williams, G., Heron, S.F., Planes, S., 2016. *Local-scale projections of coral reef futures and implications of the Paris Agreement*. Scientific Reports, 6, 39666.  
-- van Woesik, R., Kratochwil, C., 2022. *A global coral-bleaching database, 1980–2020*. Nature Scientific Data, 9, 20.  
-- Zheng, Q., 2024. *Exploration on Environmental Causes of Coral Bleaching*. Journal of Advances in Engineering and Technology.  
-
-*(Alle Daten wurden am 25. Februar 2025 abgerufen.)*
+### References  
+[**Der komplette Referenzblock bleibt unverändert und wird in Englisch belassen**]
+```

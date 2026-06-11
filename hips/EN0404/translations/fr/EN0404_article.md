@@ -1,74 +1,74 @@
 ```markdown
-# Corrigé
+# Définition
 
-## Définition
-Les coraux subissent un **blanchiment** lorsqu’une température élevée de l’eau de mer les fait perdre les algues symbiotiques qui leur confèrent couleur et une partie de leurs nutriments. Un blanchiment sévère, prolongé ou répété peut entraîner la mort des colonies de corail (Organisation des Nations Unies, 2017).
+Les coraux sont soumis au « blanchiment » lorsque la température de l’eau de mer est trop élevée : ils perdent les algues symbiotiques qui donnent la couleur au corail et une partie de ses nutriments. Un blanchiment sévère, prolongé ou répété peut conduire à la mort des colonies de corail (United Nations, 2017).
 
-## Références principales
-- Organisation des Nations Unies, 2017. *The First Global Integrated Marine Assessment: World Ocean Assessment I*. Cambridge University Press. Consulté le 25 février 2025.
+# Références principales
 
-## Annotations
-### Description scientifique supplémentaire
-Les coraux sont des organismes symbiotiques dont le polype héberge des **algues zooxanthelles** photosynthétiques pour un bénéfice mutuel. En période de stress, le polype expulse ces algues, perturbant la croissance et la reproduction du corail et entraînant le blanchiment. Si le blanchiment persiste, il peut provoquer la *starvation* et la mortalité du corail (Saxena et al., 2023).  
-Le blanchiment des coraux est un phénomène relativement récent : avant 1980, il était rarement observé et considéré comme local. Depuis, la fréquence et la gravité des événements ont augmenté. Le pourcentage de coraux endommagés mondialement a passé de 8 % par an dans les années 1980 à environ 31 % en 2016 (Saxena et al., 2023).  
-Une hausse de 1 °C à 2 °C au-dessus du maximum saisonnier suffit à induire le blanchiment. Bien que la majorité des espèces soient susceptibles, la tolérance thermique varie. De nombreux coraux heat‑stressed ou blanchis meurent ensuite de maladies coralliennes (ONU, 2017 ; 2021).  
-Le blanchiment sévère et de plus en plus fréquent constitue l’une des plus grandes menaces pour les récifs coralliens face au changement climatique. Les modèles climatiques mondiaux montrent une grande variation spatiale dans le timing des événements de blanchiment sévère annuels – un seuil au-delà duquel la récupération devient limitée (UNEP, 2017).
+United Nations, 2017. The First Global Integrated Marine Assessment: World Ocean Assessment I. Cambridge University Press. Accessed 25 February 2025.
 
-### Statistiques clés
-- En 2005, les États‑Unis ont perdu la moitié de leurs récifs coralliens des Caraïbes après un épisode majeur de blanchiment.  
-- En 2020, blanchiment signalé autour de Hainan et du golfe de Beibu.  
-- La Grande Barrière de corail a subi des épisodes massifs en 1998, 2002, 2006, 2016, 2017 et 2020.  
-- La *Base de données mondiale de blanchiment de corail* (GCBD) compte 34 846 enregistrements sur 14 405 sites dans 93 pays (Saxena et al., 2023).  
-- Le seuil de blanchiment annuel sévère est défini comme > 8 Semaine de chauffage de degré (DHW) en 3 mois. Au-delà, le stress thermique est susceptible d’engendrer le blanchiment (van Hooidonk et al., 2016).
+# Annotations
 
-## Mesures et limites numériques
-Le produit quotidien de la *Coral Reef Watch* NOAA, sur une grille de 5 km, mesure le **DHW** (Semaine de chauffage de degré).  
-- DHW = 4 °C‑semaines → risque de blanchiment.  
-- DHW = 8 °C‑semaines → blanchiment massif probable.  
-- DHW = 12 °C‑semaines → mortalité multispecies probable.  
-- DHW ≥ 16 °C‑semaines → mortalité > 50 % probable.  
-- DHW ≥ 20 °C‑semaines → mortalité > 80 % probable (NOAA, 2018).
+## Description scientifique supplémentaire
 
-## Convention ou traité multilatéral clé
-La *Convention sur la diversité biologique* (1992) vise à conserver la biodiversité, à utiliser durablement ses composants et à partager équitablement les bénéfices des ressources génétiques.
+Les coraux sont des organismes symbiotiques dont le polype de corail héberge des zooxanthelles photosynthétiques pour un bénéfice mutuel. En période de stress, le polype expulse les algues, affectant la croissance et la reproduction du corail et conduisant au blanchiment. Lorsque le blanchiment persiste, il peut entraîner une famine et une mort de corail (Saxena et al., 2023). Le blanchiment des coraux est un phénomène relativement moderne. Avant 1980, il était rarement observé et considéré comme un problème local. Depuis, à la fois la fréquence et la gravité des événements de blanchiment ont augmenté. Le pourcentage de coraux endommagés dans le monde en raison du blanchiment est passé de 8 % par an dans les années 1980 à environ 31 % en 2016 (Saxena et al., 2023). Une augmentation de seulement 1 °C à 2 °C au-dessus du maximum saisonnier peut induire le blanchiment. La plupart des espèces de corail sont susceptibles au blanchiment, mais la tolérance thermique varie. De nombreux coraux soumis à un stress thermique ou blanchis meurent ensuite de maladies des coraux (United Nations, 2017; 2021). Le blanchiment massif de corail de plus en plus fréquent est l’une des plus grandes menaces pour les récifs coralliens du changement climatique. Les modèles climatiques mondiaux projettent une large variation spatiale dans le moment des événements de blanchiment massif annuel – un point au-delà duquel la récupération du récif devient limitée (UNEP, 2017). En 2005, les États‑Unis ont perdu la moitié de leurs récifs coralliens dans les Caraïbes à cause d’un important événement de blanchiment. Les eaux chaudes concentrées autour des Antilles du Nord se sont étendues vers le sud. Les données satellitaires ont montré que le stress thermique de cet événement dépassait celui des 20 années précédentes combinées (NOAA, no date a). En 2020, le blanchiment a été signalé autour de l’île de Hainan et de la mer de Beibu. Le Great Barrier Reef a subi un blanchiment massif en 1998, 2002, 2006, 2016, 2017 et 2020. La Base de données mondiale sur le blanchiment des coraux (GCBD) inclut 34 846 enregistrements de blanchiment provenant de 14 405 sites dans 93 pays (Saxena et al., 2023). Le début de blanchiment massif annuel est défini comme plus de huit semaines de chauffage en degrés (DHW) dans une période de trois mois. À ce seuil, le stress thermique est susceptible d’être suffisant pour provoquer le blanchiment (van Hooidonk et al., 2016).
 
-## Moteurs
-Les principaux moteurs du blanchiment sont le **changement climatique** et la **chaleur**. D’autres stressors (érosion, radiation solaire, augmentation de la température de surface de la mer, pollution, sédimentation, prédation, salinité variable, infections, épidémies, virulence accrue, surpêche, pratiques de pêche destructrices) agissent sur la perte d’algues symbiotiques.  
-Le blanchiment survient lorsqu’une dose sévère ou une combinaison de doses sublétales d’un facteur environnemental se produit.  
-La complexité des moteurs est illustrée dans la figure suivante (Suggett & Smith, 2019).
+# Métriques et limites numériques
 
-## Contexte multi‑risques
-La figure ci‑dessous résume les interactions entre le blanchiment de corail et d’autres risques. Elle doit être utilisée avec prudence ; certains interactions peuvent ne pas être incluses. Les événements simultanés ne causent pas forcément de corrélation directe.
+Le produit quotidien global de la NOAA Coral Reef Watch à 5 km, le degré de semaine de chauffage (DHW) mesure le stress thermique accumulé pouvant entraîner le blanchiment et la mortalité des coraux. Une valeur DHW de 4 °C‑semaines indique un risque de blanchiment. À 8 °C‑semaines, le blanchiment à l’échelle du récif avec mortalité parmi les coraux sensibles au chaud est probable. Si le DHW atteint 12 °C‑semaines, la mortalité multispecies devient probable. À 16 °C‑semaines, la mortalité sévère affectant plus de 50 % des coraux est attendue, et à 20 °C‑semaines ou plus, la mortalité quasi‑totale (excessif de 80 %) est probable (NOAA, 2018).
 
-## Gestion du risque
-La récurrence des épisodes de blanchiment massif souligne la nécessité de protéger les récifs et de soutenir leur adaptation.  
-1. **Protection des conditions environnementales** : utilisation de *Zones Marines Protégées* (ZMP) pour réduire la pression de pêche, favoriser le recrutement des larves et offrir une protection contre les événements extrêmes.  
-2. **Régulation des apports nutritionnels terrestres** afin d’atténuer la croissance excessive des algues et la sensibilité thermique.  
-3. **Renforcement de la capacité adaptative** : développer la résistance, la tolérance et la récupération des coraux (Suggett & Smith, 2019).  
-4. **Restaurations** : élevage, propagation et transplantation de fragments de corail, ou mise en place de structures subaquatiques pour le dépôt des larves. Un projet en 2020 à Kachchh, Inde, a utilisé un courant électrique à travers du *Bio‑rock* (accumulation minérale) pour favoriser le dépôt de calcium et carbonate.  
-Ces stratégies, seules, ne suffisent pas à contrer les effets globaux du changement climatique. Elles doivent s’accompagner de réductions des émissions de gaz à effet de serre.
+# Convention pertinente des Nations Unies / traité multilatéral
 
-## Surveillance
-Le tableau ci‑dessous donne un aperçu de la surveillance du blanchiment. Ces données soutiennent la prévision dans un *Système d’Alerte Précoce* (SAP).  
-- *NOAA Coral Reef Watch* fournit des données satellitaires en temps réel et des prévisions hebdomadaires jusqu’à 4 mois.  
-- La *GCBD* propose des informations essentielles sur la présence/absence de blanchiment, l’exposition, la distance à la terre, la turbidité moyenne, la fréquence cycloniques et un ensemble de métriques SST.  
-- La science citoyenne a également été utilisée, notamment aux Philippines en 2020, pour mesurer l’étendue d’un événement de blanchiment.
+La Convention sur la biodiversité biologique (1992) comprend des objectifs de conservation de la biodiversité, d’utilisation durable de ses composants et de partage équitable des bénéfices issus des ressources génétiques.
 
-## Références
-- Chen, P.Y., Chen, C.C., Chu, L., McCarl, B., 2015. *Evaluating the economic damage of climate change on global coral reefs*. Global Environmental Change, 30, 12–20. Consulté le 25 février 2025.  
-- Lesser, M.P., 2021. *Eutrophication on Coral Reefs: What Is the Evidence for Phase Shifts, Nutrient Limitation and Coral Bleaching*. BioScience, 71(12), 1216–1233. Consulté le 25 février 2025.  
-- Licuanan, W.Y., Mordeno, P.Z.B., 2021. *Citizen Science Reveals the Prevalence of the 2020 Mass Coral Bleaching in One Town*. Philippine Journal of Science, 150(3), 945–949. Consulté le 25 février 2025.  
-- NOAA, 2018. *Daily Global 5km Satellite Coral Bleaching Heat Stress Degree Heating Week*. NOAA Coral Reef Watch. Consulté le 25 février 2025.  
-- NOAA, 2020a. *What is coral bleaching?* National Oceanic and Atmospheric Administration. Consulté le 25 février 2025.  
-- NOAA, 2020b. *Coral Reef Watch Satellite Monitoring and Modeled Outlooks*. NOAA Satellite and Information Service. Consulté le 25 février 2025.  
-- Saxena, T., Sahgal, A., Gupta, R., Mehra, N., & Arora, R., 2023. *Coral Bleaching: Causes, Mechanism, Consequences, Resilience and Preventive Strategies for Mitigation*. International Journal of Ecology and Environmental Sciences, 49, 327–340. DOI:10.55863/ijees.2023.2717. Consulté le 25 février 2025.  
-- Suggett, D.J., Smith, D.J., 2019. *Coral bleaching patterns are the outcome of complex biological and environmental networking*. Global Change Biology, 26, 68–79. Consulté le 25 février 2025.  
-- UNEP, 2017. *Coral Bleaching Futures: Downscaled projections of bleaching conditions for the world’s coral reefs, implications of climate policy and management responses*. United Nations Environment Programme. Consulté le 25 février 2025.  
-- United Nations, 2017. *The First Global Integrated Marine Assessment: World Ocean Assessment I*. Cambridge University Press. Consulté le 25 février 2025.  
-- United Nations, 2021. *The Second Global Integrated Marine Assessment: World Ocean Assessment II*. Cambridge University Press. Consulté le 25 février 2025.  
-- van Hooidonk, R., Maynard, J., Tamelander, J., Gove, J., Ahmadia, G., Raymundo, L., Williams, G., Heron, S.F., Planes, S., 2016. *Local-scale projections of coral reef futures and implications of the Paris Agreement*. Scientific Reports, 6, 39666. DOI:10.1038/srep39666. Consulté le 25 février 2025.  
-- van Woesik, R., Kratochwil, C., 2022. *A global coral-bleaching database,1980–2020*. Nature Scientific Data, 9, 20. DOI:10.1038/s41597-022-01121-y. Consulté le 25 février 2025.  
-- Zheng, Q., 2024. *Exploration on Environmental Causes of Coral Bleaching*. Journal of Advances in Engineering and Technology. DOI:10.62177/jaet.v1i3.84. Consulté le 25 février 2025.
+# Moteurs
+
+Les principaux moteurs du blanchiment des coraux sont le changement climatique et la chaleur. Plusieurs facteurs de stress, tels que l’érosion, l’irradiation solaire, l’augmentation des températures de surface de la mer, la pollution, la sédimentation due à la déforestation et à la construction, la prédation, la salinité variable, les infections, les épidémies de maladies, l’augmentation de la virulence, ainsi que la surpêche et les pratiques de pêche destructrices, ont été associés à la perte d’algues symbiotiques chez les coraux. Le blanchiment peut être induit en soumettant les coraux à des conditions sous‑optimales de tout facteur central à la croissance et à la survie. Le blanchiment se produit lorsqu’il y a des doses sévères (« lethales ») de tout facteur environnemental, et aussi lorsqu’il y a des doses modérées (« sub‑lethales ») opérant en combinaison. La complexité des facteurs de stress qui affectent le blanchiment des coraux est résumée dans la figure ci‑dessous (Suggett et Smith, 2019).
+
+## Moteurs du blanchiment des coraux et leurs interactions. Source Suggett & Smith, 2019. Les motifs de blanchiment des coraux sont le résultat d’un réseau biologique et environnemental complexe
+
+Le changement climatique est considéré comme la cause principale du blanchiment des coraux. Les preuves soutiennent fortement le rôle des vagues de chaleur marine comme moteur principal des événements de blanchiment massif. La gravité de l’ondée de chaleur est mesurée en semaines de chauffage (DHW), reflétant le temps cumulé pendant lequel les températures de surface de la mer (SST) dépassent la norme saisonnière. Tous les facteurs environnementaux mentionnés ci‑dessus influencent le moment et la gravité du blanchiment induit par le stress thermique. Cette interaction complexe a conduit les chercheurs à décrire le système comme un où « toutes les routes mènent à [une forme de] blanchiment des coraux » (Suggett et Smith, 2019). Parce que les polypes de corail ne tolèrent qu’une plage thermique étroite, une augmentation de seulement 1‑2 °C peut initier le blanchiment massif. Alors que le blanchiment est réduit dans les systèmes de récifs ombragés, il est plus prononcé dans les zones exposées à des conditions de lumière élevée (Saxena et al., 2023). La haute turbidité causée par le siliceux et les contaminants réduit la disponibilité de la lumière pour les récifs coralliens, augmentant leur vulnérabilité. Les risques supplémentaires tels que les cyclones tropicaux fréquents et intenses, l’acidification des océans et la déplétion d’ozone (qui augmente la radiation UV) ajoutent à la pression sur les coraux et augmentent le risque de blanchiment. L’eutrophisation des eaux côtières contribue également à la mortalité accrue des coraux (Lesser, 2021).
+
+# Impacts
+
+La dégradation des récifs coralliens due au blanchiment affecte considérablement la pêche, car les coraux fournissent nutrition et habitat à de nombreuses espèces de poissons et de faune marine associée aux récifs. La baisse des populations de poissons de récif a réduit les nombres de grandes espèces prédatrices. Ces impacts affectent gravement les communautés côtières tropicales qui dépendent des pêcheurs de récifs coralliens pour leur subsistance, leurs revenus et leur sécurité alimentaire. Il existe également un effet en cascade sur les nations industrialisées qui importent des fruits de mer issus des écosystèmes de récifs (Saxena et al., 2023). Les récifs coralliens agissent comme barrières naturelles contre les vagues. La perte d’intégrité du récif due au blanchiment massif a rendu les côtes plus vulnérables aux dégâts au cours de la dernière décennie (Saxena et al., 2023). Les évaluations économiques estiment des pertes mondiales en valeur de récifs coralliens dues au changement climatique allant de 3,4 milliards de dollars à 23,78 milliards de dollars par an (Chen et al., 2015; coast.noaa.gov/states/fast-facts/coral-reefs.html).
+
+# Contexte multi‑risque
+
+La figure ci‑dessous résume les interactions courantes entre le blanchiment des coraux et d’autres risques. Ces informations doivent être utilisées avec prudence et ne doivent pas être les seules à se référer à la gestion des risques, en particulier si certaines interactions n’ont pas été incluses. Notez que les événements de risque qui se produisent ensemble ou à proximité dans l’espace ou le temps ne provoquent pas nécessairement, n’amplifient pas ou ne sont pas liés les uns aux autres. Des exemples spécifiques de contexte multi‑risque peuvent être trouvés dans les sections « Moteurs des risques » et « Impacts » ci‑dessus.
+
+## Diagramme multi‑risque
+
+# Gestion des risques
+
+La récurrence des événements de blanchiment massif des coraux ces dernières années a souligné la nécessité de protéger les récifs coralliens et de soutenir leur adaptation au changement climatique. Plusieurs approches sont possibles. Une approche se concentre sur la protection des conditions environnementales dans lesquelles les coraux se développent pour améliorer leur santé et réduire les impacts des vagues de chaleur. Les pratiques établies comprennent l’utilisation d’aires marines protégées (AMP), qui réduisent la pression de pêche sur les récifs coralliens, améliorent les opportunités de recrutement des larves de corail et offrent un certain amortissement contre les événements extrêmes. La réglementation efficace des apports de nutriments d’origine terrestre qui favorisent la croissance algale et aggravent la sensibilité des coraux au blanchiment thermique est également une étape nécessaire (Suggett et Smith, 2019). Une autre approche vise à améliorer la capacité adaptative des coraux à résister à des températures plus élevées. Les coraux ont montré la capacité de développer une résistance (défiant le blanchiment), une tolérance (survivre dans un état blanchi) et une récupération (retour à un état sain après blanchiment). Ces capacités varient selon les individus et les espèces. Certains montrent des signes visibles de blanchiment seulement après 1–2 semaines à 1,5 °C au-dessus de la normale, tandis que d’autres dans le même endroit peuvent rester non blanchis pendant plus de 4–6 semaines (Saxena et al., 2023). Comprendre ces dynamiques peut aider à orienter les interventions ciblées. Des projets de restauration des coraux sont en cours dans de nombreux pays. Certaines initiatives impliquent l’élevage ou la propagation de coraux, dans lesquelles de gros coraux sont découpés en petits fragments ou mini‑polypes (de 1 à 5 en nombre). Ces fragments déclenchent la formation de clones qui grandissent jusqu’à 25–50 fois la taille du corail original. Ces fragments clonés reconnaissent ensuite et se fusionnent entre eux pour former de grandes colonies. Une fois mûrs – après environ 4–12 mois – ils sont retournés à l’océan ou à un site de restauration désigné (Saxena et al., 2023). D’autres méthodes impliquent l’installation de structures sous‑aquatiques qui encouragent l’implantation et la croissance des larves de corail. En 2020, un nouveau projet de restauration dans le golfe de Kachchh, Gujarat, Inde, a utilisé un courant électrique passé à travers le Bio‑rock (accumulation minérale). Ce processus facilite la liaison d’ions calcium et carbonate pour former du carbonate de calcium, sur lequel les larves de corail se déposent et se développent rapidement sans consommer leur propre énergie (Saxena et al., 2023). Cependant, ces stratégies de restauration et d’adaptation seules sont actuellement insuffisantes pour contrer les effets plus larges du changement climatique. Pour une efficacité à long terme et pour prévenir la perte catastrophique et à grande échelle des coraux, elles doivent être combinées à des réductions des émissions de gaz à effet de serre (Suggett & Smith, 2019).
+
+# Surveillance
+
+La section ci‑dessus et le tableau ci‑dessous fournissent un aperçu de la surveillance du blanchiment des coraux. Ces informations peuvent soutenir la prévision au sein d’un système d’avertissement précoce national (SAE). Comme les capacités et les processus SAE varient d’un pays à l’autre, les informations les plus récentes et spécifiques doivent être obtenues auprès de l’agence ou de l’autorité nationale ou régionale responsable de la gestion des risques.
+
+| Qui produit des données / informations sur les risques de catastrophe ? | NOAA |
+|---|---|
+| Communautés côtières | Comment le danger est-il surveillé / observé / prédit ? |
+| Programme NOAA Coral Reef Watch | Utilise des données satellitaires pour fournir les conditions environnementales actuelles des récifs et pour identifier rapidement les zones à risque de blanchiment des coraux (NOAA, no date b). Le programme propose également une perspective modélisée qui prédit la probabilité du stress thermique de blanchiment des coraux sur une base hebdomadaire, jusqu’à quatre mois à l’avance (la durée typique d’une saison de blanchiment). La surveillance continue par satellite des températures de surface de la mer à l’échelle mondiale, ainsi que les projections modélisées de stress thermique de blanchiment, fournissent aux gestionnaires de ressources, aux chercheurs scientifiques et aux autres parties prenantes de l’écosystème des récifs coralliens des outils pour comprendre et mieux gérer les interactions complexes qui conduisent au blanchiment des coraux. Lorsqu’une situation de blanchiment se produit, ces outils peuvent être utilisés pour déclencher des plans de réponse au blanchiment et soutenir les décisions de gestion appropriées et la communication publique (NOAA, no date b). En outre, la science citoyenne a été utilisée pour surveiller l’étendue d’un événement de blanchiment des coraux aux Philippines en 2020, soulignant le rôle des communautés locales dans la mesure de l’impact des perturbations telles que le blanchiment des coraux – en particulier lorsque des méthodes, des outils et un soutien gouvernemental appropriés sont disponibles (Licuanan & Mordeno, 2021). |
+
+Une Base de données mondiale sur le blanchiment des coraux (GCBD), englobant 34 846 enregistrements de blanchiment des coraux de 14 405 sites dans 93 pays entre 1980 et 2020 (Global Coral Bleaching Database (NCEI Accession 0228498)). La GCBD fournit des informations vitales sur la présence ou l’absence de blanchiment des coraux, ainsi que sur l’exposition du site, la distance à la terre, la turbidité moyenne, la fréquence des cyclones et une série de mesures de température de surface de la mer enregistrées au moment de l’enquête (van Woesik & Kratochwill, 2022). Cette base de données a soutenu divers modèles visant à identifier les facteurs contributifs au blanchiment des coraux (Zheng, 2024).
+
+# References
+
+Chen, P.Y., Chen, C.C., Chu, L., McCarl, B., 2015. Evaluating the economic damage of climate change on global coral reefs. Global Environmental Change, 30, 12-20. Evaluating the economic damage of climate change on global coral reefs - ScienceDirect biab101.pdf. Accessed 25 February 2025.  
+Lesser, M.P., 2021. Eutrophication on Coral Reefs: What Is the Evidence for Phase Shifts, Nutrient Limitation and Coral Bleaching. BioScience 71(12), 1216-1233. biab101.pdf. Accessed 25 February 2025.  
+Licuanan, W.Y., Mordeno, P.Z.B., 2021. Citizen Science Reveals the Prevalence of the 2020 Mass Coral Bleaching in One Town. Philippine Journal of Science, 150 (3): 945-949. Accessed 25 February 2025.  
+NOAA, no date a. What is coral bleaching? National Oceanic and Atmospheric Administration (NOAA), National Ocean Service. Accessed 25 February 2025.  
+NOAA, no date b. Coral Reef Watch Satellite Monitoring and Modeled Outlooks. National Oceanic and Atmospheric Administration (NOAA) Satellite and Information Service. Accessed 25 February 2025.  
+NOAA, 2018. Daily Global 5km Satellite Coral Bleaching Heat Stress Degree Heating Week. NOAA Coral Reef Watch Daily 5km Satellite Coral Bleaching Heat Stress Degree Heating Week Product (Version 3.1). Accessed 25 February 2025.  
+Saxena, T., Sahgal, A., Gupta, R., Mehra, N., and Arora, R., 2023. Coral Bleaching: Causes, Mechanism, Consequences, Resilience and Preventive Strategies for Mitigation. International Journal of Ecology and Environmental Sciences 49: 327-340, 2023. Available from: doi.org/10.55863/ijees.2023.2717 Accessed 25 February 2025.  
+Sugget, D.J., Smith, D.J., 2019. Coral bleaching patterns are the outcome of complex biological and environmental networking: Global Change Biology. 2020;26:68–79. Coral bleaching patterns are the outcome of complex biological and environmental networking. Accessed 25 February 2025.  
+UNEP, 2017. Coral Bleaching Futures: Downscaled projections of bleaching conditions for the world’s coral reefs, implications of climate policy and management responses. United Nations Environment Programme (UNEP). Accessed 25 February 2025.  
+United Nations, 2017. The First Global Integrated Marine Assessment: World Ocean Assessment I. Cambridge University Press. Accessed 25 February 2025.  
+United Nations, 2021. The Second Global Integrated Marine Assessment: World Ocean Assessment II. The Second World Ocean Assessment. Accessed 25 February 2025.  
+van Hooidonk, R., Maynard, J., Tamelander, J., Gove, J., Ahmadia, G., Raymundo, L., Williams, G., Heron, S.F., Planes, S., 2016. Local-scale projections of coral reef futures and implications of the Paris Agreement. Scientific Reports, 6:39666. doi:10.1038/srep39666 Local-scale projections of coral reef futures and implications of the Paris Agreement | Scientific Reports. Accessed 25 February 2025.  
+van Woesik, R., Kratochwil, C., 2022. A global coral-bleaching database,1980–2020. Nature Scientific Data, 9:20, DOI: 10.1038/s41597-022-01121-y. Accessed 25 February 2025.  
+Zheng, Q., 2024. Exploration on Environmental Causes of Coral Bleaching. Journal of Advances in Engineering and Technology. DOI: 10.62177/jaet.v1i3.84. Accessed 25 February 2025.  
+Cite this [Copy citation]
 ```
-
----

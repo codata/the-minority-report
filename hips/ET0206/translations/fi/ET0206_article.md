@@ -1,97 +1,87 @@
-### Definition  
-Avaruuskirppus tarkoittaa kaikkia ihmisen valmistamia kohteita, mukaan lukien paloja ja niiden osia, jotka sijaitsevat Maan kiertoradalla tai palaavat ilmakehään ja ovat toimittamattomia (COPUOS, 2002 ja UNOOSA, 2007).
+### Määritelmä  
+Avaruusjätteet viittaavat kaikkiin ihmisen valmistamiin esineisiin, mukaan lukien pilkut ja osat, jotka sijaitsevat Maapallon kiertoradalla tai palaavat ilmakehään, ja jotka ovat toimettomia (COPUOS, 2002 ja UNOOSA, 2007).
 
-#### Primary reference(s)  
-- **Kansainvälinen rauhanomainen avaruuskäyttökomitea (COPUOS)**, 2002.  
-  *Monitoiminen avaruuskirppusten koordinaatiokomitea. Avaruuskirppusten vähentämisen ohjeet.*  
-  Virallinen raportti A/AC.105/C.1/L.260. Saatavilla 25. helmikuuta 2025.  
+### Ensisijaiset lähteet  
+Committee on the Peaceful Uses of Outer Space (COPUOS), 2002. Inter‑Agency Space Debris Coordination Committee. Space debris mitigation guidelines. Official report A/AC.105/C.1/L.260. Accessed 25 February 2025  
+United Nations Office for Outer Space Affairs (UNOOSA), 2007. Space Debris Mitigation Guidelines of the Committee on the Peaceful Uses of Outer Space. Accessed 18 June 2024.
 
-- **Yhdistyneiden Kansakuntien ulkoavaruuskäyttövirasto (UNOOSA)**, 2007.  
-  *Avaruuskirppusten vähentämisen ohjeet Kansainvälisen rauhanomaisen avaruuskäyttökomitean.*  
-  Saatavilla 18. kesä 2024.
+### Huomiot  
+#### Lisätieteellinen kuvaus  
+Avaruusjätteet syntyy seuraavien prosessien kautta:  
+- Vapautuminen normaalitoiminnoissa avaruusaluksissa,  
+- Satunnaiset hajot avaruusalusten operatiivisina vaiheina,  
+- Törmäykset operaatioiden aikana,  
+- Tahalliset tuhoamiset avaruusaluksissa ja laukaisuvälineiden kiertoradallisissa vaiheissa,  
+- Missioiden jälkeiset hajot (UNOOSA, 2007; COPUOS, 2024).
 
-#### Annotations  
-**Lisätietoa tieteellisesti**  
-Avaruuskirppus syntyy seuraavista tapahtumista:  
+### Mittarit ja numeeriset rajat  
+Tällä hetkellä COPUOS:lla, UNOOSA:lla tai ITU:lla ei ole määritetty virallisia mittareita.  
 
-1. **Normaalin operoinnin aikana**: avaruusalustien vapaat toiminnat.  
-2. **Satunnaiset murtumat**: avaruusalusten operatiivisen vaiheen aikana tapahtuvat murtumat.  
-3. **Satunnaiset törmäykset**: avaruusalustien sijoittamisen aikana, kun ne ovat jo avaruudessa.  
-4. **Tahallinen tuho**: kaikista avaruusalustista ja laukaisuvälineen osista, joiden tuho aiheuttaa pitkäaikaisia kirppuksia.  
-5. **Posittien jälkeen tapahtuvat murtumat**: tallennettujen energioiden seuraus (UNOOSA, 2007; COPUOS, 2024).
+### Avoimet YK‑sopimukset / monenkansalliset liittoumat  
+Debris Mitigation Guidelines of the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS) (UNOOSA, 2010)  
 
-#### Metrics and numeric limits  
-- **Viralliset mittarit**: tällä hetkellä ei ole määriteltynä COPUOS:in, UNOOSA:n tai ITU:n kautta kansainvälisesti.  
-- **Alueelliset ja kansalliset arviot**: jotkut avaruusvirastot ovat esittäneet arvioita kirppuksista.  
+### Aiheuttajat  
+- Satunnaiset ja tahalliset hajot, jotka tuottavat pitkäikäistä jätteä.  
+- Jätteen tahallinen vapautuminen laukaisuvälineiden kiertoradallisten vaiheiden ja avaruusalusten operaatioissa (UNOOSA, 2007; COPUOS, 2024).
 
-Yksi viimeisimmästä COPUOS:in raportista (2024) osoitti, että 1957‑2023 välillä oli yhteensä **58 000 kiertoradalla olevaa kohdetta**, joista **28 000** oli edelleen kiertoradalla.  
-Näistä **12 500** oli satelliitteja, loput puolestaan raketeiden kappaleita tai kirppuksia.  
-Kohteiden kokonaismassa oli arvioitu ylittävän **11 500 tonnia**, joista satelliittien osuus oli noin **65 %**, raketeiden kappaleiden osuus noin **32 %**.  
-Noin puolet massasta oli alhaisella Maan kiertoradalla (AMEK).  
+### Vaikutukset  
+Jätteet, joiden mitat ylittävät muutaman senttimetriä, muodostavat vakavan uhkan operatiivisille satelliiteille, Kansainväliselle avaruusasemalle (ISS) sekä muille kiertoradalla oleville avaruusasemille. Vaaran lähde ei rajoitu vain kohteiden massaan, vaan myös suhteelliseen nopeuteen, jolla jätteet liikkuvat avaruudessa satelliittien ja avaruusasemien suhteessa. Suhteelliset nopeudet 10–15 kilometriä sekunnissa ovat tyypillisiä avaruusjätteille (NASA, 2024). Euroopan avaruusjärjestö (ESA, 2024) kertoo, että 10 cm:n ja suurempien jätteiden törmäykset avaruusalukseen todennäköisesti tuhoavat sen. Avaruusjätteiden ympäristövaikutuksiin kuuluu valohävikki ja uudelleenkasotuksen aikana aluminiinien laittaminen yläilmakehään, mikä voi muuttaa auringon säteilyä ja vaikuttaa Maapallon ilmastoon. Lisäksi jätteiden aiheuttama häiriö viestintäinfrastruktuurissa ja toiminnassa voi rajoittaa avaruuden tarkkailun kykyä.
 
-**Euroopan avaruusjärjestön (ESA) Avaruuskirppusten toimisto** ylläpitää rekisteriä avaruuteen laukaisuista ja kirppusten tiedoista.  
-Toimiston arvioiden mukaan:  
+### Moniriskikonteksti  
+Alla oleva kuva tiivistää yleiset vuorovaikutukset avaruusjätteiden ja muiden uhkien välillä. Tietoa tulisi käyttää varoen eikä perustaa siihen yksinomaan katastrofiriiskinhallintaan, erityisesti sillä, että joitakin vuorovaikutuksia ei ehkä ole sisällytetty. Kaksien tai useiden uhkien samanaikainen esiintyminen avaruudessa tai aikoina ei välttämättä synny toisiinsa vaikuttavia seuraamuksia. Konkreettisia esimerkkejä moniriskikonteksteista löytyy ”Aiheuttajat” ja ”Vaikutukset” -osioista.
 
-- **40 500** avaruuskirppusta, jonka koko on yli 10 cm.  
-- **1 100 000** kirppusta, jonka koko on yli 1 cm mutta alle 10 cm.  
-- **130 000 000** kirppusta, jonka koko on yli 1 mm mutta alle 1 cm.  
+#### Moniriskitaulukko  
 
-Kirppusten määrä jatkuu myös alhaisella Maan kiertoradalla (LEO), missä miljoonia pieniä kirppuksia on havaittavissa.  
-Nämä ovat pääosin anthropogeenisiä, kuten avaruusalustojen paloja, maalaista, rakettien osia tai toimettomia satelliitteja.  
-Kirppukset liikkuvat **korkean nopeuden** (korkeintaan 18 000 mailia tunnissa) ja niiden laatu lisää riskin avaruusmatkailijoille ja laitteille.  
-Tämä on erityisen merkittävää globaalien viestintä- ja maapallon valvontaverkkojen, kuten säätiedon ja varoitusjärjestelmien (NASA, 2019), toiminnalle.  
+### Riskinhallinta  
+Kansainvälisten ponnistelujen alku, joiden tavoitteena on ratkaista avaruusjätteiden aiheuttamat haasteet, alkoi 1980‑luun lopulla. Ponnistukset seurasi Arianne‑1‑raketin toisen vaiheen räjähdys matala Maapallon kiertoradalla, joka loi yli 400 suurta jäsentä. Virastojen välinen avaruusjätteiden koordinointikomitea (IADC) otettiin virallisesti käyttöön Moskovassa lokakuussa 1993. Yhdistyneiden Kansakuntien Yleinen kokous vahvistti COPUOS:n suosituksen, jonka mukaan Tieteellinen ja tekninen alihallituksen (STSC) tulisi käsitellä avaruusjätteitä (COPUOS, 2003). Tämän jälkeen aihe on ollut säännöllinen ajankohta alihallituksen kokouksissa. Alihallitus perustoi erityisen työryhmän, joka kehitti suositeltuja ohjeita perustuen IADC:n avaruusjätteiden ehkäisy -ohjeisiin sekä YK:n sopimuksiin ja periaatteisiin avaruudesta. Tämän suosituksen perusteella COPUOS laatikin Avaruusjätteiden ehkäisyluonnistekijät, jotka hyväksyttiin YK:n Yleisen kokouksen resoluutiolla 62/217 22.12.2007 (COPUOS, 2008).
 
-Ei ole kansainvälisiä avaruuslainsäädäntöjä kirppusten puhdistamiseksi LEO:ta; poistaminen on kallista, koska siellä on lähes **6000 tonnia materiaalia**.  
-NASA:n avaruuskirppusten ohjelma (NASA Orbital Debris Program) aloitettiin 1979:ssä Johnson Space Centerissä, ja ohjelma etsii tapoja vähentää kirppusten määrää sekä kehittää laitteita kirppusten seuraamiseen ja poistamiseen (NASA, 2019).
+Avaruusjätteiden ehkäisyluonnistekijät (UNOOSA, 2010) sisältävät seuraavat suositukset:  
 
-#### Key relevant UN convention / multilateral treaty  
-- **Avaruuskirppusten vähentämisen ohjeet** (COPUOS, 2010)  
-- **ITU-R S.1003‑2 (ITU, 2010)** – suositus geostationaarisen kiertoradan ympäristön suojelusta  
+1. **Rajoita normaalitoimintojen aikana vapautuva jäte**  
+   - Avaruusjärjestelmien tulee suunnitella siten, etteivät ne vapauta jätteitä normaalitoiminnoissa. Mikäli se ei ole toteuttamiskelpoinen, jätteiden vaikutuksen ulkoisessa avaruudessa on vähennettävä.  
+2. **Minimoi hajojen mahdollisuus operatiivisten vaiheiden aikana**  
+   - Avaruuslaitteiden ja laukaisuvälineiden kiertoradalliset vaiheet tulee suunnitella välttämään vika-tilat, jotka johtavat satunnaisiin hajot. Jos vika-tila havaitaan, hylätyksen ja passivoinnin toimenpiteet tulee suunnitella ja toteuttaa hajojen välttämiseksi.  
+3. **Rajoita sattumanvaraisten törmäysten todennäköisyyttä kiertoradalla**  
+   - Avaruuslaitteiden ja laukaisuvälineiden suunnittelussa sekä tehtäväprofiilissa tulee arvioida ja rajoittaa tunnettujen kohteiden kanssa sattuvan törmäyksen todennäköisyys. Jos kiertoradatieto viittaa mahdolliseen törmäykseen, käännöstyö tai kiertoradan välttelymanööveri tulisi harkita.  
+4. **Vältä tahallista tuhoamista ja muita haitallisia toimintoja**  
+   - Tieto siitä, että törmäysten lisääntyvä riski voi uhata avaruustoimintaa, takaa tahallisen tuhoamisen avaruusaluksilla, laukaisuvälineiden kiertoradallisissa vaiheissa tai muissa haitallisissa toimissa, jotka tuottavat pitkäaikaista jätteä.  
+5. **Minimoi mahdollisuus missiojen jälkeisiin hajot**  
+   - Tavoitteena on rajoittaa muiden avaruusalusten ja laukaisuvälineiden riskit, jotka johtuvat satunnaisista hajoista. Kaikki laitteiden sisäiset energialähteet tulee tyhjentää tai tehdä turvalliseksi, kun ne eivät enää ole missio- tai hylätyspysähdyksiä varten.  
+6. **Rajoita pitkän aikavälin läsnäoloa matalassa Maapallon kiertoradalla (LEO)**  
+   - Avaruuslaitteiden ja laukaisuvälineiden kiertoradalliset vaiheet, jotka ovat päättyneet operatiivisiin vaiheisiin ja kulkevat LEO‑alueella, tulee poistaa kiertoradalta hallitusti. Jos se ei ole mahdollista, niiden on suunniteltava kiertoradat, jotka välttävät pitkäaikaista läsnäoloa LEO‑alueella.  
 
-#### Drivers  
-Pääasialliset lähteet Maan kiertoradalla oleville avaruuskirppuksille ovat:  
+Kansainvälinen Teleliikenteen Liitto (ITU) lanseerasi vuonna 2010 suosituksensa geostationaarisen satelliittikiipeen ympäristönsuojelusta (ITU, Recommendation ITU‑R S.1003‑2 12/2010), jossa määritellään seuraavat toimenpiteet avaruusjätteiden vähentämiseksi:  
 
-1. **Satunnaiset ja tahalliset murtumat**, jotka tuottavat pitkäaikaisia kirppuksia.  
-2. **Kirppusten tahallinen pääsy** avaruusalustan operoinnin aikana, esimerkiksi laukaisuvälineen vaiheet ja avaruusalus (UNOOSA, 2007; COPUOS, 2024).
+- **Suositus 1**: Vähimmäisten jätteiden vapautuminen GSO‑alueelle satelliitin sijoittamisen aikana;  
+- **Suositus 2**: Kaikkien kohtuullisten ponnistusten tekeminen GSO‑alueen elliptisten siirtokiertoratojen elinikän lyhentämiseksi;  
+- **Suositus 3**: Ennen polttoaineen loppumista geostationaarinen satelliitti, joka on loppuvaiheessa, on poistettava GSO‑alueelta siten, että sen kiertorata on vähintään 200 km:n poikkiluku Maapallon geostationaarisen korkeuden yläpuolella;  
+- **Suositus 4**: Siirtymisen kuolema‑kiertorata (graveyard orbit) toteuttaminen erityisellä varovaisuudella RF‑häiriöiden välttämiseksi aktiivisilta satelliiteilta.  
 
-#### Impacts  
-Kirppukset, joiden koko on useita senttimetrejä, muodostavat vaaran operatiivisille satelliiteille, Kansainväliselle avaruusasemalle ja muille avaruusasemille.  
-Vaarasta aiheuttaa paitsi kirppusten massa, myös niiden suhteellinen nopeus (keskimäärin 10‑15 km/s) (NASA, 2024).  
-Euroopan avaruusjärjestö (ESA, 2024) osoittaa, että **10 cm:n** ja suurempien kirppusten törmäys avaruusalukseen todennäköisesti tuhoaa aluksen.  
-Ympäristövaikutuksiin kuuluvat:  
+Lisäksi on yrityksiä suunnitella avaruusjätteiden poistamiseen tarkoitettuja avaruusaluksia. Nämä ovat kuitenkin edelleen kokeellisessa vaiheessa. Julkiset avaruusjärjestöt ja yksityiset yritykset ovat mukana näissä ponnisteluissa.  
 
-- **Valon saaste** (valon hävikki)  
-- **Pääsyn ilmakehään levittävä alumiinioksidi**, joka muuttaa aurinkorasamaa ja voi vaikuttaa Maapallon ilmastoon.  
-- **Viestintäinfrastruktuurin häiriöt** ja toiminnan katkoksia.  
-- **Huippukilpailun rajoitukset** avaruuden havaintokykyssä.
+Avaruusjätteiden ehkäisyn toteutuksen seurantaa varten useat Yhdistyneiden Kansakuntien jäsenvaltiot laativat “Compendium of Space Debris Mitigation Standards” (UNOOSA, 2024), joka sisältää valtiot ja kansainväliset organisaatiot hyväksymät lainsäädäntö- ja standardiehdotukset. Kokoelma kokoaa tietoa kaikesta lainsäädännöstä ja standardeista, jotka liittyvät avaruusjätteiden ehkäisyyn. Se päivitettiin viimeksi huhtikuussa 2024 (UNOOSA, 2024). ITU on myös toteuttanut omistettua verkkosivustoa, joka kokoaa linkit suosituksiin, politiikkoihin, lainsäädäntöön, parhaisiin käytäntöihin ja muihin kansainvälisesti ja alueellisesti toteutettuihin toimenpiteisiin.  
 
-#### Multi‑hazard context  
-Alla oleva kaavio esittää avaruuskirppusten ja muiden vaarojen yhteisvaikutuksia. Tämän tiedon käyttöä tulee varoa, eikä sitä saa käyttää ainoana perusarvona katastrofin riskienhallinnassa, sillä jotkin vuorovaikutukset eivät ehkä ole mukana.  
-Huomioi, että samanaikaiset tai paikalliset vaarat eivät välttämättä synny, vahvista tai vaikuta toisiinsa.  
-Monivaaratekijäkontekstin konkreettisia esimerkkejä löytyy kohdasta **“Hazard drivers”** ja **“Impacts”** yllä.
-
-#### Risk Management  
-- **Yhteenveto**: Avaruuskirppusten käsittelyyn liittyvät kansainväliset toimet alkoivat 1980‑luvun lopulla, seurausta Arianne‑1‑raketin toisen vaiheen räjähdyksestä alhaisella Maan kiertoradalla, jossa syntyi yli 400 suurta kirppua.  
-- **IADC:n** (Inter‑Agency Space Debris Coordination Committee) virallinen hyväksyntä oli Moskova, lokakuu 1993.  
-- **COPUOS** (Kansainvälinen rauhanomainen avaruuskäyttökomitea) hyväksyi ITU‑suosituksen ja alkoivat laatia ohjeita, joihin sisältyi seuraavat ohjeet:  
-
-  1. **Rajoita kirppusten pääsyä normaaleilla operaatioilla**  
-  2. **Vähennä murtumien mahdollisuutta operatiivisessa vaiheessa**  
-  3. **Rajoita törmäysriskiä kiertoradalla**  
-  4. **Vältä tahallista tuhoa**  
-  5. **Vähennä posittien jälkeen tapahtuvien murtumien potentiaalia**  
-  6. **Rajoita pitkän aikavälin läsnäoloa alhaisella Maan kiertoradalla (LEO)**  
-
-- **ITU** julkaisi 2010 suosituksen geostationaarisen kiertoradan ympäristön suojelusta (ITU‑R S.1003‑2).  
-- ESA:n Avaruuskirppusten toimisto ylläpitää kirppusten rekisteriä ja valvoo ohjeiden noudattamista.  
-
-#### Monitoring  
-Ei ole kansainvälistä varoitusjärjestelmää avaruuskirppusten hallintaan.  
-Suurten avaruusvirastojen, kuten Yhdysvaltain avaruusvalvonta‑verkoston (USSS), on kuitenkin toteutettu toimintamalleja, jotka muistuttavat ihmislähtöisiä varoitusjärjestelmiä.  
-USSS seuraa kirppuksia, ja jos havaitsee luotettavan uhkan (esim. todennäköisyys 1:10 000), se varoittaa Kansainvälistä avaruusasemaa, jotta asema voi suorittaa törmäyssuojaustoimenpiteitä (NASA, 2024).  
-Vuonna 2013 ESA raportoi, että **CCSDS (Consultative Committee for Space Data Standards)** julkaisi ensimmäisen standardin törmäysvaroituksista. Tämä standardi mahdollistaa varoitusten jakamisen eri maiden tai alueiden avaruusvirastojen välillä.  
-
-#### References  
-*(tässä on tarkat viitteet, jotka on käännetty ja sisällytetty oikein)*  
+### Seuranta  
+Avaruuden yhteisöllä ei ole kansainvälistä varoitusjärjestelmää avaruusjätteiden käsittelemiseksi. Kuitenkin jotkut avaruusjärjestöt toteuttavat toimenpiteitä, jotka sisältävät monia ihmisläheisen varoitusjärjestelmän elementtejä. Yhdysvaltain avaruusvalvonta‑verkosto seuraa avaruusjätteitä, ja kun uhka on luotettava (todennäköisyys noin 1:10 000), verkosto varoittaa Kansainvälistä avaruusasemaa, jotta asema voi toteuttaa manööverit törmäyksen välttämiseksi (NASA, 2024). Vuonna 2013 Euroopan avaruusjärjestö (ESA, 2013) raportoi, että Consultative Committee for Space Data Standards (CCSDS) julkaisi ensimmäisen standardimessagen, joka mahdollistaa törmäystietojen jakamisen. Uusi standardi mahdollistaa eri maiden tai alueiden avaruusjärjestöjen varoitusten jakamisen standardoidulla tekstillä.  
 
 ---
+
+**References**  
+Committee on the Peaceful Uses of Outer Space (COPUOS), no date. Inter‑Agency Space Debris Coordination Committee. Space debris mitigation guidelines. Official report A/AC.105/C.1/L.260. Accessed 10 June 2024.  
+Committee on the Peaceful Uses of Outer Space (COPUOS), 2024. Special report of the Inter‑Agency Meeting on Outer Space Activities on developments within the United Nations system related to space debris. Official report A/AC.105/1317. 20 May 2024. Accessed 26 June 2024.  
+European Space Agency (ESA, no date). Space Debris webpage. Accessed 24 June 2024.  
+European Space Agency (ESA, no date). Space Debris by the numbers webpage. Accessed 24 June 2024.  
+European Space Agency (ESA, 2024). Space Safety: Hypervelocity impacts and protecting spacecraft webpage. Accessed 25 June 2024.  
+European Space Agency (ESA, 2013). Space Safety webpage. Accessed 25 June 2024.  
+German Aerospace Centre (DLR, no date). Space Debris webpage. Accessed 24 June 2024.  
+Japan Aerospace Exploration Agency (JAXA, no date). Safety on Earth and Space webpage. Accessed 24 June 2024.  
+NASA, 2019. Space Debris. National Aeronautics and Space Administration (NASA). Accessed 26 June 2024.  
+United Nations, 2003. Resolution 57/116 of the United Nations General Assembly on the topic of International cooperation in the peaceful uses of outer space. Official Report 57/116, 23 February 2003. Accessed 24 June 2024.  
+United Nations, 2008. Resolution 62/217 of the United Nations General Assembly on the topic of International cooperation in the peaceful uses of outer space. Official Report 57/116, 01 February 2008. Accessed 24 June 2024.  
+United Nations Office for Outer Space Affairs (UNOOSA), 2010. Space Debris Mitigation Guidelines of the Committee on the Peaceful Uses of Outer Space. Accessed 18 June 2024.  
+United Nations Office for Outer Space Affairs (UNOOSA), 2024. Compendium of Space Debris Mitigation Standards adopted by States and International Organizations. Accessed 18 June 2024.  
+United Nations International Telecommunications Union (ITU). 2010. Recommendation ITU‑R S.1003‑2 (12/2010) Environmental Protection of Geo‑Stationary‑Satellite Orbit. Accessed 23 May 2025.  
+United Nations International Telecommunications Union (ITU, no date). Guidelines, Codes of Conduct and Best Practices. Accessed 25 June 2024.  
+United States National Aeronautics and Space Administration (NASA, no date). Orbital Debris webpage, frequently asked questions. Accessed 24 June 2024.  
+United States National Aeronautics and Space Administration (NASA, 2024). NASA Orbital Debris Programme Office webpage. Accessed 24 June 2024.  
+Cite this [Copy citation]

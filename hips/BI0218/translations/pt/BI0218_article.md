@@ -1,70 +1,51 @@
-```markdown
-# Definição
-Listeriose é uma infecção de origem alimentar causada pela bactéria *Listeria monocytogenes*, que pode ser invasiva (forma mais grave) ou não invasiva (forma mais branda). Surto de listeriose ocorre em todos os países e pode representar um importante problema de saúde pública (OMS, 2018).
+### Definição
+A listeriose é uma infecção alimentar causada pela bactéria *Listeria monocytogenes*, que pode ser invasiva (a forma mais grave da doença) ou não invasiva (a forma mais branda da doença). Surto de listeriose ocorre em todos os países e pode representar uma preocupação significativa para a saúde pública (OMS, 2018).
 
-## Referência Primária
-OMS, 2018. *Listeriose*. Organização Mundial da Saúde (OMS). Acesso em 14 de fevereiro de 2025.
+### Referência Principal
+OMS, 2018. Listeriose. Organização Mundial da Saúde (OMS). Acesso em 14 de fevereiro de 2025.
 
-## Anotações
-
-### Descrição Científica Adicional
-Listeriose é uma doença zoonótica, significando que pode ser transmitida de animais para humanos, principalmente pela ingestão de alimentos contaminados. *Listeria monocytogenes* pode contaminar diversas fontes alimentares, incluindo carne, laticínios e alimentos prontos‑a‑comer.
-
-Existem dois tipos principais de listeriose:
-- **Não invasiva** (gastroenterite febril listerial): forma branda, afeta principalmente pessoas saudáveis; sintomas incluem diarreia, febre, dor de cabeça e mialgia. Surto geralmente envolve ingestão de alimentos com altas doses de *L. monocytogenes* (OMS, 2018).
-- **Invasiva**: forma mais grave, afeta grupos de alto risco (mulheres grávidas, imunossuprimidos – HIV/AIDS, leucemia, câncer, transplante renal, terapia com esteroides), idosos e crianças. Caracteriza‑se por febre, mialgia, sepse, meningite e outros sintomas graves, incluindo aborto espontâneo. Taxa de mortalidade entre 20 % e 30 %. Período de incubação: 1‑2 semanas, podendo variar de poucos dias a 90 dias (OMS, 2018).
-
-#### Patógeno
-*Listeria monocytogenes* é um patógeno alimentício altamente adaptável que causa a doença fatal listeriose. Dentro do hospedeiro, a bactéria invade células, escapa para o citoplasma e replica‑se intracelularmente (O’Byrne & Utratna, 2010). Diferente de outros bactéricos alimentícios, *L. monocytogenes* pode sobreviver e multiplicar em baixas temperaturas típicas de refrigeradores. Em surtos passados, alimentos envolvidos incluíram:
-- Produtos de carne prontos‑a‑comer (salsichas, patê, salmão defumado, salsichas de carne crua fermentadas);
-- Laticínios (queijos macios, leite não pasteurizado, sorvete);
-- Saladas preparadas (salada de repolho, brotos de feijão);
-- Vegetais frescos e frutas.
-
-Ingerir alimentos contaminados com altos números de *L. monocytogenes* é a principal via de infecção (OMS, 2018).
-
-A infecção também pode ser transmitida entre humanos, notavelmente de grávidas para bebês não nascidos. Grávidas têm cerca de 20 vezes mais probabilidade de contrair listeriose que outros adultos saudáveis, podendo resultar em aborto espontâneo ou morte intrauterina. Bebês recém‑nascidos podem ter peso ao nascer baixo, sepse e meningite. Pessoas com HIV/AIDS são pelo menos 300 vezes mais propensas a se infectar que quem tem sistema imunológico normal (OMS, 2018).
-
-Devido ao longo período de incubação, é desafiador identificar o alimento real fonte da infecção (OMS, 2018).
-
-Em animais, *L. monocytogenes* pode causar sepse, doença neurológica e doença reprodutiva em ampla variedade de hospedeiros. Animais são geralmente portadores assintomáticos. Surtos em espécies de vida selvagem são tipicamente esporádicos e associados a exposição a altas cargas bacterianas em curto período. Caso contrário, sinais clínicos podem surgir secundariamente à imunossupressão, predisposição a doenças ou estresse ambiental excessivo (OIE, 2020). Sinais clínicos incluem rhombencefalite (ou alterações encefálicas disseminadas), sepse e aborto, especialmente em ovelhas, cabras e bovinos (OIE, 2021).
+### Anotações
+#### Descrição científica adicional
+A listeriose é uma doença zoonótica, o que significa que pode ser transmitida de animais para humanos. Isto ocorre principalmente pelo consumo de alimentos contaminados, pois *Listeria monocytogenes*, a bactéria que causa a listeriose, pode contaminar diversas fontes alimentares, incluindo carne, laticínios e alimentos prontos para consumo. Existem dois tipos principais de listeriose: uma forma não invasiva e uma forma invasiva. A listeriose não invasiva (gastroenterite listerial febril) é uma forma branda da doença que afeta principalmente pessoas saudáveis. Os sintomas incluem diarreia, febre, dor de cabeça e mialgia. Os surtos geralmente envolvem a ingestão de alimentos contendo altas doses de *Listeria monocytogenes* (OMS, 2018). A listeriose invasiva é uma forma mais grave da doença que afeta determinados grupos de alto risco, incluindo mulheres grávidas, indivíduos imunocomprometidos (tais como portadores de HIV/AIDS, leucemia, câncer, transplante renal e terapia com esteroides), idosos e recém‑nascidos. Esta forma de doença caracteriza‑se por febre, mialgia, sepse, meningite e outros sintomas graves, incluindo aborto em mulheres grávidas. Está associada a uma taxa de mortalidade alta (20 %–30 %). O período de incubação da listeriose costuma ser de uma a duas semanas, mas pode variar de alguns dias até 90 dias (OMS, 2018). *Listeria monocytogenes* é um patógeno alimentar altamente adaptável que causa a doença listeriose em indivíduos infectados. Dentro do hospedeiro, a bactéria invade as células, escapa para o citosol e se replica intracelularmente (O'Byrne & Utratna, 2010). Ao contrário de muitas outras bactérias que causam doenças alimentares comuns, *L. monocytogenes* pode sobreviver e multiplicar‑se em baixas temperaturas normalmente encontradas em refrigeradores. Em surtos anteriores, os alimentos envolvidos incluíram produtos de carne prontos para consumo, como salsichas, patês, salmão defumado e linguiças de carne crua fermentada, bem como laticínios (incluindo queijos macios, leite não pasteurizado e sorvete) e saladas preparadas (incluindo salada de repolho e brotos de feijão) além de vegetais frescos e frutas. Comer alimentos contaminados com altas quantidades de *L. monocytogenes* é a principal via de infecção (OMS, 2018). A infecção também pode ser transmitida entre humanos, notavelmente de mulheres grávidas para bebês não nascidos. Mulheres grávidas têm cerca de 20 vezes mais chance de contrair listeriose que outros adultos saudáveis. Pode resultar em abortamento ou morte fetal. Recém‑nascidos podem ter baixo peso ao nascer, sepse e meningite. Pessoas com HIV/AIDS têm pelo menos 300 vezes mais chance de adoecer que aquelas com sistema imunológico normalmente funcional (OMS, 2018). Devido ao longo período de incubação, é difícil identificar o alimento que foi a fonte real da infecção (OMS, 2018). Em animais, *L. monocytogenes* pode causar sepse, doença neurológica e doença reprodutiva em uma ampla variedade de hospedeiros. Animais costumam ser portadores assintomáticos de *L. monocytogenes*. Os surtos de listeriose em espécies selvagens são tipicamente esporádicos e associados à exposição a altas cargas bacterianas por um curto período. Caso contrário, sinais clínicos podem surgir secundariamente à imunossupressão, predisposição à doença ou estresse ambiental excessivo (WOAH, 2020). As manifestações clínicas da listeriose em animais incluem rômboencefalite (ou, em alguns casos, alterações encefálicas disseminadas), sepse e aborto, especialmente em ovelhas, cabras e bovinos (WOAH, 2021).
 
 ### Métricas e Limites Numéricos
-Listeriose é relativamente rara, com 0,1 a 10 casos por 1 milhão de pessoas por ano, dependendo dos países e regiões. Apesar de baixa incidência, a alta taxa de mortalidade faz dela uma preocupação de saúde pública (OMS, 2018). O Centro Europeu de Prevenção e Controle de Doenças (ECDC) publicou uma classificação de casos para gerenciamento de surtos e vigilância epidemiológica nacional (ECDC, 2018).
+A listeriose é uma doença relativamente rara, com 0,1 a 10 casos por 1 milhão de pessoas por ano, dependendo dos países e regiões do mundo. Embora o número de casos seja baixo, a alta taxa de mortalidade associada a esta infecção a torna uma preocupação significativa de saúde pública (OMS, 2018). O Centro Europeu de Prevenção e Controle de Doenças (ECDC) publicou uma classificação de casos para gestão de surtos e vigilância epidemiológica nacional (ECDC, 2018).
 
-## Convenção/Tratado Multilateral Relevante
-- Regulamentos Internacionais de Saúde (2005), 3ª ed. (OMS, 2016).
-- Codex Alimentar (FAO e OMS, sem data).
+### Convenção ou Tratado Multilateral Relevante das Nações Unidas
+Regulamentos Internacionais de Saúde (2005), 3ª edição (OMS, 2016).  
+Codex Alimentarius (FAO e OMS, sem data).
 
-## Impulsores
-Listeriose é doença séria, mas evitável e tratável. Grávidas, idosos ou indivíduos com sistema imunológico enfraquecido (HIV/AIDS, leucemia, câncer, transplante renal, terapia com esteroides) têm maior risco e devem evitar alimentos de alto risco, como carnes de charcutaria, produtos prontos‑a‑comer (carnes cozidas, curadas e/ou fermentadas, salsichas), queijos macios e produtos de pesca defumados a frio. *Listeria monocytogenes* é amplamente distribuída na natureza, presente em solo, água, vegetação e fezes de alguns animais, contaminando alimentos (OMS, 2018).
+### Agentes Propulsores
+A listeriose é uma doença grave, mas prevenível e tratável. Mulheres grávidas, idosos ou indivíduos com sistema imunológico enfraquecido, tais como pessoas com imunossupressão devido a HIV, leucemia, câncer, transplante renal e terapia com esteroides, estão em maior risco de listeriose grave e devem evitar alimentos de alto risco. Alimentos de alto risco incluem carne embutida e produtos de carne prontos para consumo (como carnes cozidas, curadas e/ou fermentadas e salsichas), queijos macios e produtos de pesca defumados a frio. *Listeria monocytogenes* está amplamente distribuída na natureza. Pode ser encontrada em solo, água, vegetação e fezes de alguns animais e pode contaminar alimentos (OMS, 2018). Ao contrário de muitas outras bactérias que causam doenças alimentares comuns, *L. monocytogenes* pode sobreviver e multiplicar‑se em baixas temperaturas normalmente encontradas em refrigeradores. Comer alimentos contaminados com altas quantidades de *L. monocytogenes* é a principal via de infecção. A infecção também pode ser transmitida entre humanos, notavelmente de mulheres grávidas para bebês não nascidos. *L. monocytogenes* é ubíquo na natureza e encontrado em solo, água e trato digestivo de animais. Vegetais podem ser contaminados por solo ou pelo uso de esterco como fertilizante. Alimentos prontos para consumo também podem ficar contaminados durante o processamento, e a bactéria pode multiplicar‑se a níveis perigosos durante a distribuição e armazenamento (OMS, 2018).
 
-## Impactos
-Grávidas, idosos ou imunossuprimidos têm maior risco e devem evitar alimentos de alto risco (OMS, 2018).
+### Impacto
+Mulheres grávidas, idosos ou indivíduos com sistema imunológico enfraquecido, tais como pessoas com imunossupressão devido a HIV, leucemia, câncer, transplante renal e terapia com esteroides, estão em maior risco de listeriose grave e devem evitar alimentos de alto risco (OMS, 2018).
 
-## Contexto Multi‑Risco
-*L. monocytogenes* é ubiquíta na natureza, encontrado em solo, água e trato digestivo animal. Vegetais podem ser contaminados por solo ou pelo uso de esterco como fertilizante. Alimentos prontos‑a‑comer também podem ficar contaminados durante processamento, e a bactéria pode multiplicar em níveis perigosos durante distribuição e armazenamento (OMS, 2018).
+### Contexto Multi‑Risco
+*L. monocytogenes* é ubíquo na natureza e encontrado em solo, água e trato digestivo de animais. Vegetais podem ser contaminados por solo ou pelo uso de esterco como fertilizante. Alimentos prontos para consumo também podem ficar contaminados durante o processamento, e a bactéria pode multiplicar‑se a níveis perigosos durante a distribuição e armazenamento (OMS, 2018). Alimentos mais associados à listeriose incluem: alimentos com longa vida útil sob refrigeração (em que *L. monocytogenes* pode crescer em números significativos a temperaturas de refrigeração quando recebem tempo suficiente); e alimentos que são consumidos sem tratamento adicional, como cozimento, que, de outra forma, mataria *L. monocytogenes*. Em surtos anteriores, os alimentos envolvidos incluíram produtos de carne prontos para consumo, como salsichas, patês, salmão defumado e linguiças de carne crua fermentada, bem como laticínios (incluindo queijos macios, leite não pasteurizado e sorvete) e saladas preparadas (incluindo salada de repolho e brotos de feijão) além de vegetais frescos e frutas (OMS, 2018).
 
-## Gerenciamento de Risco
-O controle de *Listeria monocytogenes* exige atenção em todas as etapas da cadeia alimentar e abordagem integrada para prevenir sua multiplicação no produto final (OMS, 2018). Desafios incluem ubiquidade, alta resistência a conservantes comuns e capacidade de sobreviver em temperaturas de refrigeração (~5 °C). Todos os setores devem implementar Boas Práticas de Higiene (BPH) e Boas Práticas de Fabricação (BPF), além de um sistema de gestão da segurança alimentar baseado nos princípios de APPCC. OMS e FAO publicaram avaliação de risco quantitativo internacional de *Listeria* em alimentos prontos‑a‑comer, formando a base científica para as Diretrizes do Codex Alimentar sobre a aplicação de princípios gerais de higiene para o controle de *Listeria monocytogenes* em alimentos (FAO, 2007).
+### Gestão de Risco
+O controle de *Listeria monocytogenes* é necessário em todas as etapas da cadeia alimentar, e uma abordagem integrada é necessária para impedir a multiplicação desta bactéria no produto final (OMS, 2018). Os desafios para controlar *L. monocytogenes* são consideráveis, dado seu caráter ubíquo, alta resistência a métodos preservativos comuns, como o uso de sal, fumaça ou condições ácidas nos alimentos, e sua capacidade de sobreviver e crescer a temperaturas de refrigeração (cerca de 5 °C). Todos os setores da cadeia alimentar devem implementar Boas Práticas Higiênicas (BPH) e Boas Práticas de Fabricação (BPF), além de implementar um sistema de gestão de segurança alimentar baseado nos princípios de Análise de Perigos e Pontos Críticos de Controle (APPCC). A Organização Mundial da Saúde (OMS) e a Organização das Nações Unidas para Agricultura e Alimentação (FAO) publicaram uma avaliação quantitativa internacional de risco de *Listeria* em alimentos prontos para consumo. Esta avaliação serviu como base científica para as Diretrizes da Comissão do Codex Alimentarius sobre a aplicação de princípios gerais de higiene alimentar para o controle de *Listeria monocytogenes* em alimentos (FAO, 2007). Para animais, as melhores práticas indicam a manutenção de higiene adequada em áreas de alimentação, especialmente onde há ruminantes livre‑floresta, e a prevenção da contaminação por fezes; compostos de amônio quaternário, povidona‑iodo, clorexidina, 7 % de etanol, glutaraldeído e hipoclorito de sódio costumam ser eficazes; a eficácia aumenta quando formulado com água ozonada em vez de água da torneira (WOAH, 2020). Em geral, as orientações para a prevenção da listeriose são semelhantes às usadas para prevenir outras doenças alimentares. Isso inclui práticas de manuseio seguro de alimentos e seguir os Cinco Pilares para Alimentos Mais Seguros da OMS (OMS, 2006).
 
-## Monitoramento
-A tabela abaixo oferece visão geral de monitoramento de listeriose em animais. Informação pode ser usada em sistemas de alerta antecipado.  
-*(Tabela não incluída – usar tabela padrão do documento original.)*
+### Monitoramento
+A seção e a tabela abaixo oferecem uma visão geral do monitoramento da listeriose em animais. Esta informação pode ser usada para previsão dentro de um sistema nacional de alerta precoce (SAP). Como as capacidades e processos de SAP diferem entre os países, a informação mais atual e específica sobre SAP deve ser obtida da agência/autoridade nacional ou regional apropriada responsável pela gestão de desastres.
 
-## Referências
-- ECDC, 2018. Decisão de implementação (UE) 2018/945 de 22 de junho de 2018...
-- FAO, 2007. Diretrizes sobre princípios de higiene alimentar...
-- FAO, OMS, 2022. Reunião de especialistas...
-- FAO, OMS, sem data. Sobre Codex Alimentar...
-- OMS, 2006. Manual Cinco chaves para alimentos mais seguros...
-- OMS, 2016. Regulamentos Internacionais de Saúde (2005)...
-- OMS, 2018. *Listeriose*...
-- OMS, 2021. Kit estratégico de avaliação de riscos...
-- OMS, sem data. Sistema EWARS...
-- OIE, sem data. Listeriose em animais selvagens...
-- OIE, 2020. *Listeria monocytogenes* (Infecção com)...
-- OIE, 2021. Manual de testes diagnósticos e vacinas...
-```
+#### Quais instituições produzem dados/informações de risco de desastres?
+Ministério da Saúde, Ministério da Agricultura, Ministério da Pecuária, Ministério da Saúde, Centros de Referência da FAO, Centros de Referência da WOAH, OMS
 
-*Todos os termos técnicos foram revisados para garantir consistência com o vocabulário de Desastre e Redução de Risco (DRR) e com a terminologia científica reconhecida em português.*
+#### Como o perigo é observado/monitorado/predito?
+A OMS apoia os países na condução de avaliações estratégicas de risco de todos os perigos no contexto de emergências de saúde e desastres, o que resulta no desenvolvimento de um perfil de risco nacional. Com o perfil de risco do país, inclusive um calendário sazonal de risco, os países podem antecipar emergências potenciais antes de ocorrerem para disparar alertas precoces e informar ações iniciais (OMS, 2021). O Sistema de Alerta, Alerta e Resposta Precoce da OMS (EWARS) foi projetado para melhorar a detecção de surtos de doença em situações de emergência, como em países em conflito ou após um desastre natural. É uma maneira simples e econômica de montar rapidamente um sistema de vigilância de doenças. O EWARS é implementado durante uma emergência como complemento ao sistema de vigilância de doenças nacional. A OMS trabalha com Ministérios da Saúde e parceiros do setor de saúde para treinar trabalhadores de saúde locais no uso do sistema. Após a emergência, o EWARS deve reintegrar-se ao sistema nacional (OMS, sem data). Por meio de seu sistema global de alerta precoce, a FAO tem apoiado os Membros com monitoramento, avaliação e previsão de ameaças à saúde animal para melhorar a preparação e resposta a ameaças à saúde animal: O Sistema Global de Informação de Doenças Animais, EMPRES‑i+, desempenha um papel crucial no apoio aos países com alerta precoce e detecção precoce de surtos de doença animal. Ao fornecer uma plataforma abrangente de rastreamento de doenças em tempo real, EMPRES‑i+ permite o monitoramento e análise de ameaças à saúde animal de forma eficaz, colaborando de perto com países e regiões no compartilhamento de informações sobre doenças. Isso apoia a divulgação de avaliações de risco e alertas para tomada de decisões baseada em evidências. A FAO desenvolve e mantém ferramentas de apoio à decisão que fornecem mapas de risco de emergência de doenças animais existentes e previstas, bem como outras ameaças à cadeia agro‑alimentar. Além disso, a FAO colabora de perto com organizações internacionais como OMS e WOAH para verificar informações sobre doenças por meio de mecanismos integrados, como Inteligência Epidemiológica de Fontes Abertas (EIOS), Sistema Global de Alerta Precoce (GLEWS+) e Sistema Global de Informação sobre Saúde Animal (WAHIS) para doenças listadas pela WOAH. Essas colaborações permitem a divulgação de alertas de alerta precoce e avaliações de risco aos Membros, possibilitando respostas oportunas a potenciais surtos. FAO empres‑i+ https://empres-i.apps.fao.org/diseases WOAH WAHIS https://wahis.woah.org/#/event-management
+
+### Referências
+ECDC, 2018. Commission implementing decision (EU) 2018/945 of 22 June 2018 on the communicable diseases and related special health issues to be covered by epidemiological surveillance as well as relevant case definitions. European Centre for Disease Prevention and Control (ECDC). Accessed 25 May 2025.
+FAO, 2007. Guidelines on the application of general principles of food hygiene to the control of Listeria Monocytogenes in foods. Food and Agriculture Organization of the United Nations (FAO). Accessed 25 May 2025.
+FAO, WHO. 2022. Joint FAO/WHO Expert meeting on microbiological risk assessment of Listeria monocytogenes in foods. Accessed 1 January 2025.
+FAO, WHO, no date. About Codex Alimentarius. Food and Agriculture Organization of the United Nations (FAO) and World Health Organization (WHO). Accessed 25 May 2025.
+WHO, 2006. Five key ways to safer food manual. World Health Organization (WHO). Accessed 25 May 2025.
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Accessed 26 May 2025.
+WHO, 2018. Listeriosis. World Health Organization (WHO). Accessed 25 May 2025.
+WHO, 2021. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all-hazards health emergency risk assessment. World Health Organization (WHO). Accessed 26 May 2025.
+WHO, no date. Early Warning, Alert and Response System (EWARS). World Health Organization (WHO). Accessed 26 May 2025.
+WOAH, No date. Listeriosis (L. monocytogenes) in wild animals. Accessed 25 May 2025.
+WOAH, 2020. Listeria monocytogenes (Infection with). Accessed 25 May 2025.
+WOAH, 2021. Manual of Diagnostic Tests and Vaccines for Terrestrial Animals. Chapter 3.10.5. – Listeria monocytogenes. World Organisation. Accessed 25 May 2025.

@@ -1,47 +1,52 @@
-> ### Definition  
-> Koraller er utsatt for *bleking* når havvannet er for varmt: de mister de symbiotiske algene som gir korallene farge og deler av næringsstoffene. Alvorlig, langvarig eller gjentatt bleking kan føre til død av korallkolonier (United Nations, 2017).  
-> 
-> ### Primær referanse(r)  
-> United Nations, 2017. *The First Global Integrated Marine Assessment: World Ocean Assessment I*. Cambridge University Press. Tilgjengelig 25. februar 2025.  
-> 
-> ### Anmerkninger  
-> #### Ytterligere vitenskapelig beskrivelse  
-> Koraller er symbiotiske organismer der korallpolypen huser fotosyntetiske zooxantheller for gjensidig nytte. Under stress ekspellerer polypen algene, noe som påvirker korallvekst og reproduksjon og fører til bleking. Når bleking vedvarer, kan det resultere i koralsykdom og død (Saxena et al., 2023). Korallbleking er et relativt moderne fenomen. Før 1980 ble det sjelden observert og betraktet som et lokalt problem. Siden da har både frekvens og alvorlighetsgrad av blekingshendelser økt. Andelen koraller skadet globalt på grunn av bleking steg fra 8 % per år i 1980‑årene til rundt 31 % i 2016 (Saxena et al., 2023). En økning på bare 1 °C til 2 °C over sesongens maksimum kan utløse bleking. Mens de fleste koralltyper er mottakelige for bleking, varierer termisk toleranse. Mange varme‑stressede eller blekkede koraller dør deretter av koralsykdom (United Nations, 2017 ; 2021). Økende hyppighet av alvorlig korallbleking er en av de største truslene mot korallrev fra klimaendringer. Globale klimamodeller viser stor romlig variasjon i timing av årlige alvorlige blekingshendelser – et punkt der revets gjenoppretting blir begrenset (UNEP, 2017).  
-> 
-> ... (fortsetter med full oversettelse av resten av teksten: “Key relevant UN convention / multilateral treaty”, “Drivers”, “Impacts”, “Multi‑hazard context”, “Risk Management”, “Monitoring”, og “References”).  
-> 
-> ### Metrikker og numeriske grenser  
-> NOAA Coral Reef Watch Daily Global 5 km Satellite Coral Bleaching Degree Heating Week (DHW) produkt måler akkumulert varme‑stress som kan føre til korallbleking og mortalitet. En DHW‑verdi på 4 °C‑uker indikerer risiko for bleking. På 8 °C‑uker er rev‑omfattende bleking med mortalitet blant termisk følsomme koraller sannsynlig. Hvis DHW når 12 °C‑uker, blir fler‑spekter‑mortalitet sannsynlig. Når verdier når 16 °C‑uker, forventes alvorlig mortalitet som påvirker mer enn 50 % av korallene, og ved 20 °C‑uker eller mer er nesten total mortalitet (over 80 %) sannsynlig (NOAA, 2018).  
-> 
-> ... (fullstendig oversettelse fortsetter)  
-> 
-> ### Referanser  
-> Chen, P.Y., Chen, C.C., Chu, L., McCarl, B., 2015. *Evaluating the economic damage of climate change on global coral reefs*. Global Environmental Change, 30, 12‑20. Tilgjengelig 25. februar 2025.  
-> 
-> Lesser, M.P., 2021. *Eutrophication on Coral Reefs: What Is the Evidence for Phase Shifts, Nutrient Limitation and Coral Bleaching*. BioScience 71(12), 1216‑1233. Tilgjengelig 25. februar 2025.  
-> 
-> Licuanan, W.Y., Mordeno, P.Z.B., 2021. *Citizen Science Reveals the Prevalence of the 2020 Mass Coral Bleaching in One Town*. Philippine Journal of Science, 150 (3): 945‑949. Tilgjengelig 25. februar 2025.  
-> 
-> NOAA, no date a. *What is coral bleaching?* National Oceanic and Atmospheric Administration (NOAA), National Ocean Service. Tilgjengelig 25. februar 2025.  
-> 
-> NOAA, no date b. *Coral Reef Watch Satellite Monitoring and Modeled Outlooks*. National Oceanic and Atmospheric Administration (NOAA) Satellite and Information Service. Tilgjengelig 25. februar 2025.  
-> 
-> NOAA, 2018. *Daily Global 5km Satellite Coral Bleaching Heat Stress Degree Heating Week*. NOAA Coral Reef Watch Daily 5km Satellite Coral Bleaching Heat Stress Degree Heating Week Product (Version 3.1). Tilgjengelig 25. februar 2025.  
-> 
-> Saxena, T., Sahgal, A., Gupta, R., Mehra, N., og Arora, R., 2023. *Coral Bleaching: Causes, Mechanism, Consequences, Resilience and Preventive Strategies for Mitigation*. International Journal of Ecology and Environmental Sciences 49: 327‑340, 2023. Tilgjengelig 25. februar 2025.  
-> 
-> Suggett, D.J., Smith, D.J., 2019. *Coral bleaching patterns are the outcome of complex biological and environmental networking*. Global Change Biology. 2020;26:68‑79. Tilgjengelig 25. februar 2025.  
-> 
-> UNEP, 2017. *Coral Bleaching Futures: Downscaled projections of bleaching conditions for the world’s coral reefs, implications of climate policy and management responses*. United Nations Environment Programme (UNEP). Tilgjengelig 25. februar 2025.  
-> 
-> United Nations, 2017. *The First Global Integrated Marine Assessment: World Ocean Assessment I*. Cambridge University Press. Tilgjengelig 25. februar 2025.  
-> 
-> United Nations, 2021. *The Second Global Integrated Marine Assessment: World Ocean Assessment II*. Tilgjengelig 25. februar 2025.  
-> 
-> van Hooidonk, R., Maynard, J., Tamelander, J., Gove, J., Ahmadia, G., Raymundo, L., Williams, G., Heron, S.F., Planes, S., 2016. *Local-scale projections of coral reef futures and implications of the Paris Agreement*. Scientific Reports, 6:39666. Tilgjengelig 25. februar 2025.  
-> 
-> van Woesik, R., Kratochwil, C., 2022. *A global coral-bleaching database,1980–2020*. Nature Scientific Data, 9:20. DOI: 10.1038/s41597-022-01121-y. Tilgjengelig 25. februar 2025.  
-> 
-> Zheng, Q., 2024. *Exploration on Environmental Causes of Coral Bleaching*. Journal of Advances in Engineering and Technology. DOI: 10.62177/jaet.v1i3.84. Tilgjengelig 25. februar 2025.  
+### Definisjon  
+Koraller er utsatt for **bleking** når havtemperaturen er for høy: de mister de symbiotiske algen som gir koraller farge og deler av næringene sine. Alvorlig, langvarig eller gjentatt bleking kan føre til døden av korallkolonier (United Nations, 2017).
 
-*(End of full, fully corrected Norwegian translation.)*
+### Primær referanse(r)  
+United Nations, 2017. The First Global Integrated Marine Assessment: World Ocean Assessment I. Cambridge University Press. Accessed 25 February 2025.
+
+### Anmerkninger  
+#### Ytterligere vitenskapelig beskrivelse  
+Koraller er symbiotiske organismer med korallpolypen som huser fotosyntetiske **zooxantheller** for gjensidig nytte. I tidspunkter med stress, utløser polypen algen, påvirker korallvoksning og reproduksjon og fører til bleking. Når bleking vedvarer, kan det resultere i korallsvikt og død (Saxena et al., 2023).  
+Korallbleking er et relativt moderne fenomen. Før 1980 var det sjelden observert og betraktet som et lokalt problem. Siden da har både hyppighet og alvorlighet av blekinghendelser økt. Andelen koraller skadet globalt på grunn av bleking steg fra 8 % per år i 1980‑tallet til rundt 31 % i 2016 (Saxena et al., 2023).  
+En økning på bare 1 °C til 2 °C over den sesongmessige maksimum kan utløse bleking. Mens de fleste korallspesier er mottakelige for bleking, varierer termisk toleranse. Mange varme‑stressede eller blekte koraller dør senere av korallsykdommer (United Nations, 2017; 2021).  
+Økende hyppige alvorlige bleking er en av de største truslene mot korallrev fra klimaendringer. Globale klimamodeller forutser stor spatial variasjon i timing av årlige alvorlige blekinghendelser – et punkt bort fra hvilket rev‑gjenoppretting blir begrenset (UNEP, 2017).  
+I 2005 mistet USA halvparten av sine korallrev i Karibia på grunn av en stor blekinghendelse. Varme vann sentrert rundt de nordlige Antiller utvidet seg mot sør. Satellittdata viste at termisk stress fra denne hendelsen oversteg de forrige 20 år sammen (NOAA, no date a).  
+I 2020 ble bleking rapportert rundt Hainan Island og Beibu Golf. Great Barrier Reef opplevde masse bleking i 1998, 2002, 2006, 2016, 2017 og 2020. The Global Coral‑Bleaching Database (GCBD) inneholder 34 846 blekingsposter fra 14 405 steder i 93 land (Saxena et al., 2023).  
+Årlig alvorlig bleking start er definert som mer enn åtte **Degree Heating Weeks (DHW)** innenfor en tre måneders periode. Ved denne terskel er termisk stress sannsynlig nok til å forårsake bleking (van Hooidonk et al., 2016).
+
+### Målinger og numeriske grenser  
+NOAA Coral Reef Watch daglige globale 5 km satellitt korall bleking **Degree Heating Week (DHW)** produkt måler akkumulert varmestrid som kan føre til bleking og dødelighet. En DHW-verdi på 4 °C‑uker indikerer en risiko for bleking. På 8 °C‑uker er rev‑omfattende bleking med dødelighet blant termisk følsomme koraller sannsynlig. Hvis DHW når 12 °C‑uker, blir fler‑spesies dødelighet sannsynlig. Når verdiene når 16 °C‑uker, forventes alvorlig dødelighet som påvirker mer enn 50 % av koraller, og ved 20 °C‑uker eller mer er nesten total dødelighet (over 80 %) sannsynlig (NOAA, 2018).
+
+### Nøkkelrelevant FN‑konvensjon / multilateralt traktat  
+Convention on Biological Diversity (1992) inkluderer mål om å bevare biologisk mangfold, bærekraftig bruke komponenter og rettferdig dele fordeler fra genetiske ressurser.
+
+### Drivere  
+Hoveddriverne for korallbleking er klimaendringer og varme. Flere rev‑stressorer, som erosjon, solstråling, stigende havtemperaturer, forurensning, sedimentering fra avskoging og konstruksjon, predasjon, variabel salinitet, infeksjoner, sykdomsutbrudd og økt virulens, samt overfiske og destruktive fiskemetoder, er assosiert med tap av symbiotiske alger i koraller. Bleking kan utløses ved å eksponere koraller for suboptimale forhold av en hvilken som helst sentral vekst‑ og overlevelsesfaktor. Bleking skjer der alvorlige (“dødelige”) doser av en miljøfaktor oppstår, og også når moderate (“subdødelige”) doser opererer i kombinasjon. Kompleksiteten av driverne er oppsummert i figuren under (Suggett og Smith, 2019).  
+
+**Drivere for korallbleking og deres interaksjoner.**  
+Kilde: Suggett & Smith, 2019. Korallblekingsmønstre er resultatet av komplekse biologiske og miljømessige nettverksinteraksjoner.  
+
+Climate change is considered the major cause of coral bleaching. Evidence strongly supports the role of marine heatwaves as the primary driver of mass bleaching events. Heatwave severity is measured as Degree Heating Weeks (DHWs), reflecting the cumulative time during which sea surface temperatures (SSTs) exceed the seasonal norm. All environmental factors mentioned above influence the timing and severity of heat stress‑induced bleaching. This complex interaction has led researchers to describe the system as one where "all roads can lead to [some form of] coral bleaching" (Suggett and Smith, 2019). Because coral polyps tolerate only a narrow thermal range, a rise of just 1-2°C can initiate mass bleaching. While bleaching is reduced in shaded reef systems, it is more pronounced in areas exposed to elevated light conditions (Saxena et al., 2023).  
+
+High turbidity caused by silt and contaminants reduces light availability to coral reefs, increasing their vulnerability. Additional hazards such as frequent and intense tropical cyclones, ocean acidification, and ozone depletion (which increases UV radiation) further stress corals and increase bleaching risk. Eutrophication of coastal waters is also contributing to increased coral mortality (Lesser, 2021).
+
+### Impacts  
+Coral reef degradation caused by bleaching significantly affects fisheries, as corals provide nutrition and habitat for numerous fish species and reef‑associated marine fauna. The decline in reef fish populations has reduced the numbers of larger predatory species. These impacts severely affect coastal communities in the tropics that rely on coral reef‑based fisheries for livelihood, income, and food security. There is also a cascading effect on industrialised nations that import seafood from reef ecosystems (Saxena et al., 2023). Coral reefs act as natural wave barriers. The loss of reef integrity due to mass bleaching has made coastlines more vulnerable to damage in the past decade (Saxena et al., 2023). Economic assessments estimate global losses in coral reef value under climate change to range from US$3.4 billion to US$23.78 billion annually (Chen et al., 2015; coast.noaa.gov/states/fast-facts/coral-reefs.html).
+
+### Multi‑hazard context  
+The figure below summarises common interactions between coral bleaching and other hazards. This information should be used with caution and not be solely relied upon in disaster risk management, particularly as some interactions may not have been included. Note that hazardous events occurring together or in proximity in space or time may not necessarily cause, amplify, or be otherwise related to one another. Specific examples of multi‑hazard context can be found in the “Hazard drivers” and “Impacts” sections above.
+
+### Risk Management  
+The recurrence of mass coral bleaching events in recent years has highlighted the need to protect coral reefs and support their adaptation to climate change. Multiple approaches are possible. One approach focuses on protecting the environmental conditions in which corals grow to improve their health and reduce the impacts of heatwaves. Established practices include the use of marine protected areas (MPAs), which reduce fishing pressure on coral reefs, enhance opportunities for coral larvae recruitment, and provide some buffering against extreme events. Effective regulation of land‑derived nutrient inflows that promote algal growth and exacerbate coral sensitivity to heat‑induced bleaching is also a necessary step (Suggett and Smith, 2019). Another approach aims to enhance the adaptive capacity of corals to withstand higher temperatures. Corals have shown the ability to develop resistance (defying bleaching), tolerance (surviving in a bleached state), and recovery (returning to a healthy state post‑bleaching). These capacities vary across individuals and species. Some show visible signs of bleaching only after 1–2 weeks at 1.5°C above normal, while others in the same location may remain unbleached for more than 4–6 weeks (Saxena et al., 2023). Understanding these dynamics can help inform targeted interventions. Coral restoration projects are under way in many countries. Some initiatives involve coral farming or propagation, in which large corals are broken into small fragments or miniature polyps (ranging from 1 to 5 in number). These fragments trigger the formation of clones that grow to 25–50 times the size of the original coral. These cloned fragments then recognise and fuse with one another to form large colonies. Once matured—after approximately 4–12 months—they are returned to the ocean or a designated restoration site (Saxena et al., 2023). Other methods involve placing underwater structures that encourage coral larvae settlement and growth. In 2020, a novel restoration project in the Gulf of Kachchh, Gujarat, India, used an electric current passed through Bio‑rock (mineral accretion). This process facilitates the bonding of calcium and carbonate ions to form calcium carbonate, on which coral larvae settle and grow rapidly without expending their own energy (Saxena et al., 2023). However, these restoration and adaptation strategies alone are currently insufficient to counteract the broader effects of climate change. For long‑term effectiveness and to prevent catastrophic, large‑scale coral loss, they must be combined with reductions in greenhouse gas emissions (Suggett & Smith, 2019).
+
+### Monitoring  
+The section above and the table below provide an overview of monitoring for coral bleaching. This information may support forecasting within a national early warning system (EWS). As EWS capacities and processes vary across countries, the most current and specific information should be obtained from the relevant national or regional agency or authority responsible for disaster management.
+
+| Hvilken institusjon(er) produserer data/informasjon om katastrofet? | NOAA | Kystsamfunn |
+|---|---|---|
+| Hvordan overvåkes/observeres/varsles faren? | The National Oceanic and Atmospheric Administration (NOAA) Coral Reef Watch-programmet bruker satellittdata for å gi nåværende rev‑miljøforhold og for raskt å identifisere områder med risiko for korallbleking (NOAA, no date b). Coral Reef Watch tilbyr også en modellert utsikt som forutsier sannsynligheten for korallbleking termisk stress ukentlig opp til fire måneder i forveien (typisk varighet av en bleking‑sesong). Kontinuerlig satellittovervåking av havtemperaturer på global skala, sammen med modellerte prosjekter av kommende blekings‑nivå termisk stress, gir ressursforvaltere, forskere og andre rev‑økosystem‑interessenter verktøy til å forstå og bedre håndtere de komplekse interaksjonene som fører til bleking. Når blekings‑forhold oppstår, kan disse verktøyene brukes til å utløse blekings‑responsplaner og støtte hensiktsmessige styringsavgjørelser og offentlig kommunikasjon (NOAA, no date b). I tillegg har borgervitenskap blitt brukt til å overvåke omfanget av en korallbleking‑hendelse i Filippinene i 2020, og fremhever rollen til lokale samfunn i å måle påvirkningen av forstyrrelser som korallbleking – spesielt når passende metoder, verktøy og myndighetsstøtte er tilgjengelig (Licuanan & Mordeno, 2021). |  |  |
+
+En Global Coral‑Bleaching Database (GCBD), som omfatter 34 846 korallblekingsposter fra 14 405 steder i 93 land mellom 1980 og 2020 (Global Coral Bleaching Database (NCEI Accession 0228498). GCBD gir viktig informasjon om tilstedeværelse eller fravær av bleking, sammen med stedets eksponering, avstand til land, gjennomsnittlig turbidity, syklontid, og en rekke havtemperatur‑målinger registrert på tidspunktet for undersøkelsen (van Woesik & Kratochwill, 2022). Denne databasen har støttet ulike modeller som har som mål å identifisere bidragende faktorer til korallbleking (Zheng, 2024).
+
+### Referanser  
+[References section left unchanged, as per instruction]

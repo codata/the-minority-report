@@ -1,52 +1,70 @@
-### Definition  
-Korāli tiek pakļauti *korāļu balināšanai*, ja jūras ūdens temperatūra pārsniedz tolerējamās robežas: korāli zaudē simbiotiskās algas, kas piešķir krāsas un barības daļu. Smaga, ilgstoša vai atkārtota balināšana var izraisīt korālu koloniju nāvi (PNS, 2017).
+### Definīcija  
+Korāli ir pakļauti “balināšanai”, ja jūras ūdens temperatūra ir pārāk augsta: tie zaudē simbiotiskās algas, kas piešķir korālam krāsu, un daļu no tā barības. Smagi, ilgstoši vai atkārtoti balināšanas var izraisīt korālu koloniņu nāvi (United Nations, 2017).
 
-### Primary reference(s)  
-PNS, 2017. *Pirmā globālā integrētā jūras novērtēšana: Jūras okeāna novērtējums I.* Cambridge University Press. Piekļūts 25. februārī 2025.
+### Primārās atsauces  
+United Nations, 2017. The First Global Integrated Marine Assessment: World Ocean Assessment I. Cambridge University Press. Accessed 25 February 2025.
 
-### Annotations – Additional scientific description  
-Korāli ir simbiotiski organismi; polipājs uztur fotosintētiskās zooxantellas algas. Stresa laikā polips izsauc algu, kas ietekmē korāla augšanu un reprodukciju, novedot pie balināšanas. Turpināta balināšana var izraisīt korāla izbūtību un nāvi (Saxena et al., 2023).  
-*Korāļu balināšana* ir salīdzinoši mūsdienīgs fenomens. Pirms 1980. gada tas retāk tika novērots un uzskatīts par lokālu problēmu. Kopš tā laika frekvences un smaguma izdevumos ir pieaugusi. Globālā korāla bojājumu procentuālā daļa balināšanas dēļ ir pieaudzusi no 8 % gadā 1980. gadā līdz aptuveni 31 % 2016. (Saxena et al., 2023).
+### Piezīmes  
+#### Papildus zinātniskā apraksts  
+Korāli ir simbiotiskie organizmi, kuras polips hosta fotosintētiskās zooxanthella algas mutes labumu. Stresa brīžos polips izmešas algas, ietekmējot korāla izaugsmi un reprodukciju un izraisot balināšanu. Kad balināšana iztur, tā var novest pie korālu izturēšanas un nāves (Saxena et al., 2023).  
+Korāļu balināšana ir relatīvi mūsdienīgs parādījums. Pirms 1980. gada tas reti tika novērots un uzskatīts par vietisku problēmu. Kopš tā laika, gan biežums, gan smagums ir palielinājušies. Korālu bojāji globālā procentuālā daļa no 8 % gadā 1980. gadsimta līdz 31 % 2016. gadā (Saxena et al., 2023).  
+Vienkārši 1 °C līdz 2 °C virs sezonalā maksimuma var izraisīt balināšanu. Lielākā daļa korālu ir jutīgi pret balināšanu, bet termiskā izturība atšķiras. Daudzi siltumā stresējami vai balināti korāli pēkšņi mirst no korālu slimībām (United Nations, 2017; 2021).  
+Iegūstot, ka smaga korāļu balināšana ir viens no lielākajiem draudiem korālu salas klimata pārmaiņām. Globālie klimata modeļi prognozē plašu vietējās laika diapazona atšķirību smagā balināšanas notikumu laika noskaņojumā – punkts, pēc kura salas atjaunošanās kļūst ierobežota (UNEP, 2017).
 
-### Metrics and numeric limits  
-NOAA Korālu krēsla dienas globālā 5 km satelītu korālu balināšanas **Degree Heating Week** (DHW) produkts mēra kumulēto siltu spiedienu, kas var izraisīt korālu balināšanu un nāvi.  
-- **4 °C‑weeks** – balināšanas risks.  
-- **8 °C‑weeks** – korālu krēsla balināšana ar nāvi termiski jutīgiem korāliem.  
-- **12 °C‑weeks** – vairāku sortu nāve.  
-- **16 °C‑weeks** – smaga nāve, ietekmējot vairāk nekā 50 % korālu.  
-- **20 °C‑weeks vai vairāk** – gandrīz visa nāve (pārsniedz 80 %). (NOAA, 2018)
+### Metriķi un skaitliskie ierobežojumi  
+NOAA Coral Reef Watch dienas globālā 5 km satelīta korālu balināšanas Siltuma degri nedēļas (DHW) produkts mērķē uz uzkumulēto siltuma stresu, kas var izraisīt korālu balināšanu un nāvi. DHW vērtība 4 °C‑nedēļas norāda uz balināšanas risku. 8 °C‑nedēļas ir tikpat liels, ka visas korālu koloniņas var bēgt, 12 °C‑nedēļas – vairāku izdevu korālu nāve, 16 °C‑nedēļas – smaga nāve pār vairāk nekā 50 % korālu, un 20 °C‑nedēļas vai vairāk – gandrīz pilnīga nāve (NOAA, 2018).
 
-### Key relevant UN convention / multilateral treaty  
-**Konvencija par bioloģisko daudzveidību** (1992) ietver mērķus, lai saglabātu bioloģisko daudzveidību, ilgtspējīgi izmantotu tās komponentes un taisnīgi sadalītu ģenētisko resursu labumus.
+### Galvenie UN konvencijas / multilateralie līgumi  
+The Convention on Biological Diversity (1992) includes objectives to conserve biodiversity, sustainably use its components, and fairly share the benefits from genetic resources.
 
-### Drivers  
-Galvenie *korāļu balināšanas* iemesli ir klimas pārmaiņas un karstums. Daudzākas krēsla spiediena iemeslu, tādas kā erozija, saules starojums, augoša jūras virsmas temperatūra, piesārņojums, sedēšana, infekcijas, slimības, pārtikas pārmērīga iznīcināšana, ir saistītas ar simbiotisko algu zudumu korālos. Balinašana var izraisīt, ja korāli tiek pakļauti nevēlamiem apstākļiem, kas ir centrāli augšanas un izdzīvošanas aspektiem.  
-**Balināšanas** notikumu smaguma uzlabojumu veicina termiskās tolerances samazināšanās: *korālu kolērijas, kas atstāj ziedus pēc 1–2 nedēļām ar 1,5 °C virs normāliem, reaģē, savukārt citas vienā vietā var palikt neizmainītas vairāk nekā 4–6 nedēļām* (Saxena et al., 2023).
+### Ietekmētāji  
+Galvenie korāļu balināšanas ietekmētāji ir klimata pārmaiņas un siltums. Daudzas krastu ietekmējošās faktori, piemēram, erozija, saules starojums, pieaugot jūras virsmas temperatūrai, piesārņojums, sedimentācija dzelzs izsieti un būvniecība, plēsēšana, mainīga sālsindeks, infekcijas, slimību izplatīšanās un paaugstināta virulence, kā arī pārmērīga lauksaimniecība un destruktīvas lauksaimniecības prakses, ir saistīti ar simbiotisko algu zudumu korālos.  
+Balināšana var tikt izraisīta, ja korāli tiek pakļauti nepietiekamām condīcijām jebkura faktora, kas ir būtisks izaugsmei un izdzīvošanai. Balināšana notiek, kad smagi (“lētāli”) dozētie faktori ir pārāk lieli, un arī, ja vidēji (“pārliecināti”) dozētie faktori darbojas kopā.  
+Balināšanas ietekmētāju sarežģītība tiek sazināta ar attēlu zemāk (Suggett and Smith, 2019).  
+Klimata pārmaiņas tiek uzskatītas par galveno korāļu balināšanas iemeslu. Turpmākie pierādījumi stingri atbalsta jūras karstuma viļņu lomu kā galveno smagas balināšanas notikumu vadītāju. Karstuma viļņu smaguma mērījums tiek veidots kā Siltuma degri nedēļas (DHWs), kas atspoguļo kopējo laiku, kad jūras virsmas temperatūra (SST) pārsniedz sezonalā normu. Visi minētie vides faktori ietekmē termiskās spiediena balināšanas laiku un smagumu.  
+Šī sarežģītā mijiedarbība liecina, ka “visas ceļi var novest pie kāda veida korāļu balināšanas” (Suggett and Smith, 2019).  
+Tā kā korāļu polips atzīst tikai skanā termisko diapazonu, vienkārša 1‑2 °C pieaugums var sākt masveida balināšanu. Kad balināšana tiek samazināta ēnoto krasto, tā ir mazāk izteikta, bet vairāk izteikta vietās, kas ir izplūstošas ar augstu gaismas apstākļiem (Saxena et al., 2023).  
+Augsta turbīditāte, ko izsauc dzelzs un piesārņotāji, samazina gaismas pieejamību korālu salas, palielinot viņu jutīgumu. Papildu bīstamības faktori, piemēram, bieži un intensīvi tropiskie ciklozi, jūras rūgšums un ozona izmešana (kas palielina UV starojumu), vēl vairāk stresē korālus un palielina balināšanas risku. Eutrofizācija krastu ūdeņos arī palielina korālu nāvi (Lesser, 2021).
 
-### Impacts  
-Korālu krēsla degradācija, ko izraisa balināšana, būtiski ietekmē tārpus un citus jūras bioloģiskos daudzveidības elementus. Korāli nodrošina barību un habitat daudzām zivju sugām; to zudums samazina lielāku plēsēju skaitu. Tas skar tropiskās piekrastes kopienas, kas balstās uz tārpu krēsli, kā arī pārvaldu valstis, kas importē jūras produktus no krēsla (Saxena et al., 2023).  
-Korālu krēsla krustveida aizsardzība kā dabiskās viļņu barjeras zaudējums veicina piekrastes apdraudēšanos (Saxena et al., 2023).  
-Ekonomiskie aprēķini prognozē globālas zudumus jūras krēsla vērtībā klimata pārmaiņu ietekmē no 3,4 miljardiem līdz 23,78 miljardiem ASV dolāru uzgāju (Chen et al., 2015).
+### Ietekme  
+Korālu salas degradācija, kas izraisa balināšanu, būtiski ietekmē lauksaimniecības resursus, jo korāli nodrošina barību un habitatu daudziem zivju speciēiem un salas saistītai jūras fauna. Salas zivju populāciju samazināšanās samazina lielāku plēsējošu speciēju skaitu. Šie ietekmes smagi ietekmē tropisku krastu kopienas, kas atkarīgas no korālu salas lauksaimniecības no ienākumiem, ienākumiem un pārtikas drošības. Ir arī kāda kaskadējoša ietekme uz industrializētām valstīm, kas importē jūras produktu no salas ekosistēmām (Saxena et al., 2023).  
+Korālu salas darbojas kā dabiskas viļņu barjeras. Masveida balināšanas dēļ salas integritātes zudums padarīja krastus citādi vairāk pakļautus bojājumiem pēdējā desmitgadē (Saxena et al., 2023).  
+Ekonomiskie novērtējumi skaitā globālās korālu salas vērtības zaudējumus klimata pārmaiņu dēļ no 3,4 miliardām ASV dolāru līdz 23,78 miliardām ASV dolāru gadā (Chen et al., 2015; coast.noaa.gov/states/fast-facts/coral-reefs.html).
 
-### Multi‑hazard context  
-Zīmols apkopo tipiskos savstarpējos saistījumus starp *korāļu balināšanu* un citiem katastrofu risku faktoriem. Šāda informācija jāizmanto ar piesardzību un nav jābalstās uz to vienatne, jo dažas savstarpējās mijiedarbības var nebūt iekļautas. Šādā daudzfaktora kontekstā ir jāapsver gan *korāļu balināšanas* vadītāji, gan *Ietekmes* sadaļas.
+### Daudzbīstamības konteksts  
+Zemāk atrodams attēls, kas kopsavilkums par biežāko balināšanas un citu bīstamību mijiedarbību. Šī informācija vajadzētu izmantot ar piesardzību un neturēt uzreiz vienīgi uz katastrofu risku pārvaldību, it īpaši, jo daži mijiedarbības var nebūt iekļautas. Iepazīstiet, ka bīstamības notikumi, kas notiek kopā vai tuvumā telpā vai laika posmā, var nebūt obligāti saistīti, pastiprināt vai citādi saistīti.  
+Specifiski piemēri daudzbīstamības kontekstam ir pieejami “Bīstamības vadītāji” un “Ietekmes” sadaļās.
 
-### Risk Management  
-Katrā gada notiekošie masīgie *korāļu balināšanas* notikumi uzsvēra nepieciešamību aizsargāt korālu krēsli un atbalstīt tā adaptāciju klimata pārmaiņu kontekstā.  
-**Pirmā pieeja**: aizsargāt korālu augšanas vides apstākļus, uzlabojot korālu veselību un samazinot karstuma viļņu ietekmi.  
-- **Jūras aizsardzības zonas (MPA)** – samazina tārpu spiedienu, uzlabo korālu larvu piesaisti un sniedz aizsardzību pret ekstrēmiem notikumiem.  
-- **Nodrošināta regulācija** – pārvaldot zemes nozares barošanas izeju, kas veicina algas augšanu un palielina korālu jutīgumu pret karstuma spiedienu (Suggett & Smith, 2019).  
+### Daudzbīstamības diagramma  
+[Attēls nav pieejams tekstā]
 
-**Otrā pieeja**: uzlabot korālu adaptācijas spēju atstāt augstāku temperatūru.  
-Korāli demonstrēja spējus attīstīt *pretības* (neizdodas balināt), *toleransi* (izdzīvo balinātā stāvoklī) un *atveseļošanos* (pēc balināšanas atgūšana). Šīs spējas atšķiras starp indivīdiem un sugām.  
-**Atjaunošanas projekti**: daudzas valstis veic korālu atjaunošanas iniciatīvas, kas ietver korālu audzēšanu vai replikāciju. Iekļaujot lielus korālus mazākos fragmentos vai miniaturizētiem polipiem (1–5 daļas), kuri klonējas, pieaug 25–50 reizā oriģināla izmēra. Šie klonētie fragmenti savstarpēji sinergizējas, veidojot lielas kolonijas. Pēc 4–12 mēneša atgriežas uz jūras vai izvēlēto atjaunošanas vietu (Saxena et al., 2023).  
-**Satellīta uzraudzība**: NOAA *Korālu krēsla Watch* programma nodrošina satelīta datus, lai sniegtu reāllaika krēsla vidi un ātri identificētu riskējošās zonas.  
-Satellīta uzraudzība, modeļēti prognoze un iedzīvotāju zinātne palīdz identificēt un reaģēt uz balināšanas notikumiem.
+### Riska vadība  
+Masveida korāļu balināšanas notikumu atkārtotais notikums pēdējās gadu laikā uzsvēra vajadzību aizsargāt korālu salas un atbalstīt to pielāgošanos klimata pārmaiņām. Daudzas pieejas ir iespējamās. Viena pieeja koncentrējas uz vidi, kuras korāli aug, lai uzlabotu veselību un samazinātu karstā viļņu ietekmi. Uzstādītie praktizējumi ietver jūras aizsardzības zonas (MPAs) izmantošanu, kas samazina lauksaimniecības spiedienu uz korālu salas, uzlabo iespējas korālu larves atjaunošanai un nodrošina kādu aizsardzību pret ekstremāliem notikumiem. Efektīva valodas regulēšana, kas palielina lēdu pārtikas piegādi, kas veicina algas augšanu un paaugstinātu korālu jutīgumu pret siltuma balināšanu, arī ir nepieciešams solis (Suggett and Smith, 2019).  
+Cita pieeja cenšas uzlabot korālu pielāgošanās spējas pārvarēt augstāku temperatūru. Korāli ir pierādījuši spējību attīstīt izturību (nebalinājoties), toleranci (izdzīvojot balināto stāvoklī) un atjaunošanos (pāriet uz veselīgu stāvokli pēc balināšanas). Šīs spējības mainās starp indivīdiem un speciēm. Daži parāda redzamus balināšanas zīmes tikai pēc 1‑2 nedēļām pie 1,5 °C virs normālas, savukārt citi vienā vietā var palikt nebalināti vairāk nekā 4‑6 nedēļas (Saxena et al., 2023).  
+Šo dinamiku sapratne var palīdzēt plānot mērķtiecīgus soļus. Korālu atjaunošanas projekti ir atklāti daudzās valstīs. Daži izejvēlējumi ietver korālu audzēšanu vai veidošanu, kurā lieli korāli tiek sadalīti mazi fragmenti vai mazie polipsi (no 1 līdz 5 daļām). Šie fragmenti iesauc klonu veidošanos, kas pieaug līdz 25‑50 reizes sākotnējā korālu lielumam. Šie klonēti fragmenti pēc tam atpazīst un sasaistās, lai veidotu lielas koloniņas. Pēc pieaugšanas – pēc aptuveni 4‑12 mēnešiem – tie tiek atgriezti uz jūru vai noteiktu atjaunošanas vietu (Saxena et al., 2023).  
+Citi metodes ietver zemūdens struktūru ievietošanu, kas veicina korālu larvas nomaiņu un izaugsmi. 2020. gadā jauna atjaunošanas projekts Kachh jūras (Gujarat, Indija) izmantoja elektrostrāvu caur Bio-rock (minerāla akre). Šis process palīdz bēdēt kalcija un karbonātu joniem kalcija karbonātu veidošanai, uz ko korālu larvas piekrīt un ātri izauguši bez pašas enerģijas patēriņa (Saxena et al., 2023). Tomēr šīs atjaunošanas un pielāgošanās stratēģijas pašas pašas nav pietiekamas, lai pretspīdētu plašākajām klimata pārmaiņu sekām. Ilgtermiņa efektivitātei un katastrofiskās, plašas korālu zuduma novēršanai tie jāapvieno ar oglekļa degviela emisiju samazināšanu (Suggett & Smith, 2019).
 
-### Monitoring  
-NOAA *Korālu krēsla Watch* programma izmanto satelītu datus, lai nodrošinātu aktīvu krēsla vidi un ātri identificētu riskējošās zonas (NOAA, bez datuma b). Programma piedāvā arī prognožu modeļu skatījumu, kas prognozē *korāļu balināšanas* karstuma spiedienu nedēļas pa nedēļas līdz pat četrām mēnešiem (standarta balīšanas sezona).  
-**Citizens' science** – *ciemiņu zinātne* tika izmantota, lai izmeklētu *korāļu balināšanas* izplešanās apmēru Filipīnās 2020. (Licuanan & Mordeno, 2021).  
-**Globālā korālu balināšanas datubāze (GCBD)** – 34 846 izziņas, 14 405 vietas, 93 valstis (1980–2020). Datubāze sniedz būtisku informāciju par *korāļu balināšanas* klātbūtni, vietas ekspozīciju, to tuvumu piekrasti, turbidity, cikloņu biežumu un jūras virsmas temperatūras metrikas (van Woesik & Kratochwill, 2022).  
+### Uzraudzība  
+Paraksts piedāvā pārskatu par uzraudzību korāļu balināšanai. Šī informācija var atbalstīt prognozēšanu nacionālajā agrīnā brīdināšanas sistēmā (EWS). Tā kā EWS spējās un procesi atšķiras starp valstīm, visjaunākā un specifiskā informācija jāiegūst no atbilstošās nacionālās vai reģionālās iestādes vai iestādes, kas atbild par katastrofu pārvaldību.  
+**Kura iestāda(ie) ražo(n) katastrofu risku datus/informāciju?**  
+NOAA  
+**Kostera kopienas**  
+**Kā tiek novērtēta/novērota/prognozēta bīstamība?**  
+The National Oceanic and Atmospheric Administration (NOAA) Coral Reef Watch programme uses satellite data to provide current reef environmental conditions and to rapidly identify areas at risk of coral bleaching (NOAA, no date b). Coral Reef Watch also offers a modelled outlook that predicts the likelihood of coral bleaching heat stress on a week‑by‑week basis, up to four months in advance (the typical duration of a bleaching season). Continuous satellite monitoring of sea surface temperatures at global scales, along with modelled projections of approaching bleaching‑level heat stress, provides resource managers, scientific researchers, and other coral reef ecosystem stakeholders with tools to understand and better manage the complex interactions that lead to coral bleaching. When bleaching conditions arise, these tools can be used to trigger bleaching response plans and to support appropriate management decisions and public communication (NOAA, no date b). In addition, citizen science has been used to monitor the extent of a coral bleaching event in the Philippines in 2020, highlighting the role of local communities in measuring the impact of disturbances such as coral bleaching-particularly when appropriate methods, tools, and governmental support are available (Licuanan & Mordeno, 2021). A Global Coral-Bleaching Database (GCBD), encompassing 34,846 coral bleaching records from 14,405 sites across 93 countries between 1980 and 2020 (Global Coral Bleaching Database (NCEI Accession 0228498). The GCBD provides vital information on the presence or absence of coral bleaching, along with site exposure, distance to land, mean turbidity, cyclone frequency, and a suite of sea surface temperature metrics recorded at the time of survey (van Woesik & Kratochwill, 2022). This database has supported various models aimed at identifying contributing factors to coral bleaching (Zheng, 2024).
 
 ### References  
-(Attiecīgie referenci tiek saglabāti citēšanas stila noteikumu atbilstībā.)
+Chen, P.Y., Chen, C.C., Chu, L., McCarl, B., 2015. Evaluating the economic damage of climate change on global coral reefs. Global Environmental Change, 30, 12-20. Evaluating the economic damage of climate change on global coral reefs - ScienceDirect biab101.pdf. Accessed 25 February 2025.  
+Lesser, M.P., 2021. Eutrophication on Coral Reefs: What Is the Evidence for Phase Shifts, Nutrient Limitation and Coral Bleaching. BioScience 71(12), 1216-1233. biab101.pdf. Accessed 25 February 2025.  
+Licuanan, W.Y., Mordeno, P.Z.B., 2021. Citizen Science Reveals the Prevalence of the 2020 Mass Coral Bleaching in One Town. Philippine Journal of Science, 150 (3): 945-949. Accessed 25 February 2025.  
+NOAA, no date a. What is coral bleaching? National Oceanic and Atmospheric Administration (NOAA), National Ocean Service. Accessed 25 February 2025.  
+NOAA, no date b. Coral Reef Watch Satellite Monitoring and Modeled Outlooks. National Oceanic and Atmospheric Administration (NOAA) Satellite and Information Service. Accessed 25 February 2025.  
+NOAA, 2018. Daily Global 5km Satellite Coral Bleaching Heat Stress Degree Heating Week. NOAA Coral Reef Watch Daily 5km Satellite Coral Bleaching Heat Stress Degree Heating Week Product (Version 3.1). Accessed 25 February 2025.  
+Saxena, T., Sahgal, A., Gupta, R., Mehra, N., and Arora, R., 2023. Coral Bleaching: Causes, Mechanism, Consequences, Resilience and Preventive Strategies for Mitigation. International Journal of Ecology and Environmental Sciences 49: 327-340, 2023. Available from: doi.org/10.55863/ijees.2023.2717 Accessed 25 February 2025.  
+Sugget, D.J., Smith, D.J., 2019. Coral bleaching patterns are the outcome of complex biological and environmental networking: Global Change Biology. 2020;26:68–79. Coral bleaching patterns are the outcome of complex biological and environmental networking. Accessed 25 February 2025.  
+UNEP, 2017. Coral Bleaching Futures: Downscaled projections of bleaching conditions for the world’s coral reefs, implications of climate policy and management responses. United Nations Environment Programme (UNEP). Accessed 25 February 2025.  
+United Nations, 2017. The First Global Integrated Marine Assessment: World Ocean Assessment I. Cambridge University Press. Accessed 25 February 2025.  
+United Nations, 2021. The Second Global Integrated Marine Assessment: World Ocean Assessment II. The Second World Ocean Assessment. Accessed 25 February 2025.  
+van Hooidonk, R., Maynard, J., Tamelander, J., Gove, J., Ahmadia, G., Raymundo, L., Williams, G., Heron, S.F., Planes, S., 2016. Local-scale projections of coral reef futures and implications of the Paris Agreement. Scientific Reports, 6:39666. doi:10.1038/ srep39666 Local-scale projections of coral reef futures and implications of the Paris Agreement | Scientific Reports. Accessed 25 February 2025.  
+van Woesik, R., Kratochwil, C., 2022. A global coral-bleaching database,1980–2020. Nature Scientific Data, 9:20, DOI: 10.1038/s41597-022-01121-y. Accessed 25 February 2025.  
+Zheng, Q., 2024. Exploration on Environmental Causes of Coral Bleaching. Journal of Advances in Engineering and Technology. DOI: 10.62177/jaet.v1i3.84. Accessed 25 February 2025.  
+Cite this [Copy citation]

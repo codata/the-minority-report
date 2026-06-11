@@ -1,66 +1,83 @@
-### Definition
-Tsunami, et japansk begrep som betyr «bølge» (‘nami’) i en havn (‘tsu’), refererer til en serie med langperiodiske reisebølger, vanligvis forårsaket av forstyrrelser som jordskjelv under eller nær havbunnen (IOC, 2019).
+**Definisjon**  
+Tsunami, et japansk begrep som betyr «bølge» («nami») i en havn («tsu»), refererer til en serie langperiodiske reisende bølger, typisk forårsaket av forstyrrelser som jordskjelv som oppstår under eller nær havbunnen (IOC, 2019).
 
-### Primær referanse
-IOC, 2019. Tsunami Glossary, 2019. Intergovernmental Oceanographic Commission (IOC), Technical Series, 85. Fourth Edition. IOC/2008/TS/85 rev.4. Tilgang 16. mai 2025.
+**Primær referanse(r)**  
+IOC, 2019. Tsunami Glossary, 2019. Intergovernmental Oceanographic Commission (IOC), Technical Series, 85. Fourth Edition. IOC/2008/TS/85 rev.4. Accessed 16 May 2025.
 
-### Anmerkninger
-#### Ytterligere vitenskapelig beskrivelse
-En tsunami kan også kalles en «seismisk sjøbølge» og, feilaktig, en «tsunamibølge». Vulkanske utbrudd, undervannsrydding, kystklippfall og meteoritt‑innslag kan også generere tsunamier, slik som en stor meteoritt som treffer havet. Disse bølgene kan nå enorme dimensjoner og reise over hele havbasiner med liten energitap. De oppfører seg som vanlige gravitasjonsbølger med en typisk periode mellom 10 og 60 minutter. Tsunamier blir bratte og øker i høyde når de nærmer seg grunt vann, og inneslår lavtliggende områder; hvor lokal undervanns­topografi forårsaker bølgene å bli bratte, kan de bryte og forårsake store skader. Tsunamier har ingen tilknytning til tidevann; det populære begrepet «tsunamibølge» er helt misvisende (IOC, 2019).
+**Anmerkninger**  
+*Tilleggsvitenskapelig beskrivelse*  
+En tsunami kan også omtales som en «seismisk havbølge» og, feilaktig, en «tidevannsbølge». Vulkanske utbrudd, undersjøiske jordskred og kystfelle av stein kan også generere tsunamier, så vel som en stor meteorit som treffer havet. Disse bølgene kan nå enorme dimensjoner og reise over hele havbasen med liten energitap. De fungerer som ordinære gravitasjonsbølger med en typisk periode på mellom 10 og 60 minutter. Tsunamier blir bratte og øker i høyde ved nærhet til grunt vann, oversvømmer lavtliggende områder, og der lokal undersjøisk topografi får bølgene til å bli bratte, kan de bryte og forårsake store skader. Tsunamier har ingen forbindelse med tidevann; den populære betegnelsen tidevannsbølge er fullstendig villedende (IOC, 2019).
 
-**Intergovernmental Oceanographic Commission (IOC)** bruker følgende termer for å vurdere omfang og innvirkning av en tsunami (IOC, 2019):
-- **Reisetid**: Tid som kreves for at den første tsunamibølgen skal forplante seg fra kilden til et gitt punkt på kysten.  
-- **Ankomsttid**: Tidspunktet for første maksimalbølge i tsunamien.  
-- **Innesluttning eller inntrengningsavstand**: Den horisontale avstanden inland som en tsunami penetrerer, vanligvis målt vinkelrett på kystlinjen.  
-- **Innesluttning (maksimum)**: Maksimal horisontal innesluttning fra kystlinjen. En maksimal innesluttning måles for hver kyst eller havn som påvirkes av tsunamien.  
-- **Innesluttingsområde**: Område som blir oversvømt av tsunamien.  
-- **Innesluttningshøyde**: Høyde oppnådd av sjøvann målt relativt til et angitt referansenivå, f.eks. gjennomsnittlig havnivå eller havnivå på tidspunktet for tsunamien, ved en spesifisert inntrengningsavstand. Innesluttningshøyde er summen av strømdybde og lokal topografisk høyde. Noen ganger refereres dette til som tsunami‑høyde.  
-- **Innesluttingslinje**: Den inlandgrensende linjen som måles horisontalt fra gjennomsnittlig havnivå. Linjen mellom levende og døde vegetasjonsområder brukes noen ganger som referanse. I tsunami‑vitenskap er dette kystlinjen for innesluttning av run‑up.  
-- **Første bølge**: Den første ankommende bølgen av tsunamien. I noen tilfeller gir den første bølgen en initial depresjon eller nedgang i havnivå, og i andre tilfeller en oppstigning. Når havnivået faller, observeres en avstand.  
-- **Gjentatt høyde**: Gjennomsnittlig høyde på en tsunami målt fra dale til topp, etter å ha fjernet tidevannsendringer.  
-- **Run‑up**: Forskjellen mellom høyden på maksimal innesluttning (innsamlingslinje) og havnivået på tidspunktet for tsunamien. I praksis måles run‑up bare der det finnes tydelig bevis for innesluttning på kysten.  
-- **Tsunami‑amplitude**: Vanligvis målt på en havnivå‑oppføring, er (1) den absolutte verdien av forskjellen mellom et bestemt topp eller dale og det uforstyrrede havnivået på tidspunktet, (2) halvparten av forskjellen mellom en tilstøtende topp og dale, korrigert for tidevannsendring mellom topp og dale. Formålet er å representere den virkelige amplitude av tsunamibølgen på et punkt i havet.  
-- **Tsunami‑periode**: Tid det tar for en tsunamibølge å fullføre en syklus, eller én bølgelengde. Tsunamiperioder varierer vanligvis fra 5 til 60 minutter. Perioden måles ofte som forskjellen mellom ankomsttiden for høyeste topp og neste topp målt på en havnivå‑oppføring.  
-- **Bølgelengde**: Den horisontale avstanden mellom like punkter på to påfølgende bølger målt vinkelrett på toppen. Bølgelengde og tsunami‑periode gir informasjon om kilden. For tsunamier generert av jordskjelv varierer den typiske bølgelengden fra 20 til 300 km. For tsunamier generert av rydding er bølgelengden mye kortere, fra hundre meter til ti­tusen kilometer.  
-For flere termer se IOC (2019).
+The Intergovernmental Oceanographic Commission (IOC) uses the following terms to assess the scale and impact of a tsunami (IOC, 2019):
 
-### Metrikker og numeriske grenser
+- **Reisetid**: Tid nødvendig for at den første tsunami‑bølgen skal propagere fra kilden til et gitt punkt på kysten.  
+- **Ankomsttid**: Tidspunkt for første maksimum av tsunami‑bølgene.  
+- **Oversvømmelses‑/inundation‑avstand**: Den horisontale avstanden innover i land som en tsunami penetrerer, vanligvis målt vinkelrett på kystlinjen.  
+- **Oversvømmelse (maksimum)**: Maksimal horisontal penetrasjon av tsunami fra kystlinjen. En maksimal oversvømmelse måles for hver kyst eller havn påvirket av tsunami.  
+- **Oversvømmelsesområde**: Område som blir oversvømt av vann av tsunami.  
+- **Oversvømmelseshøyde**: Høyde oppnådd av havvann målt relativt til et angitt referansepunkt som gjennomsnittlig havnivå eller havnivået på tidspunktet for tsunami‑ankomst, ved en spesifisert oversvømmelsesavstand. Oversvømmelseshøyde er summen av strømningsdybden og lokal topografisk høyde. Ofte referert til som tsunami‑høyde.  
+- **Oversvømmelseslinje**: Inndelsgrense for våting målt horisontalt fra linjen for gjennomsnittlig havnivå. Linjen mellom levende og døde vegetasjoner brukes noen ganger som referanse. I tsunami‑vitenskap er den landvoksende grensen for tsunami‑oppbøying.  
+- **Førende bølge**: Førstkommende bølge av tsunami. I noen tilfeller produserer den førende bølgen en initial depresjon eller nedgang i havnivå, og i andre tilfeller en høyde eller stigning i havnivå. Når en nedgang i havnivå skjer, observeres havnivånedgang.  
+- **Gjennomsnittshøyde**: Gjennomsnittlig høyde av en tsunami målt fra dypet til toppen etter å ha fjernet tidevannsvariasjon.  
+- **Run‑up**: Forskjellen mellom høyden av maksimal tsunami‑penetrasjon (oversvømmelseslinje) og havnivået på tidspunktet for tsunami. I praksis måles run‑up kun der det er tydelig bevis på oversvømmelsesgrensen på stranden.  
+- **Høyde oppnådd av havvann** målt relativt til et angitt referansepunkt som gjennomsnittlig havnivå, lavt vann, havnivået på tidspunktet for tsunami‑hendelsen, osv., og målt ideelt ved et punkt som er en lokal maksimum av den horisontale oversvømmelsen. Når høyden ikke måles ved maksimal horisontal oversvømmelse, refereres dette ofte til som oversvømmelseshøyde.  
+- **Tsunamiamplitude**: Vanligvis målt på et havnivå‑register, det er (1) absoluttverdien av forskjellen mellom en bestemt topp eller dal av tsunami og det uforstyrrede havnivået på tidspunktet, (2) halvparten av forskjellen mellom en tilstøtende topp og dal, korrigert for tidevannsendringen mellom den topp og dalen. Det er ment å representere den sanne amplituden av tsunami‑bølgen på et punkt i havet. Imidlertid er det ofte en amplitude som er modifisert på en eller annen måte av tidegauge‑responsen.  
+- **Tsunamiperiod**: Mengde tid som en tsunami‑bølge tar å fullføre en syklus, eller én bølgelengde. Tsunamiperioder varierer typisk fra 5 til 60 minutter. Tsunami‑perioden måles ofte som forskjellen mellom ankomsttiden for den høyeste toppen og den neste målt på et havnivå‑register.  
+- **Tsunami‑bølgelengde**: Den horisontale avstanden mellom like punkter på to påfølgende bølger målt vinkelrett på toppen. Bølgelengde og tsunami‑period gir informasjon om tsunami‑kilden. For tsunamier generert av jordskjelv er den typiske bølgelengden fra 20 til 300 km. For tsunamier generert av jordskred er bølgelengden mye kortere, fra hundrevis av meter til titalls kilometer. For flere termer se IOC (2019).
+
+**Målinger og numeriske grenser**  
 Ikke tilgjengelig.
 
-### Hovedrelevante FN‑konvensjoner / multilaterale avtaler
-Sendai‑rammeverket for katastrofehåndtering 2015‑2030.
+**Nøkkelrelevante FN‑konvensjoner / multilaterale avtaler**  
+Sendai Framework for Disaster Risk Reduction 2015‑2030.
 
-### Aktører
-Tsunamier skapes av underjordiske forstyrrelser som jordskjelv, rydding, vulkanske utbrudd og meteoritt, eller genereres av meteorologiske eller atmosfæriske forstyrrelser.
+**Drivere**  
+Tsunamier oppstår ved en undervanns‑forstyrrelse som jordskjelv, jordskred, vulkansk utbrudd eller meteorit, eller genereres av meteorologiske eller atmosfæriske forstyrrelser.
 
-### Påvirkning
-#### Primære farer/skader
-Skader og ødeleggelse fra tsunamier er direkte resultat av tre faktorer: oversvømmelse, bølge‑innvirkning på strukturer og erosjon. Dødsfall skjer ved drukning og fysisk påvirkning eller annen traume når folk blir fanget i den turbulente, avfallslastede tsunamibølgen. Sterke tsunamiskrevende strømmer har ført til erosjon av grunnmur og sammenbrudd av broer og sjømurer. Flytende og dragkraft har flyttet hus og snurret tog (IOC, 2019:6). Tsunami‑tilknyttede bølge­krefter har ødelagt rammebygninger og andre strukturer. Betydelig skade forårsakes også av flytende avfall, inkludert båter, biler og trær som blir farlige prosjektile og kan treffe bygninger, pæler og andre kjøretøy. Skips- og havn‑fasiliteter er skadet av bølgen på grunn av selv svake tsunamier. Branner som følger oljeutslipp eller forbrenning fra skadet skip i havn, eller fra rupturerte kystolje‑lagrings- og raffineringsanlegg, kan forårsake større skade enn tsunamien direkte (IOC, 2019:6).  
-#### Sekundære farer/skader
-Kan oppstå fra kloakk‑ og kjemisk forurensning etter ødeleggelse (se kjemiske HIPs). Skader på innløp, utløp og lagringsanlegg kan også utgjøre fare. Økende bekymring er den potensielle effekten av tsunami‑nedstigning, når trekkende vann avdekker kjølevann‑innløp knyttet til kjernekraftverk (IOC, 2019:7).
+**Konsekvenser**  
+Primære farer/skader. Skader og ødeleggelse fra tsunamier er direkte resultat av tre faktorer: oversvømmelse, bølgepåvirkning på strukturer og erosjon. Dødsfall skjer ved drukning og fysisk påvirkning eller annen traume når folk blir fanget i den turbulent, avfall‑belastede tsunami‑bølgene. Sterke tsunamigenererte strømmer har ført til erosjon av fundamenter og kollaps av broer og havmurer. Flyte- og dragkrefter har flyttet hus og omkrysset jernbiler (IOC, 2019:6). Tsunami‑assosierte bølgekrefter har ødelagt rammebygninger og andre strukturer. Betydelig skade forårsakes også av flytende avfall, inkludert båter, biler og trær som blir farlige projektiler som kan krasje inn i bygninger, pilarer og andre kjøretøy. Skip og havn‑anlegg har blitt skadet av surr‑handling forårsaket av selv svake tsunamier. Branner som oppstår fra oljesøl eller forbrenning fra skadde skip i havn, eller fra brudd på kystnær oljeresever og raffinaderifasiliteter, kan forårsake skade større enn den som påføres direkte av tsunami (IOC, 2019:6). Sekundære farer/skader kan resultere fra kloakk- og kjemisk forurensning etter ødeleggelsen (se kjemiske HIPs). Skader på inntaks-, utløp- og lagringsfasiliteter kan også utgjøre fare. Av økende bekymring er den potensielle effekten av tsunami‑nedløp, når avtakende vann avdekker kjølevanninntak forbundet med kjernekraftverk (IOC, 2019:7).
 
-### Multi‑hazard‑kontekst
-Figuren nedenfor oppsummerer vanlige interaksjoner mellom tsunami og andre farer. Denne informasjonen bør brukes med forsiktighet og ikke bare stoles på i katastrofehåndteringsarbeid, spesielt da noen interaksjoner kan mangle. Vær oppmerksom på at hendelser som skjer sammen eller lokalt i rom eller tid ikke nødvendigvis forårsaker, forsterker eller er relatert til hverandre. Spesifikke eksempler på multi‑hazard‑kontekst finnes i ‘Hazard drivers’ og ‘Impacts’‑seksjonene ovenfor.
+**Multi‑hazards‑kontekst**  
+Figuren nedenfor oppsummerer vanlige interaksjoner mellom tsunami og andre farer. Denne informasjonen bør brukes med forsiktighet og ikke kun brukes i risiko‑styring, særlig ettersom noen interaksjoner kanskje ikke er inkludert. Merk at farlige hendelser som skjer samtidig eller lokalt i rom eller tid ikke nødvendigvis forårsaker, forsterker eller er på annen måte relatert til hverandre. Spesifikke eksempler på multi‑hazard‑kontekst finnes i avsnittene «Farshindre» og «Konsekvenser» ovenfor.
 
-### Risiko‑håndtering
-Risiko‑håndtering inkluderer retningslinjer for tsunamirisikovurdering/håndtering. Eksempler inkluderer UNDRR (2017).  
-#### Regional koordinasjon og sentre
-IOC koordinerer implementeringen av et globaltsunami‑varsling‑system, basert på erfaringer i Stillehavet, for å etablere regionale varsling‑systemer for Det indiske hav (IOTWMS), Karibiske hav (ICG‑CARIBE‑EWS) og Nord‑østlige Atlanterhavet, Middelhavet og tilknyttede hav (ICG‑NEAMTWS). De regionale systemene koordinerer internasjonale tsunamisvarsling‑ og avbøtende aktiviteter, inkludert utstedelse av rettidige og forståelige tsunami‑bulletiner til IOC‑medlemsstater.  
-#### Intergovernmental Coordination Group for Tsunamis
-Gruppen adresserer globaltsunami‑risiko gjennom følgende grupper: ICG‑PTWS – Intergovernmental Coordination Group for the Pacific Tsunami Warning and Mitigation System, tidligere ICG/ITSU, etc. (Full tekst i original).  
+**Multi‑hazard‑diagram**
 
-### Globalt varslingssystem
-(IOS‑detaljer følger den samme strukturen som i originalen, men med korrekte norske termer og oversettelser.)
+**Risikostyring**  
+Risikostyring inkluderer retningslinjer for tsunami‑risikovurdering/-styring. Eksempler inkluderer UNDRR (2017). Regional koordinering og sentre: IOC koordinerer implementeringen av et globalt tsunamiradarsystem, basert på erfaringer i Stillehavet for å etablere regionale varslingssystemer for Indian Ocean (IOTWMS); Caribbean Sea (ICG‑CARIBE‑EWS); og Nord‑østlige Atlanterhavet, Middelhavet og tilknyttede hav (ICG‑NEAMTWS). De regionale systemene koordinerer internasjonale tsunami‑varsling‑ og avbøtende aktiviteter, inkludert utstedelse av tidsrettede og forståelige tsunami‑bulletiner til IOC‑medlemsland. Det inter‑regjeringste koordinasjonsgrupp for tsunamier adresserer tsunami‑risiko globalt gjennom følgende grupper: ICG‑PTWS Intergovernmental Coordination Group for the Pacific Tsunami Warning and Mitigation System, tidligere ICG/ITSU, ble endret av Resolusjon EC‑XXXIX.8 av IOC‑Executive Council i 2006 i henhold til foreslått av den internasjonale koordinasjonsgruppen for Tsunami‑varsling‑systemet i Stillehavet ved sin 20. sesjon i 2005 (Rekommendasjon ITSU‑XX.1). Det er i dag 46 medlemsland i ICG‑PTWS. ICG/ITSU, den internasjonale koordinasjonsgruppen for Tsunami‑varsling‑systemet i Stillehavet ble etablert av Resolusjon IV‑6 av den 4. sesjon av IOC‑forsamlingen i 1965. Pacific Tsunami Warning Center (PTWC) fungerer som Tsunami‑tjenesteleverandør (TSP) for Stillehavet. Andre TSP for spesifikke regioner i Stillehavet er North West Pacific Tsunami Advisory Center (NWPTAC) og South China Sea Tsunami Advisory Center (SCSTAC). ICG‑PTWS inneholder i dag over 40 medlemsland og har tilsyn med varsling‑system‑drift og lette koordinering og samarbeid i alle internasjonale tsunami‑avbøtende aktiviteter.  
+ICG‑IOTWMS Intergovernmental Coordination Group for the Indian Ocean Tsunami Warning and Mitigation System (ICG‑IOTWMS) ble dannet som respons på tragisk tsunami 26. desember 2004, der over 230 000 liv mistet i Indian Ocean‑regionen. ICG‑IOTWMS består av 28 medlemsland. Det er tre TSP i Indian Ocean, vert av regjeringene i Australia, India og Indonesia.  
+ICG‑NEAMTWS Intergovernmental Coordination Group for the Tsunami Early Warning and Mitigation System i Nord‑østlige Atlanterhavet, Middelhavet og tilknyttede hav (ICG‑NEAMTWS) ble dannet som respons på tragisk tsunami 26. desember 2004, der over 230 000 liv mistet i Indian Ocean‑regionen (Indian Ocean Tsunami Information Centre, no date). ICG‑NEAMTWS består av medlemsland som grenser til Nord‑østlige Atlanterhavet og de som grenser til og i Middelhavet og tilknyttede hav. Det er for tiden fem akkrediterte Tsunami‑tjenesteleverandører (Frankrike, Hellas, Italia, Portugal, Tyrkia) i NEAM‑regionen som tilbyr tsunami‑tjenester og varsler til abonnements‑medlemsland.  
+ICG‑CARIBE‑EWS Intergovernmental Coordination Group for the Tsunami and Other Coastal Hazards Warning System for the Caribbean og Adjacent Regions (ICG‑CARIBE‑EWS) ble etablert 2005 og har for tiden 32 medlemsland og 16 territorier i Karibien. Tsunami‑tjenesteleverandører (TSP) er sentre som overvåker seismisk og havnivå‑aktivitet og utsteder tidsrettet tsunami‑trusselinformasjon innenfor en ICG‑ramme til nasjonale Tsunami‑varsler‑sentre (NTWC) / Tsunami‑varsler‑fokuspunkter (TWFP) og andre TSP som opererer innenfor en havbunn. NTWC / TWFP kan bruke disse produktene til å utvikle og utstede tsunami‑varsler for sine land. TSP kan også utstede offentlige meldinger for en havbunn og fungere som NTWC som gir tsunami‑varsler for sine egne land. For tiden er det ni operasjonelle TSP. Nasjonale Tsunami‑varsler‑sentre (NTWC) er et sentralt etat offisielt utpekt av regjeringen for å overvåke og utstede tsunami‑varsler og andre relaterte uttalelser innenfor landet i henhold til etablert nasjonal standardoperasjonsprosedyrer.  
+World Tsunami Awareness Day, 5 November hvert år: United Nations, gjennom UN Resolution 70/203 vedtatt 22. desember 2015, har utpekt 5. november som World Tsunami Awareness Day (UNDRR, 2020). Dagen harmonerer med International Day for Disaster Reduction (13. oktober) og de syv målene for Sendai Framework for Disaster Risk Reduction 2015–2030 (ITIC, 2020). IOC er en nøkkel internasjonal partner for UNDRR på World Tsunami Awareness Day. Tsunami Ready er et frivillig samfunns‑anerkjennelsesprogram som fremmer tsunami‑fareberedskap som et aktivt samarbeid blant føderale, delstats/territorial og lokale beredskapstjenester, samfunnsledere og allmennheten. Hovedmålet med programmet er å forbedre offentlig sikkerhet før, under og etter tsunami‑hendelser. Det har som mål å oppnå dette ved å etablere retningslinjer for et standardnivå av evne til å redusere, forberede og svare på tsunamier, og samarbeide med lokalsamfunn for å hjelpe dem å møte retningslinjene og i siste instans bli anerkjent som «tsunami‑ready» av National Weather Service. Det ble først implementert i USA. Per i dag er det 26 IOC‑UNESCO Tsunami Ready‑erkjente samfunn i 18 land og territorier, ekskludert de som er implementert i USA.  
+Samfunnsengasjement med evakueringssoner og «blå linjer»‑prosjekt i New Zealand: Wellington Region Emergency Management Office har utviklet Blue Line Project i samarbeid med lokalsamfunn i Wellington‑sørkyst. I dette prosjektet hjelper lokalsamfunnet med å planlegge evakueringsruter og sikre lokasjoner basert på indikativ evakueringszone‑kartlegging, og blå linjer male på veiskive ved maksimal estimert tsunami‑oversvømmelsesextent. Sammenhengende evakueringsskilt installeres. Samfunnsmedlemmer engasjeres tidlig i prosjektet, promotere arbeidet og hjelpe med å utvikle blå linjelokasjoner, evakueringszone‑kart og informasjonsbretter. Samfunn som deltar i Blue Line Project kan anses å ha høyere grad av offentlig utdanning om tsunami‑evakuering enn andre samfunn (Fraser et al., 2016). Andre samfunn globalt har brukt lignende samfunnsengasjementsstrategier.
 
-### Oversikt over overvåking
-Nasjonale, subnasjonale og lokale katastrofe‑håndteringsorganisasjoner er ansvarlige for overvåking av tsunamis, utstedelse av varsler og koordinering av nødhjelp. Tsunami‑varsling‑sentre (PTWC, IOTWMS, CTWP) gir sanntidsdeteksjon og prognose.  
+**Overvåking**  
+Avsnittet ovenfor og tabellen nedenfor gir en oversikt over overvåking av tsunami. Denne informasjonen kan brukes til prognostisering innenfor et nasjonalt tidlig varslingssystem (EWS). Siden EWS‑kapasiteter og prosesser varierer mellom land, bør den mest oppdaterte og spesifikke informasjonen om EWS skaffes fra den aktuelle nasjonale eller regionale myndighet som har ansvar for katastrofe‑risikohåndtering.  
 
-### Anbefalte referanser
-*Fraser, S.A. et al. (2016)...*  
-*(Alle referanser oversatt til norsk, men med originalt sitatformat)*
+**Hvilke institusjoner produserer katastrofe‑risikodata/-informasjon?**  
+Nasjonale, sub‑nasjonale og lokale katastrofe‑risikohåndteringsorganer som overvåker tsunami‑risiko, utsteder varsler og koordinerer nød‑respons.  
+Tsunami‑varsler‑sentre (f.eks. Pacific Tsunami Warning Center (PTWC), Indian Ocean Tsunami Warning and Mitigation System (IOTWMS) og Caribbean Tsunami Warning Program (CTWP)) gir sanntids‑deteksjon og prognoser.  
+Meteorologiske tjenester og oceanografiske etater med mandat for overvåking og utstedelse av råd/varsler.  
+Seismologiske etater (f.eks. United States Geological Survey (USGS), European‑Mediterranean Seismological Centre (EMSC) og nasjonale geologiske institutter) overvåker jordskjelv, undersjøiske jordskred og vulkansk aktivitet som kan utløse tsunamier.  
+Hydrologiske etater overvåker kystvannivåer, tidevann‑fluktuasjoner og flom‑interaksjoner som kan påvirke tsunami‑dynamikk.  
+Geofysiske og geologiske forskningsinstitusjoner som studerer tektonisk plates bevegelse, fjellsprekker og historiske tsunami‑forekomster.  
+Rom‑ og fjernmålingsektor (f.eks. NASA, European Space Agency (ESA), Japan Aerospace Exploration Agency (JAXA)) bruker satellitter og radar‑altimetri for å oppdage havoverflate‑forstyrrelser og tsunami‑propagasjon.  
+Maritime og maritim sikkerhetsmyndigheter som overvåker havforhold og utsteder tsunami‑relaterte råd for skip, havner og offshore‑operasjoner.  
+Energiselskaper og forsyningsselskaper som vurderer risiko for kjernekraftverk, olje­raffinaderier og kystinfrastruktur fra tsunami‑indusert oversvømmelse.  
+Planlegging av arealbruk og urbane planleggere som integrerer tsunami‑risikovurderinger i kyst‑avgrensningsreguleringer, infrastrukturutvikling og evakueringsplanlegging.  
+Helsemyndigheter som vurderer folkehelse‑risiko, inkludert vannbårne sykdommer, skader og nød‑medisinsk respons i tsunamien påvirkede områder.  
+Forskere og akademikere, inkludert oceanografer og seismologer, som studerer tsunami‑dannelse, prediktiv modellering og avbøtende strategier.  
+Miljøorganisasjoner og bevaringsgrupper som fremmer kyst‑motstand, mangrove‑bevaring og natur‑baserte tsunami‑beskyttelses­tiltak.  
+Kyst‑samfunn og lokale myndigheter som er engasjert i tsunami‑forberedelse, evakueringsøvelser og samfunnsbasert tidlig varsling.  
 
-> **Referanser**  
-> Fraser, S.A., et al. (2016) “Tsunami response behaviour during and following two local source earthquakes in Wellington, New Zealand”, *International Journal of Disaster Risk Reduction*, 16, 123–133.  
-> ... (og så videre)
+**Hvordan blir faren observert/overvåket/prognostisert?**  
+Tsunamier overvåkes ved hjelp av undervann‑trykkfølere, seismiske stasjoner og havbøyer som oppdager plutselige havnivåendringer og jordskjelvsaktivitet. Forskere analyserer seismiske data, havbølge­mønstre og historiske poster for å forutsi tsunami‑bevegelse og potensiell kystpåvirkning. Datamodeller simulerer tsunami‑propagasjon og hjelper prognostikere med å utstede tidlige varsler. Disse varslene gir kyst‑samfunn, nødhjelpspersonell og maritime industrier mulighet til å handle raskt for å redusere skade og redde liv.  
 
----
+**References**  
+Fraser, S.A., Doyle, E., Wright, K.C., Potter, S.H., McClure, J., Johnston, D.M., Leonard, G.S., Coomer, M.A., Becker, J.S. and Johal, S. (2016) ‘Tsunami response behaviour during and following two local source earthquakes in Wellington, New Zealand’, International Journal of Disaster Risk Reduction, 16, pp. 123–133.  
+Indian Ocean Tsunami Information Centre, no date. What is IOTWS?. Accessed 16 May 2025.  
+Intergovernmental Oceanographic Commission (IOC) (2019) Tsunami Glossary, 2019. Tsunami Glossary, 2019. Intergovernmental Oceanographic Commission (IOC), Technical Series, 85. Fourth Edition. IOC/2008/TS/85 rev.4. Accessed 16 May 2025.  
+International Tsunami Information Centre (ITIC), 2020. World Tsunami Awareness Day on November 5th. Accessed 16 May 2025.  
+United Nations Office for Disaster Risk Reduction (UNDRR), 2017. Words into Action Guidelines: National Disaster Risk Assessment – Tsunami Hazard and Risk Assessment. Accessed 16 May 2025.  
+United Nations Office for Disaster Risk Reduction (UNDRR), 2020. World Tsunami Awareness Day. Accessed 16 May 2025.  
+United Nations Educational, Scientific and Cultural Organization (UNESCO) and Intergovernmental Oceanographic Commission (IOC), 2019. Tsunami Glossary. Accessed 16 May 2025.  
+Cite this [Copy citation]
