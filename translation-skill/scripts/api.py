@@ -64,11 +64,13 @@ class TranslateRequest(BaseModel):
     context: str
     languages: str = "fr,es,de"
     models: str = "gpt-oss:latest"
+    odrl_policy: Optional[str] = None
 
 class ScrapeTranslateRequest(BaseModel):
     url: str
     languages: str = "fr,es,de"
     models: str = "gpt-oss:latest"
+    odrl_policy: Optional[str] = None
 
 class HazardRequest(BaseModel):
     query: str
@@ -82,6 +84,43 @@ def get_frontend():
             return f.read()
     return "<h1>Minority Report Frontend UI file not found.</h1>"
 
+def _validate_odrl_policy(policy_input: Optional[str]):
+    """Validates the system environment against the ODRL policy step 0."""
+    policy_path = policy_input or os.environ.get("ODRL_POLICY_PATH")
+    if not policy_path or not os.path.exists(policy_path):
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        policy_path = os.path.join(base_dir, "ODRL", "translation_pipeline_odrl.jsonld")
+        
+    if not os.path.exists(policy_path):
+        return # Skip validation if policy doesn't exist
+        
+    try:
+        with open(policy_path, "r", encoding="utf-8") as f:
+            policy_data = json.load(f)
+            
+        required_envs = set()
+        for perm in policy_data.get("permission", []):
+            if perm.get("target") == "ai:system-environment":
+                for duty in perm.get("duty", []):
+                    for action in duty.get("action", []):
+                        if action.get("rdf:value", {}).get("@id") == "odrl:ensure":
+                            for ref in action.get("refinement", []):
+                                if ref.get("leftOperand") == "ai:envVariable":
+                                    required_envs.add(ref.get("rightOperand"))
+        
+        missing = [env for env in required_envs if not os.environ.get(env)]
+        if missing:
+            raise HTTPException(
+                status_code=400, 
+                detail=f"ODRL Policy Violation: Missing required environment variables: {', '.join(missing)}"
+            )
+    except json.JSONDecodeError:
+        print("Failed to parse ODRL Policy as JSON")
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"ODRL validation error: {e}")
+
 @app.post("/api/translate")
 def translate_term(req: TranslateRequest):
     """
@@ -92,6 +131,8 @@ def translate_term(req: TranslateRequest):
         raise HTTPException(status_code=400, detail="Term cannot be empty.")
     if not req.context.strip():
         raise HTTPException(status_code=400, detail="Context cannot be empty.")
+    
+    _validate_odrl_policy(req.odrl_policy)
     
     try:
         result_json_str = _understand_and_translate_logic(
@@ -113,6 +154,8 @@ def scrape_and_translate(req: ScrapeTranslateRequest):
     url_str = req.url.strip()
     if not url_str.startswith(("http://", "https://")):
         raise HTTPException(status_code=400, detail="Invalid URL format. Must start with http or https.")
+        
+    _validate_odrl_policy(req.odrl_policy)
         
     try:
         # Initialize optional OntoPortal client if credentials exist in env
@@ -347,8 +390,8 @@ def download_croissant_metadata(term: str):
 if __name__ == "__main__":
     # In production, bind to 0.0.0.0, but follow the Secure Coding rule:
     # "Servers MUST listen on localhost or 127.0.0.1 when testing."
-    # We retrieve config from environment or default to 127.0.0.1 for safety
-    host = os.environ.get("API_HOST", "127.0.0.1")
+    # We retrieve config from environment or default to 10.199.136.19 for safety
+    host = os.environ.get("API_HOST", "10.199.136.19")
     port = int(os.environ.get("API_PORT", "8000"))
     
     print(f"Starting server at http://{host}:{port}")

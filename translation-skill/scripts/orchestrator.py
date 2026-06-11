@@ -340,8 +340,33 @@ def get_hips_code_from_url(url):
     match = re.search(r"hips/([a-zA-Z0-9]+)", url)
     return match.group(1).upper() if match else None
 
-def _query_model(term, context, languages, model, voter_prompt_template):
+def _query_model(term, context, languages, model, voter_prompt_template, method="standard", small_model="gemma4:e2b", keyword_prompt_template="", code=""):
     """Helper to query a single model and return parsed results."""
+    if method == "rl" and keyword_prompt_template:
+        cache_path = None
+        if code and languages:
+            base_project_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+            cache_path = os.path.join(base_project_dir, "hips", code, "translations", languages[0], f"{code}_keywords.md")
+
+        keywords = ""
+        if cache_path and os.path.exists(cache_path):
+            print(f"  [Keyword Extraction] Reading keywords from cache: {cache_path}")
+            with open(cache_path, "r", encoding="utf-8") as f:
+                keywords = f.read().strip()
+        else:
+            kw_prompt = keyword_prompt_template.replace("{{text}}", context)
+            kw_prompt = kw_prompt.replace("{{term}}", term)
+            print(f"  [Keyword Extraction] Using Model: {small_model}")
+            keywords = mock_llm_call(kw_prompt, model=small_model, is_json=False).strip()
+            if keywords and cache_path:
+                os.makedirs(os.path.dirname(cache_path), exist_ok=True)
+                with open(cache_path, "w", encoding="utf-8") as f:
+                    f.write(keywords)
+
+        if keywords:
+            print(f"    Keywords extracted: {keywords}")
+            context += f"\n\nIdentified Domain Keywords: {keywords}"
+
     print(f"  Using Model: {model}")
     prompt = voter_prompt_template.replace("{{target_languages}}", ", ".join(languages))
     prompt = prompt.replace("{{term}}", term)
@@ -451,8 +476,33 @@ def _arbitrate_model(term, context, candidates, model, arbitrator_prompt_templat
     else:
         print(f"    [{model}] failed to vote.")
 
-def _query_model_longtext(text, language, model, longtext_prompt_template):
+def _query_model_longtext(text, language, model, longtext_prompt_template, method="standard", small_model="gemma4:e2b", keyword_prompt_template="", term="", code=""):
     """Helper to query a single model for long text translation (plaintext)."""
+    if method == "rl" and keyword_prompt_template:
+        cache_path = None
+        if code and language:
+            base_project_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+            cache_path = os.path.join(base_project_dir, "hips", code, "translations", language, f"{code}_keywords.md")
+
+        keywords = ""
+        if cache_path and os.path.exists(cache_path):
+            print(f"  [Keyword Extraction] Reading keywords from cache: {cache_path}")
+            with open(cache_path, "r", encoding="utf-8") as f:
+                keywords = f.read().strip()
+        else:
+            kw_prompt = keyword_prompt_template.replace("{{text}}", text)
+            kw_prompt = kw_prompt.replace("{{term}}", term)
+            print(f"  [Keyword Extraction] Using Model: {small_model}")
+            keywords = mock_llm_call(kw_prompt, model=small_model, is_json=False).strip()
+            if keywords and cache_path:
+                os.makedirs(os.path.dirname(cache_path), exist_ok=True)
+                with open(cache_path, "w", encoding="utf-8") as f:
+                    f.write(keywords)
+
+        if keywords:
+            print(f"    Keywords extracted: {keywords}")
+            text += f"\n\nIdentified Domain Keywords: {keywords}"
+
     print(f"  [Longtext] Translating to {language} using Model: {model}")
     prompt = longtext_prompt_template.replace("{{target_language}}", language)
     prompt = prompt.replace("{{text}}", text)
@@ -464,6 +514,21 @@ def _query_model_longtext(text, language, model, longtext_prompt_template):
     parts = re.split(r'(?i)\*?\*?(?:4\.\s*)?Corrected Translation:?\*?\*?', response_str)
     if len(parts) > 1:
         response_str = parts[-1].strip()
+        
+    # PROOFREADING STEP
+    try:
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) 
+        proofread_path = os.path.join(base_dir, "prompts", "proofread_prompt.md")
+        if os.path.exists(proofread_path):
+            with open(proofread_path, "r", encoding="utf-8") as pf:
+                proofread_template = pf.read()
+            print(f"  [Proofreading] Checking syntax and grammar for {language}...")
+            p_prompt = proofread_template.replace("{{target_language}}", language).replace("{{text}}", response_str)
+            proofread_str = mock_llm_call(p_prompt, model=model).strip()
+            if proofread_str and len(proofread_str) > len(response_str) * 0.5: # Sanity check
+                response_str = proofread_str
+    except Exception as e:
+        print(f"  [Proofreading Error] {e}")
         
     return response_str
 
@@ -491,7 +556,7 @@ def save_results_to_csv(results, output_csv_path):
             os.remove(temp_path)
         print(f"Error saving results to CSV: {e}")
 
-def process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, longtext_prompt_template, output_csv_path, fields_to_translate=None, output_dir="data"):
+def process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, longtext_prompt_template, output_csv_path, fields_to_translate=None, output_dir="data", method="standard", small_model="gemma4:e2b", keyword_prompt_template=""):
     """
     Processes a list of terms and returns translation results with consensus logic.
     A translation is only accepted if at least 2 models agree on it (case-insensitive).
@@ -549,14 +614,29 @@ def process_terms(rows, languages, models, voter_prompt_template, arbitrator_pro
                                     # For short fields or if it's text, we can just save it as text.
                                     # We use .md for all fields to support markdown formatting.
                                     out_file = os.path.join(lang_dir, f"{code}_{field}.md")
+                                    input_len = len(field_text)
                                     if os.path.exists(out_file):
-                                        print(f"    [{lang}] {field} already exists at {out_file}. Skipping.")
-                                        continue
-                                    translated = _query_model_longtext(field_text, lang, primary_model, longtext_prompt_template)
-                                    if translated:
-                                        with open(out_file, "w", encoding="utf-8") as f_out:
-                                            f_out.write(translated)
-                                            print(f"    Saved {field} ({lang}) to {out_file}")
+                                        with open(out_file, "r", encoding="utf-8") as f_out:
+                                            existing_len = len(f_out.read())
+                                        if existing_len >= 0.75 * input_len:
+                                            print(f"    [{lang}] {field} already exists at {out_file} (size {existing_len}/{input_len}). Skipping.")
+                                            continue
+                                        else:
+                                            print(f"    [{lang}] {field} exists but too small ({existing_len} < {0.75*input_len}). Re-translating.")
+                                            
+                                    max_retries = 3
+                                    for attempt in range(max_retries):
+                                        translated = _query_model_longtext(field_text, lang, primary_model, longtext_prompt_template, method, small_model, keyword_prompt_template, term, code)
+                                        if translated:
+                                            if len(translated) >= 0.75 * input_len:
+                                                with open(out_file, "w", encoding="utf-8") as f_out:
+                                                    f_out.write(translated)
+                                                    print(f"    Saved {field} ({lang}) to {out_file} (size {len(translated)}/{input_len})")
+                                                break
+                                            else:
+                                                print(f"    [{lang}] {field} translation failed size check ({len(translated)} < {0.75*input_len}). Attempt {attempt+1}/{max_retries}.")
+                                                if attempt == max_retries - 1:
+                                                    print(f"    [{lang}] {field} reached max retries. Not saving.")
                     else:
                         print(f"    Metadata not found at {metadata_path}. Skipping field translation.")
                 except Exception as e:
@@ -567,7 +647,7 @@ def process_terms(rows, languages, models, voter_prompt_template, arbitrator_pro
         # Execute model queries in parallel
         with concurrent.futures.ThreadPoolExecutor(max_workers=len(models)) as executor:
             future_to_model = {
-                executor.submit(_query_model, term, context, languages, model, voter_prompt_template): model 
+                executor.submit(_query_model, term, context, languages, model, voter_prompt_template, method, small_model, keyword_prompt_template, original_code): model 
                 for model in models
             }
             
@@ -704,6 +784,8 @@ def main():
     parser.add_argument("--models", default="gpt-oss:latest", help="Comma-separated LLM models to use")
     parser.add_argument("--hips-code", "--hips_code", dest="hips_code", help="Manual HIPS code override")
     parser.add_argument("--fields", default="", help="Comma-separated list of fields to translate (e.g., title,summary,article,fulltext)")
+    parser.add_argument("--method", default="standard", choices=["standard", "rl"], help="Translation method to use (standard or rl)")
+    parser.add_argument("--small-model", default="gemma4:e2b", help="Small model to use for keyword extraction in RL method")
     
     parser.add_argument("--ontoportal-api-key", default=os.environ.get("ONTOPORTAL_API_KEY"), help="API key for OntoPortal services (or set via ONTOPORTAL_API_KEY)")
     parser.add_argument("--ontoportal-url", default="http://ecoportal.lifewatch.eu:8080", help="Base URL for OntoPortal (default: EcoPortal)")
@@ -716,6 +798,13 @@ def main():
     voter_prompt_template = load_prompt(os.path.join(prompts_dir, "voter_prompt.md"))
     arbitrator_prompt_template = load_prompt(os.path.join(prompts_dir, "arbitrator_prompt.md"))
     longtext_prompt_template = load_prompt(os.path.join(prompts_dir, "longtext_prompt.md"))
+    keyword_prompt_template = ""
+    if args.method == "rl":
+        kw_prompt_path = os.path.join(prompts_dir, "keyword_extraction_prompt.md")
+        if os.path.exists(kw_prompt_path):
+            keyword_prompt_template = load_prompt(kw_prompt_path)
+        else:
+            print(f"Warning: keyword extraction prompt not found at {kw_prompt_path}")
     
     languages = args.languages.split(",")
     models = args.models.split(",")
@@ -846,7 +935,7 @@ def main():
         print("Error: Must provide --url, --index-url, --index-file, or --input-file")
         return
             
-    results = process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, longtext_prompt_template, output_csv_path, fields_to_translate, args.output_dir)
+    results = process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, longtext_prompt_template, output_csv_path, fields_to_translate, args.output_dir, args.method, args.small_model, keyword_prompt_template)
     
     # Write Results
     save_results_to_csv(results, output_csv_path)
