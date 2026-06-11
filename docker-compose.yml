@@ -4,10 +4,12 @@ services:
   orchestrator:
     build: .
     environment:
-      - OLLAMA_HOST_2=http://10.147.18.37:11434
-      - OLLAMA_HOST=http://10.199.136.24:11434
+      - OLLAMA_HOST_2=${OLLAMA_HOST_2:-http://10.147.18.37:11434}
+      - OLLAMA_HOST=${OLLAMA_HOST:-http://host.docker.internal:11434}
       - GEMINI_API_KEY
       - ODRL_POLICY_PATH=./ODRL/translation_pipeline_odrl.jsonld
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     volumes:
       - ./data:/app/data
       - ./output:/app/output
@@ -23,11 +25,13 @@ services:
     ports:
       - "8000:8000"
     environment:
-      - OLLAMA_HOST=http://10.199.136.24:11434
+      - OLLAMA_HOST=${OLLAMA_HOST:-http://host.docker.internal:11434}
       - API_HOST=10.199.136.19
       - API_PORT=8000
       - GEMINI_API_KEY
       - ODRL_POLICY_PATH=./ODRL/translation_pipeline_odrl.jsonld
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     volumes:
       - ./data:/app/data
       - ./output:/app/output
