@@ -831,11 +831,12 @@ def main():
         try:
             # Pass ontoportal client to scrape_url for smart resolution
             term, context_text, raw_html = scrape_url(args.url, ontoportal_client=ontoportal)
+            code = get_hips_code_from_url(args.url)
             
             # Save raw HTML to distribution folder for later reference
             distribution_dir = os.path.join(args.output_dir, "distribution")
             os.makedirs(distribution_dir, exist_ok=True)
-            html_path = os.path.join(distribution_dir, f"{term.replace(' ', '_')}.html")
+            html_path = os.path.join(distribution_dir, f"{code}_{term.replace(' ', '_')}.html")
             try:
                 with open(html_path, "w", encoding="utf-8") as f_html:
                     f_html.write(raw_html)
@@ -854,7 +855,13 @@ def main():
                      print(f"  [OntoPortal] Found definition for '{term}'")
                      context_text += f"\n\nOfficial Definition (OntoPortal): {op_def}"
 
-            rows.append({"term": term, "context": context_text})
+            rows.append({
+                "term": term, 
+                "context": context_text,
+                "code": code,
+                "url": args.url,
+                "source_file": html_path
+            })
         except Exception as e:
             print(f"Error scraping/resolving URL: {e}")
             return
