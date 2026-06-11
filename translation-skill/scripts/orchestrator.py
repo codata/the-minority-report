@@ -956,7 +956,7 @@ def main():
     # We assume it's in the same scripts/ dir
     script_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "croissant_generator.py")
     
-    cmd = ["python3", script_path, "--data-file", output_csv_path, "--output-dir", "output/", "--source-file", os.path.join(args.output_dir, "distribution"), "--root-folder", ".", "--longtext-model", models[0]]
+    cmd = ["python3", script_path, "--data-file", output_csv_path, "--output-dir", "output/", "--source-file", os.path.join(args.output_dir, "distribution"), "--root-folder", ".", "--llm-model", ",".join(models), "--longtext-model", models[0]]
     
     # Check if we have a single term (URL mode or single row CSV) to name the dataset specifically
     # If we appended a new term, let's name the dataset after this new term for now as requested
