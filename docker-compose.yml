@@ -15,7 +15,6 @@ services:
       - ./training:/app/training
       - ./hips:/app/hips
       - ./translation-skill:/app/translation-skill
-      - /root/.gemini:/root/.gemini
     # Example command to run a specific URL (uncomment and modify to use)
     # command: --url https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0103 --output_dir data --languages fr,es,de --models gpt-oss:latest
 
@@ -34,7 +33,6 @@ services:
       - ./output:/app/output
       - ./logs:/app/logs
       - ./training:/app/training
-      - /root/.gemini:/root/.gemini
     entrypoint: ["sh", "-c", "uvicorn api:app --app-dir translation-skill/scripts --host 0.0.0.0 --port $$API_PORT"]
 
   ingest:

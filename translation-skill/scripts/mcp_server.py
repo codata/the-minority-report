@@ -45,6 +45,9 @@ def _understand_and_translate_logic(term: str, context: str, languages: str = "f
     arbitrator_prompt_path = os.path.join(PROMPTS_DIR, "arbitrator_prompt.md")
     arbitrator_prompt_template = load_prompt(arbitrator_prompt_path)
     
+    longtext_prompt_path = os.path.join(PROMPTS_DIR, "longtext_prompt.md")
+    longtext_prompt_template = load_prompt(longtext_prompt_path)
+    
     rows = [{"term": term, "context": context}]
     lang_list = [l.strip() for l in languages.split(",")]
     model_list = [m.strip() for m in models.split(",")]
@@ -53,7 +56,7 @@ def _understand_and_translate_logic(term: str, context: str, languages: str = "f
     #     return json.dumps({"error": "Consensus logic requires at least 2 models. Please specify multiple models separated by commas."}, indent=2)
     
     
-    results = process_terms(rows, lang_list, model_list, voter_prompt_template, arbitrator_prompt_template, OUTPUT_CSV_PATH)
+    results = process_terms(rows, lang_list, model_list, voter_prompt_template, arbitrator_prompt_template, longtext_prompt_template, OUTPUT_CSV_PATH)
     
     # Filter results for just this term
     term_results = [r for r in results if r["term"] == term]
