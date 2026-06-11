@@ -40,15 +40,14 @@ OLLAMA_HOSTS = [h.strip() for h in raw_hosts.split(',')]
 
 
 import threading
-from ontoportal import OntoPortalClient
-
-
-import threading
-from ontoportal import OntoPortalClient
-
-
-import threading
-from ontoportal import OntoPortalClient
+try:
+    from ontoportal import OntoPortalClient
+except ImportError:
+    try:
+        from translation_skill.scripts.ontoportal import OntoPortalClient
+    except ImportError:
+        print("Warning: ontoportal module not found. OntoPortal integration will be disabled.")
+        OntoPortalClient = None
 
 class ModelRouter:
     def __init__(self, hosts):
