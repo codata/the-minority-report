@@ -13,6 +13,10 @@ import concurrent.futures
 import sys
 import functools
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from hips_html_parser import parse_html, get_extraction_pattern
+
+
 # Redirect all print calls to stderr to avoid breaking MCP stdio transport
 print = functools.partial(print, file=sys.stderr)
 
@@ -589,8 +593,6 @@ def process_terms(rows, languages, models, voter_prompt_template, arbitrator_pro
             if source_file and os.path.exists(source_file):
                 print(f"  Extracting fields {fields_to_translate} from {source_file}...")
                 try:
-                    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-                    from hips_html_parser import parse_html, get_extraction_pattern
                     import json
                     
                     # Try to locate metadata.json
