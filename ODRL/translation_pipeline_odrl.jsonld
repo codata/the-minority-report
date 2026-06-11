@@ -1,0 +1,243 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/odrl.jsonld",
+    {
+      "ai": "https://cdif.org/vocab/ai-pipeline/",
+      "dc": "http://purl.org/dc/elements/1.1/"
+    }
+  ],
+  "@type": "Set",
+  "uid": "https://cdif.org/policy/translation-pipeline-v1",
+  "profile": "https://cdif.org/odrl/profile/ai-processing",
+  "dc:description": "This policy governs the execution of a multi-step AI translation pipeline, including input ingestion, keyword extraction, caching, translation, and length validation.",
+  "permission": [
+    {
+      "target": "ai:system-environment",
+      "dc:description": "Step 0: Environment Verification. Grants permission to execute the pipeline only if the required OLLAMA_* environment variables are present.",
+      "action": [
+        {
+          "rdf:value": { "@id": "odrl:verify" }
+        }
+      ],
+      "duty": [
+        {
+          "dc:description": "The system must ensure that OLLAMA_HOST, OLLAMA_MODEL, and OLLAMA_KEYWORDS_HOST are defined.",
+          "action": [
+            {
+              "rdf:value": { "@id": "odrl:ensure" },
+              "refinement": [
+                {
+                  "leftOperand": "ai:envVariable",
+                  "operator": "odrl:isA",
+                  "rightOperand": "OLLAMA_HOST"
+                },
+                {
+                  "leftOperand": "ai:envVariable",
+                  "operator": "odrl:isA",
+                  "rightOperand": "OLLAMA_MODEL"
+                },
+                {
+                  "leftOperand": "ai:envVariable",
+                  "operator": "odrl:isA",
+                  "rightOperand": "OLLAMA_KEYWORDS_HOST"
+                }
+              ]
+            }
+          ],
+          "consequence": [
+            {
+              "dc:description": "If the environment variables are missing, the system must issue a warning to the user.",
+              "action": [
+                {
+                  "rdf:value": { "@id": "odrl:inform" },
+                  "refinement": [
+                    {
+                      "leftOperand": "ai:warningMessage",
+                      "operator": "odrl:eq",
+                      "rightOperand": "Missing required OLLAMA_* environment variables."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": "ai:input-resource",
+      "dc:description": "Step 1: Ingest. Grants permission to read the initial input resource, either by downloading from a URL or parsing a provided keyword term.",
+      "action": [
+        {
+          "rdf:value": { "@id": "odrl:read" },
+          "refinement": [
+            {
+              "leftOperand": "ai:inputType",
+              "operator": "odrl:eq",
+              "rightOperand": "url"
+            }
+          ]
+        },
+        {
+          "rdf:value": { "@id": "odrl:use" },
+          "refinement": [
+            {
+              "leftOperand": "ai:inputType",
+              "operator": "odrl:eq",
+              "rightOperand": "keyword"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": "ai:source-text",
+      "dc:description": "Step 2: Keyword Extraction. Grants permission to extract domain-specific terminology from the source text using a smaller, specialized LLM prior to translation.",
+      "action": [
+        {
+          "rdf:value": { "@id": "odrl:extract" },
+          "refinement": [
+            {
+              "leftOperand": "ai:hostEndpoint",
+              "operator": "odrl:eq",
+              "rightOperand": "env:OLLAMA_KEYWORDS_HOST"
+            },
+            {
+              "leftOperand": "ai:modelSelection",
+              "operator": "odrl:eq",
+              "rightOperand": "env:OLLAMA_KEYWORDS_HOST"
+            },
+            {
+              "leftOperand": "odrl:purpose",
+              "operator": "odrl:eq",
+              "rightOperand": "keyword-extraction"
+            }
+          ]
+        }
+      ],
+      "duty": [
+        {
+          "dc:description": "Step 3: Cache Keywords. Obligates the system to archive the extracted keywords into a separate markdown cache file to avoid re-extracting in the future.",
+          "action": [
+            {
+              "rdf:value": { "@id": "odrl:archive" },
+              "refinement": [
+                {
+                  "leftOperand": "ai:storageLocationPattern",
+                  "operator": "odrl:eq",
+                  "rightOperand": "hips/{CODE}/translations/{LANG}/{CODE}_keywords.md"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": "ai:source-text",
+      "dc:description": "Step 4: Primary Translation. Grants permission to translate the text using the primary LLM, utilizing the previously extracted keywords to ground the model's terminology.",
+      "action": [
+        {
+          "rdf:value": { "@id": "odrl:translate" },
+          "refinement": [
+            {
+              "leftOperand": "ai:hostEndpoint",
+              "operator": "odrl:eq",
+              "rightOperand": "env:OLLAMA_HOST"
+            },
+            {
+              "leftOperand": "ai:modelSelection",
+              "operator": "odrl:eq",
+              "rightOperand": "env:OLLAMA_MODEL"
+            },
+            {
+              "leftOperand": "ai:prePromptContext",
+              "operator": "odrl:isA",
+              "rightOperand": "extracted-keywords"
+            }
+          ]
+        }
+      ],
+      "duty": [
+        {
+          "dc:description": "Step 5: Validation. Obligates the system to verify the output size of the translation before saving.",
+          "action": [
+            {
+              "rdf:value": { "@id": "odrl:ensure" },
+              "refinement": [
+                {
+                  "dc:description": "The character length of the translated text must be greater than or equal to 75% (0.75) of the original source text length.",
+                  "leftOperand": "ai:translatedTextLengthRatio",
+                  "operator": "odrl:gteq",
+                  "rightOperand": "0.75"
+                }
+              ]
+            }
+          ],
+          "consequence": [
+            {
+              "dc:description": "Step 6: Retry Loop. If the validation duty fails, the system must trigger a repeat translation attempt, up to a maximum of 3 retries.",
+              "action": [
+                {
+                  "rdf:value": { "@id": "ai:repeatTranslation" },
+                  "refinement": [
+                    {
+                      "leftOperand": "ai:maxRetries",
+                      "operator": "odrl:lteq",
+                      "rightOperand": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "dc:description": "Step 6.5: Proofreading. The translated text must be explicitly checked for language syntax, grammar, and natural flow by the model to correct any semantic or structural mistakes.",
+          "action": [
+            {
+              "rdf:value": { "@id": "odrl:review" },
+              "refinement": [
+                {
+                  "leftOperand": "ai:validationGoal",
+                  "operator": "odrl:eq",
+                  "rightOperand": "syntax-and-grammar-check"
+                },
+                {
+                  "leftOperand": "ai:modelSelection",
+                  "operator": "odrl:eq",
+                  "rightOperand": "env:OLLAMA_MODEL"
+                },
+                {
+                  "leftOperand": "ai:targetLanguage",
+                  "operator": "odrl:isA",
+                  "rightOperand": "ISO-639-1-Language-Code"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "dc:description": "Step 7: Archive Translations. Once validated, the generated translated document and structural metadata must be stored using strict directory patterns.",
+          "action": [
+            {
+              "rdf:value": { "@id": "odrl:archive" },
+              "refinement": [
+                {
+                  "leftOperand": "ai:longTextStoragePattern",
+                  "operator": "odrl:eq",
+                  "rightOperand": "hips/{CODE}/translations/{LANG}/{CODE}_{FIELD}.md"
+                },
+                {
+                  "leftOperand": "ai:structuredDataStoragePattern",
+                  "operator": "odrl:eq",
+                  "rightOperand": "data/final_translations.csv"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
