@@ -4,6 +4,7 @@ import json
 import csv
 import re
 import io
+import requests
 from typing import List, Optional
 from fastapi import FastAPI, HTTPException, UploadFile, File, Form
 from fastapi.responses import HTMLResponse, JSONResponse, Response
@@ -120,6 +121,50 @@ def _validate_odrl_policy(policy_input: Optional[str]):
         raise
     except Exception as e:
         print(f"ODRL validation error: {e}")
+
+@app.get("/api/health")
+def health_check():
+    """
+    Validates API status and checks if all external endpoints and ODRL dependencies are accessible.
+    """
+    health_status = {
+        "status": "healthy",
+        "api": "up",
+        "dependencies": {}
+    }
+    
+    # Check ODRL policy constraints
+    try:
+        _validate_odrl_policy(None)
+        health_status["dependencies"]["odrl_policy"] = "valid"
+    except Exception as e:
+        health_status["status"] = "degraded"
+        health_status["dependencies"]["odrl_policy"] = str(e)
+        
+    # Check Ollama primary endpoint
+    ollama_host = os.environ.get("OLLAMA_HOST")
+    if ollama_host:
+        try:
+            # Ollama root endpoint returns 'Ollama is running' and 200 OK
+            r = requests.get(ollama_host, timeout=2)
+            health_status["dependencies"]["ollama_primary"] = "up" if r.status_code == 200 else f"error_{r.status_code}"
+        except Exception:
+            health_status["status"] = "degraded"
+            health_status["dependencies"]["ollama_primary"] = "unreachable"
+            
+    # Check Ollama keywords endpoint
+    ollama_keywords = os.environ.get("OLLAMA_KEYWORDS_HOST")
+    if ollama_keywords:
+        try:
+            r = requests.get(ollama_keywords, timeout=2)
+            health_status["dependencies"]["ollama_keywords"] = "up" if r.status_code == 200 else f"error_{r.status_code}"
+        except Exception:
+            health_status["status"] = "degraded"
+            health_status["dependencies"]["ollama_keywords"] = "unreachable"
+            
+    # Determine HTTP status code based on overall health
+    status_code = 200 if health_status["status"] == "healthy" else 503
+    return JSONResponse(status_code=status_code, content=health_status)
 
 @app.post("/api/translate")
 def translate_term(req: TranslateRequest):

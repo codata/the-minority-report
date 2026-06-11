@@ -4,7 +4,7 @@ FROM python:3.11-slim
 # Set environment variables
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
-ENV OLLAMA_HOST=http://10.147.18.253:11434
+ENV OLLAMA_HOST=http://10.199.136.24:11434
 
 # Set work directory
 WORKDIR /app

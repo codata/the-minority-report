@@ -4,14 +4,17 @@ services:
   orchestrator:
     build: .
     environment:
+      - OLLAMA_HOST_2=http://10.147.18.37:11434
       - OLLAMA_HOST=http://10.199.136.24:11434
       - GEMINI_API_KEY
+      - ODRL_POLICY_PATH=./ODRL/translation_pipeline_odrl.jsonld
     volumes:
       - ./data:/app/data
       - ./output:/app/output
       - ./logs:/app/logs
       - ./training:/app/training
       - ./hips:/app/hips
+      - ./translation-skill:/app/translation-skill
       - /root/.gemini:/root/.gemini
     # Example command to run a specific URL (uncomment and modify to use)
     # command: --url https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0103 --output_dir data --languages fr,es,de --models gpt-oss:latest
@@ -22,16 +25,17 @@ services:
       - "8000:8000"
     environment:
       - OLLAMA_HOST=http://10.199.136.24:11434
-      - API_HOST=0.0.0.0
+      - API_HOST=10.199.136.19
       - API_PORT=8000
       - GEMINI_API_KEY
+      - ODRL_POLICY_PATH=./ODRL/translation_pipeline_odrl.jsonld
     volumes:
       - ./data:/app/data
       - ./output:/app/output
       - ./logs:/app/logs
       - ./training:/app/training
       - /root/.gemini:/root/.gemini
-    entrypoint: ["uvicorn", "api:app", "--app-dir", "translation-skill/scripts", "--host", "0.0.0.0", "--port", "8000"]
+    entrypoint: ["sh", "-c", "uvicorn api:app --app-dir translation-skill/scripts --host 0.0.0.0 --port $$API_PORT"]
 
   ingest:
     build:
