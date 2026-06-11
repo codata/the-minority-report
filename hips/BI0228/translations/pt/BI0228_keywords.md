@@ -1,0 +1,1 @@
+Yersinia pestis, bubonic type, pneumonic kind, case-fatality ratio, bubonic plague, pneumonic plague, untreated mortality, disease severity, bacteriaYersinia pestis, fatality ratio

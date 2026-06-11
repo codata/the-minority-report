@@ -1,0 +1,52 @@
+### Definition
+Zlyhanie jadrového elektrárne nastáva, keď dôjde k náhodnému roztapeniu jadra jadrového reaktora, čo vedie k úplnému alebo čiastočnému kolapsu jadra (adaptované z USNRC, 1975).
+
+### Primary reference(s)
+USNRC, 1975. Štúdia bezpečnosti reaktorov: Hodnotenie rizík nehôd v komerčných jadrových elektrárňach USA (Vol. 88). Úrad pre jadrovú reguláciu (USNRC). Prístup 29. januára 2025.
+
+### Annotations
+
+#### Additional scientific description
+Jadrové reaktory sa používajú na ohrev vody a tvorbu obrovského množstva nízkouhlíkovej elektriny. Používajú sa rôzne palivá. Rozdelenie jadra v reťazcovej reakcii uvoľňuje veľké množstvo energie vo forme tepla. Toto teplo je odvádzané z reaktora obehujúcou vodou. Par, ktorá vznikne, poháňa turbíny a umožňuje výrobu elektriny (World Nuclear Association, 2020). Elektrina je základnou súčasťou modernej spoločnosti, avšak približne jeden miliárd ľudí nepozná prístup k elektrine. Globálne výzvy ako zmena klímy, znečistenie a ekologická degradácia vyžadujú, aby krajiny vyrábali elektrinu obnoviteľne (World Nuclear Association, bez dátumu). Počas 20. storočia dominovali fosilné palivá, vodná elektrina a od 1950 r. jadrová energia. Napriek rastu dopytu po obnoviteľnej energii zostávajú fosilné palivá globálnym hlavním zdrojom. Jadrová energia je ekologicky prívetivá forma výroby elektriny. Aj keď zastupitelia jadrovej energie tvrdia, že ide o obnoviteľnú a bezpečnú formu energie, zlyhania jadrových elektrární môžu mať významné ľudské, environmentálne a socio‑ekonomické dopady (World Nuclear Association, bez dátumu). V roku 2018 jadrová energia vyrobila 10,5 % svetovej elektriny (World Nuclear Association, 2020). Jadrové reaktory sú spoľahlivý zdroj energie a môžu prevádzkovať 24 h denne počas dlhých období, a často aj viac ako 60 rokov (World Nuclear Association, 2020). Reaktory vyvinuté pre ponorky a veľké námorné loďstvo vyrábajú približne 85 % svetovej jadrovej elektriny. Najčastejšie typy jadrových reaktorov používajú vodu, pričom viac ako 90 % svetových reaktorov je vodné (World Nuclear Association, bez dátumu).
+
+Zlyhania jadrových elektrární v Černobylu a Fukushime sú významné príklady katastrof.
+
+**Černobyl, Ukrajina (bývalá SSSR) 1986**  
+Černobyl je považovaný za najhoršiu jadrovú katastrofu do dnešného dňa. Náhlý nárast napätia spôsobil výbuchy a takmer úplnú zničenie reaktora. Požiar v budove prispel k rozsiahlym rádioaktívnym únikom. Počiatočný parový výbuch a požiar zabil dvoch ľudí a ďalších 28 zabilich sa v dôsledku rádioaktívneho otrávenia počas troch mesiacov. Masívne množstvá radiačných častíc sa rozšírilo po celej SSSR a Európe, a vyhnulo sa 220 000 obyvateľov, a prispelo k významným zdravotným, environmentálnym a socio‑ekonomickým dopadom (WHO, 2016; World Nuclear Association, 2019).
+
+**Fukushima, Japonsko 2011**  
+Západné Japonské zemetrasenie a tsunami, ktoré zasiahlo Japonsko 11. marca 2011, zničili štyri reaktory v jadrovej elektrárni Fukushima v dôsledku straty chladenia po tsunami. Neboli žiadne smrteľné úmrtia ani vážne zranenia spojené s radioaktivitou.
+
+#### Metrics and numeric limits
+Certifikácia dizajnu reaktorov je zodpovednosťou národných regulátorov. Medzinárodná spolupráca medzi národnými regulátormi sa líši, a sú rôzne sady mechanických kódov a štandardov súvisiacich s kvalitou a bezpečnosťou (World Nuclear Association, 2019).
+
+#### Key relevant UN convention / multilateral treaty
+Konvencia o jadrovej bezpečnosti, prijatá v roku 1994, má cieľ záväziť zmluvné strany prevádzkujúce pozemné civilné jadrové elektrárne na udržiavanie vysokého stupňa bezpečnosti prostredníctvom ustanovení základných bezpečnostných princípov, ktoré štáty musia prijímať. Konvencia je založená na spoločnom záujme strán dosiahnuť vyššie úrovne bezpečnosti, ktoré budú rozvíjané a podporované pravidelnými stretnutiami (IAEA, 1994).
+
+#### Drivers
+Zemetrasenie alebo tsunami (externá nehoda) môže spôsobiť prasknutie potrubí alebo požiar v dôsledku poškodenia elektrických zariadení (interná nehoda). Rovnako, náraz ťažkého ťažkého objektu môže spôsobiť internú záplavu v dôsledku prasknutia potrubia (ďalšia interná nehoda) alebo výstrel rakety spôsobený poškodením mechanických zariadení (interná nehoda) (IAEA, 2017).
+
+#### Impacts
+Zlyhanie alebo poškodenie jadrového elektrárne spôsobil uvoľnenie rádioaktívneho materiálu do prostredia, čo ovplyvňuje ľudské zdravie a životné prostredie.
+
+#### Multi‑hazard context
+Nižšie uvedená figura sumarizuje bežné interakcie medzi zlyhaním jadrového elektrárne a inými nehodami. Tieto informácie by sa mali používať s opatrnosťou a nemali by sa spoliehať iba na Disaster Risk Management, najmä keď niektoré interakcie neboli zahrnuté. Konkrétne príklady multi‑hazard kontextu nájdete v sekciách „Drivers“ a „Impacts“ vyššie.
+
+*Obrázok chýba (vložiť podľa potreby).*
+
+#### Risk Management
+Navzdory nedávnym jadrovým katastrofám ako Černobyl a následnej devastácii je riziko, že jadrové elektrárne uvoľnia rádioaktívny materiál do blízkych komunít, veľmi nízke. Silné povedomie o potenciálnom nebezpečí jadrovej kritickosti a uvoľnení rádioaktívneho materiálu z výroby elektriny jadrovou energiou viedlo k zvýšeniu bezpečnostných opatrení, zvýšeniu počtu dobre vycvičených operátorov reaktora, dôkladnému testovaniu a údržbe a politikám a predpisom prijatým organizáciami ako Úrad pre jadrovú reguláciu (USNRC, 2011; World Nuclear Association, 2019). Dizajn a prevádzka jadrových elektrární sa zameriavajú na minimalizáciu pravdepodobnosti nehôd a vyhýbanie sa významným ľudským následkom prostredníctvom implementácie bezpečnostných opatrení a rozhodovania založeného na riziku (USNRC, 2011). Medzinárodná agentúra pre jadrovú energiu (IAEA) hlási, že jadrové elektrárne sú vybavené viacerými bezpečnostnými systémami schopnými zvládnuť široký rozsah abnormálnych prevádzkových podmienok. Majú tiež dobre overené nouzové prevádzkové postupy, ktoré pomáhajú operátorom dosiahnuť stabilný a bezpečný stav. Avšak najzávažnejšie okolnosti môžu spôsobiť poškodenie jadrového paliva a obalových konštrukcií, čo by mohlo viesť k uvoľneniu rádioaktívneho materiálu do prostredia. Aj v týchto prípadoch sa následky môžu zmierniť pomocou dostupného a v niektorých prípadoch aj špecializovaného vybavenia elektrárne (IAEA, bez dátumu). Na ochranu verejnosti a životného prostredia pred následkami jadrovej nehody každá elektrárna zriadi program riadenia vážnych nehôd, ktorý sa pravidelne aktualizuje a vyvíja. Hlavným cieľom smerníc na tvorbu takýchto programov je využiť všetky dostupné zariadenia na jadrovú elektrárnu na zastavenie poškodenia jadra, udržiavanie integrity obalu a minimalizáciu uvoľnenia rádioaktívneho materiálu z miesta (IAEA, bez dátumu). Sprievodné riadenie vážnych nehôd sa líšia podľa dizajnu elektrárne, miestnych predpisov a charakteristík miesta. IAEA vyvinula nástroj na pomoc operátorom pri tvorbe vlastných smerníc a ponúka modulárne tréningové programy pre svoje členské štáty (IAEA, bez dátumu). Hoci sa tieto programy pravdepodobne nevyžadujú, sú kritickou súčasťou konceptu obrany na viacerých úrovniach, ktorý je hierarchickým nasadením rôznych úrovní vybavenia a postupov v postupnom prístupe na ochranu proti širokej škále incidentov, nehôd, porúch zariadení, ľudských chýb a udalostí vyvolaných vonkajším prostredím. Vo všeobecnosti sa program riadenia vážnych nehôd navrhuje na: hodnotenie generickej kapacity existujúcich elektrární tolerovať vážnu nehodu; identifikovať udalosti, ktoré môžu viesť k vážnym nehodám a formulovať preventívne a zmierňovacie stratégie; a identifikovať krátkodobé a dlhodobé opatrenia na zvládanie vážnych nehôd (IAEA, bez dátumu). IAEA poskytuje rozsiahle materiály na bezpečnostné systémy jadrových elektrární, ktoré sú navrhnuté na zmiernenie rôznych abnormálnych prevádzkových podmienok. V prípade nepravdepodobnej vážnej nehody používa operátor jadrových elektrární riadiace smernice špecificky vyvinuté pre túto úlohu. IAEA vyvinula nástroj na pomoc operátorom pri tvorbe týchto smerníc a ponúka školenia pre svoje členské štáty (IAEA, bez dátumu). Okrem toho IAEA organizuje Medzinárodnú konferenciu na ochranu radiačnej bezpečnosti: Zlepšenie ochrany radiačnej bezpečnosti. V roku 2020 sa konala virtuálne od 9. do 20. novembra. Konferencia bola organizovaná v spolupráci s Európskou komisiou, Organizáciou pre výživu a poľnohospodársku organizáciu OSN, Medzinárodnou organizáciou práce, Agentúrou jadrovej energie OECD, Organizáciou zdravotníctva Panamerického a Medzinárodného programu (IAEA, 2020).
+
+#### Monitoring
+Systémy monitorovania nehôd jadrových elektrární (2015) poskytujú spoločný medzinárodný technický základ, ktorý sa má použiť pri stanovení rôznych kritérií monitorovania nehôd na podporu prevádzky pod podmienkami navrhnutého systému a rozšírenia. Informácie v tejto publikácii sú užitočné na podporu nových dizajnov elektrární a úprav existujúcich jadrových elektrární.
+
+#### References
+- International Atomic Energy Agency (IAEA), bez dátumu. Riadenie vážnych nehôd. International Atomic Energy Agency (IAEA). Prístup 26. januára 2025.
+- International Atomic Energy Agency (IAEA), 1994. Konvencia o jadrovej bezpečnosti. International Atomic Energy Agency (IAEA). Prístup 26. januára 2025.
+- International Atomic Energy Agency (IAEA), 2017. Ochrana proti interným nehodám v dizajne jadrových elektrární. International Atomic Energy Agency (IAEA). Špecifický bezpečnostný sprievodca. No. SSG‑64. Prístup 26. januára 2025.
+- International Atomic Energy Agency (IAEA), 2020. Medzinárodná konferencia na ochranu radiačnej bezpečnosti: Zlepšenie ochrany radiačnej bezpečnosti v praxi. International Atomic Energy Agency (IAEA). Prístup 26. januára 2025.
+- United States Nuclear Regulatory Commission (USNRC), 2011. Riziko jadrového reaktora. United States Nuclear Regulatory Commission (USNRC). Prístup 26. januára 2025.
+- World Health Organization (WHO), 2016. 1986‑2016: Černobyl na 30. World Health Organization (WHO). Prístup 26. januára 2025.
+- World Nuclear Association, bez dátumu. Odkiaľ pochádza naša elektrina?. Prístup 26. januára 2025.
+- World Nuclear Association, 2019. Bezpečnosť jadrových reaktorov. Prístup 26. januára 2025.
+- World Nuclear Association, 2020. Jadrové reaktory. Prístup 26. januára 2025.

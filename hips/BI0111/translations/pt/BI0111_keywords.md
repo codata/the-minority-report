@@ -1,0 +1,1 @@
+Cryptosporidium is a microscopic parasite, infected faeces, watery diarrhoeal disease, cryptosporidiosis, water contamination, food contamination, soil contamination, surface contamination, waterborne disease, diarrhoeal disease

@@ -1,0 +1,1 @@
+non-frontal system, low-pressure system, tropical and extra-tropical cyclones, synoptic-scale cyclones, tropical waters origin, subtropical waters origin, closed surface wind circulation, well-defined centre

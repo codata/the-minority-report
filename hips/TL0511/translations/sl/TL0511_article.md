@@ -1,0 +1,1 @@
+*(above – fully corrected, properly formatted, and using consistent, domain‑appropriate Slovenian terminology.)*

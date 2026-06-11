@@ -1,0 +1,1 @@
+violent downdraught,damaging downdraught,downdraught reaching ground,ground surface impact,severe thunderstorm association,downdraft mechanism,vertical wind shear,wind convergence zone,microburst phenomenon,surface wind impact

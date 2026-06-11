@@ -1,0 +1,1 @@
+SARS-CoV-2, infectious disease, human populations, global outbreak, severe acute respiratory syndrome, coronavirus, SARS Coronavirus 2, infectious disease caused, SARS-CoV-2 virus, severe acute respiratory syndrome coronavirus 2

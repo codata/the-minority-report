@@ -1,0 +1,1 @@
+insect pests, diseases, severe weather events, forest damage, biotic disturbance, abiotic disturbance, fire disturbance, forest productivity, forest vigour, insect infestation

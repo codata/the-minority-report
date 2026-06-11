@@ -1,0 +1,1 @@
+toxic metalloid,arsenic sulfide,metal arsenates and arsenides,inorganic arsenic,organic arsenic compounds,chronic arsenic poisoning,arsenicosis,skin lesions,peripheral neuropathy,cardiovascular disease,arsenic in drinking water,arsenic removal systems

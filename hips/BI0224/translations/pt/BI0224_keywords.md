@@ -1,0 +1,1 @@
+Mpox virus, monkeypox virus, Orthopoxvirus genus, clade I, subclades Ia and Ib, clade II, subclades IIa and IIb, viral illness, monkeypox, Orthopoxvirus species

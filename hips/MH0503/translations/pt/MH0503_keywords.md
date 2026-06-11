@@ -1,0 +1,1 @@
+severe winter conditions, cold-season disaster, anomalous climatic, heavy snow and severe cold, land-surface conditions, snow/ ice cover, lack of pasture, reduced accessibility, availability of forage/pastures, high livestock mortality, winter–spring

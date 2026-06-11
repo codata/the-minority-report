@@ -1,0 +1,1 @@
+insect pest population, insect pest incursion, sudden significant increase, damage to plants, production fields, natural habitats, substantial damage, productivity, biodiversity, natural resources

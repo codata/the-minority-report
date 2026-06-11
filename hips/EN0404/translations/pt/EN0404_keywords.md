@@ -1,0 +1,1 @@
+seawater temperature, symbiotic algae, coral bleaching, loss of nutrients, coral colonies, severe bleaching, prolonged bleaching, repeated bleaching, death of coral colonies, symbiotic algae loss

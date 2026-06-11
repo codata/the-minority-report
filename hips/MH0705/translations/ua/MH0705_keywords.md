@@ -1,0 +1,1 @@
+seismic sea wave, submarine landslides, coastal rock falls, tsunami period, travel time, inundation distance, inundation height, inundation area, tsunami wavelength, tsunami amplitude, tsunami drawdown, tsunami-induced currents, wave impact on structures

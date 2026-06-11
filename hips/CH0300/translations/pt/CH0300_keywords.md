@@ -1,0 +1,1 @@
+gaseous state, physiological effects, respiratory systems, cardiovascular systems, nervous systems, hazardous physiological effects, inhaled exposure, public hazards, toxic substances, gaseous state, public hazards

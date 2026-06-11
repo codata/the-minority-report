@@ -1,0 +1,1 @@
+irregular variations, ionospheric parameters, spatiotemporal scales, geographic locations, systematic pattern, ionospheric disturbances, distinct characteristics, state of the ionosphere, ionospheric variations, different risks

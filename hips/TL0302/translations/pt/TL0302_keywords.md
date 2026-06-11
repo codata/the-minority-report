@@ -1,0 +1,1 @@
+environmental media, air pollution, water pollution, land pollution, substances and heat, undesirable environmental effects, activities that generates pollutants, environmental effects, pollutants, environmental media

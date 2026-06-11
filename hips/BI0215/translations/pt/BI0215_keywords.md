@@ -1,0 +1,1 @@
+zoonotic disease, haemorrhagic illness, Lassa virus, single-stranded RNA virus, Arenaviridae, severe disease, acute illness, liver spleen and kidneys, virus family, fatal illness

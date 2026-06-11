@@ -1,0 +1,1 @@
+Carbon monoxide, colourless gas, odourless gas, human toxicity, public health hazard, WHO standard, poisonous gas, atmospheric hazard, gas properties, toxicological effect

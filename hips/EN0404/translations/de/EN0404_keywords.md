@@ -1,0 +1,1 @@
+lose the symbiotic algae, symbiotic organisms with the coral polyp, polyp expels the algae, coral starvation and death, 1°C to 2°C above the seasonal maximum, heat-stressed corals, Degree Heating Week (DHW) product, annual severe bleaching onset, marine heatwaves, Degree Heating Weeks (DHWs), Global Coral-Bleaching Database (GCBD), thermal stress, eutrophication of coastal waters

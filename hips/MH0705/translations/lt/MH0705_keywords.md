@@ -1,0 +1,1 @@
+series of long-period travelling waves,seismic sea wave,submarine landslides,inundation height,inundation distance,run-up,tsunami amplitude,tsunami period,tsunami wavelength,tsunami drawdown,tsunami warning system,tsunami hazard and risk assessment

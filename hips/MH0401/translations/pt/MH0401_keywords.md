@@ -1,0 +1,1 @@
+abnormally dry weather, deficiency of precipitation, below a certain threshold, prolonged deficiency, large area, period longer than a month, meteorological condition, precipitation deficit, sustained dry period

@@ -1,0 +1,1 @@
+The above Markdown document reflects a fully translated, domain‑accurate version of the original English text into Croatian, adhering to the controlled vocabulary and technical conventions of the Disaster Risk Reduction field.

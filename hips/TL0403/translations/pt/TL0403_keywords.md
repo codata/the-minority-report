@@ -1,0 +1,1 @@
+loss of a person from a ship, material damage to a marine vessel, stranding or disabling of a marine vessel, involvement in a collision, damage to marine infrastructures, severe damage to the environment, loss or abandonment of a marine vessel, death or serious injury to a person, material damage to a vessel, loss of a marine vessel

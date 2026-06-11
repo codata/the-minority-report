@@ -1,0 +1,1 @@
+ensemble of particles, dust or sand, energetically lifted, great heights, strong turbulent wind, turbulent wind, dust storm, sandstorm, particles of dust, strong wind

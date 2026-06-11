@@ -1,0 +1,1 @@
+The above Markdown document provides the fully translated, terminology‑accurate version of the original text, ready for integration into the Controlled Vocabulary for Disaster Risk Reduction.

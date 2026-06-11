@@ -1,0 +1,1 @@
+adheres to the controlled vocabulary for Disaster Risk Reduction, uses precise geological and hydrological terminology in Croatian, and eliminates the errors identified in the initial draft.

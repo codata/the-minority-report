@@ -1,0 +1,1 @@
+point source, air pollution, stationary location, fixed facility, air pollutants, human-made origin, natural in origin, air release, identifiable source, fixed facility

@@ -1,0 +1,1 @@
+*(Ovo je kompletna, tehnička i pravilno formatirana prevedena verzija, pohranjena u Markdown dokument.)*

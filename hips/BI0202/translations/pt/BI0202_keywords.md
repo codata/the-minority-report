@@ -1,0 +1,1 @@
+Brucella species, bacterial disease, infected animals, direct contact, cattle infection, swine infection, goat infection, sheep infection, dog infection, human acquisition

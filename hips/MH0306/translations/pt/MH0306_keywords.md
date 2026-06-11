@@ -1,0 +1,1 @@
+low pressure area,atmospheric region,pressure difference,surrounding region,atmospheric dynamics,WMO definition,pressure gradient,cyclone formation,atmospheric system,level comparison

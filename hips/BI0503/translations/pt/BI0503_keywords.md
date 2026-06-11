@@ -1,0 +1,1 @@
+Viral plant diseases, Phytoplasma outbreaks, Viroid outbreaks, Plant disease outbreaks, Mycoplasma-like organisms, Viruses and plants, Phytoplasma etiology, Viroid transmission, Crop production impact, Natural habitats impact

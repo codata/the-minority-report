@@ -1,0 +1,46 @@
+> 
+> ### Definição  
+> Um *nevoeiro de poeira* (ou *nevoeiro de areia*) é uma suspensão no ar de partículas de poeira ou areia levantadas do solo antes da observação por uma tempestade de poeira ou tempestade de areia. A tempestade de poeira ou tempestade de areia pode ter ocorrido no local de observação, próximo a ele ou distante (OMM, 2025).  
+>   
+> ### Referência principal  
+> OMM, 2025. Nevoeiro de poeira. *Atlas Internacional de Nuvens*. Acesso em 16 de maio de 2025.  
+>   
+> ### Anotações  
+> **Descrição científica adicional**  
+> Embora a Organização Meteorológica Mundial (OMM) defina um episódio de poeira com as características acima como “nevoeiro de poeira”, a Sociedade Meteorológica Americana (AMS) descreve um fenômeno semelhante como “nevoeiro de areia”. Segundo a AMS, o nevoeiro de areia é a redução da visibilidade na camada limite atmosférica causada por partículas de solo suspensas no ar durante ventos fortes. O nevoeiro de areia é particularmente prevalente em regiões desérticas onde há pouca umidade e poucas plantas para segurar os grãos de areia na superfície. Depois da tempestade de areia, os grãos de areia maiores caem rapidamente, deixando um nevoeiro de areia de partículas de tamanho médio (1–100 µm, incluindo silte e areia fina) e partículas pequenas (coarse 2,5–10 µm, fine <2,5 µm) (AMS, 2024). O Centro Internacional de Conhecimento em Ciências e Tecnologia de Engenharia (IKCEST) também chamou o nevoeiro de poeira de “nuvem marrom atmosférica”. De acordo com as Especificações para Observação Meteorológica de Superfície da Administração Meteorológica da China, o nevoeiro de poeira é definido como: “uma grande quantidade de partículas de poeira seca que são extremamente sutis e fluem uniformemente dispersas no ar, tornando o ar não claro com visibilidade inferior a 10 km e trazendo cor amarela e vermelha às instalações de iluminação. Elas parecem ligeiramente azuis quando em condições de escuridão” (IKCEST, 2018).  
+>   
+> ### Métricas e limites numéricos  
+> De acordo com o Gabinete Meteorológico da China (2003), o nevoeiro de poeira (ou nevoeiro de areia) é identificado principalmente por limiares de visibilidade e concentrações de matéria particulada. É definido como redução da visibilidade para menos de 10 km devido a altas concentrações de matéria particulada no ar (Weiping et al., 2003). De acordo com a Imprensa Meteorológica da China (2014), o nevoeiro de poeira é uma visibilidade diária <10 km com umidade relativa <90 %. Esta definição pode ser dividida em leve (8–10 km), médio (5–8 km) e pesado (<5 km). Esses limiares fornecem um quadro claro para observar e classificar eventos de nevoeiro com base na intensidade (Liu et al., 2014). A concentração de matéria particulada (PM) é um fator significativo na formação de nevoeiro de poeira. Em regiões como Mongólia Interior e norte da China, dias de “ar poeirento” foram associados a concentrações de PM10 entre 50 e 200 µg m⁻³. Essas altas concentrações contribuem para nevoeiro persistente, especialmente em condições climáticas calmas quando a matéria particulada permanece suspensa na atmosfera inferior (Hoffmann, 2008).  
+>   
+> ### Fatores de risco  
+> O nevoeiro de poeira é causado por fatores naturais e humanos. Fatores naturais incluem ventos fortes, climas áridos e vegetação escassa, que permitem que partículas de poeira e areia se tornem aéreas. Atividades humanas como sobrepastoreio, desmatamento, agricultura insustentável e degradação do solo pioram o problema. A mudança climática intensifica esses eventos aumentando a seca, reduzindo a umidade do solo e aumentando a velocidade do vento. Urbanização e industrialização também adicionam matéria particulada por emissões e construção (Middleton et al., 2024).  
+>   
+> ### Impactos  
+> O nevoeiro de poeira contém matéria particulada fina, incluindo sulfatos, nitratos, carbono negro e poeira mineral. Partículas menores que 10 µm (PM10) podem ficar nos pulmões, enquanto as menores que 2,5 µm (PM2,5) podem entrar na corrente sanguínea, causando doenças cardiovasculares e respiratórias, câncer de pulmão e outros problemas de saúde. O nevoeiro também carrega patógenos como bactérias e fungos que podem espalhar doenças infecciosas (OMS, 2018; Agache et al., 2024). Mesmo níveis baixos de poluição de partículas têm efeitos prejudiciais à saúde, sem um limite seguro (OMS, 2018).  
+>   
+> ### Contexto multihazard  
+> A figura abaixo resume as interações comuns entre nevoeiro de areia e outros riscos. Esta informação deve ser usada com cautela e não deve ser confiada exclusivamente na gestão de risco de desastres, particularmente porque algumas interações podem não ter sido incluídas. Observe que eventos de risco que ocorrem juntos ou localmente no espaço ou tempo podem não necessariamente causar, amplificar ou estar relacionados entre si. Exemplos específicos de contexto multihazard podem ser encontrados nas seções “Fatores de risco” e “Impactos” acima.  
+>   
+> ### Gestão de risco  
+> Estratégias eficazes incluem sistemas de aviso precoce, manejo sustentável do solo e colaboração internacional. Avisos precoces de organizações como a OMM ajudam as comunidades a se prepararem para tempestades de poeira. Parcerias globais, como a Coalizão da ONU para Combater Tempestades de Areia e Poeira, fomentam esforços coordenados de mitigação (Middleton et al., 2024). O Sistema de Alerta e Avaliação de Tempestades de Areia e Poeira (SDS‑WAS), estabelecido pela Organização Meteorológica Mundial (OMM), aprimora a coordenação global em monitoramento, previsão e avaliação de tempestades de areia e poeira (OMM, sem data a). Operando por centros regionais em Barcelona, Pequim e Barbados, o SDS‑WAS apoia sistemas de aviso precoce e esforços de mitigação de risco em setores como saúde, aviação e agricultura (OMM, sem data b). Ele também contribui para o trabalho da Coalizão da ONU para Combater Tempestades de Areia e Poeira, melhorando o acesso a informações baseadas na ciência em tempo real para a tomada de decisões. Práticas de manejo sustentável do solo, incluindo reflorestamento e conservação do solo, abordam as causas raízes. Políticas de adaptação às mudanças climáticas, como redução de emissões e melhoria do manejo de água, ajudam a mitigar impactos de longo prazo. Medidas de saúde pública, como padrões de qualidade do ar mais rigorosos, equipamentos de proteção e campanhas de conscientização, reduzem riscos à saúde (Middleton et al., 2024; Salehi et al., 2019).  
+>   
+> ### Monitoramento  
+> A seção acima e a tabela abaixo oferecem uma visão geral do monitoramento do nevoeiro de areia. Esta informação pode ser usada para previsão dentro de um Sistema de Aviso Precoce nacional (EWS). Como as capacidades e processos de EWS diferem entre países, as informações mais recentes e específicas sobre EWS devem ser obtidas da agência/autoridade nacional ou regional responsável pela gestão de desastres.  
+>   
+> ### Referências  
+> 1. Agache, I., Akdis, C., Al‑Hemoud, A., et al. (2024). *Climate change and allergic diseases: A scoping review*. The Journal of Climate Change and Health.  
+> 2. American Meteorological Society (AMS), 2024. Nevoeiro de areia. *Glossary of Meteorology*. Acesso em 16 de maio de 2025.  
+> 3. Hoffmann, S. (2008). *Temporal variations in PM₁₀ and particle size distribution during Asian dust storms in Inner Mongolia*. Atmospheric Environment, 42(36), 8422–8431.  
+> 4. IKCEST (2018). *Definição de nevoeiro de poeira*. Acesso em 16 de maio de 2025.  
+> 5. Liu, T., Zhang, Y.H., Xu, Y.J., et al. (2014). *Effects of dust‑haze on mortality in Guangzhou, China*. Environmental Pollution, 187, 116–123.  
+> 6. Middleton, N. e Al‑Hemoud, A. (2024). *Sand and dust storms: Recent developments in impact mitigation*. Sustainability, 16(16), 7121.  
+> 7. Salehi, S., Ardalan, A., Garmaroudi, G., et al. (2019). *Conceptual definition and framework of climate change and dust storm adaptation*. Journal of Environmental Health Science and Engineering, 17, 797–810.  
+> 8. Weiping, Y., Shijian, Z. e Wei, W. (2003). *Especificações para observação meteorológica de superfície*. Beijing: China Meteorological Press.  
+> 9. World Health Organization (WHO), 2016. *Ambient air pollution: A global assessment of exposure and burden of disease*. Geneva: World Health Organization. Acesso em 16 de maio de 2025.  
+> 10. World Health Organization (WHO), 2018. *Ambient (outdoor) air pollution*. Acesso em 16 de maio de 2025.  
+> 11. World Health Organization (WHO), 2024. *Sand and dust storms*. Acesso em 24 de janeiro de 2025.  
+> 12. World Meteorological Organization (WMO), no date a. *SDS‑WAS: Sistema de Alerta e Avaliação de Tempestades de Areia e Poeira*. Acesso em 16 de maio de 2025.  
+> 13. World Meteorological Organization (WMO), no date b. *Sand and dust storms*. Acesso em 16 de maio de 2025.  
+> 14. World Meteorological Organization (WMO), no date c. *Nevoeiro de poeira*. *Atlas Internacional de Nuvens*. Acesso em 31 de janeiro de 2025.  
+
+> **End of Document**

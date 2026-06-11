@@ -1,0 +1,1 @@
+human-made objects, fragments and elements thereof, Earth orbit, Space debris mitigation guidelines,Release during normal operations,Accidental break-ups of spacecraft,Intentional destruction of on-orbit spacecraft,Post-mission break-ups,low Earth orbit,Space debris removal spacecraft,space debris monitoring,Space Debris Mitigation Standards,orbital debris

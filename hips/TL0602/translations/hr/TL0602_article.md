@@ -1,0 +1,76 @@
+### Definicija  
+Supstanca ili materijal koji emituje, ili je povezan s emisijom ionizirajućeg zračenja (bilo u obliku elektromagnetskih valova ili česticnog zračenja) naziva se **radioaktivna supstanca**. Ovisno o jačini izloženosti, radioaktivna supstanca može utjecati na zdravlje ljudi; stoga je podložna regulatornoj kontroli prema nacionalnim zakonima i nacionalnim regulatornim autoritetima. Radioaktivni materijal također može predstavljati opasnost za zdravlje životinja, druge oblike života i okoliš (IAEA, 2018).
+
+### Primarni izvor  
+IAEA, 2018. *IAEA Safety Glossary: Terminology used in Nuclear Safety and Radiation Protection*, 2018. International Atomic Energy Agency (IAEA). Dostupan 25. siječnja 2025.
+
+### Dodatni znanstveni opis  
+Značenje „radioaktivni“ je pokazivanje radioaktivnosti, emitiranje ili povezivanje s emisijom ionizirajućeg zračenja ili čestica (IAEA, 2022). Ovisno o jačini izloženosti, radioaktivna supstanca može postati opasnost za zdravlje ljudi; stoga je podložna regulatornoj kontroli prema nacionalnim zakonima i nacionalnim regulatornim autoritetima. Radioaktivni materijal također može predstavljati opasnost za zdravlje životinja, druge oblike života i okoliš (IAEA, 2018). Radioaktivni materijali (prirodni i umjetni) široko se koriste u industriji, medicini i istraživanjima, ali se mogu koristiti i zlonamjerno.
+
+- **Alfa‑zračenje**: sastoji se od teških, pozitivno naelektriranih čestica koje emituju atomi elemenata poput uranija i radija. Alfa‑zračenje ne može probiti kožu i može se zaustaviti tanjim papirnim listom. Međutim, alfa‑izlazni radioaktivni materijal koji ulazi u tijelo disanjem, jedenjem ili pijenjem, može utjecati na organe i tkiva i uzrokovati biološku štetu (IAEA, bez datuma a).  
+- **Beta‑zračenje**: sastoji se od elektrona, je više probijajući od alfa‑zračenja i može proći kroz površinu kože. U općenitom slučaju, list aluminija nekoliko milimetara debljine će zaustaviti beta‑zračenje (IAEA, bez datuma a).  
+- **X‑zračenje ili gamma‑zračenje**: elektromagnetsko zračenje slično svjetlu i radiovalovima. Ovisno o energiji, X‑ ili gamma‑zračenje može proći kroz ljudsko tijelo, ali ne kroz betonsku zid ili olovo (IAEA, bez datuma a).  
+- **Neutroni**: neelektrični čestice koje ne uzrokuju ionizaciju izravno, ali uzrokuju zračenje uslijed njihove interakcije s materijalom kroz koji prolaze. Neutroni su vrlo probijajući i mogu se zaustaviti samo gustim masama materijala poput betona, vode ili parafina.
+
+### Metrički i numerički ograničenja  
+Jačina izvora alfa‑ ili beta‑zračenja dobije se njegovom aktivnošću, mjereno u Becquerelima (Bq). 1 Bq odgovara 1 radioaktivnom raspadanju/sekundi. Ponekad se koristi i Curie (Ci), stariji, nesistemski jedinica temeljena na aktivnosti jednog grama radija‑226, još uvijek se koristi. 1 Ci je ekvivalentan 37 GBq. Prijetina zračenja bilo koje vrste mjere se u Gray (Gy), i 1 Gy je ekvivalentan 1 joulu energije upijene u 1 kg materijala. Utjecaj zračenja na zdravlje mjere se jedinicom „Sievert“ (Sv). Granice doze u većini zemalja postavljene su prema Međunarodnom sustavu radiološke zaštite (ICRP 103; 118), temeljenom na principima opravdanosti, optimizacije i ograničenja doze. Preporuke temeljene na literaturi, izdate od Međunarodne komisije za radiološku zaštitu, prevode se u sigurnosne standarde Međunarodne agencije za atomski energiju. Ove se zatim usvajaju ili izmjenjuju i usvajaju kao zakonodavstvo na nacionalnoj ili regionalnoj razini.
+
+Stupanj ozbiljnosti radijacijske nužde identificira se **Internetska nuklearna i radiološka događajska skala (INES)**, prikazana u grafikonu ispod (IAEA, bez datuma). INES je standardni alat za komunikaciju jačine nuklearnih i radioloških događaja konzistentnim načinom (IAEA, bez datuma).
+
+### Ključne UN konvencije / višestruki sporazum  
+Mnoge konvencije, sporazumi i sporazumi, koji su usvojeni od strane Država, čine dio međunarodnog nuklearno‑zakonskog okvira. Relevantni za nužne situacije uključuju:  
+
+- **Konvencija o ranom obavijestivanju o nuklearnom kvaru** (United Nations Treaty Collection, 1986)  
+- **Konvencija o pomoći u slučaju nuklearnog kvara ili radiološke nužde** (United Nations Treaty Collection, 1987)  
+
+Glavni međunarodni zakonski instrumenti usvojeni pod auspiciima IAEA su **Konvencija o fizičkoj zaštiti nuklearnog materijala (CPPNM)** i njegova 2005. dopuna. CPPNM stupio je na snagu 8. veljače 1987. Uspostavlja mjere fizičke zaštite koje moraju biti primijenjene na nuklearni materijal u međunarodnoj prijepravnoj, kao i mjere vezane uz kaznene kazne vezane uz nuklearni materijal. Konvencija također predviđa oblike međunarodne suradnje među strankama. Na 8. srpnja 2005. strane konvencije usvojile su konsenzusom amendman na CPPNM, koji...
+
+### Upravljački kontekst  
+Postoji niz tipova incidenata koji mogu uključivati radijacijske agense ili materijale, tj. opasnost od ionizirajućeg zračenja, uz dodatnu opasnost. Na primjer, prirodni rizik i katastrofe, poput zemljotresa, poplava ili požara, mogu ozbiljno izazvati sigurnost nuklearnih postrojenja, a neka nuklearna postrojenja koriste kemikalije koje bi bile vrlo štetne za zdravlje ljudi i okoliš ako bi se oslobodile u nekontroliranom obliku. Alati poput **IAEA External Events Notification System (EENS)** pomažu nacionalnim i međunarodnim odgovoriteljima upravljati takvim događajima na velikom mjestu. Nuklearni kvar Fukushima predstavlja primjer utjecaja ovih događaja na nuklearne instalacije (NCBI, 2014). Radiološke opasnosti mogu se pojaviti iz slučajnih curenja radioaktivnih kemikalija u laboratorijima, postrojenjima za preradu ili bolnicama (npr. curenje urijnog nitrata) ili nesreće tijekom zračenja. Nesreće u nuklearnim elektranama mogu dovesti do kontaminacije teritorija preko tisuća četvrtnih kilometara tijekom desetaka do stotina godina od alfa‑, beta‑ i gamma‑zračenja, zahtijevajući zone i evakuacije (IAEA, bez datuma).
+
+Izloženost zračenju može biti vanjska, unutarnja ili kombinirana, i može se dogoditi kroz različite puteve izloženosti (Nuklearni incidenti: informacije za javnost - GOV.UK). Izloženost zračenju može se klasificirati u tri situacije izloženosti: planirana izloženost (poslovne i medicinske izloženosti); postojeće izloženosti (prirodni izvori poput radon gasa ili preostale zračenja od prošlih nesreća ili industrijskih aktivnosti); i nužne izloženosti (radiološke i nuklearne nužde, nesreće u prijevozu, medicini, istraživanjima ili čak zlonamjerne radnje koje uključuju radioaktivni materijal) (IAEA, 2021). Vanjska izloženost može se dogoditi blizu neozbiljnog radioaktivnog izvora ili kada zrak radioaktivnog materijala (npr. prašina, tekućina ili aerosoli) otisne na kožu ili odjeću. Ovaj tip radioaktivnog materijala često se može ukloniti iz tijela jednostavnim pranje (IAEA, 2021). Unutarnja izloženost ionizirajućem zračenju događa se kada se radionuklearna čestica udahne, proguta ili na neki način uđe u krvotok (npr. injekcijom ili kroz rane). Unutarnja kontaminacija s većinom radionuklearnih čestica zahtijeva medicinsku intervenciju za uklanjanje čestica iz tijela (IAEA, 2021).
+
+### Utjecaji  
+Studije nakon preživjelih atomskih bomb događaja i radijacijske industrije pokazale su da izloženost zračenju povećava rizik od raka, a rizik se povećava s dozom (UNSCEAR 2021). Tipovi nužde s radioaktivnim materijalom raspršuju se od malog radijacijskog incidenta koji uključuje izgubljeni ili ukradeni industrijski radioaktivni izvor, prekomjernoj izloženosti osobe u poslovnom ili medicinskom okruženju, ili kao rezultat incidenta u prijevozu; do velikog nuklearnog incidenta na nuklearnom postrojenju poput nuklearne elektrane ili istraživačkog reaktora, ili detonacije vojne ili improvizirane nuklearnog uređaja (IAEA, 2021). Primjeri nuklearnih nužda uključuju detonacije nuklearnog bomba na japanskoj strani kraja Drugog svjetskog rata; Three Mile Island i Chernobyl, kao i Veliku iznadjanu zemlju Japan koji je generirao tsunami i doveli do nuklearne elektrane Fukushima Daiichi (IAEA, 2021).
+
+### Multi‑hazard kontekst  
+Slika ispod sažima zajedničke interakcije između radioaktivnih agenasa i materijala i drugih opasnosti. Ove informacije treba koristiti s oprezom i ne osloniti se samo na njih u upravljanju rizicima od katastrofa, osobito jer neke interakcije možda nisu uključene. Primjeri multi‑hazard konteksta mogu se pronaći u odjeljcima „Izvođenje“ i „Utjecaj“ iznad.
+
+### Dijagram multi‑hazard  
+*(Dijagram bi trebao biti priložen u finalnoj verziji dokumenta.)*
+
+### Upravljanje rizikom  
+Zaštitne mjere za sprječavanje ili smanjenje izloženosti zračenju u slučaju radijacijske nužde ovise o vrsti nužde i mogu uključivati: povlačenje; evakuaciju ili čak trajnu relocaciju iz pogođenog područja; ograničavanje konzumacije kontaminirane hrane ili vode; administriranje **tiroidu iodinom** (u slučaju otpuštanja radioaktivnog joda, pogledajte HIP na Iod/Iodide višak/inadekvatna unos CH0105); nadzor i mjerenje zračenja u pogođenim osobama i okolišu; osiguravanje radioaktivnih izvora i čišćenje pogođenih područja; kao i pružanje informacija, komunikacije rizika, psihološke podrške, medicinske njege i dugoročnog praćenja onima u potrebi (IAEA, 2021).  
+Ostale mjere upravljanja uključuju (IAEA, 2021):  
+- Sigurno mjesto, dizajn i gradnja nuklearnih elektrana, kao i kontrole i rezervne mjere za njihovu sigurno rad i upravljanje otpadom te izolaciju od geo‑okoline.  
+- Kontrole, oprema i obuka za zaštitu radnika koji rade s radioaktivnim izvorima.  
+- Sigurnosne mjere za kontrolu pristupa opremi za zračenje.  
+- Mjesto, lokalni i nacionalni višesektorni planovi za radijacijske nužde od niskog do značajnog otpuštanja radioaktivnosti.  
+- Efektivna komunikacija rizika bitna je za javnost i respondera (WHO, 2022).  
+- Razmatranje psihosocijalnog utjecaja radijacijskih incidenata, uključujući mentalno zdravlje.  
+
+Kod ponašanja o sigurnosti i zaštiti radioaktivnih izvora (Kod) uspostavljen je za postizanje i održavanje visokog stupnja sigurnosti i zaštite radioaktivnih izvora širom svijeta. Nakon terorističkih napada 11. rujna 2001. u SAD-u, odredbe u tekstu koji se odnosi na sigurnost radioaktivnih izvora unaprijedile su se. U rujnu 2003. kod je odobren i Međunarodna agencija za atomski energiju (IAEA) Generacijska konferencija pozvala Države da se politički obavezuju raditi prema principima u kodu i trenutno 119 država to učinilo (IAEA, bez datuma b). IAEA Preventive Measures for Nuclear and Other Radioactive Material out of Regulatory Control detaljno razlaže preporuke dane u IAEA Nuclear Security Series No. 15, *Nuclear Security Recommendations on Nuclear and Other Radioactive Material out of Regulatory Control*, u vezi s preventivnim mjerama (IAEA, 2019). To služi kao vodič dokument za članice koje žele ojačati svoj nuklearni sigurnosni režim u vezi s nuklearnim i drugim radioaktivnim materijalom izvan regulatorne kontrole i u poboljšanju sposobnosti. Postoji i niz različitih monitoring i rani sustava alarma za opasnosti koje mogu rezultirati otpuštanjem radioaktivnih agenasa ili materijala na lokalnoj, nacionalnoj i međunarodnoj razini. **Early Warnings for All** lansiran je 2022. od UN, s ciljem da zaštiti sve na Zemlji od opasnih vremenskih, vodnih ili klimatskih događaja kroz život spasavanja sustava alarma do kraja 2027. (Early Warnings for All, 2022).
+
+### Monitoring  
+Sekcija i tablica ispod pružaju pregled monitoringa radioaktivnih agenasa i materijala. Ove informacije se mogu koristiti za prognozu unutar nacionalnog sustava ranog upozorenja (EWS). Budući da kapaciteti i procesi EWS se razlikuju među državama, najnovije i specifične informacije o EWS moraju se dobiti od odgovarajuće nacionalne ili regionalne agencije/autoritet odgovorne za upravljanje katastrofama.  
+
+**Koja institucija proizvodi podatke o riziku od katastrofe?**  
+- IAEA  
+
+**Kako se opasnost promatra/nadgledava/prognozira?**  
+- **IAEA International Radiation Monitoring Information System** je web‑baziran alat za dijeljenje, agregiranje i vizualizaciju velikih količina podataka o monitoringu zračenja tijekom nuklearnog ili radiološkog incidenta ili nužde, da se pomogne u donošenju odluka. IRMIS je razvijen kako bi podržao provedbu Konvencije o ranom obavještavanju, olakšavajući izvješćivanje i vizualizaciju velikih količina podataka o monitoringu zračenja tijekom nuklearnog ili radiološkog incidenta ili nužde. Pored toga, IRMIS podržava i poboljšava neke od značajki Unified System for Information Exchange in Incidents and Emergencies (USIE) (IAEA, 2020). Uz to, **IAEA External Events Notification System (EENS)** je web‑bazirani alat koji pruža informacije u realnom vremenu o vanjskim događajima i opasnostima, poput zemljotresa, tsunami, izbijanja vulkana, poplava, rotirajućih vjetrova i požara, koji se dogodili ili se očekuju da se dogode, uključujući njihovu težinu i lokaciju, kao i procjene njihovog potencijalnog utjecaja na nuklearne instalacije i glavna naselja. Sustav prikuplja relevantne podatke i šalje ih izravno na IAEA Incident i Emergency Centre (IEC) i External Event Safety Section (EESS) za procjenu.
+
+### Reference  
+
+- International Atomic Energy Agency (IAEA), no date. *International Nuclear and Radiological Event Scale (INES)*. International Atomic Energy Agency (IAEA). Dostupan 25. siječnja 2025.  
+- International Atomic Energy Agency (IAEA), no date. *Nuclear security conventions*. Dostupan 25. siječnja 2025.  
+- International Atomic Energy Agency (IAEA), 2018. *IAEA Safety Glossary: Terminology used in Nuclear Safety and Radiation Protection*, 2018. International Atomic Energy Agency (IAEA). Dostupan 15. studenog 2019.  
+- International Atomic Energy Agency (IAEA), 2021. *Radiation in everyday life*. International Atomic Energy Agency (IAEA). Dostupan 25. siječnja 2025.  
+- International Atomic Energy Agency (IAEA), 2022. *IAEA Nuclear Safety and Security Glossary, 2022 (Interim) Edition*. Dostupan 25. siječnja 2025.  
+- International Atomic Energy Agency (IAEA), no date. *Convention on the Physical Protection of Nuclear Material and its Amendment*. Dostupan 25. siječnja 2025.  
+- International Atomic Energy Agency (IAEA), no date. *Accident reports*. Dostupan 25. siječnja 2025.  
+- National Center for Biotechnology Information (NCBI), 2014. *Lessons learned from the Fukushima nuclear accident for improving safety of U.S. nuclear plants*. Dostupan 25. siječnja 2025.  
+- United Nations Treaty Collection, 1986. *Convention on Early Notification of a Nuclear Accident*. Dostupan 25. siječnja 2025.  
+- United Nations Treaty Collection, 1987. *Convention on Assistance in the Case of a Nuclear Accident or Radiological Emergency*. Dostupan 25. siječnja 2025.  
+- United Nations Scientific Committee on the Effects of Atomic Radiation (UNSCEAR), 2021. *Sources, effects and risks of ionizing radiation: Biological mechanisms relevant for the inference of cancer risks*. Dostupan 25. siječnja 2025.  
+- World Health Organization (WHO), 2022. *Nuclear power plant emergency*. Dostupan 25. siječnja 2025.

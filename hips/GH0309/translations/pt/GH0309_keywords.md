@@ -1,0 +1,1 @@
+lowering of the ground, collapse of the ground, vertical movement, ground deformation, geological context, surface change, rate of subsidence, rate of uplift, ground collapse, converse movement

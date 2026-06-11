@@ -1,0 +1,1 @@
+seismic sea wave, submarine landslides, volcanic eruptions, tsunami warning system, inundation height, inundation line, run-up, tsunami amplitude, tsunami period, tsunami wavelength, surge action, tsunami drawdown

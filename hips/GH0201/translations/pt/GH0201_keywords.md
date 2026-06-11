@@ -1,0 +1,1 @@
+lava flows, lava domes, molten rock, low-viscosity molten rock, fluid outpouring, relatively viscous lava, lava dome, pile of lava, collapse hazard, low-viscosity, relatively viscous

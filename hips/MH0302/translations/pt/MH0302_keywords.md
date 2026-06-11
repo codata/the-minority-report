@@ -1,0 +1,1 @@
+fast-moving bands of thunderstorms, destructive winds, hurricanes, tornadoes, strong winds, straight line winds, thunderstorm bands, destructive winds, hurricane winds, tornado winds

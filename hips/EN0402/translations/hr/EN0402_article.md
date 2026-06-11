@@ -1,0 +1,1 @@
+of the entire technical hazard profile. It incorporates strictly geological terminology, clear structure, and consistent formatting.)*

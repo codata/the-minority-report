@@ -1,0 +1,1 @@
+symbiotic zooxanthellae algae, thermal stress, coral starvation, mass bleaching events, Degree Heating Weeks (DHWs), heat-stressed corals, marine heatwaves, sea surface temperatures (SSTs), bleaching onset, multi-species mortality, eutrophication of coastal waters

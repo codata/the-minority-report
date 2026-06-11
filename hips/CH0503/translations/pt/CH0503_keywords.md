@@ -1,0 +1,1 @@
+Polyfluoroalkyl substances (PFAS), perfluoroalkyl substance, perfluorooctanoic acid (PFOA), perfluorooctanesulfonic acid (PFOS), alkyl chain within a molecule, multiple fluorine atoms, perfluoroalkyl and polyfluoroalkyl substances, perfluoroalkyl substances, perfluorooctanoic acid, perfluorooctanesulfonic acid

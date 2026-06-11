@@ -1,0 +1,1 @@
+declared war, de facto armed conflict, between two or more States, state of war, use of armed force, unilateral use, International armed conflict, declared war and other armed conflict, state of war is not recognised, armed force use

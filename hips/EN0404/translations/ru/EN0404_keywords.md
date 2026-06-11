@@ -1,0 +1,1 @@
+symbiotic algae,coral polyp expels algae,thermal stress,Degree Heating Week (DHWs),sea surface temperatures (SSTs),mass bleaching events,coral starvation and death,marine heatwaves,Degree Heating Week product,Global Coral-Bleaching Database

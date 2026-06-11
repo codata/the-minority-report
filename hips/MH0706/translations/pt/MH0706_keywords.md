@@ -1,0 +1,1 @@
+Pack ice, drift ice, multiyear ice, seasonal ice, ice extent, sea ice cover, iceberg calving, polar ice, ice shelf, glacial ice

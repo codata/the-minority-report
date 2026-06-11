@@ -1,0 +1,1 @@
+final placement of waste,placement of waste in the land,controlled landfilling,uncontrolled landfilling,sanitary requirements,environmental protection,safety requirements,waste management,final placement,landfill operation

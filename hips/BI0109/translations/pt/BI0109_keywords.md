@@ -1,0 +1,1 @@
+viral haemorrhagic fevers, muscle and joint pain, sudden onset, fever, bleeding and shock, loss of blood, haemorrhaging from orifices, haemorrhaging from internal organs, life-threatening diseases, sudden onset of symptoms, muscle and joint pain

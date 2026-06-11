@@ -1,0 +1,1 @@
+surge of individuals, response to danger, loss of physical space, orderly movement of crowds, movement for self-protection, localised crowd density, physical compression of human bodies, physical compression of the human bodies, surge in a crowd, disruption of crowd movement

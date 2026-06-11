@@ -1,0 +1,1 @@
+atmospheric entry, high-speed impact, shockwave propagation, crater formation, ablation process, hypervelocity collision, ejecta blanket, impact velocity, kinetic energy release, atmospheric deceleration

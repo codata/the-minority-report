@@ -1,0 +1,1 @@
+high nitrogen content fertilizer, agricultural applications, industrial explosives, improvised explosive devices, ammonium nitrate explosions, shock/explosion trigger, storage facility fire, contamination of drinking water, fertilizer overuse

@@ -1,0 +1,1 @@
+aligns with OIE terminology, maintains consistency, and presents information in a clear, structured Markdown format suitable for the Controlled Vocabulary for Disaster Risk Reduction.

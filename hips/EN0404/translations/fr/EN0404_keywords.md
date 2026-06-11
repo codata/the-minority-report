@@ -1,0 +1,1 @@
+symbiotic algae, expulsion of zooxanthellae, thermal stress, coral bleaching, Degree Heating Week (DHW), mass bleaching events, heatwave severity, thermal tolerance, coral starvation and death, environmental stressors, Global Coral-Bleaching Database

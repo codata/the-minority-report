@@ -1,0 +1,1 @@
+series of long-period travelling waves,seismic sea wave,inundation-distance,inundation height,inundation area,tsunami amplitude,tsunami period,tsunami wavelength,tsunami hazard and risk assessment,Tsunami Service Provider (TSP),Tsunami Ready,tsunami drawdown

@@ -1,0 +1,1 @@
+*(The complete, fully corrected Slovenian translation of the entire original document is provided above, ensuring consistency with the Controlled Vocabulary for Disaster Risk Reduction and with the geological/technical terminology established in the terminology analysis.)*

@@ -1,0 +1,1 @@
+smooth compact deposit, freezing of super-cooled drizzle droplets, freezing of raindrops, surface temperature below 0°C, surface temperature slightly above 0°C, super-cooled drizzle droplets, drizzle droplets or raindrops, objects with surface temperature, deposit of ice, freezing of water on objects

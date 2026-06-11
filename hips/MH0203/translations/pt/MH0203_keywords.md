@@ -1,0 +1,1 @@
+suspension in the air,extremely small dry particles,invisible to the naked eye,sufficiently numerous,opalescent appearance,air suspension,dry particles,atmospheric suspension,particle density,visual obscurity

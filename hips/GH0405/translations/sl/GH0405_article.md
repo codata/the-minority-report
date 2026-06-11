@@ -1,0 +1,58 @@
+### Definition
+Obalna erozija je proces odstranjevanja materiala ob obali, ki povzroča izgubo zemljišča, ko se obala odpira proti kopnu. Obalna akrecija je produkt odlaganja materiala ob obali, ki povzroča pridobitev zemljišča, ko se obala napreduje proti morju (Gibb, 1978).
+
+### Primary reference(s)
+DCLG, 2010. Planning Policy Statement 25 Supplement: Development and Coastal Change. Department of Communities and Local Government. ISBN: 978 1 4098 2323 0  
+Gibb, J.G. 1978. Rates of coastal erosion and accretion in New Zealand. New Zealand Journal of Marine and Freshwater Research, 12 (4) 429‑456.  
+Mentaschi, L., M.I. Vousdoukas, J. Pekel, E. Voukouvalas and L. Feyen, 2018. Global long‑term observations of coastal erosion and accretion. Scientific Reports, 8:12876.  
+Schwartz, M., 2005. Encyclopaedia of Coastal Science, Springer.
+
+### Annotations
+
+#### Additional scientific description
+Obalna erozija in akrecija fizično izpostavljata obalnim območjem tveganju za škodo lastnine, izgubo življenj in okoljsko degradacijo (c.f. Schwartz, 2005). Obalna zona, ki se razteza med popolnoma kopenskimi in morskimi okolji, ki niso pod vplivom valov, je dinamično okolje, ki je pod stalno spreminjajočimi se energetski vhodmi. Kopenski procesi prenašajo sedimente na obalne okolja, kjer jih mobilizirajo in prenašajo obalne in širše morske procese. Hitrost obalne erozije odraža posledice okoljskih sprememb (človeške spremembe in podnebne spremembe) sovpadajoče naravni variabilnosti osnovnih procesov erozije (Mentaschi et al., 2018). Sprememba obale proti kopnu z erozijo se lahko giblje do več metrov letno, vendar je lahko ublažena z akrecijo sedimenta. Razumevanje vzorcev migracije sedimenta je temeljno za modeliranje obalne spremembe. Procesi obalne spremembe so raznoliki; tako morski kot kopenski procesi predstavljajo nevarnost za obalne okolje, vključno z infrastrukturo, poslovanjem, ljudmi in ekosistemskimi storitvami v obalni regiji (Wong et al., 2014; Mentaschi et al., 2018). Morski procesi so predvsem upravljani z valovi, razponom valov, valovnimi pojačanjami, obalnimi poplavami, valovi, tsunami, transportom dolžine obale in različnimi vrstami tokov. Zemljani procesi vključujejo padce, padne, snežanja in tokove, ki odražajo lokalne geološke in podtalne razmere. Odboji, odboji, obalne zidesi, barze, oblaganje z gradi, druge antropogeni strukture in prakse imajo velik vpliv na obalno spremembo. Na primer, Mentaschi et al. (2018) so ugotovili, da so nasipa med najbolj pomembnimi prispevalci k eroziji, ker zadržujejo sediment, ki bi sicer naravno napolnil obalno območje s sedimentom na plaži. Sediment in globalni dvig morske gladine vplivata na obalno erozijo in akrecijo. Nalaganje sedimenta lahko poslabša regionalno spuščanje, s čimer se poveča relativni dvig morske gladine. V obalnih območjih, kjer je bil poročan pospešen ledeni poraz, povzroči ledeni izostazijski povrat relativni dvig tal, kot je prikazano na porazli Ledne plošče Laurentide (Simon et al., 2016). Potresi v zona subdukcije lahko povzročijo trajne (letne) ali trajne preureditve obale in povezanih vzorcev erozije in akrecije. Dvig med potresom lahko povzroči dramatičen pomanjšanje globine in uporabnosti pristanišč. Spuščanje med potresom z velikostjo 8–9 na zoni subdukcije povzroči, da obalne skupnosti, avtoceste in druga infrastruktura zadeže pod morsko gladino, in se ustanovi nova obala v notranjosti na več deset do stotnih metrov (Plafker, 1965).
+
+#### Metrics and numeric limits
+Mentaschi et al. (2018) so uporabili satelitske podatke za oceno globalne morfodinamike obale po horizontalnih 30 m mrežah v obdobju 1984‑2015. Ugotovili so izgubo zemlje 28 000 km²; pridobljeno zemljo 14 000 km²; povečanje aktivne zone (počasi intertidalna zona skupaj z območji, ki so pogosto zalivani z sladko, brackish ali morsko vodo) 25 000 km² in izgubo aktivne zone 11 500 km². Regija z najvišjo spremembo na enoto površine v tem obdobju je bila Kaspijska morje z povprečno obalno erozijo 600 m, sledila je južna Azija, Pacifiška Azija, Južna Amerika, vzhodna Afrika in zahodna Avstralija z povprečno obalno erozijo 50 m.
+
+#### Key relevant UN convention / multilateral treaty
+United Nations Convention on the Law of the Sea (UNCLOS) provides a comprehensive framework for the regulation of all ocean space, including the protection and preservation of the marine environment, which encompasses coastal erosion and accretion processes.
+
+#### Drivers
+Extreme weather events associated with high intensity storm surges and flooding as well as tsunami and waves and currents which influence the extent and rate of erosion or accumulation of coastal landforms. Extreme rainfall events contribute to soil saturation and associated shear strength reduction associated with landsliding. Anthropogenic factors impact most significantly on sediment supply primarily through sediment retention.
+
+#### Impacts
+Coastal morphology, which is directly impacted by coastal erosion and accretion, heavily impacts the distribution and scale of other coastal hazards, including coastal flooding (MH0601), estuarine flooding (MH0602), storm surges (MH0703), storm tides (MH0704), tropical cyclones (MH0309), sub‑tropical cyclones (MH0308), tsunami (MH0705), loss of mangroves (EN0207), sand mining (EN0405), sea‑level rise and indirectly on hazards that have significant biological or health impacts, including harmful algal blooms (BI0603). Coasts have high population densities and significant investments in infrastructure and the built environment. Coastal development too frequently occurs with little consideration for coastal erosion or accretion. Despite the likelihood of climate change exacerbating them (IPCC, 2014), many densely populated regions of the world are being affected by these hazards. The impacts of coastal erosion and accretion hazards are often compounded by coastal hazards with mainly biological or health impacts. These include harmful algal blooms (HABs) which occur when colonies of algae grow out of control while producing toxic or harmful effects on people, fish, shellfish, marine mammals, and birds. They commonly occur in nutrient (mainly phosphorus, nitrogen, and carbon) rich, poorly circulated waters. People often get sick by eating shellfish containing toxins produced by the algae. Airborne HAB toxins may also cause breathing problems and, in some cases, trigger asthma attacks in susceptible individuals. NOAA 2024.
+
+#### Multi‑hazard context
+The figure below summarises common interactions between coastal erosion & accretion and other hazards. This information should be used with caution and not be solely relied upon in Disaster Risk Management, particularly as some interactions may not have been included. Note that hazardous events occurring together or locally in space or time may not necessarily cause, amplify, or be otherwise related to each other. Specific examples of multi‑hazard context can be found in the ‘Hazard drivers’ and ‘Impacts’ sections above.
+
+#### Multi‑hazard diagram
+
+#### Risk Management
+Coastal change poses a threat to coastal settlements, businesses and tourism. Coastal environments host a range of infrastructure, including the landing points for telecommunications, ecosystem services and in the order of 40% of the world’s population (Mentaschi et al., 2018). Coastal erosion becomes a hazard when society does not adapt to its effects on people, the built environment and infrastructure (UNDRR, 2017). Therefore, adaptation and adaptive pathways are a key policy in managing coastal hazards. In some parts of the world a range of engineered interventions have been successful in protecting specific infrastructure and populations, but the consequences of engineered intervention need to be fully appraised to avoid unplanned consequences. Engineered solutions vary widely, and include utilization of rock armour, breakwaters, groynes, seawalls, wharfs and harbours, offshore barriers, a range of styles of revetments, beach nourishment or replenishment, mangrove protection and dredging (Climate‑ADAPT, 2015). Coastal change can impact harbour water depth and damage infrastructure. In these zones, modelling to enable adaptive planning is one of the best forms of mitigation (Steven et al., 2020). It can also affect groundwater resources, such as saline intrusion (USGS, no date). Potential impacts are especially significant for atoll islands with shallow unsaturated zones. These islands are particularly susceptible to impacts on groundwater resources and populations (UNESCO, 2019). Examples of regional and national programmes for coastal erosion and coastal change include the first pan‑European shoreline‑migration map, prepared by the European Marine Observation and Data Network (EMODnet, 2020) and the UK national coastal erosion risk map, prepared by the UK Environment Agency.
+
+#### Monitoring
+The section and the table below offer an overview of monitoring coastal erosion & accretion. This information can be used for forecasting within a national early warning system (EWS). Since EWS capacities and processes differ across countries, the most current and specific information regarding EWS should be obtained from the appropriate national or regional agency/authority responsible for disaster management.
+
+Which institution(s) produce(s) Disaster Risk Data/Information?  
+National agencies (e.g. the European Marine Observation and Data Network; UK Environmental Agency in the UK).  
+How is the Hazard Observed/Monitored/Forecast?  
+Extensive mapping programmes
+
+#### References
+CIRIA, 1996. Beach management manual. CIRIA Report 153. ISBN 9780860174387.  
+Climate‑ADAPT, 2015. Groynes, Breakwaters and artificial reefs. Climate‑ADAPT. Accessed 28 April 2021.  
+EMODnet, 2020. First pan‑European shoreline‑migration map since 2004 European 2007‑17 data. European Marine Observation and Data Network (EMODnet). Accessed 30 September 2020.  
+IPCC, 2014. Climate Change 2014: Impacts, Adaptation, and Vulnerability – Working Group II Report. Available at: https://www.ipcc.ch/report/ar5/wg2/ [Accessed 13 Feb. 2025].  
+Mentaschi, L., M.I. Vousdoukas, J. Pekel, E. Voukouvalas and L. Feyen, 2018. Global long‑term observations of coastal erosion and accretion. Scientific Reports, 8:12876.  
+Plafker, G., 1965. Tectonic deformation associated with the 1964 Alaska earthquake. Science, 148:1675‑1687.  
+Schwartz, M., 2005. Encyclopaedia of Coastal Science, Dordrecht: Springer.  
+Simon, K.M., T.S. James, J.A. Henton and A.S. Dyke, 2016. A glacial isostatic adjustment model for the central and northern Laurentide Ice Sheet based on relative sea level and GPS measurements. Geophysical Journal International, 205:1618‑1636.  
+Steven, A.D.L., K. Appeaning Addo, G. Llewellyn, T.C. Vu, et al., 2020. Coastal Development: Resilience, Restoration and Infrastructure Requirements. World Resources Institute. Accessed 13 February 2025.  
+UNESCO, 2019. Small islands: meeting the challenges of freshwater resilience. Accessed 13 February 2025.  
+UNDRR, 2017. National Disaster Risk Assessment: Governance System, Methodologies, and Use of Results. United Nations Office for Disaster Risk Reduction (UNDRR). Accessed 13 February 2025.  
+USGS, no date. Saltwater intrusion. United States Geological Survey. Accessed 13 February 2025.  
+Wong, P.P., I.J. Losada, J.P. Gattuso, J. Hinkel et al., 2014. Coastal systems and low‑lying areas. In: Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Pp. 361‑409. Cambridge University Press. Accessed 13 February 2025.  
+
+Cite this [Copy citation]

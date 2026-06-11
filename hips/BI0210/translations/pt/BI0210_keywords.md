@@ -1,0 +1,1 @@
+Escherichia coli, E. coli, bacterium, gut, food poisoning, diarrhoea, haemolytic uraemic syndrome, strains, food poisoning, life-threatening complications

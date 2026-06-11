@@ -1,0 +1,1 @@
+cyclone of tropical origin, minimum surface pressure, less than 900 hPa, very violent winds, torrential rain, accompanied by thunderstorms, central region, 'eye' of the storm, small diameter, tens of kilometres

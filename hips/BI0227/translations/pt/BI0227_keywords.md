@@ -1,0 +1,1 @@
+Bordetella pertussis, respiratory tract, highly contagious disease, bacterium, infectious agent, disease of the respiratory tract, human infection, public health concern, respiratory disease, highly contagious

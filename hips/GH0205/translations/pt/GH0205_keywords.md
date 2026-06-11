@@ -1,0 +1,1 @@
+volcanic gas, gas-phase substance, volcanic-geothermal activity, volcanic aerosols, liquid or solid particles, gas-phase substance, volcanic activity, liquid particles, solid particles, emitted by activity

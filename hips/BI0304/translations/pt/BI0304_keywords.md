@@ -1,0 +1,1 @@
+Contagious bovine pleuropneumonia,infectious and contagious respiratory disease,cattle and water buffalo,Mycoplasma mycoides subsp. mycoides,Mmm,respiratory disease,livestock production,rapid spread,infectious disease,contagious disease

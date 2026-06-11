@@ -1,0 +1,45 @@
+### Definition
+Subsidence is a **snižavanje tla** or **kolaps tla**, caused by various factors, including **snižavanje podzemne vode**, **podzemno rudarenje** or **tuneliranje**, **konsolidacija**, **propasti**, or changes in **sadržaj vlage** in expansive soils. **Smršavanje‑širenje** is the term applied to the behaviour of expansive soils. These are a group of soils that exhibit **volumetrijska promjena** in response to changes in moisture content, such that they shrink in response to desiccation and swell by hydration, resulting in ground subsidence and ground heave respectively (BGS, 2020).
+
+### Primary reference(s)
+BGS, 2020. *Swelling and Shrinking Soils*. British Geological Survey (BGS). 27 September 2024.
+
+### Annotations
+#### Additional scientific description  
+The properties of expansive soils are attributable to the presence of **široći kalminari**. These clays range in their potential to absorb water according to their different structures. Expansive clay groups with increasing susceptibility to swelling include **kaolini** (e.g., kaolinit, halojazit), **ilite** (e.g., fenjita, glaukonit), **vermikulit** and **smektit** (e.g., montmorilovnica, talc). These minerals are a product of **opadanje**, commonly formed on land and then transported to the oceans. Their distribution reflects the underlying source rock geology, its **diageneti** and **povijest stresa** (e.g., **smektit → ilita pod stresom**) and the nature of the weathering; for example, wet climates are associated with kaolinit‑rich soils and dry environments are characterised by smektit clays (Environmental Characteristics of Clays and Clay Mineral Deposits, usgs.gov).
+
+### Metrics and numeric limits
+For the most expansive clays, expansions of **10 %** are common (Nelson and Miller, 1992). In the field, expansive clay soils are recognisable in the dry season by the deep cracks that form in roughly polygonal patterns, commonly known as **mudcracks**. The zone of seasonal moisture content fluctuation is usually the upper **1.5‑2 m**, but can be up to **5 m** of the subsurface (BGS, 2020). This creates cyclic **smršavanje‑širenje** behaviour in the upper part of the soil column, and cracks can extend to considerable depths. Soils can be tested using the **Indeks širenja**, which provides an indication of their swelling potential, which engineers can use to specify building design measures (ASTM D 4829).
+
+### Key relevant UN convention / multilateral treaty
+Sendai Framework for Disaster Risk Reduction 2015‑2030.
+
+### Drivers
+Drivers of **smršavanje‑širenje** subsidence include groundwater lowering, groundwater extraction, sub‑surface mining or tunnelling, consolidation, sinkholes, heatwaves and drought cycles, or changes in moisture content in expansive soils.
+
+### Impacts
+Beneath the depth of influence of atmospheric change in moisture content, the water demand of vegetation, particularly trees on clay soils dominates the moisture content changes that lead to the soil shrinking (subsidence) and swelling (heave). Where subsidence and heave occur beneath or close to properties and infrastructure this can result in damage (Florida Department of Environmental Protection, 2020). The most obvious way in which expansive soils can damage foundations is by uplift as they swell with moisture increases. Swelling soils lift up and crack lightly‑loaded, continuous strip footings, and frequently cause distress in floor slabs. Uplift is commonly differential, reflecting the different resisting forces across the structural foundations. **Smršavanje‑širenje** can influence structural stability during seismic events, resulting in infrastructure damage.
+
+### Multi‑hazard context
+The figure below summarises common interactions between **smršavanje‑širenje** subsidence and other hazards. This information should be used with caution and not be solely relied upon in Disaster Risk Management, particularly as some interactions may not have been included. Note that hazardous events occurring together or locally in space or time may not necessarily cause, amplify or be otherwise related to each other. Specific examples of multi‑hazard context can be found in the ‘Hazard drivers’ and ‘Impacts’ sections above.
+
+### Multi‑hazard diagram
+*(Diagram not provided in the source text)*
+
+### Risk Management
+The extensive distribution of these soils across the world has necessitated characterisation through index testing to inform remedial measures. At its simplest, the **indeksi plastičnosti** are used to define inorganic clays with inherent swelling capacity (e.g., BRE, 1993). Expansion of soils can also be measured in the laboratory directly, by immersing a remolded soil sample and measuring its volume change or using LiDAR techniques (Hobbs et al., 2014) and Earth Observation applications (Jones et al., 2023). Prevention strategies include the use of non‑expansive soils in construction or applying soil stabilisers to mitigate **smršavanje‑širenje** behaviour before construction begins. However, the best way to avoid damage from expansive soils is to extend building foundations beneath the zone of water content fluctuation as modified to reflect the presence of vegetation (Rogers et al., no date). Dramatic changes such as clearing of vegetation associated with building plots on expansive soils should be limited to prevent change in soil behaviour (e.g., Jones, 2012).
+
+### Monitoring
+The section and the table below offer an overview of monitoring river erosion & accretion. This information can be used for forecasting within a national early warning system (EWS). Since EWS capacities and processes differ across countries, the most current and specific information regarding EWS should be obtained from the appropriate national or regional agency/authority responsible for disaster management. Which institution(s) produce(s) Disaster Risk Data/Information? National Geological Surveys (e.g., British Geological Survey) often produce data regarding **smršavanje‑širenje** probability, occurrence and likelihood referring to bedrock and superficial geology, often the context of a changing climate. How is the Hazard Observed/Monitored/Forecast? **GNSS**, **InSAR**, ground penetrating radar and soil moisture sensors are all used to monitor soil conditions.
+
+### References
+ASTM, 2021. *ASTM D 4829‑21. Standard Test Method for Expansion Index of Soils*. Accessed 1st May 2025  
+Building Research Establishment (BRE), 1993. *Digest 240: Low‑rise buildings on shrinkable clay soils: Part 1*. Building Research Establishment (BRE). Accessed 15 October 2024.  
+Florida Department of Environmental Protection, 2020. *Problem Soils*. Accessed 15 October 2024.  
+Foley, N.K. 1999. Accessed 1st August, 2024.  
+Hobbs, P.R.N., L.D. Jones, M.P. Kirkham, P. Roberts, E.P. Haslam and D.A. Gunn, 2014. *A new apparatus for determining the shrinkage limit of clay soils*. Géotechnique, 64:195‑203. Accessed 1st August 2024.  
+Jones, Lee D.; Jefferson, Ian. 2012 *Expansive soils*. In: Burland, J., (ed.) ICE manual of geotechnical engineering. Volume 1, geotechnical engineering principles, problematic soils and site investigation. London, UK, ICE Publishing, 413‑441.  
+Jones, L.D., Bateson, L., Hulbert, A. and Cigna, F., 2023 *Modelling Potential Rates of Natural Subsidence using Geological and PSI Ground Motion Data: An Experiment in Europe and Great Britain*. Authorea Preprints. DOI: 10.22541/essoar.170355052.24628258/v1  
+Nelson, J.D. and D.J. Miller, 1992. *Expansive Soils: Problems and Practice in Foundation and Pavement Engineering*. Wiley.  
+Rogers, J.D., R. Olshansky and R.B. Rogers, no date. *Damage to Foundations from Expansive Soils*. Accessed 1st August 2024.  
+Cite this [Copy citation]

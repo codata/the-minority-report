@@ -1,0 +1,1 @@
+train operation, sudden event, chain of events, harmful consequences, derailment, collision, rolling stock, track infrastructure, operational failure, safety management, incident investigation

@@ -1,0 +1,1 @@
+acute haemorrhagic viral disease, small and large ruminants, camels, Phlebovirus genus, high mortality, mass abortions, newborns, abortive material, mosquito bites, influenza-like illness, haemorrhagic fever, encephalitis

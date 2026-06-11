@@ -1,0 +1,1 @@
+Mycobacterium tuberculosis, bacterial infectious disease, affects the lungs, national epidemics, multi-drug-resistant TB, MDR-TB, extensively drug-resistant TB, XDR-TB, public health crises, health security

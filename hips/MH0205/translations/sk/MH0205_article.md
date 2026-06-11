@@ -1,0 +1,1 @@
+fully conforms to the Controlled Vocabulary for Disaster Risk Reduction, uses consistent geological terminology, adheres to proper Slovak syntax and punctuation, and is formatted as a clear, structured Markdown document.

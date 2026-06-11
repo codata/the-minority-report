@@ -1,0 +1,39 @@
+### Definition
+Socijalni inženjering se odnosi na sve tehnike usmerene na ubedljavanje cilja da otkrije određene informacije ili izvrši specifične radnje iz neovlašćenih razloga (ECS, bez datuma).
+
+### Primary reference(s)
+ECS, bez datuma. Socijalni inženjering; *July Awareness Calendar*. European Cybersecurity Organisation (ECS) (pristup 3. april 2025)
+
+### Annotations
+#### Additional scientific description
+Socijalni inženjering je tehnika manipulacije koja koristi ljudsku psihologiju za dobivanje neovlašćenog pristupa informacijama ili sistemima. Fokusira se na ljudski faktor, često na najslabijoj tački u sajberbezbednosti, umesto na tehničke ranjivosti. Socijalni inženjering obuhvata širok spektar aktivnosti koje iskoristavaju ljudsku grešku ili ponašanje s ciljem sticanja pristupa informacijama ili uslugama. Koristi razne oblike manipulacije kako bi iznemio žrtve da naprave greške ili proslede osetljive ili tajne informacije. Termin *socijalni inženjering* ima istoriju koja precedira sajberbezbednost i ICT. Istorijski je povezan s kontrolom društava i tehnikama upravljanja korišćenim od strane vlasti za oblikovanje istih. Sa dolaskom digitalnih tehnologija, termin je počeo da se pomera, i do kraja 1990. godine postao je deo uobičajene leksike hakera, čime je njegova upotreba u domeni sajberbezbednosti učvrstila (Hatfield 2018). Digitalna prevara je značajno napredovala, doprinoseći novoj granici napada socijalnog inženjeringa. Ovi napadi predstavljaju ozbiljne pretnje digitalnim resursima, često rezultirajući finansijskim gubicima i povredama privatnosti. Mogu se sprovoditi putem različitih kanala, uključujući e‑mail, phishing veb‑sajtove, tekst poruke, glasne ili video pozive i društvene mreže (WEF, 2024). Tehnike socijalnog inženjeringa su raznovrsne i stalno se prilagođavaju. Socijalni inženjering se može posmatrati iz najmanje dve perspektive: žrtve koje ciljaju ili pristup koji koriste. U prvom slučaju, uobičajena tehnika je phishing. Phishing uključuje slanje lažnih komunikacija koje izgledaju kao da dolaze od pouzdanih izvora, s ciljem krađe osetljivih podataka poput pristupnih podataka ili finansijskih informacija. Obično phishing cilja široku publiku, koristeći broj pokušaja (npr. spam kampanje prema stotinama ili hiljadama ljudi) umesto kvaliteta (phishing napadi često nisu polirani i lako se primećuju). Spear‑phishing, s druge strane, predstavlja više ciljani oblik phishinga, fokusiran na određene pojedince ili organizacije. U tom slučaju poruka je prilagođena žrtvi ili žrtvama, što zahteva pripremu i proveru pozadina žrtava, otežavajući skaliranje broja, ali povećavajući efikasnost prema ciljanim pojedincima. Whaling je specifičan tip spear‑phishinga koji cilja visoko profilirane pojedince poput izvršnih direktora i vršnih menadžera. Iz perspektive pristupa, socijalni inženjering može uzeti mnoge oblike. Email poruke ili druge oblike online poruka (npr. direktne poruke na društvenim mrežama) su najčešći oblici. Vishing (voice phishing) i smishing (SMS phishing) koriste telefonske pozive i tekst poruke, respektivno, kako bi iznemili žrtve. Watering‑hole napadi kompromituju veb‑sajtove koje često posjećuju ciljana grupa, što dovodi do infekcije malverom. Homografski napadi iskorišćavaju sličnosti u setovima karaktera (npr. zamenom ‘o’ sa ‘0’ u URL-ovima) kako bi iznemili korisnike, a tipografsko squatting se oslanja na uobičajene greške u pisanju legitimnih veb‑sajtova kako bi privukao neopažene korisnike (npr. registracijom sajta kao što je www.indrr.org da bi se uhvatili saobraćaj korisnika koji pokušavaju da pristupe www.undrr.org, ali se greškom tipkuju). Veštačka inteligencija igra značajnu ulogu u unapređenju napada socijalnog inženjeringa, uključujući deepfakes. AI može analizirati ogromne količine podataka kako bi stvorila visokopersonalizovane i ubeđujuće poruke (za spear‑phishing napade), ali takođe može automatizovati isporuku i upravljanje velikim kampanjama phishinga. Kombinacija ovih karakteristika zabrinjava, jer bi mogla dovesti do novog pristupa sposoban da sprovodi velike kampanje spear‑phishinga (Hazell, 2023). Socijalni inženjering se široko koristi od strane zlonamernih aktera zbog svoje efikasnosti i niskih troškova. To je čest metod sajber napada, često služi kao inicijalni vektor za kompleksnije intruzije (na primer, ubedljavanje korisnika da klikne na link ili preuzme fajl koji sadrži malver).
+
+### Metrics and numeric limits
+Nije primenljivo.
+
+### Key relevant UN convention / multilateral treaty
+Trenutno nema specifičnog međunarodnog pravnog instrumenta koji se bavi isključivo socijalnim inženjeringom. Međutim, širi okviri poput Budimpeštanske konvencije o sajberzločinu pružaju smernice za borbu protiv sajberzločina, uključujući i one olakšane od strane tehnika socijalnog inženjeringa (Council of Europe, 2025).
+
+### Drivers
+Napadači često preferiraju socijalni inženjering jer zahteva manje i manje specijalizovane resurse od tehničkog hakovanja i može doneti visoke nagrade uz minimalan rizik. Hibridna radna kultura i povećana zavisnost od e‑maila i aplikacija za poruke su moderni omoguћavači, dok generativna AI može biti pokretač za verovatnije lažna saopštenja. Određene uslove olakšavaju napade socijalnog inženjeringa, uključujući nedostatak svesti o bezbednosti, široku upotrebu društvenih mreža i organizacione kulture koje ne prioritizuju sajberbezbednost. Ljudski faktori kao što su poverenje, autoritet i hitnost se iskorišćavaju kako bi se ubedili pojedinci i obezbedilo zaobilaženje bezbednosnih protokola.
+
+### Impacts
+Prevara, krađa i porast napada usmerenih na identitet paralelno raste sa kampanjama socijalnog inženjeringa, prvenstveno kroz phishing (ENISA, 2024).
+
+### Multi-hazard context
+Nije primenljivo.
+
+### Risk Management
+Zaštita od socijalnog inženjeringa zahteva implementaciju robusnih bezbednosnih politika i redovno obučavanje svesti. Iz tehničkog aspekta, korisno je implementirati rešenja kao što su filteri e‑mailova i AI‑osnovane detekcijske sisteme. Ključno je podsticati kulturu bezbednosti, svesnosti i skepticizma prema neovlašćenim komunikacijama (ITU, bez datuma). Uprkos svojoj ulozi u pojačavanju socijalnog inženjeringa, veštačka inteligencija takođe može postati alat bezbednosti, jer može igrati ključnu ulogu u identifikaciji i ublažavanju pretnji socijalnog inženjeringa. Mašinski učenje modeli mogu analizirati obrasce i anomalije u komunikaciji kako bi otkrili phishing pokušaje i prevaru (Odufisan et al., 2025).
+
+### Monitoring
+Nije primenljivo.
+
+### References
+- Council of Europe, 2025. *The Convention on Cybercrime (Budapest Convention, ETS No. 185) and its Protocols*. Pristup 3. april 2025.
+- European Union Agency for Cybersecurity (ENISA), 2024. *ENISA Threat Landscape 2024*. Pristup 3. april 2025.
+- Hatfield, J.M., 2018. *Social engineering in cybersecurity: The evolution of a concept*. *Computers & Security*, 73, pp.102–113. DOI: 10.1016/j.cose.2017.10.008 (pristup 3. april 2025).
+- Hazell, J., 2023. *Spear Phishing with Large Language Models*. *The Centre for the Governance of AI*. Pristup 3. april 2025.
+- International Telecommunication Union (ITU), bez datuma. *Combatting SPAM*. Pristup 13. januar 2025.
+- Odufisan, O.I., Abhulimen, O.V. i Ogunti, E.O., 2025. *Harnessing artificial intelligence and machine learning for fraud detection and prevention in Nigeria*. *Journal of Economic Criminology*, 7, 100127. DOI: 10.1016/j.jeconc.2025.100127 (pristup 3. april 2025).
+- World Economic Forum (WEF), 2024. *AI could empower and proliferate social engineering cyberattacks*. Pristup 3. april 2025.

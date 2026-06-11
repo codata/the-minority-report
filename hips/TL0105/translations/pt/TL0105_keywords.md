@@ -1,0 +1,1 @@
+products supplied, services supplied, technology supplied, breached or compromised, infiltrate and further compromise, own systems, supply chain attack, system infiltration, product compromise, supply chain vulnerability, system compromise

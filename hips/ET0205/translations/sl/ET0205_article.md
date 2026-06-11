@@ -1,0 +1,47 @@
+### Definition  
+Objekt blizu Zemlje (NEO) je asteroid ali kometa, katerega trajektorija ga privede na razdaljo do 1,3 astronomske enote od Sonca in zato do 0,3 astronomske enote, oziroma približno 45 milijonov kilometrov, od Zemljine orbite (UN OOSA, brez datuma).
+
+### Primary reference(s)  
+UN OOSA, brez datuma. UN‑SPIDER znanje Portal, Objekti blizu Zemlje. United Nations Office for Outer Space Affairs (UN OOSA). Dostopano 1. april 2025.
+
+### Annotations  
+
+#### Dodatna znanstvena opis  
+Navedena definicija vključuje predmete, ki bodo v prihodnosti prišli blizu Zemlje. Objekti blizu Zemlje (NEO) izhajajo iz predmetov, ki so bili izpostavljeni gavitacijskih perturbacij iz bližnjih planetov, kar jih premakne v orbite, ki jim omogočajo bližino Zemlji. IAWN je predlagal naslednjo definicijo NEO: asteroid, meteoroid ali kometa, ko preide blizu Zemlje, vstopi v Zemljino atmosfero, in/ali trči Zemljo, ali povzroči spremembe v interplanetarnih razmerah, ki vplivajo na magnetosfero, ionosfero in termosfero Zemlje. Kriteriji in meje, povezane s to definicijo, so naslednji (UN OOSA, brez datuma):
+
+- verjetnost, da bo NEO trčil Zemljo (1 % za opozorilo ali 10 % za načrtovanje priprav na zemeljski nivo).  
+- pričakovana velikost, ali vsaj njena svetlost v nočnem nebu (večja od 10 m ali vsaj absolutna magnitudo 28).  
+- koliko let v prihodnosti bo NEO trčil Zemljo (20 let).
+
+### Metrics and numeric limits  
+Nepoželjni asteroid blizu Zemlje je tisti, katerega orbita pride bližje 0,05 astronomske enote od Zemljine orbite in ima meritvijo absolutne magnitudo H < 22 mag (ocenjen premer večji od 140 m) (NASA, brez datuma).
+
+### Key relevant UN convention / multilateral treaty  
+Komitet za mirno uporabo zunanjega vesolja (COPUOS) je bil ustanovljen s strani Združenega kraljestva Splošne zasedbe VZdružene Narode leta 1959, da bi upravljal raziskovanje in uporabo vesolja v korist vseh ljudi: za mir, varnost in razvoj (COPUOS, brez datuma). Komitet je bil zadolžen z rezanjem mednarodnega sodelovanja v mirnih uporabi zunanjega vesolja, študij o vesolskih dejavnostih, ki bi jih lahko izvedlo Združeno Narodje, spodbujanju programov raziskav vesolja in študiju pravnih vprašanj, ki izhajajo iz raziskovanja zunanjega vesolja.
+
+### Drivers  
+Neveljavno
+
+### Impacts  
+Hazardji povezan s NEO-ji se predvsem skladajo z nevarnostjo vzpenjanja v zraku in trčenja meteoritov. Dominantni hazardi vzpenjanja v zraku so visoko energetični uštevni fronti z nadtlakom, hudimi hitrostmi vetra in toplotnim sevanjem. Varnostni nivoji se gibljejo od učinkov, primerljivih s konvencionalnimi eksplozijami, do višjih vrednosti, ki presegajo največje nuklearne eksplozije (brez radioaktivnosti). Majhna trčenja meteoritov, katerih nadrejeni telovi ne presegajo nekaj metrov, imajo le lokalno nevarnost, sestavljeno iz materiala, ki pade okoli terminalne hitrosti. Deka‑metrovih nadrejeni predmeti lahko povzročijo vzpenjanja v zraku, ki lahko priskočijo na tla in povzročijo nevarnost z uštevnimi valovi, nadtlakom in visokimi hitrostmi vetra. Poleg tega lahko večje mase priskočijo na tla z visokimi hitrostmi, kar povzroči lokalne eksplozije ob trčenju. Predmeti večji od 50 m v premeru (poleg učinkov vzpenjanja v zraku) imajo možnost, da povzročijo velike kraterje, popolnoma uničijo območje znotraj kratera (odvisno od velikosti trčnika) in predstavljajo dodatno nevarnost za okolico ob trčenju, primerljivo z eksplozijami na ravni tal različnih velikosti. Predmeti večje od 100 m v premeru predstavljajo nevarnost za območja desetkov do sto kilometrov in bi morali biti izpuščeni z koordiniranimi internacionimi vesoljsko‑orodnimi defleksijskimi poskusi.
+
+### Multi‑hazard context  
+Slika spodaj povzame pogoste interakcije med objekti blizu Zemlje in drugimi hazardi. Te informacije je treba uporabljati previdno in ne temeljiti na njih sami za upravljanje tveganj v katastrofah, zlasti ker nekatere interakcije morda niso vključene. Ne pozabite, da nevarne dogodke, ki se dogajajo skupaj ali lokalno v prostoru ali času, ne nujno povzročijo, pospešijo ali so drugače povezani drug z drugim. Specifične primere večhazardskega konteksta najdete v razdelkih »Druge nevarnosti« in »Vplivi« zgoraj.
+
+### Risk Management  
+Mednarodna omrežja opozoril na asteroid (IAWN) je bilo ustanovljeno leta 2013 kot rezultat priporočil Združenega naroda za mednarodna odzivanja na potencialno grožnjo trčenja NEO, da bi ustvarilo mednarodna skupina organizacij, ki se ukvarjajo z zaznavanjem, sledenjem in karakterizacijo NEO. IAWN je zadolžen z razvojem strategije z dobro opredeljenimi komunikacijskimi načrti in protokoli, da pomaga vlado analizirati posledice trčenja asteroidov in načrtovati ukrepe za znižanje tveganj. Trenutno IAWN vključuje člane iz Evrope, Azije, Južne in Severne Amerike (IAWN, 2020). Evropska vesoljska agencija (ESA) program varnosti v vesolju (S2P) sodeluje z mnogimi državami, organizacijami in posamezniki. Posebej ima močne povezave z Unikomp v nadzorni delegaciji (UNCOPUOS), ki omogoča svetovalno skupino za načrtovanje vesoljske misije (SMPAG) in IAWN. SMPAG in IAWN sta ustanovljena zaradi potrebe po mednarodnem odzivu na grožnjo trčenja NEO. SMPAG usklajuje tehnično znanje agencij, vključno z ESA, priporočajući specifične odzive na grožnjo asteroidov, vključno z osnovnimi raziskavami in razvojem, ukrepi za znižanje tveganj in misije odvrnitve. Odvisno od zmogljivosti in specifičnih tehnologij, ki jih ima vsaka agencija, se izberejo možnosti, ki omogočajo najboljšo uporabo virov vsake organizacije. Glavni projekti ESA so program varnosti v vesolju – predvsem aktivnosti, ki jih izvaja Kancelarija planetarne obrambne agencije, kot so opazovanje in sledenje objektom blizu Zemlje (NEO), določitev orbite in nadzor trčenja ter podpora mednarodnim ukrepom za zmanjšanje tveganja, kot so misije rekoneznicnih asteroidov, kot je Hera in načrtovana misija RAMSES na asteroida (99942). IAWN in SMPAG sta se dogovorila za naslednje kriterije in meje za odziv na trčenje: IAWN bo opozoril na napovedane trčnike, ki presegajo verjetnost 1 % za vse predmete, značilne, da so večji od 10 m, ali približno ekvivalentni absolutni magnitudi 28, če se lahko zberejo le podatki o svetlobi. Utemeljitev: verjetnost trčenja večja od 1 % je redka. Večina predmetov večjih od 10 m bo imela učinke (vzpenjanje in delci), ki bi lahko dosegli zemeljsko površino. IAWN je dolžan opozoriti populacije, če bi predmeti vplivali na tla. Nastavitev meje na 1 % je kompromis med prekomernim alarma in prepozno opozorilo. To je številka, ki jo lahko razumejo posamezniki in vlade. Tak opozorilo kaže, da IAWN deluje. Prav tako zagotavlja pretok komunikacij od IAWN do javnosti in Združenega naroda. Načrtovanje zemeljskih priprav se priporoča začeti, ko se opozori na morebitni trček, napovedan v 20 let; verjetnost trčenja je ocenjena na več kot 10 %; in predmet je značilno večji od 20 m, ali približno ekvivalentni absolutni magnitudi 27, če so na voljo le podatki o svetlobi. Utemeljitev: Zemeljska priprava in večja možnost trčenja prav tako vključujejo določitev poti tveganja z predmetov z verjetnostjo trčenja 10 % in trčnimi v 20 let. To omogoča populacijam in naseljeni središčem na Zemlji, da začnejo priprave na nujno varnost, če je to potrebno. Presenetljivi učinki dogodka v Čeljabinskiju 2013 z predmetom ~18 m so vodili k uvajanju spodnjega meja (20 m) v teh kriterijih. SMPAG naj bi začel načrtovanje misije, ko se opozori na morebitni trček, napovedan v 50 let; ko je verjetnost ocenjena na več kot 1 %; in če je predmet značilno večji od 50 m, ali približno ekvivalentni absolutni magnitudi 26, če so na voljo le podatki o svetlobi. Utemeljitev: več desetletno opozorilo, če je na voljo, omogoča dovolj časa za izvedbo misije za karakterizacijo. Če je 1 % verjetnost na 100‑m predmet, bo SMPAG takoj obvestljen po preveritvi natančne orbite. Del misije karakterizacije bo verjetno uporabil transponder z predmetom.
+
+### Monitoring  
+Sledenje tveganja NEO trčenj se predvsem z izvajanjem teleskopskih opazovanj različnih položajev objekta. Opazovalni podatki se izmenjujejo prek Majhnega planetnega centra (MPC). Zbrane položajni podatki se lahko uporabijo za določanje trenutne in napovedovanje prihodnjih orbit ter potencialnih verjetnosti trčenja. Ta dejavnost izvaja več agentij, kot je ESA (sistem Aegis), NASA (sistem Sentry) in SpaceDyS (sistem NEODyS). V primeru identificiranih trčnih groženj, Mednarodna omrežja opozoril na asteroid (IAWN) koordinira in agregira informacije ter obvešča odločevalce in javnost.
+
+### References  
+
+COPUOS, brez datuma. Komitet za mirno uporabo zunanjega vesolja. United Nations Office for Outer Space Affairs. Dostopano 1. april 2025.  
+
+ESA, 2018. Svetovalna skupina za načrtovanje vesoljske misije (SMPAG). Evropska vesoljska agencija (ESA). Dostopano 1. april 2025.  
+
+IAWN, 2020. “Funkcije IAWN” – Mednarodna omrežja opozoril na asteroid (IAWN). Dostopano 1. april 2025.  
+
+NASA, brez datuma. NEO Basics. National Aeronautics and Space Administration (NASA). Dostopano 1. april 2025.  
+
+UN OOSA, brez datuma. UN‑SPIDER znanje Portal, Objekti blizu Zemlje. United Nations Office for Outer Space Affairs (UN OOSA). Dostopano 1. april 2025.

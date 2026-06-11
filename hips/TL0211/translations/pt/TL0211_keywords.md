@@ -1,0 +1,1 @@
+extraordinary nature, abnormal network conditions, adverse network conditions, telecommunications failure, network conditions, extraordinary nature of service, abnormal network status, network failure, emergency telecommunications, network conditions

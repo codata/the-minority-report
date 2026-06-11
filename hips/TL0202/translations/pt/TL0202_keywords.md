@@ -1,0 +1,1 @@
+building high-rise cladding, fire hazard, combustible materials, cladding on a high-rise building, fire risk, catastrophic outcome, building materials, high-rise structure, fire safety, combustible cladding

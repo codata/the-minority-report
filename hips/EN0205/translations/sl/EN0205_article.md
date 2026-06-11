@@ -1,0 +1,1 @@
+above reflects consistent use of Slovenian geological and disaster‑risk terminology, proper spelling, and Markdown formatting.

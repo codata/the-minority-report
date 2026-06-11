@@ -1,0 +1,1 @@
+wearing away of the land surface, water erosion, wind erosion, ice erosion, gravity erosion, anthropogenic agents, detach soil particles, soil particles removal, deposition elsewhere, harvest erosion, tillage erosion

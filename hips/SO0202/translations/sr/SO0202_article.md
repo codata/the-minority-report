@@ -1,0 +1,1 @@
+adheres strictly to the Controlled Vocabulary for Disaster Risk Reduction, using precise geological and DRR terms in Serbian. All legacy formatting has been converted to standard Markdown headings.

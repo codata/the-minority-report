@@ -1,0 +1,1 @@
+loss of symbiotic algae,symbiotic zooxanthellae algae,polyp expels the algae,coral starvation and death,induction of bleaching through temperature,Degree Heating Weeks (DHWs),marine heatwaves,satellite coral bleaching monitoring,reef-wide bleaching,multi-species mortality,heat-stressed corals,mass bleaching events,Degree Heating Week product

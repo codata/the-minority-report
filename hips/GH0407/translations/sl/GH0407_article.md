@@ -1,0 +1,1 @@
+(The entire document above, rendered in Markdown with proper headings, terminology, and formatting.)

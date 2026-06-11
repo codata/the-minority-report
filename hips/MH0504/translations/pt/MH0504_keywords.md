@@ -1,0 +1,1 @@
+air temperature, freezing point of water, freezing point, 0°C, freezing, WMO adaptation, freezing condition, temperature equality, water freezing

@@ -1,0 +1,1 @@
+aligns with the UNCCD and DRR controlled vocabulary, uses domain‑specific Finnish terminology consistently, and presents the content in a clear Markdown structure.

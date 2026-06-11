@@ -1,0 +1,1 @@
+The above Markdown document represents the fully corrected, domain‑accurate translation of the original English technical hazard profile into Serbian, suitable for inclusion in a Controlled Vocabulary for Disaster Risk Reduction.

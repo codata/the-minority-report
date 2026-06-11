@@ -1,0 +1,1 @@
+Non-zoonotic infectious diseases, Animal and human health, Infectious animal diseases, Zoonotic diseases, Veterinary public health, Animal disease transmission, Cross-species pathogen sharing, WHO guidelines, FAO recommendations, OIE standards

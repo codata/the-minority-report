@@ -1,0 +1,1 @@
+Listeria monocytogenes, foodborne infection, invasive listeriosis, non-invasive listeriosis, zoonotic disease, ready-to-eat foods, soft cheeses, unpasteurised milk, septicemia, meningitis, pregnant women, immunocompromised individuals, food safety management system, Hazard Analysis Critical Control Points, low temperatures in refrigerators, transmission from animals to humans

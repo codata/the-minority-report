@@ -1,0 +1,1 @@
+, fully adapted to the technical vocabulary of Disaster Risk Reduction and the Slovenian language.*

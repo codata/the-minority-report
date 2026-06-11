@@ -1,0 +1,1 @@
+bleaching due to high seawater temperature,loss of symbiotic algae,coral polyp expels zooxanthellae,coral starvation and death,thermal tolerance,degree heating weeks (DHWs),marine heatwaves as primary driver,Degree Heating Week product,thermal stress from heatwaves,eutrophication of coastal waters

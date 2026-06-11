@@ -1,0 +1,1 @@
+internal interruption of communications, external interruption of communications, interruption of communications by party, difficulty transporting a message, failure of communications, message transport difficulty, radio communication failures, telecommunication failures, interruption of communications, communication transport failure

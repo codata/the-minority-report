@@ -1,0 +1,1 @@
+road traffic accident, road vehicle in motion, public road, private road, right of access, injured or killed person, road traffic crashes, fatalities on the roads, low- and middle-income countries, world's vehicles, road traffic crashes

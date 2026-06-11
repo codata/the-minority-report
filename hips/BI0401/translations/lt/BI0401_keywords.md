@@ -1,0 +1,1 @@
+insect pest infestation,incursion,infestation of a commodity,introduction of a pest,outbreak,biological control agent,official control,invasive insect species,integrated management practices,relative impact potential,fall armyworm,monocultures,post-harvest management,pest reporting system,early warning systems

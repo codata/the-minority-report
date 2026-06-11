@@ -1,0 +1,1 @@
+domestic effluent, blackwater, faecal sludge, greywater, industrial effluent, urban runoff, agricultural runoff, horticultural runoff, aquaculture runoff, pharmaceutical and personal care products, commercial establishments, hospital wastewater

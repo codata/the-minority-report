@@ -1,0 +1,1 @@
+sublimation of water vapour, objects colder than 0°C, covering of ice, water vapour, ice formation process, frost formation mechanism, temperature threshold zero degrees, sublimation process, ground frost formation, ice covering

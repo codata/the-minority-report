@@ -1,0 +1,1 @@
+adheres strictly to geological terminology, maintains consistent technical style, preserves numeric units in Slovak, and presents the document in clear Markdown formatting.

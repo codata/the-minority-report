@@ -1,0 +1,1 @@
+insect pest population,incursion,sudden significant increase,damage to plants,production fields,agroecosystem-based integrated management practices,infestation of a commodity,biological control agent,incidence of a pest,introduction of a pest,official control,outbreak,invasive insect species impact,Relative Impact Potential

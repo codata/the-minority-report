@@ -1,0 +1,1 @@
+The above Markdown text represents the finalized, domain‑accurate Slovak translation of the original hazard profile document, incorporating all required terminology, consistent formatting, and elimination of the previously identified inaccuracies.

@@ -1,0 +1,1 @@
+The above document constitutes the final, domain‑accurate translation of the original technical hazard profile into Croatian, fully formatted in Markdown with clear headings and consistent terminology.

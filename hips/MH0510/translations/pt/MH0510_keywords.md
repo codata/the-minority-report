@@ -1,0 +1,1 @@
+melting of snow,melting of ice,temperature rise,above 0°C,melting of ice,snow or ice,Earth’s surface melting,temperature rise above,melting due to temperature,ice melting

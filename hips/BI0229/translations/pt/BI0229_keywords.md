@@ -1,0 +1,1 @@
+highly infectious viral disease, irreversible paralysis, breathing muscles immobilized, young children affected, 1 in 200 paralysis, paralysis syndrome, respiratory muscle immobilization, viral disease, human poliovirus, mortality rate

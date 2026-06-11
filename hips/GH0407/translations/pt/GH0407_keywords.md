@@ -1,0 +1,1 @@
+material decay, natural decay, anthropogenic decay, magma bodies, natural processes, anthropogenic processes, ground gases generation, natural and anthropogenic, material decay processes

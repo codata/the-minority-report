@@ -1,0 +1,1 @@
+strong acids, strong bases, destruction of biological tissues, decomposition of biological molecules, donate protons, accept protons, dissociating into ions, chemical reactions, highly corrosive, catalyze the decomposition

@@ -1,0 +1,49 @@
+### Definition  
+Opasni otpad je otpad koji ima fizičke, hemijske ili biološke karakteristike tako da zahteva poseban način rukovanja i postupke odlaganja kako bi se izbegli negativni zdravstveni efekti, štetni uticaji na životnu sredinu ili oba. (Joint UNEP/OCHA Environment Unit, 2011)
+
+### Primary reference(s)  
+Joint UNEP/OCHA Environment Unit, 2011. *Disaster Waste Management Guidelines*. Annex X: Terminology. Joint United Nations Environment Programme (UNEP) / United Nations Office for the Coordination of Humanitarian Affairs (OCHA) Environment Unit. Accessed 3 February 2025.
+
+### Annotations  
+
+#### Additional scientific description  
+Opasni otpad je otpad koji, zbog svojih svojstava, predstavlja stvarnu ili potencijalnu opasnost po zdravlje ljudi, druge živuće organizme ili životnu sredinu (United Nations, 2016). Opasni otpad uglavnom potiče iz industrijskih aktivnosti, ali se može pojaviti i u domaćinstvima i komercijalnim okruženjima. U Sjedinjenim Državama, EPA klasifikuje opasni otpad u dve glavne kategorije: **izlistani otpad** i **otpad sa karakteristikama**. **Izlistani otpad** uključuje supstance koje je EPA identifikovao kao inherentno opasne zbog svog porekla ili sastava. **Otpad sa karakteristikama** odnosi se na čvrsti otpad koji pokazuje jednu ili više od četiri opasne karakteristike: **palivost**, **koroživost**, **reaktivnost** ili **toksičnost**. Ako se ne upravlja ispravno, ove osobine mogu predstavljati rizik po zdravlje ljudi i životnu sredinu (US EPA, 2024). Tipične karakteristike opasnog otpada uključuju **oksidaciju**, **eksplozivnost**, **zapaljivost**, **iritantnost**, **koroziju**, **toksičnost**, **ekotoksičnost**, **radijaciju**, **karcinogenost**, **infekcionost** i **mutageničnost**. Toksičan otpad može proizvesti toksik gasove ili tečnosti kada uđe u kontakt sa vodom, vazduhom ili kiselinom, što može dovesti do stvaranja dodatnih opasnih supstanci nakon odlaganja. Termin „opasni“ se odnosi na situaciju i okolnosti kao i na karakteristike materijala (Joint UNEP/OCHA Environment Unit, 2011). Različiti sastojci opasnog otpada, uključujući **teške metale**, **jake kiseline** i **baze**, opisuju se u informacijskom profilu hemijskih opasnosti (CH0100; CH300; CH500; CH0901).
+
+#### Metrics and numeric limits  
+UN, kroz različite organe poput UNSD, UNEP i UNECE, koristi više metrike za praćenje i upravljanje opasnim otpadom. Metrike uključuju kvantifikaciju količine proizvedenog opasnog otpada, proporciju tretiranog opasnog otpada i nacionalnu stopu reciklaže. Ključni indikatori ocjenjuju generaciju po težini (tone), po glavi, po kvadratnom kilometru, kao i po tipu, uključujući elektronski otpad. Tretman se prati po tipu tretmana (**reciklaža**, **izgaranje**, **deponiranje**), a proporcija tretiranog otpada izračunava se kao procenat ukupne generacije.
+
+#### Key relevant UN convention / multilateral treaty  
+**Konvencija Bazu o kontroli graničnih pomeranja opasnog otpada i njihove odlaganja (1989)**. U trenutku pisanja, bilo je 187 strana Konvenciji Bazu (UN Treaty Collection, 2019).
+
+#### International Conventions related to Harmonised System, ADR, International Maritime Dangerous Goods, ICAO, GHS codes  
+Uputstvo o stalnom zagađivanju organskih jedinjenja (POPs).
+
+#### Drivers  
+Opasni otpad može nastati iz raznih izvora, uključujući industrijske proizvodne postupke, laboratorije, bolnice i čak domaćinstva (npr. specijalni čistači, pesticidi ili elektronika) (Saleh et al., 2023). Rizik neodgovornog upravljanja otpadom pojačava se kada su prakse i propisi slabije ili kada upravljanje otpadom ima nisku političku prioritetnost, pa se propisi ne primenjuju ili primenjuju u nedovoljnoj meri. U takvim slučajevima, rizici se pojačavaju po aktora u lanci usluga koji traže smanjenje troškova i maksimalizaciju profita. To se može desiti čak i u zemljama sa visokim performansama u upravljanju otpadom i opsežnom zakonodavstvu (UNEP 2024).
+
+#### Impacts  
+Odlaganje i upravljanje otpadom su globalni problemi. Toksik otpad ima potencijal da zagađuje ekosisteme, naškodi divljim životinjama i narušava prirodna staništa (Saleh et al., 2023). Opasni otpad poseduje sposobnost da se infiltrira u podzemlje i zagađuje tlo i podzemne vode, a čišćenje zagađenog tla i vode može biti skupo i teško. Zagađenje vazduha može se desiti u zavisnosti od načina upravljanja opasnim otpadom. Ako određene kategorije opasnog otpada nisu adekvatno upravljane, mogu osloboditi toksični dim i fine čestice u atmosferu (Saleh et al., 2023). Opasni otpad takođe utiče na ljudsko zdravlje. Nedavna sistematska revizija naučne literature o povezanosti opasnog otpada i zdravlja pokazala je ograničen uzročni odnos između opasnog otpada i rakova jetre, mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog mokraćnog. ... (continued)
+
+#### Multi‑hazard context  
+Slika ispod sumira uobičajene interakcije između opasnog otpada i drugih opasnosti. Ove informacije treba koristiti pažljivo i ne oslanjati se isključivo na upravljanje rizicima u katastrofama, posebno jer neke interakcije možda nisu uključene. Napomena da se opasni događaji koji se dešavaju zajedno ili lokalno u prostoru ili vremenu ne moraju nužno uzrokovati, pojačavati ili biti na neki način povezani. Konkretni primeri multihazardnog konteksta mogu se naći u odeljcima „Pokretači rizika“ i „Uticaji“ iznad.
+
+#### Risk Management  
+Prema **Agendi 21**, Rio Deklaraciji o životnoj sredini i razvoju, usvojene od više od 178 vlada na Ujedinjenim nacionama Konferenciji o životnoj sredini i razvoju održivog (Rio de Janeiro, Brazil, 3‑14. jun 1992), prepoznato je da je efikasna kontrola generisanja, skladištenja, tretmana, reciklaže i ponovne upotrebe, transporta, oporavka i odlaganja opasnog otpada „od izuzetne važnosti za adekvatno zdravlje, zaštitu životne sredine i upravljanje prirodnim resursima, i održivi razvoj“ (United Nations, 1992: Chapter 20). Razvoj rani sistema upozorenja (ESW) za opasne hemikalije predstavlja ključni element u zaštiti javnog zdravlja i kvaliteta životne sredine. ESW ima cilj da proaktivno otkrije i proceni potencijalne rizike uzrokovane opasnim hemikalijama na evropskom nivou, služeći kao alat brzog reagovanja da omogući mjere ublažavanja i zaštite zajednica. U ovom naporu, identifikacija hemijskih opasnosti, otkrivanje rizika je inherentno povezan sa biološkim efektima koje ove hemikalije mogu izazvati. Stoga, da bi se precizno procenio hemijski rizik, uključivanje metoda sposobnih da identifikuju toksične efekte, poznate kao metodologije bazirane na efektima, postaje nezamenljivo (PARC, 2023).
+
+#### Monitoring  
+Ovaj odeljak i tabela ispod pružaju pregled nadzora opasnog otpada. Ove informacije mogu se koristiti za prognozu u okviru nacionalnog rani sistema upozorenja (ESW). Pošto kapacitete i procesi ESW variraju između zemalja, najnovije i specifične informacije o ESW treba da se dobiju od odgovarajuće nacionalne ili regionalne agencije/autoritet za upravljanje katastrofama. Koja institucija proizvodi podatke o rizicima? Akademska istraživanja, programi nadzora životne sredine, međunarodni zakoni i konvencije. Kako se opasnost posmatra/nadgleda/prognozuje? Nadzor na lokacijama zaliha toksik otpada, nadzor na susednim akviferima.
+
+---
+
+### References  
+1. European Commission, 2020. Proposal for a Council Decision on the submission, on behalf of the European Union, of proposals to amend Annex IV to the Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal with a view to the 15th meeting of the Conference of the Parties, and on the position of the European Union on proposals by other Parties to amend Annex IV and other annexes. Accessed 21 May 2025.  
+2. Fazzo, L., Minichilli, F., Santoro, M., Ceccaribni, A., Della Seta, M., Bianchi, F., Comba, P. and Martuzzi, M., 2017. Hazardous waste and health impact: a systematic review of the scientific literature. *Environmental Health*, 16(107). [online]. Accessed 25 May 2025.  
+3. Joint United Nations Environment Programme / United Nations Office for the Coordination of Humanitarian Affairs Environment Unit (UNEP/OCHA), 2011. *Disaster Waste Management Guidelines*. Annex X: Terminology. Joint United Nations Environment Programme (UNEP) / United Nations Office for the Coordination of Humanitarian Affairs (OCHA) Environment Unit. Accessed 25 May 2025.  
+4. Partnership for the Assessment of Risks from Chemicals, 2023. *Charting the course towards an early warning system for chemicals* (PARC). [online]. Accessed 21 May 2025.  
+5. Saleh, M.H., Hassan, I.A. and Aglan, F.R., 2024. Introductory Chapter: Foundations and Challenges in Hazardous Waste Management. In: *Advances and Challenges in Hazardous Waste Management*. London: IntechOpen. [online]. DOI: 10.5772/intechopen.1003971. Accessed 3 February 2025.  
+6. United Nations Treaty Collection, 2019. Environment. Chapter XXVII. Environment. Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal. Accessed 21 May 2025.  
+7. United Nations (UN), 2016. *Environmental Indicators – Waste*. [online]. Accessed 3 February 2025.  
+8. United Nations Sustainable Development, 1992. *United Nations Conference on Environment and Development, Rio de Janeiro, Brazil, Agenda 21*. Accessed 21 May 2025.  
+9. United Nations Environment Programme (UNEP), 2024. *Global Waste Management Outlook 2024*. [online]. Accessed 11 February 2025.  
+10. United Nations Statistics Division (UNSD), 2024. *Sustainable Development Goal Indicator metadata*. [online]. Accessed 3 February 2025.  
+11. United States Environmental Protection Agency (US EPA), 2024. *Learn the Basics of Hazardous Waste*. [online]. Accessed 3 February 2025.

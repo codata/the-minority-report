@@ -1,0 +1,1 @@
+particles of ice,hailstones,transparent hail,opaque hail,spheroidal form,conical form,irregular in form,5−50 mm in diameter,fall from a cloud,agglomerated in irregular lumps

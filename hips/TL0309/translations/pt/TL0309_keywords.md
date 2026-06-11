@@ -1,0 +1,1 @@
+Natural hazard triggered technological accident, hazard induced failure, technological accident sequence, natural hazard event, technological failure mode, system vulnerability assessment, risk mitigation strategies, disaster scenario analysis, technological risk management, hazard-technology interaction

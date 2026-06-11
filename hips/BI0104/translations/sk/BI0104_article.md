@@ -1,0 +1,84 @@
+### Definition
+Potravinovo prenosné choroby sú spôsobené kontamináciou potravín a vyskytujú sa na akejkoľvek úrovni reťazca potravinovej výroby, distribúcie a spotreby. Môžu vzniknúť vďaka viacerým formám okolovodnej kontaminácie vrátane znečistenia vody, pôdy alebo ovzduší, ako aj nebezpečnému skladovaniu a spracovaniu potravín. Potravinovo prenosné choroby zahŕňajú širokú škálu ochorení od príťaku po rakoviny (WHO, no date a).
+
+### Primary reference(s)
+WHO, no date a. Foodborne diseases. World Health Organization (WHO). Accessed 16 February 2025.
+
+### Annotations
+
+#### Additional scientific description
+Viaceré ochorenia spôsobené požitím potravín, ktoré sú kontaminované baktériami, vírusmi, parazitami alebo chemickými látkami, ako sú ťažké kovy, spôsobujú obrovské sociálno‑ekonomické dopady prostredníctvom zátěží na zdravotnícke systémy, straty produktivity a škody na turizme a obchode. Tieto ochorenia významne prispievajú k globálnemu zaťaženiu a mŕtvolosti (WHO, no date a). Kontaminácia potravín môže nastaviť na akejkoľvek úrovni reťazca potravinovej výroby, distribúcie a spotreby. Potravinovo prenosné choroby môžu vzniknúť vďaka viacerým formám okolovodnej kontaminácie, vrátane znečistenia vody, pôdy alebo ovzduší, ako aj nebezpečnému skladovaniu a spracovaniu (WHO, no date a). Potravinovo prenosné choroby zahŕňajú (ale nie sú obmedzené na) patogénne baktérie, vírusy, algy, protozoá, huby, parazity, priony, toxíny a ďalšie škodlivé metabolity mikrobiálneho pôvodu, ako aj chemikálie a rádioaktívne látky. Potravinové ochorenia sú zvyčajne infekčné alebo toxické a spôsobené baktériami, vírusmi, parazitami alebo chemickými látkami, ktoré vstupujú do tela cez kontaminované potraviny. Chemická kontaminácia môže viesť k akútnej otrave alebo dlhodobým ochoreniam, ako je rakovina (WHO, 2024). Mnoho potravinovo prenosných chorôb môže viesť k dlhodobému postihnutiu a úmrtiu. Niektoré príklady potravinových rizík sú uvedené nižšie.
+
+**Bakterie**  
+- **Salmonella, Campylobacter** a enterohémoragický **Escherichia coli** sú niektoré z najbežnejších potravinovo prenosných patogénov, ktoré ovplyvňujú milióny ľudí ročne, niekedy s ťažkými a fatálnymi následkami. Príznaky môžu zahŕňať horúčku, bol hlavy, nevoľnosť, zvracanie, brániciovú bolesť a príťak. Potraviny častejšie spojené s výskytom salmonelózy sú vajcia, drôbe a iné produkty od zveri. Prípadové udalosti spôsobené Campylobacter sú predovšetkým spôsobené syrovým mliekom, syrovými alebo podvaľenými drôbami a pitnou vodou. Enterohémoragický **E. coli** je často spojený s nepastrizovaným mliekom, podvaľeným mäsom a kontaminovanými čerstvými ovocnými a zeleninovými produktmi (WHO, 2024).
+
+**Listeria**  
+Infekcie *Listeria monocytogenes* môžu viesť k neplodnosti u tehotných žien alebo k úmrtiu novorodencov. Hoci výskyt ochorenia je relatívne nízky, vážne a niekedy fatálne následky *Listeria*, najmä u detí, detí a starších, ju robia jedným z najvážnejších potravinovo prenosných infekcií. *Listeria* sa nachádza v nepastrizovaných mliečnych výrobkoch a rôznych pripravených potravinách a môže rásť pri teplotách chladiaceho zariadenia (WHO, 2024).
+
+**Vibrio cholerae**  
+*Môže infikovať ľudí cez kontaminovanú vodu alebo potraviny. Príznaky môžu zahŕňať brániciovú bolesť, zvracanie a prchavý príťak, ktorý rýchlo vedie k vážnej dehydratácii a prípadnej úmrtiu. Syrová zelenina a rôzne druhy syrového alebo podvaľeného morského jedla sa podieľali na choleračných výskyte (WHO, 2024).*
+
+**Antimikrobiálne látky**  
+Antimikrobiálne látky, ako antibiotiká, sú nevyhnutné na liečbu infekcií spôsobených baktériami, vrátane potravinovo prenosných patogénov. Avšak ich nadmerné používanie a zneužívanie vo veterinárnej a ľudskej medicíne bolo spojené s vznikom a šírením antibiotickej rezistencie, čím sa liečba infekčných ochorení stáva neefektívnou u zvierat a ľudí (WHO, 2024).
+
+### Viruses
+Niektoré vírusy môžu byť prenášané po konzumácii potravín. **Norovírus** je bežným príčinou potravinovo prenosných infekcií, ktorý sa charakterizuje nevoľnosťou, explozívnym zvracaním, vodnatým príťakom a brániciovou bolesťou. **Hepatitída A** vírus môže tiež byť prenášaná po potravinách a môže spôsobiť dlhodobé ochorenie pečene a zvyčajne sa šíri cez syrové alebo podvaľené morské jedlo alebo kontaminované syrové ovocné produkty (WHO, 2024).
+
+### Parasites
+Niektoré parazity, ako rýžové trematózy, sa prenášajú len cez potraviny. Iné, napríklad tenčík (*Echinococcus* spp.) alebo *Taenia* spp., môžu infikovať ľudí cez potraviny alebo pri priamom kontakte so zvieratami. Iné parazity, ako *Ascaris*, *Cryptosporidium*, *Entamoeba histolytica* alebo *Giardia*, vstupujú do potravinového reťazca cez vodu alebo pôdu a môžu kontaminovať čerstvé ovocné a zeleninové produkty (WHO, 2024).
+
+### Priony
+Priony, infekčné agenty pozostávajúce z proteínu, sú jedinečné tým, že sú spojené so špecifickými formami neurodegeneratívnych ochorení. **Bovine spongiform encephalopathy (BSE)** alebo takzvaná „bovina šumovú encefalopatia“ je prionová choroba v kravách, spojená s variantnou **Creutzfeldt‑Jakobovou chorobou (vCJD)** u ľudí. Konzumácia mäsových produktov obsahujúcich špecifický rizikový materiál, ako je mozgová tkanivá, je najpravdepodobnejším prenosným spôsobilkom prionovej agenta do ľudí (WHO, 2024).
+
+### Chemikálie – hlavné znečisťovatelia
+**Prírodné toxíny** a **environmentálne znečisťovatelia**  
+- Prírodné toxíny zahŕňajú mykotoxíny, morské biotoxíny, cyanhydrické glikozydy a toxíny v jedovatých hubách. Hlavné potraviny ako kukuričná zrna alebo zrna obilniny môžu obsahovať vysoké hladiny mykotoxínov, ako aflatoxíny a ochratoxíny, ktoré sú produkované škodlivými hubami na zrnách. Dlhodobé vystavenie môže ovplyvniť imunitný systém a normálny vývoj, alebo spôsobiť rakovinu (WHO, 2024).  
+- **Persistent organic pollutants (POPs)** sú zlúčeniny, ktoré sa hromadia v prostredí a v ľudskom tele. Typickými príkladmi sú dioxíny a polychlorované biphenyly (PCB), ktoré sú nežiaducimi vedľajšími produktmi pri priemyselných procesoch a spaľovaní odpadu. Sú nájdené po celom svete v prostredí a hromadia sa v potravinovej reťazci zvierat. Dioxíny sú vysoko toxické a môžu spôsobiť reprodukčné a vývojové problémy, poškodenie imunitného systému, narušenie hormonálnych funkcií a rakovinu (WHO, 2024).  
+- **Těžké kovy** ako olovo, kadmium a rtuť spôsobujú neurologické a obličkové poškodenie. Kontaminácia týchto kovov v potravinách sa najčastejšie vyskytuje v dôsledku znečistenia vody a pôdy (WHO, 2024).  
+- Iné riziká v potravinách môžu zahŕňať rádioaktívne nukleotidy, ktoré sa môžu uvoľniť do prostredia z priemyselných a civilných alebo vojenských jadrových operácií, potravinové alergény, zvyšky liekov a ďalšie kontaminanti zapracované do potravín počas procesu (WHO, 2024).
+
+## Metrics and numeric limits
+Svetová zdravotnícka organizácia (WHO) uvádza, že ročne po celom svete nebezpečné potraviny spôsobujú 600 miliónov prípadov potravinovo prenosných chorôb a 420 000 úmrtí. 30 % úmrtí potravinovo prenosných chorôb sa vyskytuje u detí do 5 rokov. WHO odhadla, že 33 miliónov rokov zdravého života sa stratilo v dôsledku konzumácie nebezpečných potravín globálne ročne a že táto hodnota je pravdepodobne podhodnotená (WHO, 2021 a).
+
+## Key relevant UN convention / multilateral treaty
+The Joint Food and Agriculture Organization of the United Nations (FAO) and WHO Food Standards Program (Codex Alimentarius Commission) for the establishment of food safety standards, such as maximum levels for food additives (quantitative levels above which there is a risk for consumers’ health) (FAO & WHO, no date).
+
+The WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement) (WTO, no date).
+
+International Health Regulations (2005), 3rd ed. (WHO, 2016).
+
+## Drivers
+Prístup k dostatočným množstvám bezpečných a výživných potravín je kľúčový pre udržanie života a podporu dobrého zdravia. Nebezpečné potraviny obsahujúce škodlivé baktérie, vírusy, parazity alebo chemické látky spôsobujú viac ako 200 ochorení, od príťaku po rakoviny. Taktiež vytvára obratový cyklus ochorení a podvýživy, najmä ovplyvňujúce deti, mladé deti, starších a chorých. Dobrý spolupráca medzi vládam, potravinovými producentmi a spotrebitlami je potrebná na zabezpečenie potravinovej bezpečnosti a silnejších potravinových systémov (WHO, 2024).
+
+## Impacts
+Každý rok sa takmer 1 z 10 ľudí po celom svete nachádza chorý po konzumácii kontaminovaných potravín, čo vedie k viac ako 420 000 úmrtiam. Deti sú neprimerane ovplyvnené, s 125 000 úmrtami každý rok u ľudí do 5 rokov. Väčšina týchto prípadov je spôsobená ochoreniami spojenými s príťakom. Ďalšie vážne dôsledky potravinovo prenosných chorôb zahŕňajú poruchu obličiek a pečene, mozgové a nervové poruchy, reaktivnú artrózu a rakovinu (WHO, no date a).
+
+## Multi-hazard context
+Potravinovo prenosné choroby sú úzko prepojené s chudobou v krajinách s nízkym a stredným príjmom, ale sú rastúcim verejným zdravotným problémom po celom svete. Rastúci medzinárodný obchod a dlhšie, zložitejšie potravinové reťazce zvyšujú riziko kontaminácie potravín a prepravy infikovaných potravinových produktov cez národné hranice. Rastúce mestá, klimatická zmena, migrácia a rastúci medzinárodný cestovný ruch zvyšujú tieto problémy a vystavujú ľudí novým rizikám (WHO, no date a).
+
+## Risk Management
+WHO pracuje na pomoc členským štátom pri budovaní kapacity na prevenciu, detekciu a riadenie potravinovo prenosných rizík. Potravinovo prenosné choroby sú odrážané v niekoľkých cieľoch Všeobecného rozvoja Udržateľného rozvoja 3 a sú prioritnou oblasťou v rámci práce OSN (WHO, no date a). Činnosti zahŕňajú výskum a nezávislé vedecké hodnotenia potravinových rizík, programy zvyšovania povedomia o potravinovo prenosných ochoreniách a pomoc pri podpore potravinovej bezpečnosti prostredníctvom národných zdravotných programov (WHO, no date a). WHO si kladie za cieľ posilniť národné systémy kontroly potravín na zjednodušenie globálnej prevencie, detekcie a reakcie na verejné zdravotné hrozby spojené s nebezpečnými potravinami (WHO, 2025). Aby to dosiahlo, WHO podporuje členské štáty: podporou implementácie **Svetovej stratégie OSN pre potravinovú bezpečnosť (2022–2030)** na podporu členských štátov v posilňovaní národných systémov kontroly potravín a znižovaní búrného zaťaženia potravinovo prenosných ochorení prostredníctvom aktivít Aliancy OSN pre potravinovú bezpečnosť, ktorá sleduje prístup **Jednotné zdravie** (WHO, 2022); poskytovaním nezávislých vedeckých hodnotení mikrobiologických a chemických rizík, ktoré tvoria základ pre medzinárodné potravinové normy, odporúčania a pokyny, známe ako **Codex Alimentarius** (FAO & WHO, no date); posúvaním výkonnosti národných systémov kontroly potravín po celom reťazci potravín, identifikáciou priorít pre ďalší rozvoj a meraním a hodnotením pokroku v priebehu času prostredníctvom nástroja na hodnotenie systému kontroly potravín FAO/WHO (WHO a FAO, 2021); hodnotením bezpečnosti nových technológií používaných v potravinovej výrobe, ako je genetická modifikácia, kultivované potraviny a nanotechnológie; pomocou implementácie primeranej infraštruktúry na riadenie potravinových rizík a reakcie na potravinové bezpečnostné núdzové situácie prostredníctvom Medzinárodnej siete autorít pre potravinovú bezpečnosť (INFOSAN) (WHO, no date c); podporou bezpečného spracovania potravín prostredníctvom systémov preventívneho zdravia a vzdelávania prostredníctvom kampane WHO „Päť kľúčov bezpečnej potraviny“, výučba materiálov (WHO, 2006); propagovanie bezpečnosti potravín ako dôležitého prvku zdravotnej bezpečnosti a integrácia potravinovej bezpečnosti do národných politík a programov v súlade s Medzinárodnými zdravotnými nariadeniami (IHR 2005) (WHO, 2016); posilňovanie sledovania a reakcie na potravinovo prenosné choroby na celom svete, podporou krajín v zlepšení súčasných programov a reakcií (WHO, 2017) (vrátane využitia **sekvenovania celého génomu (WGS)** (WHO, 2023)) a ich integráciou do existujúcich národných systémov (IHR 2005); a monitorovaním pravidelného globálneho búrného zaťaženia potravinovo prenosných ochorení na národných, regionálnych a medzinárodných úrovniach (WHO, no date d), a podporou krajín na odhadnutie národného búrného zaťaženia potravinovo prenosných ochorení (WHO, 2021 a) alebo použitie existujúcich odhadov na informovanie politík potravinovej bezpečnosti. WHO pracuje úzko s Organizáciou pre potraviny a poľnohospodárstvo (FAO), Organizáciou pre životné prostredie (UNEP), a ďalšími medzinárodnými organizáciami, aby zabezpečila potravinovú bezpečnosť po celom reťazci potravín od výroby po spotrebu v súlade s **Jednotným zdravím (2022‒2026)**: spolupracovať pre zdravie ľudí, zvierat, rastlín a prostredia (FAO et al., 2022).
+
+## Monitoring
+WHO podporuje krajiny pri vykonávaní všetky‑hazardových strategických hodnotení rizika v kontextoch zdravotných núdzových situácií a katastrof, čo vedie k vývoju profilu rizika krajiny. S posilneným profilom rizika, vrátane sezónneho kalendára rizík, môžu krajiny predpovedať potenciálne núdzové situácie skôr, než sa vyskytujú, aby vyvolali rýchle upozornenia a informovali o skorých akciách (WHO, 2021 b).
+
+Svetová zdravotnícka organizácia (WHO) v súčasnosti vyvinula systém včasného varovania, upozornenia a reakcie (EWARS), ktorý bol navrhnutý na zlepšenie detekcie výskytov ochorení v núdzových situáciách, ako sú krajiny v konfliktnom režime alebo po prírode. Je to jednoduchý a nákladovo efektívny spôsob rýchleho nastavenia systému sledovania chorôb. EWARS je nasadený počas núdze ako doplnok k národnému systému sledovania chorôb. WHO spolupracuje s ministerstvami zdravotníctva a partnermi zdravotného sektora na školení lokálnych zdravotníkov, aby používali systém. Po skončení núdze by EWARS mal byť opäť integrován do národného systému (WHO, no date b).
+
+## References
+FAO and WHO, no date. Codex Alimentarius. Food and Agriculture Organization of the United Nations (FAO) and World Health Organization (WHO). Accessed 20 April 2025.  
+FAO, UNEP, WHO, and WOAH. 2022. One Health Joint Plan of Action (2022-2026). Working together for the health of humans, animals, plants and the environment. Rome. DOI: 10.4060/cc2289en (Food and Agriculture Organization of the United Nations (FAO), United Nations Environment Programme (UNEP), World Health Organization (WHO) and World Organisation for Animal Health (WOAH). Accessed 20 April 2025.  
+WHO, 2006. Five Keys to Safer Food Manual. World Health Organization (WHO). Accessed 20 April 2025.  
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Accessed 20 April 2025.  
+WHO, 2017. Strengthening surveillance of and response to foodborne diseases: a practical manual. Stage 1: using indicator‑ and event‑based surveillance to detect foodborne events. World Health Organization (WHO). Accessed 20 April 2025.  
+WHO, 2021 a. Estimating the burden of foodborne diseases: a practical handbook for countries. Geneva: World Health Organization; 2021. Licence: CC BY‑NC‑SA 3.0 IGO. Accessed 20 April 2025.  
+WHO, 2021 b. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all‑hazard health emergency risk assessment. World Health Organization (WHO). Accessed 10 April 2025.  
+WHO, 2022. WHO global strategy for food safety 2022–2030: towards stronger food safety systems and global cooperation: executive summary. World Health Organization. Licence: CC BY‑NC‑SA 3.0 IGO Accessed 20 April 2025.  
+WHO, 2023. WHO launches guide on whole genome sequencing use as a tool for foodborne disease surveillance and response. World Health Organization (WHO). Accessed 20 April 2025.  
+WHO, 2024. Food safety. World health Organization (WHO). Accessed 20 April 2025.  
+WHO, no date a. Foodborne diseases. World Health Organization (WHO). Accessed 20 April 2025.  
+WHO no date b. Early Warning, Alert and Response System (EWARS). World Health Organization (WHO). Accessed 20 April 2025.  
+WHO, no date c. FAO/WHO International Food Safety Authorities Network (INFOSAN). World Health Organization (WHO). Accessed 20 April 2025.  
+WHO, no date d. Estimating the burden of foodborne diseases. World Health Organization (WHO).  
+WHO and FAO, 2021. Food control system assessment tool: introductory booklet. Geneva: World Health Organization and Food and Agriculture Organization of the United Nations; 2021. Licence: CC BY‑NC‑SA 3.0 IGO. Accessed 20 April 2025.  
+WTO, no date. The WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement). World Trade Organization (WTO). Accessed 20 April 2025.  
+Cite this [Copy citation]

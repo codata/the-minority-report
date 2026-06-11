@@ -1,0 +1,1 @@
+precipitation of ice crystals,ice crystals,isolated ice crystals,agglomerated ice crystals,falling from a cloud,ice crystal formation,precipitation process,cloud-based precipitation,ice crystal agglomeration

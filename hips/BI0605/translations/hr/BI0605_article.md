@@ -1,0 +1,1 @@
+above follows Croatian medical terminology, maintains consistency with the Controlled Vocabulary for Disaster Risk Reduction, and presents the information in clear, structured Markdown.*

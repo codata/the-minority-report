@@ -1,0 +1,1 @@
+discarded plastic, organic material, synthetic material, material derived from polymers, polymers, resins, cellulose, industrial process waste, consumer generated waste, plastic material

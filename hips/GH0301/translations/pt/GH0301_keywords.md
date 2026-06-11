@@ -1,0 +1,1 @@
+fragment of rock, rock block, body of debris, earth fall, sliding detachment, toppling fall, falling body, vertical cliff, sub-vertical cliff, ballistic trajectories, talus slopes, debris slopes

@@ -1,0 +1,1 @@
+Widespread and heavy infestations, infestations of crops, infestations of natural vegetation, locusts, food security threats, livelihoods threats, natural habitats, crop damage, vegetation damage, food security, natural habitat threats

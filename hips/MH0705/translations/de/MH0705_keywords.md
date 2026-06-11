@@ -1,0 +1,1 @@
+series of long-period travelling waves, seismic sea wave, inundation or inundation-distance, inundation height, tsunami height, run-up, Tsunami amplitude, Tsunami period, Tsunami wavelength, tsunami drawdown, Tsunami warning system, Tsunami Service Provider, Tsunami Ready

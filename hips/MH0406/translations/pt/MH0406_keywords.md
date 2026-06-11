@@ -1,0 +1,1 @@
+snow storm, meteorological disturbance, heavy fall of snow, strong winds, fall of snow, meteorological disturbance, heavy snowfall, snow event, wind accompaniment, snow accumulation

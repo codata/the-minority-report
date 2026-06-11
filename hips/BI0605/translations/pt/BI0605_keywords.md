@@ -1,0 +1,1 @@
+snakebite envenoming,venomous snake,toxins in the bite,venomous snake bite,toxin causation,snakebite disease,venom pathology,toxin mechanism,envenoming process,life-threatening disease

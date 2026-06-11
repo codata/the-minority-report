@@ -1,0 +1,1 @@
+insect pest infestation, incursion, Infestation of a commodity, Introduction of a pest, Official control, Outbreak, Biological control agent, Incidence of a pest, agroecosystem-based integrated management practices, Relative Impact Potential, transboundary infestations, fall armyworm control

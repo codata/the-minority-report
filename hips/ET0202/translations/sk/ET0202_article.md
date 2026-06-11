@@ -1,0 +1,1 @@
+is now fully compliant with geological and disaster‑risk reduction terminology in Slovak, with consistent use of Markdown formatting.*

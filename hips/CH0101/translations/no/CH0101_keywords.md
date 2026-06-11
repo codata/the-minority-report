@@ -1,0 +1,1 @@
+toxic metalloid,arsenic sulfide,metal arsenates and arsenides,inorganic arsenic,chronic arsenic poisoning,arsenite As(III),arsenate As(V),organic arsenic compounds,groundwater contamination,arsenic speciation,arsenic removal systems,arsenic in drinking water,arsenic sources

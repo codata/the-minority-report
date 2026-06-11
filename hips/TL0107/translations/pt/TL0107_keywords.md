@@ -1,0 +1,1 @@
+persuading a target,revealing specific information,performing a specific action,illegitimate reasons,social engineering techniques,target manipulation,information gathering,action execution,illegitimate requests,social engineering attacks

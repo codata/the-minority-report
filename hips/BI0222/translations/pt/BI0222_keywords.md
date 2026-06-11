@@ -1,0 +1,1 @@
+bacterial form of meningitis,Neisseria meningitidis,infection of the thin lining,brain and spinal cord,large-scale epidemics,meningococcal meningitis,bacterium,WHO observation

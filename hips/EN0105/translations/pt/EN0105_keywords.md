@@ -1,0 +1,1 @@
+chemical elements, atmospheric pollutants, weak acid solution, acid rain formation, atmospheric combination, pollutants in the atmosphere, Earth’s surface deposition, weak acid, chemical reaction, acid rain history

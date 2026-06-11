@@ -1,0 +1,1 @@
+unplanned and uncontrolled vegetation fire, ignition source, suppression response, environmental values, economic values, social values, vegetation fire, negative affect, agency policy, wildfire management

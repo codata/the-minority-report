@@ -1,0 +1,1 @@
+precipitation of drops of water,extreme rainfall,secondary hazards,flooding,landslides,soil erosion,environmental degradation,sustaining life,ecosystems,water cycle

@@ -1,0 +1,1 @@
+series of long-period travelling waves,seismic sea wave,submarine landslides,coastal rock falls,inundation-distance,inundation height,inundation area,tsunami amplitude,tsunami period,tsunami wavelength,travel time,tsunami run-up,tsunami warning system

@@ -1,0 +1,1 @@
+human-made objects, fragments and elements thereof, Space debris mitigation guidelines, post-mission break-ups, accidental collisions, long-lived debris, low Earth orbit, orbital debris, debris release during normal operations, Space debris removal spacecraft, debris mitigation standards, high velocity, collision avoidance manoeuvre

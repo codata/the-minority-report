@@ -1,0 +1,1 @@
+persistent solid material, marine and coastal environment, Marine litter, deliberately discarded, discarded into the sea, brought indirectly to the sea, sewage or stormwater, material lost at sea, material lost in bad weather, manufactured or processed solid material, abandoned in the marine environment

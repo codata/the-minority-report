@@ -1,0 +1,1 @@
+varicella- zoster virus,herpes zoster,shingles,latent in neural ganglia,reactivated to cause herpes zoster,immunocompromised individuals,neural ganglia,herpes zoster reactivation,acute disease,varicella and herpes zoster

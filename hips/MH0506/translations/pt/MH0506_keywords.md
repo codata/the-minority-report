@@ -1,0 +1,1 @@
+Freezing rain, water droplets, below 0°C, supercooled rain, freezing on impact, impact with the ground, in-flight aircraft, supercooled water, phase change, ice storm

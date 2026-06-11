@@ -1,0 +1,1 @@
+retains all original sections, uses consistent, domain‑appropriate terminology, converts headings to Markdown syntax, and ensures that the text is clear, accurate, and ready for use in a controlled vocabulary for disaster risk reduction.)*

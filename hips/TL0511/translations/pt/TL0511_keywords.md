@@ -1,0 +1,1 @@
+processed rock or soil, separation of commodities, commodities of value, by-product of mining, rock or soil, separation of material, mining waste, processed material, mining by-product, material separation

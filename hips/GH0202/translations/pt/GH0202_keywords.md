@@ -1,0 +1,1 @@
+volcanic fragments (pyroclasts), fragmentation of fresh magma, fragmentation of old rocks, ejected into the atmosphere, explosive eruption, volcanic ash, finest particles of tephra, particles less than 2 mm, volcanic ballistic projectiles, collective term for volcanic fragments

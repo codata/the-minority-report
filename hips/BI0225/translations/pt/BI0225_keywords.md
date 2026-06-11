@@ -1,0 +1,1 @@
+Salmonella enterica serotype Paratyphi, systemic infection, febrile illness, gastrointestinal bleeding, altered mental status, intestinal perforation, severe cases, death, systemic infection with Salmonella, Paratyphoid fever

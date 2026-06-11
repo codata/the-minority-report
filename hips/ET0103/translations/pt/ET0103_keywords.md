@@ -1,0 +1,1 @@
+Solar flare, rapid release of energy, electromagnetic radiation, all wavelengths, increase in brightness, electromagnetic energy, speed of light, sunlit side of Earth, outer atmosphere, electromagnetic outburst

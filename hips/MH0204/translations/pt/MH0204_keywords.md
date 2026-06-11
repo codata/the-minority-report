@@ -1,0 +1,1 @@
+dust haze, sand haze, suspension in the air, dust or small sand particles, raised from the ground, dust storm, sandstorm, observation site, time of observation, dust storm or sandstorm

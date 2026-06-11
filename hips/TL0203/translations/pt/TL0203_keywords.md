@@ -1,0 +1,1 @@
+exceedance of ultimate limit state,load-carrying elements,structural stability,structural failure,load-carrying elements,ultimate limit state,structural stability of the building,load-carrying elements,structural stability,structural failure

@@ -1,0 +1,66 @@
+### Definition  
+Envenimacija z ušičnim ugrizom je potencialno življenjsko nevarna bolezen, ki jo povzročajo toksini v ugrizu otroške pitaja.  
+
+### Primary reference(s)  
+- WHO, 2013. **Snakebite Envenoming**. Svetovna organizacija zdravja (WHO). Dostop 15. februar 2025.  
+
+### Annotations  
+#### Additional scientific description  
+Ugriz pitaja je zanemarljiv javnozdravstveni problem v številnih tropskih in subtropskih državah. Večina primerov se pojavlja v Afriki, Aziji in Latinski Ameriki. V Aziji je do 2 milijona ljudi vsako leto envenimiranih s pitaji, medtem ko v Afriki velja ocena 435 000–580 000 ugrizov pitaja letno, ki potrebujejo zdravljenje. Envenimacija prizadene ženske, otroke in kmetov v slabo razvijeni podeželski skupnosti v državah z nizkimi in srednjimi dohodki. Največje bremeno se pojavi v državah, kjer so zdravstveni sistemi najšibkejši in medicinski viri pomanjkljivi (WHO, 2023).  
+
+Pitaji, ki izpuščajo otroške toksine, lahko povzročijo akutne zdravstvene nujne primere z intenzivno paralizo, ki lahko prepreči dihanje, hemoragične motnje, ki lahko vodijo do smrtnega krvavljenja, nepopravno ledvično odpoved in hud lokalni nastanek tkiv, ki lahko povzroči trajno invalidnost in amputacijo končnic. Otroci lahko doživijo hujše učinke in jih izkusijo hitreje kot odrasli zaradi svoje manjše telesne mase (WHO, 2023).  
+
+V nasprotju z mnogimi drugimi resnimi zdravstvenimi stanji obstaja zelo učinkovito zdravljenje. Večina smrti in resnih posledic ugrizov pitaja je povsem preprečljiva z razširjenim dostopom do varnih in učinkovitih antivenomov. Visokokakovostni antivenomi pitaja so najpomembnejše zdravljenje za preprečevanje ali obrnitev večine otroških učinkov ugrizov pitaja (WHO, 2023).  
+
+Pitaji, ki izpuščajo otroške toksine, lahko povzročijo paralizo, ki lahko prepreči dihanje, hemoragične motnje, ki lahko vodijo do smrtnega krvavljenja, nepopravno ledvično odpoved in nastanek tkiva, ki lahko povzroči trajno invalidnost in amputacijo (WHO, 2023).  
+
+Kmetijski delavci in otroci so najbolj prizadeti. Otroci pogosto doživijo hujše učinke kot odrasli zaradi svoje manjše telesne mase (WHO, 2023).  
+
+### Metrics and numeric limits  
+Leta 2023 je Svetovna organizacija zdravja (WHO) poročila, da je po ocenah 5,4 milijona ljudi po vsem svetu vsako leto ugriznuto z pitajo, s 1,8–2,7 milijonom primerov envenimacije in približno 81 410–137 880 umrlih vsako leto zaradi ugrizov pitaja, ter približno trikrat več amputacij in drugih trajnih invalidnosti, ki jih povzročajo ugrizi pitaja (WHO, 2023).  
+
+### Key relevant UN convention / multilateral treaty  
+Ni identificiran.  
+
+### Drivers  
+Envenimacija z ugrizom pitaja je potencialno življenjsko nevarna bolezen, ki jo povzročajo toksini v ugrizu otroške pitaja. Envenimacija se lahko povzroči tudi, ko se otroški toksini izpustijo v oči določenih vrst pitajev, ki lahko izpuščajo otroške toksine kot obrambni ukrep (WHO, brez datuma).  
+
+Nezadostne pretekle napore za nadzor envenimacije z ugrizom pitaja so privedle do fragmentiranih, netočnih epidemioloških podatkov. Mnogi žrtve ne obiskujejo zdravstvenih centrov ali bolnišnic in namesto tega zanesljivo na tradicionalna zdravljenja. Vendar podatki kažejo, da 4,5–5,4 milijona ljudi vsako leto ugrizne pitajo. Od tega 1,8–2,7 milijona razvije klinično bolezen in 81 000–138 000 umre zaradi zapletov (WHO, brez datuma).  
+
+Visoko tveganja skupine vključujejo podeželske kmetijske delavce, pastirje, ribolovce, lovce, delajoče otroke, ljudi, ki živijo v slabopostreženih domovih in tiste, ki imajo omejen dostop do izobrazbe in zdravstvene oskrbe. Morbidnost in smrtnost se pojavljata najpogosteje med mladimi, pri tem pa se otroke sčasoma štejejo z višjo stopnjo smrtne usmerjenosti. Poleg tega ženske doživljajo povečane ovire pri dostopu do zdravstvene oskrbe v nekaterih kulturah in noseče ženske so izjemno ranljivi (WHO, brez datuma).  
+
+Nadaljevanje krize, ki omejuje dostop do varne in učinkovite antivenoma v številnih regijah, zlasti v sub-saharski Afriki, je eden izmed dejavnikov, ki prispevajo k predispoziciji za iskanje pomoči preko tradicionalne medicine (WHO, brez datuma).  
+
+### Impacts  
+Pitaji, ki izpuščajo otroške toksine, lahko povzročijo akutne zdravstvene nujne primere z intenzivno paralizo, ki lahko prepreči dihanje, hemoragične motnje, ki lahko vodijo do smrtnega krvavljenja, nepopravno ledvično odpoved in hud lokalni nastanek tkiv, ki lahko povzroči trajno invalidnost in amputacijo končnic. Otroci lahko doživijo hujše učinke in jih izkusijo hitreje kot odrasli zaradi svoje manjše telesne mase (WHO, 2023).  
+
+### Multi-hazard context  
+Envenimacija prizadene ženske, otroke in kmete v slabo razvijeni podeželski skupnosti v državah z nizkimi in srednjimi dohodki. Največje bremeno se pojavi v državah, kjer so zdravstveni sistemi najšibkejši in medicinski viri pomanjkljivi (WHO, 2023). Povečana incidence envenimacije z ugrizom pitaja je lahko povezana z naslednjimi naravnimi nesrečami (poplave, potresi, vulkanska dejavnost, tyfon, urjanice in cikloni, padavnice, potopi), rudarsko-forestno industrijo (rudnikarstvo, lesna industrija) in rabo zemljišča (kmetijska dejavnost, kot so ržarjenje, kanapa, palmin, kopra, gumi, čaj, kava, bananje in druge kmetijske dejavnosti, ki vključujejo ročno delo) (WHO, 2023).  
+
+### Risk Management  
+V nasprotju z mnogimi drugimi resnimi zdravstvenimi stanji obstaja zelo učinkovito zdravljenje za envenimacijo. Večina smrti in resnih posledic ugrizov pitaja je povsem preprečljiva z razširjenim dostopom do varnih in učinkovite antivenoma. Visokokakovostni antivenomi pitaja so edino učinkovito zdravljenje za preprečevanje ali obrnitev večine otroških učinkov ugrizov pitaja (WHO, 2019).  
+
+Izpostavljeni izzivi pri proizvodnji antivenoma vključujejo pripravo pravilnih imunogenov (otroški toksini). V tej točki je število držav, ki lahko proizvedejo otroške toksine kakovostne za proizvodnjo antivenoma, zelo majhno, medtem ko se mnogi proizvajalci zanašajo na običajne komercialne vire. Ti viri morda ne odražajo ustrezno geografskih razlik, ki se pojavljajo pri otroških toksini nekaterih razširjenih vrst. Poleg tega pomanjkanje regulatorne sposobnosti za nadzor antivenoma v državah z velikimi težavami ugrizov pitaja povzroča nedosegljivost pri ocenjevanju kakovosti in ustreznosti antivenoma (WHO, 2023).  
+
+Kombinacija dejavnikov je privedla do trenutne krize. Slabi podatki o številu in vrsti ugrizov pitaja so povzročili težave pri ocenjevanju potreb, slabi distribucijski ukrepi pa so dodatno prispevali k zmanjšanju ali ustavitvi proizvodnje antivenoma ali zvišanju cen antivenoma. Šibka regulacija in trženje neustreznih ali slabokakovostnih antivenoma so prav tako pripomogli k izgubi zaupanja nekaterih zdravnikov, zdravstvenih managerjev in pacientov v razpoložljivih antivenoma, kar je še dodatno izpodvrglo povpraševanje (WHO, 2023).  
+
+Antivenomi pitaja (imunoglobulini antivenoma) so edina specifična terapija za envenimacijo z ugrizi pitaja. Antivenomi lahko preprečijo ali obrnejo večino učinkov envenimacije z ugrizom pitaja in imajo ključni pomen pri zmanjševanju smrtnosti in morbidnosti. Ti pripravki so vključeni v seznam nujnih zdravil WHO in bi morali biti del katerega koli paketa osrednje zdravstvene oskrbe, kjer se pojavljajo ugrizi pitaja. Trenutno je nujno zagotoviti varne, učinkovite in dostopne antivenome, zlasti ljudem v razvijajočih se državah, ter izboljšati regulatorni nadzor nad proizvodnjo, uvozom in prodajo antivenoma (WHO, 2018). WHO je sprejel ukrepe za ozaveščanje zdravstvenih oblasti in politikov o tej zadevi. V decembru 2015 je bila sprožena programska ocena možne varnosti in učinkovitosti trenutnih antivenomov, namenjenih uporabi v sub-saharski Afriki, ki je bila izvedena s strani WHO. Rezultati teh podrobnih tehničnih in laboratorijskih ocenjevanj bodo zdravstvenim agencijam zagotovili informirano usmeritev o tem, kateri antivenomi najbolj ustrezajo njihovim potrebam. Po zahtevi večjih držav članic ODS je WHO uradno vključil envenimacijo z ugrizom pitaja kot najvišjo prioriteto zanemarljivega tropskega bolezni leta 2017 (WHO, 2023). Regionalni angažma WHO je že potekal in so na voljo različni viri. Navodila za preprečevanje in klinično upravljanje ugrizov pitaja v Afriki so bila razvijena s strani Regionalnega urada za Afrika z vključenimi tehničnimi strokovnjaki. Namenjena so zdravstvenim delavcem, da izboljšajo medicinsko oskrbo za žrtve ugrizov pitaja. Navodila obravnavajo pitaje, otroške toksine in ugrize pitaja ter njihove posledice z poudarkom na medicinski pomembnih pitajih, torej tistih, ki povzročajo resno envenimacijo. Zbirka vsebuje več kot sto fotografij pitajev, kliničnih znakov envenimacije in posledic. Navodila vključujejo tudi različne priložbe, zlasti geografsko razporeditev afriških otroških pitajev, njihove klasifikacije, habitatov in klinične toksikologije (WHO, 2010).  
+
+Glede na visoko stopnjo smrtnosti z ugrizi pitaja je še posebej visoka v jugovzhodni Aziji. Razumna uporaba antivenoma lahko bistveno zmanjša smrtnost in morbidnost zaradi ugrizov pitaja. Ta navodila predstavljajo posodobljeno različico Regionalnih navodil za upravljanje ugrizov pitaja, ki je bila izdana s strani regionalnega urada WHO v jugovzhodni Aziji leta 2011 in posodobljena leta 2016. Navodila si prizadevajo spodbujati razumno upravljanje primerov ugrizov pitaja v različnih zdravstvenih ustanovah, kjer so usposobljeni zdravstveni delavci in kakovosten antivenom pitaja (WHO, 2013).  
+Skupina za delo z envenimacijo pitaja, ustanovljena v istem letu, je bila zadolžena za obveščanje o razvoju strateškega zemljevida WHO za pitaje. Ta strategija se osredotoča na 50 % zmanjšanje smrtnosti in invalidnosti, ki jih povzroča envenimacija z ugrizom pitaja do leta 2030. Ta cilj se bo dosegnil prek štirih ključnih ciljev: oskrbovanje in vključevanje skupnosti; zagotavljanje varnega, učinkovitega zdravljenja; krepitev zdravstvenih sistemov; ter povečanje partnerstev, koordinacije in virov (WHO, 2023).  
+
+### Monitoring  
+Neodprti primeri ugrizov pitaja in smrtnosti so pogosti; primeri iz Nepala, Indije in Šrilanke: V Nepalu, kjer 90 % prebivalstva živi v podeželskih območjih, je ministrstvo zdravja poročilo 480 ugrizov pitaja z 22 smrtmi v letu 2000, medtem ko je študija na skupnostni ravni za en region (vzhodni Nepal) zajela 4 078 ugrizov in 396 smrtmi (Sharma et al., 2004). Velika študija na ravni skupnosti o smrti z ugrizom pitaja v Indiji je dala neposredno oceno 45 900 (99 % CI: 40 900–50 900) smrti v letu 2005, kar je več kot 30‑krat več kot uradna številka indijskega vlade (Mohapatra et al., 2011). Posodobljene ocene na podlagi verbalnih avtopisov in drugih podatkov zdaj kažejo, da je med letoma 2000–2019 izginilo do 1,2 milijona indijcev zaradi envenimacije z ugrizom pitaja (povprečje 58 000/letno) (Suraweera et al., 2020). Primerjava smrti, zabeleženih v bolnišnici v enem okrožju Šrilanke, z podatki iz pisarne registrarja generala o smrti, je pokazala, da 62,5 % smrti zaradi envenimacije z ugrizom pitaja ni bilo poročeno v bolnišničnih podatkih (Fox et al., 2006).  
+
+### References  
+- Fox, S., Rathuwithana, A.C., Kasturiratne, A., Lalloo, D.G., de Silva, H.J., 2006. *Underestimation of snakebite mortality by hospital statistics in the Monaragala District of Sri Lanka*, *Transactions of The Royal Society of Tropical Medicine and Hygiene*, 100(7), 693–695. DOI: 10.1016/j.trstmh.2005.09.003. Dostop 24. maj 2025.  
+- Mohapatra, B., Warrell, D.A., Suraweera, W., Bhatia, P., Dhingra, N., Jotkar, R.M., Rodriguez, P.S., Mishra, K., Whitaker, R., Jha, P., 2011. *Million Death Study Collaborators. Snakebite mortality in India: a nationally representative mortality survey.* *PLOS Neglected Tropical Diseases*, 5(4):e1018. DOI: 10.1371/journal.pntd.0001018. PMID: 21532748; PMCID: PMC3075236. Dostop 24. maj 2025.  
+- Sharma, S.K., Chappuis, F., Jha, N., Bovier, P.A., Loutan, L., Koirala, S., 2004. *Impact of snake bites and determinants of fatal outcomes in southeastern Nepal.* *American Journal of Tropical Medicine and Hygiene*, 71(2):234–238. PMID: 15306717. Dostop 24. maj 2025.  
+- Suraweera, W., Warrell, D., Whitaker, R., Menon, G., Rodrigues, R., Fu, S.H., Begum, R., Sati, P., Piyasena, K., Bhatia, M., Brown, P., Jha, P., 2020. *Trends in snakebite deaths in India from 2000 to 2019 in a nationally representative mortality study.* *eLife*, 7, e54076. DOI: 10.7554/eLife.54076. PMID: 32633232; PMCID: PMC7340498. Dostop 24. maj 2025.  
+- WHO, 2010. *Guidelines for the Prevention and Clinical Management of Snakebite in Africa.* World Health Organization (WHO), Regional Office for South‑East Asia. Dostop 15. februar 2025.  
+- WHO, 2013. *WHO Guidelines for the Production, Control and Regulation of Snake Antivenom Immunoglobulins.* Dostop 15. februar 2025.  
+- WHO, 2016. *Guidelines for the Management of Snakebites, 2nd Edn.* World Health Organization (WHO), Regional Office for South‑East Asia. Dostop 15. februar 2025.  
+- WHO, 2023. *Snakebite Envenoming.* World Health Organization (WHO). Dostop 28. maj 2025.  
+- WHO, brez datuma. *Snakebite Envenoming.* World Health Organization (WHO). Dostop 28. maj 2025.  
+
+---

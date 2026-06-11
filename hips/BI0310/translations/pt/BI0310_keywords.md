@@ -1,0 +1,1 @@
+Peste des petits ruminants virus,genus Morbillivirus,Family Paramyxoviridae,Order Mononegavirales,goats and sheep,causative agent,highly contagious,devastating disease,Peste des petits ruminants

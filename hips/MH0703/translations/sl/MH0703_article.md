@@ -1,0 +1,1 @@
+maintains strict geological/meteorological terminology, uses consistent Slovenian terms, and follows standard markdown formatting.

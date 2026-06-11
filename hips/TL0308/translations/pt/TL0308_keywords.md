@@ -1,0 +1,1 @@
+oil and gas extraction, servicing activities, equipment and materials, identifying and controlling hazards, preventing injuries and deaths, oil and gas equipment, hazardous materials handling, pressure release mechanisms, flammable substances, explosion risk, confined space entry, equipment failure

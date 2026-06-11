@@ -1,0 +1,1 @@
+Space debris mitigation guidelines,orbital debris,low Earth orbit (LEO),anthropogenic origin,post-mission break-ups,intentional destruction,accidental break-ups,Space debris removal spacecraft,Space debris mitigation standards,geostationary-satellite orbit (GSO),high-velocity impacts

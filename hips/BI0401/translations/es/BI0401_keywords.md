@@ -1,0 +1,1 @@
+insect pest infestation, incursion, sudden significant increase, Infestation of a commodity, Introduction of a pest, Outbreak, agroecosystem-based integrated management, Biological control agent, Incidence of a pest, Official control, Invasive insect pest, Relative Impact Potential metric, transboundary infestations, food security risks, insect pest infestations in forests

@@ -1,0 +1,1 @@
+seismic sea wave, submarine landslides, inundation height, travel time, Inundation-distance, Inundation area, Tsunami amplitude, Tsunami period, Tsunami wavelength, tsunami-induced currents, tsunami drawdown, evacuation zone mapping, blue lines, seismic sea wave

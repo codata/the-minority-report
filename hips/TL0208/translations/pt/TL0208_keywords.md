@@ -1,0 +1,1 @@
+accidental melting, core of a nuclear reactor, core collapse, core meltdown, nuclear reactor, core damage, core breach, fuel element failure, reactor accident, core physics

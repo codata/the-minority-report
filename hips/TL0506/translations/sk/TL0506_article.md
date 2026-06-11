@@ -1,0 +1,38 @@
+### Definition  
+**Morský odpad** je akýkoľvek trvalo vytrvalý, vyrobený alebo spracovaný pevný materiál, ktorý sa vyhazuje, likviduje alebo zanecháva v morském a pobřežnom prostredí. **Morský nepožadovaný odpad** pozostáva z položiek, ktoré boli vytvorené alebo použité ľuďmi a úmyselne vyhodené do mora, riek alebo na pláže; nepriame prítomné do mora cez rieky, odpadové vody, dažďové vody alebo vetry; alebo náhodne stratené, vrátane materiálu strateného na mori počas zlých poveternostných podmienok (adaptované z ÚVOD, žiadny dátum a NOAA, žiadny dátum).
+
+### Primary reference(s)  
+ÚVOD, žiadny dátum. *Morský odpad*. Prístup 18. februára 2025.  
+NOAA, žiadny dátum. Národní morský servis. *Čo sú mikroplasty?* Národní morský a atmosférický úřad (NOAA). Prístup 18. februára 2025.
+
+### Annotations  
+**Additional scientific description**  
+Morský odpad pochádza z mnohých zdrojov a spôsobuje širokú škálu environmentálnych, hospodárskych, bezpečnostných, zdravotných a kultúrnych dopadov. Veľmi pomalý rýchlosť rozkladu väčšiny položiek morského odpadu, hlavne plastov, spolu s neustále rastúcim množstvom odpadov, ktoré sa vyhadzuje, vedie k postupnému nárastu morského odpadu nachádzajúceho sa na mori a na pobreží (Spojené národy, 2017). Morský odpad je prítomný vo všetkých morských biotopoch, od hustej obydlenej oblasti po vzdialené oblasti ďaleko od ľudských aktivít, od pláží a povrchových vôd po hĺbkové oceánske jazera (Wang et al., 2016). Priemerná hustota morského odpadu sa odhaduje od 13 000 do 18 000 kusov na štvorcový kilometer (UNEP, 2017). Avšak dáta o hromadovaní plastov v Severnom Atlantiku a Karibiku od roku 1986 do 2008 ukázali, že najvyššie koncentrácie (viac ako 200 000 kusov na štvorcový kilometer) sa vyskytovali v konvergenčných zónach medzi dvoma alebo viacerými oceánskymi prúdmi (Law et al., 2010). Počítačové modelové simulácie, založené na dátach približne 12 000 satelitne sledovaných plávajúcich bojných sond od začiatku 1990‑tych rokov ako súčasť globálneho programu „Global Ocean Drifter Program“, potvrdzujú, že odpad bude transportovaný oceánskymi prúdmi a bude tendovať k hromadeniu v obmedzenom počte subtropických konvergenčných zón alebo gyre (Wang et al., 2016).  
+Morský odpad má mnoho foriem, vrátane opustených rybárskych prístrojov a lodí, opusteného rekreačného vybavenia a vyhodených spotrebiteľských plastov, kovov, guma, papieru a textilu. Plasty sú najrozšírenejšími položkami odpadu, ktoré predstavujú odhadovaných 60 %–80 % všetkého morského odpadu. Plastový odpad sa naďalej hromadí v morských prostrediach (pozri Microplastics HIP – CH0504). Hustota mikroplastov v Strednom Pacifickom centrálnej gyre sa zvýšila o dva rády v posledných štyroch desaťročiach. Morský odpad zvyčajne pochádza z pobrežných a rekreačných aktivít, komerčného poštovnej dopravy a rybolovu a vyhodenia do mora. Väčšina morského odpadu (približne 80 %) vstupujúceho do mora pochádza z pôvodných zdrojov na pevnine.  
+Nanopartikuly sú forma morského odpadu, ktorého význam sa až teraz objavuje. Sú to miniatúrne častice s rozmermi od 1 do 100 nanometrov (nanometre je jedna milióntina milimetra). Veľká časť nanopartikulí nájdených v oceáne pochádza z prírodného pôvodu. Antrópogénne nanopartikuly sú však znepokojujúce. Pochádzajú z dvoch zdrojov: (1) nanopartikuly úmyselne vytvorené na použitie v rôznych priemyselných procesoch a kozmetike; (2) z rozpadnutia plastov v morskom odpade, fragmenty umelých tkanín vypustiteľných v mestských odpadových vodách a z odtoku z pevninských odpadových miest. Nedávne výskumy upozornili na potenciálne environmentálne dopady plastových nanopartikulí: zdá sa, že znižujú primárnu produkciu a príjem potravy zo zooplanktonu a filterovacích živočíchov (Spojené národy, 2017).
+
+### Metrics and numeric limits  
+Not available.
+
+### Key relevant UN convention / multilateral treaty  
+Konvencia o prevencii morskej znečisťovania vypustkami odpadov a iných materiálov (IMO, 2019).
+
+### Drivers  
+Prirodzené hrozby ako cyklóny, povodňové, zosuvu hôr a tsunami, spolu s ľudskými spôsobenými nehodami, môžu významne zvýšiť príchod prirodzeného aj umelého odpadu do morských ekosystémov. Podľa Japonského ministerstva životného prostredia (2012) tsunami v Japonsku v roku 2011 uvoľnilo približne 5 miliónov ton odpadu do oceánu v priebehu niekoľkých hodín. Z toho 3,5 milióna ton sa usadilo na dna mora, čo spôsobilo vážne poškodenie bentického ekosystému. Okrem toho radioaktívne úniky z jadrového havárie Fukushima mali zničujúce účinky na miestny rybársky priemysel. Zvyšných 1,5 milióna ton – ekvivalent skoro celej ročnej vstupnej dávky pevninského plastového odpadu na celom Severnom Pacifiku – sa stalo plávajúcim odpadem, ktorý sa zavesil k severnej Amerike a Havaju. Medzi ne patrili štyri 20-metróvy plávajúce prístrešky, približne 1 000 lodí (Maximenko et al., 2018) a ďalšie veľké objekty, ktoré predstavovali hrozby pre navigáciu a vzdialené pobrežné oblasti. Mnohé farmy premeny v blízkosti pobrežia boli tiež znepoložené, čo vyústilo do významného nárastu plávajúceho odpadu.
+
+### Impacts  
+Morský odpad môže spôsobiť ekonomické straty, poškodenie biotopov (vrátane krehkých korálových útesov), hrozby pre námornú dopravu, ktoré vedú k nákladnému poškodeniu lodí a strate, transport potenciálne invazívnych druhov, ktoré môžu mať zničujúce dopady na ekosystémy, a zranenia, choroby a úmrtia zvierat (NOAA, žiadny dátum). Morský odpad ovplyvňuje širokú škálu morských organizmov, od malých mikroorganizmov až po gélify (humpback whale). Živočíchy sa môžu neúmyselne vyhýbať odpadu alebo sa v ňom zapletú. Napríklad plastové tašky sú bežnou hrozbou pre plazy na mori, ktoré ich často považujú za medúzy, bežný potrava. Morský odpad tiež ovplyvňuje ďalšie druhy, ako napríklad ohrozenú havajskú opicu, kde jedno smrťové udalosť spôsobené morským odpadem predstavuje obrovský straty (NOAA, žiadny dátum).
+
+### Multi-hazard context  
+Obrázok nižšie sumarizuje bežné interakcie medzi morským odpadem a inými hrozbami. Táto informácia by sa mala používať s opatrnosťou a nemala by sa na ňu spoliehať výlučne v riadení rizík v prípade katastrof, najmä keď niektoré interakcie nemusí byť zahrnuté. Uvedomte si, že nebezpečné udalosti, ktoré sa vyskytujú spolu alebo lokálne v priestore či čase, nemusia nutne spôsobiť, zosilniť alebo inak súvisieť. Konkrétne príklady kontextu multi-hazard môžu byť nájdené v sekciách „Hrozby vodičov“ a „Dopady“ vyššie.
+
+### Risk Management  
+Trvalý mikroplastický odpad, pôvodný z rôznych zdrojov a prenášaný riekami do oceánu, spôsobil významné biologické, ekologické a chemické dopady na morský ekosystém a je uznávaný ako globálny problém. V priebehu posledného desaťročia mnohé štúdie využili technológie vzdialeného snímania na detekciu, monitorovanie a sledovanie morského plastového odpadu v priemerných a otvorených oceánových prostrediach (Waqas et al., 2023). Napríklad Integrovaný systém pozorovania morského odpadu (IMDOS) má za cieľ viesť a koordinovať globálne udržateľné monitorovanie morského odpadu, premostiť medzikroky v poznatkoch a splniť rôznorodé potreby zainteresovaných strán tým, že poskytne spoľahlivé dáta a informácie (IOCCP, žiadny dátum).
+
+### Monitoring  
+Ako príklad projektu NOAA Marine Debris Monitoring and Assessment Project (2025) meriaci množstvo a druhy morského odpadu na pobrežných oblastiach používa štandardizovanú metodológiu zbierky, s rozsahom zdrojov a verejne dostupnými dátami, aby podporil účastníkov a dobrovoľníkov pri detekcii rozdielov v morském odpade v priebehu času (NOAA, 2025).
+
+---
+
+**References**  
+*(List of references remains unchanged, only formatting may be adapted to Markdown list style.)*

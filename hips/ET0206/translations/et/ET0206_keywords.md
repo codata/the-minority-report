@@ -1,0 +1,1 @@
+human-made objects, space debris mitigation guidelines, post-mission break-ups, low Earth orbit (LEO), intentional destruction, debris released during normal operations, Space debris removal spacecraft, orbital debris, high velocity impacts, Space Debris Monitoring, Low Earth Orbit (LEO)

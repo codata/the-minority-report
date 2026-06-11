@@ -1,0 +1,1 @@
+rotating column of air,base of a cumuliform cloud,condensation funnel,contact with the ground,dust or debris cloud,attendant circulating cloud,cumuliform cloud,rotating column of air,column of air extension,ground contact

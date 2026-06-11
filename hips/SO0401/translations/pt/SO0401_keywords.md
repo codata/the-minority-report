@@ -1,0 +1,1 @@
+unexpected disturbance, financial sector, significant effect, economy, national impact, regional impact, global impact, negative impacts, financial disturbance, financial sector origin

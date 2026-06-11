@@ -1,0 +1,1 @@
+Listeria monocytogenes, foodborne infection, invasive listeriosis, non-invasive listeriosis, zoonotic disease, contaminated food sources, ready-to-eat meat products, soft cheeses, unpasteurised milk and ice cream, pregnant women to unborn babies, septicaemia and meningitis, Hazard Analysis Critical Control Points, Good Manufacturing Practices

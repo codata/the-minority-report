@@ -1,0 +1,1 @@
+toxic heavy metal, environmental media, population exposure, public health concern, acute health effects, long-term adverse effects, adverse health effects and diseases, soil and rocks, air and water, human exposure

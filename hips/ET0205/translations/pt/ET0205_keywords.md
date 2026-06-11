@@ -1,0 +1,1 @@
+near-Earth object (NEO), asteroid or comet, trajectory, astronomical units, Earth’s orbit, Sun's orbit, 45 million kilometres, orbital mechanics, celestial bodies, object trajectory

@@ -1,0 +1,1 @@
+viruses transmitted by direct contact,infected blood,other body fluids,bloodborne viruses,direct contact transmission,pathogen transmission,body fluids,infected blood contact,virus transmission,host organisms,bloodborne pathogens,direct transmission route

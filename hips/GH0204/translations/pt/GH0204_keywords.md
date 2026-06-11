@@ -1,0 +1,1 @@
+gravity-driven flows, water-saturated flows, volcanic rock, sediment particles, ice debris, flows containing debris, water and solid particles, rapid flows, volcanic origin, water-saturated flows

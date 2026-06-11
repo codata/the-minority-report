@@ -1,0 +1,59 @@
+### Definicija  
+Zaplazi so gravitacijski masovni premiki po strmo talo, ki se pojavijo v obliki tekočega medija. Zaplazi pogosto zapuščajo značilen, fan‑oblikovan odtok, kjer se material zaplaza ustavi (cf. British Geological Survey 2024). Podskupine zaplazov se lahko določijo po vrsti in deležu materiala (npr. tla, dežela, zemlja) ter po hitrosti masovnega premika (cf. Cruden and Varnes, 1996; Hungr et al., 2014). Kašni odtok se tukaj šteje kot podskupina zemeljskih odtokov. Termin *kamniška avanš* pomeni izredno hitro, obsežno, odtok‑podobno gibanje fragmentiranega kamna iz velikega kamniškega zaplaza ali padanja kamna (Hungr. et al., 2014).  
+
+### Primary reference(s)  
+BGS 2024. British Geological Survey, *Discovering Geology – Understanding landslides*. Pristopano 24. oktober 2024.  
+Hungr, O., S. Leroueil in L. Picarelli, 2014. *The Varnes classification of landslide types, an update*. *Landslides*, 11:167–194. DOI 10.1007/s10346-013-0436‑y  
+
+### Anotacije  
+#### Dodatni znanstveni opis  
+Dežela odtoka in zemeljski odtok najdeta pogosto v majhnih, strmih potokih in jih je običajno zamenjati z poplavami (Highland in Bobrowsky, 2008). Meža med deželo odtokom in kašnim odtokom je postopna; kašni odtok vsebuje bolj drobno sedimentacijo (Hungr et al., 2014). Ena izmed najpogostejših vrst gravitacijskega masovnega premika, sproženega z intenzivnim padanjem deževja, je dežela odtoka. Pogosto se imenuje *kanaliziran dežela odtoka*, ker se sproži v strmih gorskih potokih, običajno med intenzivnimi padavinami, a tudi med hitrim topljenjem snega. V medijih se dežela odtoka pogosto imenuje *kašni zlom* ali *kašni odtok*. Druga vrsta dežele odtoka se imenuje *dežela odtoka po strmi* in je sinonim za *deželni avanš* (Hungr et al., 2014).  
+
+Kamniške avanše so translacionalna oblika masovnega premika, kjer je prenašani material suh kamen, fragmentiran pred ali med padanjem strme (Collins, 2014). So hitro, z dolgimi odtaki in velikimi volumeni, pogosto pa vključujejo vpoganje strmskega materiala, kar pogosto vodi do *kašnih zlomov* ali *odtokov*. Gibanje kamniških avanšov je tako masno, da se večina kamenskih fragmentov premika skupaj kot velik koherentni mas (Collins, 2014). Pogosto obstaja postopna sprememba od zlomov do odtokov, odvisno od vsebnosti vode, mobilnosti in evolucije premika.  
+
+#### Metrične in numerične meje  
+Ni sistematičnega načina za snemanje dežele odtoka na globalni ravni, lahko pa obstajajo na ravni države. Obseg (10³–10⁶ m³) za večino dogodkov (Hungr et al., 2014; Jakob & Hungr, 2005).  
+
+#### Ključne relevantne mednarodne konvencije  
+*Sendai Framework for Disaster Risk Reduction 2015‑2030.*  
+
+#### Potekovalci  
+Zaplazi se sprožijo s padavinami, topljenjem vrhovnega ledu ali snega zaradi vulkanske toplote ali gorskimi izbruhami (Hungr et al., 2014). Lahko se razvijejo tudi iz padanj (glej GH0301) in kamniških avanšov, ki se lahko razvijejo v dežele odtoka.  
+
+#### Posledice  
+Kamniški, deželi odtoka in zemeljski odtok lahko povzročijo uničujoče posledice. Primer kašnega odtoka je v Indoneziji, kjer je 29. maja 2006 prišlo do izplazitve vročega kašnega odtoka in plina iz polja v bližini gasovnega ripa na vzhodni Javi. Več kot desetletje kasneje še vedno poteka *Lusi* kašni odtok (NASA, 2019). Štiri desetletja odpadlo več kot 40.000 ljudi, uničeno je bilo 15 vas, kar je povzročilo skoraj 3 milijarde USD škode (NASA, 2019). Lusi je postal enega izmed najdramatičnejših in najuničujočih izbruha na svojem tipu. Nekatere vasice so bile zapletene z 40 m (130 ft) debelim slojem kašnega materiala. Kaš (zmerna konzistenca, podobna kaši) neprekinjeno izpira iz glavnega ventila Lusi. Vsakič približno na 30 minut izstopi potres, ki pošlje plamevov vodo, ogljikov dioksid in metan na več kot 10 m v zrak (NASA, 2019). V medijih se pogosto imenuje *kašni zlom*, britanski *Columba Canada* je trpel izpad atmosferskega reke v novembru 2021, ki je sprožil več deželi odtoka/kašnih odtokov in poplav, kar je povzročilo blokade, uničenje ali poplavitev večjih cest na vzhodu od Vankuverja (Watterodt in Doberstein, 2023). Atmosferska reka je visokointenzivni, toplipadavni izziv iz Pacifikskega oceana. Iz tega dogodka je bilo pet ljudi posuta s deželo odtoka sever od Vankuverja, dva dežela odtoka so zapolnila avtocesto, kjer je bilo več kot 275 ljudi ujeti 48 h. Glavne arterije so bile zapolnjene približno eno tedno; stroški so znašali 675 million CAD v zavarovanih izgubah, 1–5 billion CAD v nesporazumskih izgubah, ter 900 million–1.5 billion CAD ocenjenih ekonomskih izgub zaradi ogreva verige in motenj delovnega trga (Watterodt in Doberstein, 2023).  
+
+Kamniške avanše predstavljajo enega izmed najbolj nevarnih in drageh geoloških nevarnosti v gorskih območjih. Pripetostna avanš *Frank* je potekla 29. aprila 1903 in je vključevala 110 million ton (~44 million m³) gline iz vrha *Turtle Mountain*, Alberta. Maso kamna, ki je padla, je bila 150 m globoka, 425 m visoka in 1 km široka (Frank Slide Interpretive Centre, 2018). Frankov zlom je potekal ponoči, sprožen zaradi nenavadnih vremenskih pogojev (ponovljeni zamrzno-topeni cikli) in podzemne rudarne dejavnosti. Kamniška avanš je zapolnila del vasice Frank in ubila vsaj 80 ljudi; najsmrtnje je bila v Kanadi (Frank Slide Interpretive Centre, 2018). V juliju 2021 je vasica *Lytton*, BC, Kanada, zabeležila najvišjo temperaturo na svetu (~49.9 °C) nekaj dni. Takoj po tem je bila zasažena z gozdičnimi požarki. V naslednjem mesecu v avgustu so deželi odtoka, sproženi med težkimi padavinami v strmih potokih, prispevali k uničenju v in okoli Lyttona.  
+
+#### Kontekst večnih nevarnosti  
+Spodnja slika povzame pogoste interakcije med deželimi in zemeljskimi (kašnimi) odtokovi ter kamniškimi avanšami (imenovanimi *flows*) in drugimi nevarnostmi. Te informacije je treba uporabljati previdno in ne uporabljati izključno za upravljanje z razvojem nevarnosti, saj se nekatere interakcije morda niso vključile. Vzemite si, da se nevarne dogodke, ki se dogajajo skupaj ali lokalno v prostoru ali času, ne pomeni, da se med seboj vzporedno povzročijo, pospešijo ali so na kakršen koli način povezani. Konkretnimi primeri večnevne konteksta najdete v razdelkih *Drivers* in *Impacts* zgoraj.  
+
+#### Diagram večnih nevarnosti  
+(je prikazan)  
+
+#### Upravljanje tveganj  
+Instrumentalno spremljanje za zaznavanje premika in hitrosti premika lahko vključuje ekstenzometre, GPS, seizmometri, aerialno fotografijo, satelitske slike, LiDAR (Highland in Bobrowsky, 2008) z različno stopnjo uspeha. Mitigacijske ukrepe vključujejo aktivne zaščite, da se nevarnost odstrani, in pasivne zaščite, ki se trudijo zmanjšati posledice (npr. na stavbah, komunikacijskih poteh) (Dennis in Didier, 2024). Aktivne zaščite lahko vključujejo (i) splošne metode, kot so površinski ali globoki odvod, rastlina na strmo, ki omejuje erozijo zaradi odtoka (odstranjevanje gobalnih) in infiltracijo, ki spreminja mehanske lastnosti (tren, kohezija kamenskih sklepov); (ii) podporne strukture, kot so obezpirametne stene, kamniški vijaki ali osrednjene mreže, prekriti s spretenim beton; (iii) žični mreže (poudarjene ali pritrjene), tj. kovinske strukture, zasnovane za zadrževanje masiva in preprečevanje širjenja padnega kamna, ki se lahko razvije v *flow*; in (iv) skaliranje/ranstvo, ki vključuje odstranjevanje nestabilnih elementov, čeprav te rešitve niso vedno tako določene, kot se pričakuje (neprekinjeno spreminjanje in vibracije eksplozij so pogosto škodljive za stabilnost okoliških masivov) (Dennis in Didier, 2024). Na cesti do *Whistler*, BC, je bilo za preprečevanje dežele odtoka vzpostavljeno *catchment basins* (Blais-Stevens in Hungr., 2008).  
+
+#### Mitigacijski ukrepi: levo: *shooting channel*; desno: *debris basin / catchment basin* (Blais-Stevens in Hungr., 2008)  
+
+Pasivne zaščite vključujejo ovire, diverzore, ograje itd., ki ali odvračajo, blokirajo ali inhibirajo *flows*. Te so postavljene po numeričnih simulacijah nevarnosti *flow*, in njihova uporaba je odvisna od materiala strme. (i) Oviri in dike, postavljene na dnu nestabilnih strm, da se prepreči širjenje kamenskih elementov pred dosego infrastrukture ali drugih razpoložljivih sredstev; (ii) Diverzore ali embankma se lahko namestijo na strm, da se odvrača *flow* proti prostoru brez sredstev; (iii) zaščitni galeriji, podobni avanžni tunel, verjetno zaščitijo komunikacijske poti, ko prečkajo pot; (iv) trdna ograja se lahko postavi na strmi, kar je najbližje začetnim območjem; vendar je njihova namestitev pogosto težka; in (v) prilagodljiva žična mreža se lahko postavi nizko na strmu, dokler niso blizu vprašanja. Najbolj znan primer je uporaba *submarine* vrste mreže (uporabljene med drugo svetovno vojno za preprečevanje penetracije pristanišč s podmornicami), ki se razteza med trdnimi stebri in vzdržuje s fusibilnimi karabinami; to naprava je zato izračunana za upornost energije, ki je bila prej določena v preučevanju naključnosti in propagacije (Dennis in Didier, 2024).  
+
+#### Spremljanje  
+Navedeno tabela in odsek ponujata pregled nad spremljanjem *flows*. Te informacije se lahko uporabijo za napoved v okviru nacionalnega sistem za zgodnje opozarjanje (EWS). Ker se sposobnosti EWS in postopki razlikujejo po državah, naj se najnovejše in specifične informacije o EWS pridobijo od ustrezne nacionalne ali regionalne agencije/avtoritete za upravljanje z razvojem nevarnosti.  
+
+| Katera institucija/ institucije proizvedejo podatke/ informacije o razvoju nevarnosti? | Lokalni oblasti; geološki inšpektorji? |  
+| Kako se nevarnost opazuje/ spremlja/ napoveduje? | Strme, ki bi lahko ustvarile *flows*, se lahko spremljajo s satelitskimi slikami, InSAR, vizualno opazovanje in drugo. Drugi tehnike vključujejo sistem opozarjanja na padavine na podlagi prognoz. |  
+
+### Reference  
+Blais-Stevens, A., Hungr, O., 2008, *Landslides and their mitigation along the Sea to Sky corridor, British Columbia*, Proceedings from the 4th Canadian Conference on Geohazards, Quebec City QC, 495‑502.  
+British Geological Survey, 2024. *Discovering Geology – Understanding landslides*. Pristopano 24. oktober 2024.  
+Collins, G.S., 2014. *Rock avalanche*. In: *Encyclopedia of Planetary Landforms*. Springer. Pristopano 15. oktober 2020.  
+Cruden, D.M. in Varnes, D.J., 1996. *Landslide types and processes*. In: Turner, A.K. in Schuster, R.L. (eds), *Landslides: Investigation and Mitigation*. Special Report 247. Transportation Research Board, National Research Council, Washington, DC, 36‑75.  
+Dennis, F. in H. Didier, 2024. *Rocky Landslides and Landslides: A Fatality?* *Encyclopedia of the Environment*. Pristopano 24. oktober 2024.  
+Frank Slide Interpretive Centre, 2018. *Canada’s Deadliest Rockslide*. https://frankslide.ca/sites/frankslide/files/editor_files/Frank_Slide_S… Pristopano 24. oktober 2024.  
+Highland, L.M. in P. Bobrowsky, 2008, *The landslide handbook – A guide to understanding landslides*. US Geological Survey, Circular 1325. Reston, VA: Geological survey. Pristopano 24. oktober 2024.  
+Hungr, O., S. Leroueil in L. Picarelli, 2014. *The Varnes classification of landslide types, an update*. *Landslides*, 11:167‑194. DOI 10.1007/s10346‑013‑0436‑y.  
+Jakob, M., Hungr, O. in Jakob, D.M., 2005. *Debris-flow hazards and related phenomena* (Vol. 739). Berlin: Springer.  
+NASA, 2019. *A Muddy Mess in Indonesia*. National Aeronautics and Space Administration (NASA). Pristopano 24. oktober 2024.  
+USGS, 2018. *United States Geological Survey. Postfire debris-flow hazards*. Pristopano 24. oktober 2024.  
+Watterodt, F. in Doberstein, B., 2023, *The post‑disaster window: The 2021 British Columbia atmospheric river phenomenon as a focusing event for policy change, ICLR Quick Response Program, Final report, 33 p.*

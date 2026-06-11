@@ -1,0 +1,1 @@
+contaminated water, poor sanitation, transmission of diseases, cholera, diarrhoea, dysentery, hepatitis A, hepatitis E, typhoid, polio

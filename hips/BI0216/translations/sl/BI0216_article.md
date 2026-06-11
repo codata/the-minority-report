@@ -1,0 +1,44 @@
+```markdown
+# Definition
+Lepra je **zdravljiva infektivna bolezen**, endemična v številnih državah, ki jo povzroča bakterija *Mycobacterium leprae* (M. leprae). Glavno prizadene kožo, periferne živce, mukoso zgornjega dihalnega trakta in oči. Če ostane neobravnavana, lahko povzroči trajno invalidnost (adaptirano iz WHO, 2025).
+
+# Primary reference(s)
+- WHO, 2025. Lepra. Svetovna zdravstvena organizacija (WHO). Dostopano 25 maj 2025.
+
+# Annotations
+## Additional scientific description
+Lepra je starodavna bolezen, opisana v literaturi starih civilizacij. Gre za kronično infektivno bolezen, ki jo povzroča bakterija *Mycobacterium leprae*. Bolezen prizadene kožo, periferne živce, mukoso zgornjega dihalnega trakta in oči. Lepra je zdravljiva, in zdravljenje v zgodnjih fazah preprečuje invalidnost. Poleg fizičnih deformacij prizadeti posamezniki trpijo tudi stigmatizacijo in diskriminacijo (WHO, 2025).  
+V letu 2023 je bilo globalno poročano o 182 815 novih primerov, kar predstavlja stopnjo odkrivanja 22,7 na milijon prebivalstva. Število novih primerov, odkritih na globalni ravni, je bilo 5 % višje kot v letu 2022 (174 094). Globalno je število novih primerov zmanjšalo za 14,6 % v obdobju 2014‑2023; zmanjšanje v obdobju 2014‑2019 je bilo 5,3 % (WHO, 2024a).  
+*Mycobacterium leprae* se zelo počasi množiče z inkubacijsko dobo približno pet let, vendar se simptomi lahko pojavijo tudi po 20 letih. Če se ne obravnava, lahko lepra povzroči progresivno in trajno poškodbo kože, živcev, končnic in oči. Lepra je zdravljiva; zdravljenje v zgodnjih fazah preprečuje invalidnost. Zgodnja diagnoza in zdravljenje z **MDT (terapijo z več zdravili)** ostajata ključna elementa za izločitev bolezni kot javnozdravstveno vprašanje. Od leta 1995 je WHO omogočila MDT brezplačno vsem pacientom po vsem svetu (WHO, 2022).
+
+### Diagnostika
+Laboratorijska diagnoza se izvaja z identifikacijo kiselinski trdnih bacil v kožni prebrizki iz reznega prebrizka. Drugi testi (kot so serološki markerji) imajo nizko diagnostično natančnost (WHO, 2018).
+
+### Zdravljenje
+Prvi prelom za zdravljenje lepre se je zgodil v 1940‑ih s razvojem zdravila **dapson**. Trajanje zdravljenja je trajalo več let, pogosto celo do konca življenja, kar je otežilo skladnost. V 1960‑ih je *M. leprae* začel razvijati odpornost proti dapsonu, edinem znanemu anti‑leproznemu zdravilu v tistem času. Na začetku 1960‑ih sta bili odkriti **rifampicin** in **klofazimin** ter sta se izkazala za učinkovita. V letu 1981 je WHO priporočila MDT. Trenutno priporočeni režim MDT vključuje zdravila: dapson, rifampicin in klofazimin. Zdravljenje traja šest mesecev pri paucibacilarni in 12 mesecev pri multibacilarni primere. MDT ubije patogen in zdravi pacienta. Od leta 1995 je WHO nudila MDT brezplačno. Brezplačna MDT je bila najprej financirana s strani The Nippon Foundation, in od leta 2000 se je darila prek sporazuma z Novartis do vsaj leta 2020. Več kot 16 milijonov pacientov z leprozo je bilo z zdravljenjem MDT v zadnjih 20 letih (WHO, 2025).
+
+### Registracija primerov
+Center for Disease Control and Prevention je objavil informacije o definicijah primerov Hansenove bolezni/lepre (CDC, 2021).
+
+## Metrics and numeric limits
+Eliminacija lepre kot javnozdravstvenega problema je definirana kot registrirana prevalenca manj kot 1 primer na 10 000 prebivalcev. To je bilo doseženo na globalni ravni leta 2000, vendar v nekaterih državah še vedno obstajajo lokacije z višjo prevalenco. Na podlagi 184 212 primerov na koncu leta 2018 je stopnja prevalence 0,2/10 000 (WHO, 2025).
+
+## Key relevant UN convention / multilateral treaty
+- Convention on the rights of persons with disabilities (CRPD) (UNGA, 2007).  
+- International Health Regulations (2005), 3rd ed. (WHO, 2016).
+
+## Drivers
+Lepra se prenaša z kapljicami iz nosu in ust, med tesnim in pogostim stiki z neobravnavanimi primeri (WHO 2023a). Lepra je zelo spremenljiva bolezen, ki se pri različnih ljudeh pojavlja na različne načine, glede na njihov imunološki odziv. Ti, ki so na enem koncu spektra, z visoko stopnjo imunosti, so **paucibacilarna (PB) lepra**, običajno se kaže kot primer lepre z 1 do 5 kožnimi razpokami, brez demonstrirane prisotnosti bacil v kožni prebrizki. Ti, ki imajo veliko bacil v telesu, so označeni kot pacienti z **multibacilarno (MB) leprozo**, definirana kot primer lepre z več kot petimi kožnimi razpokami; ali z nevralogijo (čista nevrita, ali katera koli številka kožnih razpok in nevrite); ali z demonstrirano prisotnostjo bacil v kožni prebrizki, ne glede na število kožnih razpok (WHO, 2025).
+
+## Impacts
+Lepra je zanemarjena tropska bolezen (NTD), ki se še vedno pojavlja v več kot 120 državah, z več kot 200 000 novimi primeri na leto. Eliminacija lepre kot javnozdravstvenega problema globalno (definirano kot prevalenca manj kot 1 na 10 000 prebivalcev) je bila dosežena leta 2000 (po rezoluciji 44.9 Svetovne zbornice zdravja) in v večini držav do leta 2010 (WHO, 2025). Zmanjšanje števila novih primerov je bilo postopno. Po podatkih iz leta 2023, Brazilija, Indija in Indonesia še vedno poročajo več kot 10 000 novih primerov, medtem ko 12 drugih držav (Bangladeš, Demokratična republika Kongo, Etiopia, Madagaskar, Mozambik, Mjanmar, Nepal, Nigerija, Filipini, Somalia, Šrilanka in Združeno kraljestvo Tanzanije) vsaka poroča 1 000–10 000 novih primerov. 56 držav je poročalo 0 primerov in 112 je poročalo manj kot 1 000 novih primerov (WHO, 2025).
+
+## Multi‑hazard context
+Lepra neenakomerno prizadene revne populacije z omejenim dostopom do sanitarne infrastrukture in izobraževanja (Leano et al., 2019). Stigma in diskriminacija proti pacientom z leprozo in njihovim družinam je skoraj tako stara kot zabeležena zgodovina. Posledice lahko vključujejo socialno izključenost, izgubo dohodka, zmanjšan dostop do zdravstvenega varstva in izobraževanja ter zmanjšano duševno dobrobit. Sprememba prepričanj in predsodkov ni enostavna. Zmanjšanje predsodkov v skupnosti spodbuja zgodnje odkrivanje lepre in izboljšuje sprejemanje diagnoze ter spoštovanje zdravljenja in samopomembnih praks. Uradni postopki morajo biti na voljo za registracijo in ukrepanje ob pritožbah o diskriminacijskem vedenju. Posebna pozornost mora biti namenjena ranljivim skupinam, vključno z ženskami, otroki, priseljenci, beguncami, starejšimi, brezdomci, prebivalci odrejnih leproznih kolonij in tistim, ki živijo v geografskih dostopnih območjih (WHO SEARO, 2017). Družbeni, čustveni in gospodarski vplivi lepre so lahko večja obremenitev kot bolezen sama. Prizadeti pacienti potrebujejo dostop do **rehabilitacije, osredotočene na ublažitev posledic ovir, omogočanje življenja in optimizacijo vključevanja v skupnost**. Dostop do socialnih pravic države in drugih socialnih varnostnih ukrepov je prav tako bistven za zmanjšanje negativnih družbeno‑gospodarskih posledic ter za zagotavljanje primerne nege starejših oseb z invalidnostjo (WHO SEARO, 2017).
+
+## Risk Management
+Odkrivanje primerov in zdravljenje z MDT samo so bili dovoljeni, da prekinijo prenos. Za povečanje preprečevanja lepre, z dovoljenjem indeksnega primera, WHO priporočuje sledenje gospodinjskim stikom skupaj z sosednjimi in družbenimi stiki vsakega pacienta, spremljanje enega odmika rifampicina kot preventivne kemoterapije (WHO, 2025). Po podrobnih konzultacijah s državami, strokovnjaki, partnerji in prizadetimi pacienti je WHO izdala strategijo **Towards Zero Lepra: Globalna lepra (Hansenova bolezen) strategija 2021‑2030**, usklajeno z zemljevidom za zanemarjene tropske bolezni 2021‑2030 (WHO SEARO, 2017). Strategija zahteva vizijo ničelne lepre: ničelno okužbo in bolezen, ničelno invalidnost, ničelno stigmo in diskriminacijo ter eliminacijo lepre (definirano kot prekinitev prenosa) kot cilja. Četrti strateški stebro strategije vključujejo: izvajanje integriranih, lastnih zemljevidov z ničelno lepra v vseh endemičnih državah; povečanje preprečevanja lepre ob integriranem aktivnem odkrivanju primerov; upravljanje lepre in njene zaplete ter preprečevanje nove invalidnosti; ter boj proti stigmo ter zagotavljanje spoštovanja človekovih pravic. Strategija prav tako prepozna, da je globalna in nacionalna naložba v raziskave ključnega pomena za doseganje ničelne lepre in vključuje nabor ključnih raziskovalnih prioritet (WHO SEARO, 2017; WHO, 2025). V letu 2023 je WHO izdala tehnične smernice o prekinitvi prenosa in eliminaciji bolezni lepre. V središču teh smernic je okvir za eliminacijo lepre, ki nudi jasen pot skozi tri faze, to je prekinitev prenosa, eliminacija bolezni lepre in post‑eliminacijska opazovanja, definirane v smislu epidemioloških mejnikov (WHO, 2023b).
+
+## Monitoring
+WHO zbira relevantne epidemiološke in programske podatke iz držav za oceno globalne situacije lepre in za objavo posodobitev. Letni podatki o leprozi se zbirajo z mednarodnim sistemom DHIS‑2 (WHO, 2024a).
+```

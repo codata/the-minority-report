@@ -1,0 +1,1 @@
+episodic events, premature loss, progressive loss, tree vigour, stand vigour, stand health, physical disturbance, primary disease, insect attack, loss of tree vigour, loss of stand health, causal factor

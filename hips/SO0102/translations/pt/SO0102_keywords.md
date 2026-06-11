@@ -1,0 +1,1 @@
+non-state party/parties,organized non-state parties,sufficiently intense violence,International humanitarian law,threshold for NIAC,conditions for NIAC,classification of a conflict,non-state party status,intensity of violence,non-state party organization

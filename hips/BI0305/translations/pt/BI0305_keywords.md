@@ -1,0 +1,1 @@
+Mycoplasma capricolum subsp. capripneumoniae, Caprine pleuropneumonia, goats, wild ruminant species, anorexia, fever, dyspnoea, polypnea, nasal discharges, serofibrinous pleuropneumonia, pleural effusion, acute and subacute disease

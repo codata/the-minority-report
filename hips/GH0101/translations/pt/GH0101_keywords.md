@@ -1,0 +1,1 @@
+sudden slip on a fault,ground shaking,radiated seismic energy,slipping event,stress changes in the earth,volcanic/magmatic activity,seismic energy,fault slipping,ground shaking,seismic energy

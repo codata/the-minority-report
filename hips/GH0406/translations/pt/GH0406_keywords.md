@@ -1,0 +1,1 @@
+wind-borne sand, coastal areas, watercourses, cultivated land, uncultivated land, arid to semi-arid regions, bury towns, irrigation channels, market gardens, socioeconomic damage, material damage

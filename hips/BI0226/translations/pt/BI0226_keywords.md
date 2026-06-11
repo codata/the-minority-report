@@ -1,0 +1,1 @@
+Salmonella typhi, bacterium Salmonella typhi, contaminated food or water, life-threatening infection, annual cases, annual deaths, typhoid fever, life-threatening infection, infection caused, spread through food, waterborne illness

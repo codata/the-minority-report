@@ -1,0 +1,1 @@
+small plastic pieces,less than five millimetres,plastic debris,degrade into smaller pieces,marine life harm,plastic sources,originating from debris,progressively smaller pieces,environmental harm,plastic fragments

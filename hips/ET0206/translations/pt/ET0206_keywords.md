@@ -1,0 +1,1 @@
+human-made objects, fragments and elements, Earth orbit, re-entering the atmosphere, nonfunctional objects, Space debris, orbital objects, atmospheric re-entry, space debris management, COPUOS reference
