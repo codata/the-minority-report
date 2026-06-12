@@ -479,7 +479,7 @@ def _arbitrate_model(term, context, candidates, model, arbitrator_prompt_templat
     else:
         print(f"    [{model}] failed to vote.")
 
-def _query_model_longtext(text, language, model, longtext_prompt_template, method="standard", small_model="gemma4:e2b", keyword_prompt_template="", term="", code=""):
+def _query_model_longtext(text, language, model, longtext_prompt_template, method="standard", small_model="gemma4:e2b", keyword_prompt_template="", term="", code="", wiki_expert_prompt_template=""):
     """Helper to query a single model for long text translation (plaintext)."""
     if method == "rl" and keyword_prompt_template:
         cache_path = None
@@ -506,8 +506,24 @@ def _query_model_longtext(text, language, model, longtext_prompt_template, metho
             print(f"    Keywords extracted: {keywords}")
             text += f"\n\nIdentified Domain Keywords: {keywords}"
 
+    wiki_term = "Not provided."
+    if wiki_expert_prompt_template:
+        print(f"  [Wiki Expert] Finding established Wikipedia/Wikidata term for {language}...")
+        w_prompt = wiki_expert_prompt_template.replace("{{target_language}}", language).replace("{{term}}", term)
+        # Pass keywords to Wiki expert for context disambiguation if available
+        w_prompt = w_prompt.replace("{{keywords}}", keywords if method == "rl" and keyword_prompt_template else "None provided")
+        
+        wiki_term = mock_llm_call(w_prompt, model=small_model, is_json=False).strip()
+        print(f"    Found established term: {wiki_term}")
+        
+        # Ensure the wiki term is directly available in the text alongside keywords
+        if wiki_term and wiki_term != "Not provided.":
+            text += f"\n\nEstablished Wiki Terms (Synonyms): {wiki_term}"
+
     print(f"  [Longtext] Translating to {language} using Model: {model}")
+
     prompt = longtext_prompt_template.replace("{{target_language}}", language)
+    prompt = prompt.replace("{{wiki_term}}", wiki_term)
     prompt = prompt.replace("{{text}}", text)
     
     response_str = mock_llm_call(prompt, model=model).strip()
@@ -559,7 +575,71 @@ def save_results_to_csv(results, output_csv_path):
             os.remove(temp_path)
         print(f"Error saving results to CSV: {e}")
 
-def process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, longtext_prompt_template, output_csv_path, fields_to_translate=None, output_dir="data", method="standard", small_model="gemma4:e2b", keyword_prompt_template=""):
+def check_resources_ready(term, row, languages, fields_to_translate, method, min_translation_ratio, results):
+    term_in_results = any(r.get("term") == term for r in results)
+    if not term_in_results:
+        return False
+        
+    code = row.get("code")
+    source_file = row.get("source_file")
+    
+    if not code or not source_file or not os.path.exists(source_file):
+        return False
+        
+    base_project_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    metadata_path = os.path.join(base_project_dir, "hips", code, "output", "metadata.json")
+    if not os.path.exists(metadata_path):
+        return False
+        
+    import json
+    try:
+        with open(metadata_path, "r") as f:
+             metadata = json.load(f)
+    except Exception:
+        return False
+        
+    pattern = get_extraction_pattern(metadata)
+    parsed_data = parse_html(source_file, pattern)
+    
+    hips_dir = os.path.join(base_project_dir, "hips", code)
+    
+    for lang in languages:
+        lang_lower = lang.lower()
+        if lang_lower in ['ch', 'zh', 'zh-cn', 'zh-tw', 'jp', 'ja', 'ko']:
+            effective_ratio = 0.10
+        elif lang_lower in ['lv', 'lt', 'et', 'fi']:
+            effective_ratio = 0.30
+        else:
+            effective_ratio = min_translation_ratio
+        
+        if method == "rl":
+            kw_path = os.path.join(hips_dir, "translations", lang, f"{code}_keywords.md")
+            if not os.path.exists(kw_path):
+                return False
+                
+        if fields_to_translate:
+            for field in fields_to_translate:
+                field_text = parsed_data.get(field, parsed_data.get(f"{field}_text"))
+                if field_text and len(field_text.strip()) > 0:
+                    input_len = len(field_text)
+                    
+                    out_file = os.path.join(hips_dir, "translations", lang, f"{code}_{field}.md")
+                    if not os.path.exists(out_file):
+                        return False
+                    try:
+                        with open(out_file, "r", encoding="utf-8") as f_out:
+                            if len(f_out.read()) < effective_ratio * input_len:
+                                return False
+                    except Exception:
+                        return False
+                            
+                    metrics_file = os.path.join(hips_dir, "CDIF", lang, f"{code}_{field}_metrics.json")
+                    if not os.path.exists(metrics_file):
+                        return False
+                        
+    return True
+
+def process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, longtext_prompt_template, output_csv_path, fields_to_translate=None, output_dir="data", method="standard", small_model="gemma4:e2b", keyword_prompt_template="", wiki_expert_prompt_template="", min_translation_ratio=0.4):
     """
     Processes a list of terms and returns translation results with consensus logic.
     A translation is only accepted if at least 2 models agree on it (case-insensitive).
@@ -579,6 +659,10 @@ def process_terms(rows, languages, models, voter_prompt_template, arbitrator_pro
         context = row.get("context", "")
         print(f"\nProcessing Term: {term}")
         
+        if check_resources_ready(term, row, languages, fields_to_translate, method, min_translation_ratio, results):
+            print(f"  All resources ready for '{term}'. Skipping models.")
+            continue
+            
         # Collect raw responses for this term
         raw_results = [] 
         
@@ -616,26 +700,35 @@ def process_terms(rows, languages, models, voter_prompt_template, arbitrator_pro
                                     # We use .md for all fields to support markdown formatting.
                                     out_file = os.path.join(lang_dir, f"{code}_{field}.md")
                                     input_len = len(field_text)
+                                    # Adjust ratio for CJK languages due to character density
+                                    lang_lower = lang.lower()
+                                    if lang_lower in ['ch', 'zh', 'zh-cn', 'zh-tw', 'jp', 'ja', 'ko']:
+                                        effective_ratio = 0.10
+                                    elif lang_lower in ['lv', 'lt', 'et', 'fi']:
+                                        effective_ratio = 0.30
+                                    else:
+                                        effective_ratio = min_translation_ratio
+                                    
                                     if os.path.exists(out_file):
                                         with open(out_file, "r", encoding="utf-8") as f_out:
                                             existing_len = len(f_out.read())
-                                        if existing_len >= 0.75 * input_len:
+                                        if existing_len >= effective_ratio * input_len:
                                             print(f"    [{lang}] {field} already exists at {out_file} (size {existing_len}/{input_len}). Skipping.")
                                             continue
                                         else:
-                                            print(f"    [{lang}] {field} exists but too small ({existing_len} < {0.75*input_len}). Re-translating.")
+                                            print(f"    [{lang}] {field} exists but too small ({existing_len} < {effective_ratio*input_len}). Re-translating.")
                                             
                                     max_retries = 3
                                     for attempt in range(max_retries):
-                                        translated = _query_model_longtext(field_text, lang, primary_model, longtext_prompt_template, method, small_model, keyword_prompt_template, term, code)
+                                        translated = _query_model_longtext(field_text, lang, primary_model, longtext_prompt_template, method, small_model, keyword_prompt_template, term, code, wiki_expert_prompt_template)
                                         if translated:
-                                            if len(translated) >= 0.75 * input_len:
+                                            if len(translated) >= effective_ratio * input_len:
                                                 with open(out_file, "w", encoding="utf-8") as f_out:
                                                     f_out.write(translated)
                                                     print(f"    Saved {field} ({lang}) to {out_file} (size {len(translated)}/{input_len})")
                                                 break
                                             else:
-                                                print(f"    [{lang}] {field} translation failed size check ({len(translated)} < {0.75*input_len}). Attempt {attempt+1}/{max_retries}.")
+                                                print(f"    [{lang}] {field} translation failed size check ({len(translated)} < {effective_ratio*input_len}). Attempt {attempt+1}/{max_retries}.")
                                                 if attempt == max_retries - 1:
                                                     print(f"    [{lang}] {field} reached max retries. Not saving.")
                     else:
@@ -787,6 +880,7 @@ def main():
     parser.add_argument("--fields", default="", help="Comma-separated list of fields to translate (e.g., title,summary,article,fulltext)")
     parser.add_argument("--method", default="standard", choices=["standard", "rl"], help="Translation method to use (standard or rl)")
     parser.add_argument("--small-model", default="gemma4:e2b", help="Small model to use for keyword extraction in RL method")
+    parser.add_argument("--min-translation-ratio", type=float, default=0.4, help="Minimum acceptable character length ratio of translation compared to original (default 0.4)")
     
     parser.add_argument("--ontoportal-api-key", default=os.environ.get("ONTOPORTAL_API_KEY"), help="API key for OntoPortal services (or set via ONTOPORTAL_API_KEY)")
     parser.add_argument("--ontoportal-url", default="http://ecoportal.lifewatch.eu:8080", help="Base URL for OntoPortal (default: EcoPortal)")
@@ -799,6 +893,7 @@ def main():
     voter_prompt_template = load_prompt(os.path.join(prompts_dir, "voter_prompt.md"))
     arbitrator_prompt_template = load_prompt(os.path.join(prompts_dir, "arbitrator_prompt.md"))
     longtext_prompt_template = load_prompt(os.path.join(prompts_dir, "longtext_prompt.md"))
+    wiki_expert_prompt_template = load_prompt(os.path.join(prompts_dir, "wiki_expert_prompt.md"))
     keyword_prompt_template = ""
     if args.method == "rl":
         kw_prompt_path = os.path.join(prompts_dir, "keyword_extraction_prompt.md")
@@ -912,9 +1007,6 @@ def main():
                     "source_file": html_path
                 }
                 cache_updated = True
-                
-                # Be searching friendly
-                time.sleep(1) 
             except Exception as e:
                 print(f"Skipping {u}: {e}")
                 
@@ -943,7 +1035,7 @@ def main():
         print("Error: Must provide --url, --index-url, --index-file, or --input-file")
         return
             
-    results = process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, longtext_prompt_template, output_csv_path, fields_to_translate, args.output_dir, args.method, args.small_model, keyword_prompt_template)
+    results = process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, longtext_prompt_template, output_csv_path, fields_to_translate, args.output_dir, args.method, args.small_model, keyword_prompt_template, wiki_expert_prompt_template, args.min_translation_ratio)
     
     # Write Results
     save_results_to_csv(results, output_csv_path)

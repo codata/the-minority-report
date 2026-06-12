@@ -166,10 +166,10 @@
               "rdf:value": { "@id": "odrl:ensure" },
               "refinement": [
                 {
-                  "dc:description": "The character length of the translated text must be greater than or equal to 75% (0.75) of the original source text length.",
+                  "dc:description": "The character length of the translated text must be greater than or equal to 40% (0.4) of the original source text length.",
                   "leftOperand": "ai:translatedTextLengthRatio",
                   "operator": "odrl:gteq",
-                  "rightOperand": "0.75"
+                  "rightOperand": "env:MIN_TRANSLATION_RATIO"
                 }
               ]
             }
