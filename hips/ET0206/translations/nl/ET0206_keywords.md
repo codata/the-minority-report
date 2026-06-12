@@ -1,0 +1,1 @@
+human-made objects, fragments and elements thereof, space debris mitigation guidelines, accidental break-ups, post-mission break-ups, low Earth orbit, Low Earth Orbit (LEO), orbital debris, Space Debris Removal spacecraft, long-lived debris, low-Earth orbit (LEO) region, geostationary-satellite orbit (GSO), Space Debris Mitigation Guidelines

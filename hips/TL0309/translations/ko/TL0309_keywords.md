@@ -1,0 +1,1 @@
+Natural hazard triggered technological accident, Natech accidents, technological secondary effects, Natech event consequences, health impacts and environmental degradation, economic losses and business interruption, ripple effects across sectors, shortage of raw materials and finished products, cascading disasters, multi-hazard context, integrated risk governance

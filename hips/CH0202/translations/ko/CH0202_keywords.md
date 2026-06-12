@@ -1,0 +1,1 @@
+fibrous silicate minerals, building materials, asbestos-related diseases, chrysotile (white asbestos), crocidolite (blue asbestos), asbestos cement, insulation in buildings, carcinogenic potential, mesothelioma, asbestosis (fibrosis of the lungs), asbestos fibres, asbestos-related lung cancer, health hazard

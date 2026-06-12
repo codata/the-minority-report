@@ -1,0 +1,1 @@
+Bordetella pertussis, whooping cough, respiratory infection, paroxysmal cough, DTP3 vaccine, droplet transmission, immunisation, pertussis surveillance, morbidity and mortality in children, Early Warning, Alert and Response System

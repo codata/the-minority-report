@@ -1,0 +1,1 @@
+human-made objects fragments and elements thereof,space debris mitigation guidelines,intentional destruction of spacecraft,post-mission break-ups,low Earth orbit (LEO),space debris removal spacecraft,orbital debris,space debris mitigation standards,high velocity debris,geostationary-satellite orbit (GSO),space debris monitoring

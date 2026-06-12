@@ -1,0 +1,1 @@
+Listeria monocytogenes, foodborne infection, non-invasive listeriosis, invasive listeriosis, zoonotic disease, foodborne pathogen, high-risk groups, pregnant women to unborn babies, septicaemia, incubation period, ready-to-eat meat products, soft cheeses, food safety management system, Hazard Analysis Critical Control Points (HACCP), refrigeration temperatures

@@ -1,0 +1,1 @@
+Vector-borne diseases,blood-sucking insects,disease-producing microorganisms,human-vector-borne diseases,vector control strategies,disease surveillance system,early warning system,climate change and vectors,vector-borne animal diseases,disease management technologies

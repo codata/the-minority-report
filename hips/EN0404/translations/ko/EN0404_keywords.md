@@ -1,0 +1,1 @@
+loss of symbiotic algae,expels the algae,coral starvation and death,heat-stressed corals,Degree Heating Weeks (DHWs),mass bleaching events,marine heatwaves,thermal tolerance,annual severe bleaching onset,Degree Heating Week product

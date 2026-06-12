@@ -1,0 +1,1 @@
+symbiotic algae,expels the algae,coral starvation and death,thermal tolerance,heat-stressed corals,Degree Heating Weeks (DHWs),cumulative heat stress,marine heatwaves,annual severe bleaching onset,multi-species mortality
