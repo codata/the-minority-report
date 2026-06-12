@@ -1,0 +1,1 @@
+substances and heat in environmental media,activities that generates pollutants,air pollution,water pollution,persistent organic pollutants,micro- and nano-plastics,industrial emissions and burning of fuel,water contamination,marine pollution,sewage and wastewater,endocrine-disrupting compounds,chemical management

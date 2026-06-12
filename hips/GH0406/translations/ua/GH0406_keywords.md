@@ -1,0 +1,1 @@
+accumulation of wind-borne sand, wind-borne sand, arid to semi-arid regions, burial of towns, irrigation channels, sand accumulation reporting, avalanche effect, saltation process, sorting mechanism, corrosion of surface, wind removal force, reduced water retention capacity, mechanical effects on vegetation

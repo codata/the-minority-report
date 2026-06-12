@@ -1,0 +1,1 @@
+accumulation of wind-borne sand, wind-borne sand, sand accumulation forms, sand grain movement, avalanche effect, saltation process, sorting mechanism, corrosion, wind's carrying capacity, water retention capacity, soil erosion, sand-laden wind

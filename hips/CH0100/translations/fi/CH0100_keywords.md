@@ -1,0 +1,1 @@
+heavy metals, trace element contaminants, biological significance, inorganic contaminants, essential trace elements, non-essential or toxic trace elements, bioavailable metal-organic compounds, total concentrations, soil pollution, bioaccumulation of mercury, phytoremediation, risk management, environmental monitoring, halogen contaminants

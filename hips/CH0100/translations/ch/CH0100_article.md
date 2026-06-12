@@ -1,105 +1,133 @@
 ```markdown
-### 定义
-重金属是指相对原子质量较高或在高密度材料中出现的金属微量元素。  
-微量元素是指通常在土壤中以低浓度存在，但当其水平超过安全限值时仍能对人类健康和生态系统产生显著影响的元素，正如许多重金属的情况。  
-具有生物学意义的微量元素污染物通常在土壤中浓度低于 100 mg /kg，偶尔也会出现在水生生态系统或大气中粒子。  
-生物学意义包括必需或有毒的元素；某些元素在不同浓度下可能同时具备这两种性质。  
-重要的微量元素中许多是金属，其他的则是半金属、合金、非金属、镧系元素和卤素，它们以多种化学状态存在（元素态、阳离子、阴离子、氧化阴离子、甲基化等）。  
-该类别可与潜在有毒元素、重金属、持久无机污染物、无机污染物以及卤化物（如氟化物和碘化物）等术语重叠或同义使用。为本文件的清晰度，使用“微量元素”一词（FAO 与 UNEP，2021a）。
+### Definitie
+Zware metalen en sporen‑elementen zijn metallische trace‑elementen met een hoog relatief atomaal gewicht of die voorkomen in materialen met een hoge dichtheid.  
+De term “Trace‑elementen” wordt gebruikt voor elementen die doorgaans in de bodem voorkomen in lage concentraties, maar die toch significante effecten kunnen hebben op de menselijke gezondheid en ecosystemen wanneer hun niveaus veilige grenzen overschrijden, zoals het geval is bij veel zware metalen en sporen‑elementen.  
+Trace‑elementcontaminanten die biologisch relevant zijn, komen doorgaans voor in de bodem op concentraties van minder dan 100 mg/kg en soms in aquatische ecosystemen of als deeltjes in de atmosfeer.  
+Biologische relevantie omvat elementen die essentieel of toxisch zijn voor een organisme; sommige elementen kunnen zowel essentieel als toxisch zijn, afhankelijk van hun concentratie.  
+Veel van de belangrijke sporen‑elementen zijn metalen, terwijl anderen metaorganische elementen, legeringen, niet‑metaal‑contaminanten, actinoïden en haliden zijn die voorkomen in diverse chemische staten (elementair, catioen, anion, oxyanion, gemethyleerd, etc.).  
+Deze categorie kan overlappen of synoniem worden gebruikt met termen als potentieel toxische elementen, zware metalen, persistente anorganische contaminanten, anorganische contaminanten en haliden, zoals fluoride en iodide.  
+Voor de duidelijkheid van dit document zal de term “sporen‑elementen” gebruikt worden (FAO en UNEP, 2021a).
 
-### 主要参考文献
-FAO 与 UNEP. 2021a. 全球土壤污染评估报告。罗马，FAO。 2024‑07‑20 访问。
+### Primaire referentie(nen)
+FAO en UNEP. 2021a. Global assessment of soil pollution. Report. Rome, FAO. Accessed 20 July 2024
 
-### 注释
-- GHS 分类  
-  - GHS06 - 急性毒性  
-  - GHS07 - 刺激物  
-  - GHS08 - 健康危害  
-  - GHS09 - 环境
+### Annotaties
+- **GHS06** – Acute Toxicity  
+- **GHS07** – Irritant  
+- **GHS08** – Health Hazard  
+- **GHS09** – Environment
 
-### 额外科学描述
-当微量元素浓度显著超过自然水平时，它们可能成为污染物，原因包括工业过程、采矿、农业和废物处置等人为活动。污染物可在土壤、水和生物体中累积，可能对生态系统和人类健康造成不良影响。
+### Aanvullende wetenschappelijke beschrijving
+Trace‑elementen kunnen contaminanten worden wanneer hun concentraties aanzienlijk boven natuurlijke niveaus uitstijgen door antropogene activiteiten, zoals industriële processen, mijnbouw, landbouw en afvalverwerking.  
+Deze contaminanten kunnen zich ophopen in de bodem, water en biota, wat potentieel nadelige effecten op ecosystemen en de menselijke gezondheid kan veroorzaken.  
 
-#### 必需微量元素
-这些元素在正常生理功能中需要少量。例子包括铁（Fe）、锌（Zn）、铜（Cu）和硒（Se）。
+**Essentiële sporen‑elementen:** Deze elementen zijn vereist in kleine hoeveelheden voor normale fysiologische functies. Voorbeelden zijn ijzer (Fe), zink (Zn), koper (Cu) en selenium (Se).  
 
-#### 非必需或有毒微量元素
-这些元素即使在低浓度下也可能对生物体有毒。参见其他危害信息档案，其中包括铅（Pb，CH0103）、汞（Hg，CH0104）、镉（Cd，CH0102）和砷（As，CH0101）。
+**Niet‑essentiële of toxische sporen‑elementen:** Deze kunnen toxisch zijn voor organismen zelfs bij lage concentraties. Zie andere Hazard Information Profiles voor voorbeelden, waaronder lood (Pb, CH0103), kwik (Hg, CH0104), cadmium (Cd, CH0102) en arseen (As, CH0101).  
 
-#### 金属
-术语“金属健康风险”指暴露于金属物质可能对人类健康造成的潜在风险。金属是自然存在的元素，可在环境中以多种形式存在。虽然许多金属对生命至关重要且有益，但有些在特定形式或浓度下可能有害。与金属相关的健康危害可能因暴露途径（吸入、摄入或皮肤接触）、特定金属、化学形态以及暴露持续时间和强度等因素而异。常见的金属来源包括：矿石、矿床、土壤与沉积物、水体、植被、大气、制品、废物与回收。
+**Metalen:** De term “metal health hazard” verwijst naar de potentiële risico’s voor de menselijke gezondheid bij blootstelling aan metaal‑substanties. Metalen zijn van nature voorkomende elementen die in verschillende vormen voorkomen in het milieu.  
 
-#### 半金属
-具有部分金属和部分非金属属性的元素。
+**Meta‑organische elementen:** Elementen die zowel metallische als niet‑metallische eigenschappen vertonen.  
 
-#### 合金
-金属可与其他元素结合形成合金，合金往往具有优于单个元素的特性。常见合金包括黄铜（铜与锌）、青铜（铜与锡）、不锈钢（铁、铬、镍）以及铝合金。
+**Legeringen:** Metalen die gecombineerd zijn met andere elementen om legeringen te vormen, vaak met superieure eigenschappen.  
 
-#### 非金属污染物
-可能在土壤和水中成为污染物的元素或离子。由于其高离子潜能，13‑16 族非金属在其正常氧化态下会形成氧化阴离子。
+**Niet‑metaal‑contaminanten:** Elementen of ionen die potentieel contaminanten kunnen zijn in bodem en water.  
 
-#### 卤化物
-来自 17 族的阴离子，如氟化物、氯化物、溴化物和碘化物，亦被视为植物毒性空气污染物，且在高浓度下对健康有严重影响。高溴化物浓度可对水生生物产生致死效应。此外，卤化物在高级氧化过程中可捕获羟基自由基，降低多种水处理措施的效率。
+**Haliden:** Anionen uit Groep 17, zoals fluoride, chlooride, bromide en iodide, die als phytotoxische luchtverontreinigende stoffen worden beschouwd.  
 
-与有机污染物不同，微量元素无法通过代谢过程降解。然而，微量元素的一个重要特性是可存在于不同物种（如不同氧化态的铬（Cr(III)/Cr(VI) 或砷（As(III)/As(V)））并倾向于形成生物可利用的金属有机化合物（如甲基汞或四甲基铅），这决定了其生物可利用性和毒性。在实践中，大多数微量元素评估测量并报告总浓度（如铬）而非元素的具体化学形态（如 Cr(III) 或 Cr(VI)），由于实验室分析方法和连续提取方法的复杂性。
+Zoals bij organische contaminanten kan een essentieel kenmerk van trace‑elementen de mogelijkheid zijn om te bestaan als verschillende species (bijv. verschillende oxidatie‑staten).  
 
-氟化物，一种非金属污染物，是一种自然存在的矿物，公众经常通过饮用水暴露。根据摄入剂量，氟化物可能既有益处（降低龋齿发生率）也有害处（导致牙齿珐琅和骨骼氟症，长期高剂量暴露）。（来源：NCBI，2020；WHO，未注明日期）见 CH0105。
+### Metrics en numerieke limieten
+- **Arseen:** Limieten variëren van 10 µg/L in drinkwater tot 0,39 mg/kg in residentiële bodem.  
+- **Cadmium:** Limieten variëren van 3–5 µg/L in drinkwater tot 0,43 mg/kg in residentiële bodem.  
+- **Lood:** Typisch rond 10–15 µg/L in drinkwater en 400 mg/kg in bodem.  
+- **Kwik:** Limieten variëren van 1–6 µg/L in drinkwater tot 1,3 mg/kg in residentiële bodem.  
+- **Chroom:** Limieten variëren van 50–100 µg/L in drinkwater tot 0,3 mg/kg voor Cr(VI) in residentiële bodem.  
+- **Fluoride:** Richtlijnwaarde voor drinkwater is 1,5 mg/l; in de lucht is de richtlijnwaarde 1 µg/m³.  
+- **Iodide:** De Tolerable Upper Intake Level (UL) voor jodiumintake voor volwassenen is 1 100 microgram per dag.  
 
-碘化物，污染造成显著健康风险，包括甲状腺功能障碍和癌症风险，尤其是来自碘‑131 等放射性同位素。环境影响包括扰乱水生生态系统和土壤质量恶化。有效的监测和管理策略对于降低这些风险并保护公众健康和环境至关重要，见 CH0105。
+### Relevante VN-conventie / multilaterale verdragen
+- Basel Conventie: reguleert grensoverschrijdende beweging van gevaarlijk afval inclusief sporen‑elementen.  
+- Rotterdam Conventie: implementeert vooraf geïnformeerde toestemming voor gevaarlijke chemicaliën, inclusief bepaalde sporen‑elementen.  
+- Stockholm Conventie: richt zich op persistente verontreinigende stoffen, inclusief enkele sporen‑elementen.  
+- Minamata Conventie: richt zich specifiek op kwik, een sleutel‑sporen‑element.  
+- CLRTAP: behandelt luchtverontreiniging, inclusief zware metalen zoals lood, cadmium en kwik.  
 
-### 指标与数值限制
-指导值复杂，但总的来说以下内容可能有用：  
-- 砷：饮用水 10 µg /L 至住宅土壤 0.39 mg /kg。  
-- 镉：饮用水 3‑5 µg /L 至住宅土壤 0.43 mg /kg。  
-- 铅：饮用水约 10‑15 µg /L，土壤 400 mg /kg。  
-- 汞：饮用水 1‑6 µg /L 至住宅土壤 1.3 mg /kg。  
-- 铬：饮用水 50‑100 µg /L 至住宅土壤 0.3 mg /kg（Cr(VI)）。  
-- 氟化物：饮用水指导值 1.5 mg /L；空气中 1 µg/m³。  
-- 碘化物：成人可耐受上限摄入量 1,100 µg/天。OSHA 允许工作场所 0.1 ppm。碘‑131 在饮用水中的最大可接受浓度 3 pCi/L。
+### Drivers
+1. **Industriële activiteiten** – Voorbeeld: mijnbouw, steengroeve en smelten van metalen kan sporen‑elementen zoals lood, cadmium en arseen in het milieu vrijgeven.  
+2. **Landbouwpraktijken** – Voorbeeld: het gebruik van fosfaatbemesting kan cadmium in de bodem introduceren.  
+3. **Urbanisatie en infrastructuurontwikkeling** – Voorbeeld: bouwactiviteiten kunnen de concentratie van sporen‑elementen zoals chroom en lood verhogen.  
+4. **Afvalbeheerpraktijken** – Voorbeeld: onvoldoende verwerking van elektronisch afval en gebruikte batterijen kan kwik en lood in het milieu vrijgeven.  
+5. **Klimaatverandering** – Voorbeeld: hogere temperaturen en neerslag kunnen de mobiliteit en bio‑beschikbaarheid van sporen‑elementen beïnvloeden.  
+6. **Rampgebeurtenissen** – Voorbeeld: overstromingen kunnen sporen‑elementen van verontreinigde bodem en sedimenten in watervoorraden mobiliseren.  
 
-### 关键相关联合国公约 / 多边条约
-- 巴塞尔公约：控制跨境移动有害废物，包括微量元素。  
-- 鹿特丹公约：实施对危险化学品的事前信息同意，包括某些微量元素。  
-- 斯德哥尔摩公约：聚焦持久污染物，包括某些微量元素。  
-- 美浓公约：专门针对汞，一种关键微量元素。  
-- CLRTAP：涉及空气污染，包括重金属如铅、镉和汞。
+### Impacts
+1. **Milieu-impact** – Voorbeeld: bioaccumulatie van kwik in aquatische ecosystemen kan wildlife schaden en voedselketens verstoren.  
+2. **Menselijke gezondheidsimpact** – Voorbeeld: chronische blootstelling aan arseen in drinkwater kan huidschade, kanker en cardiovasculaire ziekten veroorzaken.  
+3. **Bodemdegradatie** – Voorbeeld: ophoping van cadmium in landbouwbodem kan de vruchtbaarheid verminderen.  
+4. **Economische impact** – Voorbeeld: verontreinigend land kan dure saneringsmaatregelen vereisen, wat invloed heeft op eigendomswaarden.  
 
-### 驱动因素
-**重金属/微量元素污染的危险驱动因素**  
-1. **工业活动**；例：采矿、采石和冶炼可将铅（Pb）、镉（Cd）和砷（As）等微量元素释放至环境。  
-2. **农业实践**；例：磷肥使用可将镉（Cd）引入土壤。  
-3. **城市化与基础设施发展**；例：建设活动可能因建筑材料、道路施工和废物导致铬（Cr）和铅（Pb）等微量元素浓度升高。  
-4. **废物管理实践**；例：电子废物和旧电池的不当处置可释放汞（Hg）和铅（Pb）。  
-5. **气候变化**；例：温度和降水增加可改变微量元素的迁移性和生物可利用性，影响其分布和浓度。  
-6. **灾害**；例：洪水可将受污染土壤和沉积物中的微量元素动员至水源。
+### Multi‑hazard context
+Het onderstaande diagram vat de gebruikelijke interacties tussen zware metalen & sporen‑elementen en andere risico’s samen. Deze informatie moet met voorzichtigheid gebruikt worden en mag niet als enige basis dienen voor rampenrisicobeheer.  
 
-### 影响
-1. **环境影响**；例：汞（Hg）在水生生态系统中的生物富集可能危害野生动植物并破坏食物链。  
-2. **人类健康影响**；例：长期接触砷（As）饮用水可能导致皮肤病变、癌症和心血管疾病。  
-3. **土壤退化**；例：镉（Cd）在农业土壤中的累积可降低土壤肥力和农作物产量。  
-4. **经济影响**；例：受污染土地可能需要昂贵的修复工作，影响财产价值和发展潜力。
+#### Multi‑hazard diagram
+*(diagram behouden in het originele formaat)*  
 
-### 多危害情境
-下面的图表概括了重金属与微量元素与其他危害之间的常见交互作用。使用此信息时请谨慎，并且不要仅凭此信息在灾害风险管理中做出决策，特别是某些交互作用可能未被包括。请注意，共同发生或在空间或时间上局部相邻的危害事件不一定会导致、放大或与彼此相关。可在上述“危害驱动因素”和“影响”部分中找到多危害情境的具体例子。
+### Risicobeheer
+1. **Regulering en wetgeving** – Voorbeeld: de EU REACH-regelgeving reguleert het gebruik van gevaarlijke stoffen, inclusief sporen‑elementen.  
+2. **Voorkomen van vervuiling** – Voorbeeld: implementatie van best practices in industriële processen om emissies te minimaliseren.  
+3. **Milieu‑monitoring en beoordeling** – Voorbeeld: regelmatige monitoring van bodem, water en lucht om contaminatie te detecteren.  
+4. **Sanering en opruiming** – Voorbeeld: gebruik van phytoremediation om bodem te reinigen.  
+5. **Publiek bewustzijn en educatie** – Voorbeeld: bewustmaking van de risico’s van sporen‑elementen.  
 
-### 风险管理
-1. **监管与立法**；例：欧盟 REACH（化学品注册、评估、许可与限制）法规控制危险物质的使用，包括微量元素。  
-2. **污染预防与控制**；例：在工业过程中实施最佳实践以最小化微量元素排放。  
-3. **环境监测与评估**；例：定期监测土壤、水和空气以检测并量化微量元素污染。  
-4. **修复与清理**；例：使用植物修复技术清除受铅（Cd）和铅（Pb）等重金属污染的土壤。  
-5. **公众意识与教育**；例：教育社区关于微量元素风险并推广安全做法。
+### Monitoring
+De sectie en tabel hieronder geven een overzicht van monitoring van zware metalen & sporen‑elementen.  
+Deze informatie kan gebruikt worden voor voorspellingen binnen een nationaal vroegwaarschijnings‑systeem (EWS).  
+Welke instantie(s) produceren gegevens over rampenrisico's?  
+- Waterschappen  
+- Gezondheidsinstanties  
+- Milieuinstanties  
+- Voedsel‑ en landbouwinstanties  
 
-### 监测
-本节及以下表格概述了监测重金属与微量元素的概览。此信息可用于国家早期预警系统（EWS）的预测。由于 EWS 的容量和流程因国家而异，需获取关于 EWS 的最新、最具体信息，来自负责灾害管理的相应国家或地区机构。
+Hoe wordt het risico waargenomen/gedetecteerd/voorspeld?  
+Monitoringtechnologieën kunnen gebruikt worden om de concentraties in water, bodem en lucht te detecteren in zowel batch‑ als real‑time; vaste en draagbare sensoren, zoals ionselectieve elektroden en spectrofotometers, kunnen nauwkeurige en continue metingen bieden.  
 
-产生灾害风险数据/信息的机构？  
-- 水务机构、卫生机构、环境机构、食品与农业机构。  
+### References
+Agency for Toxic Substances and Disease Registry (ATSDR), 2020. *Toxicological Profiles.* Provides detailed information on the health effects of various hazardous substances, including trace elements. (Available at ATSDR Profiles). Accessed 20 July 2024.  
 
-危害如何被观测/监测/预测？  
-监测技术可用于在水、土壤和空气中检测重金属与微量元素水平，既可分段亦可实时；固定和便携式传感器，如离子选择电极和分光光度计，可提供准确连续测量用于数据分析。传感器收集的数据通过自动系统分析，可在超过安全阈值时立即触发警报。
+Agency for Toxic Substances and Disease Registry (ATSDR), 2003. *Toxicological Profile for Fluorides, Hydrogen Fluoride, and Fluorine.* Provides detailed information on the toxicology of fluoride compounds, their health effects, and safety guidelines. Accessed 20 July 2024.  
 
-### 参考文献
-(保持原文中列出的完整参考文献列表，标题采用中文翻译或保持原文，视需要而定。)
+Codex Alimentarius Commission, 2014. *Report of the Eighth Session of the Codex Committee on Contaminants in Foods.* Joint FAO/WHO Food Standards Programme Codex Alimentarius Commission 37th Session Geneva, Switzerland.  
+
+Environmental Protection Agency (EPA), 2024. *National Primary Drinking Water Regulations.* Sets standards for drinking water contaminants, including fluoride and iodide, under the Safe Drinking Water Act. These regulations ensure the safety of public drinking water supplies in the United States. Accessed 20 July 2024.  
+
+European Chemicals Agency (ECHA). *ECHA website offers specific classification and labeling information for various substances, including trace elements.* (Available at ECHA Website). Accessed 20 July 2024.  
+
+European Union (EU), 2020. *Directive (EU) 2020/2184 of the European Parliament and of the Council of 16 December 2020 on the quality of water intended for human consumption (recast).* Accessed 2 May 2025.  
+
+Food and Agriculture Organization (FAO) and United Nations Environment Programme (UNEP), 2021b. *Global Assessment of soil Pollution—Summary for Policy Makers.* FAO, Rome, ISBN 978-92-5-134448-4.  
+
+National Research Council, 2006. *Fluoride in Drinking Water: A Scientific Review of EPA's Standards.* Washington, DC: The National Academies Press. Discusses the presence of fluoride in drinking water, its sources, health impacts, and mitigation strategies. Accessed 20 July 2024.  
+
+National Center for Biotechnology Information (NCBI), 2020. *PubChem Fluoride Compound Summary for CID 19800730.* National Center for Biotechnology Information (NCBI). Accessed 20 July 2024.  
+
+Occupational Safety and Health Administration (OSHA). *OSHA's hazard communication provides practical information on hazard classification and labeling.* (Available at OSHA Hazard Communication). Accessed 20 July 2024.  
+
+Rodríguez Eugenio, N., McLaughlin, M.J. & Pennock, D. (2018). *Soil pollution: a hidden reality.* Rome, Italy, Food and Agriculture Organization of the United Nations.  
+
+Toxicological Profile for Iodine, 2004. Offers comprehensive data on the health effects, exposure risks, and safety measures related to iodine and iodide compounds. Accessed 20 July 2024.  
+
+United Nations, 2019. *Globally Harmonized System of Classification and Labeling of Chemicals (GHS), 8th Revised Edition.* This document provides detailed criteria for the classification and labeling of hazardous substances, including trace elements. (Available at UNECE GHS). Accessed 20 July 2024.  
+
+United Nations Environment Program (UNEP). *Global Environment Monitoring System for Freshwater (GEMS/Water).* UNEP’s GEMS/Water program provides data and guidelines on water quality, including the monitoring of fluoride and iodide and other contaminants in freshwater systems. Accessed 20 July 2024.  
+
+United States Environmental Protection Agency (EPA), 2021. *National Primary Drinking Water Regulations.* Establishes legal limits on the levels of certain contaminants in drinking water. EPA Regulations. Accessed 20 July 2024.  
+
+United States Environmental Protection Agency (EPA), 2021. *Regional Screening Levels (RSLs) for Chemical Contaminants at Superfund Sites.* Offers risk-based concentrations for contaminants in soil and other media. EPA RSLs. Accessed 20 July 2024.  
+
+World Health Organization (WHO), 2017. *Guidelines for Drinking-water Quality, 4th Edition.* Provides recommended limits for various contaminants in drinking water, including trace elements. WHO Guidelines. Accessed 20 July 2024.  
+
+WHO, no date. *Inadequate or excess fluoride.* World Health Organization (WHO). Accessed 20 July 2024.  
+
+Cite this [Copy citation]
 ```
-
-This Markdown document presents a fully corrected, terminology‑consistent Chinese translation suitable for a Controlled Vocabulary for Disaster Risk Reduction (DRR) hazard profile.

@@ -1,42 +1,51 @@
-### Definition
-Hepatitis A er en **akut, vaccine‑forebyggelig leverinfektion** og kan forårsage symptomer fra mild til alvorlig sygdom. Sygdommen forekommer sporadisk og i epidemier verden over og har en tendens til cykliske recurrence, fordi viruset kan overleve i miljøet og modstå mad‑forarbejdning, som ofte anvendes til at inaktivere eller kontrollere bakterielle patogener (WHO, 2025a).
+### Definition  
+**Hepatitis A** er en akut, vaccine‑beskyttet viral lever sygdom, som kan forårsage mild til svær sygdom. Hepatitis A forekommer sporadisk og i epidemier over hele verden, med en tendens til cyklisk recurrence, da viruset kan overleve i miljøet og tåle fødevareproduktionsprocesser, der normalt inaktiverer eller kontrollerer bakterielle patogener (WHO, 2025a).
 
-### Primære reference(r)
-WHO, 2025a. *Hepatitis A*. Verdenssundhedsorganisationen (WHO). Tilgået 25. februar 2025.
+### Primære reference(r)  
+WHO, 2025a. Hepatitis A. World Health Organization (WHO). Tilgået 25. februar 2025.
 
-### Anmærkninger
-Almost everyone recovers fully from hepatitis A with lifelong immunity. However, a very small proportion of people infected with hepatitis A could die from fulminant hepatitis. The risk of hepatitis A infection is associated with a lack of safe water and poor sanitation and hygiene (such as contaminated and dirty hands). A safe and effective vaccine is available to prevent hepatitis A (WHO, 2025a).
+### Anmærkninger  
 
-#### Hovedpunkter
-- **Klarhed på transmission:** Hepatitis A er en inflammation af leveren forårsaget af Hepatitis A‑virus (HAV). Virusets primære transmission er afførings‑oral, dvs. inddragelse af mad eller vand forurenet med afføring fra en inficeret person.  
-- **Sundhedsstatus:** Unge børn under 6 år oplever sjældent symptomer, og kun 10 % udvikler gulsot. De ældre har en højere dødelighed.  
-- **Diagnostik:** Specifik diagnose foretages via detektion af HAV‑spesifikke IgM‑antistoffer eller RT‑PCR, som kan påvise infektion før IgM‑produktion.  
-- **Behandling:** Der findes ingen specifik antiviralt behandling; fokus er på støttende pleje, undgåelse af hepatotoksiske lægemidler og optimeret hydrerende og ernæringsmæssig støtte.  
+#### Yderligere videnskabelig beskrivelse  
+Næsten alle opnår fuldstændig helbredelse fra Hepatitis A med livslang immunitet. Dog kan en meget lille andel af personer, der er infekteret med Hepatitis A, dø af fulminant hepatit. Risikoen for Hepatitis A‑infektion er forbundet med mangel på sikkert vand og dårlige sanitetsforhold (såsom forurenede og beskidte hænder). Der er en sikker og effektiv vaccine til rådighed for at forhindre Hepatitis A (WHO, 2025a).  
 
-### Metrics og numeriske grænser
-- I 2016 estimeredes 7 134 dødsfald på grund af Hepatitis A globalt (0,5 % af dødeligheden ved vira‑hepatitis) (WHO, 2025a).
+*Hepatitis A er en inflammation af leveren forårsaget af Hepatitis A‑virus (HAV). Virusset spredes primært, når en uvendt (og uvaccineret) person indtager mad eller vand, der er forurenet med fækalier fra en infekteret person. Sygdommen er tæt forbundet med usikkert vand eller mad, utilstrækkelige sanitetsforhold, dårlig personlig hygiejne og oral‑anal sex (WHO, 2025a).*
 
-### Driver & Risikofaktorer
-- **Transmission:** Fokuseret på afførings‑oral rute, kontaminerede hænder ved madlavning, vandbårne udbrud og nært fysisk kontakt.  
-- **Miljøfaktorer:** Mangel på sikker drikkevand, dårlig sanitet og hygiejne.  
-- **Sociale faktorer:** Vandretur til områder med høj endemi, brug af rekreative stoffer, homoseksuel sex og vandretur til isolerede grupper.  
+*Udover Hepatitis B og C forårsager Hepatitis A ikke kronisk lever sygdom, men den kan forårsage milde til svære symptomer og sjældent fulminant hepatit (akut lever svigt), som ofte er dødelig. WHO anslår, at der i 2016 døde 7 134 personer af Hepatitis A globalt (0,5 % af dødsfaldene fra viral hepatit) (WHO, 2025a). Hepatitis A forekommer sporadisk og i epidemier over hele verden, med en tendens til cyklisk recurrence. Epidemier relateret til forurenet mad eller vand kan bryde ud eksplosivt, som den epidemie i Shanghai i 1988, der påvirkede ca. 300 000 personer (Wang et al., 1990). De kan også være længerevarende, påvirke lokalsamfund i måneder via person‑til‑person transmission. Hepatitis A‑virus er vedvarende i miljøet og kan modstå fødevareproduktionsprocesser, der normalt inaktiverer eller kontrollerer bakterielle patogener (WHO, 2025a).*
 
-### Risikostyring
-- **Diagnostiske værktøjer:** IgM‑ELISA, RT‑PCR, og overvågning af HAV‑antistoffer for tidlig opsporing og overvågning af infektionens progression.  
-- **Forebyggelse:** Vaccination, forbedret sanitet, sikker drikkevand, korrekt håndhygiejne og sikre seksuelle praksisser.  
-- **Behandling:** Støttende pleje, undgåning af hepatotoksiske stoffer, og rehydrering ved opkastning og diarré.  
+#### Målinger og numeriske grænser  
+Hepatitis A forekommer sporadisk og i epidemier globalt, med en tendens til cyklisk recurrence. Epidemier relateret til forurenet mad eller vand kan bryde ud eksplosivt (WHO, 2025a). I 2016 anslog 7 134 personer døde af Hepatitis A globalt (0,5 % af dødsfaldene fra viral hepatit) (WHO, 2025a).
 
-### Multi‑hazard kontekst
-- Mennesker uden vaccination eller tidligere infektion er i risiko. Ved høj endemi forekommer de fleste infektioner i tidlig barndom. Risikofaktorer inkluderer: dårlig sanitet, utilstrækkelig vandforsyning, husstand med inficeret person, seksuel kontakt med akut infekteret, og rejse til høj‑endemi‑områder uden immunisering.
+### Nøgle-relevante FN‑konventioner / multilaterale traktater  
+International Health Regulations (2005), 3rd ed. (WHO, 2016).
 
-### Monitoring
-- **Vandforsyningsovervågning:** Kernefunktion for folkesundhed. Risk‑baseret overvågning understøtter udvikling af effektive overvågningsprogrammer og forudsigelse af langsigtede ændringer.
+### Kendte drivere  
+- **Fekal‑oral rute**: Hepatitis A‑viruset overføres primært via fekal‑oral rute; det sker, når en uvendt person indtager mad eller vand, der er forurenet med fækalier fra en infekteret person.  
+- **Familiekontamination**: I familier kan dette ske via beskidte hænder, når en infekteret person forbereder mad for familiemedlemmer.  
+- **Vandbårne udbrud**: Selvom sjældne, er de typisk forbundet med kloakforurenet eller utilstrækkeligt behandlet vand.  
+- **Tæt fysisk kontakt**: Virusset kan også overføres via tæt fysisk kontakt (såsom oral‑anal sex) med en infekteret person, selvom casual kontakt blandt mennesker ikke spreder viruset (WHO, 2025a).
 
-### Referencer
-- WHO, 2016. *International Health Regulations (2005), 3rd ed.*  
-- WHO, 2018. *Vaccine‑preventable diseases surveillance standards: Hepatitis A.*  
-- WHO, 2025a. *Hepatitis A.*  
-- WHO, 2025b. *28 Juli er World Hepatitis Day.*  
-- Wang, J.Y. et al., 1990. *Risk factor analysis of an epidemic of hepatitis A in a factory in Shanghai.* Int J Epidemiol. 19(2):435‑8.  
+### Påvirkninger  
+Incubationstiden for Hepatitis A er normalt 14–28 dage. Symptomerne spænder fra milde til svære og kan inkludere feber, utilpashed, appetitløshed, diarré, kvalme, mavesmerter, mørk urin og gulsot (gulning af øjne og hud). Ikke alle infekterede vil have alle symptomer. Voksne har symptomer oftere end børn. Sværhedsgraden og dødelige udfald er højere hos ældre aldersgrupper. Børn under 6 år oplever sjældent synlige symptomer, og kun 10 % udvikler gulsot. Hepatitis A kan nogle gange relapser, hvilket betyder, at den person, der netop er genoprettet, bliver syg igen med en anden akut episode. Dette følges normalt af helbredelse (WHO, 2025a).  
 
-*(All headings formatted in standard Markdown, and legacy formatting removed.)*
+Geografiske distributionsområder kan karakteriseres som høje, mellem eller lave niveauer af HAV‑infektion. Inficerede unge børn oplever dog ingen synlige symptomer. Infektion er almindelig i lav‑ og mellemindkomstlande med dårlige sanitetsforhold og hygiejnisk praksis, og de fleste børn (90 %) er infekteret med HAV før 10 år, ofte uden symptomer. Infektionsrater er lave i højindkomstlande med gode sanitetsforhold. Sygdommen kan forekomme blandt teenagere og voksne i højrisikogrupper, såsom personer, der bruger stoffer (PWID), mænd, der har sex med mænd (MSM), personer, der rejser til områder med høj endemisk forekomst og isolerede populationer, såsom lukkede religiøse grupper. I USA er der rapporteret store udbrud blandt hjemløse personer (WHO, 2025a).
+
+### Multihazardkontekst  
+Enhver, der ikke er vaccineret eller tidligere infekteret, kan blive infekteret med HAV og er i risiko. I områder, hvor viruset er udbredt (høj endemisk forekomst), sker de fleste HAV‑infektioner i tidlig barndom (WHO 2025a). Andre risikofaktorer: dårlig sanitetsforhold; mangel på sikkert vand; ophold i husstand med infekteret person; sexpartner til person med akut HAV‑infektion; brug af rekreative stoffer; sex mellem mænd; rejse til områder med høj endemisk forekomst uden immunisering (WHO, 2025a).
+
+### Risikostyring  
+Infektioner med Hepatitis A er klinisk ikke skelnes fra andre typer af akut viral hepatit. Specifik diagnose opnås ved at detektere HAV‑specifik immunoglobulin G (IgM) i blod. Yderligere tests omfatter reverse‑transkriptase polymerasekædereaktion (RT‑PCR) for at detektere HAV‑RNA og kan kræve specialiserede laboratoriefaciliteter. PCR kan detektere HAV‑infektion tidligt, før patienten udvikler antistoffer (IgM anti‑HAV). Dette er særligt nyttigt til at diagnosticere Hepatitis A i tidlige stadier. PCR kan desuden hjælpe med at overvåge infektionens progression og helbredelse. Der findes ingen specifik antiviralt behandling for Hepatitis A. I stedet fokuserer håndteringen af Hepatitis A på støttende pleje for at lindre symptomer og sikre tilstrækkelig hydrering og ernæring. Helbredelse efter infektion kan være langsom og tage flere uger eller måneder. Det er vigtigt at undgå unødvendige lægemidler, der kan påvirke leveren negativt, f.eks. acetaminophen, paracetamol. Hospitalisering er unødvendig uden alvorlig sygdom eller akut lever svigt. Terapien har til formål at opretholde komfort og tilstrækkelig ernæringsbalance, herunder udskiftning af væsker tabt ved opkast og diarré. Forbedret sanitetsforhold, fødevaresikkerhed, sikre sexvaner (især for oral‑anal sex) og immunisering er de mest effektive metoder til at bekæmpe Hepatitis A. Spredning af Hepatitis A kan reduceres ved: passende forsyning af sikkert drikkevand; korrekt bortskaffelse af kloakaffald i samfund; personlige hygiejnepraksisser såsom regelmæssig håndvask før måltider og efter toiletbesøg; brug af sikre sexmetoder – inklusive kondomer, tanddæmpere og god hygiejne. Flere injicerbare inaktiverede Hepatitis A‑vacciner er tilgængelige internationalt. Alle giver tilsvarende beskyttelse mod viruset og har sammenlignelige bivirkninger. Ingen vaccine er autoriseret til børn under 1 år. I Kina er også en levende svækket vaccine tilgængelig. Hurtig detektion og verifikation af sundhedshændelser er afgørende for at redde liv. WHon globale overvågningssystem opfanger offentlige sundhedstrusler døgnet rundt, 365 dage om året. HAV‑udbrud rapporteres regelmæssigt til WHO, og organisationen leverer en koordineret 3‑niveau respons til sine medlemsstater efter behov. Globale sundhedsvæsen‑strategier for henholdsvis HIV, viral hepatit og seksuelt overførte infektioner for perioden 2022–2030 (GHSSs) vejleder sundhedsvæsenet i at implementere strategisk fokuserede svar for at nå målene om at afslutte AIDS, viral hepatit (især kronisk hepatitis B og C) og seksuelt overførte infektioner inden 2030 (WHO GHSSs, 2022). GHSS anbefaler fælles og sygdomsspecifik landhandlinger støttet af WHO og partnere. De overvejer epidemiologiske, teknologiske og kontekstuelle skift fra tidligere år, fremmer læring på tværs af sygdomsområder og skaber muligheder for at udnytte innovation og ny viden for effektive svar. De opfordrer til at skalere forebyggelse, testning og behandling af viral hepatit med fokus på at nå de mest berørte og risikoprægede befolkninger for hver sygdom samt adressere huller og uligheder. De fremmer synergier under en universel sundhedsdækning og primær sundhedspleje og bidrager til at nå målene i 2030‑Agendaen for Bæredygtig Udvikling (WHO GHSSs, 2022). WHO organiserer den årlige Verdens Hepatitis‑dag, der afholdes den 28. juli (WHO, 2025b). For Verdens Hepatitis‑dag 2024 fokuserer WHO på temaet “Det er tid til handling” for at illustrere hastigheden ved at skalere forebyggelse, testning og behandling af viral hepatit for at forebygge lever sygdomme og kræft samt nå 2030‑målene for eliminerings­fremstilling af hepatitis (WHO, 2025b).
+
+### Overvågning  
+Drikkevandsovervågning er en kernefunktion i folkesundhed og en integreret del af rammeværket for sikkert drikkevand, som anbefales af WHO‑retningslinjerne for drikkevandskvalitet. Det er grundlæggende for levering af sikkert drikkevand og beskyttelse af folkesundhed ved at fremme forbedring af kvalitet, mængde, tilgængelighed, pålidelighed, pris og kontinuitet af drikkevandforsyning. Risikobaseret drikkevandsovervågning betragtes som bedste praksis, da den understøtter udviklingen af passende og effektive overvågningsprogrammer for individuelle forsyninger. Den hjælper også med at forudsige og identificere langsigtede ændringer og tilknyttede risici for drikkevandforsyning (WHO, no date h).
+
+---
+
+**References**  
+Wang, J.Y., Hu, S.L., Liu, H.Y., Hong, Y.L., Cao, S.Z., Wu, L.F., 1990. Risk factor analysis of an epidemic of hepatitis A in a factory in Shanghai. Int J Epidemiol. 19(2):435-8. doi: 10.1093/ije/19.2.435. PMID: 2165466. Accessed 25 May 2025.  
+WHO GHSSs, 2022. Available from: Global health sector strategies on, respectively, HIV, viral hepatitis and sexually transmitted infections for the period 2022-2030. Geneva: World Health Organization (WHO) Licence: CC BY-NC-SA 3.0 IGO Accessed 25 February 2025.  
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Accessed 13 February 2025.  
+WHO, 2018. Vaccine preventable diseases surveillance standards: Hepatitis A. World Health Organization (WHO). Accessed 24 February 2025.  
+WHO, 2025a. Hepatitis A. World Health Organization (WHO). Accessed 25 May 2025.  
+WHO 2025b. 28 July is World Hepatitis Day. World Health Organization (WHO). Accessed 25 May 2025.  
+Cite this [Copy citation]

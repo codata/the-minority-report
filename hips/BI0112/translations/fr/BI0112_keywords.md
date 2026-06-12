@@ -1,0 +1,1 @@
+cysticercosis in humans and pigs,larval stages of the parasite Taenia solium,neurocysticercosis,cysticercosis in pigs,faecal oral route,ingestion of tapeworm eggs,neurocysticercosis caused by T. solium,cysticercosis in humans,seizures and epileptic seizures,encyst in the central nervous system

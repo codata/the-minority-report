@@ -1,50 +1,88 @@
-### 定义
-爆炸物或爆炸剂是一种固体或液体物质（或物质混合物），本身通过化学反应能够在特定温度、压力与速度下产生气体，足以对周围环境造成损害。即使不产生气体，炮制品与混合物亦被纳入其中。爆炸可在单一事件中造成多起严重伤亡（改编自 UN 2023 及 UK Parliament POSTNOTE 2011）。
+```markdown
+### Definitie
+Een **explosieve stoffen** of agent is een vaste of vloeibare stof (of mengsel van stoffen) die door een chemische reactie in zichzelf gas kan produceren bij een bepaalde temperatuur en druk, met een bepaalde snelheid, waardoor schade aan de omgeving ontstaat. Pyrotechnische stoffen en mengsels worden ook opgenomen, zelfs wanneer ze geen gas produceren. Explosies kunnen meerdere ernstig gewonden slachtoffers veroorzaken in één incident (uit UN 2023 en UK Parliament POSTNOTE 2011).
 
-### 主要参考文献
-- UN, 2023. **全球统一化学品分类与标记系统（GHS）** 第十版。  
-- UK Parliament POSTNOTE, Explosive injury Number 395, 2011.  
+#### Primair referentie(s)
+UN, 2023. *Globally Harmonized System of Classification and Labelling of Chemicals (GHS) tenth revised edition United Nations (UN).* Toegang 15 maart 2025  
+UK Parliament POSTNOTE Explosive injury Number 395 December 2011. Toegang 14 maart 2025  
 
-### 注释  
-#### 额外科学描述  
-爆炸物在各行业、弹药以及自制爆炸装置（IED）中被商业使用，存放不当会造成危险。以 2020 年 8 月 4 日黎巴嫩贝鲁特港的大规模化学爆炸为例，约 2,750 吨硝酸铵（AN）在相邻仓库起火后引发超音速冲击，造成 220 人死亡，6,500 人受伤，附近密集住宅和商业区遭受严重破坏（Al‑Hajj 等，2021）。  
-爆炸剂亦属于 CBRNE 的 “E”，即化学、生物、放射、核与爆炸材料或武器的总称。此类材料的恶意使用可能造成重大危害或破坏（Goulart 等，2022）。爆炸剂是常称的“常规武器”之一。技术上，爆炸材料包括炸弹、炮弹、手榴弹、导弹、地雷与自制爆炸装置，皆由高爆物质点火或引爆启动（UNODA 无日期）。
+### Annotaties
+#### Aanvullende wetenschappelijke beschrijving
+**Explosieve stoffen** worden commercieel gebruikt in diverse industriële toepassingen, in munitie en in improvisatie‑explosieve apparaten die gevaarlijk kunnen zijn bij opslag en in niet‑conflict‑omgevingen. Ammoniumnitraat is een explosief, en het ongeschikte opslaan heeft meerdere explosies veroorzaakt. Als voorbeeld resulteerde de massale chemische detonatie op 4 augustus 2020 in de haven van Beiroet, Libanon, in een oncontroleerde brand in een aangrenzend magazijn dat ongeveer 2 750 ton ammoniumnitraat (AN) ontbrandde; de ontploffing produceerde een supersonische druk en leidde tot 220 doden en meer dan 6 500 gewonden, met ernstige schade aan de dichtbevolkte woon- en commerciële gebieden (Al‑Hajj et al., 2021).  
 
-#### 爆炸物的组成与爆炸机理  
-爆炸剂通常同时携带燃料与氧化剂。高氮与高氧含量的化合物往往具备爆炸性。Goulart 等（2022）指出，爆炸所需三要素为：  
-1. **燃料**：易燃物质，可氧化生成稳定小分子（如 N₂、CO₂ 或 H₂O）。  
-2. **氧化剂**：常为 O₂ 或氧化性离子（如硝酸根离子）。  
-3. **点火源**：火花或高热。  
+Explosieve agenten zijn ook opgenomen als de “E” van CBRNE, de afkorting die vaak wordt gebruikt om de inzet van Chemisch, Biologisch, Radiologisch, Nucleair en Explosief (CBRNE) materialen of wapens te beschrijven. Het kwaadwillig gebruik van dergelijke materialen kan aanzienlijke schade of verstoring veroorzaken (Goulart et al., 2022). Explosieve agenten vormen een subset van wat doorgaans wordt aangeduid als conventionele wapens.  
 
-#### 爆炸物的分类  
-- **初级爆炸物**：易于被非爆炸性简单触发（如火焰、冲击、摩擦、热、电或火花）引爆，主要用于产生冲击波以启动次级爆炸物或点燃推进剂。  
-- **次级爆炸物**：对非爆炸性刺激相对不敏感，由引爆器引发，广泛用于爆破及产生碎片与加速效应。  
+Technologisch gezien zijn er vele soorten explosieve materialen, waaronder bommen, artilleriegranaten, granaten, raketten, landmijnen en improvisatie‑explosieve apparaten, die worden geactiveerd door de detonatie van een hoogexplosief materiaal (UNODA no date).  
 
-#### 军事与民用爆炸物  
-- **民用爆炸物**：如炸药、ANFO、混浊爆炸物。  
-- **爆破爆炸物**：用于采石、道路建设与拆除。  
-- **混浊爆炸物**：形态为混浊液，使用相对安全，主要用于矿业与道路隧道施工。  
-- **高能材料**：含有大量储存化学能，可在受控方式释放，包括爆炸物、推进剂、炮制品及其成分。  
-- **双组分爆炸物**：两种安全处理成分混合后产生爆炸。  
+**Typen wapens** die bijzonder problematisch zijn op het gebied van munitiesafety en indirect vuurwapens, zoals artillerie, raketten en mortieren, wapens die in salven schieten, zoals multi-launch rocket systems, grote aaggedropte bommen en oppervlakte‑naar‑oppervlakte balistische raketten. Dergelijke systemen omvatten vaak munities met een grote vernietigingsradius, wapens met onnauwkeurige afleveringssystemen of wapen­systemen die meerdere munities over een groot gebied afleveren (UNODA no date).  
 
-#### 自制爆炸装置（IED）  
-- **定义**：由多种预制成分混合而成，可能来源于军用或商业化爆炸物。  
-- **威胁**：易于构造、成本低，能够在任何地方制造。  
-- **分类**：依据速度（高/低）评估危害。  
+Een bebouwde omgeving wordt doorgaans opgevat als een permanente of tijdelijke concentratie van burgers en/of burgerobjecten. Een voornaam zorg is het gebruik van explosieve wapens, met name die met een groot‑gebiedseffect, in bebouwde gebieden. Veel van deze wapens zijn oorspronkelijk ontworpen voor gebruik op open slagvelden en zijn inherent willekeurig wanneer ze in bebouwde gebieden worden gebruikt, wat leidt tot een toename van civiele slachtoffers en verwoestende humanitaire gevolgen (UNODA no date).  
 
-#### 监测与管理  
-- **培训**：针对爆炸现象、预防技术与法规，欧盟爆炸物处置网络（EEODN）提供协作与训练。  
-- **检测**：航空安检采用 X‑射线筛查，爆炸检测犬（EDD）具备高灵敏度。  
-- **信息共享**：针对 IED 设计与成分，成员国需共享捕获或攻击后的信息。  
-- **法规**：UN 大会通过决议（70/46），呼吁统一收集数据、提升监管与技术援助。  
+Explosieve agenten dragen doorgaans zowel het brandstof‑ als het oxidatie‑medium dat nodig is voor het proces. Stoffen met een hoog stikstof‑ en zuurstofgehalte zijn vaak explosief. Goulart et al. (2022) melden dat er drie noodzakelijke componenten zijn voor een explosie om zich voor te doen:
 
-### 参考文献  
-- Al‑Hajj, S., et al. 2021. *Beirut Ammonium Nitrate Blast: Analysis, Review, and Recommendations*. Frontiers in Public Health.  
-- Goulart De Medeiros, M., et al. 2022. *EU CBRNe Glossary*. Publications Office of the European Union.  
-- Health and Safety Executive (HSE). 2002. *Dangerous Substances and Explosive Atmospheres Regulations 2002*.  
-- UK Parliament POSTNOTE. 2011. *Explosive Injury Number 395*.  
-- United Nations. 2008. *Convention on Certain Conventional Weapons, Amended Protocol II*.  
-- United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA). 2017. *Reducing the humanitarian impact of the use of explosive weapons in populated areas*.  
-- United Nations Office for Disarmament Affairs (UNODA). 2014. *Improvised Explosive Devices (IEDs) Publication*.  
+1. **Brandstof**: een brandbare stof die kan worden geoxideerd tot zeer stabiele kleine moleculen zoals stikstofgas (N₂), kooldioxide (CO₂) of water (H₂O). De vorming van dergelijke stabiele moleculen leidt tot de vrijgave van grote hoeveelheden energie en de snel bewegende kleine moleculen veroorzaken de beschadigende drukgolf(en).
+2. **Oxidant**: vaak zuurstof (O₂), of een zuurstof‑rijke soort zoals het nitraaat‑ion, vereist in grote hoeveelheden en in combinatie met de brandbare stof om een explosief milieu te produceren.
+3. **Ontsteking**: een vonk of hoge hitte moet ook aanwezig zijn.
 
----
+In samenvatting kunnen explosieven als volgt worden beschreven:
+
+- **Primaire explosieven** zijn stoffen of mengsels die gemakkelijk kunnen worden gedetoneerd door een niet‑explosieve, eenvoudige initiatie‑impuls zoals vlam, impact, wrijving, hitte, elektriciteit of vonk. Ze worden voornamelijk gebruikt in toepassingen waar een schokgolf voor de initiatie van een minder gevoelig secundair explosief of een vlam voor de initiatie van propellanten gewenst is. De meeste primaire explosieven zijn zeer gevoelig voor mechanische stimuli, waardoor ze zeer gevaarlijk zijn om te hanteren (Goulart et al., 2022).
+- **Secundaire explosieven** zijn individuele explosieve verbindingen of formuleringen die relatief ongevoelig zijn voor niet‑explosieve stimuli. Secundaire explosieven worden geïnitieerd door een detonator. Ze worden gebruikt voor ontploffing en om fragmentatie‑ en acceleratie‑effecten te verkrijgen in vele industriële en militaire toepassingen (Goulart et al., 2022).
+
+Volgens Goulart et al. (2022) worden verschillende soorten explosieven als volgt gedefinieerd:
+
+- **Civiele explosieven** zijn explosieven die commercieel worden geproduceerd voor niet‑militaire doeleinden. Voorbeelden zijn dynamiet, ANFO en emulsi‑explosieven (Goulart et al., 2022).
+- **Breekexplosieven** is een term die wordt gebruikt voor explosieven in civiele toepassingen, bijvoorbeeld bij steengroeve, wegbouw en sloop (Goulart et al., 2022).
+- **Emulsi‑explosieven** zijn explosieven in de vorm van een emulsi. Ze zijn relatief veilig in gebruik en moeilijk te initiëren. Het primaire gebruik van emulsi‑explosieven is voor civiel gebruik in de mijnindustrie en tijdens weg- en tunnelbouw (Goulart et al., 2022).
+- **Energetische materialen** zijn gedefinieerd als een klasse van verbindingen, stoffen en formuleringen die een hoog gehalte aan opgeslagen chemische energie bevatten, die kan worden geprogrammeerd om gecontroleerd vrij te geven. Dit omvat, maar is niet beperkt tot, materialen zoals explosieven, propellanten, pyrotechnica en hun ingrediënten.
+- **Binaire explosieven** zijn tweekomponentexplosieven die twee veilig te hanteren verbindingen bevatten. De uiteindelijke explosie wordt bereid door beide verbindingen vóór gebruik te mengen. **Homemade explosives (HMEs)** worden vaak aangetroffen in improvisatie‑explosieve apparaten (IED). Er zijn twee hoofd­categorieën die HMEs voorbereiden en/of gebruiken; HMEs kunnen worden gemaakt van verschillende voorstulpers, en sommige van hen kunnen onschadelijk zijn in zichzelf en gemakkelijk toegankelijk. De dreiging van aanvallen met improvisatie‑explosieve apparaten is een wereldwijd probleem. Goedkope en relatief eenvoudige te bouwen IED’s kunnen overal worden gemaakt met een breed scala aan materialen. De classificatie van de schade door het explosieve apparaat kan worden bepaald via zijn snelheid (hoog/lage). Het ontbreken van een goede veiligheidsopslag voor militaire en commerciële explosieven – waardoor ze vatbaar zijn voor afleiding naar illegale handen – vormt ook een significante veiligheids­risico (UNODA, 2014).
+
+#### Metrics en numerieke limieten
+De ladingmassa voor verschillende soorten explosieven kan worden uitgedrukt in TNT‑equivalent (kg). TNT‑equivalent verwijst naar de hoeveelheid energie die vrijkomt bij een explosie, gemeten in termen van de energie die vrijkomt bij een specifieke hoeveelheid TNT.
+
+#### Belangrijkste relevante VN-conventie / multilaterale verdrag
+Conventie inzake bepaalde conventionele wapens, Aangepast Protocol II (United Nations, 2008).
+
+In 2015 nam Afghanistan het voortouw binnen de Verenigde Naties Algemene Vergadering om een resolutie te ontwikkelen die gericht is op de noodzaak voor een effectieve mondiale, alomvattende, gecoördineerde aanpak om de proliferatie van IED’s in settings van gewelddadig extremisme en instabiliteit te bestrijden. De resolutie (70/46), aangenomen per consensus, omvatte een oproep voor de consistente verzameling van gegevens, bewustmakingsbevordering, opties voor de regulering van componenten, internationale technische assistentie en samenwerking, en slachtoffer‑ondersteuning.
+
+#### Voorbeelden van drijvers, uitkomsten en risicobeheer
+
+##### Drijvers
+Hazard‑drijvers die verband houden met explosieve agenten omvatten onjuist hanteren, onveilige opslag en onveilige transport (HSE, 2002). Veel soorten explosieve wapens bestaan en worden momenteel gebruikt. Deze omvatten aaggedroppende bommen, artillerieprojectielen, raketten en raketten, mortierenbommen en improvisatie‑explosieve apparaten (IED’s). Sommige worden uit de lucht gelanceerd en anderen van het oppervlak. Hoewel verschillende technische kenmerken hun aflever­precisie en explosief effect bepalen, creëren deze wapens over het algemeen een zone van ontploffing en fragmentatie met het potentieel om te doden, te verwonden of te beschadigen iedereen of alles binnen die zone. Dit maakt hun gebruik in bebouwde gebieden – zoals steden, markten en kampen voor vluchtelingen en verplaatste personen of andere concentraties van burgers – bijzonder problematisch. De problemen verergeren verder als het effect van het wapen zich over een groot gebied uitstrekt, hetzij door de schaal van de ontploffing die ze produceren; hun onnauwkeurigheid; het gebruik van meerdere munities over een gebied; of een combinatie hiervan (UNOCHA 2017). Ammoniumnitraat is een explosief en het ongeschikte opslaan heeft meerdere explosies veroorzaakt (Al‑Hajj et al., 2021).
+
+##### Impacten
+Het hazard‑gebied moet worden beoordeeld telkens wanneer een explosief (of potentieel explosief) apparaat wordt gevonden of gebruikt. Het hazard‑gebied hangt af van de hoeveelheid explosief. Het hazard‑gebied moet rekening houden met de pure ontploffingseffecten (schokgolf) evenals de effecten van een fragmenterende lading (schrapnel), fragmenterende bron, de brandbal, het kratervolume en het verdrijvend materiaal. Het hazard‑gebied is groter voor een grotere hoeveelheid explosief, evenals voor een fragmenterende lading. Letsel hangt af van de specifieke locatie van een explosie, die de ernst kan intensiveren, waardoor meer schade kan ontstaan; letsel bij explosies wordt meestal gecategoriseerd als volgt:
+
+- **Primair**: veroorzaakt door een plotselinge drukstijging na een explosie, die de luchtrelatieve organen beïnvloedt, zoals de long, het oor, het oog, enz.
+- **Secundair**: resulteert uit bomfragmenten en puin die door de explosie worden geënereerd. Deze hebben verschillende lethality‑niveaus; grotere fragmenten kunnen meer energie overdragen, wat de schade verhoogt.
+- **Tertiair**: veroorzaakt wanneer het slachtoffer door de explosie wordt gegooid en botst met nabijgelegen objecten. Ze kunnen zowel lokale als globale effecten hebben; lokale deformatie van de vloer van een beschermende structuur, bijvoorbeeld, of globale versnelling van de structuur zelf met het slachtoffer erin.
+- **Quarternair**: gerelateerd aan de thermische effecten van de ontploffing, toxische effecten en alle risico’s die voortvloeien uit het incident, zoals verdrinking (voertuigoverrol in de rivier) of bevriezing (schuilplaatsvernietiging) (UK Parliament POSTNOTE 2011). De willekeurige aard van explosies betekent dat zowel kinderen als vrouwen, inclusief zwangere vrouwen, kunnen worden verwond. Disruptie van de placenta, en foetale schedelfracturen kunnen optreden als gevolg van deze gebeurtenissen bij zwangere vrouwen. Kinderen lijden een groter aandeel van hoofd‑letsel vanwege hun grotere grootte vergeleken met het rest van het lichaam (UK Parliament POSTNOTE 2011).
+
+##### Multi‑hazard context
+De onderstaande figuur vat de meest voorkomende interacties tussen explosieve agenten en andere gevaren samen. Deze informatie moet met voorzichtigheid worden gebruikt en mag niet uitsluitend worden vertrouwd in het Beheer van het Risico op Catastrofe, met name omdat sommige interacties mogelijk niet zijn opgenomen. Merk op dat gevaarlijke gebeurtenissen die samen of lokaal in ruimte of tijd plaatsvinden, niet noodzakelijk een amplificatie of een andere relatie tot elkaar hebben. Specifieke voorbeelden van multi‑hazard context kunnen worden gevonden in de secties ‘Hazard drivers’ en ‘Impacts’ hierboven.
+
+##### Risicobeheer
+Training over het begrijpen van het fenomeen explosies, inclusief hun gevolgen, de beschikbare preventietechnieken en de regelgevingsvereisten voor een veilige en conforme werkomgeving, wordt door veel organisaties geboden. Mechanismen bestaan op vele plaatsen en als voorbeeld het Europese Netwerk voor Explosieven‑ en CBRN‑onderhoud (EEODN) is een netwerk van wetshandhavingsspecialisten in explosieven en CBRN van de bevoegde autoriteiten van de EU‑MS. Gecreëerd door EUROPOL in 2008 om samenwerking te vergemakkelijken, technische en casusgerelateerde informatie te delen tussen EU‑explosieven en CBRN‑specialisten en om gezamenlijke trainingen en oefeningen te organiseren. Als voorbeelden van risicobeheer beschrijven Goulart et al. (2022) explosiedetectiesystemen binnen de luchtvaartveiligheid die tegenwoordig meestal betekenen X‑ray‑scanners voor handbagage (ook wel ingecheckte handbagage genoemd) (Goulart et al., 2022).  
+
+**Explosie‑detectiehonden (EDD)** zijn honden die zijn getraind voor de detectie van explosieven en worden gebruikt als mobiele detectors met een unieke capaciteit om de bron te vinden, dankzij hun sterke gevoeligheid voor geuren (1.000–10.000.000 keer hoger dan die van een mens, wordt verklaard door de aanwezigheid van 300 miljoen reukreceptoren die hun neuslijnen bedekken, tegenover 6 miljoen bij een mens). Echter, canine detectie heeft beperkingen met betrekking tot het niet kunnen communiceren van de identificatie van het gedetecteerde middel. EDD’s zijn toegestaan als screeningsmethode voor het screenen van personen, cabine‑handbagage en handbagage en vracht in civiele luchtvaart. Ze worden ook vaak gebruikt in de infrastructuurbescherming (Goulart et al., 2022).  
+
+Daarnaast versterking van waakzaamheid en nationale controles: IED’s worden vaak gemaakt met militair‑ of commercieel sourced explosieven. De resolutie van de VN‑Algemene Vergadering roept op tot maatregelen om een strengere controle over materialen of componenten die worden gebruikt voor het maken van IED’s te implementeren. Deze controles kunnen nationale munitie‑voorraad en industriële geproduceerde detonators, detonatie‑touwen en industriële explosieven omvatten, zoals voor mijnbouw. Relevante industrieën en ondernemingen kunnen ook worden aangemoedigd om zich in te zetten voor de regulering van voorstulpers en prefab‑componenten (UNODA, 2014).  
+
+Verhogen van informatie‑deling: door het ad-hoc ontwerp van IED’s is er een overweldigende noodzaak voor staten om informatie te delen over de samenstelling en productiemethoden van gevangenen IED’s, inclusief na IED‑aanvallen. De resolutie benadrukt deze noodzaak. Effectieve informatie‑deling over IED‑ontwerpen en componenten tussen lidstaten heeft het potentieel om de leercurve die militaire en veiligheids­troepen moeten doorlopen om effectieve tegenmaatregelen te identificeren en te ontwikkelen, te verkorten. Ook zullen burgers beter beschermd worden wanneer effectieve informatie‑deling over nieuwe IED‑ontwerpen leidt tot snellere neutralisatie (UNODA, 2014).  
+
+De Secretaris‑Generaal van de Verenigde Naties heeft de willekeurige en ernstige humanitaire impact van het gebruik van explosieve wapens in bebouwde gebieden sinds 2009 benadrukt. Hij heeft consequent zijn rapporten aan de Veiligheidsraad over de bescherming van burgers in gewapend conflict gebruikt om aandacht te vestigen op de verwoestende effecten van het gebruik van explosieve wapens in bebouwde gebieden op burgers; en blijft oproepen aan partijen in gewapend conflict en staten om het gebruik van explosieve wapens in bebouwde gebieden te vermijden, om te werken aan het verwijderen van conflict uit stedelijke gebieden en om te voorkomen dat militaire doelwitten zich bevinden binnen of nabij dichtbebouwde gebieden (UNODA no date).
+
+#### Monitoring
+Monitoring en het delen van vroege waarschuwingssystemen in de Europese Unie (EU) is onderdeel van het EU‑actieplan voor het versterken van de veiligheid van explosieven. De EU‑EWS wordt gebruikt om informatie uit te wisselen tussen autoriteiten in verschillende lidstaten, bijvoorbeeld: directe dreigingen, diefstal van explosieven, diefstal van detonators, ontdekking van nieuwe modus operandi, enz. (Goulart et al., 2022).
+
+### References
+Al-Hajj, S., Dhaini, H. R., Mondello, S., Kaafarani, H., Kobeissy, F., DePalma R. G., 2021. Beirut Ammonium Nitrate Blast: Analysis, Review, and Recommendations. *Frontiers in Public Health*, 9, 10.3389/fpubh.2021.657996, https://www.frontiersin.org/journals/public-health/articles/10.3389/fpu… Accessed 12 March 2025.
+Goulart De Medeiros, M., Lequarre, A., Geypens, B., Santopolo, D., Daoust-Maleval, I., Brzozowski, K. and Iatan, A., EU CBRNe Glossary, Publications Office of the European Union, Brussels, 2022. ISBN 978-92-76-58865-8, doi:10.2760/0, JRC128863. Accessed 12 March 2025.
+Health and Safety Executive (HSE), 2002. Dangerous Substances and Explosive Atmospheres Regulations 2002 SI 2002/2776. Health and Safety Executive (HSE). Accessed 20 May 2025
+UK Parliament POSTNOTE Explosive injury Number 395 December 2011. Accessed 14 March 2025.
+United Nations, 2008. Convention on Certain Conventional Weapons. Amended Protocol II. Group of Experts. Accessed 14 March 2025.
+United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA), 2017. Compilation of Military Policy and Practice: Reducing the humanitarian impact of the use of explosive weapons in populated areas United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA). Accessed 10 March 2025.
+United Nations Office for Disarmament Affairs (UNODA), no date. Explosive weapons in populated areas. United Nations Office for Disarmament Affairs (UNODA). Accessed 10 March 2025.
+United Nations Office for Disarmament Affairs (UNODA), 2014. Improvised Explosive Devices (IEDs) Publication. United Nations Office for Disarmament Affairs (UNODA). Accessed 14 March 2025.
+Cite this [Copy citation]
+```

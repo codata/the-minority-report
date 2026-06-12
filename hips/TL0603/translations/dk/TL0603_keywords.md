@@ -1,0 +1,1 @@
+neutron radiation, atomic fission, nuclear fusion, dispersal of neutron radiation, improvised nuclear devices, nuclear yield, blast generated, thermal pulse, residual radiation, neutron activation, dangerous-radiation zone, air-kerma rate, radioactive fallout

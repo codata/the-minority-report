@@ -1,0 +1,1 @@
+Marine toxins (biotoxins), toxic algae, contaminated fishery products, Paralytic shellfish poisoning (PSP), Diarrhoeic shellfish poisoning (DSP), Amnesic shellfish poisoning (ASP), Neurotoxic shellfish poisoning (NSP), Azaspiracid (AZA) group, Saxitoxin (STX) group, Ciguatoxins causing ciguatera poisoning (CP), Domoic acid (DA) group, Polyether brevetoxins, toxin-producing algae

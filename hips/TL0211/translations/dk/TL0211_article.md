@@ -1,43 +1,51 @@
-> ### Definition  
-> **Nødtelekommunikationsfejl** er et overordnet begreb for telekommunikation af ekstraordinær karakter under anormale og potentielt skadelige netværksforhold (ITU, 2007).  
->   
-> ### Primære reference(r)  
-> ITU, 2007. **Y.2172: Prioriteringsniveauer for tjenestegenopretning i næste generations netværk**. International Telecommunication Union (ITU). Tilgået 26. januar 2025.  
->   
-> ### Anmærkninger  
-> Nødtelekommunikation er kritisk, når en katastrofe opstår, for at muliggøre, at rednings- og katastrofekapacitetsstyrer, regeringsministerier, departementer og agenturer samt humanitære organisationer kan koordinere og levere katastrofereaktion og genopbygning.  
->  
-> Nødtelekommunikationsfejl er tæt forbundet med tjenestegenopretning. Tjenestegenopretning beskrives som et sæt automatiserede eller manuelle metoder, som indkaldes efter et netværksfejl, for at forbedre evnen til at omdirigere og fuldføre kommunikation rundt om den defekte netværkselement(er) (ITU, 2014).  
-> Alle former for kommunikationstrafik forventes at blive bære af næste generations netværk – kontrolplantrafik (fx routing‑ og signaleringsbeskeder), nødtelekommunikation, real‑tid lyd- og videotjenester, datatjenester, VPN‑tjenester samt traditionel **best‑effort trafik**.  
-> I et sådant miljø er det vigtigt at tildele prioriteringskategorier og etablere regler for tjenestegenopretning, således at kritiske tjenester (fx kontrolplantrafik og nødtelekommunikation) genanerkendes og gendannes over andre tjenester i tilfælde af netværksoverbelastning eller fejl. Da tjeneste­strømme kan forventes at krydse flere netværksdomæner, er prioriteringsklassificering et vigtigt skridt i udviklingen af nødvendige signaliseringsprotokoludvidelser samt mekanismer til at muliggøre præferent genoprettelse af kritiske tjenester (ITU, 2014).  
-> Kravene til katastrofekommunikation med hensyn til pålidelighed, robusthed og modstandsdygtighed varierer også i de forskellige faser af en katastrofe. Det brede omfang af katastrofehåndtering fra et kommunikationsperspektiv skal håndteres med hensyn til typen af kommunikationsteknologier og deres udnyttelse i de forskellige faser af katastrofen (ITU, 2014).  
->   
-> ### Metrikker og numeriske grænser  
-> ITU udvikler i øjeblikket globale retningslinjer for lande til at udvikle nationale nødtelekommunikationsplaner (NETS), som skal bruges til tidlig advarsel og i nødsituationer. Rammeværket har til formål at adressere et lands eksponering for naturlige farer og katastrofer, før der udvikles nøddata‑ og kommunikationssystemer (ITU, 2019).  
->   
-> ### Nøglebetydelige FN-konvention/ multilaterale traktat  
-> **Tampere‑konventionen** om udlevering af telekommunikationsressourcer til katastrofepåvirkning og nødhjælp blev etableret i 2005. Denne internationale traktat giver lande mulighed for at fjerne regulatoriske hindringer for straks at yde nødtelekommunikation, når en katastrofe er indtruffet (United Nations Treaty Collection, 1998).  
->   
-> ### Drivere  
-> Naturlige farer kan ødelægge telekommunikationsinfrastruktur og forårsage alvorlige netværksafbrydelser. Elektrisk strøm er afgørende for, at disse nødkommunikationssystemer kan fungere, og strømafbrydelser er direkte forbundet med driveren for denne fare (Townsend og Moss, 2005; Chang et al., 2007).  
-> I tillegg påvirker menneskeskabte farer, såsom sabotage, vandalism og krig, nødtelekommunikation. Naturlige farer påvirker nødtelekommunikation. Under og efter et jordskælv er nødkommunikation afgørende. Pålidelig kommunikation er vital for at sprede information, koordinere redningsindsats og give folk mulighed for at holde sig informerede og komme i kontakt med deres kære. I den umiddelbare eftervirkning kan traditionelle telefonopkald være upålidelige, så tekstbeskeder, sociale medier og batteridrevne radiostationer bliver vigtige kommunikationsværktøjer (US Department of Homeland Security, 2024; PAHO, 2009).  
-> Solgeomagnetiske storme genererer X‑stråler og solradiostøj, accelererer solpartikler til relativistiske hastigheder, forårsager større forstyrrelser i solvinden og kan medføre skadelige virkninger på elnettet, satellitter, avionik, flypassagerer, signaler fra satellitnavigationssystemer, mobiltelefoni og mere (National Research Council, 2008; Royal Academy of Engineering, 2013).  
->   
-> ### Impakter  
-> Nødtelekommunikationsfejl kan føre til fejl i tidlig advarselsystemer, hvilket øger risikoen for sekundære skader. Det reducerer også katastrofereaktionsevnen ved at forårsage forsinkelser eller reducere effektiviteten af nødsvar, og det kan føre til cyberangreb på telekommunikationsinfrastrukturen, som skaber yderligere sårbarheder (CISA, 2023). Fejl i nødkommunikation vil have større konsekvens i konteksten af andre farer; fx er vildtbrand den hyppigste type nødsituation, især for transmissionnetværkssirkulære (Salema & Caldeirinha, 2024).  
-> Problemer med nødtelekommunikationsfejl øger risikoen for fysisk skade og økonomisk tab; hurtig tjenestegenopretning er afgørende for at forbedre katastrofereaktionsevnen og styrke nødforbindelsen.  
->   
-> ### Multi‑hazard kontekst  
-> Figuren nedenfor opsummerer almindelige interaktioner mellem nødkommunikationsfejl og andre farer. Disse oplysninger bør bruges med forsigtighed og bør ikke udelukkende stoles på i katastrofeforvaltning, især fordi nogle interaktioner måske ikke er inkluderet. Bemærk, at faroevents, der opstår samtidig eller lokalt i rum eller tid, ikke nødvendigvis forårsager, forstærker eller er på anden måde relateret til hinanden. Specifikke eksempler på multi‑hazard kontekst findes i afsnittene ‘Farhedsdrev’ og ‘Impakter’ ovenfor.  
->   
-> ### Risikostyring  
-> ITU’s NETS‑ramme kan anvendes på tværs af alle faser af katastrofehåndteringscyklussen og giver retningslinjer for et land til at etablere robuste Informations- og Kommunikationsteknologisystemer før, under og efter en katastrofe (ITU, 2019). I større katastrofesituationer er nødtelekommunikationsfejl ofte forårsaget af netværksoverbelastning eller interdependens med elsystemer. For at tackle disse risici er det afgørende at styrke modstandsdygtigheden af kommunikationssystemer ved at implementere overvågning af netværkstrafik og systempræstation. Derudover kan risici dæmpes gennem etablering af backup‑kommunikationssystemer, sikring af alternative kommunikationsveje og forudplanlægning af personale og ressourcer til at sikre ubrydelig drift.  
-> Mobilteknologi fungerer som et kritisk værktøj til at mindske nødtelekommunikationsfejl, hvilket muliggør effektiv kommunikation på tværs af alle faser af katastrofehåndtering, herunder forberedelse, modstandsdygtighedsopbygning, respons og genopbygning. Det sikrer adgang til vital information og spiller en særlig vigtig rolle i spredning og kommunikation af tidlige advarsler (GSMA, 2023).  
->   
-> ### Overvågning  
-> Nødtelekommunikationsfejl forværrer katastrofeerisk ved at forhindre kommunikation og koordinering blandt respondenter, hvilket kan føre til forsinkelser eller ineffektiv nødsvar, og øge fysisk og økonomisk skade. Hurtig tjenestegenopretning er afgørende for at styrke katastrofereaktionskapaciteten, da den muliggør rettidig kommunikation, informationsdeling og koordinerede handlinger for at mindske skade og hjælpe berørte befolkninger (OECD, 2025).  
->   
-> ### Referencer  
-> (Referenceroversigten forbliver uændret; kun oversættelse af titler og udtalere er tilføjet.)  
+```markdown
+## Definition
+Nødkommunikationssvigt er en overordnet betegnelse for telekommunikation af ekstraordinær art under abnormale og potentielt ugunstige netværksforhold (ITU, 2007).
 
----
+## Primære reference(r)
+ITU, 2007. Y.2172: Service restoration priority levels in Next Generation Networks. International Telecommunication Union (ITU). Accessed 26 January 2025.
+
+## Anmærkninger
+### Yderligere videnskabelig beskrivelse
+Nødkommunikation er kritisk, når en katastrofe indtræffer, for at muliggøre nødhjælp og katastroferesponsteam, regeringsministerier, afdelinger og agenturer samt humanitære organisationer til at koordinere og levere katastroferesponser og genopretningsindsats. Nødkommunikationssvigt er tæt forbundet med servicegendannelse. Servicegendannelse beskrives som en række automatiske eller manuelle metoder, der aktiveres efter en netværksfejl, for at forbedre evnen til at omdirigere og fuldføre kommunikation rundt om de fejlende netværkskomponenter (ITU, 2014). Alle former for trafik forventes at blive transporteret af næste generationsnetværk – kontrolplantrafik (f.eks. rute‑ og signalingsmeddelelser), nødkommunikation, realtidsstemme- og videotjenester, datatjenester, virtuelle private netværk‑tjenester samt traditionelle “Best effort” trafik. I et sådant miljø er det vigtigt at tildele prioriteringsklassifikationer og etablere regler for servicegendannelse, så kritiske tjenester (f.eks. kontrolplantrafik og nødkommunikation) genindlæses over andre tjenester i tilfælde af netværksoverbelastning eller fejl. Da tjenesteflow kan forventes at krydse flere netværksdomæner, er prioriteringsklassifikation en vigtig del af udviklingen af de nødvendige signalprotokoller samt af mekanismerne for at muliggøre præferencegenindlæsning af kritiske tjenester (ITU, 2014). Kravene til katastrofekommunikation med hensyn til pålidelighed, robusthed og modstandsdygtighed varierer også i forskellige faser af en katastrofe. Det brede omfang af katastrofeforvaltning fra et kommunikationsperspektiv skal håndteres med hensyn til teknologitypen og deres udnyttelse i de forskellige faser af katastrofen (ITU, 2014).
+
+### Målekriterier og numeriske grænser
+ITU udvikler i øjeblikket globale retningslinjer for lande for at udvikle nationale nødkommunikationsplaner (NETS), som skal bruges til tidlig advarsel og i nødstilfælde. Rammeværket søger at adressere et lands udsættelse for naturkatastrofer og katastrofer, inden der udvikles nøddata- og kommunikationssystemer (ITU, 2019).
+
+### Nøgle relevante FN‑konvention / flertalsaftale
+Tampere‑konventionen om udbytte af telekommunikationsressourcer til katastrofemodvirring og hjælpsystemer blev oprettet i 2005. Den internationale traktat giver lande mulighed for at fjerne regulatoriske hindringer og straks levere nødkommunikation, når en katastrofe har indtrådt (United Nations Treaty Collection, 1998).
+
+### Drivere
+Naturkatastrofer kan ødelægge telekommunikationsinfrastruktur og forårsage alvorlige netværksforstyrrelser. Elektrisk strøm er afgørende for, at disse nødkommunikationssystemer kan fungere, og strømudfald er direkte forbundet med disse trusler (Townsend og Moss, 2005; Chang et al., 2007). Derudover påvirker menneskeskabte trusler, såsom sabotage, vandalism og krig, nødkommunikation. Naturlige trusler påvirker nødtelekommunikation. Under og efter et jordskælv er nødkommunikation afgørende. Pålidelig kommunikation er vigtig for at udgive information, koordinere redningsindsats og lade folk holde sig informerede og opretholde kontakt med kære (US Department of Homeland Security, 2024; PAHO, 2009). Solgeomagnetiske storme genererer X‑stråler og solradioburster, accelererer solpartikler til relativistiske hastigheder, forårsager store forstyrrelser i solvinden og kan forårsage skadelige virkninger på elnettet, satellitter, avionik, flypassager, signaler fra satellitnavigationssystemer, mobiltelefoner og mere (National Research Council, 2008; Royal Academy of Engineering, 2013).
+
+### Påvirkninger
+Nødkommunikationssvigt kan føre til fejl i tidlige advarselsystemer, hvilket øger potentialet for sekundære skader. Det reducerer også katastroferesponshøjden ved at forårsage forsinkelser eller reducere effektiviteten af ​​nødhjælpsoperationer. Derudover kan telekommunikationsinfrastruktur blive et mål for cyberangreb på grund af afhængigheden af ​​strøm og ICT‑systemer, hvilket skaber yderligere sårbarheder i systemet (CISA, 2023). Fejl i nødkommunikation vil have større indvirkning i sammenhængen med andre trusler, f.eks. er brande den mest hyppige type nødsituation, især når de påvirker transmissionsnetværk (Salema & Caldeirinha, 2024). Problem med nødkommunikationssvigt øger risikoen for fysisk skade og økonomiske tab, hvor hurtig servicegendannelse er afgørende for at forbedre katastroferesponshøjden og forbedre nødkommunikationsevnen.
+
+### Multi‑hazard‑kontekst
+Figuren nedenfor opsummerer almindelige interaktioner mellem nødkommunikationssvigt og andre trusler. Disse oplysninger bør bruges med forsigtighed og ikke udelukkende stole på i katastrofe‑risikostyring, især da nogle interaktioner muligvis ikke er inkluderet. Bemærk, at farlige begivenheder, der opstår sammen eller lokalt i tid og rum, ikke nødvendigvis forårsager, forstærker eller er på anden måde relateret til hinanden. Specifikke eksempler på multi‑hazard‑kontekst findes i “Hazard drivers” og “Impacts” sektionerne ovenfor.
+
+#### Multihazard‑diagram
+
+## Risikostyring
+ITU’s NETS‑ramme kan anvendes på tværs af alle faser af katastrofeforvaltningscyklussen og giver retningslinjer for et land til at etablere robuste information og kommunikationsteknologier (ICT) systemer før, under og efter en katastrofe (ITU, 2019). I store katastrofesituationer er nødtelekommunikationsfejl sandsynlige på grund af netværksoverbelastning eller afhængigheder af strømforsyning. For at håndtere disse risici er det afgørende at styrke modstandsdygtigheden af ​​kommunikationssystemer ved at implementere foranstaltninger såsom netværkstrafik‑ og systemovervågning. Derudover kan risici afbødes gennem etableringen af ​​reservekommunikationssystemer, sikring af alternative kommunikationsveje og præplanlægning af personale og ressourcer, der er nødvendige for at sikre uafbrudte operationer. Mobilteknologi fungerer som et kritisk værktøj i at afbøde nødkommunikationssvigt, hvilket muliggør effektiv kommunikation på tværs af alle faser af katastrofeforvaltning, herunder beredskab, modstandsdygtighedsopbygning, respons og genopbygning. Det sikrer adgang til vital information og spiller en særligt vigtig rolle i udgivelsen og kommunikation af tidlige advarsler (GSMA, 2023).
+
+## Overvågning
+Nødkommunikationsfejl forværrer katastroferisici ved at hindre kommunikation og koordinering blandt responsører, hvilket potentielt kan føre til forsinkelser eller ineffektive nødrespons og øget fysisk og økonomisk skade. Hurtig servicegendannelse er afgørende for at forbedre katastroferesponshøjden, da den muliggør rettidig kommunikation, informationsdeling og koordinerede handlinger for at afbøde skade og hjælpe de berørte befolkninger (OECD, 2025).
+
+## References
+Chang S.E., McDaniels T.L., Mikawoz J., Peterson K. Infrastructure failure interdependencies in extreme events: power outage consequences in the 1998 Ice Storm. Natural Hazards, 41 (2) (2007), pp. 337-358. Accessed 19 May 2025  
+Cybersecurity and Infrastructure Security Agency (CISA), 2023. Emergency Services sector cyber risk assessment. Cybersecurity and Infrastructure Security Agency (CISA). Accessed 26 January 2025  
+Groupe Spéciale Mobile Association (GSMA), 2021. National Emergency Telecommunications Plans: Enablers and Safeguards. A brief evaluation guide for policy practitioners. Accessed 19 May 2025  
+Groupe Spéciale Mobile Association (GSMA), 2023. Cell Broadcast for Early Warning Systems: A review of the Technology and how to implement it. Accessed 26 January 2025.  
+International Telecommunication Union (ITU), 2014. Gap Analysis of Disaster Relief Systems, Network Resilience and Recovery. ITU‑T Focus Group on Disaster Relief Systems, Resilience and Recovery Network. International Telecommunication Union (ITU). Accessed 26 January 2025.  
+International Telecommunication Union (ITU), 2019. Global guidelines to develop national emergency telecommunication plans: Draft for comments. International Telecommunication Union (ITU). ITU Guidelines for national emergency telecommunication plans. Accessed 26 January 2025.  
+National Research Council. 2008. Severe Space Weather Events: Understanding Societal and Economic Impacts: A Workshop Report. Washington, DC: The National Academies Press. DOI: 10.17226/12507. Accessed 19 May 2025.  
+Organisation for Economic Co-operation and Development (OECD), 2025. Enhancing the resilience of communication networks. OECD digital economy papers May 2025 No. 374. Organisation for Economic Co-operation and Development (OECD). Accessed 19 May 2025.  
+Pan American Health Organization (PAHO), 2009. Information management and communication in emergencies and disasters: manual for disaster response teams. Pan American Health Organization (PAHO). Accessed 19 May 2020  
+Royal Academy of Engineering, 2013. Extreme space weather: impacts on engineered systems and infrastructure. Accessed 19 May 2020  
+Salema, C, and Caldeirinha R. 2024. ‘Perspective Chapter: Mobile Radio Emergency Communications for Large-Scale Wildfire Fighting – Portugal as a Case Study’. Fire Safety Engineering - Measures, Policies, and Applications [Working Title]. IntechOpen. doi:10.5772/intechopen.1007773. Accessed 19 May 2025  
+Townsend, A.M. and M.L. Moss, 2005. Telecommunications infrastructure in disasters: Preparing cities for crisis communications. Telecommunications Infrastructures in Disasters: Preparing Cities for Crisis Communications - World | ReliefWeb. Accessed 26 January 2025.  
+United Nations Treaty Collection, 1998. Chapter XXV: Telecommunications: 4. Tampere Convention on the provision of telecommunication resources for disaster mitigation and relief operations. Accessed 10 May 2025.  
+US Department of Homeland Security, 2025. Earthquake. Accessed 19 May 2020  
+Cite this [Copy citation]
+```

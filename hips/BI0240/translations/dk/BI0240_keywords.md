@@ -1,0 +1,1 @@
+West Nile virus disease,Flaviviridae family,mosquito-bird-mosquito transmission cycle,genus Culex,principal vectors,bird reservoir hosts,neuroinvasive disease,West Nile encephalitis,molecular tests,source reduction,vector control,animal-to-human transmission,serological tests

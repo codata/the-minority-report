@@ -1,0 +1,1 @@
+polychlorinated biphenyls (PCBs), polychlorinated dibenzo-p-dioxins (PCDDs), polychlorinated dibenzofurans (PCDFs), persistent organic pollutants (POPs), unwanted by-products of combustion, bioaccumulate in food chains, Toxic equivalency factors (TEFs), waste incineration, PCDDs and PCDFs, chlorine bleaching of paper pulp, reproductive developmental and neurodevelopmental effects

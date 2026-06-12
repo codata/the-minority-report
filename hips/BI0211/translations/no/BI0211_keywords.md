@@ -1,0 +1,1 @@
+acute vaccine-preventable viral liver disease, faecal-oral route, contaminated food or water, HAV-specific immunoglobulin G (IgM) antibodies, reverse transcriptase polymerase chain reaction (RT-PCR), fulminant hepatitis, unsafe water or food, inadequate sanitation, personal hygiene practices, safe drinking water, injectable inactivated hepatitis A vaccines, supportive care

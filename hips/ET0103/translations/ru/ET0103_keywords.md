@@ -1,0 +1,1 @@
+emission of electromagnetic radiation, active regions on the Sun, intense magnetic fields, coronal mass ejections, X-ray brightness, 1-8 Å band, X-ray and Extreme UV sensors, solar flare intensity classification, ionospheric disturbances, radio fadeouts, D region and lower E region, Solar Radio Burst, GNSS signal interference, HF radio communication degradation

@@ -1,0 +1,1 @@
+electromagnetic radiation, active regions, magnetic fields, coronal mass ejections, solar flare intensity, X-ray brightness, solar radio burst, ionosphere disturbances, D region absorption, HF radio fadeout, low-frequency navigation signals, GNSS signal interference

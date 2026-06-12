@@ -1,0 +1,1 @@
+acute vaccine-preventable viral liver disease, faecal-oral route, contaminated food or water, unsafe water or food, inadequate sanitation, poor personal hygiene, HAV-specific immunoglobulin G, reverse transcriptase polymerase chain reaction, hepatitis A virus RNA, waterborne outbreaks, oral-anal sex, injectable inactivated hepatitis A vaccines, fulminant hepatitis

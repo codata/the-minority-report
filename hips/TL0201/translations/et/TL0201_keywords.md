@@ -1,0 +1,1 @@
+failure of load-bearing structural elements, progressive collapse, progressive structural collapse, failure propagation, structural robustness, redundancy, seismic vulnerability index, design base shear, fire-induced collapse, building code regulations, early warnings of building collapse

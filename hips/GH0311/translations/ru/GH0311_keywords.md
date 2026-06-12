@@ -1,0 +1,1 @@
+localized ground displacements, tensional compressional and shear stresses, surface rupture, ground fissures, surface faulting, ground deformation, subsidence, land sliding, ground spreading or cambering, piping and hydraulic compaction, surface extent and magnitude, induced by mining or karst subsidence, volcanic environments

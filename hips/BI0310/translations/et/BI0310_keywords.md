@@ -1,0 +1,1 @@
+goats and sheep,Peste des petits ruminants virus,genus Morbillivirus,live attenuated vaccine,small ruminant flock,aerosol or direct contact,fomites,economic losses,international trade of live small ruminants,movement control,biosecurity,herd immunity,early warning system

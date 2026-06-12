@@ -1,0 +1,1 @@
+sudden and large explosion on the Sun,emission of electromagnetic radiation,active regions on the Sun,magnetic reconnection events,coronal mass ejections,X-ray brightness,Solar Radio Burst,ionosphere disturbances,HF radio signal absorption,D region and lower E region,GNSS signal interference,radio fadeout,Solar flare intensities

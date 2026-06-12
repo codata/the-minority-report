@@ -1,0 +1,1 @@
+failure of load-bearing structural elements, progressive collapse, progressive structural collapse, chain reaction of failures, structural robustness, redundancy, seismic vulnerability index, substandard construction materials, faulty design, ground subsidence, multi-hazard context, building aging

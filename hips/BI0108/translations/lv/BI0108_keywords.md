@@ -1,0 +1,1 @@
+Vector-borne diseases,spread of pathogens by vectors,blood meal from an infected host,transmission by vectors,blood-sucking insects,mosquitoes,ticks,flies,sandflies,triatomine bugs,freshwater aquatic snails,Malaria and Anopheline mosquitoes,Dengue and Aedes mosquitoes,Chagas disease and triatomine bugs,leishmaniasis and sandflies,schistosomiasis and snails,tick-borne encephalitis

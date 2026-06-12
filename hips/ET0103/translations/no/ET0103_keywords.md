@@ -1,0 +1,1 @@
+solar flare definition,electromagnetic radiation emission,active regions on the Sun,intense magnetic fields,coronal mass ejections (CME),X-ray brightness classification,1-8 Å band measurement,X-class flares,M-class flares,ionosphere disturbances,D region absorption,lower E region ionization,radio fadeout,3 to 30 MHz frequency band,Solar Radio Burst (SRB),GNSS signal interference

@@ -1,75 +1,82 @@
-> ### Definition  
-> Vektora pārvadājamās slimības ir dažādas infekcijas, kuras tiek pārnestas ar patogēnu pārvadāšanu caur dzīviem organizmiem – vektoriem. Šīs slimības var izplatīties starp cilvēkiem (piemēram, malārija, denges), starp dzīvniekiem (piemēram, Āfrikas šķēpju vīrs, Austrumu piekraste vīrs) vai no dzīvniekiem uz cilvēkiem (piemēram, Nipa virusas slimība). Daudzi vektori ir krūvētās kukurūgas, un moskāvas ir visizplatītākie slimību vektori. Citi vektori ietver pīrus, spīdzinītājus, smilšu kukurūgas, šūnes, triatomīnu kukurūgu un dažas jāmīdas (adaptēts no WOAH, 2024a; WHO, 2024).  
->   
-> ### Primary reference(s)  
-> - **WHO, 2024.** Vektora pārvadājamās slimības. *Pasaules Veselības Organizācija (WHO).* Piekļuvums: 1. janvāris 2025.  
-> - **WOAH, 2024a.** *Tiesiskā diagnostikas un vakcīnu rokasgrāmata par zemesdzīvniekiem,* 13. izdevums. *Pasaules dzīvnieku veselības organizācija (WOAH).* Piekļuvums: 1. janvāris 2025.  
->   
-> ### Annotations  
-> **Papildu zinātniskā apraksts**  
-> Vektori ir dzīvi organismi, kuri spēj pārsūtīt infekcijas patogēnus starp cilvēkiem vai no dzīvniekiem uz cilvēkiem. Daudzi no šiem vektoriem ir krūvētās kukurūgas, kuras ieņem patogēnus, iesūcot asinis no infekcijas glabāšanas (cilvēka vai dzīvnieka) un vēlāk pārsūta tos uz jaunu hostu, kad patogēns ir replikējies. Parasti, kad vektors kļūst infekcionāls, tas spēj pārsūtīt patogēnu uz pārējo dzīves periodu katru turpmāko bitēšanas/asins mašinas periodu (WHO, 2020).  
->   
-> ### Vektora pārvadājamās slimības (HIP)  
-> - **Plagues** (BI0228)  
-> - **Chikungunya** (BI0203)  
-> - **Zika vīrs** (BI0242)  
-> - **Zila vīrs** (BI0241)  
-> - **Denges** (BI0207)  
-> - **Malārija** (BI0219)  
-> - **Krima‑Kongole hemorāģiskā vīrs** (BI0206)  
-> - **Āfrikas šķēpju vīrs** (BI0301)  
-> - **Kruļļu ādas slimība** (BI0307)  
-> - **Q vīrs** (BI0231)  
-> - **Rift Valley vīrs** (BI0311)  
-> - **Trypanosomīts** (BI0238)  
-> - **Rietumu Nīles vīrs** (BI0240)  
->   
-> ### Human‑vektora pārvadājamās slimības  
-> Šīs slimības ir cilvēka slimības, kas tiek izraisītas ar parazītiem, vīriem un baktērijām, pārsūtītiem ar vektoriem. Katru gadu ir vairāk par 700 000 mirtņu gadījumi no tāda slimībām kā malārija, denges, šistosomīcija, cilvēka Āfrikas trypanosomīts, leishmanīcija, Chagas slimība, zila vīrs, Japānas encefalīts un onchocercā. Slimošanas slodze ir visaugstāka tropiskās un subtropiskās reģionā, īpaši sevī varētājošajās tautās. Kopš 2014 gada izplūdejas no denges, malārijas, zila vīrs un Zika, šīs slimības ir izcēlušas cilvēku dzīvi, slēgusi veselības sistēmas daudzās valstīs. Citi slimības, piemēram, chikungunjja, leishmanīcija un limfātiskā filariā, rada hronisku ciešanu, ilgtermiņa morbiditāti, invaliditāti un dažreiz stigmatizāciju (WHO, 2024).  
->   
-> ### Vektora pārvadājamās slimības: piemēri  
-> - **Malārija** – parazīts, pārvadāts ar Anopheles moskāvu; aprēķinātas 219 miljoni gadījumu globāli, ar vairāk nekā 400 000 mirtņu gadījumiem ikgadējo (WHO, 2020).  
-> - **Denges** – vīruss, pārvadāts ar Aedes moskāvu; vairāk nekā 3,9 miljoni cilvēku vairāk nekā 129 valstīs riskā, 96 miljoni simptomātisku gadījumu un 40 000 mirtņu gadījumu (WHO, 2020).  
-> - **Citi vīri**: chikungunjja vīrs, Zika vīrs, zila vīrs, Rietumu Nīles vīrs, Japānas encefalīts (visas pārvadātas ar moskāvu), spīdzinītāja vīruss (pīrs).  
-> - **Citi vektora pārvadājamie slimības**: Chagas slimība (triatomīna kukurūga), leishmanīcija (smilšu kukurūga) un šistosomīcija (jāmīda) ietekmē simtu miljoniem cilvēku visā pasaulē (WHO, 2020).  
->   
-> ### Tabula: vektora pārvadājamās slimības (neizslēdzot)  
-> (Tabula ir saglabāta kā tekstu ar loģisku pārklājumu, kas var tikt pārveidota uz HTML vai PDF pēc vajadzības.)  
->   
-> ### Tiesību konteksts  
-> - **Starptautiskās veselības regulas (2005)**, 3. izdevums (WHO, 2016).  
-> - **WTO Sanitariskā un fitosanitariskā līguma (SPS) piekrišana** (1994).  
-> - **WTO un Pasaules dzīvnieku veselības organizācija (OIE)** (1998).  
-> - **UN Nocīšanas dzelzceļa pārvadīšana drošības noteikumu modeļu noteikumi** (UNECE).  
->   
-> ### Vektora kontrola stratēģijas  
-> - **Pasaules vektora kontrolas atbildība (GVCR) 2017–2030**.  
-> - **Zemesdzīvnieku veselības kodeks** (32. izdevums).  
-> - **Pasaules Veselības Apvienības pieņemtais lēmums WHA 70.16** (2017).  
->   
-> ### Pēdējie faktori, kas ietekmē vektora pārvadājamās slimības  
-> Vērtējums par cilvēka, dzīvnieku un vektora distribūciju ir balstīts uz klimata pārmaiņām, intensīvās lauksaimniecības, barjeru būvniecību, ūdens nodrošināšanu, deģenerāciju, migrāciju, pilsētvietojumu un starptautiskās tirdzniecības. Klimata pārmaiņas ietekmē patogēnus, vektorus un rezervu glabātājus, kas savukārt ietekmē slimību izplatīšanos.  
->   
-> ### Ietekme un risku pārvaldība  
-> - **Vektora pārvadājamās slimības** radītas cilvēku slodzes, kas ietver ekonomiskās zaudējumus, medicīniskos izdevumus, pārtikas zudumus un izlaistu darba spēku.  
-> - **Dzīvnieku vektora pārvadājamās slimības** izraisītā mirstība, lēmība, infekciju izplatīšanās, tirdzniecības/ceļošanas aizliegums.  
-> - **Multi‑hazards konteksts** – interakcijas starp vektora pārvadājamām slimībām un citām bīstamībām (klimata, ūdens, vides pārkvalifikācija).  
->   
-> ### Risku pārvaldība  
-> Vektora pārvadājamās slimības ir izvairāmas ar aizsardzības pasākumiem un kopienas mobilizāciju (WHO, 2020). WHO izstrādāja *Globālo vektora kontroli (GVCR) 2017–2030*, kas sniedz stratēģisko vadību valstīm, lai stiprinātu vektora kontroli kā pamata pasākumu slimību novēršanai.  
->   
-> ### Monitoring  
-> Vektora pārvadājamās slimības novērošana tiek veikta, izmantojot *agrīnes brīdināšanas sistēmu (EWS)*, kas palīdz paredzēt slimību izplūdes.  
->   
-> ### Avoti un atsauces  
-> 1. **Campbell‑Lendrum, D. et al., 2015** – *Climate change and vector‑borne diseases* (Philosophical Transactions of the Royal Society B).  
-> 2. **FAO, 2020** – *Animal Health and Climate Change*.  
-> 3. **FAO, 2021** – *Veterinary vaccines: principles and applications*.  
-> 4. **OIE, 2015a** – *New Developments in Major Vector‑borne Diseases* (Part I).  
-> 5. **OIE, 2015b** – *New Developments in Major Vector‑borne Diseases* (Part II).  
-> 6. **UNECE** – *UN Recommendations on the Transport of Dangerous Goods*.  
-> 7. **WHO, 2014–2024** – dažādas publikācijas par vektora pārvadājamām slimībām.  
-> 8. **WOAH, 2024a, 2024b** – rokasgrāmatas un kodeksi.  
-> 9. **WTO, 1994, 1998** – sanāksmes piekrišanas un līgumi.  
+```markdown
+### Definīcija
+Vektoru izplatīto slimību definīcija ietver dažādas slimības, kuras tiek izplatītas ar dzīvīgiem organismiem, pazīstamiem kā vektori. Šīs infekcijas var tikt pārnestas caur vektoriem starp cilvēkiem (piemēram, malarija, dengē), starp dzīvniekiem (piemēram, Āfrikas vīnu slēpiena, Austrumu piekrastes gaļa) vai no dzīvniekiem uz cilvēkiem (piemēram, Nipaha vīrusa slimība). Daudziem no šiem vektoriem ir asins kriezotie insekts, un myglas ir vislabāk zināmie slimību vektori. Citi vektori ietver šķēpniekus, putnus, smilšu putnes, kaļējus, triatomīnu kabeļus un dažas ūdensaugļas (pārņemts no WOAH, 2024a; WHO, 2024).
 
----
+### Primārās atsauces
+WHO, 2024. Vector‑borne Diseases. World Health Organisation (WHO). Accessed 1 January 2025.  
+WOAH. 2024a. Manual of Diagnostic Tests and Vaccines for Terrestrial Animals, 13th edition. World Organisation for Animal Health (WOAH). Accessed 1 January 2025.
+
+### Piezīmes
+#### Papildu zinātniskā apraksts
+Vektori ir dzīvīgi organizmi, kas pārnēsā infekcijas patogēnus starp cilvēkiem vai no dzīvniekiem uz cilvēkiem. Daudziem no šiem vektoriem ir asins kriezotie insekts; tie ieņem mikroorganizmus, izmantojot asins maltīti no infekcijas hosts (cilvēks vai dzīvnieks), un vēlāk pārsver tos jaunam hosts, kad patogēns ir replikējies. Bieži vien, kad vektors kļūst infekcijas, tas spēj pārsūtīt patogēnu visā savā dzīves laikā katrā turpmākajā uzkāpes/asins maltītes laikā (WHO, 2020). Vektoru izplatītās slimības (VBDs) ietver HIPs: Plague (BI0228), Chikungunya (BI0203), Zika Virus (BI0242), Yellow Fever (BI0241), Dengue (BI0207), Malaria (BI0219), Crimean‑Congo Haemorrhagic Fever (BI0206), African Swine Fever (BI0301), Lumpy Skin Disease (BI0307), Q Fever (BI0231), Rift Valley Fever (BI0311), Trypanosomiasis (BI0238), West Nile Fever (BI0240), Yellow Fever (BI0241), Zika (BI0242). Cilvēka vektoru izplatītās slimības ir cilvēka slimības, kas saistītas ar parazitiem, vīrusiem un baktērijām, kas pārnesas ar vektoriem. Ikgadu tiek ziņots vairāk nekā 700 000 nākumu no slimībām, piemēram, malarija, dengē, šistōzomija, cilvēka Āfrikas trypanosomija, leishmanija, Chagas slimība, dzeltenā gaļa, japāņu encefalīts un onchocercas. Šīs slimības visvairāk izplatajas tropiskajās un subtropiskajās zonās, un tās disproportīvi ietekmē vājākās populācijas. Kopš 2014. gada lieli dengē, malarijas, dzeltenās gaļas un Zika izplaukumi apdraudēja vairākas valstis, ietekmējot dzīvi un pārsteigšanas veselības sistēmas. Citi slimības, piemēram, chikungunya, leishmanija un limfēda filariā, rada hronisku ciešanu, dzīves ilgtspējīgu morbiditāti, invaliditāti un retu stigmatizāciju (WHO, 2024). Vektoru izplatītās slimības aptver vairāk nekā 17 % visām infekcijas slimībām, radot vairāk nekā 700 000 nākumu ikgadē. Tās var izraisīt parazīti, baktērijas vai vīrusi (WHO, 2020). Piemēri: Malarija ir parasītiskā infekcija, kas tiek pārnēsāta ar Anopheles myglas. Malarija izraisa aptuveni 219 miljoniem gadījumiem visā pasaulē un izraisa vairāk nekā 400 000 nākumu ikgadē. Lielākā daļa no nākumiem notiek bērniem, kuriem ir mazāk nekā 5 gadus (WHO, 2020). Dengē ir visizplatītākā vīruss infekcija, kas tiek pārnēsāta ar Aedes myglas. Vairāk nekā 3,9 miliardi cilvēku vairāk nekā 129 valstīs ir riskā iegūt dengē, ar aptuveni 96 miljoniem simptomatiskā gadījumu un aptuveni 40 000 nākumu ikgadē (WHO, 2020). Citi vīrusu slimības, kas tiek pārnēsātas ar vektoriem, ietver chikungunya gaļas, Zika vīrusa gaļas, dzeltenās gaļas, Ziemeļu Nila gaļas, japāņu encefalītu (visi pārnēsāti ar myglas) un šķēpnieku encefalītu (pārnēsāts ar šķēpniekiem) (WHO, 2020). Citi vektoru izplatītie slimības, piemēram, Chagas slimība (pārnēsāta ar triatomīnu kabeļiem), leishmanija (smilšu putnes) un šistōzomija (snails) ietekmē simtus miljoniem cilvēku visā pasaulē (WHO, 2020). Tabula ir neizskaitītā vektoru izplatīto slimību saraksts, kārtota atbilstoši vektoriem, kas tos pārnēsā. Saraksts arī parāda, kāda patogēna veids izraisa slimību cilvēkiem (WHO, 2020):
+
+| Vektors | Slimība | Sakarēts ar | Patogēna veids |
+|---------|---------|-------------|----------------|
+| Mygla | Aedes | Chikungunya | Vīruss |
+| Mygla | Dengē | Lymphatic filariasis | Vīruss |
+| ... | ... | ... | ... |
+
+### Mērījumi un skaitliskie limiti
+Vektoru izplatīto slimības aptver vairāk nekā 17 % visām infekcijas slimībām, radot vairāk nekā 700 000 nākumu ikgadē. Tās var būt parazīti, baktērijas vai vīrusi (WHO, 2024).
+
+### Galvenie atbilstošie ENS konvencijas / daudzvalstu līgumi
+International Health Regulations (2005), 3rd ed. (WHO, 2016).  
+WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement) (1994) (WTO, 1994).  
+WTO and the World Organization for Animal Health (OIE) (WTO, 1998).  
+UN Recommendations on the Transport of Dangerous Goods - UN Model Regulations Model Regulations Nature, Purpose and Significance of the Recommendations (UNECE, no date). Available from: https://unece.org/transport/dangerous-goods/un-model-regulations-rev-23 Accessed 1 January 2025.  
+The Global Vector Control Response 2017–2030 (GVCR) provides a new strategy to strengthen vector control worldwide through increased capacity, improved surveillance, better coordination and integrated action across sectors and diseases.  
+Terrestrial Animal Health Code. 32nd edition. World Organisation for Animal Health (WOAH) (WOAH, 2024b).  
+In May 2017, the World Health Assembly adopted resolution WHA 70.16, which calls on Member States to develop or adapt national vector control strategies and operational plans to align with this strategy (WHO, 2017).
+
+### Izraisītāji
+**Cilvēks**  
+Pirmsrelīgie stabilie ģeogrāfiskie izplatījumi tagad mainās, ņemot vērā vairākus faktorus, tostarp klimata pārmaiņas, intensīvās lauksaimniecības, hidroelektrāles, dāžumu, lauksaimniecības lažos, dedzināšanu, iedzīvotāju pārvietošanos, ātru neplānoto urbanizāciju, kā arī globālo ceļošanu un tirdzniecību (WHO, 2014). Vektoru izplatīto slimību izplatīšanās cilvēkos tiek noteikta ar sarežģītu demogrāfisko, vides un sociālo faktoru kopumu. Globālā ceļošana un tirdzniecība, neplānots urbanizēšanos, klimata pārmaiņas un vektoru adaptācija veicina vektoru izplatīto slimību izplatīšanos. Klimata pārmaiņas būtiski ietekmē patogēnus (parazītus, vīrusus un baktērijas), vektorus un rezervu glāžus, radot risku uz dažādu vektoru izplatīto slimību pārnesi. Daži vektori ir paplašinājuši savas ģeogrāfiskās platības un augstuma diapazonu, un sezonas, kad tie ir aktīvi, ir pieaugusi. Šie trendi paredzēti turpināties, kad klimats turpinās uzsildīties (WHO, 2024). Klimata vadītās izmaiņas vides apstākļos, piemēram, sausums, ūdensplūdi, lietus, vējš un nepiedromu laika apstākļu ietekme uz slimību slogu no baktērijām, parazītus un viņu vektoriem. Darbs tiek veikts, lai uzlabotu profilaksi, sagatavotību, agrīnās atklāsmes un reakcijas uz dzīvnieku veselības draudiem un ārkārtas situācijām, kas varētu tikt izraisītas ar klimata pārmaiņām (FAO, 2020).  
+
+**Dzīvnieks**  
+Vektoru izplatīto slimības infekcijas myglas (OIE, 2015a)
+
+### Ietekme
+**Cilvēks**  
+Vektoru izplatīto slimības rada slimību cilvēkiem pēc neaprobēta piena patēriņa (piem., neaprobēts piena) un tirdzniecības sekas. Šie var ietvert būtiskas ekonomiskas zaudējumus, tostarp ienākumu un darba spēka zudumus, medicīnas aprūpes izmaksas un pārtikas zudumus no nepietiekama apstrādes vai bojājuma.  
+
+**Dzīvnieks**  
+Augsts karstums, aborts, un atkarībā no patogēna, dzīvnieku un cilvēku nāve, infekcijas izplatīšanās, tirdzniecības/pārvietošanas bloķēšana (OIE, 2015b).
+
+### Daudzpēdēja konteksts
+Zemāk redzamais attēls apkopo vispārīgās mijiedarbības starp vektoru izplatītām slimībām un citiem risku faktoriem. Šī informācija jāizmanto piesardzīgi un ne jāuzliek pilnīgi uz katastrofiskās risku vadības, it īpaši, ja daži mijiedarbības nav iekļautas. Atcerieties, ka bīstamības notikumi, kas notiek kopā vai lokāli, var ne vienmēr izraisīt, pastiprināt vai citādāk saistīties. Specifiskie daudzpēdēja konteksta piemēri ir atrasti sadaļās “Bīstamības vads” un “Ietekme”.
+
+### Daudzpēdēja diagramma
+Risk Management
+
+**Cilvēks**  
+Daudzas vektoru izplatītās slimības ir novēršamas, caur aizsardzības pasākumiem, un kopienas mobilizāciju (WHO, 2020). Pasaules Veselības organizācija (WHO) turpināja globālo vektoru kontroles atbildību (GVCR) 2017–2030 (WHO, 2017), kas tika apstiprināta 2017. Tas nodrošina stratēģisko vadību valstīm un partneriem uz tūlītēju vektoru kontroles stiprināšanu kā pamata pieeju, lai novērstu slimību un reaģētu uz izplūdušām. Lai to sasniegtu, nepieciešams pārveidot vektoru kontroles programmas, atbalstīt ar palielinātu tehnisko kapacitāti, uzlabot infrastruktūru, stiprināt uzraudzību un novērošanas sistēmas, kā arī lielāku kopienas mobilizāciju. Visbeidzot, tas atbalstīs pilnīgu vektoru kontroles pieeju īstenošanu, kas ļaus sasniegt slimību specifiskos nacionālos un globālos mērķus un veicināt Ilgtspējīgas attīstības mērķu (UN, 2015) un Universālas veselības aprūpes (WHO, 2020) sasniegšanu. Precīzāk, WHO reaģē uz vektoru izplatītām slimībām, sniedzot pierādījumu balstītu vadību vektoru kontrolei un cilvēku aizsardzībai pret infekciju; sniedzot tehnisko atbalstu valstīm, lai efektīvi pārvaldītu gadījumus un izplūdušās situācijas; atbalsta valstis uzlabot atskaišu sistēmas un iegūt īstumu slogu; sniedzot apmācību (spēja izveidošana) par kliniskajai pārvaldībai, diagnozei un vektoru kontroles ar atbalstu no dažu sadarbības centru; un atbalsta jaunu rīku, tehnoloģiju un pieejas izstrādi un novērtējumu vektoru izplatītām slimībām, tostarp vektoru kontroles un slimību pārvaldības tehnoloģijām (WHO, 2020). Kritiskais elements, lai samazinātu vektoru izplatīto slimību slogu, ir uzvedības pārveidošana. WHO sadarbojas ar partneriem, lai sniegtu izglītību un uzlabotu sabiedrības informētību, lai cilvēki zinātu, kā aizsargāt sevi un savas kopienas no myglām, šķēpniekiem, kabeļiem, putniem un citiem vektoriem (WHO, 2020). Pieejamība uz ūdens un sanitāru sistēmu ir ļoti svarīgs faktors slimību kontrolei un izslēgšanai. WHO sadarbojas ar daudzām dažādām valdības sektoru, lai uzlabotu ūdens glabāšanu un sanitāru sistēmas, tādējādi palīdzot kontrolēt šīs slimības kopienas līmenī (WHO, 2020). Īpaši progresa izdevās pēdējos gados, izstrādājot politikas, darbības ietvarus un pilotprojektus veselības adaptācijai klimata pārmaiņām, iekļaujot vektoru izplatītās slimības kā īpašu prioritāti. Šie piedāvā izcilu iespēju stiprināt un sakarot mērķtiecīgāku saistību starp pielietojamu pētījumu un sabiedriskās veselības politiku (Campbell‑Lendrum et al., 2015). Pielietojamais pētījums joprojām ir būtisks, lai nodrošinātu nepārtrauktu progresu vektoru izplatītās slimības sloga samazināšanā, ņemot vērā papildu izaicinājumus, ko rada antropogēnas klimata pārmaiņas, kā arī ātras pārmaiņas citos vides un sociālos determinanti. Lai palielinātu aktuālo veselības programmu atbilstību, ir nepieciešams papildināt esošo darbu ar veselības efektu noteikšanu un atribūciju klimata pārmaiņu, un nākotnes scenāriju modelēšanu, ar tiešāku pielietojamu pieeju, lai novērtētu un pārvaldītu klimata saistītos riskus tagad (Campbell‑Lendrum et al., 2015). Progress ir izdevies pēdējos gados, izstrādājot politikas, darbības ietvarus un pilotprojektus dzīvnieku veselības balstītajai adaptācijai klimata pārmaiņām, iekļaujot vektoru izplatītās slimības kā prioritāti. Šie piedāvā izcilu iespēju stiprināt un sakarot mērķtiecīgāku saistību starp pielietojamu pētījumu un sabiedriskās veselības politiku (Campbell‑Lendrum et al., 2015).  
+
+**Dzīvnieks**  
+Vakcīnas programma, pārvietošanas kontroles, uzlabot biotehniku (OIE, 2015b). Klimata vadītās izmaiņas vides apstākļos, piemēram, sausums, ūdensplūdi, lietus, vējš un nepiedromu laika apstākļu ietekme uz slimību slogu no baktērijām, parazītus un viņu vektoriem. Darbs tiek veikts, lai uzlabotu profilaksi, sagatavotību, agrīnās atklāsmes un agrīnās reakcijas uz dzīvnieku veselības draudiem un ārkārtas situācijām, kas varētu tikt izraisītas ar klimata pārmaiņām (FAO, 2020). Progress ir izdevies pēdējos gados, izstrādājot politikas, darbības ietvarus un pilotprojektus dzīvnieku veselības balstītajai adaptācijai klimata pārmaiņām, iekļaujot vektoru izplatītās slimības kā prioritāti. Šie piedāvā izcilu iespēju stiprināt un sakarot mērķtiecīgāku saistību starp pielietojamu pētījumu un sabiedriskās veselības politiku (Campbell‑Lendrum et al., 2015).
+
+### Uzraudzība
+Šī sadaļa un zemāk redzamā tabula sniedz pārskatu par vektoru izplatīto slimību uzraudzību. Šī informācija var tikt izmantota valsts agrīnas brīdinājuma sistēmas (EWS) prognozēšanai. Tā kā EWS spējas un procesi atšķiras starp valstīm, visjaunākā un konkrētā informācija par EWS jāiegūst no atbilstošās valsts vai reģionālās aģentūras/uzraudzības organizācijas. WHO atbalsta valstis, lai veiktu vispārēju riska novērtējumu veselības ārkārtas un katastrofiskā risku kontekstā, kas noved pie valsts risku profila izstrādes. Svarīgi ir izveidot valsts risku profilu, iekļaujot sezonālo risku kalendāru, lai valstis varētu prognozēt iespējamās ārkārtas pirms tās notiek, izsaukt agrīnās brīdinājumus un informēt agrīnās darbības (WHO, 2021). WHO agrīnas brīdinājuma, brīdināšanas un atbildes sistēma (EWARS) ir izstrādāta, lai uzlabotu slimību izplūdes atklāšanu ārkārtas situācijās, piemēram, konflikts vai dabas katastrofa (WHO, 2023). Tā ir vienkārša un ekonomiska pieeja, lai ātri izveidotu slimību novērošanas sistēmu. EWARS tiek ieviesta ārkārtas situācijā kā papildinājums valsts slimību novērošanas sistēmai. WHO sadarbojas ar Veselības ministrijām un veselības sektora partneriem, lai apmācītu vietējos veselības darbiniekus lietot sistēmu. Pēc ārkārtas EWARS vajadzētu atgriezties pie valsts sistēmas (WHO, 2023).
+
+Kura(i) iestāde(ēs) ražo(a) katastrofiskā risku datus / informāciju? WHO, Ministry of Health, FAO Reference Centres, WOAH Reference Centres  
+
+Kā bīstamība tiek novērota/uzraudzīta/prognozēta? WHO, Ministry of Health, FAO empres-i+ https://empres‑i.apps.fao.org/diseases WOAH WAHIS https://wahis.woah.org/#/event‑management
+
+### References
+Campbell‑Lendrum, D., L. Manga, M. Bagayoko and J. Sommerfeld, 2015. Climate change and vector‑borne diseases: what are the implications for public health research and policy? Philosophical Transactions of the Royal Society B, 370:20130552. doi:10.1098/rstb.2013.0552. Accessed 1 January 2025  
+FAO, 2020. Animal Health and Climate Change. Food and Agriculture Organization of the United Nations (FAO). Accessed 1 January 2025.  
+FAO, 2021. Veterinary vaccines: principles and applications. Eds: Metwally, S. Viljoen, G. & El Idrissi, A. Chichester, John Wiley & Sons Limited and FAO. Accessed 1 January 2025.  
+OIE, 2015a. New Developments in Major Vector‑borne Diseases. Part I: An overview. Scientific and Technical Review, 34(1). World Organisation for Animal Health (OIE). DOI: 10.20506/rst.issue.34.1.58. Accessed 1 January 2025.  
+OIE, 2015b. New Developments in Major Vector‑borne Diseases. Part II: Important diseases for veterinarians. Scientific and Technical Review, Vol. 34(2). World Organisation for Animal Health (OIE). DOI: 10.20506/rst.issue.34.2.59. Accessed 1 January 2025.  
+UNECE, no date. UN Recommendations on the Transport of Dangerous Goods - UN Model Regulations Model Regulations Nature, Purpose and Significance of the Recommendations. United Nations Economic Commission for Europe (UNECE). Accessed 14 November 2024.  
+WHO, 2014. A Global Brief on Vector‑borne Diseases. World Health Organization (WHO). Accessed 1 January 2025.  
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Accessed 1 January 2025.  
+WHO, 2017. Global vector control response 2017‑2030. World Health Organisation (WHO). Accessed 1 January 2025.  
+WHO, 2020. Vector‑borne diseases. Accessed 1 January 2025.  
+WHO, 2021. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all‑hazards health emergency risk assessment. World Health Organization (WHO). Accessed 24 May 2025.  
+WHO, 2023. Early Warning, Alert and Response System (EWARS). World Health Organization (WHO). Accessed 1 November 2024.  
+WHO, 2024. Vector‑borne diseases. Accessed 24 May 2025.  
+WOAH. 2024a. Manual of Diagnostic Tests and Vaccines for Terrestrial Animals, 13th edition. World Organisation for Animal Health (WOAH). Accessed 1 January 2025.  
+WOAH. 2024b. Terrestrial Animal Health Code. 32nd edition. World Organisation for Animal Health (WOAH). Accessed 1 January 2025.  
+WTO, 1994. The WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement). World Trade Organization (WTO). Accessed 1 January 2025.  
+WTO, 1998. The WTO and the World Organization for Animal Health (OIE). G/SPS/GEN/775. Accessed 1 January 2025.
+```

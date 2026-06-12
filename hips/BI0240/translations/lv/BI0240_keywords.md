@@ -1,0 +1,1 @@
+West Nile virus disease, flavivirus genus, mosquito-bird-mosquito transmission cycle, principal vectors of WNV, Culex mosquitoes, reservoir hosts, dead-end hosts, West Nile fever, neuroinvasive disease, West Nile encephalitis, molecular tests

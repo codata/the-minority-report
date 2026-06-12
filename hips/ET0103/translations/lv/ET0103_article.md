@@ -1,61 +1,58 @@
 ```markdown
 ### Definīcija
-Sprauga ir pēkšņs un liels sprādziens Saules, kas raksturojas ar ātru enerģijas atbrīvošanos, radot elektromagnētiskās starojuma emisiju visās lēnībās un ātru spīdīguma pieaugumu Saules virsmas daļā. Šī pēkšņa elektromagnētiskās enerģijas izplūdums pārvietojas ar gaismas ātrumu, tāpēc jebkāda ietekme uz Zemes apgaismojamo ārējo atmosfēru notiek vienlaikus ar notikuma novērošanu (NOAA Space Weather Prediction Center, 2023).
+**Saules veltnes** ir pēkšņa, liela sprādziena parādība Saules virsmas sākumā, kas raksturojas ar ātru enerģijas izplūdumu, radot elektromagnētisko starojumu visos viļņu garuma diapazonos un ātru gaismas pieaugumu Saules virsmas daļā. Šie elektromagnētiskā enerģijas izplūduma viļņi ceļo ar gaismas ātrumu, tāpēc jebkura ietekme uz Saules uzkarsēto Zemes ārējo atmosfēru tiek izjusta vienā laikā ar notikuma novērošanu (NOAA Space Weather Prediction Center, 2023).
 
-### Primārā atsauce(-as)
-NOAA Space Weather Prediction Center, 2023. **SOLAR FLARES (RADIO BLACKOUTS)**. Piekļūta 31. janvāris 2025.
+### Primārās atsauces
+NOAA Space Weather Prediction Center, 2023. SOLAR FLARES (RADIO BLACKOUTS). Accessed 31 January 2025.
 
-### Papildu zinātniska apraksts
-Spraugas galvenokārt notiek aktīvos zonās uz Saules, kas raksturojas ar intensīvu magnētisko lauku, bieži saistītām ar saules pūstu grupām. Kad šie magnētiskie lauki mainās un attīstās, tie var sasniegt nestabilitātes stāvokli, izraisot enerģijas atbrīvošanos dažādos veidos. Viena no galvenajām šīs enerģijas atbrīvošanas izpausmēm ir sprauga, kas ietver elektromagnētiskās starojuma emisiju. Spraugas biežāk notiek laikā ar augstu Saules aktivitāti un bieži vien kopā ar koronas masītes izgriezumiem (CME).  
-Spraugas tiek klasificētas pēc intensitātes, galvenokārt noteiktas ar X‑starojuma spilgtumu un mērītas 1‑8 Å (0,1‑0,8 nm) joslā. Ir piecas spraugas kategorijas, sākot no vājākās līdz stipraskais: **A**, **B**, **C**, **M** un **X** (Hanslmeier, 2007; Schrijver, 2009).  
-Spraugas intensitātes informācija tiek iegūta no X‑starojuma un ekstremālās UV (EUV) sensoriem uzstādītiem uz GOES satelītiem (Thiemann et al., 2019; Machol et al., 2020).  
-
-### Ietekme uz ionozomu
-Kad atbilstošā aktīvā zona uz Saules ir saskarsmē ar Zeme, intensīva sprauga – parasti **X**‑klases, dažreiz arī **M**‑klases – var izraisīt būtiskas izteklas ietekmes uz Zemes apgaismojamo pusi. Šīs izteklas var izraisīt radio izdegšanu un izdegšanu, jo palielinās radio viļņu absorbcija zemākajā ionozomā, īpaši **D** daļā un zemākajā **E** daļā.  
-
-### Radio izdegšana
-Radio izdegšana (radio fadeout) ir izdegšana, ko izraisa spraugas. Šī izdegšana var izraisīt signālu izteklas un radio izdegšanu, it īpaši augstās frekvences (HF) radios, jo ionizācija zemākajā ionozomā palielinās absorbciju.  
-**D daļa** un **E daļa** ir īpaši jūtīgas; HF radio signāli var tikt pilnībā absorbed, izsaucot radio izdegšanu 3–30 MHz joslā.  
-
-### Radio izspīdēšana
-Radio izspīdēšana (radio burst) ir saistīta ar spraugas. Izplūde uz Zemes orbītu notiek, jo avots pārvietojas uz ārpusi. Lielas izspīdēšanas ilgums vidēji ir 10–20 minūtes. Garāki radio trokšņu vētras, kas pastāvīgi mainās, rodas no saules pūstu grupām, kurās ir lieli, intensīvi magnētiskie lauki.  
-Saule radiosprauga (SRB) var ietekmēt GNSS signālus, radot tiešu radio viļņu traucējumu.  
+### Piezīmes
+#### Papildu zinātniskā apraksts
+**Saules veltnes** galvenokārt notiek aktīvajās zonās, kur ir intensīvi magnētiskie lauki, bieži saistītas ar saules slēpju grupām. Kad šie magnētiskie lauki mainās un attīstās, tie var sasniegt nestabilitātes stāvokli, radot enerģijas izplūdi dažādos veidos. Viens no galvenajiem enerģijas izplūdes veidiem ir **saules veltnes**, kas ietver elektromagnētiskā starojuma emisiju. Veltnes biežāk notiek augstas saules aktivitātes periodos un bieži ir pakļautas **koronālās masas izlaidumiem (CME)**. **Saules veltnes** tiek klasificētas pēc intensitātes, galvenokārt balstoties uz X‑rādiem gaismas intensitāti, un tiek mērītas 1–8 Å joslā (0,1–0,8 nm). Ir piecas veltnes kategorijas, sākot no vājākas līdz stiprākajai: A, B, C, M un X (Hanslmeier, 2007; Schrijver, 2009). Informācija par veltnes intensitāti tiek iegūta no X‑rādiem un ekstrēmāultravioļs sensorēm, kas uzstādītas uz GOES satelītiem (Thiemann et al., 2019; Machol et al., 2020). Under favourable observation conditions, when the corresponding active region on the Sun is facing Earth, an intense flare, typically of X-class and occasionally M-class, can lead to significant disturbances in the ionosphere on the sunlit side of Earth. These disturbances can cause signal distortions and radio fadeouts due to increased absorption of radio waves in the lower ionosphere, specifically the D region and lower E region. Under regular conditions, high-frequency (HF) radio waves support long-distance communication by refracting through the upper layers of the ionosphere. However, during a powerful solar flare, the ionization increases in the lower ionosphere, particularly in its D and lower E regions. This phenomenon can lead to the degradation or complete absorption of HF radio signals, resulting in a radio fadeout that predominantly affects the 3 to 30 MHz frequency band. Radio bursts are associated with solar flares. The delay in registration of its different radio frequencies at Earth's orbit is due to the outward movement of the source. Large bursts last 10 to 20 minutes on average. Longer radio noise storms of persistent and variable high radiation levels originate in sunspot groups, areas of large, intense magnetic fields. A Solar Radio Burst (SRB) could influence the Global Navigation Satellite System (GNSS) signals through direct radio wave interferences.
 
 ### Metriķi un skaitliskie ierobežojumi
-Spraugas intensitātes pārklājas plašu diapazonu un tiek klasificētas pēc vraksa emisijas 0,1–0,8 nm (soft X‑ray) spektrālejas NOAA/GOES XRS. Spraugas tiek klasificētas pēc piecu līmeņu skalu, ko ieviesta US NOAA 1999.  
-Līmeņi:
-| Līmenis | X‑starojuma intensitāte (W m⁻²) |
-|---------|------------------------------|
-| A | ≥ 10⁻⁸ |
-| B | ≥ 10⁻⁷ |
-| C | ≥ 10⁻⁶ |
-| M | ≥ 10⁻⁵ |
-| X | ≥ 10⁻⁴ |
+Saules veltnes intensitātes aptver plašu diapazonu un tiek klasificētas pēc galvenās izslēgšanas emisijas 0,1–0,8 nm spektrālajā joslā (mīkstā X‑rādi). **Saules veltnes** tiek klasificētas, izmantojot pieci līmeņus, ko ieviesa Amerikas Savienoto Valstu Nacionālā Okeānas un Atmosfēras Administrācija (NOAA) 1999. gadā. Šī skala šobrīd tiek pārskatīta un tiek parādīta zemāk. X‑rādiem starojuma līmeņi sākas ar 'A' līmeni (A ≥ 10⁻⁸ W/m²). Nākamais līmenis, kas ir desmit reizes augstāks, ir 'B' līmenis (≥ 10⁻⁷ W/m²), tad 'C' flares (10⁻⁶ W/m²), 'M' flares (10⁻⁵ W/m²) un visbeidzot 'X' flares (≥ 10⁻⁴ W/m²) (NOAA, 2023).
 
-### Ietekme uz navigāciju un komunikāciju
-**Radio komunikāciju traucēšana** – spraugas radītā ionizācija palielina radio viļņu absorbciju HF (3–30 MHz) joslā, kas traucē ilgtermiņa komunikāciju, būtisku aviācijas, jūras un ārkārtas dienestiem.  
-**GNSS traucēšana** – spraugas var radīt radio frekvenču traucējumus, kas ietekmē GPS, GLONASS, BEIDOU, GALILEO signālus.  
-**Radio izspīdēšana** – var izraisīt tiešu radio viļņu traucējumu, saturot satelītu komunikāciju un radot 90 minūšu radaru traucēšanu, kā 2015. gadā.
+*ScaleDescriptionEffectPhysical measureAverage Frequency (1 cycle = 11 years)R 5ExtremeHF Radio: Complete HF (high frequency) radio blackout on the entire sunlit side of the Earth lasting for a number of hours. This results in no HF radio contact with mariners and en route aviators in this sector. Navigation: Low-frequency navigation signals used by maritime and general aviation systems experience outages on the sunlit side of the Earth for many hours, causing loss in positioning. Increased satellite navigation errors in positioning for several hours on the sunlit side of Earth, which may spread into the night side.X20 (2 x 10-3)Less than 1 per cycle.R 4SevereHF Radio: HF radio communication blackout on most of the sunlit side of Earth for one to two hours. HF radio contact lost during this time. Navigation: Outages of low-frequency navigation signals cause increased error in positioning for one to two hours. Minor disruptions of satellite navigation possible on the sunlit side of Earth.X10 (10-3)8 per cycle (8 days per cycle).R 3StrongHF Radio: Wide area blackout of HF radio communication, loss of radio contact for about an hour on sunlit side of Earth. Navigation: Low-frequency navigation signals degraded for about an hour.X1 (10-4)175 per cycle (140 days per cycle).R 2ModerateHF Radio: Limited blackout of HF radio communication on sunlit side, loss of radio contact for tens of minutes. Navigation: Degradation of low-frequency navigation signals for tens of minutes.M5 (5 x 10-5)350 per cycle (300 days per cycle).R 1MinorHF Radio: Weak or minor degradation of HF radio communication on sunlit side, occasional loss of radio contact. Navigation: Low-frequency navigation signals degraded for brief intervals.M1 (10-5)2000 per cycle (950 days per cycle).The Space Weather centres designated by the International Civil Aviation Organization (ICAO) are expected to provide airliners with advisories about anomalous conditions in HF communication when the intensity of a solar flare exceeds 10-4W/m2 (MOD) and 10-3W/m2 (SEV) (ICAO, 2019).
 
-### Multihazarda konteksts
-Attēls zemāk attēlo, kā spraugas mijiedarbojas ar citām bīstamībām. Informāciju vajadzētu izmantot piesardzīgi, jo dažas mijiedarbības var nebūt iekļautas.  
+### Galvenie atbilstīgie ENS/UN konvences
+Nav attiecināmi; tomēr aviācijas saistītie standarti tiek regulēti ICAO koordinācijā.
+
+### Pārliecības
+Saules aktivitāte: **Saules veltnes** ir saistītas ar aktīvām zonām un saules slēpēm. Šīs bieži tiek izsauktas magnētiskās rekonversijas notikuma rezultātā koronā. Augstas saules aktivitātes periodi, raksturojami ar palielinātu saules slēpju skaitu, ir vairāk iespējamais radīt **saules veltnes**.
+
+### Ietekme
+Radio komunikācijas traucējumi: **Saules veltnes** izmet intensīvus elektromagnētiskos starojuma izplūdumus, tostarp X‑rādiem un ekstrēmāultravioļiem (EUV). Šie augstas intensitātes starojumi var izraisīt palielinātu ionizāciju Zemes atmosfērā, īpaši zemajā ionosfērā. Šī ionizācija var radīt palielinātu absorbēšanu un radio viļņu degradāciju visā HF (3–30 MHz) frekvenču diapazonā, ietekmējot garās attāluma saziņas sistēmas, kas būtiskas aviācijai, jūras operācijām un ārkārtas dienestiem, izraisot radio komunikācijas traucējumus.
+
+GNSS signāla traucējumi: **Saules veltnes** var radīt radiofrekvences traucējumus, kas ietekmē globālās navigācijas satelītu sistēmas (GNSS) signālus, piemēram, GPS, GLONASS, BEIDOU un GALILEO. Šie traucējumi var izraisīt precizitātes kļūdas pozīcijā un laika noteikšanā vai pilnīgu GNSS signālu zaudējumu, kas noved pie potenciāli navigācijas kļūdām dažādos lietojumos, ieskaitot aviāciju un jūras navigāciju.
+
+Radio izplūduma traucējumi: Radio izplūdumi no **saules veltnēm** var tieši traucēt radio komunikāciju uz Zemi. Radio izplūdumi var pārpludināt zemes pamata mobilos tālruņus, aviācijas uzraudzības radārus un citus transmitter/receiver sistēmas piemērotās apstākļos. Piemēram, 2015. gadā Svētdienas lidotūras kontroles centri atklāja, ka švediskā lidotūru navigācijas pakalpojuma pārstāvja radāru stacijas neatvēra pareizos datus. Traucējums tika piesaistīts **saules veltnes** aktivitātei, kas notika pie saulrieta Svētdienas, kad Saules leņķis norādīja uz radāru staciju. Lai gan problēma tika ātri identificēta un iekļauta pasākumos, traucējums radīja 90 minūšu ietekmi uz radāru visā Svētdienas lidotūru teritorijā. Intensa starojuma līmenis no **saules veltnēm** var bojāt satelītu elektroniskās sistēmas, traucējot komunikāciju, laika prognozi un zinātnisko datu vākšanas pakalpojumus. Palielinātie starojuma līmeņi var arī traucēt sensorus un instrumentus kosmosa observatorijos. Saules enerģētiskie daļiņi var radīt arī veselības riskus astronautiem ārējās aktivitātēs (EVAs).
+
+### Daudzpārtrauktu konteksts
+Zemāk attēlota figura saprotu interaktīvās savienības starp **saules veltnēm** un citām katastrofām. Šī informācija jāizmanto ar piesardzību, un nav jābalstās tikai uz katastrofiskās risku pārvaldību, īpaši, jo daži interakcijas var nebūt iekļautas. Vērojot, ka draudējūšie notikumi notiek kopā vai vietēji telpā vai laikā, tas ne vienmēr noved pie pastiprināšanas vai citu draudu ietekmēšanas. Specifiski daudzpārtrauktu konteksta piemēri ir pieejami “Draudu pārspēkā” un “Ietekme” sadaļās augšāk.
+
+### Daudzpārtrauktu diagramma
 
 ### Risku pārvaldība
-- **Plānošana un uzraudzība** – Zemes laika apstākļu monitorēšana un spraugu prognoze.  
-- **Radio izdegšanas prognozes** – X‑starojuma un UV sensoru dati, kas paredz radio izdegšanas ietekmi.  
-- **Rezerves komunikācijas sistēmas** – alternatīvas frekvences, modeļi, redundants tīkls.  
-- **GNSS integritātes uzraudzība** – traucējumu noteikšana un brīdinājuma sistēma.  
+Kosmosas laika uzraudzība: Kosmosas laika pakalpojumi uzrauga saules aktivitāti un sniedz brīdinājumus un prognozes par iespējamām **saules veltnēm**. Šīs uzraudzības sistēmas palīdz noteikt un novērtēt **saules veltnes** risku, ļaujot veikt atbilstošas risku pārvaldības darbības. Radio izslēgšanas prognozes: **Saules veltnes** intensitātes var mērīt, izmantojot X‑rādiem un ultravioleta sensoru datus, un šie dati var tikt izmantoti, lai prognozētu potenciālo ietekmi uz radio viļņu pārraidīšanu. D‑reģiona absorbcijas rezerves komunikācijas sistēmas: organizācijas un rūpniecība var nodrošināt rezerves komunikācijas sistēmas, lai mazinātu radio komunikācijas traucējumu ietekmi. Tas var ietvert alternatīvās frekvences, komunikācijas režīmus vai redundantas komunikācijas tīkli, kas mazāk ietekmēti no ionosfēras izmaiņām, ko izraisa **saules veltnes**. GNSS integritātes uzraudzība: GNSS lietotāji var ieviest integritātes uzraudzības sistēmas, kas atklāj un brīdinās lietotājus par potenciālajām anomālijām vai traucējumiem GNSS signālos. Tas ļauj proaktīvai risku pārvaldībai un rezerves navigācijas metožu ieviešanai, ja nepieciešams.
 
-### Monitoring
-Space Weather centri, kas pieder pie International Space Environment Services (ISES), piedāvā brīdinājumus. ICAO izsaka brīdinājumus aviācijai.  
+### Uzraudzība
+Kosmosas laika pakalpojumi, kas pieder pie Starptautiskās kosmosas izpētes organizācijas (ISES), piedāvā brīdināšanas sistēmas konkrētiem lietotājiem viņu valstīs. Kosmosas laika centri, kas pieder pie Starptautiskās civilas aviācijas organizācijas (ICAO), izsauc lietošanas pakalpojumu lietotājiem par **saules veltnēm** un radio izslēgšanu.
 
-### Atsauces
-1. AMS, 2018. Radio blackout. American Meteorological Society (AMS).  
-2. Australian Bureau of Meteorology, 2022. Space Weather and the Aviation Sector.  
-3. Chakraborty, S. et al. Radio Science, 2018.  
-4. Hanslmeier, A., 2007. Space Weather – An Overview.  
-5. ICAO, 2019. Manual on Space Weather Information…  
-6. ... (tukšots, turpināšana līdz galam)  
+### References
+AMS, 2018. Radio blackout. American Meteorological Society (AMS). Accessed 31 January 2025.
+Australian Bureau of Meteorology, no date. Space Weather and the Aviation Sector. Accessed 31 January 2025.
+Chakraborty, S., J. Ruohoniemi, J. B. H. Baker and N. Nishitani, “Characterization of short-wave fadeout seen in daytime SuperDARN ground scatter observations,” Radio Science, vol. 53, no. 4, 2018
+Hanslmeier, A., 2007. Space Weather-An Overview. Accessed 24 February 2025.
+International Civil Aviation Organization, 2019. “Manual on Space Weather Information in Support of International Air Navigation (Doc 10100)”; Technical report; ICAO: Montréal, Canada.
+Kataoka, R., 2022. Solar Radio Burst. Chapter 2 – Disturbed space weather. Extreme Space Weather, 31-64. Accessed 31 January 2025.
+Machol, J. L., Eparvier, F. G., Viereck, R. A., Woodraska, D. L., Snow, M., Thiemann, E., ... & Reinard, A. A., 2020. “GOES-R series solar X-ray and ultraviolet irradiance”. In The GOES-R Series (pp. 233-242). Elsevier.
+NOAA, 2019. Solar flares (Radio blackouts). Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA). Accessed 31 January 2025.
+NOAA, no date. NOAA Space Weather Scales. Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA) Solar Flares (Radio Blackouts). Accessed 31 January 2025.
+NOAA, no date. NOAA Space Weather Scales. Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA). Accessed 31 January 2025.
+NOAA, no date. NOAA Space Weather Scales. Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA) Solar Radio Datasets. Accessed 31 January 2025.
+Royal Academy of Engineering, 2013. Extreme Space Weather: Impacts on Engineered systems and Infrastructure. Accessed 31 January 2025.
+Schumer, E. A., 2009. “Improved modeling of midlatitude D-region ionospheric absorption of high frequency radio signals during solar x-ray flares”, vol. AFIT/DS/ENP/09/J01, Ohio: United States Air Force, Wright-Patterson Air Force Base.
+Thiemann, E. M., Eparvier, F. G., Woodraska, D., Chamberlin, P. C., Machol, J., Eden, T., ... & Woods, T. N., 2019. “The GOES-R EUVS model for EUV irradiance variability”. Journal of Space Weather and Space Climate, 9, A43.
+UK CAA, 2020. Impacts of space weather on aviation. UK Civil Aviation Authority (UK CAA). Accessed 31 January 2025.
+Cite this [Copy citation]
 ```
-
-> *Piezīme:* Turpmākajās nodaļās turpinām uzlabot terminoloģiju, pārskatot visus citātus un aprēķinot precīzas skaitliskās vērtības, lai nodrošinātu pilnīgu atbilstību DRR kontrolētajam vārdnīca standartam.

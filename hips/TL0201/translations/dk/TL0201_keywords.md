@@ -1,0 +1,1 @@
+progressive collapse, chain reaction, structural robustness, system characteristics, structural redundancy, failure propagation, foundation instability, ground subsidence, design base shear, Seismic vulnerability index, progressive structural collapse, chain of failures, floor area Ratio, material mixing

@@ -1,0 +1,1 @@
+Natural hazard triggered technological accident, Natech accidents, technological secondary effects, Natech event consequences, Natech risk management, Natech prevention preparedness and response, cascading disasters, multi-hazard context, Natech hazards, risk assessment and management, cascading effects

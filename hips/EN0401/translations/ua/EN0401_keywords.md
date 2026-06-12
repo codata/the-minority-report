@@ -1,0 +1,1 @@
+reduction in the pH of the ocean, uptake of carbon dioxide from the atmosphere, alters the carbonate chemistry, decrease in dissolved carbonate ion concentration, partial pressure of CO2 (pCO2), dissolved bicarbonate ions, carbonate ions, calcifying organisms, total dissolved inorganic carbon (DIC), total alkalinity (TA), growth and larval survival

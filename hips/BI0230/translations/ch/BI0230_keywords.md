@@ -1,0 +1,1 @@
+Prion diseases,Transmissible Spongiform Encephalopathies,prion protein,PrPSc,misfolding,Creutzfeldt-Jakob disease (CJD),variant Creutzfeldt-Jakob disease (vCJD),Bovine spongiform encephalopathies (BSE),Chronic Wasting Disease (CWD),Scrapie,spongiform degeneration of the brain,zoonotic transmission

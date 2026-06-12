@@ -1,0 +1,1 @@
+Marine toxins (biotoxins), toxic algae, bacteria, contaminated fishery and aquaculture products, Paralytic shellfish poisoning, Diarrhoeic shellfish poisoning, Neurotoxic shellfish poisoning, Azaspiracid shellfish poisoning, Ciguatoxins, Domoic acid poisoning, Toxin groups, bioaccumulation

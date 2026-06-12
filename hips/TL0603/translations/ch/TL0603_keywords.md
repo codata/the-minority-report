@@ -1,0 +1,1 @@
+neutron radiation, atomic fission, nuclear fusion, heavy shielding, dispersal of neutron radiation, improvised nuclear devices (IND), nuclear yield, radioactive fallout, neutron activation, dangerous-radiation zone, radiation dispersal devices (RDD), thermal pulse, nuclear terrorism incident

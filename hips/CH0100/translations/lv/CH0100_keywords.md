@@ -1,0 +1,1 @@
+Heavy metals, Trace elements, Trace element contaminants, Biological significance, Essential Trace Elements, Non-Essential or Toxic Trace Elements, Bioavailable metal-organic compounds, Persistent inorganic contaminants, Halides, Metal health hazard, Bioaccumulation in aquatic ecosystems, Soil pollution

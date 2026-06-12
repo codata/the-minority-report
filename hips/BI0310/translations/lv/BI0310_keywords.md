@@ -1,0 +1,1 @@
+Peste des petits ruminants virus,Morbillivirus genus,Paramyxoviridae family,Mononegavirales order,live attenuated vaccine,solid immunity,aerosol direct contact,fomites spreading infection,bedding feed pasture water troughs,small ruminants, zoonotic infection,national early warning system

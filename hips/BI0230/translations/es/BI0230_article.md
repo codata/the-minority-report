@@ -1,106 +1,56 @@
-```markdown
-### Definición
-Las **enfermedades priónicas** son una familia de trastornos neurodegenerativos progresivos que afectan tanto a humanos como a animales (Adaptado del CDC, 2024 y de la OMS, 2024).
+### Definición  
+Las **Enfermedades priónicas** son una familia de trastornos neurodegenerativos progresivos y raros que afectan tanto a humanos como a animales (adaptado del CDC, 2024, y la OMS, sin fecha).  
 
-### Referencias principales
-- **CDC (2024).** *Prion Diseases*. Centros para el Control y la Prevención de Enfermedades (CDC). Accedido el 27 de mayo de 2025.  
-- **OMS (2024).** *Encefalopatías espongiformes transmisibles*. Accedido el 27 de mayo de 2025.
+### Referencia principal  
+CDC, 2024. *Enfermedades priónicas*. Centros para el Control y la Prevención de Enfermedades (CDC). Accedido 27 mayo 2025.  
+WHO, sin fecha. *Encefalopatías espongiformes transmisibles*. Accedido 27 mayo 2025.  
 
-### Anotaciones
+### Anotaciones  
+#### Descripción científica adicional  
+Estas enfermedades afectan el sistema nervioso de los mamíferos y, aunque el mecanismo exacto de transmisión aún es desconocido, se cree que se debe a una proteína infecciosa llamada **prión**. Una proteína ubiquitariamente expresada denominada **PrP** o **PrPc** se convierte en una proteína priónica anormal llamada **PrPsc** (OMS, sin fecha). Ocurren cuando las proteínas normalmente presentes en el cuerpo se pliegan de forma anómala y provocan enfermedad. El plegamiento anómalo conduce a daños cerebrales y a otros síntomas. Los síntomas pueden tardar años en desarrollarse; una vez que aparecen, la enfermedad progresa rápidamente y lleva a la muerte. Una de las razones por las que las personas pueden contraer **Enfermedades priónicas** es el consumo o la manipulación de carne contaminada con priones. También pueden infectarse al recibir priones en su organismo, lo que puede ocurrir mediante trasplante de órganos o exposición a equipos contaminados durante cirugía (CDC, 2024). El término **encefalopatías espongiformes transmisibles (TSE)** incluye: enfermedad de Creutzfeldt‑Jakob (CJD) en humanos, scrapie en ovejas y la **enfermedad crónica de abandono (CWD)** en ciervos, encefalopatías espongiformes bovinas (BSE) en ganado (OMS, sin fecha).  
 
-#### Descripción científica adicional
-Estas enfermedades afectan el **sistema nervioso central (SNC)** de mamíferos. Aunque el mecanismo exacto de transmisión sigue desconocido, se sospecha que la causa es una proteína infecciosa denominada **prión**. Se trata de una proteína ubiquitariamente expresada, denominada **PrP** o **PrPc**, que se convierte en una forma anormal llamada **PrPsc** (OMS, 2024).  
+#### Humanos  
+Muchas **Enfermedades priónicas** afectan a personas, pero algunas son más comunes que otras. La enfermedad de Creutzfeldt‑Jakob (CJD) es la más frecuente en humanos. La CJD es una enfermedad priónica que hace que el cerebro de una persona se deteriore o deje de funcionar normalmente. Una vez que comienzan los síntomas, la enfermedad progresa rápidamente. Es siempre mortal, generalmente dentro de un año. La CJD a veces se llama “CJD clásica” para evitar confusión con la variante de CJD. La mayoría de los casos de CJD clásica ocurren en personas mayores. Aparecen de forma esporádica, es decir, no hay una causa conocida por la que los casos comiencen. Un número menor de casos ocurre en personas que heredaron cambios genéticos que los hacen propensos a la CJD. Ocasionalmente, también se han registrado casos en personas que fueron expuestas a equipos quirúrgicos u otros productos contaminados con priones (CDC, 2024).  
 
-Los priones se generan cuando las proteínas normales del cuerpo se pliegan de forma incorrecta, provocando daño cerebral y otros síntomas. El plegamiento anómalo conduce a daño cerebral progresivo. Los síntomas pueden tardar años en manifestarse; una vez presentes, la enfermedad avanza rápidamente y suele terminar en la muerte.  
+Otra enfermedad priónica, la variante de la enfermedad de Creutzfeldt‑Jakob (vCJD), tiene un nombre similar pero es una enfermedad diferente, mucho más rara (CDC, 2024). La vCJD es una condición neurodegenerativa humana rara y mortal descrita por primera vez en marzo de 1996. Al igual que la CJD, la vCJD se clasifica como una TSE debido a la degeneración esponjosa característica del cerebro y su capacidad de ser transmitida. El desarrollo de la vCJD está fuertemente vinculado a la exposición, probablemente a través del consumo de carne y productos cárnicos, al agente que causa la BSE, que fue reportado por primera vez en el Reino Unido en 1986. En contraste con las formas tradicionales de CJD (esporádica, familiar e iatrogénica), la vCJD afecta a pacientes más jóvenes, con una edad media de 29 años, en comparación con más de 65 años en las otras formas. La vCJD tiene una duración relativa de enfermedad más larga, con una mediana de 14 meses, comparada con 4,5 meses para la CJD (OMS, sin fecha).  
 
-Entre las formas de transmisión están la ingestión de carne contaminada, los trasplantes de órganos y la exposición a equipos quirúrgicos contaminados (CDC, 2024).
+La vCJD está vinculada al consumo de carne de vaca infectada con BSE. Se descubrió en 1996 en el Reino Unido. La vCJD afecta a personas mucho más jóvenes que la CJD. La vCJD suele infectar a personas en sus 20 años o más jóvenes. Causa síntomas mentales y conductas, así como dolor al tocar cosas (disestesias), que no se observa en la CJD (CDC, 2024).  
 
-El término **Encefalopatías espongiformes transmisibles (EET)** agrupa:
-- **Enfermedad de Creutzfeldt‑Jakob (ECJ)** en humanos.  
-- **Scrapie** en ovejas.  
-- **Enfermedad crónica de la pérdida (ECP)** en ciervos.  
-- **Encefalopatía espongiforme bovina (EEB)** en ganado (OMS, 2024).
+Otras **Enfermedades priónicas** incluyen kuru, prionopatía proteasa‑sensible variable, insomnio fatal esporádico y formas heredadas causadas por mutaciones genéticas (CDC, 2024). Es una enfermedad neurodegenerativa no inflamatoria y constituye una forma de encefalopatía espongiforme transmitida por el acto de canibalismo (Asher, 2018). Los síntomas del kuru progresan rápidamente con signos cerebelosos y extrapiramidales, con muerte que ocurre dentro de uno a dos años después del inicio de los síntomas (Gajdusek, 1957).  
 
----
+La OMS ha publicado orientación sobre la clasificación de casos y los estándares de vigilancia para la vCJD y otras **Enfermedades priónicas** humanas transmisibles (OMS, 2003).  
 
-### Humanos
+#### Animales  
+Existen varias **Enfermedades priónicas** conocidas en animales:  
 
-#### Enfermedad de Creutzfeldt‑Jakob (ECJ)
-La ECJ es la enfermedad priónica más frecuente en humanos. Hace que el cerebro se desintegre o deje de funcionar correctamente. Una vez que aparecen los síntomas, la enfermedad progresa con rapidez. Es siempre mortal, usualmente en un año. Se denomina **ECJ clásica** para evitar confusión con la variante **vECJ**. La mayoría de los casos de ECJ clásica son en personas mayores y aparecen de forma **esporádica**.
+- **Encefalopatía espongiforme bovina (BSE)**: la BSE es un tipo de enfermedad priónica que afecta a vacas. Los primeros casos se identificaron a mediados de la década de 1980, pero la BSE no ganó atención generalizada hasta un brote importante en el Reino Unido a finales de la década de 1980 y 1990. Millones de vacas fueron infectadas. Para 2005, 24 países habían reportado BSE en ganado nativo, 20 de los 24 en Europa. La propagación de la infección en el ganado probablemente estuvo ligada a las prácticas de alimentación. Se especula que está relacionada con vacas alimentadas con carne y harina de huesos de otras vacas que tenían la enfermedad priónica (CDC, 2024).  
 
-#### Variante de la enfermedad de Creutzfeldt‑Jakob (vECJ)
-La vECJ es una condición neurodegenerativa rara y mortal, descrita por primera vez en marzo de 1996. Al igual que la ECJ, la vECJ se clasifica como una EET por su degeneración esponjosa característica del cerebro y su capacidad de transmisión. Su desarrollo está fuertemente vinculado a la exposición a carne contaminada con el agente de la EEB, reportado por primera vez en el Reino Unido en 1986. En contraste con las formas tradicionales de ECJ (esporádica, familiar e iatrogénica), la vECJ afecta a pacientes más jóvenes (edad media 29 años, frente a >65 años en otras formas) y tiene una duración más larga (mediana 14 meses vs. 4,5 meses en ECJ) (OMS, 2024).
+- **Enfermedad crónica de abandono (CWD)**: la CWD es una enfermedad priónica que afecta a animales como ciervos, alces, renos y otros mamíferos. Se ha encontrado en EE. UU., Canadá, Noruega, Finlandia y Suecia. Se han informado casos importados en Corea del Sur. Aun cuando no hay casos de CWD en personas, los expertos piensan que representa un riesgo teórico. Esto se debe a que la CWD está relacionada con la BSE, que ha causado enfermedad en personas. Si la CWD se transmitiera a las personas, los cazadores y personas que comen carne de animales infectados por la CWD probablemente estarían en mayor riesgo (CDC, 2024).  
 
-#### Otras enfermedades priónicas
-- **Kuru**  
-- **Priónicos sensibles a proteasa**  
-- **Insomnio fatal**  
-- **Scrapie** (clásica y atípica)
+- **Scrapie**: el término scrapie abarca dos entidades patológicas distintas: scrapie clásica y scrapie atípica. Ambas condiciones son crónicas, neurodegenerativas, fatales en ovejas y cabras y son causadas por agentes similares. Sin embargo, difieren en la presentación clínica, patogénesis, patología, propiedades bioquímicas y epidemiología. El scrapie clásico está caracterizado por cambios vacuolares en el sistema nervioso central (SNC). Ha sido reconocido como un trastorno clínico por más de 250 años y se clasifica como una encefalopatía espongiforme transmisible (TSE), o enfermedad priónica, según la acumulación de una forma anormal de una glicoproteína de membrana celular huésped (proteína priónica o PrP) llamada PrPSc, en el SNC. Polimorfismos del gen PrP están asociados con la susceptibilidad al scrapie. La condición más recientemente identificada, conocida como scrapie atípico, presenta algunas características clínicas y patológicas similares al scrapie clásico, pero no se considera que se transmita en condiciones de campo. La epidemiología es consistente con una condición no contagiosa que ocurre de forma esporádica. El scrapie clásico puede transmitirse de la madre a la cría durante el periodo de parto hasta el destete, e incluso intrauterino. También puede transmitirse horizontalmente a ovejas o cabras no relacionadas. El material infeccioso puede persistir durante varios años en pastizales y edificios. Las membranas fetales son fuente de infección y la leche de animales clínicamente afectados puede transmitir la enfermedad. El tiempo de incubación entre la infección primaria y la enfermedad clínica suele ser mayor a 1 año y a veces excede la vida útil comercial del animal. La mayoría de los casos ocurren entre 2 y 5 años de edad. La enfermedad clínica solo se desarrolla si el agente entra en el SNC. El scrapie atípico, cuando se presenta clínicamente, se reporta principalmente en animales mayores y ocurre con una distribución geográfica que sugiere una enfermedad espontánea, aunque se ha transmitido experimentalmente. No existen vacunas disponibles. No hay evidencia de vínculo causal entre el scrapie clásico o atípico y las TSE humanas (WOAH, sin fecha).  
 
----
+### Métricas y límites numéricos  
+No aplica.  
 
-### Animales
+### Convención/Tratado multinivel relevante  
+Reglamentos de Salud Internacional (2005), 3ª edición (OMS, 2016).  
 
-#### Encefalopatía espongiforme bovina (EEB)
-- **EEB clásica**: causada por el agente tipo C; se propaga tras ingerir alimento contaminado.  
-- **EEB atípica**: causada por agentes tipo H y L; se cree que es espontánea.  
-- Se detectó en 1986 y, tras controles adecuados, su incidencia es casi nula (≈ 0 casos por millón de bovinos). La EEB clásica es considerada zoonótica por su vínculo con la vECJ.
+### Conductores  
+Las **Enfermedades priónicas** humanas adquiridas son raras. En estas instancias, las fuentes más comunes externas son procedimientos médicos, donde una persona puede estar expuesta a la proteína priónica anormal a través de equipos contaminados o ciertos tejidos humanos trasplantados, o por ingestión de carne de ganado infectado con BSE (ligada a vCJD). Otras **Enfermedades priónicas** como scrapie y la enfermedad crónica de abandono pueden transmitirse entre animales, sin embargo la transmisión de animales a humanos solo se ha observado en BSE/vCJD (OMS, 2003). Existe también preocupación por la posibilidad de que materiales derivados bovinos involucrados en la producción de vacunas y otros productos farmacéuticos puedan representar una forma potencial de transmisión de la enfermedad. El suero fetal de vaca es un componente habitual de los medios de cultivo, y enzimas y hormonas también se extraen del ganado. Además, los materiales bovinos se han usado en productos como la gelatina, que se utiliza en cápsulas. Por ello se ha hecho un intenso esfuerzo regulatorio para eliminar materiales potencialmente contaminados con BSE de todas las etapas de producción. Cuando los materiales bovinos siguen siendo necesarios, deben provenir de áreas geográficas que no sean endémicas de BSE. Además, se han tomado decisiones regulatorias difíciles en las que se comparan los riesgos inherentes a la sustitución de materiales totalmente caracterizados (por ejemplo, cepas de semillas de vacunas) con el riesgo matemáticamente pequeño…  
 
-#### Enfermedad crónica de la pérdida (ECP)
-Afecta a ciervos, alces, caribúes y renos. Se ha detectado en EE. UU., Canadá, Noruega, Finlandia, Suecia y Corea del Sur. Aunque no se han registrado casos en humanos, se considera un riesgo teórico porque la ECP está relacionada con la EEB.
+El campo también se complica por la dificultad de analizar materiales para TSE y en la realización de estudios para detectar rutas principales de transmisión e infección de esta clase de patógenos altamente novedosos (OMS, sin fecha). En 2006, un informe de la OMS declaró que el impacto eventual de las exposiciones humanas al agente BSE y las transmisiones secundarias de vCJD vía sangre, componentes sanguíneos y productos derivados del plasma no puede predecirse (OMS, 2006). También se informó que los programas de sangre y las autoridades nacionales deben considerar cuidadosamente, con antelación, el impacto potencial de la selección de donantes para TSE, incluidas las implicaciones de la notificación de personas que resulten positivas, sus familias y la sociedad, así como el suministro de sangre (OMS, 2006).  
 
-#### Scrapie
-Enveja dos entidades: **scrapie clásico** y **scrapie atípico**. Son crónicas, neurodegenerativas y mortales en ovejas y cabras. Se caracterizan por vacuolas en el SNC y la acumulación de la proteína priónica anormal **PrPSc**. Los polimorfismos del gen PrP están asociados a la susceptibilidad. No hay vacunas ni evidencia de transmisión a humanos.
+### Impactos  
+La encefalopatía espongiforme bovina (BSE) es una enfermedad progresiva y mortal del sistema nervioso de los bovinos causada por la acumulación de una proteína anormal denominada “prión” en tejido nervioso. Se distinguen dos formas: BSE clásica (causada por el agente BSE de tipo C), que ocurre en bovinos tras ingerir alimento contaminado con prión, y BSE atípica (causada por agentes de tipo H y L), que se cree que ocurre espontáneamente en todas las poblaciones bovinas. La BSE clásica se detectó por primera vez en 1986, y la implementación de medidas de control apropiadas resultó en su disminución a nivel mundial. Hasta la fecha, la incidencia de ambas formas es negligible y se estima que se acerca a cero casos por millón de bovinos. La BSE clásica se considera zoonótica por su supuesto vínculo con la aparición de la variante de la enfermedad de Creutzfeldt‑Jakob en humanos. La BSE clásica es una enfermedad con lista WOAH, por la cual la WOAH ha establecido el reconocimiento oficial del estado de riesgo sanitario (WOAH, 2023).  
 
----
+### Contexto multi‑riesgo  
+La preocupación por la propagación iatrogénica (es decir, enfermedad causada por examen o tratamiento médico) de la enfermedad priónica a través del uso de injertos corneales y durales, equipos neurológicos, hormona humana de crecimiento derivada de cadáveres y transmisión sanguínea de vCJD ha sido sospechada durante mucho tiempo como posible, debido a ciertas características inusuales de la enfermedad (Belay & Schonberger, 2005).  
 
-### Métricas y límites numéricos
-No aplicable.
+### Gestión del riesgo  
+Para actualizar las medidas preventivas propuestas por la OMS en 1997 para minimizar los riesgos asociados con el uso de vacunas, productos sanguíneos y otros productos farmacéuticos que contienen materiales derivados bovinos y humanos, se convocó una reunión de expertos internacionales en la OMS en Ginebra los 3‑5 de febrero de 2003. El objetivo era revisar los datos más recientes sobre la epidemiología, diagnóstico antemortal y post‑mortal, detección de agentes infecciosos y distribución de infectividad en tejidos o fluidos corporales de especies relevantes con TSE (OMS, 2003).  
 
-### Convenio/Tratado multilateral relevante
-**Reglamentos Internacionales de Salud (2005), 3ª ed.** (OMS, 2016).
+### Monitoreo  
+La OMS apoya a los países en la realización de evaluaciones de riesgo estratégicas de todos los riesgos en el contexto de emergencias de salud y desastres, lo que resulta en el desarrollo de un perfil de riesgo nacional. Con el perfil de riesgo nacional, incluido un calendario de riesgo estacional, los países pueden anticipar emergencias potenciales antes de que ocurran para activar alertas tempranas e informar acciones tempranas (OMS, 2021). El Sistema de Alerta Temprana, Alerta y Respuesta de la OMS (EWARS) ha sido diseñado para mejorar la detección de brotes de enfermedades en entornos de emergencia, como en países en conflicto o después de un desastre natural. Es una forma simple y rentable de establecer rápidamente un sistema de vigilancia de enfermedades. EWARS se despliega durante una emergencia como un complemento al sistema nacional de vigilancia de enfermedades. La OMS trabaja con los Ministerios de Salud y socios del sector de salud para entrenar a trabajadores de salud locales en el uso del sistema. Tras la emergencia, EWARS debe reintegrarse al sistema nacional (OMS, sin fecha).  
 
-### Factores impulsores
-- Procedimientos médicos (exposición a equipos o tejidos contaminados).  
-- Consumo de carne de ganado infectado con EEB (vECJ).  
-- Posible transmisión de materiales derivados bovinos usados en vacunas y productos farmacéuticos.  
-- Dificultad para analizar materiales para EET y detectar rutas de transmisión.
-
----
-
-### Impactos
-La EEB es una enfermedad progresiva y mortal del SNC bovino causada por la acumulación de priones. Se distingue entre EEB clásica (agente tipo C) y EEB atípica (agente tipo H/L). La EEB clásica se detectó en 1986 y su incidencia se redujo a nivel mundial. La EEB clásica se considera zoonótica y es listada por la OMS.
-
----
-
-### Contexto multi‑peligro
-La preocupación por la propagación iatrogénica de enfermedades priónicas vía injertos corneales, dura mater, equipos neurosurgénicos, hormona de crecimiento humano derivada de cadáveres y transmisión sanguínea de la vECJ se ha mantenido durante mucho tiempo.
-
----
-
-### Gestión de riesgos
-La OMS actualizó las medidas preventivas en 1997 y convocó expertos internacionales en 2003 para revisar datos sobre epidemiología, diagnóstico antemortem y post‑mortem, detección de agentes infecciosos y distribución de infectividad en tejidos de especies con EET (OMS, 2003).
-
----
-
-### Monitoreo
-La OMS apoya a los países en la evaluación estratégica de riesgos de todos los peligros en contextos de emergencias sanitarias y desastres. Se desarrolla un perfil de riesgo del país con un calendario de riesgo estacional, permitiendo alertas tempranas y acciones. El **Sistema de Alerta Temprana, Aviso y Respuesta (EWARS)** se implementa como complemento al sistema de vigilancia nacional y se reintegra tras la emergencia (OMS, 2021; OMS, sin fecha).
-
----
-
-### Referencias
-- Asher, D.M., Gregori, L. (2018). *Human transmissible spongiform encephalopathies: historic view*. Handb Clin Neurol, 153, 1‑17.  
-- Belay, E.D., Schonberger, L.B. (2005). *The public health impact of prion diseases*. Annu Rev Public Health, 26, 191‑212.  
-- Gajdusek, D.C., Zigas, V. (1957). *Degenerative disease of the central nervous system in New Guinea*. N Engl J Med, 257(20), 974‑978.  
-- CDC (2024). *Prion Diseases*. https://www.cdc.gov/prions/about/index.html.  
-- OMS (2024). *Encefalopatías espongiformes transmisibles*.  
-- OMS (2003). *Manual for surveillance of human transmissible spongiform encephalopathies including variant Creutzfeldt‑Jakob disease*.  
-- OMS (2006). *Guidelines on tissue infectivity distribution in transmissible spongiform encephalopathies*.  
-- OMS (2016). *Reglamentos Internacionales de Salud (2005), 3ª ed.*  
-- OMS (2021). *Strategic toolkit for assessing risks (STAR)*.  
-- OMS (sin fecha). *Early Warning, Alert and Response System (EWARS)*.  
-- WOAH (2023). *Encefalopatía espongiforme bovina*.  
-- WOAH (sin fecha). *Scrapie*.
-```
-
-**Fin.**
+### Referencias  
+*…*

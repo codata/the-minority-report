@@ -1,76 +1,61 @@
-### Definition  
-冷波是表面附近空气温度（日最高气温、日最低气温和日均温度）出现明显且显著下降，覆盖大面积且在寒季至少连续两天低于特定阈值的明显异常寒冷天气现象（WMO，2020）。
+**Definition**  
+Eine Kältewelle ist ein Zeitraum auffälligen und ungewöhnlichen Kältewetters, gekennzeichnet durch einen scharfen und signifikanten Temperaturabfall (Maximum, Minimum und täglicher Durchschnitt) in Bodennähe über ein großes Gebiet und das anhaltende Überschreiten bestimmter Schwellenwerte für mindestens zwei aufeinanderfolgende Tage während der Kälteperiode (WMO, 2020).
 
-### Primary reference(s)  
-- WMO，2020。《极端天气和气候事件的定义与监测指南》。世界气象组织（WMO）。 2025‑05‑16 访问。
+**Primäre Referenz(e)**  
+WMO, 2020. Guidelines on the Definition and Monitoring of Extreme Weather and Climate Events. World Meteorological Organization (WMO). Zugriff am 16. Mai 2025.
 
-### Annotations  
-#### 额外科学描述  
-在美国，国家气象局将冷波定义为 24 小时内快速降温，温度需大幅下降以致农业、工业、商业和社会活动需要显著加强防护措施。冷波的标准包括：  
-1. 温度下降速率；  
-2. 最低温度。后者因地区和季节而异（AMS，2019）。  
+### Annotationen  
+**Zusätzliche wissenschaftliche Beschreibung**  
+In den Vereinigten Staaten definiert der US National Weather Service eine Kältewelle als einen schnellen Temperaturabfall innerhalb von 24 Stunden auf Temperaturen, die einen erheblichen Schutz für Landwirtschaft, Industrie, Handel und soziale Aktivitäten erfordern. Das Kriterium für eine Kältewelle ist somit zweifach: die Rate des Temperaturabfalls und die Mindesttemperatur, auf die sie fällt. Letztere hängt von Region und Jahreszeit ab (AMS, 2019). In China wird eine Kältewelle als katastrophales Wetter im Winter definiert. Kaltluft, die aus hohen Breiten herabstürzt, verstärkt sich schnell unter speziellen Wetterbedingungen beim Betreten von Mittel- und Niedrigbreiten, was einen scharfen Temperaturabfall, Windstärke, Schneefall und Regen mit sich bringt. Sobald die südlich gerichtete Kaltluft ein bestimmtes Niveau erreicht, wird sie zu einer Kältewelle (China Meteorological Administration, 2012). Eine Kältewelle sollte nicht mit einem „Kälteschlag“ verwechselt werden, der sich stattdessen auf dauerhaft unterdurchschnittliche Temperaturbedingungen während der Warmpause bezieht, die ebenfalls schwerwiegende Auswirkungen auf die Gesellschaft haben können, insbesondere für die menschliche Gesundheit und Landwirtschaft (WMO, 2020).
 
-在中国，冷波被视为冬季灾难性天气。来自高纬度的冷空气在进入中低纬度地区时，在特殊气象条件下快速增强，导致明显温度下降、强风、降雪和降雨。当向南移动的冷空气达到一定强度时，即构成冷波（中国气象局，2012）。冷波不等同于“低温期”，后者指暖季期间持续低于平均温度的状况，亦会对社会产生严重影响，尤其是人类健康与农业（WMO，2020）。
+### Metriken und numerische Grenzen  
+Die Richtlinien der World Meteorological Organization zur Definition und Überwachung von extremen Wetter- und Klimaveranstaltungen raten Folgendes an (WMO, 2020):  
+**Index**: Tägliche Werte von Tmax, Tmin und/oder durchschnittlicher Temperatur. Ein anderer Index könnte mit der Temperaturänderung in den 24 Stunden vor dem Auftreten der Veranstaltung berechnet werden.  
+**Schwellenwert**: Basierend auf historischen Werten des Index.  
+**Zeitlich**: Stationsbezogene Informationen zum Startdatum, Enddatum und zur Dauer der Veranstaltung. Die Bedingungen für eine Kältewelle halten mindestens zwei Tage an.  
+**Räumlich**: Berechnung des betroffenen Gebiets, indem der Prozentsatz der Stationen, die den Schwellenwert überschritten haben, angegeben wird; Koordinaten der betroffenen Stationen und des Zentrums mit den höchsten/niedrigsten Indexwerten bestimmen; optional, aber empfohlen, wenn Ressourcen vorhanden sind, ein GIS zu verwenden, um das von der Veranstaltung betroffene Gebiet, das Ausmaß und die Schwere zu berechnen.
 
-### Metrics and numeric limits  
-世界气象组织的指南建议如下（WMO，2020）：  
+### Wichtige relevante UN‑Konventionen / multilaterale Verträge  
+Sendai‑Framework für die Katastrophenrisikoreduktion 2015‑2030.
 
-| 指标 | 说明 | 计算方法 |
-|------|------|----------|
-| **指数** | 日值的日最高气温、日最低气温和/或日平均气温 | 可选 24 小时温度变化指数 |
-| **阈值** | 基于历史指数值确定 |  |
-| **时间性** | 站点级信息：开始日期、结束日期、持续时间 | 冷波条件持续至少两天 |
-| **空间性** | 计算受影响面积：超过阈值的站点比例；定位受影响站点坐标及指数最高/最低值中心；如资源允许，使用 GIS 计算面积、强度与严重性 |  |
+### Treiber  
+Keine verfügbaren Informationen.
 
-### Key relevant UN convention / multilateral treaty  
-- 2015‑2030 年仙台框架（Disaster Risk Reduction）。
+### Auswirkungen  
+Die Auswirkungen der Kältewelle auf die menschliche Gesundheit umfassen die Sterblichkeit durch ischämische Herzkrankheit und zerebrovaskuläre Erkrankungen, die bei kaltem Wetter zunehmen. Ein Anstieg der Atemwegserkrankungen wird im Allgemeinen auf Kreuzinfektionen durch Innenraumüberfüllung und die nachteiligen Auswirkungen von Kälte auf die Resistenz des Immunsystems gegen Atemwegsinfektionen zurückgeführt sowie auf die Tatsache, dass niedrige Temperaturen das Überleben von Bakterien in Tröpfchen begünstigen (Eurowinter Group, 1997). In einer kalten Wohnung zu leben kann die Gesundheit in jedem Alter beeinflussen, nicht nur im Alter, aus verschiedenen Gründen. Obwohl die zusätzlichen Todesfälle bei älteren Menschen hauptsächlich durch Herz‑Kreislauf- und Atemwegserkrankungen verursacht werden, gibt es weit größere Zahlen an leichten Beschwerden, die eine enorme Krankheitslast, Kosten für das Gesundheitssystem und Leid verursachen. Im Vergleich zu Menschen, die in einer wärmeren Wohnung leben, sind Atemwegsprobleme bei Kindern etwa verdoppelt, Arthritis und Rheuma erhöhen sich und die psychische Gesundheit kann in jedem Alter beeinträchtigt werden. Jugendliche, die in einer kalten Wohnung leben, haben ein fünffach erhöhtes Risiko für mehrere psychische Gesundheitsprobleme (Dear und McMichael, 2011).
 
-### Drivers  
-无可用信息。
+### Mehrrisiko‑Kontext  
+Die untenstehende Abbildung fasst die häufigen Wechselwirkungen zwischen Kältewellen und anderen Gefahren zusammen. Diese Informationen sollten mit Vorsicht verwendet werden und nicht ausschließlich im Katastrophenrisikomanagement verwendet werden, insbesondere da einige Wechselwirkungen nicht berücksichtigt sein könnten. Beachten Sie, dass gefährliche Ereignisse, die zusammen oder lokal in Raum oder Zeit auftreten, nicht unbedingt Ursache, Verstärkung oder sonstige Beziehung zueinander haben. Spezifische Beispiele für Mehrrisiko‑Kontext finden Sie in den Abschnitten „Gefahrenursachen“ und „Auswirkungen“ oben.
 
-### Impacts  
-冷波对人类健康的主要影响包括：  
-- 缺血性心脏病和脑血管疾病死亡率升高；  
-- 呼吸道疾病增加，通常与室内拥挤交叉感染及寒冷对免疫系统的负面影响有关；  
-- 低温有利于细菌在飞沫中的存活（Eurowinter Group，1997）。  
+### Mehrrisiko‑Diagramm  
 
-居住在寒冷房屋会影响各年龄段健康。老年人因心血管与呼吸系统疾病导致死亡；儿童呼吸问题几乎翻倍，关节炎和风湿病增多，心理健康受损。青少年因居住在寒冷房屋而多种心理健康问题风险增加五倍（Dear & McMichael，2011）。
+### Risikomanagement  
+Als Beispiel hilft der Kältewellenplan für England, der erstmals 2011 eingeführt wurde, die Hauptvermeidung von Gesundheitseffekten während Kälteperioden in England zu verhindern (UK Government, 2020). Nationale Alarmparameter für Kältewellenwarnungen sind in China verfügbar (China Meteorological Administration, 2012).
 
-### Multi‑hazard context  
-以下图表总结了冷波与其他危害的常见相互作用。信息使用时应谨慎，仅作为辅助参考，避免过度依赖。共存或局部同时间空间的危害事件不一定相互影响或相关。可在“危害驱动因素”和“影响”章节中查阅多危害情境的具体示例。
+### Überwachung  
+Der obige Abschnitt und die untenstehende Tabelle geben einen Überblick über die Überwachung von Kältewellen. Diese Informationen können für die Vorhersage innerhalb eines nationalen Frühwarnsystems (EWS) verwendet werden. Da die Kapazitäten und Prozesse von EWS in verschiedenen Ländern unterschiedlich sind, sollten die aktuellsten und spezifischsten Informationen zur EWS von der zuständigen nationalen oder regionalen Behörde für Katastrophenmanagement eingeholt werden.  
+**Welche Institution(en) erzeugen Katastrophenrisikodaten/-informationen?**  
+- Nationale, subnationale und lokale Katastrophenmanagementbehörden, die für die Überwachung von Kältewellenrisiken, die Ausgabe von Warnungen und die Koordination von Notfallmaßnahmen verantwortlich sind.  
+- Meteorologische Dienste, die Temperaturabfälle, Windkälte und extreme Kältebedingungen verfolgen.  
+- Hydrologische Agenturen, die gefrorene Gewässer, Schneedeckung und potenzielle Hochwasserrisiken durch Eis‑ und Schneeschmelze überwachen.  
+- Raum‑ und Fernerkundungsagenturen, die Satelliten zur Überwachung von Temperaturmustern, Schneedeckung und Bewegungen von kalten Luftmassen verwenden.  
+- See- und Luftfahrtsicherheitsbehörden, die Eisbildung, niedrige Sichtbedingungen und Beratung für Luft‑ und Seetransport überwachen.  
+- Verkehrs- und Infrastrukturbehörden, die Risiken für Straßen, Brücken und Eisenbahnen durch Eisbildung, gefrorene Bedingungen und extreme Kälte bewerten.  
+- Energie‑ und Versorgungsunternehmen, die sich auf steigende Heizbedarfe, Stromnetzbelastung und potenzielle Ausfälle durch extreme Kälte vorbereiten.  
+- Landnutzungs- und Stadtplaner, die Kältewellenrisikobewertungen in städtische Heizstrategien, Energieeffizienzplanung und Notfallmaßnahmen integrieren.  
+- Gesundheitsbehörden, die öffentliche Gesundheitsrisiken einschließlich Unterkühlung, Erfrierungen, Atemwegserkrankungen und Notfallmedizinbedürfnisse bei extremer Kälteexposition bewerten.  
+- Forscher und Akademiker, darunter Klimatologen und Meteorologen, die die Bildung von Kältewellen, Klimawandel und Verbesserungen in der Vorhersage untersuchen.
 
-*(多危害图表 – 省略)*
+### Wie wird die Gefahr beobachtet/überwacht/vorhersagt?  
+Kältewellen werden mithilfe von Satelliten und Wetterstationen mit Temperatursensoren überwacht, um plötzliche Temperaturabfälle, Windkälte und atmosphärische Druckänderungen zu verfolgen. Meteorologen analysieren polare Luftbewegungen, Jetstream‑Veränderungen, Feuchtigkeitsstände und fortgeschrittene Wettermodelle, um extreme Kälteereignisse vorherzusagen, sodass Frühwarnungen ausgegeben werden können. Diese Warnungen helfen Gemeinschaften, Energieversorgern und Notfallkräften, sich auf Gesundheitsrisiken, Heizbedarf und potenzielle Unterbrechungen der Infrastruktur und des Transports vorzubereiten.
 
-### Risk Management  
-- 英国冷天气计划（Cold Weather Plan）自 2011 年起实施，旨在预防英国寒冷天气期间对健康的主要可避免影响（UK Government，2020）。  
-- 中国提供国家级冷波预警参数（中国气象局，2012）。
+**References**  
+AMS, 2019. Glossary of Meteorology: Cold wave. American Meteorology Society (AMS). Accessed 16 May 2025.  
+China Meteorological Administration, 2012. Weather Warnings: Cold Wave. Accessed 16 May 2025.  
+Dear, K.B.G. and M.J. McMichael, 2011. The health impacts of cold homes and fuel poverty. British Medical Journal, 342. Accessed 16 May 2025.  
+Eurowinter Group, 1997. Cold exposure and winter mortality from ischaemic heart disease, cerebrovascular disease, respiratory disease, and all causes in warm and cold regions of Europe. Lancet, 349:1341-1346.  
+UK Government, 2020. Cold weather plan for England. Accessed 16 May 2025.  
+WMO, 2020. Guidelines on the Definition and Monitoring of Extreme Weather and Climate Events. World Meteorological Organization (WMO). Accessed 16 May 2025.  
+Zhang, X., L. Alexander, G.C. Hegerl, P. Jones, A.K. Tank, T.C. Peterson, B. Trewin and F.W. Zwiers, 2011. Indices for monitoring changes in extremes based on daily temperature and precipitation data. WIREs Climate Change, 2:851-870.  
 
-### Monitoring  
-上述章节与下表概述冷波监测。信息可用于国家早期预警系统（EWS）内的预测。EWS 的能力和流程因国而异，获取最具体、最新的 EWS 信息请咨询负责灾害管理的国家或地区机构。
-
-| 机构 | 主要职责 |
-|------|----------|
-| 国家/次国家/地方灾害管理机构 | 监测冷波风险、发布警报、协调应急响应 |
-| 气象服务 | 跟踪温度下降、风寒指数、极端寒冷条件 |
-| 水文机构 | 监测冻结水体、雪包、冰雪融化导致的洪水风险 |
-| 空间与遥感机构 | 通过卫星监测温度模式、雪盖、冷空气运动 |
-| 航运与航空安全机构 | 监测冰累积、能见度低情况，发布航行与航空建议 |
-| 交通与基础设施机构 | 评估道路、桥梁、铁路因结冰、冻结、极寒导致的风险 |
-| 能源与公用事业公司 | 为取暖需求、输电网负荷及极寒导致的潜在停电做准备 |
-| 土地使用与城市规划者 | 将冷波风险纳入城市供热、能效与应急响应规划 |
-| 卫生部门 | 评估公共卫生风险：体温过低、冻伤、呼吸道疾病、急救需求 |
-| 研究人员与学术界 | 研究冷波形成、气候变化与预测改进 |
-
-### How is the Hazard Observed/Monitored/Forecast?  
-冷波通过卫星和带温度传感器的气象站监测，跟踪突降温度、风寒指数与气压变化。气象学家分析极地空气流动、喷流位移、湿度水平及先进天气模式，预测极端寒冷事件，从而发布早期警报。警报帮助社区、能源供应商与应急救援人员为健康风险、取暖需求及基础设施和交通潜在中断做好准备。
-
-### References  
-- AMS，2019。《气象词典：冷波》。美国气象学会（AMS）。2025‑05‑16 访问。  
-- 中国气象局，2012。《天气预警：冷波》。2025‑05‑16 访问。  
-- Dear, K.B.G. & McMichael, M.J.，2011。《寒冷住房与燃料贫困的健康影响》。英国医学期刊，342。2025‑05‑16 访问。  
-- Eurowinter Group，1997。《寒冷暴露与欧洲温暖与寒冷地区缺血性心脏病、脑血管疾病、呼吸道疾病与全部死亡率》。柳叶刀，349:1341‑1346。  
-- UK Government，2020。《英国冷天气计划》。2025‑05‑16 访问。  
-- WMO，2020。《极端天气和气候事件的定义与监测指南》。世界气象组织（WMO）。2025‑05‑16 访问。  
-- Zhang, X. 等，2011。《基于日温度与降水数据监测极端变化的指数》。WIREs Climate Change，2:851‑870。  
-
----
+**Cite this** [Copy citation]

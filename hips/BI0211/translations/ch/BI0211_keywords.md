@@ -1,0 +1,1 @@
+acute vaccine-preventable viral liver disease,faecal-oral route,contaminated food or water,unsafe water or food,inadequate sanitation,oral-anal sex,inflammation of the liver,HAV-specific immunoglobulin G,reverse transcriptase polymerase chain reaction,waterborne outbreaks,supportive care

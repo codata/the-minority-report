@@ -1,0 +1,1 @@
+fungal plant disease, fungal agents, mycelium, spores, Fungal-like organisms, blights, wilts, rots, mildews, canker, smuts, rusts, anthracnose, late blight, Fusarium wilt, powdery mildew, oak wilt, basal rot, grey mould rot, heart rot, wheat rust, soybean rust, coffee rust, cedar-apple rust, apple scab, corn smut, Verticillium wilt, aflatoxin, Aspergillus species

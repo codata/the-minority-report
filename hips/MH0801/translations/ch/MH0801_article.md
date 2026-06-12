@@ -1,80 +1,63 @@
-```markdown
-### 定义  
-雪崩是指大量雪与冰在山坡上突然下落，并常携带土壤、岩石及各类碎屑的自然灾害（WMO，1992）。
+### Definition
+Eine **Lawine** ist eine Masse aus Schnee und Eis, die plötzlich einen Berghang hinabfällt und dabei Erde, Gestein und Trümmer jeder Art mitnimmt (WMO, 1992).
 
-### 主要参考资料  
-WMO，1992。《国际气象词汇》, WMO-编号 182，世界气象组织（WMO）。访问时间 2025‑05‑16。
+### Primary reference(s)
+WMO, 1992. International Meteorological Vocabulary, WMO-No. 182. World Meteorological Organization (WMO). Accessed 16 May 2025.
 
-### 注释  
+### Annotations
+#### Additional scientific description
+Eine **Lawine** ist ein schneller Schneefluss, der auf einen Hügel oder Berghang hinabfließt (NSIDC, 2021). Obwohl Lawinen unter den richtigen Bedingungen an jedem Hang auftreten können, sind bestimmte Jahreszeiten und Standorte gefährlicher als andere. Der Winter, insbesondere von Dezember bis April auf der Nordhalbkugel, ist die Zeit, in der die meisten Lawinen auftreten. Es gibt verschiedene Arten von Lawinen (SLF, no date a):
 
-#### 额外科学描述  
-雪崩是一种快速的雪流，沿山坡或山斜向下移动（NSIDC，2021）。虽然雪崩可在任何斜坡上发生，但在特定时间与地点更具危险性。北半球冬季，尤其是从十二月到四月，是大多数雪崩发生的季节。
+- **Lockige Lawine**: beginnt an einem einzigen Punkt und bildet sich, wenn Schnee nicht gut verbunden ist. Eine lockige Lawine aus trockenem Pulverschnee erfordert in der Regel einen Hangwinkel von 40°. In sehr steilen Bereichen, wenn einzelne Schneekugeln losgelöst werden, rollen sie abwärts und stoßen auf weitere Kugeln, wodurch eine umgekehrte V‑förmige Lawine entsteht. Lockige Lawinen transportieren weniger Schnee und sind langsamer als Platten‑Lawinen, daher weniger gefährlich.
+- **Platten‑Lawine**: entsteht nur, wenn die Schneeschicht mehrere Schneeschichten enthält. Platten‑Lawinen werden durch gleichzeitiges Loslassen einer zusammenhängenden Schneeschicht (Platte) charakterisiert. Steilere als etwa 30° sind Platten‑Lawinen meist größer als typische Skilawinen (durchschnittlich 50 m breit, 150‑200 m lang und 50 cm dick) und erreichen Geschwindigkeiten von 50‑100 km/h.
+- **Gleitlawine**: hat wie Platten‑Lawinen eine deutliche, breite Frakturlinie, unterscheidet sich jedoch dadurch, dass die gesamte Schneeschicht freigesetzt wird. Der Hang muss ausreichend steil sein, aber Gleitlawinen können bei einem Hangwinkel von nur 15° auftreten. Gleitlawinen treten nur auf einer glatten Unterlage auf, typischerweise mit abgeflachtem Gras oder Gesteinsplatten.
+- **Pulverkraftlawine**: entsteht meist aus Platten‑Lawinen. Eine Pulverschauer bildet sich bei einem großen Höhenunterschied, wenn genügend Schnee in die Luft suspendiert wird. Pulverkraftlawinen können Geschwindigkeiten von 300 km/h erreichen und massive Schäden verursachen.
+- **Nasse‑Lawine**: wird meist natürlich ausgelöst, häufig durch einen großen Temperaturanstieg. Schmelzwasser oder gelegentlich Regenwasser, das in die Schneeschicht eindringt, schwächt die Bindungen zwischen den Schneekristallen und destabilisiert Schichten, in denen Wasser sich ansammelt. Sowohl lockige als auch Platten‑Lawinen können nassen Schnee enthalten.
 
-#### 雪崩类型  
+### Metrics and numeric limits
+Nicht verfügbar.
 
-| 类型 | 起因 | 关键特征 | 典型坡角 | 典型速度 |
-|------|------|----------|----------|----------|
-| 松散雪崩（Loose Snow Avalanche） | 雪未良好粘结 | 仅一层松散雪 | ≈ 40° | 低于 20 km/h |
-| 层雪崩（Slab Avalanche） | 多层雪中形成完整层 | 同时释放整层雪 | > 30° | 50–100 km/h |
-| 滑移雪崩（Gliding Avalanche） | 整层雪滑移 | 明显宽裂缝 | ≈ 15° | 与层雪崩相近 |
-| 粉雪崩（Powder Avalanche） | 层雪崩引发 | 雪云悬浮 | 可在任何坡角 | 最高 300 km/h |
-| 湿雪崩（Wet Snow Avalanche） | 温度升高导致融水渗入 | 雪晶结合削弱 | 依坡面 | 与松散雪崩相似 |
+### Key relevant UN convention / multilateral treaty
+Sendai Framework for Disaster Risk Reduction 2015‑2030.
 
-### 指标与数值限制  
-无可用数据。
+### Drivers
+Die Gefahr von Lawinen wird in bestimmten Umständen erhöht, typischerweise bei windigen Bedingungen auf frischem Schneehang, wenn es zu einer schnellen, erheblichen Erwärmung des Schnees über 0 °C kommt, und bei steileren, schattigeren Hängen (White risk, no date).
 
-### 相关联合国公约/多边条约  
-《仙台框架》灾害风险减少 2015‑2030。
+### Impacts
+Lawinen beschädigen Gebäude und Infrastruktur in ihrem Weg und können Straßen- und Schienenverkehr beeinträchtigen.
 
-### 驱动因素  
-- 新鲜雪坡的风吹条件  
-- 雪快速升温至 0 °C 以上  
-- 更陡峭、阴暗的坡面（White Risk，未注明日期）
+### Multi‑hazard context
+Die folgende Abbildung fasst die häufigen Wechselwirkungen zwischen Lawinen und anderen Gefahren zusammen. Diese Informationen sollten mit Vorsicht verwendet und nicht ausschließlich für das Katastrophenmanagement herangezogen werden, da manche Interaktionen nicht berücksichtigt sein könnten. Beachten Sie, dass gemeinsam oder lokal gleichzeitig auftretende Gefahren nicht zwangsläufig verursachen, verstärken oder anderweitig miteinander zusammenhängen. Konkrete Beispiele des Multi‑Hazard‑Kontexts finden sich in den Abschnitten „Hazard drivers“ und „Impacts“ oben.
 
-### 影响  
-雪崩会破坏建筑和基础设施，阻碍道路与铁路运输。
+### Multi‑hazard diagram
 
-### 多灾害情境  
-以下图表总结了雪崩与其他灾害的常见相互作用。信息应谨慎使用，避免单独依赖灾害风险管理，尤其是部分相互作用可能未被包含。请参阅“灾害驱动因素”和“影响”章节了解多灾害情境的具体示例。
+### Risk Management
+Lawinensicherung- und Kontrollmaßnahmen umfassen die Frühwarnung, die entscheidend ist. Die European Avalanche Warning Services (EAWS) vereint 29 Lawinenwarn‑Dienstleistungen aus 16 Ländern (EAWS, 2020). Durch kontrollierte Explosionen zielt die künstliche Lawinen‑Entzündung vorübergehend darauf ab, mögliche Startzonen, Lawinenpfade und Ablagerungszonen zu sichern und große Lawinen sowie lange Schließungen zu verhindern (SLF, no date b). Verteidigungsstrukturen verhindern die Entstehung von Lawinen. In anderen Fällen kann eine Lawine abgelenkt oder abgefangen werden, wenn sie freigesetzt wird, indem eine Lawinenwehr eingesetzt wird. Weitere Schutzmaßnahmen gegen Lawinen umfassen physische Strukturen für Gebäude und Schneeschütze. Um eine Lawine vollständig zu stoppen, muss je nach Geschwindigkeit die Lawinenwehr mehr als 20 m hoch sein. Viele Lawinenwehren haben eine Doppelrolle: Sie schützen im Winter vor Lawinen und vor Überschwemmungen sowie Trümmerströmungen, sobald der Schnee geschmolzen ist. Schneeschütze werden als Lawinen‑Galerien oder -Tunnel bezeichnet und sind klassische Strukturen zum Schutz von Verkehrswegen. Zu den typischen Maßnahmen zum Schutz von Gebäuden gehören Wandverstärkung, der Aufbau einer massiven Struktur (Spaltkeil), die einer Holzschneidewedge ähnelt, um die Lawine zu brechen, und ein Gebäudedesign (Ebenhöch), bei dem das Dach nahtlos mit dem Gelände oder einer Erhöhung verschmilzt (SLF, no date c).
 
-> **（此处插入多灾害图）**
+### Monitoring
+Der obige Abschnitt und die nachfolgende Tabelle geben einen Überblick über die Überwachung von Lawinen. Diese Informationen können für die Vorhersage innerhalb eines nationalen Frühwarnsystems (EWS) verwendet werden. Da die EWS‑Fähigkeiten und Prozesse zwischen den Ländern variieren, sollten die aktuellsten und spezifischsten Informationen über EWS von der jeweiligen nationalen oder regionalen Behörde für Katastrophenmanagement eingeholt werden.
 
-### 风险管理  
-雪崩防护与控制措施的核心是早期预警。欧洲雪崩预警服务（EAWS）汇集 16 国 29 家雪崩预警机构（EAWS，2020）。  
-- **人工触发**：受控爆破可在可能的起始区、雪崩路径与堆积区临时设置防护，防止大型雪崩与长时间关闭（SLF，无日期 b）。  
-- **防御结构**：大坝可偏转或拦截雪崩；需根据速度高达 20 m 高度。  
-- **建筑保护**：墙体加固、固体结构（Spaltkeil，木楔式防护）与建筑设计（Ebenhöch）可使屋顶与地形或土堑无缝衔接（SLF，无日期 c）。  
-- **雪棚（Snow Shed）**：亦称雪崩隧道或雪崩走廊，常用于保护交通路线。
+#### Which institution(s) produce(s) Disaster Risk Data/Information?
+- Nationale, subnationale und lokale Katastrophenmanagementbehörden, die für die Überwachung von Lawinenrisiken, die Ausgabe von Warnungen und die Koordination von Notfallmaßnahmen verantwortlich sind.  
+- Meteorologische und hydrologische Dienste, die Schneefallmenge, Temperaturänderungen und andere Wetterbedingungen verfolgen, die die Entstehung von Lawinen beeinflussen.  
+- Geophysikalische und geologische Forschungsinstitute, die Bodenbeschaffenheit, Hangstabilität, seismische Aktivität und Klimafolgen für Lawinen untersuchen.  
+- Berg‑Sicherheits- und Lawinen‑Vorlagedienste (z. B. U.S. National Avalanche Center (NAC), European Avalanche Warning Services (EAWS), Canadian Avalanche Centre (CAC)), die Echtzeit‑Lawinen‑Vorlagen und Risikobewertungen bereitstellen.  
+- Forst- und Landmanagementbehörden, die Schneebildung, Abholzung und Vegetationsänderungen überwachen, die das Lawinenrisiko beeinflussen.  
+- Verkehrs- und Infrastrukturbehörden, die Risiken für Straßen, Eisenbahnen und Berghänge bewerten und Gegenmaßnahmen wie Schneeverhinderer und kontrollierte Detonationen umsetzen.  
+- Energie- und Versorgungsunternehmen, die Lawinenrisiken für Stromleitungen, Wasserkraftwerke und Kommunikationsinfrastruktur in bergigen Regionen überwachen.  
+- Gesundheitsbehörden, die öffentliche Sicherheitsrisiken bewerten, einschließlich Verletzungen, Todesfälle und Notfallmedizinische Einsatzkapazitäten in Lawinen‑gefährdeten Gebieten.  
+- Forscher und Akademiker, einschließlich Schneeforscher, Geologen und Klimaforscher, die die Entstehung von Lawinen, Vorhersageverbesserungen und die Auswirkungen des Klimawandels auf Schneestabilität untersuchen.  
+- Umweltorganisationen und Naturschutzgruppen, die sich für ein nachhaltiges Management von Bergökosystemen, Aufforstungsmaßnahmen und Bewusstseinsbildung zu Lawinen‑Gefahren einsetzen.  
+- Gemeinschaftsorganisationen, Skispähle und Bergsteigervereine, die Lawinen‑Risiko‑Kommunikation, öffentliche Bildung und Sicherheitsvorbereitung für Wanderer im Backcountry leisten.
 
-### 监测  
-以下为监测雪崩的概览，适用于国家早期预警系统（EWS）预测。不同国家的 EWS 能力与流程各异，获取最新信息请咨询相应机构。  
+#### How is the Hazard Observed/Monitored/Forecast?
+Lawinen werden mithilfe von Wetterstationen, Schneesensoren und geschulten Beobachtern überwacht, um Schneefall, Temperaturänderungen und Schneeschichtsstabilität zu verfolgen. Wissenschaftler analysieren Windmuster, Geländebedingungen und frühere Lawinenaktivitäten, um Risikolevel zu bewerten. Fortschrittliche Modelle prognostizieren das Risiko von Schneemovement und helfen Vorhersagern, zu bestimmen, wann und wo Lawinen auftreten können. Frühwarnungen unterstützen Skigebiete, Bergsteiger und Notfallkräfte bei der Risikoreduzierung und dem Schutz von Menschen in Lawinen‑gefährdeten Gebieten.
 
-#### 监测机构  
-
-| 机构类型 | 主要职能 |
-|----------|----------|
-| 国家/地方灾害管理机构 | 监测雪崩风险、发布预警、协调应急 |
-| 气象与水文服务 | 跟踪降雪、温度波动、影响雪崩的天气条件 |
-| 地球物理与地质研究机构 | 研究地形特征、坡面稳定性、地震活动与气候对雪崩的影响 |
-| 高山安全与雪崩预测中心 | 提供实时预测与风险评估（如 NAC、EAWS、CAC） |
-| 林业与土地管理机构 | 监测雪积、森林砍伐、植被变化 |
-| 交通与基础设施机构 | 评估道路、铁路线与山口风险，实施雪障与受控爆破 |
-| 能源与公用事业公司 | 监测电力线、水电站与通信设施的雪崩风险 |
-| 健康部门 | 评估伤亡、死亡及急救响应能力 |
-| 研究人员与学者 | 研究雪崩形成、预测改进与气候变化影响 |
-| 环境组织与保护团体 | 推广可持续山地生态管理与雪崩风险意识 |
-| 社区组织、滑雪巡逻与登山协会 | 传播风险信息、公众教育与背包客安全准备 |
-
-#### 如何观察/监测/预测风险  
-雪崩通过气象站、雪量传感器及训练有素的观察员进行监测，追踪降雪、温度变化与雪层稳定性。科学家分析风模式、地形条件与历史雪崩活动，评估风险水平。先进模型可预测雪动风险，帮助决策者预判何时何地可能发生雪崩。早期预警对滑雪度假村、登山者与应急响应者至关重要。
-
-### 参考文献  
-- EAWS，2020。我们的使命。欧洲雪崩预警服务（EAWS）。访问时间 2025‑05‑16。  
-- NSIDC，无日期。冰川词汇表：雪崩。国家雪与冰数据中心（NSIDC）。访问时间 2025‑05‑16。  
-- SLF，无日期 a。雪崩防护。WSL 雪崩研究所（SLF）。访问时间 2025‑05‑16。  
-- SLF，无日期 b。人工雪崩触发。访问时间 2025‑05‑16。  
-- SLF，无日期 c。WSL 雪崩研究所（SLF）。访问时间 2025‑05‑16。  
-- White Risk，无日期。天气与温度对雪崩风险的影响。访问时间 2025‑05‑16。
-```
-
----
+### References
+EAWS, 2020. Our Mission. European Avalanche Warning Services (EAWS). Accessed 16 May 2025.  
+NSIDC, no date. Cryosphere Glossary: Avalanche. National Snow and Ice Data Center (NSIDC). Accessed 16 May 2025.  
+SLF, no date a. Avalanche protection. WSL Institute for Snow Avalanche Research SLF. Accessed 16 May 2025.  
+SLF, no date b. Artificial Avalanche Triggering. Accessed 16 May 2025.  
+SLF, no date c. WSL Institute for Snow and Avalanche Research SLF. Accessed 16 May 2025.  
+White Risk, no date. Effect of Weather and Temperature on Avalanche Hazard. Accessed 16 May 2025.  
+Cite this [Copy citation]

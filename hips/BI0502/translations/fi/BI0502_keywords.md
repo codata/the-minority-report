@@ -1,0 +1,1 @@
+fungal plant disease,fungal agents,mycelium,spores,anthracnose,late blight,rust diseases,mildew,canker,smuts, Fusarium wilt,oak wilt,basal rot,grey mould rot,rust,apple scab,corn smut,Verticillium wilt,aflatoxin

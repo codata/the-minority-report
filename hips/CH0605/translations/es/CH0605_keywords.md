@@ -1,0 +1,1 @@
+Paralytic shellfish poisoning,Diarrhoeic shellfish poisoning,Amnesic shellfish poisoning,Neurotoxic shellfish poisoning,Azaspiracid group,Brevetoxin group,Domoic Acid group,Okadaic Acid group,Pectenotoxin group,Saxitoxin group,Yessotoxin group,Ciguatoxins causing ciguatera poisoning,Polyether brevetoxins,Toxin accumulation in shellfish,Algal growth and toxin production

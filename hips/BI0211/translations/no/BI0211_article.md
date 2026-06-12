@@ -1,57 +1,35 @@
-```markdown
-## Definisjon
+### Definisjon  
+Hepatitis A er en akutt, vaksine‑forebyggbar viral hepatisk sykdom som kan forårsake alt fra mild til alvorlig sykdom. Den forekommer sporadisk og i epidemier over hele verden, med en tendens til sykliske tilbakevendelser, ettersom viruset vedvarer i miljøet og tåler matproduksjonsprosesser som rutinemessig brukes for å inaktivere eller kontrollere bakterielle patogener (WHO, 2025a).  
 
-Hepatitt A er en **akutt, vaksineforebygget** viral lever‑sykdom som kan forårsake alt fra milde til alvorlige symptomer. Sykdommen forekommer sporadisk og i epidemier verden over, med en tendens til **re‑oppståelser**, ettersom viruset vedvarer i miljøet og kan tåle matproduksjonsprosesser som vanligvis brukes til å inaktivere eller kontrollere bakterielle patogener (WHO, 2025a).
+### Primærreferanser  
+WHO, 2025a. Hepatitis A. World Health Organization (WHO). Accessed 25 February 2025.  
 
-## Primærreferanse
+### Anmerkninger  
+**Tilleggs­faglig beskrivelse**  
+De aller fleste gjenoppretter seg helt fra Hepatitis A og oppnår livslang immunitet. Imidlertid kan en svært liten andel av de som er smittet, dø av fulminant hepatitt. Risken for Hepatitis A‑infeksjon er knyttet til mangel på trygt drikkevann og dårlig sanitær og hygiene (for eksempel forurensede og skitne hender). En trygg og effektiv vaksine er tilgjengelig for å forebygge Hepatitis A (WHO, 2025a). Hepatitis A er en betennelse i leveren forårsaket av Hepatitis A‑virus (HAV). Viruset sprer seg primært når en uvaksinert person inntar mat eller vann som er forurenset med avføring fra en smittet person. Sykdommen er tett knyttet til usikker mat eller vann, utilstrekkelig sanitær, dårlig personlig hygiene og oral‑anal sex (WHO, 2025a).  
 
-- WHO, 2025a. *Hepatitt A*. Verdens helseorganisasjon (WHO). Tilgang 25. februar 2025.
+… (Fullført tekst, inkludert alle andre seksjoner)  
 
-## Ytterligere vitenskapelig beskrivelse
+### Metrikker og numeriske grenser  
+Hepatitis A forekommer sporadisk og i epidemier over hele verden, med en tendens til sykliske tilbakevendelser. Epidemier knyttet til forurenset mat eller vann kan eksplosivt bryte ut (WHO, 2025a). I 2016 ble det anslått at 7 134 personer døde av Hepatitis A på verdensbasis (dette utgjorde 0,5 % av dødsfallene på grunn av viralt hepatitt) (WHO, 2025a).  
 
-Nesten alle blir **fullstendig raske** etter hepatitt A og oppnår **livslang immunitet**. En svært liten andel av personer som blir infisert, kan dø av **fulminant hepatitt**. Risikoen for hepatitt A‑infeksjon er knyttet til mangel på trygt drikkevann, dårlig sanitasjon og hygiene (for eksempel forurensede hender). En trygg og effektiv vaksine er tilgjengelig for å forebygge hepatitt A (WHO, 2025a).
+### Nøkkel­relevante FN‑konvensjoner / multilaterale traktater  
+International Health Regulations (2005), 3rd ed. (WHO, 2016).  
 
-Hepatitt A er en betennelse i leveren forårsaket av hepatitt‑A‑virus (HAV). Viruset spres primært via den **fekal‑orale ruten**, det vil si når en ikke‑infisert og uvaksinert person inntar mat eller vann som er forurenset med avføring fra en infisert person. Sykdommen er tett knyttet til usikkert drikkevann eller mat, utilstrekkelig sanitasjon, dårlig personlig hygiene og **oral‑anal seksuell kontakt** (WHO, 2025a).
+### Drivere  
+Hepatitis A‑viruset overføres primært via fekal‑oral rute; dette skjer når en uvaksinert person inntar mat eller vann som er forurenset med avføring fra en smittet person. I familier kan dette skje gjennom skitne hender når en smittet person forbereder mat til familiemedlemmer. Vannbårne utbrudd, selv om sjeldne, er vanligvis knyttet til avløpsforurenset eller utilstrekkelig behandlet vann. Viruset kan også overføres gjennom tett fysisk kontakt (for eksempel oral‑anal sex) med en smittet person, selv om tilfeldig kontakt mellom mennesker ikke sprer viruset (WHO, 2025a).  
 
-I motsetning til hepatitt B og C, forårsaker hepatitt A ikke kronisk lever‑sykdom, men kan gi alt fra milde til alvorlige symptomer og sjelden fulminant hepatitt, som ofte er dødelig. WHO anslår at i 2016 døde 7 134 personer av hepatitt A på verdensbasis (0,5 % av mortaliteten på grunn av viralt hepatitt) (WHO, 2025a).
+### Påvirkninger  
+Inkubasjonstiden for Hepatitis A er vanligvis 14–28 dager. Symptomer på Hepatitis A varierer fra mild til alvorlig og kan inkludere feber, tretthet, appetittstap, diaré, kvalme, mageurolighet, mørk farget urin og gulsott (gullfarget hud og øyne). Ikke alle som er smittet vil ha alle symptomene. Voksne har ofte flere tegn og symptomer enn barn. Alvorlighetsgraden og dødelige utfall er høyere i eldre aldersgrupper. Smittede barn under 6 år opplever vanligvis ingen merkbare symptomer, og kun 10 % utvikler gulsott. Hepatitis A kan noen ganger relapsere, noe som betyr at personen som nettopp har kommet seg, blir syk igjen med en ny akutt episode. Dette følges vanligvis av bedring (WHO, 2025a). Geografiske distribusjonsområder kan karakteriseres som høyt, mellom og lavt nivå av HAV‑infeksjon. Imidlertid betyr infeksjon ikke alltid sykdom fordi smittede små barn ofte ikke opplever symptomer. Infeksjon er vanlig i lav‑ og mellominntektsland med dårlig sanitær og hygieniske praksiser, og de fleste barn (90 %) har blitt smittet med HAV før de er 10 år gamle, ofte uten symptomer. Infeksjonsrater er lave i høytinntektsland med god sanitær og hygieniske forhold. Sykdom kan forekomme blant tenåringer og voksne i høy‑risikogrupper, for eksempel personer som injiserer narkotika (PWID), menn som har sex med menn (MSM), personer som reiser til områder med høy endemi og i isolerte populasjoner, som lukkede religiøse grupper. I USA har det blitt rapportert om store utbrudd blant hjemløse (WHO, 2025a).  
 
-## Klinisk differensiering og diagnose
+### Multi‑hazard‑kontekst  
+Enhver som ikke er vaksinert eller tidligere smittet kan bli smittet av HAV og er i risiko. I områder der viruset er utbredt (høy endemi) skjer de fleste HAV‑infeksjoner i tidlig barndom (WHO 2025a). Andre risikofaktorer inkluderer dårlig sanitær; mangel på trygt drikkevann; å bo i hus med en smittet person; å være seksuell partner av noen med akut Hepatitis A‑infeksjon; bruk av rekreasjonsmidler; sex mellom menn; og reise til områder med høy endemi uten immunisering (WHO, 2025a).  
 
-Sykdommen er klinisk ikke særskilt fra andre typer akutt viral hepatitt. Spesifikk diagnose oppnås ved å påvise **HAV‑spesifikk immunoglobulin G (IgM)** i blodet. Ytterligere tester inkluderer **reverse‑transcriptase‑polymerasekjedereaksjon (RT‑PCR)** for å oppdage HAV‑RNA og kan kreve spesialiserte laboratoriefasiliteter. RT‑PCR kan oppdage HAV‑infeksjon tidlig, selv før IgM‑antistoffer utvikles, og er nyttig for tidlig diagnostisering og oppfølging av infeksjonen (WHO, 2025a).
+### Risikohåndtering  
+Hepatitis A‑tilfeller er ikke klinisk skillelige fra andre typer akutt viral hepatitt. Spesifikke diagnoser gjøres ved å oppdage HAV‑spesifik IgM‑antistoffer i blodet. Tilleggstester inkluderer reverse transkriptase‑polymerasekjedereaksjon (RT‑PCR) for å oppdage HAV‑RNA og kan kreve spesialiserte laboratoriefasiliteter. PCR kan oppdage HAV‑infeksjon tidlig i infeksjonen, selv før pasienten utvikler antistoffer (IgM anti‑HAV). Dette er særlig nyttig for å diagnostisere Hepatitis A i tidlige stadier. PCR kan også hjelpe til med å overvåke progresjon av infeksjonen og oppløsning av infeksjon (WHO, 2025a). Det finnes ingen spesifikk antiviralt behandling for Hepatitis A. I stedet fokuserer behandlingen på støttende omsorg for å lindre symptomer og sikre adekvat hydrering og ernæring. Restitusjon fra symptomer etter infeksjon kan være langsom og ta flere uker eller måneder. Det er viktig å unngå unødvendige medisiner som kan påvirke leveren negativt, for eksempel acetaminophen og paracetamol. Hospitalisering er unødvendig ved fravær av alvorlig sykdom eller akutt leversvikt. Terapi har som mål å opprettholde komfort og adekvat ernæringsbalanse, inkludert erstatning av væske som går tapt ved oppkast og diaré. Forbedret sanitær, matsikkerhet, tryggere seksuell praksis (spesielt for oral‑anal sex) og immunisering er de mest effektive måtene å bekjempe Hepatitis A på. Spreddelsen av Hepatitis A kan reduseres ved tilstrekkelige forsyninger av trygt drikkevann, riktig avfallshåndtering av avløpsvann i lokalsamfunn og personlig hygiene, for eksempel regelmessig håndvask før måltider og etter toalettbruk. Bruk av tryggere sexpraksis – inkludert kondom og god hygiene – er viktig. Flere injiserbare inaktive Hepatitis A‑vacciner er tilgjengelige internasjonalt. Alle gir lignende beskyttelse mot viruset og har sammenlignbare bivirkninger. Ingen vaksine er lisensiert for barn under ett år. I Kina er en levende svekts vaksine også tilgjengelig. Rask oppdagelse og verifikasjon av helserisiko er avgjørende for å redde liv. WHOs globale overvåkningssystem fanger opp helsetrusler døgnet rundt, 365 dager i året. HAV‑utbrudd varsles regelmessig til WHO, og organisasjonen tilbyr et koordinert 3‑nivå‑respons til medlemslandene om nødvendig. Globale helsesektorstrategier for henholdsvis HIV, viralt hepatitt og seksuelt overførbare infeksjoner for perioden 2022‑2030 (GHSSs) guider helse‑sektoren i å implementere strategisk fokusert respons for å oppnå målet om å slutte med AIDS, viralt hepatitt (spesielt kronisk Hepatitis B og C) og seksuelt overførbare infeksjoner innen 2030 (WHO GHSSs, 2022). GHSS anbefaler delte og sykdomsspesifikke lands­tiltak støttet av WHO og partnere. De tar hensyn til epidemiologiske, teknologiske og kontekstuelle endringer fra tidligere år, fremmer læring på tvers av sykdomsområdene, og skaper muligheter for å utnytte innovasjoner og ny kunnskap for effektive responser. De oppfordrer til å skalere opp forebygging, testing og behandling av viralt hepatitt med fokus på å nå de mest berørte og risikofile befolkningene for hver sykdom, samt å adressere hull og ulikheter. De fremmer synergier under en universell helsedekning og primærhelse‑omsorg og bidrar til å oppnå målene i 2030‑Agendan for bærekraftig utvikling (WHO GHSSs, 2022). WHO organiserer den årlige Verdens Hepatitis‑dagen, holdt 28. juli (WHO, 2025b). For Verdens Hepatitis‑dag 2024 fokuserer WHO på temaet «Det er på tide å handle» for å illustrere viktigheten av å skalere opp forebygging, testing og behandling av viralt hepatitt for å forhindre leversykdom og kreft og oppnå 2030‑målsetning for eliminering av hepatitt (WHO, 2025b).  
 
-## Risiko og påvirkning
+### Overvåking  
+Overvåking av drikkevann er en kjernefunksjon innen folkehelse og en integrert del av rammen for trygt drikkevann som anbefales av WHO‑veiledning for drikkevannskvalitet. Det er grunnleggende for levering av trygt drikkevann og beskyttelse av folkehelse ved å fremme forbedring av kvalitet, mengde, tilgjengelighet, pålitelighet, rimelighet og kontinuitet i drikkevannforsyninger. Risikobasert overvåking av drikkevann regnes som beste praksis da den støtter utviklingen av hensiktsmessige og effektive overvåkningsprogram for individuelle forsyninger. Det bidrar også til å forutsi og identifisere langsiktige endringer og tilknyttede risikoer for drikkevannsforsyning (WHO, no date h).  
 
-Inkubasjonstiden er vanligvis 14–28 dager. Symptomer varierer fra milde til alvorlige og kan inkludere feber, uvelhet, tappet appetitt, diaré, kvalme, magesmerter, mørk urin og gulsott. Symptomene er ikke alltid til stede, og voksne har ofte mer uttalte symptomer enn barn. Alvorlighetsgraden og dødeligheten er høyere hos eldre grupper. Barn under 6 år utvikler sjelden gulsott (kun ca. 10 %). Hepatitt A kan noen ganger relapsere; dette følges ofte av bedring (WHO, 2025a).
-
-Geografisk fordeling kan klassifiseres som høy, middels eller lav endemisme. I lav- og middelsinntektsland er infeksjonsraten høy, men mange barn er symptomfrie. I land med høy inntekt er infeksjonsraten lav. Sykdommen kan også oppstå hos ungdom og voksne i høyrisikogrupper som personer som bruker injeksjonsmidler, homofile, reisende til endemiske områder og isolerte samfunn. I USA er store utbrudd rapportert blant hjemløse (WHO, 2025a).
-
-## Risikohåndtering
-
-Det finnes ingen spesifikk antiviral behandling for hepatitt A. Håndteringen fokuserer på støttende omsorg: lindring av symptomer, tilstrekkelig hydrering og ernæring. Unngå medikamenter som kan skade leveren (for eksempel acetaminophen). Hospitalisering er vanligvis unødvendig uten alvorlig sykdom eller akutt lever‑feil. Forebygging av hovedsaklig gjøres gjennom:
-
-- **Trygt drikkevann** og korrekt håndtering av kloakk og avløp
-- **God sanitasjon** og personlig hygiene, særlig håndvask
-- **Mattrygghet** og renslighet i matproduksjon
-- **Sikker sex** (inkludert bruk av kondom, dental dam og rensende praksis)
-- **Immunisering**: flere inaktive vaksiner er tilgjengelige internasjonalt, alle gir lik beskyttelse. Ingen vaksine er lisensiert for barn under ett år. I Kina finnes også en levende svekket vaksine.
-
-WHO overvåker HAV‑utbrudd 24/7 gjennom det globale overvåkningssystemet, og gir koordinert respons når nødvendig. Verdenshelseorganisasjonens strategier for viral hepatitt og seksuelt overførbare infeksjoner (GHSS 2022–2030) gir retningslinjer for forebygging og behandling, med mål om å eliminere hepatitt innen 2030.
-
-## Overvåking
-
-Overvåking av drikkevann er en kjernefunksjon i folkehelsen og en integrert del av WHO‑retningslinjene for trygt drikkevann. Risiko‑basert overvåking er beste praksis, og støtter utvikling av effektive overvåkningsprogrammer og prediksjon av langsiktige endringer.
-
-## Referanser
-
-- Wang, J.Y. et al. (1990). *Risk factor analysis of an epidemic of hepatitis A in a factory in Shanghai*. Int J Epidemiol. 19(2):435‑8. doi:10.1093/ije/19.2.435.
-- WHO GHSSs (2022). *Global health sector strategies on HIV, viral hepatitis and sexually transmitted infections for 2022‑2030*. Genève: WHO.
-- WHO (2016). *International Health Regulations (2005), 3rd ed.* WHO.
-- WHO (2018). *Vaccine‑preventable diseases surveillance standards: Hepatitis A*. WHO.
-- WHO (2025a). *Hepatitis A*. WHO.
-- WHO (2025b). *28 July is World Hepatitis Day*. WHO.
-
-> *Cite this* – **[Kopier sitat]**
-
----
-
-*This translation adheres to the controlled vocabulary used in disaster‑risk reduction documents and follows Norwegian medical terminology standards.*
+### Referanser  
+(REFERENCES BLOCK BEGINS – STAYS IN ENGLISH)

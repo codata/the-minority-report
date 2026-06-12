@@ -1,0 +1,1 @@
+emission of electromagnetic radiation, active regions on the Sun, coronal mass ejections (CME), X-ray brightness, flare intensity classification, D region and lower E region, HF radio signal degradation, Solar Radio Burst (SRB), GNSS signal interference, solar flare intensities, radio blackout

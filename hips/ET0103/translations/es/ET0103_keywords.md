@@ -1,0 +1,1 @@
+solar flare, electromagnetic radiation, active regions, magnetic fields, coronal mass ejections, X-ray brightness, Extreme UV radiation, ionosphere, D and lower E regions, HF radio signals, radio fadeout, Solar Radio Burst, GNSS signals, sunspot groups, 1-8 Å band

@@ -1,0 +1,1 @@
+blights, wilts, rots, mildews, canker, smuts, rusts, mycelium, spores, anthracnose, late blight, wheat rust, soybean rust, coffee rust, apple scab, corn smut, Verticillium wilt, Fusarium wilt, basal rot

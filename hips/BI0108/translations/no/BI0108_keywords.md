@@ -1,0 +1,1 @@
+Vector-borne diseases,spread of pathogens by vectors,human-animal transmission,blood-feeding insects,mosquitoes as disease vectors,ticks and flies as vectors,triatomine bugs,schistosomiasis,leishmaniasis,Vector control and disease management technologies,African Swine Fever

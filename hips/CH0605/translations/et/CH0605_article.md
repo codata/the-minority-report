@@ -1,92 +1,64 @@
-### Definition
-Meretoksinid (biotoksinid) on loomulikult esinevad mürgitavad ained, mis tekivad peamiselt teatud tüüpi meres elavate organismide, nagu mürgised algev, ning bakterite tõttu. Need toksinid kogunevad kalades ja kuuskesedes, põhjustades märkimisväärseid avaliku tervise muresid nende võimaluse tõttu tekitada laia valdkonna negatiivseid tervisemõjusid.
+### Definitsioon  
+Merestoksid (biotoksidid) on looduslikult esinevad toksiidid, mida põhjustavad peamiselt teatud tüüpi meresõltuvad organismid, näiteks tohked algid ja bakterid. Need toksid võivad koguneda kalades ja kalateistes, põhjustades avaliku tervise murettekitavaid kahjulikke mõjusid.  
 
-### Primary reference(s)
-Maailma Terviseorganisatsioon (WHO), 2024. *Natural Toxins in Food* (2024). *World Health Organisation (WHO)*. Saadaval 16. juuni 2024.
+### Peamised viited  
+WHO, 2024. Natural Toxins in Food (2024). World Health Organisation (WHO). Accessed 16 June 2024.  
 
-### Annotations
-- **GHS klassifikatsioon**  
-  - GHS09 – Keskkond  
+### Märkused  
+GHS klassifikatsioon  
+GHS09 – Keskkond  
 
-### Additional scientific description
-Meretoksinid toodetakse peamiselt alve ja bakterite poolt ning nad on kontsentreeritud kontamite kalakütuse ja akvakultuuri toodetes. Kui inimesed tarbivad neid kontamite tooteid, sõltuvalt toksinist, võivad sümptomid olla diarreega, paralüütilised, amneesilised või neuroloogilised, millest mõned põhjustavad kõrget mortaliteeti ja pikaajalist morbiditeeti (Sobel & Painter, 2005).  
-Kliinilisi diagnostilisi teste meretoksinide jaoks ei ole saadaval; diagnoos põhineb kliinilisel esitlusel ja ajalooandmetel eelneva 24 tunni jooksul tarbitud kalakütuse ja akvakultuuri toodete kohta (Sobel & Painter, 2005).  
-Märge toksiinile ei ole antidoti ega on peamine ravis toetav hooldus. Paralüütiline kuuskese mürgistumine ja lõbikükki mürgistumine võivad põhjustada surma tunnid pärast toksinide tarbimist ning nõuavad kiiret intensiivset hooldust (Sobel & Painter, 2005).
+### Lisad teaduslik kirjeldus  
+Merestoksid toodetakse peamiselt algide või bakterite poolt ja need kogunevad saastatud kalatoitukogumistele ja akvakultuuri toodetele. Kui inimesed tarbivad neid saastatud tooteid, võivad sõltuvalt toksist sümptomid olla kõhupeetlik, paralüütsiline, amnesiline või neuroloogiline; mõned neist võivad põhjustada kõrget surnute arvu ja pikaajalist maastumist (Sobel and Painter, 2005). Kliinilisi diagnostilisi teste nende tokside jaoks pole saadaval; diagnoos põhineb kliinilisel esitusel ja toitumishistoriandmetel, kus on eelmisel 24 tunni jooksul tarbitud kalatoidukogumiste ja akvakultuuri tooteid (Sobel and Painter, 2005). Mitte ühegi merestoksiidi jaoks pole antitoitu ning toetav hooldus on peamine ravimeetod. Paralüütsiline kalateiste mürgistumine ja ciguatoksidid võivad põhjustada surma mõne tunni jooksul pärast tokside tarbimist ning nõuavad kohest intensiivset hooldust (Sobel and Painter, 2005). Ühine FAO/IOC/WHO ekspertkohtumine klassifitseeris toksid kaheks grupiks nende keemilise struktuuri põhjal (FAO/WHO, 2016): Azaspiracid (AZA) grupp, Brevetoxin grupp, Tsüklilised iminid grupp, Domoic Acid (DA) grupp, Okadaic Acid (OA) grupp, Pectenotoxin (PTX) grupp, Saxitoxin (STX) grupp ja Yessotoxin (YTX) grupp. PSP (Paralüütsiline kalateiste mürgistumine), DSP (Kõhupeetlik kalateiste mürgistumine), ASP (Amnesiline kalateiste mürgistumine), NSP (Neurotooksi kalateiste mürgistumine), AZP (Azaspiracid kalateiste mürgistumine) ja CP (Ciguatoksidid põhjustavad ciguatera mürgistumine). Ciguatoksid kogunevad toidujadas alates väikesest herbivoorilisest kalast kuni suuremadest karnivorilisest kalast, mis neid süües.  
 
-Ühisüldised eksperdi koosolek, mis korraldas ÜRO Toidu- ja Põllumajanduse Organisatsioon (FAO)/Keskne Organisatsioon (IOC)/Maailma Terviseorganisatsioon (WHO), klassifitseeris toksinad kaheks gruppiks nende keemilise struktuuri põhjal (FAO/WHO, 2016):  
-- Azaspiracid (AZA) grupp  
-- Brevetoxin grupp  
-- Cyclic Imines grupp  
-- Domoitse hap (DA) grupp  
-- Okadaitse hap (OA) grupp  
-- Pectenotoksiin (PTX) grupp  
-- Saxitoksiin (STX) grupp  
-- Yessotoksiin (YTX) grupp.
+### Mõõdikud ja numbrilised piirid  
+Maksimaalne tasakaal per kilogram mollusk flesh erinevate tokside gruppide jaoks:  
+- Saxitoxin (STX) grupp: ≤ 0.8 mg saxitoxin equivalent  
+- Okadaic Acid (OA) grupp: < 0.16 mg okadaic acid equivalent  
+- Domoic Acid (DA) grupp: < 20 mg domoic acid  
+- Brevetoxin (BTX) grupp: < 200 mouse units or equivalent  
+- Azaspiracid (AZA) grupp: < 0.16 mg  
 
-FAO teatab, et neid saab samuti klassifitseerida mürgistumise tüübiga, mida põhjustavad (FAO, 2004):  
+### Seotud ühtsed konventsioonid ja multilateraaltehingud  
+Codex Alimentarius Commission (CAC) Food and Agricultural Organization of the United Nations (FAO) and World Health Organization (WHO), (FAO/WHO, 2024)  
+Convention on Biological Diversity (CBD) (CBD, 2024)  
+International Maritime Organization, International Convention for the Prevention of Pollution from Ships (MARPOL) (IMO, 1973)  
+Stockholm Convention on Persistent Organic Pollutants (POPs) (UNEP, 2019)  
+United Nations Oceans & Law of the Sea (UNOLS), United Nations Convention on the Law of the Sea (UNCLOS) (UNOLS, 1982)  
 
-#### Paralüütiline kuuskese mürgistumine (PSP) (FAO, 2004)
-PSP mürgistumine inimestes tekib kuuskesedest, mis sisaldavad PSP toksinaid, mis kogunevad alve tarbimisel.  
-**Sümptomid**: õrn värin või numbk, lõpetades hingamiskasvajäik.  
-**Surma juhtumites**: hingamiskasvajäik esineb 2‑12 tunni jooksul pärast PSP-kontamite toidu tarbimist.
+### Ohutõendused  
+Mõõdukas suurus kalatoitukogumiste ja akvakultuuri toodete tarbimisel viimastel aastatel, koos teise kaubanduse globaalsete trendidega, on suurendanud inimeste potentsiaali merestoksiididega kokku puutumiseks. Monitoorimisprogrammid tokside ja nende allikahaldurite jaoks ning kiire toiduohutuse teavitus ametiasutuste poolt on olulised toidu saastamise vältimiseks. Toksilised tsübaloktsioonid võivad esineda ka magusvesetes, mõjutades veevarusid (He 2016). Lai keskkonnamõtisklus ja mõnikord hooajaline quarantiin nende saakule kasutatakse riskide vähendamiseks (Sobel and Painter, 2005). Raskus näha, millal tärin saab tekkida. Klimaatilised ja keskkonnatingimused nagu soolsuse muutused, sooja vee temperatuur, suurenenud toitainete tase ja päikesevalgus võivad mõjutada elanike kasvu. Teised merestoksiidide mootorid hõlmavad kliimamuutusi ja ballast vee väljastamist. Soojenevad mere temperatuurid ja muutuvad mereteedetaktikad põhjustavad soojemaid temperatuure ja muutuvad voolud, mis võivad suurendada algite kasvu ja tokside tootmist (EPA, 2024). Laevad, mis väljastavad ballast vett meres ja ookeanides, viivad uusi, potentsiaalselt toksiikseid algteid vedesse (IMO, 2019). Liigsed toitained võivad samuti viia tokside tootjate algte levikule (NOS, 2023).  
 
-#### Diarreega kuuskese mürgistumine (DSP) (FAO, 2004)
-Inimestes tekib DSP mürgistumine kontamite kaevadest, nagu mussellid, seele, oösterid või mulla.  
-**Sümptomid**: kõhulahtisus, iiveldus, kusked ja kõhulahtisus algab 30 minutit kuni paar tundi pärast tarbimist, täielik taastumine toimub kolmandal päeval.  
-DSP toksinad jagunevad erinevatesse rühmadesse keemilise struktuuri järgi: esimene rühm, happeline toksin, sisaldab okadaitse hapu ja selle derivaatide nimega dynophysistoksinid; teine rühm, neutraalne toksin, koosneb pectenotoksiinrühma poli-eter-laktonetest; kolmas rühm hõlmab sülfaadist poli-eterit ja selle derivaatid Yessotoksinad.
+### Mõju  
+Merestoksiidide mõju hõlmab inimeste tervisele mõjusid nagu gastrointestii, neuroloogilised ja südame-veresoonkonna probleemid ning tõsistes juhtudel surm. Meres ja magusvesemõõtmed on samuti mõjutatud, sealhulgas toiduahelate häired, kalade surm ja bioloogilise mitmekesisuse kaotus. Majanduslik mõju hõlmab kasu kaotust kalastamises, turismis ja akvakultuuris, samuti suurenenud avaliku tervise kulud (FAO, 1999).  
 
-#### Amneesiline kuuskese mürgistumine (ASP) (FAO, 2004)
-ASP on tuntud ka kui domoitse hapu mürgistumine (DAP), sest amneesia ei ole alati esinduslik.  
-**Sümptomid**: kõhulihaste krampid, kusked, orientatsiooniriist ja mälu kaotus (amneesia).  
-Mõjutav toksin (exklusiivne aminohape domoitse hap) toodetakse diatoomist *Pseudo-nitzschia pungens f. multiseries* (Nitzschia pungens f. multiseries).
+### Multihazard kontekst  
+Allolev diagramm annab kokkuvõtte kogutud sisaldusega merestoksiidide ja teiste ohtude vahel. Seda teavet tuleks kasutada ettevaatlikult ja mitte ainult sõltuda sellest katastroofiriskide haldamisel, eriti kuna mõned suhted võivad olla kaasatud. Märkige, et ohutu sündmused võivad toimuda koos või kohalikult ruumis või ajas, mitte tingimata põhjustada, suurendada või olla muu viisil seotud. Spetsiifilisi näiteid multihazard kontekstist on leitud „Ohutõendused“ ja „Mõju“ sektsioonides.  
 
-#### Neurotooksiline kuuskese mürgistumine (NSP) (FAO, 2004)
-NSP tekib poli-eterbrevetoksiinidest, mis toodetakse ühtkõrguse dinoflagellaatist *Gymnodinium breve* (teised nimetused: *Ptychodiscus breve*, *Karenia brevis*). Need on mürgised kaladele, merelõvi, lindudele ja inimestele, kuid mitte kuuskesetele. Eriline omadus G. breve on tuule tõttu tekkinud toksiliste aerosoolide moodustumine, mis võivad põhjustada insuline-sarnaseid hingamiskahjustusi.
+### Riskijuhtimine  
+Riskijuhtimine hõlmab merestoksiidide ja nende allikahaldurite riikliku monitoorimisprogrammide loomist meetodite kaudu, nagu regulaarne proovitiim ja toidu- ja merehoolde tokside testimine ning nende pidev uuendamine uute ja tekkivate tokside lisamiseks vajaduse korral (WHO, 2017). Reguleeritud piiride ja standardite rakendamine ning avaliku teadlikkuse tõstmine ohutute tarbimispraktikate kohta on riskijuhtimise protokollid, mida tuleks rakendada. Teised leevendamisstrateegiad hõlmavad toitainete valuväljakujunduse vähendamist põllumajanduses parimate praktikate (BMP) kaudu ning septikahoone parandamist; samuti vähendada kasvuhoonegaasi emissioone, kaitsta meresõltuvat keskkonda (EPA, 2023; UNCC, 2024).  
 
-#### Azaspiracidiga kuuskese mürgistumine (AZP) (FAO, 2004)
-1995. aasta novembris koges vähemalt kaheksa inimeset Hollandis haigus pärast musselite (Mytilus edulis) tarbimist, mis kasvatati Killary Harbouris, Iirimaal. Kuigi sümptomid meenutasid DSP, olid DSP toksinate kontsentratsioonid väga madalad.  
-**Mõjukohad**: aeglaselt areneb paralisatsioon, mis on neurotooksiline.  
-**Kogumine**: Azaspiracid (endine Killary Toxin‑3 või KT3) tuvastati ja uut toksi nimetati azaspiracidiga mürgistumisena (AZP).
+### Monitooring  
+Selle sektsiooni ja alloleva tabeli kaudu pakutakse ülevaade merestoksiidide monitoorimisest. Seda teavet saab kasutada arusaamisel riiklike varajase hoiatussüsteemide (EWS) prognoosimiseks. Kuna EWS võimed ja protsessid erinevad riikide vahel, tuleb kõige ajakohasem ja spetsiifilisem teave EWS kohta saada sobiva riikliku või piirkondliku asutuse või asutuse kaudu, mis vastutab katastroofihalduse eest. Kuidas jälgitakse/monitooritakse/prognoositakse ohutule andmete/teabe valdkonda? Euroopa Komisjon (EC); Rahvuslik merede ja atmosfääri haldus (NOAA); keskkonnaagentuurid. Kuidas ohutule jälgitakse/monitooritakse/prognoositakse? Monitoorimine ja kaugseadistused; prognoosimõeldel; suhtlus.  
 
-#### Ciguatoksinad (Ciguatera mürgistumine, CP) (FAO, 2004)
-Ciguatera nimi määrati 1787. aastal Küba Don Antonio Parra poolt ning viitab süsikese toitumistest, mis põhjustab seetõttu mure.  
-**Mõjutavad toksinad**: ciguatoksinad kogunevad toiduketuses alates väikestest taimetoiduks kaladest kuni suuremate lihaste käärit, mis süüavad neid.
-
-### Metrics and numeric limits
-Mõlema rühma maksimaalne tasakaal ühe kiloga molluskliha kohta:  
-- Saxitoksiin (STX) rühm: **≤ 0,8 mg saxitoksiin ekvivalendi**  
-- Okadaitse hap (OA) rühm: **< 0,16 mg okadaitse hap ekvivalendi**  
-- Domoitse hap (DA) rühm: **< 20 mg domoitse hap**  
-- Brevetoksiin (BTX) rühm: **< 200 suhkruühikut või ekvivalendi**  
-- Azaspiracid (AZA) rühm: **< 0,16 mg**
-
-### Key relevant UN convention / multilateral treaty
-- Codex Alimentarius Commission (CAC), ÜRO Toidu- ja Põllumajanduse Organisatsioon (FAO) ja Maailma Terviseorganisatsioon (WHO) (FAO/WHO, 2024)  
-- Konventsioon bioloogilise mitmekesisuse (CBD) (CBD, 2024)  
-- Rahvusvaheline Meresoosorgukord (IMO), Rahvusvaheline konventsioon jahutusvesi kontaminatsioonist (MARPOL) (IMO, 1973)  
-- Stockholm konventsioon püsivate orgaaniliste saasteainete (POPs) kohta (UNEP, 2019)  
-- ÜRO Meresooste ja Meresooste Seaduste Ühendamine (UNCLOS) (UNOLS, 1982)
-
-### Drivers
-Suurenenud kalakütuse ja akvakultuuri toodete tarbimine ning globaliseerunud kaubandus on suurendanud inimese kokkupuutet merebiotoksinidega. Jälgimisprogrammid, nende allikate tuvastamine ja toidusertuse küsimuste kiire teavitamine on hädavajalikud.  
-Mürgitavad tsüaanobakterid esinevad ka taimvesides, mõjutades veevarusid (He 2016).  
-Üksikasjalik keskkonnajälgimine ja vajadusel hooajalised hindamised vähendavad kokkupuute riski. Ilmastikumuutused ja ballastvedade väljastamine suurendavad algteke, samal ajal kui ülemäärased toitaineedastus võivad viia toksineid tooteid toiteketuses.  
-**Keskendume** kliimamuutustele, ballastvedade reguleerimisele ja toitaineedastuse kontrollimisele (EPA, 2024; IMO, 2019; NOS, 2023).
-
-### Impacts
-Meretoksinid põhjustavad inimeste tervise probleeme, sealhulgas gastrointestiini, neuroloogilisi ja südame-veresoonkonna häireid, sealhulgas surma. Merel ja taimvesi ökosüsteemid on samuti mõjutatud, kaasa arvatud toiduketaste häired, kalatõusud ja bioloogilise mitmekesisuse kadumine. Majanduslikud mõjud hõlmavad kalanduse, turismi ja akvakultuuri tulude kadu ning tõstetud avaliku tervise kulud (FAO, 1999).
-
-### Multi-hazard context
-Allolev diagramm kokkuvõtleb tavapäraseid suhtlusi meretoksinate ja teiste ohtudega. Kasutage seda teavet ettevaatlikult ja ärge tuginege sellele üksnes katastrofeeriskide haldamiseks, kuna mõned suhted võivad puududa.
-
-### Risk Management
-Riskijuhtimine hõlmab riiklike merebiotoksinide jälgimisprogrammide loomist, mis hõlmavad regulaarset veesamplimist ja toidu- ning kalatoodete toksinate testimist. Samuti tuleks rakendada regulatiivseid piire ja standardeid ning teavitada avalikkust ohtudest ning ohutut tarbimist.  
-Teised ennetusmeetmed hõlmavad toitaineedastuse vähendamist põllumajanduses, veekõvakõrvalise töötlemise parandamist ja kasvuhoonegaaside emissioonide vähendamist, et kaitsta merikeskkonda (EPA, 2023; UNCC, 2024).
-
-### Monitoring
-Järelvastav tabel ja sektsioon pakuvad ülevaadet meretoksinate jälgimisest. Seda teavet saab kasutada rahvusliku varajase hoiatussüsteemi (EWS) prognoosimiseks.  
-**Õige andmete** saamiseks pöörduge vastava riikliku või piirkondliku katastrofeeriskide haldamise asutuse poole.
-
----
-
-*See tõlge järgib DRR konteksti ning kasutab täpselt kinnitatud terminoloogiat, tagades tehnilise ja teadusliku täpsuse eest Eesti keelest.*
+### References  
+CBD, 2024. Convention on Biological Diversity. Accessed 17 June 2024.  
+EPA, 2023. Help Prevent Nutrient Pollution (2023). United States Environmental Protection Agency (EPA). Accessed 17 June 2024.  
+EPA, 2024. Climate Change and Freshwater Harmful Algal Blooms (2024). United States Environmental Protection Agency (EPA). Accessed 17 June 2024.  
+FAO, 1999. Fishery Harbour Manual on the Prevention of Pollution - Bay of Bengal Programme. Food and Agriculture Organization of the United Nations (FAO). Accessed 17 June 2024.  
+FAO, 2004. Marine Biotoxins. FAO FOOD AND NUTRITION PAPER 80. Food and Agriculture Organization of the United Nations (FAO). Accessed 16 June 2024  
+FAO/WHO, 2015. Standard for Live and Raw Bivalve Molluscs (2015). Codex Alimentarius International Food Standards. Food and Agriculture Organization of the United Nations (FAO), World Health Organization (WHO). Accessed 18 June 2024.  
+FAO/WHO, 2016. Technical Paper on Toxicity Equivalency Factors for Marine Biotoxins Associated with Bivalve Molluscs. Food and Agriculture Organization of the United Nations (FAO), World Health Organization (WHO). Accessed 16 June 2024.  
+FAO/WHO, 2024. Codex Alimentarius International Food Standards. Food and Agriculture Organization of the United Nations (FAO), World Health Organization (WHO). Accessed 17 June 2024.  
+He X., et al., 2016. Toxic cyanobacteria and drinking water: Impacts, detection, and treatment. Harmful Algae, Volume 54, Pages174-193. Available from: Toxic cyanobacteria and drinking water: Impacts, detection, and treatment - ScienceDirect Accessed 15 May 2025.  
+IMO, 1973. International Convention for the Prevention of Pollution from Ships (MARPOL) (1973). International Maritime Organisation. Accessed 17 June 2024.  
+IMO, 2019. Ballast Water Management (2019). International Maritime Organisation. Accessed 17 June 2024.  
+NOS, 2023. Harmful Algal Bloom (2023). National Ocean Service (NOS). Accessed 17 June 2024.  
+Sobel, J. and J. Painter, 2005. Illnesses caused by marine toxins. Clinical Infectious Diseases, 41:1290-1296. Illnesses Caused by Marine Toxins | Clinical Infectious Diseases | Oxford Academic. Accessed 15 May 2025.  
+UNCC, 2024. Introduction to Mitigation (2024). United Nations Climate Change (UNCC). Accessed 17 June 2024.  
+UNECE, 2023. Globally Harmonised System (GHS) of Classification and Labelling of Chemicals (2023). United Nations Economic Commission for Europe (UNECE). Accessed 11 May 2024.  
+UNEP, 2019. Stockholm Convention on Persistent Organic Pollutants (POPs) (2019). United Nations Environment Programme (UNEP). Accessed 4 May 2024.  
+UNOLS, 1982. United Nations Convention on the Law of the Sea (1982). United Nations Oceans & Law of the Sea (UNOLS). Accessed 17 June 2024.  
+WHO, 2017. Guidelines for Drinking-Water Quality, 4th Edition (2017). World Health Organisation (WHO). Accessed 17 June 2024.  
+WHO, 2024. Natural Toxins in Food (2024). World Health Organisation (WHO). Accessed 16 June 2024.  
+Cite this [Copy citation]

@@ -1,63 +1,61 @@
-> ### 定义  
-> 朊病毒疾病是一类罕见的进行性神经退行性疾病，影响人类与动物（改编自 CDC 2024 与 WHO 无日期）。  
->   
-> ### 主要参考文献  
-> CDC, 2024. **朊病毒疾病**。美国疾病控制与预防中心 (CDC)。访问时间：2025‑05‑27。  
-> WHO, 无日期. **传染性海绵状脑病**。访问时间：2025‑05‑27。  
->   
-> ### 注释  
-> #### 额外科学说明  
-> 这些疾病影响哺乳动物的神经系统，虽然其传播机制尚不完全明了，但普遍认为与一种被称为朊病毒（PrP 或 PrPc）的蛋白或类似蛋白质物质相关，后者在转化为异常朊病毒蛋白 PrPsc 后致病（WHO，无日期）。当正常蛋白在体内错误折叠并聚集时，即出现疾病。错误折叠导致脑损伤与其他症状。症状可能需要数年才能出现，但一旦出现，疾病会迅速进展并导致死亡。人们可能通过食用或处理受朊病毒污染的肉类而感染；亦可通过器官移植或手术期间接触受污染设备而感染（CDC, 2024）。  
-> 传染性海绵状脑病（TSE）包括：克劳斯费尔德‑雅各病（CJD）在人类中、绵羊海绵状脑病、鹿慢性消耗病、牛海绵状脑病（BSE）在牛中（WHO，无日期）。  
->   
-> ### 人类  
-> 多种朊病毒病影响人类，但有些更为常见。人类中最常见的朊病毒病是克劳斯费尔德‑雅各病（CJD）。CJD 是一种导致大脑功能失常或破坏的朊病毒病。一旦症状出现，疾病迅速进展，通常在一年内致命。CJD 有时被称为“经典 CJD”，以避免与变异 CJD 混淆。经典 CJD 大多发生在老年人，呈散发性。少数病例发生在遗传性变异导致易感 CJD 的人群中。偶尔也有因接触受朊病毒污染的手术设备或其他产品而患病的案例（CDC, 2024）。  
-> 另一种朊病毒病，变异克劳斯费尔德‑雅各病（vCJD），与名称相似但为更稀有且更致命的疾病（CDC, 2024）。vCJD 首次在 1996 年 3 月被描述。与 CJD 类似，vCJD 因其典型的海绵状脑病变和易传染性被归为 TSE。vCJD 的发展与接触牛海绵状脑病因子（最早在英国 1986 年报告）有关。与传统 CJD 形式（散发性、家族性和医源性）相比，vCJD 影响较年轻患者，平均年龄 29 岁，而其他形式>65 岁。vCJD 的疾病持续时间相对较长，中位 14 个月，对比 CJD 的 4.5 个月（WHO，无日期）。  
-> vCJD 与食用患有牛海绵状脑病的牛肉有关。它于 1996 年在英国首次发现，影响的对象远比 CJD 年轻，常感染 20 岁及以下的人群。它引起的精神症状和行为变化，以及触碰物体时的痛觉（失感）是 CJD 没有的（CDC, 2024）。  
-> 其他朊病毒病包括 kuru、可变蛋白酶敏感朊病毒病、散发性致命失眠和遗传性突变致病（CDC, 2024）。它是一种非炎症性神经退行性疾病，是通过食人行为传播的传染性海绵状脑病（Asher, 2018）。kuru 的症状迅速进展，伴有小脑和基底神经节症状，死亡发生在症状出现后 1‑2 年内（Gajdusek, 1957）。  
-> 世界卫生组织已发布关于 vCJD 和其他人传染性朊病毒病的病例分类与监测标准指南（WHO, 2003）。  
->   
-> ### 动物  
-> 已知的动物朊病毒病包括：  
-> **牛海绵状脑病（BSE）**：BSE 是一种影响牛的朊病毒病。首例在 1980 年代中期被识别，但直到 1990 年代英国的主要爆发后才受到广泛关注。数百万只牛受到感染。到 2005 年，24 个国家报告了本土牛的 BSE（其中 20 个在欧洲）。在牛中感染的传播与饲料做法有关，推测与给牛喂食受 BSE 影响的其他牛的肉骨髓有关（CDC, 2024）。  
-> **慢性消耗病（CWD）**：CWD 影响鹿、麋鹿、驯鹿和驯鹿等动物。已在美国、加拿大、挪威、芬兰和瑞典发现。已报告在韩国进口病例。虽然 CWD 在人类中无病例，但专家认为其理论上对人类构成风险，尤其是猎人和食用 CWD 感染动物肉的人（CDC, 2024）。  
-> **绵羊海绵状脑病**：绵羊海绵状脑病分为经典型和非典型型。两者均为慢性、致命、神经退行性疾病，导致绵羊和山羊死亡，因类似致病因子引起。两种类型在临床表现、病理学、病理生理、生化特性和流行病学上存在差异。经典型绵羊海绵状脑病的特征是中枢神经系统（CNS）出现空泡性改变。该疾病被认为是 TSE，或朊病毒病，定义为在 CNS 中异常宿主细胞膜结合糖蛋白（朊蛋白或 PrP）累积为 PrPSc。PrP 基因的多态性与对绵羊海绵状脑病的易感性相关。最近识别的非典型型绵羊海绵状脑病具有与经典型相似的临床和病理特征，但在现场环境中不被认为是可传染的。流行病学表明它是非传染性、偶发性疾病。经典型绵羊海绵状脑病可在分娩到断奶期间从母羊传给后代，也可在宫内水平传播。感染物质可在牧场和建筑物中持续数年。胎膜是感染源，受临床影响的动物奶可传播疾病。主症从初期感染到临床病变的潜伏期通常>1 年，偶尔超过动物的商业寿命。多数病例发生在 2‑5 岁。临床病变仅在致病因子进入 CNS 时出现。非典型型绵羊海绵状脑病在临床表现时多见于年长动物，且地理分布提示自发性疾病，虽有实验传染。无可用疫苗。没有证据表明经典或非典型绵羊海绵状脑病与人类 TSE 有关（WOAH，无日期）。  
->   
-> ### 计量与数值限制  
-> 不适用。  
->   
-> ### 关键相关联合国公约 / 多边条约  
-> 《2005 年国际卫生条例》第三版（WHO, 2016）。  
->   
-> ### 触发因素  
-> 人类获得朊病毒病的机会极少，主要途径为医疗程序（器官移植、手术设备）、摄入受 BSE 感染牛肉（与 vCJD 相关）。其他动物朊病毒病（绵羊海绵状脑病、慢性消耗病）可在动物间传播，但仅在牛海绵状脑病/变异 CJD 中观察到人类传染。人类 BSE 来源的疫苗和医药产品可能潜在传播疾病。胎牛血清是培养基广泛使用的组分，酶、激素等也从牛提取。牛来源的材料也用于明胶等胶囊成分。因而各国监管机构已大力消除生产各阶段可能被 BSE 污染的材料。若仍需使用，必须从非 BSE 流行地区获取。  
-> 2006 年 WHO 报告指出，血液、血液成分及血浆衍生产品对 vCJD 二次传播的最终影响无法预测（WHO, 2006）。血液项目和各国主管部门应提前仔细考虑筛查供者的 TSE 风险，包括阳性检测者、家庭与社会以及血液供应的影响（WHO, 2006）。  
->   
-> ### 影响  
-> 牛海绵状脑病是一种进行性致命的牛类神经系统疾病，因异常蛋白“朊病毒”在神经组织中累积导致。可区分两种形式：经典型 BSE（C 型因子）与非典型型 BSE（H、L 型因子）。经典 BSE 最早于 1986 年被发现，实施控制措施后已全球显著下降。至今两种形式的发病率极低，估计接近每百万牛零病例。经典 BSE 因与变异 CJD 的出现有关而被视为人畜共患。它是 WOAH 列入疾病，并已设定官方卫生风险状态（WOAH, 2023）。  
->   
-> ### 多重风险情境  
-> 医源性（即由医学检查或治疗引起的疾病）通过受污染的角膜与硬膜移植物、神经外科设备以及由人类胰岛素和血源性 vCJD 传染的血液长期被认为是可能的。  
->   
-> ### 风险管理  
-> 为更新 1997 年 WHO 提出的有关疫苗、血液产品与其他含牛来源和人来源材料的预防措施，2003 年 2 月 3‑5 日在日内瓦举行国际专家会议，回顾了 TSE 相关物种的流行病学、临床与尸检诊断、致病因子检测以及组织或体液感染性分布（WHO, 2003）。  
->   
-> ### 监测  
-> WHO 支持各国开展健康紧急与灾害的全风险评估，生成国家风险档案。凭借包括季节性风险日历在内的风险档案，各国能在潜在紧急事件发生前预警并采取早期行动（WHO, 2021）。  
-> WHO 的早期预警、警报与响应系统（EWARS）旨在提升紧急环境下的疾病爆发检测，如冲突或自然灾害后的国家。它是一种简单、成本效益高的快速设立疾病监测系统。EWARS 在紧急期间作为国家监测系统的补充部署。紧急结束后，EWARS 应重新整合回国家系统（WHO, 无日期）。  
->   
-> ### 参考文献  
-> 1. Asher, D.M., Gregori, L., 2018. *Human transmissible spongiform encephalopathies: historic view.* Handb Clin Neurol. 153:1‑17.  
-> 2. Belay, E.D., Schonberger, L.B., 2005. *The public health impact of prion diseases.* Annu Rev Public Health. 26:191‑212.  
-> 3. Gajdusek, D.C., Zigas, V., 1957. *Degenerative disease of the central nervous system in New Guinea…* N Engl J Med. 257(20):974‑8.  
-> 4. CDC, 2024. *Prion Diseases.* 美国疾病控制与预防中心 (CDC).  
-> 5. WHO, 无日期. *Transmissible Spongiform Encephalopathies.*  
-> 6. WHO, 2003. *Manual for surveillance of human transmissible spongiform encephalopathies…*  
-> 7. WHO, 2006. *WHO guidelines on tissue infectivity distribution in transmissible spongiform encephalopathies.*  
-> 8. WHO, 2016. *International Health Regulations (2005), 3rd ed.*  
-> 9. WHO, 2021. *Strategic toolkit for assessing risks (STAR).*  
-> 10. WHO, 无日期. *Early Warning, Alert and Response System (EWARS).*  
-> 11. WOAH, 2023. *Bovine spongiform encephalopathy.*  
-> 12. WOAH, 无日期. *Scrapie.*  
+### Definition  
+**Prionerkrankungen** sind eine Familie seltener, fortschreitender neurodegenerativer Erkrankungen, die sowohl Menschen als auch Tiere betreffen (Angepasst von CDC 2024 und WHO, kein Datum).  
 
-> *All Chinese terms have been verified against current scientific literature and the Controlled Vocabulary for Disaster Risk Reduction.*
+### Primary reference(s)  
+CDC, 2024. Prion Diseases. Centres for Disease Control and Prevention (CDC). Abgerufen am 27 Mai 2025.  
+WHO, kein Datum. Transmissible Spongiform Encephalopathies. Abgerufen am 27 Mai 2025.  
+
+### Annotations  
+#### Additional scientific description  
+Diese Erkrankungen betreffen das Nervensystem von Säugetieren und, obwohl der genaue Übertragungsmechanismus noch unbekannt ist, wird angenommen, dass sie auf einem potenziellen infektiösen Protein oder proteinähnlichen Stoff namens Prion beruhen, einem ubiquitär exprimierten Protein, bezeichnet als **PrP** oder **PrP^c**, das sich in ein abnormales Prionprotein namens **PrP^sc** umwandelt (WHO, kein Datum). Diese Erkrankungen entstehen, wenn Proteine, die im Körper normalerweise vorliegen, falsch gefaltet werden und Krankheit verursachen. Die Fehlfaltung führt zu Hirnschäden und anderen Symptomen. Symptome können Jahre dauern, bis sie sich entwickeln. Sobald sie auftreten, schreitet die Krankheit schnell voran und führt zum Tod. Ein Grund, warum Menschen an Prionerkrankungen erkranken können, ist der Verzehr oder die Handhabung von Fleisch, das mit Prionen kontaminiert ist. Menschen können sich auch infizieren, wenn sie Prionen in ihrem Körper aufnehmen. Dies kann durch Organtransplantationen oder durch den Kontakt mit kontaminierten Geräten während Operationen geschehen (CDC, 2024).  
+Der Begriff **Übertragbare schaumige Enzephalopathien (TSE)** umfasst: Kreutzfeldt‑Jakob‑Krankheit (CJD) bei Menschen, Scrapie bei Schafen und Ziegen, chronische Verwaesserungs‑Krankheit (CWD) bei Hirschen, **Bovine spongiform Enzephalopathien (BSE)** bei Rindern (WHO, kein Datum).  
+
+### Human  
+Viele verschiedene Prionerkrankungen betreffen Menschen, aber einige sind häufiger als andere. Die häufigste Prionerkrankung bei Menschen ist die Kreutzfeldt‑Jakob‑Krankheit (CJD). CJD ist eine Prionerkrankung, die das Gehirn eines Menschen zerstört oder die normale Funktionsweise beeinträchtigt. Sobald Symptome auftreten, schreitet die Krankheit schnell voran. Sie ist immer tödlich, meist innerhalb eines Jahres.  
+CJD wird manchmal als „klassisches CJD“ bezeichnet, um Verwechslungen mit variant CJD zu vermeiden. Die meisten Fälle klassischer CJD treten bei älteren Menschen auf und erscheinen sporadisch. Das bedeutet, dass kein bekannter Grund für das Auftreten der Fälle besteht. Eine kleinere Anzahl von Fällen tritt bei Menschen auf, die genetische Veränderungen vererbt haben, die sie anfällig für CJD machen. Gelegentlich gab es auch Erkrankungen bei Menschen, die chirurgisches Equipment oder andere Produkte ausgesetzt waren, die mit Prionen kontaminiert waren (CDC, 2024).  
+Eine andere Prionerkrankung, die variant Kreutzfeldt‑Jakob‑Krankheit (vCJD), hat einen ähnlichen Namen, ist jedoch eine andere, viel seltenere Krankheit (CDC, 2024). vCJD ist eine seltene und tödliche menschliche neurodegenerative Erkrankung, die erstmals im März 1996 beschrieben wurde. Wie bei CJD ist vCJD als TSE klassifiziert, wegen der charakteristischen schaumigen Degeneration des Gehirns und seiner Übertragbarkeit. Die Entstehung von vCJD steht in starkem Zusammenhang mit der Exposition, vermutlich durch den Verzehr von Fleisch und Fleischprodukten, die den Erreger von BSE enthalten, der erstmals 1986 im Vereinigten Königreich gemeldet wurde. Im Gegensatz zu den traditionellen Formen von CJD (sporadisch, familiär und iatrogen) hat vCJD jüngere Patienten betroffen, Durchschnittsalter 29 Jahre, im Vergleich zu > 65 Jahren für die anderen Formen. vCJD hat eine relativ längere Krankheitsdauer, Median 14 Monate, im Vergleich zu 4,5 Monaten für CJD (WHO, kein Datum).  
+Kreutzfeldt‑Jakob‑Krankheit (vCJD) ist mit dem Verzehr von Rindfleisch aus einer Kuh verbunden, die die Prionerkrankung Bovine spongiform Enzephalopathy (BSE) hatte. Sie wurde 1996 im Vereinigten Königreich entdeckt. Die Krankheit betraf deutlich jüngere Menschen als CJD. vCJD infizierte häufig Personen in ihren 20ern oder jünger. Es verursachte mentale Symptome und Verhaltensweisen sowie Schmerzen beim Berühren von Dingen (Dysästhesien), die bei CJD nicht auftreten (CDC, 2024).  
+Andere Prionerkrankungen umfassen Kuru, variabel protease‑sensitive Prionopathie, sporadische tödliche Insomnie und erblich bedingte Formen, die durch genetische Mutationen verursacht werden (CDC, 2024). Es handelt sich um eine nicht‑entzündliche neurodegenerative Erkrankung und ist eine Form der Übertragbaren schaumigen Enzephalopathie, die durch Kannibalismus übertragen wird (Asher, 2018). Die Symptome von Kuru schreiten schnell voran mit cerebellären und extrapyramidalen Zeichen und Symptomen, wobei der Tod innerhalb von ein bis zwei Jahren nach Symptombeginn eintritt (Gajdusek, 1957).  
+Die Weltgesundheitsorganisation (WHO) hat Leitlinien zur Fallklassifikation und Überwachungsstandards für vCJD und andere human‑übertragbare Prionerkrankungen veröffentlicht (WHO, 2003).  
+
+### Animal  
+Es gibt mehrere bekannte Prionerkrankungen bei Tieren:  
+**Bovine spongiform Enzephalopathien (BSE):** BSE ist ein Typ von Prionerkrankung, die Rinder betrifft. Die ersten Fälle wurden in den 1980er Jahren identifiziert, aber BSE erhielt erst in den 1990er Jahren breite Aufmerksamkeit nach einem großen Ausbruch im Vereinigten Königreich. Millionen von Rindern wurden infiziert. Bis 2005 hatten 24 Länder BSE bei einheimischem Rind gemeldet (20 davon in Europa). Die Ausbreitung der Infektion bei Rindern war vermutlich mit Fütterungspraktiken verbunden. Es wird vermutet, dass sie zurückzuführen ist auf das Füttern von Fleisch‑ und Knochenmehl aus anderen Rindern, die an Prionerkrankungen litten (CDC, 2024).  
+**Chronische Verwaesserungs‑Krankheit (CWD):** CWD ist eine Prionerkrankung, die Tiere wie Hirsche, Elche, Rentiere betrifft. Sie wurde in den Vereinigten Staaten, Kanada, Norwegen, Finnland und Schweden gefunden. Importierte Fälle wurden auch in Südkorea gemeldet. Obwohl es keine CWD‑Fälle bei Menschen gibt, denken Experten, dass es ein theoretisches Risiko für Menschen darstellt. Dies liegt daran, dass CWD mit BSE verwandt ist, die Menschen krank gemacht hat. Wenn CWD auf Menschen übergreifen könnte, wären Jäger und Menschen, die Fleisch von CWD‑infizierten Tieren essen, wahrscheinlich am meisten gefährdet (CDC, 2024).  
+**Scrapie:** Der Begriff Scrapie umfasst zwei unterschiedliche pathologische Entitäten: klassisches und atypisches Scrapie. Beide Zustände sind chronisch, neurodegenerativ, tödlich bei Schafen und Ziegen und werden durch ähnliche Erreger verursacht. Sie unterscheiden sich jedoch in klinischer Präsentation, Pathogenese, Pathologie, biochemischen Eigenschaften und Epidemiologie. Klassisches Scrapie ist durch vakuoläre Veränderungen im zentralen Nervensystem (ZNS) gekennzeichnet. Es wurde seit über 250 Jahren als klinische Störung anerkannt und wird als Übertragbare schaumige Enzephalopathie (TSE) oder Prionerkrankung klassifiziert, wie sie durch die Anhäufung einer abnormalen Form einer membranbundenen Glycoprotein (Prionprotein oder **PrP**) namens **PrP^sc** im ZNS definiert ist. Polymorphismen des **PrP**‑Gens sind mit der Anfälligkeit für Scrapie verbunden. Die kürzlich identifizierte Bedingung namens atypisches Scrapie hat einige klinische und pathologische Merkmale, die dem klassischen Scrapie ähneln, wird jedoch in Feldsituationen nicht als übertragbar betrachtet. Die Epidemiologie ist konsistent mit einer nicht‑kontagiosen Bedingung, die sporadisch auftritt. Klassisches Scrapie kann von der Mutter auf den Nachwuchs von der Geburt bis zur Unterzucht und intrauterin übertragen werden. Es kann auch horizontal an nicht verwandte Schafe oder Ziegen übertragen werden. Das infektiöse Material kann mehrere Jahre in Weiden und Gebäuden verbleiben. Föderale Membranen sind eine Infektionsquelle, und Milch von klinisch betroffenen Tieren kann die Krankheit übertragen. Die Inkubationszeit zwischen primärer Infektion und klinischer Erkrankung ist in der Regel länger als 1 Jahr und kann manchmal die kommerzielle Lebensdauer des Tieres überschreiten. Der Großteil der Fälle tritt zwischen 2 und 5 Jahren auf. Klinische Erkrankung entwickelt sich nur, wenn der Erreger das ZNS erreicht. Atypisches Scrapie, wenn es klinisch ist, wird hauptsächlich bei älteren Tieren berichtet und tritt mit einer geografischen Verteilung auf, die auf eine spontane Erkrankung hindeutet, obwohl es experimentell übertragen wurde. Es gibt keine Impfstoffe. Es gibt keine Beweise für einen kausalen Zusammenhang zwischen klassischem oder atypischem Scrapie und menschlichen TSE (WOAH, kein Datum).  
+
+### Metrics and numeric limits  
+Nicht zutreffend.  
+
+### Key relevant UN convention / multilateral treaty  
+International Health Regulations (2005), 3rd ed. (WHO, 2016).  
+
+### Drivers  
+Erworbene menschliche Prionerkrankungen sind selten. Die häufigsten externen Quellen sind medizinische Verfahren, bei denen ein Individuum dem abnormalen Prionprotein über kontaminierte Geräte oder bestimmte transplantierte menschliche Gewebe ausgesetzt sein kann, oder der Verzehr von Fleisch aus Rindern, die an BSE (verknüpft mit vCJD) infiziert sind. Andere Prionerkrankungen wie Scrapie und chronische Verwaesserungs‑Krankheit können zwischen Tieren übertragen werden, jedoch wurde die Übertragung von Tieren auf Menschen nur bei BSE/vCJD beobachtet (WHO, 2003). Es besteht auch die Sorge, dass bovinische Materialien, die an der Produktion von Impfstoffen und anderen pharmazeutischen Produkten beteiligt sind, eine potenzielle Übertragungsquelle darstellen könnten. Föderales Kalzium ist ein weit verbreitetes Medium, und andere Medienteile wie Enzyme und Hormone werden aus Rindern gewonnen. Zusätzlich wurden bovinische Materialien in einer Vielzahl von Produkten wie Gelatine, einer Komponente von Kapseln, verwendet. Aus diesem Grund wurde ein intensives regulatorisches Vorgehen unternommen, um potenziell BSE‑kontaminierte Materialien in allen Produktionsschritten zu eliminieren. Wo bovinische Materialien weiterhin erforderlich sind, müssen sie aus geografischen Gebieten stammen, die nicht BSE‑endemic sind. Darüber hinaus mussten schwierige regulatorische Entscheidungen getroffen werden, bei denen die relativen Risiken der Ersetzung vollständig charakterisierter Materialien (wie Impfstoff‑Samen­stämme) mit dem mathematisch geringen Risiko einer vCJD‑Übertragung verglichen wurden. Das Feld ist auch durch die Schwierigkeit, Materialien auf TSE zu prüfen, und durch die Durchführung von Studien zur Erkennung von Haupttransmissionswegen und Infektionen dieser hochnovellen Pathogenklasse erschwert. Im Jahr 2006 berichtete ein WHO‑Bericht, dass die letztendliche Auswirkung menschlicher Exposition gegenüber dem BSE‑Agent und sekundärer Übertragungen von vCJD über Blut, Blutkomponenten und plazma‑abgeleitete Produkte nicht vorhergesagt werden kann (WHO. 2006). Der Bericht betonte, dass Blutprogramme und nationale Behörden die potenzielle Auswirkung von Screening von Spendern für TSE sorgfältig berücksichtigen sollten, einschließlich der Benachrichtigung von Personen, die positiv getestet wurden, ihrer Familien und der Gesellschaft, sowie der Auswirkungen auf die Blutversorgung (WHO, 2006).  
+
+### Impacts  
+**Bovine spongiform Enzephalopathy (BSE)** ist eine fortschreitende, tödliche Erkrankung des Nervensystems von Rindern, die durch die Anhäufung eines abnormalen Proteins namens „Prion“ im Nervengewebe verursacht wird. Es gibt zwei Formen: klassisches BSE (verursacht durch C‑Typ BSE‑Erreger), das bei Rindern nach Aufnahme von Prion‑kontaminiertem Futter auftritt, und atypisches BSE (verursacht durch H‑ und L‑Typ Erreger), das in allen Rinderdisziplinen spontan auftritt. Klassisches BSE wurde erstmals 1986 entdeckt, und die Umsetzung geeigneter Kontrollmaßnahmen führte zu seinem Rückgang weltweit. Bis heute ist die Inzidenz beider Formen vernachlässigbar und wird auf annähernd null Fälle pro Million Rinder geschätzt. Klassisches BSE gilt als zoonotisch aufgrund seines angenommenen Zusammenhangs mit der Entstehung von variant Kreutzfeldt‑Jakob‑Krankheit bei Menschen. Klassisches BSE ist eine WOAH‑gelistete Erkrankung, für die WOAH eine offizielle Anerkennung des Hygienerisikostatus festgelegt hat (WOAH, 2023).  
+
+### Multi‑hazard context  
+Bedenken hinsichtlich iatrogenischer (d. h. durch medizinische Untersuchung oder Behandlung verursachte Erkrankungen) Verbreitung von Prion‑bedingten Erkrankungen durch den Einsatz von kontaminierten Hornhaut‑ und Hirnmarkengrafts, neurochirurgischem Equipment sowie von cadaver‑abgeleitetem menschlichem Wachstumshormon und Blutübertragungen von vCJD wurden seit langem als möglich angesehen, weil die Krankheit einige ungewöhnliche Merkmale aufweist (Belay & Schonberger, 2005).  
+
+### Risk Management  
+Um die von der WHO in 1997 vorgeschlagenen präventiven Maßnahmen zur Minimierung der Risiken im Zusammenhang mit der Verwendung von Impfstoffen, Blutprodukten und anderen pharmazeutischen Produkten, die bovinische und menschliche Materialien enthalten, zu aktualisieren, wurde ein internationales Experten‑Meeting in Genf vom 3. bis 5. Februar 2003 abgehalten. Ziel war es, die neuesten Daten zu Epidemiologie, Ante‑ und Post‑mortem‑Diagnose, Erreger‑Erkennung und Verteilung von Infektivität in Geweben oder Körperflüssigkeiten relevanter Arten mit TSE zu prüfen (WHO, 2003).  
+
+### Monitoring  
+WHO unterstützt Länder dabei, ganzheitliche Risikobewertungen im Kontext von Gesundheits­notfällen und Katastrophen durchzuführen, was zur Entwicklung eines Länderrisiko‑Profils führt. Mit einem Länderrisiko‑Profil, das einen saisonalen Risikokalender umfasst, können Länder potenzielle Notfälle vor deren Auftreten antizipieren, um frühzeitig Warnungen auszulösen und frühzeitige Maßnahmen zu informieren (WHO, 2021). Das WHO‑Early‑Warning‑Alert‑and‑Response‑System (EWARS) wurde entwickelt, um die Erkennung von Krankheitsausbrüchen in Notfall­umgebungen, wie in Konfliktländern oder nach Naturkatastrophen, zu verbessern. Es ist eine einfache und kostengünstige Methode, um ein Überwachungs­system schnell einzurichten. EWARS wird während einer Notlage als Ergänzung zum nationalen Krankheitsüberwachungssystem eingesetzt. WHO arbeitet mit Gesundheits‑ministerien und Gesundheits‑partnern zusammen, um lokale Gesundheits‑arbeiter zu schulen, das System zu nutzen. Nach der Notlage sollte EWARS wieder in das nationale System integriert werden (WHO, no date).  
+
+### References  
+Asher, D.M., Gregori, L., 2018. Human transmissible spongiform encephalopathies: historic view. Handb Clin Neurol. 153:1‑17. doi: 10.1016/B978‑0‑444‑63945‑5.00001‑5. PMID: 29887130. Accessed 24 May 2025.  
+Belay, E.D., Schonberger, L.B., 2005. The public health impact of prion diseases. Annu Rev Public Health. 26:191‑212. doi: 10.1146/annurev.publhealth.26.021304.144536. PMID: 15760286. Accessed 24 May 2025.  
+Gajdusek, D.C., Zigas, V., 1957. Degenerative disease of the central nervous system in New Guinea; the endemic occurrence of kuru in the native population. N Engl J Med. 257(20):974‑8. doi: 10.1056/NEJM195711142572005. PMID: 13483871. Accessed 25 May 2025.  
+CDC, 2024. Prion Diseases. Centres for Disease Control and Prevention (CDC). https://www.cdc.gov/prions/about/index.html www.cdc.gov/prions Accessed 14 September 2020.15 February 2025 WHO, no date. Transmissible Spongiform Encephalopathies. Accessed 15 February 2025.  
+WHO, 2003. Manual for surveillance of human transmissible spongiform encephalopathies including variant Creutzfeldt‑Jakob disease. World Health Organization (WHO). Accessed 15 February 2025.  
+WHO, 2006. WHO guidelines on tissue infectivity distribution in transmissible spongiform encephalopathies. World Health Organization (WHO). Accessed 18 April 2025.  
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Accessed 26 May 2025.  
+WHO, 2021. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all‑hazards health emergency risk assessment. World Health Organization (WHO). Accessed 13 February 2025.  
+WHO, no date. Early Warning, Alert and Response System (EWARS). World Health Organization (WHO). Accessed 18 April 2025.  
+WOAH, 2023. Bovine spongiform encephalopathy. World Organisation for Animal Health (WOAH). Accessed 15 February 2025.  
+WOAH, no date. Scrapie, World Organization for Animal Health (WOAH). Accessed 27 May 2025.  
+
+Cite this [Copy citation]

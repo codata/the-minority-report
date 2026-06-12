@@ -1,0 +1,1 @@
+localized ground displacements,tensional compressional and shear stresses,surface faulting,long-term deformation,ground fissuring,subsidence,ground desiccation,surface rupture and fissuring,ground fissures,land sliding,karst subsidence,volcanic environments,volcanic earthquakes,fissure depth

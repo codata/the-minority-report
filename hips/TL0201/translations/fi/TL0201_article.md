@@ -1,76 +1,74 @@
-> 
-> ### Definition  
-> Rakennusmurtuminen on kantavien rakenteellisten elementtien epäonnistuminen, jonka seurauksena rakennus kaatuu tai tapahtuu katastrofaalinen rikkoontuminen (adaptation Yhdysvaltain työministeriön, päivämäärätön).
-> 
-> ### Primary reference(s)  
-> Yhdysvaltain työministeriys, päivämäärätön. *Rakenteellinen murtuminen opas*. Työ- ja terveysvirasto. Pääsy 16. helmikuuta 2025.
-> 
-> ### Annotations  
-> **Lisäselvitys**  
-> Kaikki julkiset ja yksityiset rakennukset voivat altistua äärimmäisille tapahtumille, kuten hurrikaanille, tsunamille, maanjäristykselle, räjähdyksille, ajoneuvon törmäyksille, tulille ja ihmisen virheille tai jopa terroristisille hyökkäyksille. Tällaiset tapahtumat aiheuttavat yleensä paikallista vauriota rakennuksen rakenteeseen, mikä voi johtaa täydelliseen murtumiseen. Tässä termi *edetävä rakennusmurtuminen* on merkityksellinen, ymmärrettynä prosessina, jossa paikallinen vahinko käynnistää epäonnistumisten ketjun, joka johtaa koko rakennuksen tai sen suuren osan murtumiseen. Edetävä rakennusmurtuminen on aina kytköksissä vakaviin henkilökohtaisiin ja materiaalisiin menetyksiin. (Kokot & Solomos, 2012)  
-> 
-> Kuusi tyyppiä edetävistä murtumisista on tunnistettu: *pannukakku‑*, *vyöry‑*, *domino‑*, *osio‑*, *epävakaus‑* ja *sekoitustyyppinen* murtuminen. Jokainen murtumatyypin on määritelty epäonnistumisen leviämisen perusteella, kuvaten prosessia, joka johtaa komponentin epäonnistumiseen ja seuraavien komponenttien epäonnistumiseen (Starossek, 2007).  
-> 
-> Edetävä rakenteellinen murtuminen on määritelty Kansallisen standardien ja teknologian instituutin (NIST) mukaan “alkuperäisen paikallisen epäonnistumisen ketjusarjan” (Ellingwood et al., 2007).
-> 
-> ### Metrics and numeric limits  
-> Yhdistyneiden Kansakuntien Maailmanopetuskansallinen, tieteellinen ja kulttuurinen järjestö (UNESCO) listaa 63 maata, joilla on seisminen suunnittelukoodi (UNESCO, 2008). Monet maat ovat kehittäneet edetävän rakennusmurtumisen standardeja, kuten Euroopan EUROCODE, Kanadan kansallinen rakennuskoodi ja Ruotsin suunnittelu‑säädökset (Ellingwood et al., 2007).  
-> 
-> **Muut mittarit** sisältävät *pinta‑ala‑suhteen* (FAR) (Metropolitan Council 2015), *suunnitteluperusteisen sivusouksen* (CMHA, päivämäärätön) ja *seismisen haavoittuvuussuhteen* (SVI) (Kassem et al., 2019).
-> 
-> ### Key relevant UN convention / multilateral treaty  
-> 1954. Haaagilainen sopimus kulttuuriperintöjen suojaamisesta sodankäynnin yhteydessä. Tämä kansainvälinen sopimus vaatii riskienhallintasuunnitelmia kulttuurivarojen suojaamiseksi, kun rakenne epäonnistuu tai paloi (UNESCO, 1954).  
-> 
-> Kansainvälinen työväen järjestö C167 – *Safety and Health in Construction Convention*, 1988 (ILO, 1988).  
-> 
-> Sendai‑kehyksen (2015‑2030) kymmenen selkeää tavoitetta ja neljä toimintaoikeutta katastrofien riskien vähentämiseksi, mukaan lukien kriittisen infrastruktuurin ja peruspalveluiden vahinkojen merkittävä vähentäminen sekä niiden resilienssin kehittäminen vuoteen 2030 mennessä (UNDRR, 2015).
-> 
-> ### Drivers  
-> Sään vaikutuksesta syntyvät rakenteelliset epäonnistumiset johtuvat yleensä sade- tai lumisammutuksesta, hurrikaanista, tornadosta, maanjäristyksestä, maaviskosta, lumivyörystä sekä tulvasta, joka voi heikentää perustuksia, aiheuttaen rakenteellisen epävakauden ja mahdollisen murtumisen. Esimerkiksi vuoden 2013 keski‑eurooppalaiset tulvat aiheuttivat merkittäviä rakenteellisia vaurioita Saksassa, Itävallassa ja Tšekin tasavallassa. Maaviskot ja kiven liike voivat vaikuttaa perustusten vakauteen ja aiheuttaa rakenteellisia epäonnistumisia.  
-> 
-> *Keskusvuorovaikutukset* (esim. tsunamialt, permafrostin sulaminen, rintaman hajoaminen) lisäävät murtumisriskiä. Maanjäristykset, kuten Turkki‑Syyriä maanjäristys 2023, maantason lasku ja luolien muodostuminen ovat myös murtumisen ajureita (WHO, 2019).  
-> 
-> Tulipalot ovat lisäajuri, joka voi aiheuttaa teräksen ja betonin rakenteiden epäonnistumisen, johtuen ihmis- ja pelastajien kuolemista (Meacham et al., 2010; Ahmadi et al., 2020).  
-> 
-> **Lisätekijät**: rannikkoerosio (Fouad et al., 2025), rakennuksen vanheneminen (Caredda et al., 2023) ja lämpövuorovaikutus (Rotta, 2023).  
-> 
-> Matala- ja keskitasoisissa maissa murtuminen johtuu usein heikoista perustuksista, alhaisen laatuvaatimusten rakennusmateriaaleista, huonosta materiaali-sekoituksesta, ylijänteistä ja huonosta rakennuksen kestokykyn testaamisesta (Figueroa Fernandez, 2014).  
-> 
-> Rakennusmurtuminen johtuu myös rakenteellisista epäonnistumisista, huonosta valvonnasta, huonosta työskentelytavasta, virheellisestä suunnittelusta ja hyväksymättömien piirustusten laiminlyönnistä (Windapo & Rotimi, 2012).  
-> 
-> Terroristiteettisilla toimilla voi olla lisähaittoja, kuten jälkiviitteitä, jatkohyökkäyksiä ja jäljellisiä radiologisia, biologisia tai kemiallisia saasteita (HIPs BI0602 & CH0903).  
-> 
-> **Historian esimerkit**: 11. syyskuuta 2001 tapahtunut World Trade Centerin tuho, sekä 19. huhtikuuta 1995 Oklahoma Cityn Murrah Federal Office Buildingin ajoneuvopommi (OSHA, päivämäärätön).
-> 
-> ### Impacts  
-> Rakennusmurtumisen vaikutukset kattavat ihmishengyt, elinvoimat ja terveyden, esim. asbestin käyttö (HIP CH0202), sekä sosiaaliset, taloudelliset ja ympäristölliset vaikutukset (Babtunde, 2013).  
-> 
-> Yhdistyneiden Kansakuntien kansainvälisen katastrofien ehkäisystrategian (UNDRR) kampanjat ovat pyrkineet tekemään kaupungeista resilienssialttiita (UNDRR, 2010).  
-> 
-> **Riskienhallinnan vahvistaminen** edellyttää *Resilienssin neljä perustavaa tekijää*: 1) Resilienssin integroiminen taloudelliseen ja yhteiskunnalliseen kehitykseen, 2) Kestävä infrastruktuuri, 3) Ympäristön huomioiminen, 4) Kestävä rakennushankinta.  
-> 
-> **Käyttötapaukset**: 24. huhtikuuta 2013 Dhaka, Bangladesh – Rana Plaza -rakennuksen kaatuminen kuhosi vähintään 1132 ihmistä ja loukusti yli 2500 (ILO, päivämäärätön).  
-> 
-> ### Multi-hazard context  
-> Alla olevan kaavion avulla kuvataan yleisiä vuorovaikutuksia rakennusmurtumisen ja muiden riskien välillä. Tietoa tulee käyttää varovaisesti, eikä sitä saa perustaa ainoastaan siihen.  
-> 
-> ### Risk Management  
-> Murtumisen vähentämiseen pyritään kvantitatiivisesti ja läpinäkyvästi vahvistamalla rakenteellista kestävyyttä. Tämä takaa, että uudet ja olemassa olevat rakennukset kestävät poikkeukselliset kuormitukset.  
-> 
-> Rakenteellinen kestävyys perustuu järjestelmän ominaisuuksiin (esim. vahvuus, joustavuus, redundanssi) ja poikkeuksellisen kuorman tyyppiin (esim. dynaaminen, impulssinen).  
-> 
-> **Riskien huomioiminen** on osittain sisällytetty rakennuslaskentamenetelmien valintaan (EN 1991‑1‑7, NBCC 1995, ASCE/SEI 7‑16, UFC 4‑023‑03, GSA 2013).  
-> 
-> **Haaste**: useissa kodeissa riski ei huomioidu läpinäkyvästi eikä systemaattisesti.  
-> 
-> *Building Regulation for Resilience* -raportti (World Bank & GFDRR, 2026) vaatii rakennuskoodien vahvistamista riskin vähentämiseksi.  
-> 
-> **Tietokannat**: Carreda (Caressa et al., 2023) ehdottaa uudenlaista rakennusmurtumis‑tietokantaa, joka kerää systemaattisesti tietoja riskistä, alkuperäisestä epäonnistumisesta ja propagointimekanismeista.  
-> 
-> ### Monitoring  
-> Rakennusmurtumisen monitorointi keskittyy viattomien lämpötiladatan poikkeamien analysointiin. Se optimoi järjestelmän suorituskykyä, vähentää seisokkeja ja pienentää henkilökohtaisia kustannuksia (Mesa‑Jimenez et al., 2021).  
-> 
-> **Varoitusjärjestelmä**: lämpötila, ääni, liike, kulku, kulumisnopeus. Nämä parametrit on havaittava reaaliajassa, jotta varoitus voi toimia tehokkaasti (Li et al., 2023).  
-> 
-> ### References  
-> (kutsuttu alkuperäiset lähteet säilytettynä)
+```markdown
+### Määritelmä
+Rakennuksen romahtaminen on kuormankestävien rakenteellisten elementtien vika, jonka seurauksena rakennus putoaa tai epäonnistuu katastrofaalisesti / katastrofaalinen vika (muokattu Yhdysvaltain työministeriön, päivämäärä puuttuu).
+
+### Ensisijaiset viitteet  
+US Department of Labor, no date. Structural Collapse Guide. Occupational Safety and Health Administration. Accessed 16 February 2025.
+
+### Käyrät  
+#### Lisätietoa tieteellisestä kuvauksesta  
+Kaikki julkisten ja yksityisten rakennusten tyypit voivat joutua äärimmäisten tapahtumien kohteiksi, joita voivat aiheuttaa esimerkiksi myrskyt, tsunamit, maanjäristykset, räjähdykset, ajoneuvon törmäykset, tulit ja ihmisen virheet, tai jopa terrorismi. Tällaiset tapahtumat aiheuttavat yleensä paikallista vauriota rakennusten rakenteessa, mikä voi johtaa täydelliseen romahtamiseen. Tällöin käsite **asteittainen romahtaminen** ilmestyy – se tarkoittaa prosessia, jossa paikallinen vaurio käynnistää ketjun vika‑käsityksen, joka johtaa koko rakennuksen tai suuren osan romahtamiseen. Asteittainen rakennuksen romahtaminen on aina seurausta vakavista henkilö- ja materiaalihäviöistä (Kokot & Solomos, 2012).  
+Kuusi tyyppiä asteittaisesta romahtamisesta tunnistetaan: pannun‑, rullapuu‑, domino‑, osio‑, epävakaus‑ ja sekoitetty‑tyyppiset romahtamiset. Jokainen tyyppi määritetään vian leviämisprosessin perusteella, kuvaamalla leviävä toiminta, joka seuraa komponentin vika‑käsitystä ja johtaa seuraavien komponenttien vika‑käsitykseen (Starossek, 2007).  
+Asteittainen rakenteellinen romahtaminen määritellään National Institute of Standards and Technology (NIST) seuraavasti: “alkuperäisen paikallisen vikan levittäminen ketjun reaktiossa, joka johtaa osittaiseen tai täydelliseen rakennuksen romahtamiseen” (Ellingwood et al., 2007).
+
+#### Mitta‑ ja numeeriset rajat  
+The United Nations Educational, Scientific and Cultural Organization (UNESCO) lists 63 countries that have seismic design building codes (UNESCO, 2008).  
+Many countries have standards on progressive building collapse; these include European EUROCODE, Canadian National Building Codes and Swedish Design Regulations (Ellingwood et al., 2007).  
+Various other metrics include floor area ratio (FAR) (Metropolitan Council 2015); design base shear (CMHA no date) and seismic vulnerability index (SVI) (Kassem et al., 2019).
+
+#### Keskeiset UN‑sopimukset / monenpuolinen sopimus  
+The 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict. This international treaty, in times of peace, requires risk management plans to protect cultural assets when an urgent situation arises such as the failure of a structure and fire (UNESCO, 1954).  
+The International Labour Organization C167 – Safety and Health in Construction Convention, 1988 (ILO, 1988).  
+The Sendai Framework for Disaster Risk Reduction 2015‑2030 outlines seven clear targets and four priorities for action to prevent new and reduce existing disaster risks including substantially reduce disaster damage to critical infrastructure and disruption of basic services, among them health and educational facilities, including through developing their resilience by 2030 (UNDRR, 2015).
+
+#### Ajurit  
+Weather‑related structural failures typically result from rain/snow accumulations on roofs, hurricanes, tornadoes, landslides and even avalanches. Floods can also undermine foundations, leading to structural instability and potential collapse, as during the 2013 Central European floods that caused significant structural damage to buildings and infrastructure across Germany, Austria, and the Czech Republic. Landslides and associated movements of rock can impact the stability of foundations and cause structural failures. Extreme weather events such as cyclones and severe storms can cause widespread damage to structures through high winds, storm surges, and debris impact, with damages worsened if the buildings are old or poorly maintained (Hain et al., 2023). Tsunami can inundate coastal areas and damage structures, and permafrost thaw and retreat affect the foundations of buildings leading to damages and even collapses. Earthquakes, such as the Turkiye‑Syria earthquake in February 2023, sinkholes (which cannot easily be identified) and ground subsidence are also drivers of building collapse (WHO, 2019). Fire is another driver that can cause structural failure of steel and concrete buildings that can lead to the death of civilians and fire fighters (Meacham et al., 2010; Ahmadi et al., 2020). Additionally, coastal erosion (Fouad et al., 2025) and issues such as building aging (Caredda et al., 2023) and heat island effects (Rotta, 2023) contribute to the risk of building collapse. In many low‑ to middle‑income countries building collapse has been attributed to weak foundations, substandard construction materials, poor material mixing by construction workers, excessive load on strength of buildings and poor testing of building strength (Figueroa Fernandez, 2014). Building collapse is also caused by structural failures, poor supervision and workmanship, faulty design and disregard for approved drawings (Windapo and Rotimi, 2012). Additional factors include absence of soil investigation before construction, lack of coordination between professional bodies and town planning authorities and inadequate enforcement of existing laws regulating physical development (Dimuna, 2010). Terrorist activity may add additional hazards such as secondary devices, follow‑on attack and residual radiological, biological or chemical contamination (cf HIPs BI0602 & CH0903). Historically, terrorist activities that have resulted in collapsed structures include crashing commercial jets into the World Trade Towers in New York City (11 September 2001) and vehicular bombs, such as the one used at the Murrah Federal Office Building in Oklahoma City (19 April 1995) (OSHA, no date).
+
+#### Vaikutukset  
+The effects of building collapse include impacts on lives, livelihood and health, for example, when asbestos is used in the building (cf HIP CH0202), as well as social, economic and environmental impacts (Babtunde, 2013). Since the United Nations International Strategy for Disaster Reduction launched its campaign kit for making cities resilient (UNDRR, 2010), the United Nations Office for Disaster Risk Reduction has been committed to making cities resilient and has engaged and published widely including sharing the ten essentials for making cities resilient (UNDRR, 2019). Engagement in this campaign is vital for enhancing the drivers for risk management with ‘Essential Four: Pursue Resilient Urban Development and Design’ which calls for integrating resilience into socio‑economic development planning and infrastructure to safeguard development investments – which will help reduce the risks of building collapse (UNDRR, 2019). The consequences of failure vary significantly from structure to structure, and may depend on the nature of the hazard, properties of the structure, use/occupancy, location, time of day, and time frame considered. On 24 April 2013 the collapse of the Rana Plaza building in Dhaka, Bangladesh, which housed five garment factories, killed at least 1132 people and injured more than 2500 (ILO, no date). This was due to additional stories being built that ignored the approved construction permits (Hira and Benson‑Rea, 2017). Only five months earlier, at least 112 workers had lost their lives in another accident, trapped inside the burning fashions factory on the outskirts of Dhaka. Most of the factories do not meet the standards required by building and construction legislation. As a result, deaths from fire incidents and building collapses are frequent (ILO, no date).
+
+#### Monihaitta‑konteksti  
+The figure below summarises common interactions between building collapse and other hazards. This information should be used with caution and not be solely relied upon in Disaster Risk Management, particularly as some interactions may not have been included. Note that hazardous events occurring together or locally in space or time may not necessarily cause, amplify, or be otherwise related to each other. Specific examples of multi‑hazard context can be found in the ‘Hazard drivers’ and ‘Impacts’ sections above.
+
+#### Monihaitta‑kaavio  
+
+#### Riskienhallinta  
+To mitigate the effects of progressive or disproportionate collapse, a quantitative and transparent approach focuses on enhancing structural robustness. This ensures that both new and existing structures can prevent collapse under abnormal loads. Structural robustness depends on system characteristics (e.g., strength, ductility, redundancy) and the type of abnormal loading (e.g., dynamic, impulsive). While sometimes referred to as “structural integrity,” the latter term specifically means the structure's wholeness after an extreme event. Risk is considered implicitly in design by most codes in Table 5 by means of the building classification and design methods recommended for each class or risk category. Risk considerations are also included in some codes in order to define the overall design strategy (EN 1991‑1‑7, NBCC 1995, ASCE/SEI 7‑16, UFC 4‑023‑03, GSA 2013). A major drawback in many codes is that risk is not considered in a very transparent or systematic way. The report on Building Regulation for Resilience – Managing risks for Safer Cities calls for mobilizing building code regulations for risk reduction (World Bank and GFDRR, 2026). Databases have particular value in identifying factors that give rise to disproportionate risk that only becomes clear from the analysis of larger‑scale data as distinct from individual cases. Caressa proposes a novel database of building collapses in which it systematically collects information on the hazards, initial failures and their corresponding propagation mechanisms (Caressa et al., 2023).
+
+#### Seuranta  
+Monitoring in building failure focuses on preventing malfunction by analysing anomalies in temperature control data. It can proactively optimise system performance, reduce downtime, and minimise personal costs (Mesa‑Jimenez et al., 2021). The physical parameters commonly used to provide early warnings of building collapse during a fire include frequency, temperature, acoustic waves, displacement, and displacement velocity. It is essential to detect these parameters in real‑time to deliver early warnings effectively (Li et al., 2023).
+
+### References  
+Ahmadi, M.T., Aghakouchak, A.A., Mirghaderi, R., Tahouni, S., Garivani, S. and Epackachi, S., 2020. Collapse of the 16‑story Plasco Building in Tehran due to fire. Fire Technology, 56, pp.769–799.  
+Babtunde, I.R., 2013. Monumental effects of building collapse in Nigerian cities: The case of Lagos Island, Nigeria. Basic Research Journal of Engineering Innovation, 1, pp.26–31.  
+Caredda, G., Makoond, N., Buitrago, M., Sagaseta, J., Chryssanthopoulos, M. and Adam, J.M., 2023. Learning from the progressive collapse of buildings. Developments in the Built Environment, 15, 100194. doi:10.1016/j.dibe.2023.100194. Accessed 19 May 2025.  
+Concrete Masonry & Hardscapes Association (CMHA), no date. Seismic design forces on concrete masonry buildings. Accessed 19 May 2025.  
+Dimuna, K.O., 2010. Incessant incidents of building collapse in Nigeria: A challenge to stakeholders. Global Journal of Researches in Engineering, 10, pp.75–84.  
+Ellingwood, B.R., Smilowitz, R., Dusenberry, D.O., Duthinh, D., Lew, H.S. and Carino, N.J., 2007. Best practices for reducing the potential for progressive collapse in buildings. National Institute of Standards and Technology (NIST). Accessed 19 May 2025.  
+Figueroa Fernandez, R.H., 2014. Strategies to reduce the risk of building collapse in developing countries. Dissertation. Carnegie Mellon University, Pennsylvania, USA. Accessed 19 May 2025.  
+Fouad, S.S., Heggy, E., Amrouni, O., Hzami, A., Nijhuis, S., Mohamed, N. et al., 2025. Soaring building collapses in southern Mediterranean coasts: Hydroclimatic drivers and adaptive landscape mitigations. Earth’s Future, 13, e2024EF004883. Accessed 19 May 2025.  
+Hain, A., Zaghi, A.E., Padgett, J.E. and Tafur, A., 2023. Case studies of multihazard damage: Investigation of the interaction of Hurricane Maria and the January 2020 earthquake sequence in Puerto Rico. Frontiers in Built Environment, 9, 1128573. doi:10.3389/fbuil.2023.1128573. Available at: https://www.frontiersin.org/journals/built-environment/articles/10.3389… Accessed 13 February 2025.  
+Hira, J. and Benson‑Rea, M., 2017. Governing corporate social responsibility in the apparel industry after Rana Plaza. Palgrave Macmillan. Accessed 13 February 2025.  
+International Labour Organization (ILO), no date. The Rana Plaza accident and its aftermath. Accessed 13 February 2025.  
+International Labour Organization (ILO), 1988. C167 – Safety and Health in Construction Convention, 1988 (No. 167). Accessed 13 February 2025.  
+Kassem, M.M., Nazri, F.M. and Farsangi, E.N., 2019. Development of seismic vulnerability index methodology for reinforced concrete buildings based on nonlinear parametric analyses. MethodsX, 6, pp.199–211. Accessed 18 May 2025.  
+Li, J., Li, G.Q. and Zhu, S., 2023. FAST‑AlertNet: Early warning fire‑induced collapse of large‑span steel truss structure. Engineering Applications of Artificial Intelligence, 126 (Part B), 106891. doi:10.1016/j.engappai.2023.106891. Accessed 25 January 2025.  
+Meacham, B., Park, H., Engelhardt, M., Kirk, A., Kodur, V., Straalen, I., Van Weeren, K. and Feijter, R.D., 2010. Fire and collapse, Faculty of Architecture building, Delft University of Technology: Data collection and preliminary analysis. Accessed 30 November 2019.  
+Metropolitan Council, 2015. Calculating floor area ratio. Local Planning Handbook. Accessed 19 May 2025.  
+Mesa‑Jimenez, J.J., Stokes, L., Yang, Q. and Livina, V., 2021. International Journal of Metrology and Quality Engineering. Accessed 25 January 2025.  
+Occupational Safety and Health Administration (OSHA), no date. Structural collapse guide. Accessed 13 February 2025.  
+Rotta Loria, A.F., 2023. The silent impact of underground climate change on civil infrastructure. Communications Engineering, 2, 44. Accessed 18 May 2025.  
+United Nations Office for Disaster Risk Reduction (UNDRR), 2010. Making cities resilient: My city is getting ready! - Campaign kit. Accessed 13 February 2025.  
+United Nations Office for Disaster Risk Reduction (UNDRR), 2015. Sendai Framework for Disaster Risk Reduction 2015–2030. Accessed 13 February 2025.  
+United Nations Office for Disaster Risk Reduction (UNDRR), 2019. The TEN Essentials for Making Cities Resilient. Accessed 13 February 2025.  
+United Nations Office for Disaster Risk Reduction (UNDRR) and Economist Impact, 2022. Building disaster resilience: A study of disaster events and financial lending streams. Accessed 18 May 2025.  
+United Nations Educational, Scientific and Cultural Organization (UNESCO), 1954. 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict. Accessed 18 May 2025.  
+United Nations Educational, Scientific and Cultural Organization (UNESCO), 2008. Regulations for seismic design: A world list – 2008. Accessed 18 May 2025.  
+Windapo, A.O. and Rotimi, J.O., 2012. Contemporary issues in building collapse and its implication for sustainable development. Buildings, 2, pp.283–299.  
+World Health Organization (WHO), 2019. Earthquakes: Technical hazard sheet: Natural disaster profile. Accessed 18 May 2025.  
+World Bank and Global Facility for Disaster Reduction and Recovery (GFDRR), 2016. Building regulation for resilience: Managing risks for safer cities. Accessed 19 May 2025.  
+
+--- 
+
+*End of document.*
+```

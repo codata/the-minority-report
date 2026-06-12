@@ -1,0 +1,1 @@
+service restoration, network failure, communications reroute, control plane traffic, priority classification, network overloads, real-time voice and video services, virtual private network (VPN) services, transmission network circuits, system performance monitoring, backup communication systems, early warning systems

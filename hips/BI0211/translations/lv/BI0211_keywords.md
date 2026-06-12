@@ -1,0 +1,1 @@
+acute vaccine-preventable viral liver disease,hepatitis A virus (HAV),faecal-oral route transmission,lack of safe water and poor sanitation,HAV-specific immunoglobulin G (IgM) antibodies,reverse transcriptase polymerase chain reaction (RT-PCR),fulminant hepatitis,waterborne outbreaks,cyclic recurrences,supportive care management

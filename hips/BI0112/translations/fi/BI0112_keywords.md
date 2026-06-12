@@ -1,0 +1,1 @@
+larval stages of the parasite,Taenia solium,pork tapeworm,zoonotic parasite,faecal oral route,ingestion of tapeworm eggs,neurocysticercosis,epilepsy,anthelmintic treatments,porcine cysticercosis,cysticercosis in pigs,neuroimaging techniques

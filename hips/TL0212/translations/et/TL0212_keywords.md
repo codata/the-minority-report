@@ -1,0 +1,1 @@
+internal interruption of communications, failure of communication systems, disruption due to congestion, damage and/or destruction of communication system components, damage and/or disruption in supporting network infrastructure, radio or satellites systems, base transceiver station equipment, radio-based early warning systems, communication outages, lack of redundancy

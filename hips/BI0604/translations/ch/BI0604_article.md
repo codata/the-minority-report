@@ -1,47 +1,106 @@
-### 定义  
-人类‑野生动物冲突是指当野生动物的存在或行为对人类利益或需求构成实际或感知的直接且持续的威胁时，导致人群之间的分歧并对人类及/或野生动物产生负面影响的争端（IUCN SSC, 2022）。
+### Definition  
+Mensch‑Wildtierkonflikt ist definiert als Streitigkeiten, die entstehen, wenn die Anwesenheit oder das Verhalten von Wildtieren eine tatsächliche oder wahrgenommene direkte und wiederkehrende Bedrohung für menschliche Interessen oder Bedürfnisse darstellt, was zu Meinungsverschiedenheiten zwischen Personengruppen und negativen Auswirkungen auf Menschen und/oder Wildtiere führt (IUCN SSC, 2022).
 
-### 主要参考文献  
-IUCN SSC, 2022. “What is Human-Wildlife Conflict?” 国际自然保护联盟物种生存委员会 (SSC) 人类‑野生动物冲突工作组。访问时间：2025年3月26日。
+### Primäre Referenz(en)  
+IUCN SSC, 2022. What is Human‑Wildlife Conflict? International Union for Conservation of Nature (IUCN) Species Survival Commission (SSC) Human‑Wildlife Conflict Task Force. Accessed 26 March 2025.
 
-### 注释  
+### Anmerkungen  
+#### Zusätzliche wissenschaftliche Beschreibung  
+Wildtiere können die Sicherheit und das Wohlergehen von Menschen bedrohen, was zu Konflikten zwischen Personengruppen über die Lösung der Situation führen kann; Experten bezeichnen dies als „Mensch‑Wildtierkonflikt“ (IUCN, 2022). Wildtiermanagement beinhaltet auch den Umgang mit Mensch‑Wildtierkonflikten, insbesondere wenn es keine Zäune rund um Schutzgebiete gibt, um die Migration von Wildtierarten zu ermöglichen (FAO & UNEP, 2020).  
+Mensch‑Wildtierkonflikt betrifft die meisten großen Raubtiere sowie viele andere Artengruppen, darunter, aber nicht beschränkt auf, Elefanten, Schweine, Rehe, Primaten, Haie, Seelöwen, Greifvögel, Krokodile, Nashörner und Otter (IUCN SSC, 2024).  
+Mensch‑Wildtierkonflikte werden häufiger, ernster und verbreiteter, je mehr Menschen wachsen und Lebensräume verloren gehen (IUCN, 2022).  
+Mensch‑Wildtierkonflikt ist eine ernsthafte globale Bedrohung für nachhaltige Entwicklung, Ernährungssicherheit, Erhalt und Gesundheit – ein Problem, das sowohl Menschen als auch Wildtiere negativ beeinflusst und die Erreichung vieler nachhaltiger Entwicklungsziele (SDGs) behindert (IISD, 2021).  
+Auswirkungen auf die Population von Wildtieren, die von betroffenen lokalen Bevölkerungen ausgelöscht werden, können erhebliche Konsequenzen haben (Mozer & Prost, 2023).  
+Generell umfassen die Folgen von Mensch‑Wildtierkonflikt die Zerstörung von Nutzpflanzen, verringerte landwirtschaftliche Produktivität, Konkurrenz um Weideflächen und Wasser, Viehpredation, Verletzungen und Todesfälle von Landwirten, Schäden an Infrastruktur und erhöhtes Risiko der Übertragung von Krankheiten von Wildtieren auf Vieh (FAO, 2023a).  
+Mensch‑Wildtierkonflikt löst häufig negative Gefühle gegenüber dem Erhalt aus, insbesondere wenn Schutzgebiete eingerichtet oder erweitert werden (FAO und UNEP, 2020).  
+Im Zusammenhang mit Wäldern kann eine hohe Dichte großer Huftiere, zum Beispiel Rehe, schwere Schäden am Wald verursachen und die Regeneration durch Stampfen oder Fressen kleiner Bäume, Reiben an Bäumen oder Entfernen der Baumrinde bedrohen (FAO, 2016).  
+Die Schnittstelle zwischen Menschen, Haus- und Wildtieren kann ebenfalls eine Quelle von Krankheiten sein, die die lokale und globale öffentliche Gesundheit sowie das soziale und wirtschaftliche Wohlergehen von Gemeinschaften und der Weltbevölkerung beeinflussen.  
+Krankheiten, die von Tieren auf Menschen durch direkten Kontakt oder durch Nahrung, Wasser und Umgebung übertragen werden, werden häufig als „Zoonosen“ bezeichnet.  
+Es erkennt an, dass die Gesundheit von Menschen, Haustieren und Wildtieren, Pflanzen und der breiteren Umwelt (einschließlich Ökosysteme) eng verbunden und voneinander abhängig ist (WHO, no date a).  
+Obwohl Gesundheit, Nahrung, Wasser, Energie und Umwelt allereine breitere Themen mit sektorspezifischen Anliegen sind, trägt die Zusammenarbeit über Sektoren und Disziplinen dazu bei, die Gesundheit zu schützen, Herausforderungen wie die Entstehung von Infektionskrankheiten, Antibiotikaresistenz und Lebensmittelsicherheit anzugehen und die Gesundheit und Integrität von Ökosystemen zu fördern.  
+**One Health** ist ein integrierter, verbindender Ansatz, der darauf abzielt, die Gesundheit von Menschen, Tieren und Ökosystemen nachhaltig auszugleichen und zu optimieren (WHO, no date a).  
+Durch die Verknüpfung von Menschen, Tieren und Umwelt kann One Health dazu beitragen, das gesamte Krankheitskontroll‑Spektrum zu adressieren – von Prävention bis Erkennung, Vorbereitung, Reaktion und Management – und zur globalen Gesundheitssicherheit beizutragen.  
+Der Ansatz kann auf Gemeinschafts‑, Subnational‑, National‑, Regional‑ und globalen Ebenen angewendet werden und basiert auf geteilter und effektiver Governance, Kommunikation, Zusammenarbeit und Koordination.  
+Die Implementierung des One Health‑Ansatzes erleichtert es den Menschen, die Co‑Benefits, Risiken, Trade‑offs und Chancen besser zu verstehen, um gerechte und ganzheitliche Lösungen voranzutreiben (WHO, no date a).
 
-#### 附加科学描述  
-野生动物可能威胁人类的安全与生计，导致人群就如何解决该情况产生冲突；专家将其称为“人类‑野生动物冲突”（IUCN, 2022）。野生动物管理亦涉及处理人类‑野生动物冲突，尤其是在无围栏的保护区内，以便野生动物种群迁徙（FAO & UNEP, 2020）。人类‑野生动物冲突影响大多数大型肉食动物，以及许多其他物种群体，包括但不限于大象、猪、鹿、灵长类、鲨鱼、海豹、猛禽、鳄鱼、犀牛和水獭（IUCN SSC, 2024）。随着人类人口增长和栖息地丧失，人类‑野生动物冲突正变得更为频繁、严重和广泛（IUCN, 2022）。人类‑野生动物冲突是对可持续发展、粮食安全、保护与健康的严重全球威胁——负面影响人类和野生动物，并阻碍实现众多可持续发展目标（SDGs）的关注点（IISD, 2021）。屠宰野生动物种群的后果可能显著（Mozer & Prost, 2023）。总体而言，人类‑野生动物冲突的后果包括农作物破坏、农场生产率下降、牧场与水源竞争、牲畜捕食、农民伤亡、基础设施损坏以及野生动物向牲畜传播疾病的风险增加（FAO, 2023a）。冲突常触发对保护的负面情绪，尤其是在建立或扩大保护区时（FAO & UNEP, 2020）。以森林为例，鹿等大型食草动物的高密度可能对森林造成严重破坏，并通过践踏、啃食小树、摩擦树木或剥除树皮威胁再生（FAO, 2016）。人类、家畜与野生动物之间的界面亦可能成为疾病源，对地方与全球公共卫生以及社区和全球人口的社会经济福祉产生影响。通过直接接触或通过食物、水和环境传播的动物到人类的疾病通常被称为“人畜共患病”。它承认人类、家畜与野生动物、植物以及更广泛的环境（包括生态系统）的健康密切相关且相互依存（WHO, no date a）。健康、粮食、水、能源与环境虽为更广泛主题，但跨部门与学科合作有助于保护健康、解决健康挑战（如传染病出现、抗菌药物抗性与食品安全），并促进生态系统健康与完整性。One Health 是一种整合、统一的方法，旨在可持续地平衡与优化人类、动物与生态系统的健康（WHO, no date a）。通过将人类、动物与环境联系起来，One Health 能帮助解决从预防到检测、准备、响应与管理的疾病控制全谱，并促进全球健康安全。该方法可在社区、子国家、国家、区域与全球层面应用，并依赖共享与有效的治理、沟通、合作与协调。采用 One Health 方法使人们更易理解共同利益、风险、权衡与机会，以推进公平与整体解决方案（WHO, no date a）。
+### Metriken und numerische Grenzen  
+Etwa 60 % der auftretenden Infektionskrankheiten, die weltweit gemeldet werden, stammen von Tieren, sowohl Wild- als auch Haus.  
+In den letzten 30 Jahren wurden über 30 neue menschliche Pathogene entdeckt, von denen 75 % in Tieren (einschließlich Wildtieren) entstanden sind (WHO, 2023).
 
-### 指标与数值限制  
-全球报告的部分新兴传染病（约 60%）源自野生动物和家畜。过去 30 年检测到超过 30 种新的人体病原体，其中 75% 起源于动物（WHO, 2023）。
+### Wichtige relevante UN‑Konvention / multilaterale Vereinbarung  
+Convention on Biodiversity Post‑2020 Global Biodiversity Framework of 2022. Die Vision des Frameworks ist eine Welt, die in Harmonie mit der Natur lebt, in der „Bis 2050 wird Biodiversität geschätzt, erhalten, wiederhergestellt und weise genutzt, Ökosystemdienste aufrechterhalten, ein gesunder Planet gesichert und wesentliche Vorteile für alle Menschen bereitgestellt“ (CBD, 2022).  
+UNEP arbeitet mit biodiversitätsbezogenen Konventionen und wissenschaftlichen Gremien zusammen. Das Übereinkommen über die biologische Vielfalt ist ein internationales, rechtsverbindliches Abkommen, das Biodiversität auf allen Ebenen abdeckt: Ökosysteme, Arten und genetische Ressourcen. Es umfasst auch Biotechnologie durch das Kartagener Protokoll über Biosicherheit.  
+Das Übereinkommen erkennt an, dass biologische Vielfalt mehr als Pflanzen, Tiere und Mikroorganismen sowie deren Ökosysteme ist. Es geht um Menschen und das Bedürfnis nach Ernährungssicherheit, Medizin, frische Luft und Wasser, Unterkunft sowie eine saubere und gesunde Umwelt zum Leben (CBD, 2022).  
+UNEP arbeitet eng zusammen mit und beherbergt die Sekretariate von:  
+• dem Übereinkommen über die Erhaltung wandernder Tierarten (CMS, 1979)  
+• dem Übereinkommen über den internationalen Handel mit gefährdeten Arten von Wildfauna und Wildflora (CITES, 1963)  
+• dem Intergovernmental Panel on Biodiversity and Ecosystem Services (IPBES). https://www.ipbes.net/about  
+Quadripartite Memorandum of Understanding (MoU) signed for a new era of One Health collaboration (2022)  
+Die vier internationalen Agenturen, die Ernährungs‑ und Landwirtschaftsorganisation der Vereinten Nationen (FAO), die Weltorganisation für Tiergesundheit (OIE), das Umweltprogramm der Vereinten Nationen (UNEP) und die Weltgesundheitsorganisation (WHO), haben ein bahnbrechendes Abkommen unterzeichnet, um die Zusammenarbeit zu stärken und die Gesundheit von Menschen, Tieren, Pflanzen und Umwelt nachhaltig auszugleichen und zu optimieren (WHO, 2022).
 
-### 关键相关联合国公约 / 多边条约  
-- 生物多样性公约后续全球生物多样性框架（2022）。框架愿景为：“到 2050 年，生物多样性将被重视、保护、恢复并明智利用，维持生态系统服务，维持健康星球并为所有人提供必要利益”（CBD, 2022）。  
+### Treiber  
+Mensch‑Wildtierkonflikt beeinträchtigt häufig das Wohlergehen, die Sicherheit und das Leben der Menschen, die die breiteren Erhaltungsziele unterstützen, und betrifft viele Nationen, die versuchen, sich an diese Ziele anzupassen und von Erhaltungs‑ und Entwicklungsprogrammen zu profitieren (IUCN SSC, no date).
 
-### UNEP 与生物多样性相关公约与科学机构合作  
-- 生物多样性公约是覆盖所有生态系统、物种与遗传资源的国际具有法律约束力的条约。它亦通过《卡塔赫纳生物安全议定书》覆盖生物技术。该公约认为生物多样性不仅是植物、动物与微生物及其生态系统，还关乎人类、食品安全、药物、新鲜空气与水、住所以及人们居住的清洁健康环境（CBD, 2022）。  
-- UNEP 还与以下秘书处紧密合作：  
-  • 迁徙野生动物种国际保护公约（CMS, 1979）  
-  • 《濒危野生动植物种国际贸易公约》（CITES, 1963）  
-  • 国际生物多样性与生态系统服务科学政策平台（IPBES）  
+### Auswirkungen  
+Konflikte zwischen Menschen und Wildtieren, sowie zwischen Menschen über Wildtiere, existieren seit der Geburt der Menschheit.  
+In vielen Regionen haben diese Konflikte in den letzten Jahrzehnten zugenommen, bedingt durch Bevölkerungswachstum und die damit verbundene Ausdehnung von Landwirtschaft und Industrie.  
+Konflikte haben auch durch das Wachstum einiger Wildtierpopulationen und die Anwesenheit bestimmter Arten (z. B. Rotfuchs, Wildschwein) in städtischen Umgebungen zugenommen¹, sowie durch die wiederholte Unfähigkeit von Institutionen, solche Konflikte effektiv zu managen.  
+Der Klimawandel verschärft diese Konflikte, zum Beispiel durch erhöhte Konkurrenz um Wasser und Lebensräume (FAO, 2023b).  
+Zusätzlich sind 75 % der auftretenden Pathogene von zoonotischer Natur.  
+Fortschritte zur globalen Gesundheitssicherheit erfordern einen stärkeren Fokus auf die Schnittstelle zwischen Menschen und Tieren sowie eine starke Zusammenarbeit zwischen den Sektoren Menschengesundheit und Tiergesundheit (WHO, no date b).
 
-### 四方谅解备忘录（MoU）  
-2022 年签署的 One Health 合作新纪元四方谅解备忘录（FAO、OIE、UNEP 与 WHO）。  
+### Multi‑Gefahren‑Kontext  
+Die folgende Abbildung fasst die üblichen Wechselwirkungen zwischen Mensch‑Wildtierkonflikt und anderen Gefahren zusammen. Diese Informationen sollten mit Vorsicht verwendet und nicht ausschließlich im Katastrophenrisikomanagement verwendet werden, insbesondere da einige Interaktionen möglicherweise nicht einbezogen wurden. Beachten Sie, dass gemeinsam auftretende oder lokal in Raum oder Zeit stattfindende Gefahren nicht notwendigerweise verursacht, verstärken oder in irgendeiner Weise miteinander in Verbindung stehen. Spezifische Beispiele für Mehrgefahrenkontext finden Sie in den oben genannten Abschnitten „Gefahren‑treiber“ und „Auswirkungen“.
 
-### 驱动因素  
-人类‑野生动物冲突往往严重影响支持更广泛保护目标的人们的生计、安全与福祉，并影响许多试图与保护与发展计划相匹配并受益的国家（IUCN SSC, no date）。
+### Multi‑Gefahren‑Diagramm  
 
-### 影响  
-自人类出现以来，人类与野生动物之间以及人类因野生动物产生的冲突一直存在。然而，在许多地区，随着人类人口增长与农业、工业活动扩张，这些冲突在近几十年内加剧。由于某些野生动物种群的增长与某些物种（如红狐狸、野猪）在城市环境中的存在，冲突也出现；机构无法有效管理这些冲突。气候变化通过增加水源与栖息地竞争等方式加剧冲突（FAO, 2023b）。此外，75% 的新兴病原体具有人畜共患性质。实现全球健康安全的进展需要更关注人类与动物之间的界面，并加强人类健康与动物健康部门的合作（WHO, no date b）。
+### Risikomanagement  
+Da viele Länder diese vielschichtige Herausforderung angehen, wird das Thema Mensch‑Wildtierkonflikt zunehmend in nationale Politik und Strategien für Wildtiere, Entwicklung und Armutsbekämpfung einbezogen. Es besteht jedoch Bedarf an Verbesserung des Austauschs und Transfers von Wissen, zur Annahme eines inklusiveren und interdisziplinären Ansatzes und zur erheblichen Steigerung der grenzüberschreitenden Zusammenarbeit zwischen Forstwirtschaft, Wildtiermanagement, Landwirtschaft, Viehzucht und anderen relevanten Sektoren auf nationaler Ebene (FAO, 2023a).  
+Die Ernährungs‑ und Landwirtschaftsorganisation der Vereinten Nationen (FAO) unterstützt aktiv die Bemühungen der Mitgliedstaaten, Mensch‑Wildtierkonflikte besser zu managen, indem sie grenzüberschreitende Dialoge zwischen Interessengruppen zum Wissensaustausch fördert; Leitlinien zu bewährten Verfahren bereitstellt; technische Richtlinien für die Entwicklung nationaler Politiken und Rechtsrahmen bietet; und Feldaktivitäten umsetzt (FAO, 2023a).  
+Beispiele umfassen:  
+Als Reaktion auf spezifische Anfragen der Afrikanischen Forst‑ und Wildtierkommission entwickelte die FAO eine Reihe von Bildungs- und technischen Publikationen, von einer allgemeinen Übersicht über Mensch‑Wildtierkonflikte in Afrika bis zu spezifischeren Berichten über Elefanten, Löwen, Paviane und Krokodile (FAO, 2023a).  
+FAO, in Zusammenarbeit mit CIRAD, BIO‑HUB, WWF und CAMPFIRE Association, entwickelte 2012 ein Mensch‑Wildtierkonflikt‑Toolkit. Das Toolkit umfasst eine Reihe von Ressourcen, die für ländliche Bauern und lokale Gemeinschaften bestimmt sind und alle Dimensionen des Mensch‑Wildtierkonflikts abdecken. Es wurde in Feldprojekten des FAO Technical Cooperation Programme in Simbabwe und Mosambik getestet und durch Schulungs‑Workshops in den südlichen, zentralen und östlichen afrikanischen Subregionen verbreitet. Zur Sensibilisierung in Simbabwe wurde ein Interpretationszentrum für Mensch‑Wildtierkonflikt – finanziert von FAO und Partnern – im Mukuvisi‑Wald eingerichtet und 2014 offiziell eröffnet (FAO, 2023a).  
+In Zentralafrika wurde eine nationale Strategie und ein Aktionsplan in Gabun entwickelt, und ein subregionaler Workshop wurde abgehalten, um das für Südafrika erstellte Mensch‑Wildtierkonflikt‑Toolkit zu übernehmen. Dies führte zur Entwicklung eines Prototyps für die zentrale afrikanische Subregion in Zusammenarbeit mit CIRAD und dem Netzwerk der Schutzgebiete Zentralafrikas (FAO, 2023a).  
+In Botswana, 2019, unterstützte die FAO lokale Gemeinschaften bei der Überwachung von Gebieten mit Gemeindescouts, der Verstärkung von predator‑proof traditionellen Bomas und der Einbindung lokaler Gemeinschaften in naturnahes Wildtier‑Tourismus. In Simbabwe haben die FAO und Partner lokalen Behörden und betroffenen Gemeinschaften geholfen, eine Mensch‑Wildtierkonflikt‑Minderungsstrategie zu formulieren, nachhaltiges Ressourcen‑Management für alternative Einkünfte zu fördern und Vieh gegen Fuß‑ und Magenkrankheiten zu impfen (FAO, 2023a).  
+In der Formulierung von fachspezifischen Politikstrategien trafen sich Regierungsbeamte aus 11 afrikanischen Ländern im Jahr 2019 zu einer FAO‑gestützten multisektoralen Dialog in Ghana, wo Politik‑Prioritäten und grenzüberschreitende Maßnahmen gegen Mensch‑Wildtierkonflikt kartiert wurden (FAO, 2023a).  
+Derzeit unterstützt die FAO Feldinitiativen in mehreren Ländern der südafrikanischen Region, einschließlich Simbabwe, Botswana und Südafrika (FAO, 2023a).  
+Viele internationale Organisationen sind in die nachhaltige Wildtierverwaltung involviert. Die Forstabteilung der FAO fungiert seit 2013 als Sekretariat der Collaborative Partnership on Sustainable Wildlife Management (CPW) und engagiert sich aktiv an einer breiten Palette von CPW‑Initiativen als proaktive Mitgliedsorganisation (FAO, 2023b).  
+Die CPW, gegründet im März 2013 in Bangkok, Thailand, bietet eine Plattform, um Fragen der Wildtierverwaltung zu adressieren, die nationale und supra‑nationale Antworten erfordern, und fördert die Zusammenarbeit und Koordination der nachhaltigen Wildtierverwaltung unter ihren Mitgliedern und Partnern (FAO, 2023b).  
+Die Mission der CPW ist es, die Zusammenarbeit und Koordination zu erhöhen, um die nachhaltige Verwaltung von terrestrischen Wirbellosen in allen Biomen und geografischen Gebieten zu fördern, die Erhaltung und nachhaltige Nutzung der Biodiversität sowie die Ernährungssicherheit, das Wohlergehen und die Gesundheit der Menschen zu unterstützen (FAO, 2023b).  
+Sie hat die folgenden thematischen Ziele:  
+• Unterstützung der Länder bei der Gewährleistung, dass die Nutzung und der Handel mit Wildtieren legal, nachhaltig und sicher sind;  
+• Bewusstsein für die Verbindungen zwischen nachhaltiger Nutzung von Wildtieren, Ernährungssicherheit, Wohlergehen, Kultur und Integrität der Landschaften schaffen;  
+• Prävention, Management und Reduktion von Mensch‑Wildtierkonflikten fördern und das Zusammenleben verbessern;  
+• Die nachhaltige Nutzung und Verwaltung von Wildtieren in die One Health‑Agenda integrieren;  
+• Für nachhaltige und inklusive Wildtierökonomie einstehen (FAO, 2023b).  
 
-### 多灾害情境  
-下图总结了人类‑野生动物冲突与其他危害的常见相互作用。请谨慎使用此信息，不应仅依据它进行灾害风险管理，尤其是某些相互作用可能未被纳入。请注意，空间或时间上共同发生的危害事件不一定会导致、放大或与彼此相关。可在“危害驱动因素”和“影响”部分找到多灾害情境的具体示例。
+Die WHO arbeitet zusammen mit internationalen Organisationen und nationalen Institutionen, die für die Tiergesundheit zuständig sind, um die schnelle Erkennung von Pathogenen zu verbessern und die Koordination in schnellen Kontrollmaßnahmen sicherzustellen. Durch die Stärkung des Beitrags des veterinärmedizinischen Sektors zur Umsetzung der IHR (2005) schlagen WHO und ihre Partner Leitlinien, Methoden und Werkzeuge vor, um Synergien und Lücken in der Koordination zwischen beiden Sektoren zu prüfen und die Länder bei der Operationalisierung eines multisektoralen, One Health‑Ansatzes für die globale Gesundheitssicherheit zu unterstützen (WHO, no date a). Im Zusammenhang mit dem erneuten Interesse der Mitgliedstaaten, die Arbeit an One Health und die Prävention von aufkommenden Zoonosen sowie die Arbeit der WHO‑Governing bodies zu One Health zu stärken, wurde das WHO One Health Initiative Team gegründet, um als Sekretariat des One Health High‑Level Expert Panel (OHHLEP), WHO‑Koordinationsmechanismus für seine One Health‑Aktivitäten und die quadripartite Zusammenarbeit zu fungieren (WHO, no date a). Die Investition in One Health trägt zur Vision der WHO bei, die Gesundheit zu fördern, die Welt sicher zu halten und die Verwundbaren zu betreuen. Die WHO arbeitet daran, den One Health‑Ansatz in die globale Gesundheitsszene zu integrieren, fest verankert in starker politischer Führung, technischer Expertise und inklusiver Umsetzung, die von Ländern geführt wird (WHO, no date a). Die WHO und Partnerorganisationen arbeiten daran, die Annahme des One Health‑Ansatzes in nationalen, regionalen und internationalen Gesundheitspolitiken zu erhöhen durch intersektorale politische und strategische Führung; operative Antworten und Skalierung der ländlichen Unterstützung, einschließlich Forschung und Politik‑Bewertung; Stärkung der ländlichen Kapazitäten; und Überwachung von Risiken und Bereitschaft zur frühzeitigen Erkennung und Reaktion auf Pathogene (WHO, no date a). Durch die kombinierten Anstrengungen der quadripartiten Organisationen (FAO, OIE, UNEP & WHO) wird ein umfassender One Health Joint Plan of Action entwickelt, unterstützt und beraten vom One Health High‑Level Expert Panel. Der Plan zielt darauf ab, One Health auf globaler, regionaler und nationaler Ebene zu mainstreamen und zu operationalisieren; Länder bei der Einrichtung und Erreichung nationaler Ziele und Prioritäten für Interventionen zu unterstützen; Investitionen zu mobilisieren; einen ganzheitlichen Ansatz zu fördern; und Zusammenarbeit, Lernen und Austausch über Regionen, Länder und Sektoren zu ermöglichen (WHO, no date a).
 
-### 风险管理  
-随着越来越多的国家面对这一多面挑战，人类‑野生动物冲突正开始在国家政策与针对野生动物、发展与减贫的战略中得到考虑。然而，需要改进知识共享与转移，采用更具包容性与跨学科的方法，并在国家层面大幅增加林业、野生动物、农业、畜牧业与其他相关部门之间的跨部门合作（FAO, 2023a）。联合国粮农组织积极支持成员国更好地管理人类‑野生动物冲突，促进利益相关者之间的跨部门对话以共享信息；制定良好做法的指导；为制定国家政策与法律框架提供技术指南；以及实施现场活动（FAO, 2023a）。例如：在非洲林业与野生动物委员会的相关请求下，FAO 发布了一系列教育技术出版物，从关于非洲人类‑野生动物冲突的总体概览到关于大象、狮子、狒狒与鳄鱼冲突的更具体报告（FAO, 2023a）。FAO 与 CIRAD、BIO‑HUB、WWF 及 CAMPFIRE 协会合作，于 2012 年开发了人类‑野生动物冲突工具包。该工具包包含供农村农民与当地社区使用的资源，涵盖 HWC 的所有维度。它已在津巴布韦与莫桑比克的 FAO 技术合作计划项目中现场测试，并通过南部、中部与东部非洲子区域的培训研讨会交付（FAO, 2023a）。为提高津巴布韦认识，建立了一个 HWC 管理解释中心——由 FAO 与合作伙伴资助——于 2014 年在穆库维西林地正式开放（FAO, 2023a）。在中部非洲，几内亚制定了国家战略与行动计划，并在加蓬举行子区域研讨会，采用为南部非洲开发的 HWC 工具包。随后，在中部非洲子区域与 CIRAD 及中部非洲受保护区网络合作，开发了该子区域的原型（FAO, 2023a）。在博茨瓦纳西北区，2019 年，FAO 支持当地社区通过社区侦察员监测区域、加固防御传统 “bomas”（防捕食者传统围栏）并与当地社区开展基于野生动物的旅游。津巴布韦，FAO 与合作伙伴帮助当地当局与受影响社区制定人类‑野生动物缓解战略，推广可持续自然资源管理以获得替代生计，并为牲畜接种口蹄疫疫苗（FAO, 2023a）。在制定 HWC 具体政策与战略时，2019 年，来自 11 个非洲国家的技术政府官员在加纳举行了一次 FAO 组织的多部门对话，绘制了应对人类‑野生动物冲突的政策优先事项与跨部门行动（FAO, 2023a）。目前，FAO 正在支持南部非洲地区多个国家的现场举措，包括津巴布韦、赞比亚与博茨瓦纳（FAO, 2023a）。许多国际组织参与可持续野生动物管理。FAO 林业部门自 2013 年起担任可持续野生动物管理协作伙伴关系（CPW）的秘书处，并积极参与 CPW 的各项倡议，作为该伙伴关系的积极成员（FAO, 2023b）。CPW 是一个由 13 个国际组织自愿组成的伙伴关系，拥有促进野生动物资源可持续利用与保护的具体使命与项目。CPW 于 2013 年 3 月在泰国曼谷成立，为需要国家与跨国回应的野生动物管理问题提供平台，并致力于促进成员间的合作与协调。CPW 的使命是通过提供法律、可持续与安全的野生动物利用与贸易，提升人类食物安全、生计与福祉、文化与景观完整性，促进人类‑野生动物冲突的预防、管理与减少，嵌入 One Health 议程，并倡导可持续与包容性的野生动物经济（FAO, 2023b）。WHO 与国际组织及负责动物健康的国家机构合作，以提升新兴病原体的快速检测，并确保快速控制措施的协调。通过加强兽医部门在《国际卫生条例》（2005）实施中的作用，WHO 及其合作伙伴提出指导、方法与工具，以共同评估两部门之间的协同与差距，并支持各国实施多部门、One Health 方法以实现全球健康安全（WHO, no date a）。在成员国对 One Health 与人畜共患病预防的兴趣重新升温，以及 WHO 监管机构对 One Health 的工作，WHO One Health Initiative 团队设立为 One Health 高层专家组（OHHLEP）的秘书处，负责 One Health 活动与四方协作机制（WHO, no date a）。投资 One Health 有助于 WHO 推动健康、保持世界安全并服务弱势群体。WHO 致力于将 One Health 方法纳入全球健康叙事，基于强有力的政治领导、技术专长与由国家主导和拥有的包容性实施（WHO, no date a）。WHO 与合作伙伴正在努力提高 One Health 方法在国家、地区与国际卫生政策中的采纳，通过跨部门政治与战略领导；实施响应并扩大国家支持，包括研究与政策评估；加强国家能力；以及监测风险与早期检测与应对新兴病原体（WHO, no date a）。通过四方组织（FAO、OIE、UNEP 与 WHO）的共同努力，正在制定综合 One Health 联合行动计划，由 One Health 高层专家组支持与指导。该计划旨在在全球、地区与国家层面主流化与实施 One Health；支持各国制定与实现干预的国家目标与优先事项；动员投资；促进全社会方法；并实现跨地区、国家与部门的合作、学习与交流（WHO, no date a）。
+### Überwachung  
+Überwachung, die Risiken verfolgt und Muster in diesen vielen Bereichen erkennt, ist erforderlich. Darüber hinaus sollten neue Forschungen die Auswirkungen dieser unterschiedlichen Felder integrieren, insbesondere auf die Treiber, die zu Krisen führen. Um One Health zu implementieren, sind bedeutende strukturelle Veränderungen erforderlich, um die Felder menschlicher, tierischer und umweltmedizinischer Gesundheit zu integrieren und grenzüberschreitende Kommunikation, Zusammenarbeit, Koordination und Kapazitätsstärkung zu unterstützen (WHO, 2023).
 
-### 监测  
-需要监测风险并帮助识别这些多领域的模式。此外，应开展新的研究，整合不同领域的影响，特别是导致危机的驱动因素。例如，实施 One Health 需要重大结构性变革，以整合人类、动物与环境健康领域，并支持多部门沟通、协作、协调与能力建设（WHO, 2023）。
+### References  
+CBD, 2025. The Convention on Biological Diversity What’s new. Convention on Biodiversity (CBD). Accessed 25 March 2025.  
+CBD, 2022. Convention on Biodiversity: Post‑2020 Global Biodiversity Framework. Accessed 25 March 2025.  
+CITES, 1963. Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES). Accessed 25 March 2025.  
+CMS, 1979. Convention on the Conservation of Migratory Species of Wild Animals. Convention on Migratory Species (CMS). Accessed 26 March 2025.  
+FAO, 2016. Sustainable Wildlife Management and Human−Wildlife Conflict. CWP fact sheet 4. Food and Agriculture Organization of the United Nations (FAO). Accessed 26 March 2025.  
+FAO, 2023a. Wildlife and protected area management. Human and wildlife conflict. Food and Agriculture Organization of the United Nations (FAO). Accessed 26 March 2025.  
+FAO, 2023b. African Forestry and Wildlife Commission. Report Of The Multisectoral Dialogue And Learning Event On Human− Wildlife− Livestock−Ecosystem Interface. Food and Agriculture Organization of the United Nations (FAO). Accessed 26 March 2025.  
+FAO and UNEP, 2020. The State of the World’s Forests 2020. Forests, biodiversity and people. Food and Agriculture Organization of the United Nations (FAO) and United Nations Environment Programme (UNEP). Accessed 26 March 2025.  
+IISD, 2021. Preventing Human‑wildlife Conflict is Critical for People and the Planet. International Institute for Sustainable Development (IISD). Accessed 26 March 2025.  
+IPBES, 2012. The Intergovernmental Science‑Policy Platform on Biodiversity and Ecosystem Services (IPBES). Accessed 26 March 2025.  
+IUCN SSC, 2024. Human‑Wildlife Conflict & Coexistence. International Union for Conservation of Nature (IUCN) Species Survival Commission (SSC) Human‑Wildlife Conflict Task Force. Accessed 26 March 2025.  
+Mozer, A., Prost, S., 2023. An introduction to illegal wildlife trade and its effects on biodiversity and society, Forensic Science International: Animals and Environments. Vol 3, 100064, ISSN 2666‑9374. DOI: 10.1016/j.fsiae.2023.100064. Accessed 24 May 2025.  
+WHO, no date a. One Health. World Health Organization (WHO). Accessed 26 March 2025.  
+WHO, no data b. Strengthening global health security at the human‑animal interface. World Health Organization (WHO). Accessed 26 March 2025.  
+WHO, 2022. Quadripartite Memorandum of Understanding (MoU) signed for a new era of One Health collaboration World Health Organization (WHO). Accessed 16 March 2025.  
+WHO, 2023. One Health, World Health Organization (WHO). Accessed 26 March 2025.  
 
-### 参考文献  
-- CBD, 2025. “Convention on Biological Diversity What’s new.”  
-- (其余参考文献按原文列出)
+Cite this [Copy citation]
 
----
+### Identifizierte Domänen‑Schlüsselwörter  
+struggles that emerge when wildlife poses a threat, disagreements between groups of people and negative impacts, livestock predation, competition for grazing lands and water, destruction of crops, damage to infrastructure, disease transmission from wildlife to livestock, human‑wildlife mitigation strategy, interface between humans domestic animals and wild animals, zoonoses, large ungulates causing forest damage, human‑wildlife conflict toolkit
+
+### Gewählter Wiki‑Begriff  
+Mensch‑Wildtierkonflikt

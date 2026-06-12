@@ -1,0 +1,1 @@
+mass of snow and ice falling suddenly,Loose snow avalanches,Slab avalanches,Gliding avalanches,Powder avalanches,wet-snow avalanches,inverted-V-shaped avalanche,artificial avalanche triggering,avalanche galleries or tunnels,snowpack stability

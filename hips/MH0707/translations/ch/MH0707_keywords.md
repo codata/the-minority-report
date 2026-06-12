@@ -1,0 +1,1 @@
+motion of ice driven by gravitational forces, ice stress, wind, water currents and tide,floating ice tongues,ice shelves,sea ice,river and lake ice,fast ice,drift/pack ice,ice jams,ice floes,ice edge,glacial ice flow,basal sliding,subglacial sediments,ice cover compresses and ice accumulates to form ridges

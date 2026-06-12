@@ -1,0 +1,1 @@
+Bordetella pertussis, whooping cough, respiratory infection, paroxysmal cough, case classification, surveillance standards, infant mortality, DTP3 vaccine, primary series, disease surveillance system, Early Warning, Alert and Response System

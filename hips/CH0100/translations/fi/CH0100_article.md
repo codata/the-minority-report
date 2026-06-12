@@ -1,98 +1,144 @@
-> ### Määritelmä  
-> **Raskaat metallit** ovat metallisia jälkemetalleja, joilla on joko korkea suhteellinen atomipaino tai jotka esiintyvät materiaaleissa, joissa on korkea tiheys. **Jälkemetallit** on termi, jota käytetään kuvaamaan aineita, joita maaperässä esiintyy yleensä matalina pitoisuuksina, mutta jotka voivat silti aiheuttaa merkittäviä vaikutuksia ihmisen terveyteen ja ekosysteemeihin, kun niiden pitoisuudet ylittävät turvalliset rajat, kuten monien raskaiden metallien tapauksessa. Myrkyllisiä jälkemetalleja, joilla on biologinen merkitys, löytyvät yleensä maaperästä alle 100 mg/kg, ja joskus vesiekosysteemeistä tai ilmassa hiukkasina. Biologinen merkitys kattaa aineet, jotka ovat joko välttämättömiä tai myrkyllisiä jokaiselle organismille; jotkut aineet voivat olla molempia, riippuen pitoisuudestaan. Monet jälkemetallit ovat metalleja, kun taas muut ovat **metalloidit**, **alluaatit**, **metallittomat aineet**, **actinoidit** ja **halogeenit**, jotka esiintyvät erilaisissa kemiallisissa tiloissa (elementtinen, kationsit, anionsit, oxyanionit, metylöity jne.). Tämä kategoria voi päällekkäistyä tai käyttää synonyymisti termejä kuten mahdollisesti myrkylliset aineet, raskaat metallit, pysyvät anorgaaniset saasteet, anorgaaniset saasteet ja halidit, kuten fluoridi ja iodidi. Tässä dokumentissa käytetään termiä **jälkemetallit** (FAO ja UNEP, 2021a).  
->  
-> ### Ensisijaiset viitteet  
-> FAO ja UNEP. 2021a. Maaperän maailmanlaajuinen arviointi. Raportti. Rooma, FAO. Saatavilla 20. heinäkuuta 2024  
->  
-> ### Huomautukset  
-> **GHS‑luokitus**  
-> - GHS 06 – Aikainen myrkytus  
-> - GHS 07 – Irritaattori  
-> - GHS 08 – Terveysriski  
-> - GHS 09 – Ympäristöriski  
->  
-> ### Lisäympäristöllinen kuvaus  
-> Jälkemetallit voivat muuttua saasteiksi, kun niiden pitoisuudet ylittävät luonnolliset tasot merkittävästi ihmisen toiminnan seurauksena, kuten teolliset prosessit, kaivostoiminta, maatalous ja jätehuolto. Nämä saasteet voivat kertyä maaperään, veteen ja biotaan, aiheuttaen haitallisia vaikutuksia ekosysteemeihin ja ihmisten terveyteen.  
->  
-> ### Tärkeitä jälkemetalleja  
-> Nämä ovat aineita, joita tarvitaan pieninä määrinä normaaleihin fysiologisiin toimintoihin. Esimerkkejä ovat rauta (Fe), sinkku (Zn), kupari (Cu) ja seleeni (Se).  
->  
-> ### Myrkyllisiä jälkemetalleja  
-> Nämä ovat aineita, jotka voivat olla myrkyllisiä organismeille jopa pienissä pitoisuuksissa. Katso muita vaaravarmuuskäytäntöjä, joissa esitetään esimerkkejä, kuten lyijy (Pb, CH0103), merkki (Hg, CH0104), kadmium (Cd, CH0102) ja arseeni (As, CH0101).  
->  
-> ### Metallit  
-> **Metallien terveysriski** viittaa mahdollisiin riskitekijöihin, joita aiheuttavat metallisia aineita. Metallit ovat luonnollisesti esiintyviä aineita, joita löytyy eri muodoissa ympäristöstä, ja kun monet metallit ovat elintärkeitä ja hyödyllisiä, jotkut voivat olla haitallisia tiettyjen muotojen tai pitoisuuksien vuoksi. Terveyshaitat, jotka liittyvät metallien käyttöön, voivat johtua altistumisesta hengityksen, nauttimisen tai ihokontaktin kautta, riippuen faktoreista kuten käytettävästä metalleista, sen kemiallisesta muodosta ja altistuksen keston ja intensiteetin mukaan. Joitakin yleisiä metallien esiintymisiä: kaivat, mineraalivarannot, maaperä ja sedimentit, vesitaltiot, kasvit, ilma, valmistetut tuotteet, jätteet ja kierrätys.  
->  
-> ### Metalloidit  
-> Metalloidit ovat aineita, joilla on ominaisuuksia, jotka ovat sekä metallisten että metallittomien aineiden ominaisuuksia.  
->  
-> ### Alluaatit  
-> Metallit voidaan yhdistää muihin aineisiin muodostamaan alluaatteja, joilla usein on paremmat ominaisuudet kuin yksittäisten aineiden. Yleisiä alluaatteja ovat messinki (kupari ja sinkku), hopeanpuoli (kupari ja rauta), ruostumaton teräs (rauta, kromi ja nikkeli) ja alumiiniaalluaatit.  
->  
-> ### Metallittomat aineet  
-> Metalleittomat aineet tai ionit voivat muodostaa saasteita maaperässä ja vedessä. Korkean ionisen potentiaalinsa vuoksi 13.–16. ryhmän metallittomat aineet muodostavat oxyanionit normaalissa hapettuneessa tilassa.  
->  
-> ### Halidit  
-> Halidit, kuten fluoridi, kloridi, bromidi ja iodidi, ovat myös fytotoksiilaisia ilmakehän saasteita, ja ne voivat vaikuttaa terveyteen korkean pitoisuuden yhteydessä. Korkeat bromidipitoisuudet voivat aiheuttaa kuoleman aiheuttavia vaikutuksia vesieläimille. Lisäksi halidit toimivat hydroksyliradikaalin scavengerina edistyksellisissä hapettamisprosesseissa, vähentäen useiden vesilämmityssäädön tehokkuutta.  
->  
-> ### Bioavaabiliteetti  
-> Kuitenkin jälkemetallien erityinen piirre on niiden kyky esiintyä eri lajina (esim. eri hapetusasteet kuten kromi III / kromi VI tai arseeni III / arseeni V) ja taipumus muodostaa bioavaabileita metallorgaanisia yhdisteitä (esim. metylimetalli tai tetrametylolitra), mikä määrittelee bioavaabiliteetin ja myrkytön. Käytännössä useimmat jälkemetallien arvioinnit mittaavat ja raportoivat kokonaispitoisuuksia (esim. kromi) eikä aineen erityistä kemiallista muotoa (esim. kromi III tai kromi VI) analyysien ja peräkkäisen ekstraktiosarjojen monimutkaisuuden vuoksi laboratoriot.  
->  
-> ### Fluoridi  
-> Fluoridi on metallittomat saaste, joka on luonnollinen mineraali, jolle yleisö altistuu usein juomavedon kautta. Riippuen annosintakeista, fluoridi voi antaa sekä hyödyllisiä vaikutuksia (hampaiden kariesin ehkäisy) että negatiivisia vaikutuksia (hampaiden emalii- ja luusto‑fluorosis pitkän ajan korkean altistuksen seurauksena) (sopeutettu NCBI:ltä 2020 ja WHO:ltä, tarkista CH0105).  
->  
-> ### Iodidi  
-> Iodidi on saasteiden aiheuttama merkittävä terveysriski, mukaan lukien kilpirauhasen toimintahäiriö ja syövän riski, erityisesti radioaktiivisten isotoopien, kuten jodi‑131, yhteydessä. Ympäristövaikutuksiin kuuluu vesiekosysteemien häiriö ja maaperän laatu. Tehokkaat valvonta- ja hallintastrategiat ovat olennaisia näiden riskien lieventämiseksi ja sekä julkisen terveyden että ympäristön suojelemiseksi (katso CH0105).  
->  
-> ### Mittarit ja numeeriset rajat  
-> Ohjearvot ovat monimutkaisia, mutta yhteenvetona seuraavat voivat olla hyödyllisiä:  
-> **Arseeni**: rajoitukset vaihtelevat 10 µg/l juomaveden ja 0,39 mg/kg asuinmaaperän välillä.  
-> **Kadmium**: rajoitukset vaihtelevat 3–5 µg/l juomaveden ja 0,43 mg/kg asuinmaaperän välillä.  
-> **Lyijy**: rajoitukset ovat yleensä 10–15 µg/l juomaveden ja 400 mg/kg maaperässä.  
-> **Merkki**: rajoitukset vaihtelevat 1–6 µg/l juomaveden ja 1,3 mg/kg asuinmaaperän välillä.  
-> **Kromi**: rajoitukset vaihtelevat 50–100 µg/l juomaveden ja 0,3 mg/kg Cr(VI) asuinmaaperässä.  
-> **Fluoridi**: ohjeen arvo fluoridille juomavettä on 1,5 mg/l. Ilmassa ohjeen arvo on 1 µg/m³.  
-> **Iodidi**: Tolerable Upper Intake Level (UL) aikuisten jodiin on 1 100 µg/pv. OSHA:n sallittu altistustaso jodille työpaikalla on 0,1 osaa miljoonaan. Jodi‑131 (radioaktiivinen isotooppi) juomavettä 3 pCi/l MCL.  
->  
-> ### Keskeiset UN‑sopimukset / monipuoliset sopimukset  
-> **Basel‑sopimus**: Säätelee rajat ylittävän vaarallisten jätteiden liikkumista, mukaan lukien jälkemetallit.  
-> **Rotterdam‑sopimus**: Toteuttaa ennakkoinformoitun tarpeen vaarallisten kemikaalien, mukaan lukien tietyt jälkemetallit.  
-> **Stockholm‑sopimus**: Keskittyy pysyviin saasteisiin, mukaan lukien jotkin jälkemetallit.  
-> **Minamata‑sopimus**: Kohdistuu erityisesti merkkiin, tärkeään jälkemateriaaliin.  
-> **CLRTAP**: Käsittelee ilmakehän saasteita, mukaan lukien raskaat metallit kuten lyijy, kadmium ja merkki.  
->  
-> ### Ajurit  
-> Vaaratekijän ajurit:  
-> 1. **Teollisuus** – kaivostoiminta, kaivosten sulatus ja muut teolliset prosessit.  
-> 2. **Maatalous** – fosforifertilla ja muihin lannoitteisiin sisältyvät metallit.  
-> 3. **Kaupungistuminen ja infrastruktuuri** – rakennusmateriaalit, tienrakennus ja jäte.  
-> 4. **Jätehuolto** – sähköjätteen ja akkujen käsittely.  
-> 5. **Ilmastonmuutos** – lämpötilan ja sademäärän nousu vaikuttaa jälkemetallien liikehdintään.  
-> 6. **Kriisit** – tulvat mobilisoivat jälkemetalleja maaperästä ja sedimentistä.  
->  
-> ### Vaikutukset  
-> 1. **Ympäristövaikutus** – esimerkiksi merkki bioakkumulaatio vesiekosysteemeissä.  
-> 2. **Ihmisten terveysvaikutukset** – esimerkiksi aspenkivennäsykset, syöpä.  
-> 3. **Maaperän heikkeneminen** – esimerkiksi kadmium talteen maaperässä.  
-> 4. **Taloudelliset vaikutukset** – esimerkiksi maan arvon lasku.  
->  
-> ### Monivaarakonteksti  
-> Alla oleva kaavio tiivistää yleisiä vuorovaikutuksia raskaiden metallien ja jälkemetallien ja muiden vaarojen välillä.  
->  
-> ### Riskienhallinta  
-> 1. **Sääntely ja lainsäädäntö** – REACH.  
-> 2. **Saasteiden ehkäisy ja hallinta** – teolliset prosessit.  
-> 3. **Ympäristön valvonta ja arviointi** – maaperä, vesi, ilma.  
-> 4. **Korjaus ja puhdistus** – fytoremedointi.  
-> 5. **Julkinen tietoisuus ja koulutus** – yhteisötietoa ja turvalliset käytännöt.  
->  
-> ### Valvonta  
-> Seuraava taulukko antaa yleiskuvan raskaiden metallien ja jälkemetallien valvonnasta.  
->  
-> ### Viitteet  
-> - Agency for Toxic Substances and Disease Registry (ATSDR). 2020. “Toxicological Profiles.”  
-> - Agency for Toxic Substances and Disease Registry (ATSDR). 2003. “Toxicological Profile for Fluorides.”  
-> - Codex Alimentarius Commission. 2014. …  
-> *(tässä jatkuu alkuperäinen viitteiden luettelo)*  
+```markdown
+### Määritelmä  
+Raskaat metallit ja muut seurantaelementit ovat metallisia jäljelle jääviä alkuaineita, joilla on joko korkea suhteellinen atomipaino tai jotka esiintyvät materiaaleissa, joissa on korkea tiheys. Seurantaelementit ovat termejä, joita käytetään kuvaamaan alkuaineita, joita maaperässä esiintyy yleensä matalissa pitoisuuksissa, mutta jotka voivat silti vaikuttaa merkittävästi ihmisen terveyteen ja ekosysteemeihin, kun niiden pitoisuudet ylittävät turvalliset rajat, kuten monissa raskaita metalleja koskevissa tapauksissa. Biologisesti merkittävät seurantaelementti‑saasteet esiintyvät yleensä maaperässä alle 100 mg/kg pitoisuuksilla, ja joskus vesijärjestelmissä tai ilman hiukkasteina. Biologinen merkitys kattaa alkuaineet, jotka ovat olennaisia tai myrkyllisiä minkä tahansa organismin kannalta; jotkut alkuaineet voivat olla molempia, riippuen niiden pitoisuudesta. Useat tärkeimmistä seurantaelementeistä ovat metalleja, kun taas muut ovat metaloideja, sekoituksia, metallittomia aineita, aktinoideja ja halogeneja, jotka esiintyvät erilaisissa kemiallisissa tiloissa (elementtimuodossa, kationeissa, anioneissa, oxyanioneissa, metyletyissä jne.). Tämä kategoria voi ylittää tai olla synonyymiä termeille kuten mahdollisesti myrkylliset alkuaineet, raskaat metallit, pysyvät epäorgaaniset saasteet ja epäorgaaniset saasteet sekä halideja, kuten fluori ja jodi. Tämän asiakirjan selkeyden vuoksi termi *seurantaelementit* käytetään (FAO ja UNEP, 2021a).  
 
----
+### Ensisijainen lähde  
+FAO and UNEP. 2021a. Global assessment of soil pollution. Report. Rome, FAO. Accessed 20 July 2024  
+
+### Annotations  
+
+- **GHS‑luokittelu**  
+  - GHS06 – Äkkinäinen myrkyllisyys  
+  - GHS07 – Irritatiivinen  
+  - GHS08 – Terveys­uhka  
+  - GHS09 – Ympäristö­uhka  
+
+### Lisätietoa tieteellisestä kuvauksesta  
+Seurantaelementit voivat muuttua saasteiksi, kun niiden pitoisuudet ylittävät merkittävästi luonnolliset tasot antropogeenisten toimien, kuten teollisuuden prosessien, kaivostoiminnan, maatalouden ja jätteen käsittelyn, vuoksi. Nämä saasteet voivat kertyä maaperään, veteen ja biotaan, aiheuttaen haitallisia vaikutuksia ekosysteemeihin ja ihmisen terveyteen.  
+
+- **Välttämättömät seurantaelementit**: Nämä alkuaineet tarvitaan pieninä määriä normaaleihin fysiologisiin toimintoihin. Esimerkkejä ovat rauta (Fe), sinkki (Zn), kupari (Cu) ja seleeni (Se).  
+
+- **Ei‑välttämättömät tai myrkylliset seurantaelementit**: Nämä alkuaineet voivat olla myrkyllisiä organismeille myös matalissa pitoisuuksissa. Katso muiden vahinkoprofiilien esimerkkejä, jotka sisältävät lyijyn (Pb, CH0103), merkurin (Hg, CH0104), kadmiumin (Cd, CH0102) ja arsenicin (As, CH0101).  
+
+- **Metallit**: Termi *metallinen terveysuhka* viittaa ihmisen terveyteen kohdistuviin riskeihin metallisista aineista. Metallit ovat luonnollisesti esiintyviä alkuaineita, joita esiintyy eri muodoissa ympäristössä, ja vaikka monet metallit ovat elämän kannalta välttämättömiä ja hyödyllisiä, jotkut voivat olla haitallisia tiettyjen muotojen tai pitoisuuksien kohdalla. Metalleihin liittyvät terveysuhat voivat johtua hengityksen, imeytymisen tai ihon kosketuksen kautta, riippuen muun muassa spesifisestä metallin muodosta, kemiallisesta muodosta ja altistuksen kesto- ja intensiteettitasoista. Yleisiä metallien esiintymistapoja ovat: rauta- ja metallimienet, mineraalijäännökset, maaperä ja sedimentit, vesistöt, kasvit, ilmakehä, teolliset tuotteet, jätteet ja kierrätys.  
+
+- **Metaloidit**: Alkuaineet, joilla on sekä metallisia että metallittomia ominaisuuksia.  
+
+- **Sekoitukset**: Metallit voivat yhdistyä muiden alkuaineiden kanssa muodostaen sekoituksia, jotka usein osoittavat parempia ominaisuuksia kuin yksittäiset alkuaineet. Yleisimmät sekoitukset ovat hopea (kupari ja sinkki), pronssi (kupari ja tinna), ruostumaton teräs (rauta, kromi ja nikkeli) ja alumiineisekoitukset.  
+
+- **Metallittomat ionit**: Alkuaineet tai ionit, jotka voivat toimia saasteina maaperässä ja vedessä. Koska ne ovat voimakkaita iontien muodostajia, 13.–16. ryhmän metallittomat alkuaineet (kaudellisesti) muodostavat oxyanioneja.  
+
+- **Halideit**: 17. ryhmän anionit, kuten fluori, klori, bromidi ja jodi, katsotaan lisäksi kasvi­myrkky­ilmakehän saasteiksi ja voivat aiheuttaa vakavia terveysvaikutuksia korkeissa pitoisuuksissa. Korkeat bromidi­pitoisuudet voivat aiheuttaa kuolemanvedon vesieläimille. Lisäksi halideit toimivat scavengerina hydroksyliradikaaleja vastaan kehittyneissä hapettumisprosesseissa, mikä vähentää joidenkin vesikäsittelymenetelmien tehokkuutta.  
+
+- **Bioaktiiviset metallorgaaniset yhdisteet**: Nämä ovat metallorgaanisia yhdisteitä, joiden bioaktiivisuus vaihtelee eri muodossa, kuten metyletyt yhdisteet (esim. metylimerkuri).  
+
+- **Fluori**: Metallittomana saasteena on luonnollinen mineraali, johon yleisö altistuu juomaveden kautta.  
+
+- **Jodidi**: Saastuttaminen aiheuttaa merkittäviä terveysriskejä, kuten kilpirauhasen toimintahäiriöitä ja syöpäriskiä, erityisesti radioaktiivisten jodi‑131‑isotooppien vuoksi.  
+
+### Mittarit ja numeeriset rajat  
+Ohjausehdot ovat monimutkaisia, mutta yhteenvetona seuraavat voivat auttaa:  
+
+| Alkuaine | Rajoitus juomaveteen | Rajoitus maaperään (asuinalue) |
+|---------|----------------------|--------------------------------|
+| Arseni | 10 µg L⁻¹ | 0,39 mg kg⁻¹ |
+| Kadmium | 3–5 µg L⁻¹ | 0,43 mg kg⁻¹ |
+| Lyijy | 10–15 µg L⁻¹ | 400 mg kg⁻¹ |
+| Merkuri | 1–6 µg L⁻¹ | 1,3 mg kg⁻¹ |
+| Kromi (Cr VI) | 50–100 µg L⁻¹ | 0,3 mg kg⁻¹ |
+| Fluori | 1,5 mg L⁻¹ | - |
+| Jodidi | 1 µg m⁻³ (ilma) | - |
+
+| Jodidi – hyväksyttävä yläpito (UL) | 1 100 µg päällikkö‑päivässä |
+|---|---|
+| OSHA‑kysymys | 0,1 ppm |
+| Jodi‑131 | 3 pCi L⁻¹ (MCL) |
+
+### Keskeiset YK:n sopimus- / moni‑sopimusjärjestelyt  
+- **Basel‑sopimus**: Säätelee rajoitettuja transgränaalisia liikkeitä haitallisista jätteistä, mukaan lukien seurantaelementit.  
+- **Rotterdam‑sopimus**: Tieteen perustuva suostumus, joka koskee haitallisia kemikaaleja, mukaan lukien joitakin seurantaelementtejä.  
+- **Stockholm‑sopimus**: Keskittyy pysyviin saasteisiin, mukaan lukien joitakin seurantaelementtejä.  
+- **Minamata‑sopimus**: Erityisesti merkuri.  
+- **CLRTAP**: Ilmaston saasteet, mukaan lukien raskaita metalleja kuten lyijy, kadmium ja merkuri.  
+
+### Tekijät (Drivers)  
+1. **Teollisuuden toiminta** – Kaivostoiminta, rauta- ja metallimienet ja sulatus.  
+2. **Maatalous** – Fosfaattilannoitteet.  
+3. **Kaupungistuminen** – Rakennusmateriaalit, tie­rakennus ja jätteet.  
+4. **Jätteiden käsittely** – Elektroniikkajätteet ja käytetyt akut.  
+5. **Ilmastonmuutos** – Korkeampi lämpötila ja sademäärä.  
+6. **Katoaminen** – Vesistöjen tulvat ja muut katastrofit.  
+
+### Vaikutukset (Impacts)  
+1. **Ympäristön vaikutus** – Merkuriien bioakkumulaatio vesijärjestelmissä.  
+2. **Ihmisen terveys** – Arsenik‑syöpä, kilpirauhaskielet.  
+3. **Maaperän heikkeneminen** – Kadmiitti vaikuttavat maaperän hedelmällisyyteen.  
+4. **Taloudelliset vaikutukset** – Kustannuskorjaus ja maankäytön rajoitukset.  
+
+### Monihälytetyyte‑konteksti  
+Kuvattava diagrammi osoittaa, kuinka raskaita metalleja ja seurantaelementtejä esiintyy yhdessä muiden onnettomuuden riskien kanssa. On tärkeää käyttää tietoa varovaisesti ja älä tee yksinpäätöksiä onnettomuuden riskien hallinnassa.  
+
+### Riskinhallinta  
+1. **Sääntely ja lainsäädäntö** – REACH (EU‑sääntö).  
+2. **Saasteiden ehkäisy** – Teollisuuden parannustoimenpiteet.  
+3. **Ympäristön seuranta** – Maaperä, vesi ja ilma.  
+4. **Korjaus** – Kasviraditus.  
+5. **Julkinen tieto** – Koulutus ja tietoisuuden lisääminen.  
+
+### Seuranta  
+Tässä osiossa ja alla oleva taulukko antaa yleiskuvan raskaille metallille ja seurantaelementeille tehtävästä seurannasta. Seurausta voidaan käyttää ennustamiseen kansallisissa varhaisen varoitusjärjestelmän (EWS) sisällä. EWS‑kyvykkyyksien ja prosessien vaihtelu maittain edellyttää, että varhainen varoitusjärjestelmä tiedottaa siitä, mikä organisaatio vastaa katastrofianhallinnasta.  
+
+**Seuranta‑lähteet**  
+- Vesiviranomaiset  
+- Terveyssäätiöt  
+- Ympäristönvalvojat  
+- Ruoka‑ ja maatalousviranomaiset  
+
+**Kuinka riski havaitaan/seurataan/ennustetaan?**  
+Seurantateknologiat voidaan käyttää raskaita metalleja ja seurantaelementtejä veteen, maaperään ja ilmaan. Analyysiin voidaan käyttää kiinteitä ja kuljetettavia antureita, kuten ionivalintaelementtejä ja spektrofotometreja, jotka tarjoavat tarkkoja ja jatkuvia mittauksia datan analysoimiseksi.  
+
+---  
+
+## References  
+
+Agency for Toxic Substances and Disease Registry (ATSDR), (2020). "Toxicological Profiles." - Provides detailed information on the health effects of various hazardous substances, including trace elements. (Available at ATSDR Profiles) Accessed 20 July 2024.  
+
+Agency for Toxic Substances and Disease Registry (ATSDR), 2003. Agency for Toxic Substances and Disease Registry (ATSDR): "Toxicological Profile for Fluorides, Hydrogen Fluoride, and Fluorine". Provides detailed information on the toxicology of fluoride compounds, their health effects, and safety guidelines. Accessed 20 July 2024.  
+
+Codex Alimentarius Commission. 2014. Report of the Eighth Session of the Codex Committee on Contaminants in Foods. Joint FAO/WHO Food Standards Programme Codex Alimentarius Commission 37th Session Geneva, Switzerland  
+
+Environmental Protection Agency (EPA) 2024. Environmental Protection Agency (EPA): "National Primary Drinking Water Regulations". Sets standards for drinking water contaminants, including fluoride and iodide, under the Safe Drinking Water Act. These regulations ensure the safety of public drinking water supplies in the United States. Accessed 20 July 2024.  
+
+European Chemicals Agency (ECHA) - The ECHA website offers specific classification and labeling information for various substances, including trace elements. (Available at ECHA Website) Accessed 20 July 2024.  
+
+European Union (EU). (2020). "Directive (EU) 2020/2184 of the European Parliament and of the Council of 16 December 2020 on the quality of water intended for human consumption (recast)." Accessed 2 May 2025.  
+
+Food and Agriculture Organization (FAO) and United Nations Environment Programme (UNEP), 2021b. Global Assessment of soil Pollution—Summary for Policy Makers. FAO, Rome, ISBN 978-92-5-134448-4.  
+
+National Research Council, 2006. "Fluoride in Drinking Water: A Scientific Review of EPA's Standards" Washington, DC: The National Academies Press. Discusses the presence of fluoride in drinking water, its sources, health impacts, and mitigation strategies. Accessed 20 July 2024.  
+
+National Center for Biotechnology Information (NCBI), 2020. PubChem Fluoride Compound Summary for CID 19800730. National Center for Biotechnology Information (NCBI). Accessed 20 July 2024.  
+
+Occupational Safety and Health Administration (OSHA) - OSHA's hazard communication provide practical information on hazard classification and labeling. (Available at OSHA Hazard Communication) Accessed 20 July 2024.  
+
+Rodríguez Eugenio, N., McLaughlin, M.J. & Pennock, D. 2018. Soil pollution: a hidden reality. Rome, Italy, Food and Agriculture Organization of the United Nations.  
+
+Toxicological Profile for Iodine, 2004. Offers comprehensive data on the health effects, exposure risks, and safety measures related to iodine and iodide compounds. Accessed 20 July 2024.  
+
+United Nations. (2019). "Globally Harmonized System of Classification and Labeling of Chemicals (GHS), 8th Revised Edition." - This document provides detailed criteria for the classification and labeling of hazardous substances, including trace elements. (Available at UNECE GHS) Accessed 20 July 2024.  
+
+United Nations Environment Program (UNEP): "Global Environment Monitoring System for Freshwater (GEMS/Water)". UNEP’s GEMS/Water program provides data and guidelines on water quality, including the monitoring of fluoride and iodide and other contaminants in freshwater systems. Accessed 20 July 2024.  
+
+United States Environmental Protection Agency (EPA). (2021). "National Primary Drinking Water Regulations." - Establishes legal limits on the levels of certain contaminants in drinking water. EPA Regulations Accessed 20 July 2024.  
+
+United States Environmental Protection Agency (EPA). (2021). "Regional Screening Levels (RSLs) for Chemical Contaminants at Superfund Sites." - Offers risk‑based concentrations for contaminants in soil and other media. EPA RSLs Accessed 20 July 2024.  
+
+World Health Organization (WHO). (2017). "Guidelines for Drinking-water Quality, 4th Edition." - Provides recommended limits for various contaminants in drinking water, including trace elements. WHO Guidelines Accessed 20 July 2024.  
+
+WHO, no date. Inadequate or excess fluoride. World Health Organization (WHO). Accessed 20 July 2024.  
+
+Cite this [Copy citation]  
+
+---  
+
+**Note**: The entire *References* block remains in English as per the critical rule.```

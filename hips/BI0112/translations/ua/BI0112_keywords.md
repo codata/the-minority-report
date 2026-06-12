@@ -1,0 +1,1 @@
+Cysticercosis in humans and pigs,larval stages of Taenia solium,neurocysticercosis,epilepsy and cysticercosis association,faecal oral route transmission,ingestion of tapeworm eggs,larvae encystment in central nervous system,Taeniasis in humans,cysticercosis in pigs,control and management of cysticercosis,TSOL18 vaccination and oxfendazole treatment

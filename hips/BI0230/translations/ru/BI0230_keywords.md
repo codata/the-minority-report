@@ -1,0 +1,1 @@
+progressive neurodegenerative disorders, Transmissible Spongiform Encephalopathies, prion protein, PrPsc, Bovine Spongiform Encephalopathies, Creutzfeldt-Jakob disease, variant Creutzfeldt-Jakob disease, Chronic Wasting Disease, Scrapie, kuru, variably protease-sensitive prionopathy, iatrogenic spread

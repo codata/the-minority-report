@@ -1,0 +1,1 @@
+electromagnetic radiation, coronal mass ejections, magnetic fields, solar spot groups, X-ray brightness, Extreme UV radiation, ionosphere disturbances, HF radio blackout, Solar Radio Burst, GNSS signal interference, D and lower E regions

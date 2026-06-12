@@ -1,77 +1,137 @@
-> ### 定义  
-> 传播媒介病是指由活体生物（传播媒介）传播病原体而产生的多种疾病。这些传染病可通过传播媒介在人类之间（如疟疾、登革热）、动物之间（如非洲猪瘟、东海岸热）或从动物传给人类（如尼帕病毒病）传播。大多数传播媒介是吸血昆虫，蚊子是最知名的传播媒介。其他传播媒介包括蜱、蚊、沙蚊、跳蚤、三角蝽以及部分淡水水蛭（参见 WOAH 2024a；WHO 2024）。
+```markdown
+# Definition
+Vectoroverdraagbare ziekten omvatten een verscheidenheid aan ziekten die worden veroorzaakt door de verspreiding van pathogenen door levende organismen die bekend staan als vectoren. Deze infectieziekten kunnen via vectoren tussen mensen (bijv. malaria, dengue), tussen dieren (bijv. Afrikaanse varkenskoorts, Oostkustkoorts) of van dieren naar mensen (bijv. Nipah-virusziekte) worden overgedragen. Veel van deze vectoren zijn bloedzuigende insecten, en muggen zijn de bekendste ziektevectoren. Andere vectoren zijn onder meer teken, vliegen, zandvliegen, vlooien, triatomine bugs en sommige soorten zoetwater aquatische slakken (aanp. van WOAH, 2024a; WHO, 2024).
 
-> ### 主要参考  
-> * WHO, 2024. 传播媒介病. 世界卫生组织. 访问 2025‑01‑01。  
-> * WOAH, 2024a. 《陆生动物诊断检验与疫苗手册》第13版. 世界动物卫生组织. 访问 2025‑01‑01。
+## Primary reference(s)
+WHO, 2024. *Vector-borne Diseases*. World Health Organisation (WHO). Accessed 1 January 2025.  
+WOAH. 2024a. *Manual of Diagnostic Tests and Vaccines for Terrestrial Animals*, 13th edition. World Organisation for Animal Health (WOAH). Accessed 1 January 2025.
 
-> ### 注释  
-> **传播媒介** 是能在宿主之间传播传染病原体的活体生物。大多数传播媒介是吸血昆虫，它们在吸血时摄入病原体，然后在之后的吸血过程中将其转移到新的宿主。  
-> **人畜共患病** 指人类与动物共同发生的疾病。
+## Annotations
+### Additional scientific description
+Vectoren zijn levende organismen die infectieuze pathogenen tussen mensen of van dieren naar mensen kunnen overdragen. Veel van deze vectoren zijn bloedzuigende insecten, die ziekteproducerende micro-organismen opnemen tijdens een bloedmaaltijd van een geïnfecteerde gastheer (mens of dier) en later overdragen aan een nieuwe gastheer, nadat het pathogeen heeft gerepliceerd. Vaak, zodra een vector geïnfecteerd is, kan deze het pathogeen voor de rest van zijn leven overdragen bij elke volgende beet/bloedmaaltijd (WHO, 2020).  
+VBDs opgenomen in de HIPs: Plague (BI0228), Chikungunya (BI0203), Zika Virus (BI0242), Yellow Fever (BI0241), Dengue (BI0207), Malaria (BI0219), Crimean‑Congo Haemorrhagic Fever (BI0206), African Swine Fever (BI0301), Lumpy Skin Disease (BI0307), Q Fever (BI0231), Rift Valley Fever (BI0311), Trypanosomiasis (BI0238), West Nile Fever (BI0240), Yellow Fever (BI0241), Zika (BI0242).  
+Human vector‑borne diseases are illnesses caused by parasites, viruses, and bacteria that are transmitted by vectors. Every year there are more than 700 000 deaths from diseases such as malaria, dengue, schistosomiasis, human African trypanosomiasis, leishmaniasis, Chagas disease, yellow fever, Japanese encephalitis and onchocerciasis. The burden of these diseases is highest in tropical and subtropical areas, and they disproportionately affect the poorest populations. Since 2014, major outbreaks of dengue, malaria, yellow fever and Zika have afflicted populations, claimed lives, and overwhelmed health systems in many countries. Other diseases such as chikungunya, leishmaniasis and lymphatic filariasis cause chronic suffering, lifelong morbidity, disability and occasional stigmatization (WHO, 2024).  
+Many of the vectors are blood‑sucking insects which ingest disease‑producing microorganisms during a blood meal from an infected host (human or animal) and later transmit it to a new host after the pathogen has replicated. Often, once a vector becomes infectious, it can transmit the pathogen for the rest of its life during each subsequent bite/blood meal (WHO, 2024).  
+Vector‑borne diseases account for more than 17 % of all infectious diseases, causing more than 700 000 deaths annually. They may be caused by parasites, bacteria or viruses (WHO, 2020).  
 
-> ### 传播媒介病的具体实例  
-> | 传播媒介 | 疾病 | 病原体 | 主要宿主 | 备注 |
-> |---|---|---|---|---|
-> | 蚊子 (埃及伊蚊) | 疟疾 | 寄生虫 (疟原虫) | 人类 | 2190 万病例/年 |
-> | 蚊子 (伊蚊) | 登革热 | 病毒 | 人类 | 9600 万病例/年 |
-> | 蚊子 (伊蚊) | 细支气管炎 | 病毒 | 人类 |  |
+Examples of vector‑borne diseases include:  
+- **Malaria** is a parasitic infection transmitted by *Anopheles* mosquitoes. It causes an estimated 219 million cases globally and results in more than 400 000 deaths every year, most of which occur in children under five (WHO, 2020).  
+- **Dengue** is the most prevalent viral infection transmitted by *Aedes* mosquitoes. More than 3.9 billion people in over 129 countries are at risk, with an estimated 96 million symptomatic cases and 40 000 deaths annually (WHO, 2020).  
+- Other viral diseases transmitted by vectors include chikungunya fever, Zika virus fever, yellow fever, West Nile fever, Japanese encephalitis (all transmitted by mosquitoes), and tick‑borne encephalitis (transmitted by ticks) (WHO, 2020).  
+- Other vector‑borne diseases such as Chagas disease (transmitted by triatomine bugs), leishmaniasis (sandflies) and schistosomiasis (snails) affect hundreds of millions of people worldwide (WHO, 2020).
 
-> （表格内容可按原文完整列出，保持“表格”标题统一。）
+| Vector           | Disease                                                                                 | Cause                                | Type of pathogen                |
+|------------------|------------------------------------------------------------------------------------------|--------------------------------------|---------------------------------|
+| Mosquito         | Aedes: Chikungunya, Dengue, Lymphatic filariasis, Rift Valley fever, Yellow Fever, Zika | Virus, Virus, Parasite, Virus, Virus, Virus | Virus, Virus, Parasite, Virus, Virus, Virus |
+| Anopheles        | Lymphatic filariasis, Malaria                                                           | Parasite, Parasite                   | Parasite, Parasite              |
+| Culex            | Japanese encephalitis, Lymphatic filariasis, West Nile fever                             | Virus, Parasite, Virus                | Virus, Parasite, Virus          |
+| Aquatic snails   | Schistosomiasis                                                                         | Parasite                              | Parasite                        |
+| Blackflies       | Onchocerciasis                                                                          | Parasite                              | Parasite                        |
+| Fleas            | Plague (transmitted from rats to humans), Tungiasis                                   | Bacteria, Ectoparasite                | Bacteria, Ectoparasite          |
+| Lice             | Typhus, Louse‑borne relapsing fever                                                      | Bacteria                              | Bacteria                        |
+| Sandflies        | Leishmaniasis, Sandfly fever (phlebotomus fever)                                       | Bacteria, Virus                       | Bacteria, Virus                 |
+| Ticks            | Crimean‑Congo haemorrhagic fever, Lyme disease, Relapsing fever (borreliosis), Rickettsial diseases (e.g. spotted fever and Q fever), Tick‑borne encephalitis, Tularemia | Virus, Bacteria, Bacteria, Bacteria, Bacteria, Bacteria | Virus, Bacteria, Bacteria, Bacteria, Bacteria, Bacteria |
+| Triatomine bugs  | Chagas disease (American trypanosomiasis)                                               | Parasite                              | Parasite                        |
+| Tsetse flies     | Sleeping sickness (African trypanosomiasis)                                            | Parasite                              | Parasite                        |
 
-> ### 传播媒介病对人类健康的影响  
-> 每年因疟疾、登革热、血吸虫病、非洲人类锥虫病、利什曼病、恰格斯病、黄热病、日本脑炎和河盲热等疾病导致超过 70 万人死亡。  
-> 这些疾病的主要负担集中在热带和亚热带地区，且对贫困人群影响尤为严重。自 2014 年起，疟疾、黄热病、登革热和寨卡病毒的重大爆发导致死亡人数上升，严重冲击多国卫生系统。
+**Animal vector‑borne animal diseases include**  
+- Crimean‑Congo Haemorrhagic Fever (BI0206)  
+- African Swine Fever (BI0302)  
+- Lumpy Skin Disease (BI0307)  
+- New World Screwworm (NWS) (BI0309)  
+- Rift Valley Fever (BI0311)  
+- West Nile Fever (BI0240)  
+- Trypanosomiasis / African Trypanosomosis (BI0238)
 
-> ### 指标与数值限制  
-> * 传播媒介病占所有传染病的 17% 以上。  
-> * 传染病导致每年超过 70 万人死亡。  
-> * 病原体可为寄生虫、细菌或病毒。
+Many VBDs in animals are preventable through control measures, including vaccination. Most countries maintain a list of approved veterinary vaccines for use. For specific regulations, consult the country’s veterinary authorities (FAO, 2021).
 
-> ### 关键相关国际公约/多边条约  
-> * 《2005 年国际卫生条例》（第三版，WHO 2016）  
-> * WTO《卫生检疫与植物检疫措施协议》（SPS 协议，1994）  
-> * WTO 与世界动物卫生组织（OIE）合作框架（1998）  
-> * UNECE《危险货物运输模型法规》  
-> * 《全球传播媒介控制响应 2017–2030》（GVCR，WHO 2017）  
-> * 《陆生动物健康法典》第 32 版（WOAH 2024b）
+### Metrics and numeric limits
+Vector‑borne diseases account for more than 17 % of all infectious diseases, causing more than 700 000 deaths annually. They can be caused by either parasites, bacteria or viruses (WHO, 2024).
 
-> ### 驱动因素  
-> **人类因素**：气候变化、集约化农业、水坝、灌溉、森林砍伐、人口迁移、快速城镇化、国际旅行与贸易增长。  
-> **动物因素**：畜牧业扩张、动物密度增加、野生动物与家畜接触增加。  
+### Key relevant UN convention / multilateral treaty
+- International Health Regulations (2005), 3rd ed. (WHO, 2016).  
+- WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement) (1994) (WTO, 1994).  
+- WTO and the World Organization for Animal Health (OIE) (WTO, 1998).  
+- UN Recommendations on the Transport of Dangerous Goods – UN Model Regulations: Nature, Purpose and Significance of the Recommendations (UNECE, no date). Available from: https://unece.org/transport/dangerous-goods/un-model-regulations-rev-23 (Accessed 1 January 2025).  
+- The Global Vector Control Response 2017–2030 (GVCR) provides a new strategy to strengthen vector control worldwide through increased capacity, improved surveillance, better coordination and integrated action across sectors and diseases.  
+- Terrestrial Animal Health Code, 32nd edition. World Organisation for Animal Health (WOAH) (WOAH, 2024b).  
+- In May 2017, the World Health Assembly adopted resolution WHA 70.16, which calls on Member States to develop or adapt national vector control strategies and operational plans to align with this strategy (WHO, 2017).
 
-> ### 影响  
-> **人类**：高死亡率、慢性疾病、残疾、社会污名。  
-> **动物**：高热、流产、死亡、贸易限制。  
+### Drivers
+#### Human
+Previously relatively stable geographical distributions are now changing owing to a range of factors, including climate change, intensive farming, dams, irrigation, deforestation, population movements, rapid unplanned urbanisation, and phenomenal increases in international travel and trade (WHO, 2014).  
+The distribution of vector‑borne diseases in humans is determined by a complex set of demographic, environmental, and social factors. Global travel and trade, unplanned urbanisation, climate change, and silent spread and adaptation of the vectors have all contributed to the spread of vector‑borne diseases.  
+Climate change substantially affects pathogens (parasites, viruses and bacteria), vectors, and reservoir hosts, with implications for the transmission of many vector‑borne diseases. Several vectors have expanded their latitude and altitude ranges, and the length of the season during which they are active is increasing. These trends are expected to continue as the climate continues to get warmer (WHO, 2024).  
+Climate‑driven fluctuations in environmental conditions, such as drought, flood, rainfall, wind and unpredictable weather, have a direct influence on the disease burden from bacteria, parasites and their vectors. Work is being carried out to improve prevention, preparedness, early detection and early response to animal health threats and emergencies that could be triggered by climate change (FAO, 2020).  
 
-> ### 多灾害情境  
-> 传播媒介病可与气候灾害（如洪水、干旱）、生态系统破坏和社会动荡交叉影响，需在灾害风险管理中综合考虑。  
+#### Animal
+Vector‑borne diseases infect mosquitoes (OIE, 2015a).
 
-> ### 风险管理  
-> * **预防**：疫苗接种、媒介控制、公共卫生教育、改善水卫生与排水。  
-> * **监测**：建立国家早期预警系统（EWS），整合 WHO EWARS。  
-> * **响应**：快速病例报告、媒介监测、社区动员。  
-> * **能力建设**：技术培训、基础设施提升、跨部门协作。  
+### Impacts
+#### Human
+Vector‑borne diseases can be transmitted to humans through consumption of unheated dairy products (e.g., raw milk), leading to trade implications. These may involve substantial economic losses, including loss of income and manpower, medical care costs, and loss of food due to inadequate processing or spoilage.  
 
-> ### 监测与预警  
-> WHO 支持各国开展全灾害风险评估，制定国家风险概况，并整合季节性风险日历。EWS 通过监测疾病传播媒介、病原体传播路径，实现预警与快速响应。  
+#### Animal
+High fever, abortion, and depending on the pathogen, death of infected animals and humans, spread of infection, and trade/travel bans (OIE, 2015b).
 
-> ### 参考文献（中文译名）  
-> 1. Campbell‑Lendrum, D. 等, 2015. 气候变化与传播媒介病：对公共卫生研究与政策的影响. 《英国皇家学会哲学交易》, 370, 20130552.  
-> 2. FAO, 2020. 动物健康与气候变化. 联合国粮农组织.  
-> 3. FAO, 2021. 兽用疫苗：原则与应用. 约翰·威利与约翰·威利与约翰·威利与约翰。  
-> 4. OIE, 2015a. 主要传播媒介病的新进展. 第 I 部分：概览. 兽医技术与科学评论, 34(1).  
-> 5. OIE, 2015b. 主要传播媒介病的新进展. 第 II 部分：兽医关注疾病. 兽医技术与科学评论, 34(2).  
-> 6. UNECE. 危险货物运输模型法规. 联合国欧洲经济委员会.  
-> 7. WHO, 2014. 全球传播媒介病概况. 世界卫生组织.  
-> 8. WHO, 2016. 《国际卫生条例（2005）》. 世界卫生组织.  
-> 9. WHO, 2017. 《全球传播媒介控制响应 2017‑2030》. 世界卫生组织.  
-> 10. WHO, 2020. 传播媒介病. 世界卫生组织.  
-> 11. WHO, 2021. 风险评估工具包（STAR）. 世界卫生组织.  
-> 12. WHO, 2023. 早期预警、预警与响应系统（EWARS）. 世界卫生组织.  
-> 13. WHO, 2024. 传播媒介病. 世界卫生组织.  
-> 14. WOAH, 2024a. 《陆生动物诊断检验与疫苗手册》第13版. 世界动物卫生组织.  
-> 15. WOAH, 2024b. 《陆生动物健康法典》第32版. 世界动物卫生组织.  
-> 16. WTO, 1994. 《卫生检疫与植物检疫措施协议（SPS 协议）》. 世界贸易组织.  
-> 17. WTO, 1998. 《WTO 与世界动物卫生组织（OIE）合作框架》. 世界贸易组织.  
+### Multi‑hazard context
+The figure below summarises common interactions between vector‑borne diseases and other hazards. This information should be used with caution and should not be relied upon solely in Disaster Risk Management, particularly as some interactions may not have been included. Note that hazardous events occurring together or locally in space or time may not necessarily cause, amplify, or otherwise be related to each other. Specific examples of multi‑hazard context can be found in the ‘Hazard drivers’ and ‘Impacts’ sections above.
 
-> （以上列出主要文献，完整列表请参阅原始资料。）
+#### Multi‑hazard diagram
+*(Diagram placeholder – keep original figure in the final document)*
+
+### Risk Management
+#### Human
+Many vector‑borne diseases are preventable through protective measures and community mobilisation (WHO, 2020). The World Health Organization (WHO) has taken forward the Global Vector Control Response (GVCR) 2017–2030 (WHO, 2017) which was approved by the World Health Assembly in 2017. It provides strategic guidance to countries and development partners for the urgent strengthening of vector control as a fundamental approach to preventing disease and responding to outbreaks. To achieve this a realignment of vector control programmes is required, supported by increased technical capacity, improved infrastructure, strengthened monitoring and surveillance systems, and greater community mobilisation. Ultimately, this will support the implementation of a comprehensive approach to vector control that will enable the achievement of disease‑specific national and global goals and contribute to the achievement of the Sustainable Development Goals (UN, 2015) and Universal Health Coverage (WHO, 2020).  
+
+Specifically, WHO responds to vector‑borne diseases by:  
+- providing evidence‑based guidance for controlling vectors and protecting people against infection;  
+- providing technical support to countries so that they can effectively manage cases and outbreaks;  
+- supporting countries to improve their reporting systems and capture the true burden of the disease;  
+- providing training (capacity building) on clinical management, diagnosis and vector control with support from some of its collaborating centres;  
+- and supporting the development and evaluation of new tools, technologies and approaches for vector‑borne diseases, including vector control and disease‑management technologies (WHO, 2020).  
+
+A crucial element in reducing the burden of vector‑borne diseases is behavioural change. WHO works with partners to provide education and improve public awareness, so that people know how to protect themselves and their communities from mosquitoes, ticks, bugs, flies and other vectors (WHO, 2020). Access to water and sanitation is a very important factor in disease control and elimination. WHO works together with many different government sectors to improve water storage and sanitation, thereby helping to control these diseases at the community level (WHO, 2020). Rapid progress has been made in recent years in developing policy mandates, operational frameworks and pilot initiatives on health adaptation to climate change, including vector‑borne disease as a particular priority. These present an excellent opportunity for a stronger and more coherent connection between applied research and public health policy (Campbell‑Lendrum et al., 2015).  
+
+Applied research is nevertheless essential to ensure continued progress in reducing the burden of vector‑borne diseases in the face of the additional challenges caused by anthropogenic climate change, along with rapid changes in other environmental and social determinants. To increase relevance to current health programming, there is a need to complement current work on the detection and attribution of health effects to climate change and the modelling of future scenarios, with a more directly applied approach to assessing and managing climate‑related risks in the present (Campbell‑Lendrum et al., 2015).  
+
+Progress has been made in recent years in developing policies, operational frameworks and pilot initiatives on animal health‑based adaptation to climate change, with vector‑borne diseases as a priority. These represent excellent opportunities for stronger and more coherent linkages between applied research and public health policy (Campbell‑Lendrum et al., 2015).  
+
+#### Animal
+Vaccination programme, movement control, improve biosecurity (OIE, 2015b). Climate‑driven fluctuations in environmental conditions, such as drought, flood, rainfall, wind and unpredictable weather, have a direct influence on the disease burden from bacteria, parasites and their vectors. Work is being carried out to improve prevention, preparedness, early detection and early response to animal health threats and emergencies that could be triggered by climate change (FAO, 2020).  
+
+Progress has been made in recent years in developing policies, operational frameworks and pilot initiatives on animal health‑based adaptation to climate change, with vector‑borne diseases as a priority. These represent excellent opportunities for stronger and more coherent linkages between applied research and public health policy (Campbell‑Lendrum et al., 2015).  
+
+### Monitoring
+The section and the table below offer an overview of monitoring for vector‑borne diseases. This information can be used for forecasting within a national early warning system (EWS). Since EWS capacities and processes differ across countries, the most current and specific information regarding EWS should be obtained from the appropriate national or regional agency/authority responsible for disaster management.  
+
+WHO supports countries to conduct all‑hazards strategic risk assessments in the contexts of health emergencies and disasters, which results in the development of a country risk profile. Empowered with the country risk profile, inclusive of a seasonal risk calendar, countries can anticipate potential emergencies before they occur, trigger early alerts and inform early actions (WHO, 2021).  
+
+WHO’s Early Warning, Alert and Response System (EWARS) has been designed to improve disease outbreak detection in emergency settings, such as in countries in conflict or following a natural disaster. It is a simple and cost‑effective way to rapidly set up a disease surveillance system. EWARS is deployed during an emergency as an adjunct to the national disease surveillance system. WHO works with Ministries of Health and health sector partners to train local health workers to use the system. After the emergency, EWARS should reintegrate into the national system (WHO, 2023).  
+
+**Which institution(s) produce(s) Disaster Risk Data/Information?**  
+WHO, Ministry of Health, FAO Reference Centres, WOAH Reference Centres  
+
+**How is the Hazard Observed/Monitored/Forecast?**  
+WHO, Ministry of Health, FAO empres‑i+ https://empres‑i.apps.fao.org/diseases  
+WOAH WAHIS https://wahis.woah.org/#/event-management  
+
+## References
+> Campbell‑Lendrum, D., L. Manga, M. Bagayoko and J. Sommerfeld, 2015. *Climate change and vector‑borne diseases: what are the implications for public health research and policy?* Philosophical Transactions of the Royal Society B, 370:20130552. doi:10.1098/rstb.2013.0552. Accessed 1 January 2025  
+> FAO, 2020. *Animal Health and Climate Change*. Food and Agriculture Organization of the United Nations (FAO). Accessed 1 January 2025.  
+> FAO, 2021. *Veterinary vaccines: principles and applications*. Eds: Metwally, S. Viljoen, G. & El Idrissi, A. Chichester, John Wiley & Sons Limited and FAO. Accessed 1 January 2025.  
+> OIE, 2015a. *New Developments in Major Vector‑borne Diseases. Part I: An overview*. Scientific and Technical Review, 34(1). World Organisation for Animal Health (OIE). DOI: 10.20506/rst.issue.34.1.58. Accessed 1 January 2025.  
+> OIE, 2015b. *New Developments in Major Vector‑borne Diseases. Part II: Important diseases for veterinarians*. Scientific and Technical Review, Vol. 34(2). World Organisation for Animal Health (OIE). DOI: 10.20506/rst.issue.34.2.59. Accessed 1 January 2025.  
+> UNECE, no date. *UN Recommendations on the Transport of Dangerous Goods – UN Model Regulations: Nature, Purpose and Significance of the Recommendations*. United Nations Economic Commission for Europe (UNECE). Accessed 14 November 2024.  
+> WHO, 2014. *A Global Brief on Vector‑borne Diseases*. World Health Organization (WHO). Accessed 1 January 2025.  
+> WHO, 2016. *International Health Regulations (2005), 3rd ed.* World Health Organization (WHO). Accessed 1 January 2025.  
+> WHO, 2017. *Global vector control response 2017‑2030*. World Health Organisation (WHO). Accessed 1 January 2025.  
+> WHO, 2020. *Vector‑borne diseases*. Accessed 1 January 2025.  
+> WHO, 2021. *Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all‑hazards health emergency risk assessment*. World Health Organization (WHO). Accessed 24 May 2025.  
+> WHO, 2023. *Early Warning, Alert and Response System (EWARS)*. World Health Organization (WHO). Accessed 1 November 2024.  
+> WHO, 2024. *Vector‑borne diseases*. Accessed 24 May 2025.  
+> WOAH. 2024a. *Manual of Diagnostic Tests and Vaccines for Terrestrial Animals*, 13th edition. World Organisation for Animal Health (WOAH). Accessed 1 January 2025.  
+> WOAH. 2024b. *Terrestrial Animal Health Code*, 32nd edition. World Organisation for Animal Health (WOAH). Accessed 1 January 2025.  
+> WTO, 1994. *The WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement)*. World Trade Organization (WTO). Accessed 1 January 2025.  
+> WTO, 1998. *The WTO and the World Organization for Animal Health (OIE)* (G/SPS/GEN/775). World Trade Organization (WTO). Accessed 1 January 2025.  
+```

@@ -1,49 +1,90 @@
 ### Definīcija
-Radio un citas telekomunikācijas neizdevumi notiek, ja ir iekšējais vai ārējais pārtraukums komunikācijā no jebkuras pusē, kas noved pie grūtībām nodot ziņojumu tādā veidā, kā tas tika paredzēts (pārrakstīts no Dainty et al., 2007).
 
-### Primārie atsauces
-Dainty, A., D. Moore and M. Murray, 2007. *Communication in Construction: Theory and Practice*. Routledge. Piekļūta 19. maijā 2025.
+Radio un citas telekomunikācijas traucējumi notiek, kad viena vai abas puses tiek pārtraukta komunikācija, kas noved pie grūtībām nodot ziņojumu tā, kā tas bija paredzēts (pielāgots no Dainty et al., 2007).
+
+### Primārās atsauces
+
+Dainty, A., D. Moore and M. Murray, 2007. *Communication in Construction: Theory and Practice*. Routledge. Accessed 19 May 2025
 
 ### Piezīmes
-Radio un telekomunikācijas tehnoloģijas ir integrētas ikdienas dzīvē un ir ievērojami progresējušas pēdējos desmitgads. Komunikācijas kanāli, piemēram, radio, mobilie tīkli un satelītu tīkls, cenšas pārraidīt vai nodot informāciju un brīdinājumus populācijām. Katastrofu reaģēšanas notikumā jebkura komunikācijas sistēmas mērķis ir maksimāli palielināt cilvēku skaitu, kas reaģē uz brīdinājumiem un veic atbilstošus un savlaicīgus pasākumus, lai aizsargātu īpašumu un nodrošinātu dzīvības drošību (Khaled & Mcheick, 2019; ITU, 2019). Efektīvi un efektīvi komunikācijas savienojumi ir kritiski pirms, laikā un pēc katastrofu notikuma, īpaši starp ārkārtas personālu, lai palīdzētu ar katastrofu reaģēšanu un atkopšanu. Tomēr telekomunikācijas sistēmu neizdevumi, vai nu pilnīgā vai daļējas, piemēram, radio vai satelītu sistēmas, ir izraisījuši neefektivitāti un aizkavējumus ārkārtas atbalsta centienos un reaģēšanā, kas savukārt noved pie dzīvības zaudējumiem un novēršamiem traumu. Telekomunikācijas sistēmu neizdevumu var izraisīt katastrofā dzīves un ekonomisko aktivitāšu katastrofā, jo cilvēki neapmierina savas komunikācijas prasības laicīgi un ar labu pakalpojuma kvalitāti (Khaled & Mcheick, 2019).
 
-#### Radio un telekomunikāciju neizdevumu piemērs
-2004. gada Indijas okeāna zemestrīces un tsunamija: Magnitūda 9,0 zemestrīce triecās uz Īsma pārklājuma West koka, Indonēzijas, radot tsunamijas viļņus ar maksimālo augstumu 2–30 m, kas pārplūde daudzu apkārtējo valstu piekrastes reģionus. Lai gan šis notikums bija pirmā globālā dabas katastrofa, kurā praktizētāji un sabiedrība medijēja savu pieredzi caur interneta, telekomunikācijas tehnoloģijas ne tika izmantotas pilnībā laikā pēc neizdevuma, kas izraisīja zemāku humanitāru atbalstu piegādi. Galvenie iemesli telekomunikāciju neizdevumam bija tehnoloģiju infrastruktūras iznīcināšana, akumulēts smagais smagums un plaša plūdi, kas ietekmēja elektroenerģijas sistēmas un BTA aprīkojumu saturējošās bāzes pārraides stacijas. Turklāt ir bijuši citi telekomunikāciju ierobežojumi, piemēram, ierobežots tīkla pārklājums, trūkst brīdināšanas sistēmas un izpirkšanas aprīkojuma trūkums (Khaled & Mcheick, 2019).
+#### Papildu zinātniskā apraksts
 
-### Galvenie iemesli telekomunikāciju neizdevumiem
-1. Komponentu bojājumi vai iznīcināšana  
-2. Tīkla infrastruktūras bojājumi vai traucējumi  
-3. Pārmērīga slodze  
+Radio un komunikācijas tehnoloģija ir integrēta ikdienas dzīvē un ir ievērojami uzlabojusies pēdējos desmitgadu. Komunikācijas kanāli, piemēram, radio, mobilie tīkli un satelīti, cenšas izvietot vai nodot informāciju un brīdinājumus tautībām. Katras katastrofa reakcijas notikumā galvenais komunikācijas sistēmu traucējumu mērķis ir maksimizēt cilvēku skaitu, kas reaģē uz informāciju, un īstenot atbilstošus un savlaicīgus pasākumus, lai aizsargātu īpašumu un nodrošinātu dzīvības drošību (Khaled & Mcheick, 2019; ITU, 2019). Efektīvi savienojumi ir kritiski pirms, laikā un pēc katastrofas, īpaši starp ārkārtas personālu, lai palīdzētu katastrofu reakcijā un atkopšanā. Tomēr komunikācijas sistēmu traucējumi, vai nu pilnīgi, vai daļēji, piemēram, radio vai satelītu sistēmas, ir izraisījuši neefektivitāti un aizkavējumus ārkārtas palīdzības centienos, kas savukārt noved pie dzīves zaudējumiem un novēršamiem traumu gadījumiem. Komunikācijas sistēmu traucējumi var izraisīt katastrofisku cilvēku dzīvību un ekonomisko aktivitāšu zaudēšanu, jo cilvēki nespēj savlaicīgi un ar labu pakalpojuma kvalitāti komunicēt (Khaled & Mcheick, 2019).
 
-Komponentu bojājumu vai iznīcināšanas gadījumā ir visbiežākā un vispiemērotākā telekomunikācijas neizdevumu pamatā, jo fiziskie bojājumi pieprasīt laiku un finansējumu remontam un jaunināšanai, kas bieži vien prasa komplekss aparatūras uzlabojumu, īpaši kritiskie komponenti, piemēram, mobilie tūrisi vai kabeles. Telekomunikācijas sistēmas iztremtība ir saistīta ar maz redundances pakāpi (Townsend & Moss, 2005).  
+#### Izlabošanas piemērs
 
-Komunikācijas avārijas, ko izraisa bojājumi vai traucējumi infrastruktūras, parasti ir plašākas un kaitējošākas, kas novērš pārveidošanas un atkopšanas centienus. Daži komunikācijas sistēmas ir atkarīgas no citām vietējām un reģionālām tehniskajām sistēmām, lai nodrošinātu efektīvu darbību. Atbalsta infrastruktūra parasti trūkst izturības fiziskā bojājumam (Townsend & Moss, 2005).  
+Mūsdienās radio un komunikācijas traucējumu piemērs tika parādīts ar 2004. gada Indijas okeāna zemestrakšanas un tsunamija gadījumu: 9,0 jaudas zemestrakšana notika Šumatra rietumu krastā, Indonēzijā, radot tsunamijas viļņus ar maksimālo augstumu no 2 līdz 30 m, kas pārpludināja piekrastes reģionus daudzās apkārtējās valstīs. Lai gan šis notikums bija pirmais globālais dabas katastrofu gadījums, kurā praksi un publika dalījās savā pieredzē caur internetu, komunikācijas tehnoloģija netika izmantota līdzīgā apjomā tiešsaistē, kas radīja zemāku humanitāro palīdzību piegādi. Galvenie komunikācijas traucējumu iemesli bija tehnoloģiskās infrastruktūras iznīcināšana, debesu apjoms un plašs pūķēšana, kas ietekmēja elektroenerģijas sistēmas un bāzes pārraides stacijas (BTS) aprīkojumu. Pastāv arī citi telekomunikāciju ierobežojumi, piemēram, ierobežota tīkla pārklājuma platība, trūkums agrīnu brīdinājumu sistēmām un glābšanas aprīkojumam (Khaled & Mcheick, 2019).
 
-Pārmērīgā slodze ir cita būtiska komunikācijas neizdevuma veids, kas notiek, ja tīkla slodze ir pārpildīta vai pārmērīga, kas noved pie zudumu un ziņojuma neizpildīšanas. Katastrofu laikā ir viens no intensīvākajiem komunikācijas satur, un pieprasītais pieprasījums var pārpildīt pat vislabāk pārvaldītos tīklus. Tomēr komunikācijas var atjaunot salīdzinoši ātri (Khaled & Mcheick, 2019).  
+### Galvenie iemesli komunikācijas sistēmu traucējumiem
 
-Mācības no iepriekšējām katastrofu notikumiem noslēdz, ka radio un satelītu balstītas komunikācijas bija visefektīvākās, kamēr tradicionālās komunikācijas, piemēram, bezvadu tālruņi un zemežādas līnijas, bija vai nu bojātas vai pārmērīgi pārņemtas daudzās katastrofās, kas kavēja efektīvu un savlaicīgu informācijas nodošanu (Khaled & Mcheick, 2019).
+- **Sistēmas komponentu bojājums un/vai iznīcināšana**  
+- **Sociālās tīkla infrastruktūras bojājums un/vai traucējums**  
+- **Traucējumi, ko izraisa satricinājums**  
 
-### Metriķi un skaitliskie ierobežojumi
-ITU pašlaik izstrādā globālus vadlīniju standarta datus, lai valstis izstrādātu Nacionālos ārkārtas telekomunikāciju plānus (NETS), ko izmantot laicīgi brīdināšanai un ārkārtas laika.  
+#### Komunikācijas sistēmu komponentu bojājumu iemeslu uzskats
 
-### Svarīgas Eiropas kopējās konvencijas / daudzpusējas līgums
-Ilgtspējīgas attīstības mērķi (UNDESA, 2021).  
-Tampere konvencija par telekomunikāciju resursu nodrošināšanu katastrofu mazināšanai un atbalsta operācijām tika izveidota 2005. gadā. Šis starptautiskā līgums ļauj valstīm iztukšot regulatīvos jautājumus, lai nekavējoties nodrošinātu ārkārtas telekomunikāciju, kad notiek katastrofa (United Nations Treaty Collection, 1998).
+Bojājums vai iznīcināšana ir visbiežāk zīmētais un labi dokumentētais katastrofu komunikācijas traucējumu iemesls. Lai atgūtu vai nomainītu sistēmu, nepieciešams laiks un finansējums, kas var padarīt fizisko bojājumu smagāku un ilgstošāku, prasa uzturēšanu vai komplekšu aprīkojumam, īpaši būtiskajiem komponentiem, piemēram, mobilajam tornim vai kabelēm. Komunikācijas sistēmu jutība ir saistīta ar trūkumu augstas redundances (Townsend & Moss, 2005).
 
-### Faktori
-Dabas katastrofas var iznīcināt telekomunikāciju infrastruktūru un izraisīt būtiskus tīkla traucējumus. Elektroenerģija ir būtiska šiem ārkārtas komunikāciju sistēmas darbībai, un elektroenerģijas pārtraukšana tieši ir saistīta ar šo bīstamību (Townsend & Moss, 2005; Chang et al., 2007).
+#### Tīkla infrastruktūras traucējumu iemeslu ietekme
+
+Komunikācijas traucējumi, kas saistīti ar fiziskajiem bojājumiem vai traucējumiem sociālās tīkla infrastruktūrā, parasti ir plašāki un bojātāki, īpaši atkopšanas un atgūšanas uzdevumos. Dažas komunikācijas sistēmas atkarīgas no daudzām vietējām un reģionālām tehniskajām sistēmām, lai nodrošinātu efektīvu darbību. Atbalstošā infrastruktūra bieži trūkst izturības pret fiziskajiem bojājumiem (Townsend & Moss, 2005).
+
+#### Satricinājuma izraisīti traucējumi
+
+Satricinājuma traucējumi ir vēl viens galvenais komunikācijas traucējumu veids katastrofā, kas rodas tīkla satricinājuma vai pārslogojuma rezultātā, izraisot bloķētos zvanešus un neattēlotus ziņojumus. Historiskajos notikumos katastrofas ir vienas no visintensīvākajām komunikācijas satricinājuma ģenerētājiem, un pieprasījuma spiediens var pārkāpt pat vislabāk pārvaldītos tīklus. Tomēr komunikācija var tikt atjaunota salīdzinoši ātri (Khaled & Mcheick, 2019).
+
+### Mērījumi un skaitliskie limiti
+
+ITU pašlaik izstrādā globālas vadlīnijas valstīm, lai izstrādātu Nacionālos ārkārtas telekomunikācijas plānus (NETS) ārkārtas brīdināšanai un brīdī. Šī struktūra cenšas mazināt valsts pakļaušanās risku dabas katastrofām, pirms tiek izstrādātas ārkārtas datu un komunikācijas sistēmas (ITU, 2019).
+
+### Galvenie atbilstošie PNB / daudzpusīgās vienošanās
+
+- **Ilgtspējīgas attīstības mērķi (SDGs)** (UNDESA, 2021).  
+- **Tampere konvencija par telekomunikāciju resursu nodrošināšanu katastrofām** (1998).  
+
+### Trigeri
+
+Dabas katastrofas var iznīcināt telekomunikāciju infrastruktūru un radīt smagus tīkla traucējumus. Elektroenerģijas pieejamība ir būtiska šīm ārkārtas komunikācijas sistēmām, un enerģijas pārtraukumi tieši saistīti ar šī traucējuma izraisītājiem (Townsend & Moss, 2005; Chang et al., 2007).
 
 ### Ietekme
-Radio un citas telekomunikācijas tīkli būtu spējīgi pievienoties, ja ārkārtas telekomunikāciju neizdevums notiek, jo tas var izraisīt ārkārtas brīdināšanas sistēmu neveiksmi, palielinot sekundāro bojājumu potenciālu. Tas arī samazina katastrofu reaģēšanas iespējas, izraisot aizkavējumus vai samazinot ārkārtas reaģēšanas efektivitāti. Turklāt, ņemot vērā tā starpērdarbību ar elektroenerģiju un IKT sistēmām, telekomunikāciju infrastruktūra var kļūt par mērķi kiberuzbrukumiem, radot papildu ievainojamības sistēmai (CISA, 2023).
 
-### Daudzhazarda konteksts
-Zemākā attēla figure atspoguļo radio un citas telekomunikācijas neizdevumu mijiedarbību ar citiem bīstamības notikumiem. Šī informācija jāizmanto piesardzīgi un nedrīkst vienmēr uzticēties tikai šai informācijai katastrofiskā risku pārvaldībā, it īpaši, ja daži savstarpējie faktori var nebūt iesaistīti.
+Radio un citas telekomunikācijas tīkli vajadzētu spējīgi aizstāt, ja notiek ārkārtas telekomunikāciju traucējumi, jo tas var novest pie agrīno brīdinājumu sistēmu defekta, palielinot sekundāro bojājumu potenciālu. Tas arī samazina katastrofu reakciju spējas, radot aizkavējumus vai samazinot ārkārtas operāciju efektivitāti. Turklāt, ņemot vērā tā atkarību no elektroenerģijas un ICT sistēmām, telekomunikāciju infrastruktūra var kļūt par kibertūrisma uzbrukuma mērķi, radot papildu ievainojamību (CISA, 2023).
 
-### Riska vadība
-Attīstot un īstenojot kopīgus tehniskos rādītājus un vadlīnijas radio komunikācijas sistēmām priekšā, ņemot vērā ārkārtas brīdināšanas un katastrofu reaģēšanas un atbalsta operācijām, veicinās kopīgu tehnoloģiju bāzi plānošanā un efektīvā reaģēšanā ārkārtas.  
+### Daudzpēdas konteksts
 
-### Uzraudzība
-Telekomunikāciju neizdevums pasludināšu riskus, kas novērš komunikāciju un koordinēšanu starp reaģētājiem, iespējams, novedot pie aizkavēšanās vai neefektīvām ārkārtas reakcijām un palielinoties fiziskajam un finansiālajam zaudējumam. Ātrās pakalpojuma atjaunošana ir kritiska, lai uzlabotu katastrofu reaģēšanas spēju, kas ļauj savlaicīgu komunikāciju, informācijas koplietošanu un koordinēto darbību, lai mazinātu bojājumus un atbalstu dotā populācijām (OECD, 2025).
+Zemāk redzamais attēls apkopo izplatītās mijiedarbības starp radio un citām telekomunikāciju traucējumiem un citām katastrofām. Šo informāciju jāizmanto ar piesardzību, un nevajadzētu uzticēties tikai vienā pārvaldības pieejā (risk management), īpaši, ja daži mērķi nav iekļauti.
 
-### Atsauces  
-*(Atsauču saraksts saglabāts bez izmaiņām, tikai nosaukumi ir tulkoti latviešu valodā, ja nepieciešams.)*
+#### Daudzpēdas diagramma
+
+*Diagrammas vietā tiks ievietota attēla atbilde, kas jāiekļauj, ja nepieciešams.*
+
+### Risku pārvaldība
+
+Attīstot un īstenojot kopējās tehniskās prasības un vadlīnijas radio komunikācijas sistēmām agrīnai brīdināšanai, katastrofu reakcijai un glābšanas operācijām, veicinās kopīgu tehnisko bāzi plānošanai un efektīvai ārkārtas reakcijai. Radio komunikāciju standarta rokasgrāmata (Radio Communications Standards for Emergency Responders) tika izstrādāta un sagatavota SNU Attīstības programmas un Eiropas Komisijas humanitāro biroja caur katastrofa sagatavības programmu. Šīs rokasgrāmatas mērķis ir nodrošināt standarta darbību un apmācību tehniku, lai vadītu Radio Emergency Service operātorus uz valsts un vietējām radio tīklām (UNDP, 2010). 2017. gadā Pieaugušo bērnu fonds (UNICEF) izstrādāja ārkārtas telekomunikāciju rokasgrāmatu, kurā aprakstītas vadlīnijas un detalizētas instrukcijas, lai atbalstītu komandās, kas veicina un piegādā efektīvas ārkārtas telekomunikācijas lauku. Īpašā ir integrēto telekomunikāciju sistēmu raksturojums (UNICEF, 2017). Turklāt Starptautiskā Telegrafijas un Televīzijas Organizācija izstrādājusi vairākus resursus, tostarp Radio Regulations Navigation Tool (tīklus, kas nosaka radiofrekvences spektru un satelītu orbītu) (ITU, no datuma).  
+- *Space Networks Systems Database of the Radiocommunication Bureau of the International Telecommunication Union.*  
+- *Definitions of world telecommunication/ICT Indicators* (ITU, no datuma).  
+
+Radio balstītās agrīnās brīdināšanas sistēmas (EWS) ir viena no vecākajām un uzticamākajām komunikācijas tehnoloģijām, ko plaši testēja dažādos katastrofa scenārijos. Radio ir unikāla priekšrocība, jo sasniedz lielu iedzīvotāju skaitu, kurā infrastruktūra ir smagi bojāta, padarot to par izdevīgu un lētāku saziņas veidu. Katras katastrofa reakcijas fāzes laikā radio ir būtiski veikusi kritisku ziņu, informācijas un padomu piegādi cietušajām kopienām, bieži sadarbojoties ar dažādām ieinteresētajām pusēm.  
+- Pilsētas var atbalstīt arī saules vai vēja enerģijas radio, kas nodrošina ilgtspējīgu un viegli izvietojamu risinājumu, nodrošinot svarīgus agrīnās brīdinājumus.
+
+### Monitoring
+
+Ārkārtas telekomunikāciju traucējumi paaugšina katastrofu riskus, apgrūtinot komunikāciju un koordināciju starp reaģentiem, kas var novest pie aizkavēšanās vai neefektīvas ārkārtas reakcijas, un palielināt fiziskos un finansiālos bojājumus. Ātra pakalpojumu atjaunošana ir būtiska, lai uzlabotu katastrofu reakcijas spējas, nodrošinot savlaicīgu komunikāciju, informācijas apmaiņu un koordinētu darbības, lai mazinātu bojājumus un palīdzētu cietušajām kopienām (OECD, 2025).
+
+### References
+
+Chang S.E., McDaniels T.L., Mikawoz J., Peterson K. *Infrastructure failure interdependencies in extreme events: power outage consequences in the 1998 Ice Storm*. Natural Hazards, 41 (2) (2007), pp. 337-358. Accessed 19 May 2025.  
+Cybersecurity and Infrastructure Security Agency (CISA), 2023. *Emergency Services sector cyber risk assessment*. Cybersecurity and Infrastructure Security Agency (CISA). Accessed 26 January 2025.  
+Hugelius K., Adams M., Romo-Murphy E., 2019. *The power of Radio to promote health and resilience in disasters: A review*. International Journal of Environmental Research and Public Health. 2019; 16(14):2526. DOI: 10.3390/ijerph16142526. Accessed 26 January 2025.  
+International Telecommunication Union (ITU), 2014. *Gap Analysis of Disaster Relief Systems, Network Resilience and Recovery*. ITU‑T Focus Group on Disaster Relief Systems, Resilience and Recovery Network. International Telecommunication Union (ITU). Accessed 26 January 2025.  
+International Telecommunication Union (ITU), no date. *ITU Radiocommunication Sector*. International Telecommunication Union (ITU). Accessed 19 May 2025.  
+Khaled, Z. and H. Mcheick, 2019. *Case studies of communication systems during harsh environments: A review of approaches, weaknesses, and limitations to improve quality of service*. International Journal of Distributed Sensor Networks, 15(2).  
+Organisation for Economic Co‑operation and Development (OECD), 2025. *Enhancing the resilience of communication networks*. OECD digital economy papers May 2025 No. 374. Organisation for Economic Co‑operation and Development (OECD). Accessed 19 May 2025.  
+Salema, C, and Caldeirinha R. 2024. *Perspective Chapter: Mobile Radio Emergency Communications for Large‑Scale Wildfire Fighting – Portugal as a Case Study*. Fire Safety Engineering - Measures, Policies, and Applications [Working Title]. IntechOpen. doi:10.5772/intechopen.1007773. Accessed 19 May 2025.  
+Townsend, A. and M. Moss, 2005. *Telecommunications Infrastructure In Disasters: Preparing Cities for Crisis Communications*. Accessed 26 January 2025.  
+United Nations Development Programme (UNDP), 2010. *A guide to radio communications standards for emergency responders*. Accessed 26 January 2025.  
+United Nations General Assembly (UNGA), 2015. *Transforming Our World: The 2030 Agenda for Sustainable Development*. United Nations General Assembly (UNGA). Accessed 12 February 2025.  
+United Nations Children's Fund (UNICEF), 2017. *Emergency Telecommunications Handbook*. Accessed 26 January 2025.  
+United Nations Treaty Collection, 1998. *Chapter XXV: Telecommunications: 4. Tampere Convention on the provision of telecommunication resources for disaster mitigation and relief operations*. Accessed 10 May 2025.  
+Cite this [Copy citation]

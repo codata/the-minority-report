@@ -1,0 +1,1 @@
+Cysticercosis in humans and pigs, larval stages of the parasite Taenia solium, neurocysticercosis, cysticercosis in the central nervous system, taeniasis in humans, faecal oral route, ingestion of tapeworm eggs, cysticercosis in pigs, neurocysticercosis and epilepsy, cysticercosis in humans, cysticercosis in the muscle

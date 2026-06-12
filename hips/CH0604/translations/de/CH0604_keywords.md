@@ -1,0 +1,1 @@
+Psychoactive substances, opioid overdose, respiratory depression, tolerance and dependence, synthetic opioids, natural opiates, opioid receptors, morphine sulfate extended-release, fentanyl and its analogues, opioid antagonists, naloxone, opioid agonist maintenance treatment, methadone, hydrocodone bitartrate

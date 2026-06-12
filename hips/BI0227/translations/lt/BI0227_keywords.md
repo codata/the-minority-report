@@ -1,0 +1,1 @@
+bacterium Bordetella pertussis, whooping cough, paroxysmal cough, pneumothorax, clinical diagnosis, laboratory confirmation, droplets produced by coughing or sneezing, three-dose primary series DTP3 vaccine, pertussis surveillance, Early Warning, Alert and Response System, periodic epidemics, immunisation

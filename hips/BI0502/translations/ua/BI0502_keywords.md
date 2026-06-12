@@ -1,0 +1,1 @@
+fungal agents,mycelium,fungal-like organisms,spores,blights,wilts,rots,mildews,canker,smuts,rusts,basal rot,grey mould rot,heart rot,wheat rust disease,potato late blight,aflatoxin,Aspergillus species,fungicides,integrated pest management,disease-resistant varieties,pathogen-free certified planting materials

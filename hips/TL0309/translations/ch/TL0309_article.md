@@ -1,35 +1,53 @@
-### Definition  
-自然灾害触发的技术事故（Showalter 等，1994）。
+```markdown
+### Definice
+Přírodní hrozba spouštějící technologickou nehodu (Showalter et al., 1994).
 
-### Primary reference(s)  
-Showalter, P.S. & M.F. Myers，1994。美国自然灾害作为油、化学或放射性物质释放的触发因子，1980‑1989 年期间：分析与建议。风险分析，14：169‑182。 DOI: 10.1111/j.1539-6924.1994.tb00042.x，访问日期 2025‑05‑20。
+### Primární reference(s)
+- Showalter, P.S. and M.F. Myers, 1994. Natural disasters in the United States as release agents of oil, chemical, or radiological materials between 1980‑1989: analysis and recommendations. *Risk Analysis*, 14:169‑182. DOI: 10.1111/j.1539‑6924.1994.tb00042.x Accessed 20 May 2025  
 
-### Annotations  
+### Anotace
+#### Další vědecký popis
+Přírodní hrozby mohou vyvolávat požáry, výbuchy a toxické nebo radioaktivní uvolnění v nebezpečných zařízeních a dalších infrastrukturových strukturách, které zpracovávají, skladují nebo přepravují nebezpečné látky (Krausmann et al., 2017). Tyto technologické „sekundární účinky“ vyvolané přírodními hrozbami jsou také nazývány „případy technologického rizika při přirozených událostech“. Jsou často přehlíženy, přesto opakovaně způsobují významné a dlouhodobé sociální, environmentální a ekonomické dopady. Po přírodní katastrofě (UNDRR, 2019) přidávají tyto případy významně k zátěži populace, která již čelí následkům původní události (Krausmann et al., 2019). Důsledky událostí technologického rizika při přirozených událostech mohou sahat od zdravotních dopadů a degradace životního prostředí (např. během zemětřesení Wenchuan 2008) až po významné ekonomické ztráty na místní nebo regionální úrovni v důsledku poškození majetku a přerušení podnikání (např. kvůli povodním v Thajsku 2011). V některých případech mohou vlnění efektů přes sektory dosáhnout globálních proporcí, což vede k nedostatku surovin a hotových výrobků (jak se stalo po zemětřesení a tsunami východního Japonska 2011) a zvýšení cen (např. dopad hurikánů Katrina a Rita na offshore infrastrukturu v Mexickém zálivu) (UNDRR, 2019).
 
-#### Additional scientific description  
-自然灾害可触发火灾、爆炸以及危险设施或其它基础设施（加工、储存或运输危险物质）中的有毒或放射性**释放物**（Krausmann 等，2017）。这些由自然灾害引起的技术**二次灾害**亦被称为 **Natech（奈特赫）** 事故。它们在许多自然灾害情境中是一个反复出现但往往被忽视的特征，并多次造成重大的长期社会、环境与经济影响。  
-在自然灾害后（UNDRR，2019），Natech 事故大幅增加了已经在努力应对触发自然事件影响的人口负担（Krausmann 等，2019）。Natech 事件后果可从健康影响和环境退化（例如 2008 年汶川地震期间）到因资产损失和业务中断而导致的地方或区域层面的重大经济损失（例如 2011 年泰国洪水）不等。在某些情况下，跨行业的连锁效应可达到全球比例，导致原材料与成品短缺（如 2011 年日本东海大地震及海啸后）以及价格上涨（例如卡特里娜与里塔飓风对墨西哥湾离岸基础设施的影响）（UNDRR，2019）。
+### Měřítka a číselné limity
+Kromě národních iniciativ na řešení rizik technologického rizika při přirozených událostech zahájily několik mezinárodních orgánů, aby se zabývaly těmito riziky. Například OECD vydala přílohu k tématu technologického rizika při přirozených událostech ke svým směrnicím pro prevenci chemických nehod, připravenost a reakci (OECD, 2021). Příloha obsahuje řadu úprav směrnic a přidává novou kapitolu poskytující podrobnější pokyny pro prevenci, připravenost a reakci na technologické riziko při přirozených událostech. WHO vydala informace pro veřejné zdravotní orgány v důsledku chemických uvolnění vyvolaných přírodními událostmi, zaměřené na zemětřesení, povodně a cyklóny. UNDRR shromáždil tým odborníků, kteří připravili „Words into Action Guidelines“ pro národní hodnocení rizik a pro umělé a technologické rizika; obě tyto publikace obsahují kapitoly zabývající se akcemi a pokyny pro snížení rizika technologického rizika při přirozených událostech (UNDRR, 2020). Nedávno byly zahájeny práce na vývoji metrik pro měření výkonnosti řízení rizika technologického rizika při přirozených událostech Evropskou komisí a rámec pro systém hodnocení výkonnosti byl navržen výzkumníky z Kyoto University (Suarez‑Paba, 2019).
 
-#### Metrics and numeric limits  
-除国家层面应对 Natech 风险的举措外，数个国际机构已开始针对 Natech 风险制定标准。例如，经济合作与发展组织（OECD）发布了针对化学事故预防、准备与应对的指导原则增补（OECD，2021）。该增补对指导原则进行若干修改，并新增一章提供更详细的 Natech 预防、准备与应对指导。世界卫生组织发布了针对自然事件引发的化学释放的公共卫生信息，重点关注地震、洪水与气旋，旨在为健康部门规划者和公共卫生当局提供简要信息，帮助了解由自然事件导致的化学释放。联合国灾害风险降低办公室（UNDRR）组建了专家团队，编写了《转化为行动指南》——国家灾害风险评估与人造/技术性风险两部分，均包含讨论 Natech 风险降低的章节（UNDRR，2020）。最近，欧洲委员会联合研究中心开展了评估 Natech 风险管理绩效的指标开发工作，日本京都大学研究人员提出了绩效评级体系框架（Suarez‑Paba，2019）。
+### Klíčové relevantní UN konvence / multilaterální smlouva
+UNECE Convention on the Transboundary Effects of Industrial Accidents (UNECE, 2017).
 
-#### Key relevant UN convention / multilateral treaty  
-欧洲经济委员会（UNECE）跨境工业事故影响公约（UNECE，2017）。
+### Důvody
+Přírodní hrozby mohou způsobit vícenásobná a současná uvolnění nebezpečných látek na rozsáhlých územích, poškodit nebo zničit bezpečnostní bariéry a systémy a narušit životní linky potřebné pro prevenci nehod a zmírnění následků. Tyto faktory tvoří složky kaskádových katastrof. Záchranné složky nejsou obvykle připraveny a často postrádají potřebné zdroje pro boj s více událostmi současně (Girgin et al., 2019). Minulé události ukázaly, že kombinované události (např. deště na sněhu) nebo kaskádové účinky (např. zemětřesení vyvolávající uvolnění nebezpečných látek, které jsou následně rozptýleny tsunami) mohou zvýšit riziko technologického rizika při přirozených událostech. V případě hydro‑meteorologických hrozeb zvyšuje klimatická změna riziko technologického rizika při přirozených událostech přímým vlivem na frekvenci/severitu výskytu těchto hrozeb.
 
-### Drivers  
-自然灾害可在广阔区域内多次并发释放危险物质，破坏或毁坏安全屏障与系统，破坏事故预防与后果减轻所需的生命线。这些因素亦是级联灾害的组成要素。应急救援人员往往未准备好或缺乏必要资源，以同时对抗多重释放事件（Girgin 等，2019）。过去事件表明，复合事件（如雨覆雪导致雪融）或级联效应（如地震触发危险物质释放后被随后的海啸散布）可增加 Natech 风险。在水文气象灾害的情况下，气候变化通过直接影响触发自然灾害的频率/严重性进一步放大 Natech 风险。
+### Dopady
+Komunitní zasahování do oblastí pod rizikem, klimatická změna, rychlé demografické změny a urbanizace zvyšují expozici (a zranitelnost) populace vůči rizikům technologického rizika při přirozených událostech (Krausmann et al., 2017). Identifikace rizik technologického rizika při přirozených událostech není vždy jednoduchá, protože informace o technologických rizicích bývají často považovány za důvěrné a jsou přísně drženy průmyslem, pokud neexistují povinnosti o oznámení a hlášení. Kromě akutních účinků mohou vzniknout chronické environmentální a zdravotní dopady z pomalu uvolňujících se událostí, zejména v podzemních vodách a půdních systémech (Krausmann et al., 2019; US EPA, 2024). Indirectní účinky mohou zahrnovat ztrátu biodiverzity z trvalé kontaminace nebo zvýšené úmrtnosti na rakovinu v důsledku chronické expozice znečišťujícím látkám uvolněným v událostech technologického rizika při přirozených událostech.
 
-### Impacts  
-社区向自然灾害区的侵占、气候变化、快速人口与城市化均提升了人群对 Natech 风险的暴露（和脆弱性）（Krausmann 等，2017）。鉴别 Natech 风险并不总是容易，因为技术风险信息往往被视为机密，并由行业严格保守，除非存在通报与报告义务。除急性影响外，慢性环境与健康影响可能来自慢速释放的 Natech 事件，尤其在地下水与土壤系统中（Krausmann 等，2019；美国 EPA，2024）。间接影响可能包括因持久污染导致的生物多样性丧失，或因 Natech 事件释放的污染物慢性暴露导致的癌症率上升。
+### Kontext multi‑hazard
+Níže uvedený diagram shrnuje běžné interakce mezi technologickým rizikem při přirozených událostech a jinými hrozbami. Tyto informace by měly být používány opatrně a neměly by být jediným základem v řízení rizik katastrof, zejména pokud některé interakce nebyly zohledněny. Upozorňujeme, že nebezpečné události probíhající současně nebo místně v prostoru či čase nemusí nutně způsobovat, zesilovat nebo být jinak vzájemně související. Specifické příklady kontextu multi‑hazard najdete v sekcích „Důvody“ a „Dopady“ výše.
 
-### Multi‑hazard context  
-下图总结了 Natech 与其他灾害之间的常见相互作用。此信息应谨慎使用，不应仅依赖于灾害风险管理，尤其因某些相互作用可能未被纳入。注意，发生在空间或时间上的危险事件并不一定会相互造成、放大或相关。多灾害情境的具体示例可见上述“灾害驱动因素”与“影响”章节。
+### Diagram multi‑hazard
 
-### Risk Management  
-工业设施的风险管理通常被视为与其周围环境隔离，未考虑与其他工业、生命线及附近社区的潜在相互作用，未能捕捉级联事件的潜力及对工业韧性、连续性与恢复的影响（Krausmann 等，2017）。已呼吁整合 Natech 风险治理，要求将行业、监管框架监督机关、公共卫生与环境当局、城市规划者、应急救援人员及自然灾害专家与可能受影响的社区聚集在一起，以促进韧性领土（UNDRR，2017）。
+### Řízení rizik
+Řízení rizik průmyslového zařízení obvykle zohledňuje izolaci od okolního prostředí a nebere v úvahu potenciální interakce s jiným průmyslem, životními linkami a sousedními komunitami, aby zachytilo potenciál kaskádových událostí a dopad na odolnost průmyslu, kontinuitu a zotavení (Krausmann et al., 2017). Vyzývá se k integrálnímu řízení rizik technologického rizika při přirozených událostech, které vyžaduje shromáždění průmyslu, vládních agentur řídících regulační rámce, orgánů veřejného zdraví a životního prostředí, plánovačů měst, záchranných složek a odborníků na přírodní hrozby, spolu s potenciálně postiženými komunitami, aby se podpořila odolnost území (UNDRR, 2017).
 
-### Monitoring  
-不适用
+### Monitorování
+Nezdařilo se
 
 ### References  
-（此处略去完整参考文献列表，保持与原文一致）
+Girgin, S., Necci, A., & Krausmann, E., 2019. Dealing with cascading multi‑hazard risks in national risk assessment: The case of Natech (Natural hazard‑triggered technological) accidents. *International Journal of Disaster Risk Reduction*, 35, 101072. DOI: 10.1016/j.ijdrr.2019.101072  
+Accessed 20 May 2025.  
+Krausmann, E., Cruz, A. M., Fendler, R., & Salzano, E., 2017. Technological risk Natech (Natural hazard‑triggered technological accidents). In Poljanšek, K., Marin Ferrer, M., De Groeve, T., & Clark, I. (Ed.), *Science for disaster risk management 2017: knowing better and losing less* (Chapter 3.14, EUR 28034 EN). Publications Office of the European Union, Luxembourg. ISBN 978‑92‑79‑60679‑3. Accessed 20 May 2025.  
+Krausmann, E., Cruz, A. M., & Salzano, E., 2017. Natech (Natural hazard‑triggered technological accidents) risk assessment and management. Elsevier. ISBN: 9780128038079 (Paperback), 9780128038796 (eBook).  
+Krausmann, E., Girgin, S., & Necci, A., 2019. Natural hazard impacts on industry and critical infrastructure: Natech (Natural hazard‑triggered technological accidents) risk drivers and risk management performance indicators. *International Journal of Disaster Risk Reduction*, 40, 101163. DOI: 10.1016/j.ijdrr.2019.101163. Accessed 20 May 2025.  
+Necci, A., & Krausmann, E., 2022. Natech (Natural hazard‑triggered technological accidents) risk management – Guidance for operators of hazardous industrial sites and for national authorities. Publications Office of the European Union. DOI: 10.2760/666413 Accessed 20 May 2025.  
+Organisation for Economic Co‑operation and Development (OECD), 2023. OECD Guiding Principles for Chemical Accident Prevention, Preparedness and Response – Third Edition. DOI: 10.1787/162756bf‑en. Accessed 1 October 2024.  
+OECD, 2015. Addendum Number 2 to the OECD Guiding Principles for Chemical Accident Prevention, Preparedness and Response (2nd ed.) to address natural hazards triggering technological accidents (Natech). Accessed 1 October 2024.  
+OECD/European Union (EU), 2024. Managing Risks from Natural Hazards to Hazardous Installations (Natech): A Guide for Senior Leaders in Industry and Public Authorities. Series on Chemical Accidents, OECD Publishing, Paris. DOI: 10.1787/9bb63229‑en. Accessed 20 May 2025.  
+Suarez‑Paba, M. C. (2019). A paradigm shift in Natech (Natural hazard‑triggered technological accidents) risk management: Development of a framework for evaluating the performance of industry and enhancing territorial resilience (Ph.D. Thesis). Graduate School of Engineering, Kyoto University, Japan.  
+United Nations Office for Disaster Risk Reduction (UNDRR), 2017. Words into Action guidelines: National disaster risk assessment. Accessed 20 May 2025.  
+UNDRR (United Nations Office for Disaster Risk Reduction), 2019. Global Assessment Report on Disaster Risk Reduction. Geneva, Switzerland. Accessed 20 May 2025.  
+UNDRR, 2020. Words into Action guidelines: Developing national disaster risk reduction strategies. Accessed 20 May 2025.  
+United Nations Economic Commission for Europe (UNECE), 2017. Convention on the Transboundary Effects of Industrial Accidents. Accessed 20 May 2025.  
+World Health Organization (WHO), 2018. Chemical releases caused by natural hazard events and disasters: Information for public health authorities. Geneva: WHO. Licence: CC BY‑NC‑SA 3.0 IGO. Accessed 20 May 2025.  
+United States Environmental Protection Agency (USEPA), 2024. Regional Screening Levels for Chemical Contaminants at Superfund Sites. Accessed 20 May 2025.  
+Cite this [Copy citation]
+```

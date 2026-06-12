@@ -1,0 +1,1 @@
+loose snow avalanches,slab avalanches,gliding avalanches,powder avalanches,wet-snow avalanches,inverted-V-shaped avalanche,dry powder,artificial avalanche triggering,avalanche galleries,snowpack comprises multiple layers

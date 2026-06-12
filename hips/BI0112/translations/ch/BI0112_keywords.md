@@ -1,0 +1,1 @@
+Cysticercosis in humans and pigs,larval stages of Taenia solium,neurocysticercosis,ingestion of tapeworm eggs,faecal oral route transmission,cysticercosis in pigs,T. solium larvae encystment,neurocysticercosis in the central nervous system,causation of epilepsy,management of neurocysticercosis

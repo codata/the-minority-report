@@ -1,0 +1,1 @@
+psychoactive substances, opioid receptors, opioid overdose, respiratory depression, synthetic opioids, natural opiates, morphine derivatives, fentanyl analogues, carfentanil, naloxone antagonist, opioid agonist maintenance treatment, acetylated derivative of morphine, morphinans

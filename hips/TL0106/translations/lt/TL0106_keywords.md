@@ -1,0 +1,1 @@
+bullying that takes place using digital devices, sending posting or sharing negative content, sharing personal or private information, online harassment, digital footprint, non-consensual diffusion of intimate photos, cyber stalking, grooming, dissemination of false rumours, identity theft from social media accounts, cyberbullying victimization

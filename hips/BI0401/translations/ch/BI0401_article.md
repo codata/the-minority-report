@@ -1,53 +1,108 @@
-### Definition
-昆虫害虫侵扰是一种最近被检测到的昆虫害虫种群，包括入侵或已在某地区确立的害虫种群突然显著增加，导致农田、森林或自然栖息地的植物受损，并对生产力、生物多样性或自然资源造成重大损失（适配自 IPPC 秘书处，2024）。
+```markdown
+## Definitie
 
-### Primary Reference(s)
-国际植物保护公约秘书处，2024。植物检疫术语词典。植物检疫措施国际标准第5号。罗马：FAO 代表国际植物保护公约秘书处。2025年3月20日获取。
+Een **insectenplaagbesmetting** is een recent gedetecteerde populatie van een insectenplaag, inclusief een infiltratie, en/of een plotseling significante toename van een gevestigde insectenpopulatie in een gebied, die schade toebrengt aan planten in productievelden, bossen of natuurlijke habitats en substantieel verlies aan productiviteit, biodiversiteit of natuurlijke hulpbronnen veroorzaakt (aanp. van IPPC Secretariat, 2024).
 
-### Annotations
+## Primaire referentie(n)
 
-#### Additional Scientific Description
-昆虫是导致全球农作物损失的重要因素。并非所有昆虫都是害虫，但许多对农作物、森林树木、牲畜和人类有害。其发生的主要原因之一是大面积单一作物的扩张，导致自然栖息地和多样植物的消失，选择高产、经济价值大的作物与树木，从而为植食性昆虫创造了极为有利的环境。除了以农林生态系统为基础的综合管理实践外，良好的收获后管理和储存条件也是降低农业昆虫侵扰造成损失的关键（FAO，无日期）。
+IPPC Secretariat, 2024. Glossary of phytosanitary terms. International Standard for Phytosanitary Measures No. 5. Rome. FAO on behalf of the Secretariat of the International Plant Protection Convention. Accessed 20 March 2025.
 
-为国际植物检疫措施标准制定了一套详细的植物检疫术语词典。该词典由国际植物保护公约秘书处为联合国粮农组织（FAO）制作。以下为与昆虫害虫侵扰相关的术语（FAO，2024）示例：
+## Annotaties
 
-- **生物防治剂**：用于害虫控制的天敌、对手或竞争者，或其他有机体。  
-- **害虫出现率**：样本、货物、田块或其他定义种群中害虫出现的比例或数量。  
-- **入侵**：在某地区最近被检测到的、尚未确立的害虫种群，预期在近期内存活。  
-- **商品侵扰**：某商品中存在活害虫或其感染。  
-- **害虫引入**：害虫进入并在环境中确立的过程。  
-- **官方管控**：为消除或遏制检疫害虫或监管非检疫害虫而积极执行强制性植物检疫法规与程序。  
-- **爆发**：最近检测到的害虫种群，包括入侵或已确立害虫种群在某地区突然显著增加。  
-- **害虫**：对植物或植物产品有害的任何物种、菌株或生物型。  
-> 注：在国际植物保护公约（IPPC）中，“植物害虫”有时用于代指“害虫”（FAO，2024）。
+### Extra wetenschappelijke beschrijving
 
-昆虫害虫侵扰不仅能摧毁农作物，还会破坏森林。例如，**绿山楂甲（Agrilus planipennis）**，属于鞘翅目、金龟子科，于1888年由 Fairmaire 确立。Agrilus 被认为是动物界中物种数最多的属，已记录超过3000种（Kelnarova 等，2019）。绿山楂甲是一种东亚（中国、日本、韩国、蒙古）木蛀甲虫。其首次在美国的山楂树上观察到，随后迅速扩散到加拿大部分省份。该害虫于2003年在 EPPO 区域（俄罗斯欧洲部分）报告，随后在2019年乌克兰东部再次被检测到（Orlova-Bienkowskaja 等，2020）。自北美出现以来，A. planipennis 已导致数千万株山楂树（Fraxinus spp.）和弗林树（Chionanthus virginicus）死亡。此侵入性昆虫害虫通过宿主植物材料被引入欧盟成员国，对森林资源的生态和经济价值构成严重威胁。幼虫以被侵扰山楂树的韧皮部为食，造成大面积枯死和树木死亡。该甲虫在一年内完成一代，或在寒冷气候中两年完成一代。成虫在春季和夏季出现（EFSA，2023）。
+Insecten zijn verantwoordelijk voor aanzienlijke verliezen in de wereldwijde landbouwproductie. Niet alle insecten zijn plaagdieren, maar veel zijn schadelijk voor gewassen, bosbomen, vee en mensen. Een belangrijke reden voor het ontstaan van deze plagen is de uitbreiding van monoculturen op grote schaal ten koste van natuurlijke habitats en diverse plantensoorten, waarbij gewassen en bomen worden geselecteerd op basis van grootte, hoge opbrengst en economische waarde. Dit biedt een zeer gunstige omgeving voor herbivore insecten. Naast agroecosysteem‑gebaseerde geïntegreerde beheerspraktijken in de productie, is een goede post‑oogstbehandeling en opslagconditie cruciaal om verliezen door insectenbesmetting in de landbouw te verminderen (FAO, geen datum).
 
-### Metrics and Numeric Limits
-入侵昆虫种群的影响可通过多种指标衡量，包括景观指标、功能多样性以及相对影响潜力（RIP）。景观指标如栖息地斑块聚集度和形状复杂度可用于评估栖息地碎片化对入侵昆虫扩散的影响。功能多样性指标，如功能丰富度和均匀度，可帮助了解入侵昆虫对本土植物群落的影响。例如，相对影响潜力（RIP）指标将入侵者的每个个体效应与其丰度相结合，以预测其生态影响的可能性和程度（Dickey 等，2020）。
+Een gedetailleerd glossarium van phytosanitaire termen is ontwikkeld voor de International Standards for Phytosanitary Measures. Het is geproduceerd door het Secretariaat van de International Plant Protection Convention voor de Food and Agriculture Organization of the United Nations (FAO). Voorbeelden van relevante termen voor insectenplaagbesmettingen zijn hieronder gegeven (FAO, 2024):
 
-### Key Relevant UN Convention / Multilateral Treaty
-- **国际植物保护公约（1997）** 是一项由180余国签署的政府间条约，旨在通过国际标准化的植物检疫措施保护世界植物资源，促进安全贸易（FAO，2011）。该公约将其主要工具——植物检疫措施国际标准——设为全球唯一的植物健康标准制定机构（FAO，2005）。  
-- **《生物多样性公约》（1992）** 具有三大目标：生物多样性保护、可持续利用以及基因资源利益的公平共享（联合国，1992）。截至撰写时，该公约已有196国签约（《生物多样性公约》，2021）。  
-- **《食品法典》（Codex Alimentarius）**（无日期）。  
-- **WTO 卫生与植物检疫协定（SPS 协定）**（1994，无日期）。
+- **Biologische controle**: een natuurlijke vijand, tegenstander of concurrent, of een ander organisme, dat gebruikt wordt voor plaagbeheer.  
+- **Incidentie (van een plaag)**: de proportie of het aantal eenheden waarin een plaag aanwezig is in een monster, partij, veld of een andere gedefinieerde populatie.  
+- **Infiltratie**: een geïsoleerde populatie van een plaag die recentelijk in een gebied is gedetecteerd, nog niet als gevestigd beschouwd, maar waarvan wordt verwacht dat hij zich de komende tijd zal vestigen.  
+- **Besmetting (van een handelswaar)**: aanwezigheid van een levende plaag in een handelswaar van het betreffende plant of product. Besmetting omvat ook infectie.  
+- **Introductie (van een plaag)**: de invoer van een plaag die leidt tot zijn vestiging in de omgeving.  
+- **Officiële controle**: de actieve handhaving van verplichte phytosanitaire regelgeving en de toepassing van verplichte phytosanitaire procedures met het doel de uitroeiing of containment van quarantainplagen of het beheer van gereguleerde non‑quarantainplagen te bewerkstelligen.  
+- **Uitbraak**: een recent gedetecteerde plaagpopulatie, inclusief een infiltratie, of een plotseling significante toename van een gevestigde plaagpopulatie in een gebied.  
+- **Plaag**: elke soort, stam of biotype van een plant, dier of pathogene agent die schadelijk is voor planten of plantproducten. Opmerking: In de International Plant Protection Convention (IPPC) wordt de term ‘plant pest’ soms vertaald als ‘plaag’ (FAO, 2024).
 
-### Drivers
-农业与林业面临诸多风险，如气候与市场波动、害虫与疾病、极端天气事件以及不断增加的长期危机与冲突。动物与植物害虫与疾病的爆发尤为令人担忧，因为其在生物灾害与食物链紧急事件中的作用。适宜的气候条件、生态系统破坏以及农作物/森林卫生管理疏忽共同促进昆虫种群增长，并定期造成重大损失。许多情况下，昆虫的跨国传播源于受侵害货物的运输。更高温度、极端天气事件与干旱胁迫都会削弱树木活力，使其更易受本土与外来害虫与疾病的攻击。例如，北美、中美洲、欧洲的松树大面积枯死与本土树蛀甲虫爆发与气候变化、极端天气事件的影响以及部分不当森林管理实践有关（FAO，2020a）。
+Insectenplaagbesmettingen kunnen niet alleen gewassen, maar ook bossen verwoesten. Agrilus planipennis (Fairmaire), familie Buprestidae, orde Coleoptera, werd in 1888 door Fairmaire vastgesteld. Agrilus wordt beschouwd als het meest speciose geslacht in het dierenrijk, met meer dan 3.000 geregistreerde soorten (Kelnarova et al., 2019). De Emerald Ash Borer is een houtborende kever uit Oost‑Azië (China, Japan, Korea en Mongolië). De kever werd voor het eerst waargenomen op Fraxinus‑bomen in de VS en verspreidde zich snel naar enkele provincies van Canada. De plaag werd gerapporteerd in het EPPO‑gebied – het Europese deel van Rusland – in 2003, en latere detecties vonden plaats in Oost‑Oekraïne in 2019 (Orlova‑Bienkowskaja et al., 2020). Sinds de aankomst in Noord-Amerika heeft A. planipennis tienduizenden miljoenen Fraxinus‑bomen, Fraxinus spp. en Chionanthus virginicus (Fringe tree) gedood. Deze invasieve insectenplaag is via plantmateriaal van het gastland naar EU‑lidstaten geïntroduceerd en vormt een ernstige dreiging voor de ecologische en economische waarden van bosreserves. Larven voeden zich met het floëm van besmette aspen, wat uitgebreide sterfte en bossterfte veroorzaakt. De kever heeft één jaar nodig om één generatie te voltooien of twee jaar in koudere klimaten. Volwassenen verschijnen in lente en zomer (EFSA, 2023).
 
-### Impacts
-食物链持续受到威胁，跨境动物与植物害虫与疾病的爆发数量激增。作物害虫、森林害虫与动物疾病是非洲最昂贵的灾害之一——其损失超过60亿美元（FAO，2018），其中昆虫害虫造成高达8500万公顷森林损失，主要在北美温带地区（FAO，2018）。全球昆虫种类超过百万种，包括直接对农作物和天然植被造成损害的关键种类，如蝗虫、蝗虫、军虫、果蝇，以及作为植物病原体传播媒介的白蝇、蚜虫、泡沫虫与粉蚜（FAO，2021）。最近一次全球性昆虫害虫侵扰是由稻军虫（FAW）在2016年从拉丁美洲跳迁至非洲，随后向亚洲南部及东南部扩散，导致数百万公顷玉米等作物受损，形成显著的粮食安全风险。联合国粮农组织已启动全球 FAW 控制行动，以促进国际合作对抗此昆虫（FAO，2020b）。昆虫害虫侵扰若影响主食作物，可能导致粮食安全挑战；亦可能引发市场或价格不稳定；在某些情况下，可能导致严重粮食不安全，如2020–21年非洲之角与也门的沙尘蝗灾（FAO，2022）。类似地，稻军虫在非洲与亚洲的快速扩张，使众多小农户陷入困境。除粮食安全外，昆虫害虫侵扰亦能破坏自然景观，导致地方冲突或因严重蝗灾导致的迁徙。更有甚者，农药喷洒可能影响当地居民健康。
+## Metrics en numerieke limieten
 
-### Multi‑hazard Context
-下图总结了昆虫害虫侵扰与其他灾害的常见相互作用。该信息需谨慎使用，并非仅凭此信息即可在灾害风险管理中做出决策，因某些相互作用可能未被包含。需注意，空间或时间上共同发生的危害事件不一定会相互导致、放大或相关。可在“危害驱动因素”和“影响”章节中找到多灾害情境的具体示例。
+De impact van invasieve insectensoorten kan worden gemeten met verschillende metrics, waaronder landschapmetriek, functionele diversiteit en relatief impactpotentieel. Landschapmetriek, zoals habitatpatchaggregatie en vormcomplexiteit, kan worden gebruikt om de effecten van habitatfragmentatie op de verspreiding van invasieve insecten te beoordelen. Functionele diversiteitsmetrics, zoals functionele rijkdom en gelijkmatigheid, kunnen helpen om de impact van invasieve insecten op inheemse plantengemeenschappen te begrijpen. De **relatief impactpotentieel (RIP)**‑metriek combineert de per capita‑effecten van indringers en hun overvloed om hun kans en graad van ecologische impact te voorspellen (Dickey et al., 2020).
 
-### Risk Management
-遵循可持续植物生产、可持续森林管理与综合害虫管理的原则，是控制昆虫害虫侵扰的最佳途径，重点关注多样化生产系统、定期监测、预防潜在爆发以及快速响应，以防止问题升级为不可管理规模（Guzewich 等，1997）。提升国家在预警、应急规划、监测与快速响应方面的能力，对预防侵扰并减轻其影响至关重要。国际合作、数据共享与知识交流也是解决跨境侵扰与爆发的关键。联合国粮农组织已开展多项全球举措，帮助应对这些挑战（FAO，2020c）。以沙尘蝗灾为例，FAO 与各国政府及合作伙伴共同努力，避免了450万吨作物损失，拯救了9亿升牛奶，并为近4200万人提供食物（FAO，2022）。灾后需求评估（PDNA）旨在评估恢复与重建的即时需求，以改进灾害响应。然而，该评估侧重于社会经济影响，并未考虑自然环境与森林长期损失。小规模火灾、轻微树木倒伏与局部害虫侵扰的损失仍大多未被报告，尽管已符合普遍认可的灾害定义（FAO，2018）。关于森林中昆虫害虫侵扰，现有研究多为遥感应用报告，缺乏针对行业的严谨评估基础（FAO，2018）。以绿山楂甲侵扰为例，昆虫扩散导致重要生物多样性损失与林业与城市管理成本显著增加，进而影响依赖森林的社区——其收入直接与森林生态系统健康和生产力挂钩。木材加工、木工与苗圃等行业受损，导致依赖该行业的人员收入下降。非木材林产品（如坚果、药用植物）亦受影响，进一步削弱农村社区的生态系统服务。国际知识共享与合作对建立早期预警至关重要。在全球层面，IPPC 的害虫报告系统可视为官方的检疫害虫与疾病报告资源（IPPC，2025）。尽管这些报告往往在害虫确立后才提交，但仍可为其他受影响国提供早期预警。沙尘蝗灾监测系统由 FAO 运营，是最有效的早期预警系统之一。该系统由西部、中部与西南亚三委员会以及沙尘蝗灾害控制委员会（DLCC）支持（FAO，2025a）。系统利用受监测国网络，进行调查并通过卫星工具与沙尘蝗灾害信息系统（DLIS）共享数据，自1978年起运营（FAO，2025b），并设于 FAO 总部。收集的数据与地理空间与气象数据共同分析，帮助监测总体形势并生成预测与预警，公开分享给相关国。类似工具目前正在中亚与高加索、全球稻军虫监测、北东近东红棕榈木蚀虫监测等地区开发。关于绿山楂甲，受侵树木表现出明显症状，但因其晚出现，基于症状的监测不适用于低密度检测。利用以成人甲虫为诱饵的陷阱是早期侵扰检测的有效方法，也是欧盟推荐的监测手段（EFSA，2023）。
+## Belangrijke relevante VN‑conventie / multilaterale verdrag
 
-### Monitoring
-下表提供昆虫害虫侵扰监测概览，可用于国家早期预警系统（EWS）预测。不同国家的 EWS 能力与流程差异，获取最准确、最具体信息时，请参照相应国家或地区灾害管理机构。  
-- **机构**：全球层面，IPPC 的害虫报告系统是官方检疫害虫与疾病报告资源（IPPC，2025）。  
-- **观测方式**：该系统通过受监测国网络进行调查并共享卫星工具数据（DLIS），并在 FAO 总部进行分析。其他昆虫通过官方报告、网络通信、直接沟通与公共新闻监测。  
+De International Plant Protection Convention (1997) is een intergouvernementaal verdrag ondertekend door meer dan 180 landen, met als doel de wereldwijde plantreserves te beschermen tegen de verspreiding en introductie van plagen en het bevorderen van veilig handelen (FAO, 2011). Het verdrag introduceerde internationale standaarden voor phytosanitaire maatregelen als het belangrijkste instrument om zijn doelen te bereiken, waardoor het de enige wereldwijde standaardinstelling voor plantgezondheid is (FAO, 2005). De IPPC is een van de **Drie Moeders** (Three Sisters) die erkend zijn door de Wereldhandelsorganisatie (WTO) Sanitary and Phytosanitary Measures (SPS) Agreement, samen met het Codex.
 
-### References
-（全文参考文献按原文列出，统一使用中文名，并保留原始引用信息。）
+Het Convention on Biological Diversity (1992) heeft drie hoofddoelen: de bescherming van biologische diversiteit, het duurzame gebruik van de componenten van biologische diversiteit, en het eerlijke en billijke deel van de voordelen die voortkomen uit het gebruik van genetische bronnen (United Nations, 1992). Op het moment van schrijven waren er 196 partijen bij het Convention on Biological Diversity (Convention on Biological Diversity, 2021).
+
+Codex Alimentarius (Codex Alimentarius, geen datum).  
+WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement) (1994) (WTO, geen datum).
+
+## Drijfveren
+
+De agrarische en bosbouwsectors staan voor vele risico’s, zoals klimaat- en marktvolatiliteit, plagen en ziekten, extreme weersomstandigheden en een steeds toenemende hoeveelheid langdurige crises en conflicten. Problemen rond uitbraken van dier- en plantplagen en -ziekten zijn van groot belang vanwege hun rol in biologische rampen en vele voedselketen‑noodgevallen. Voorkomende klimatologische omstandigheden, verstoring van ecosystemen en nalatigheid van landbouw‑ en boshygiëne dragen bij aan de groei van insectpopulaties die aanzienlijke schade veroorzaken. In veel gevallen leidt de langeafstandsverspreiding van insecten tot het vervoer van besmette goederen. Hogere temperaturen, zware en extreme weersomstandigheden en droogte‑stress kunnen allemaal leiden tot verminderde vitaliteit van bomen, waardoor ze vatbaarder worden voor uitbraken van inheemse en geïntroduceerde plagen en ziekten.
+
+De bossterfte van miljoenen hectare vennen door uitbraken van inheemse vennenkevers in Centraal-Amerika, Europa en Noord-Amerika is gerelateerd aan klimaatverandering, de impact van extreme weersomstandigheden en, in sommige gevallen, ongeschikte bosbeheerpraktijken (FAO, 2020a).
+
+## Impacten
+
+De voedselketen staat onder voortdurende bedreiging door een alarmerende toename van het aantal grensoverschrijdende dier- en plantplagen en -ziekten. Plagen, bosplagen en dierziekten behoren tot de meest kostbare rampen in Afrika – meer dan in Latijns‑Amerika en Azië – met een verlies van meer dan USD 6 miljard in landbouw tussen 2005 en 2015, waarbij insectenplagen tot 85 miljoen hectare bos verwoesten, voornamelijk in gematigde Noord-Amerika (FAO, 2018). Er zijn meer dan een miljoen insectensoorten. Deze omvatten enkele sleutelsoorten die directe schade toebrengen aan gewassen en natuurlijke vegetatie, zoals kruipkakels, hertelen, harnas‑wormen en vruchtenmieren, en ook diegenen die fungeren als vectoren voor de overdracht van plantziektes, zoals witte vliegen, bladluizen, spittlebugs en miermieren (FAO, 2021).
+
+De meest recente mondiale insectenplaagbesmetting wordt veroorzaakt door de fall armyworm (FAW), die zich verspreidt over vrijwel heel Afrika en het zuiden en zuidoosten van Azië, na zijn sprong van Latijns‑Amerika naar Afrika in 2016. Deze veroorzaakt momenteel schade aan miljoenen hectare, met name op maïs, maar ook op andere gewassen, waardoor significante voedselzekerheidsrisico’s ontstaan. De Food and Agriculture Organization of the United Nations (FAO) heeft een Global Action for FAW Control gelanceerd om internationale samenwerking te faciliteren tegen de insecten (FAO, 2020b). Insectenplaagbesmettingen kunnen voedselzekerheidsuitdagingen veroorzaken, vooral als de hoofdaardgewassen worden getroffen. Ze kunnen ook leiden tot markt‑ en prijsinstabiliteit. In bepaalde gevallen kunnen zulke besmettingen ernstige voedselonzekerheid veroorzaken, zoals de desert locust‑opwaartse incidenten in de Hoorn van Afrika en Jemen in 2020‑21 (FAO, 2022).
+
+Evenzo heeft de snelle verspreiding van fall armyworms in Afrika en Azië veel landen in een moeilijke positie gebracht om gewassen, met name die van kleine boeren, te beschermen. Naast de impact op voedselzekerheid kunnen insectenplaagbesmettingen ook natuurlijke landschappen verwoesten. Andere implicaties voor lokale bevolkingen kunnen lokale conflicten of migratie zijn als gevolg van tekorten in ernstige gevallen, die optreden bij grote kruipkakel‑opwaartse incidenten. Bovendien kunnen insecticide‑sprays implicaties hebben voor de gezondheid van lokale inwoners.
+
+## Multi‑hazard context
+
+De onderstaande afbeelding vat de gebruikelijke interacties tussen insectenplaagbesmettingen en andere risico’s samen. Deze informatie moet met voorzichtigheid worden gebruikt en mag niet uitsluitend als basis dienen voor Disaster Risk Management, vooral omdat sommige interacties mogelijk niet zijn opgenomen. Merk op dat gevaarlijke gebeurtenissen die samen of lokaal in ruimte of tijd voorkomen, niet noodzakelijkerwijs leiden, versterken of anderszins gerelateerd zijn. Specifieke voorbeelden van multi‑hazard context kunnen worden gevonden in de secties ‘Hazard drivers’ en ‘Impacts’ hierboven.
+
+## Multi‑hazard diagram
+
+## Risicobeheer
+
+Volg de principes van duurzame plantproductie, duurzaam bosbeheer en geïntegreerde plaagbeheerpraktijken; deze vormen de beste benadering voor controle, gericht op gediversifieerde productiesystemen, regelmatige surveillance, voorbereiding op potentiële uitbraken en een snelle respons om escalatie tot onbeheerbare schalen te voorkomen (Guzewich et al., 1997). Het verbeteren van nationale capaciteiten in voorbereiding, contingency‑planning, surveillance en snelle respons is cruciaal voor het voorkomen van besmettingen en het verminderen van hun impact. Evenzo zijn internationale samenwerkingen, data‑deling en kennisuitwisseling essentieel voor het aanpakken van grensoverschrijdende besmettingen en opwaartse incidenten. Goede voorbeelden van internationale samenwerking zijn de risico‑informeerde respons op de verspreiding van de fall armyworm over Afrika en Azië, evenals de desert locust‑opwaartse incidenten in 2020‑21. De FAO heeft meerdere wereldwijde initiatieven ontwikkeld en geïmplementeerd om deze uitdagingen aan te pakken (FAO, 2020c). In het geval van desert locusts hebben collectieve inspanningen van FAO, regeringen en partners 4,5 miljoen ton gewasverlies voorkomen, 900 miljoen liter melkproductie gered en voedsel voor bijna 42 miljoen mensen veiliggesteld (FAO, 2022). Post‑disaster needs assessment (PDNA) is ontworpen om onmiddellijke behoeften voor herstel en restauratie te evalueren voor een betere rampenrespons. De focus van deze missie ligt echter op het schatten van de sociaal‑economische impact; momenteel wordt niet rekening gehouden met langetermijnschade en verlies aan natuurlijke omgevingen en bossen. Bovendien blijven schade veroorzaakt door kleine‑schalen branden, kleine windstoten en lokale pestbesmettingen grotendeels niet gerapporteerd, ondanks het voldoen aan de universeel vastgestelde definitie van een ramp (FAO, 2018). Met betrekking tot insectenplaagbesmettingen in bossen is veel van wat momenteel bekend is over schade en beoordeling in de vorm van onderzoeksrapporten over het gebruik van remote sensing, maar vormt geen solide basis voor een rigoureus sector‑specifiek beoordeling (FAO, 2018). In het geval van Emerald Ash Borer‑besmettingen veroorzaakt de verspreiding van de insecten belangrijke biodiversiteitsverliezen en aanzienlijke kosten voor bos- en stedelijk beheer. Dit beïnvloedt bossen‑afhankelijke gemeenschappen wiens inkomen direct verbonden is met de gezondheid en productiviteit van bosecosystemen. Naarmate aspenbomen afnemen, lijden industrieën zoals houtverwerking, houtbewerking en kwekerijen, wat leidt tot een afname van het inkomen voor degenen die op deze activiteiten vertrouwen. Bovendien worden niet‑houten bosproducten, zoals noten en medicinale planten die groeien onder het bladerdak van aspen, eveneens beïnvloed, wat extra impact heeft op essentiële ecosysteemdiensten voor landelijke gemeenschappen. Internationale kennisdeling en samenwerking zijn cruciaal voor het opzetten van vroegwaarschuwingscommunicatie. Op globaal niveau kan het pest‑rapportagesysteem van IPPC worden beschouwd als de meest officiële bron voor rapporten over de gebeurtenis van quarantainplagen inclusief ziekten (IPPC, 2025). Hoewel dergelijke rapporten vaak later dan de vestiging van een plaag worden ingevoerd, kunnen ze nog steeds dienen als vroegwaarschuwingsbron voor andere betrokken landen. Een van de meest efficiënte monitor‑ en vroegwaarschuwingssystemen is het desert locust‑monitor‑systeem dat wordt uitgevoerd door FAO. Het systeem wordt ondersteund door drie commissies (Westelijke regio, Centrale regio en Zuid‑westelijke Azië) en de desert locust‑control committee (DLCC) (FAO, 2025a).
+
+## Monitoring
+
+De sectie en de tabel hieronder bieden een overzicht van monitoring voor insectenplaagbesmettingen. Deze informatie kan worden gebruikt voor voorspellingen binnen een nationaal vroegwaarschuwingssysteem (EWS). Aangezien de capaciteiten en processen van EWS verschillen per land, moet de meest actuele en specifieke informatie over EWS worden verkregen bij de relevante nationale of regionale instantie/autoriteit die verantwoordelijk is voor rampenbeheer.
+
+### Welke instelling(en) produceren Disaster Risk Data/Information?
+
+Op globaal niveau kan het pest‑rapportagesysteem van IPPC worden beschouwd als de meest officiële bron voor rapporten over de gebeurtenis van quarantainplagen inclusief ziekten (IPPC, 2025). Hoewel dergelijke rapporten vaak later dan de vestiging van een plaag worden ingevoerd, kunnen ze nog steeds dienen als vroegwaarschuwingsbron voor andere betrokken landen. In dit opzicht is het meest efficiënte monitor‑ en vroegwaarschuwingssysteem het desert locust‑monitor‑systeem dat wordt uitgevoerd door FAO. Het systeem wordt uitgevoerd door het Desert Locust Information Service (DLIS) en ondersteund door drie commissies (Westelijke regio, Centrale regio en Zuid‑westelijke Azië) evenals de desert locust‑control committee (DLCC) (FAO, 2025a).
+
+### Hoe wordt het hazard waargenomen/monitord/geforecast?
+
+Het systeem maakt gebruik van een netwerk van betrokken landen die enquêtes uitvoeren en gegevens delen via satelliettools met het Desert Locust Information Service (DLIS), dat sinds 1978 opereert (FAO, 2025b), en is gevestigd in het hoofdkantoor van FAO, waar de gegevens worden geanalyseerd samen met geospatiale en meteorologische gegevens. Analyse helpt bij het monitoren van de algemene situatie en het produceren van voorspellingen en vroegwaarschuwingssignalen voor potentiële uitbraken die publiekelijk worden gedeeld met de betrokken landen. Andere insecten worden gemonitord via officiële rapporten van landen, netwerkcommunicatie, directe communicatie en publieke nieuws. Het pest‑rapportagesysteem en de IPPC faciliteren de monitoring van officieel gerapporteerde plagen (IPPC, 2025a, b). Verschillende monitoringsystemen richten zich op plantplagen en ziekten, met name op regionaal niveau, zoals die in Europa (Peter et al., 2011) en Noord‑America (Meissner et al., 2015).
+
+## Referenties
+
+Codex Alimentarius, no date. About Codex Alimentarius. Accessed 20 March 2025.  
+Convention on Biological Diversity, 2021. The Convention on Biological Diversity. Accessed 20 March 2025.  
+Dickey, J.W.E., Cuthbert, R.N., South, J., Britton, J.R., Caffrey, J., Chang, X., Crane, K., Coughlan, N.E., Fadaei, E., Farnsworth, K.D., Ismar-Rebitz, SMH, Joyce, P.W.S., Julius, M., Laverty, C., Lucy, F.E., MacIsaac, H.J., McCard, M., McGlade, C.L.O., Reid, N., Ricciardi, A., Wasserman, R.J., Weyl, O.L.F., Dick, J.T.A., 2020. On the RIP: using Relative Impact Potential to assess the ecological impacts of invasive alien species. NeoBiota 55: 27–60. DOI: 10.3897/neobiota.55.4954. Accessed 28 May 2025.  
+EFSA (European Food Safety Authority), 2023. Pest survey card on Agrilus planipennis. EFSA supporting publication 2023: EN-8479. Accessed 20 March 2025.  
+FAO, no date. Insect Damage: Post-Harvest Operations. Food and Agriculture Organization of the United Nations (FAO). Accessed 20 March 2025.  
+FAO, 2005. International Standards for Phytosanitary Measures 1 to 24. Food and Agriculture Organization of the United Nations (FAO). Accessed 20 March 2025.  
+FAO, 2011. International Plant Protection Convention (1997). Food and Agriculture Organization of the United Nations (FAO). Accessed 20 March 2025.  
+FAO, 2018. The Impact of Disasters and Crises on Agriculture and Food Security. Food and Agriculture Organization of the United Nations (FAO). Accessed 20 March 2025.  
+FAO, 2020a. The State of the World’s Forests. Food and Agriculture Organization of the United Nations (FAO). Accessed 20 March 2025.  
+FAO, 2020b. The Global Action for Fall Armyworm Control - Action Framework 2020 | 2022 working together to tame the global threat. Food and Agriculture Organization of the United Nations (FAO). Accessed 20 March 2025.  
+FAO, 2020c. Global action for fall armyworm control. Food and Agriculture Organization of the United Nations (FAO). Accessed 20 March 2025.  
+FAO, 2021. Plant pests and diseases. Food and Agriculture Organization of the United Nations (FAO). Accessed 20 March 2025.  
+FAO 2022. Desert locust upsurge: Progress report on the response in the Greater Horn of Africa and Yemen, September–December 2021. Accessed 20 March 2025.  
+FAO, 2025a. Locust watch, Food and Agriculture Organization of the United Nations (FAO). Accessed 20 March 2025.  
+FAO, 2025b. Locust watch. Food and Agriculture Organization of the United Nations (FAO). Accessed 20 March 2025.  
+FAO, 2025c. Locust Watch: Locusts in Central Asia and Caucasus. Food and Agriculture Organization of the United Nations (FAO). Accessed 20 March 2025.  
+FAO, 2025d. FAMEWS Global platform. Food and Agriculture Organization of the United Nations (FAO). Accessed 20 March 2025.  
+Guzewich, J., Bryan, F., and Todd, E., 1997. Surveillance of foodborne disease I. Purposes and types of surveillance systems and networks. Journal of Food Protection, 60:555-566. DOI: 10.4315/0362-028X-60.5.555. Accessed 20 March 2025.  
+IPPC Secretariat, 2024. Glossary of phytosanitary terms. International Standard for Phytosanitary Measures No. 5. Rome. FAO on behalf of the Secretariat of the International Plant Protection Convention. Accessed 20 March 2025.  
+IPPC, 2025a. Pest reporting system. International Plant Protection Convention (IPPC). Accessed 20 March 2025.  
+IPPC, 2025b. Controlling a Desert Locust upsurge and its threat to food security. Available from: International Plant Protection Convention (IPPC). Accessed 20 March 2025.  
+IPPC, 2025c. Pest Outbreak Alert and Response System (POARS). International Plant Protection Convention (IPPC). Accessed 20 March 2025.  
+Kelnarova, E., Jendek, V., Grebennikov, V., Bocak, L., 2019. First molecular phylogeny of Agrilus (Coleoptera: Buprestidae), the largest genus on Earth, with DNA barcode database for forestry pest diagnostics. Bull Entomol Res.; 109(2):200-211.  
+Orlova‑Bienkowskaja, M.J., Drogvalenko, A.N., Zabaluev, I.A., et al., 2020. Bad and good news for ash trees in Europe: alien pest Agrilus planipennis has spread to the Ukraine and the south of European Russia, but does not kill Fraxinus excelsior in the forests. Annals of Forest Science 77, 29. Accessed 20 March 2025.  
+United Nations, 1992. Convention on Biological Diversity. Accessed 20 March 2025.  
+WTO, no date. The WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement) (1994). World Trade Organization (WTO). Accessed 20 March 2025.  
+
+Cite this [Copy citation]
+```

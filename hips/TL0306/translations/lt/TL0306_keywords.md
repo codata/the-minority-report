@@ -1,0 +1,1 @@
+explosive substance or agent,explosive substances,ammonium nitrate,fuel and oxidizer,primary explosives,secondary explosives,civilian explosives,emulsion explosives,binary explosives,home-made explosives,improvised explosive devices,blast effects,fragmenting charge,shock wave

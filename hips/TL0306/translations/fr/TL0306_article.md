@@ -1,90 +1,79 @@
-```markdown
-### Définition
+### Définition  
+Un **agent explosif** est une substance solide ou liquide (ou un mélange de substances) qui, par réaction chimique, est en lui-même capable de produire du gaz à une température, une pression et à une vitesse telles qu’elles causent des dommages aux environs. Les substances pyrotechniques et les mélanges y sont inclus, même lorsqu’ils ne libèrent pas de gaz. Les explosions peuvent entraîner de multiples victimes gravement blessées lors d’un seul incident (Adapté de l’ONU 2023 et du POSTNOTE du Parlement britannique 2011).  
 
-Un **agent explosif** est une substance solide ou liquide (ou un mélange de substances) capable, par réaction chimique, de produire du gaz à une température, une pression et une vitesse suffisantes pour endommager l’environnement. Les substances et mélanges **pyrotechniques** sont inclus, même lorsqu’ils ne génèrent pas de gaz. Les explosions peuvent provoquer de nombreux blessés graves lors d’un même incident (adapté de l’UN 2023 et du POSTNOTE du Parlement britannique 2011).
+### Référence(s) primaire  
+UN, 2023. Global Harmonized System of Classification and Labelling of Chemicals (GHS) tenth revised edition United Nations (UN). Accès le 15 mars 2025  
+UK Parliament POSTNOTE Explosive injury Number 395 December 2011. Accès le 14 mars 2025  
 
-### Références principales
+### Annotations  
+#### Description scientifique supplémentaire  
+Les **agents explosifs** sont utilisés commercialement dans diverses applications industrielles, dans les munitions, et dans les dispositifs explosifs improvisés qui peuvent être dangereux en stockage ou hors des zones de conflit. L’ammonium nitrate est un **agent explosif**, et son stockage inadéquat a causé plusieurs explosions. Par exemple, la détonation chimique massive du 4 août 2020 au Port de Beyrouth, Liban, a entraîné un incendie incontrôlé dans un entrepôt voisin qui a enflammé ~2 750 t d’ammonium nitrate (AN). La pression supersonique de l’explosion a fait 220 morts et blessés plus de 6 500, avec des dommages graves aux zones résidentielles et commerciales denses à proximité (Al‑Hajj et al., 2021). Les **agents explosifs** sont également inclus comme la « E » de CBRNE, l’abréviation couramment utilisée pour décrire l’usage de matériaux ou d’armes chimiques, biologiques, radiologiques, nucléaires et explosifs. L’usage malveillant de tels matériaux pourrait causer des préjudices ou des perturbations significatives (Goulart et al., 2022). Les **agents explosifs** constituent un sous‑ensemble de ce qui est communément désigné par les armes conventionnelles. Techniquement, il existe de nombreux types de matériaux explosifs, notamment les bombes, obus d’artillerie, grenades, missiles, mines terrestres et dispositifs explosifs improvisés, qui sont activés par la détonation d’une substance explosive haute (UNODA sans date).  
 
-- **UN, 2023.** *Système harmonisé mondial de classification et d’étiquetage des produits chimiques* (GHS) – dixième édition révisée, Nations Unies (UN). Consulté le 15 mars 2025.  
-- **UK Parliament POSTNOTE Explosive injury Number 395, décembre 2011.** Consulté le 14 mars 2025.
+### Types d’armes problématiques en matière de sécurité des munitions et de feu indirect  
+- Artillerie, fusées et mortiers, armes qui tirent en salves, comme les systèmes de fusée multi‑lancement, les grandes bombes larguées par avion et les missiles balistiques surface‑vers‑surface.  
+- Ces systèmes impliquent diverses munitions avec un grand rayon destructeur, des armes avec des systèmes de livraison imprécis ou des systèmes d’armes qui livrent plusieurs munitions sur une large zone (UNODA sans date).  
+- Une zone peuplée est généralement comprise comme une concentration permanente ou temporaire de civils et/ou d’objets civils.  
+- La préoccupation majeure est l’usage d’armes explosives, en particulier celles à impact de zone étendue, dans les zones peuplées.  
+- De nombreuses de ces armes ont été conçues à l’origine pour un usage sur des champs de bataille ouverts et sont intrinsèquement indiscriminées lorsqu’elles sont utilisées dans les zones peuplées, entraînant ainsi un accroissement des victimes civiles et des impacts humanitaires dévastateurs (UNODA sans date).  
 
-### Annotations – Description scientifique supplémentaire
+### Composants essentiels d’une explosion  
+Les **agents explosifs** transportent généralement à la fois le carburant et l’oxydant nécessaires au processus. Les composés à haute teneur en azote et oxygène sont souvent explosifs. Goulart et al. (2022) signalent que trois composantes sont nécessaires pour qu’une explosion se produise :  
+1. **Carburant** : une substance inflammable, qui peut être oxydée pour former des molécules stables, telles que le gaz d’azote (N₂), le dioxyde de carbone (CO₂) ou l’eau (H₂O). La formation de ces molécules stables libère une grande quantité d’énergie et les petites molécules en mouvement rapide sont responsables de l’onde de choc dommageable.  
+2. **Oxydant** : souvent l’oxygène (O₂), ou une espèce riche en oxygène comme l’anion nitrate, nécessaire en grande quantité et en combinaison avec le carburant pour produire une atmosphère explosive.  
+3. **Allumage** : une étincelle ou une chaleur élevée doit également être présente.  
 
-Les substances explosives sont commercialement utilisées dans diverses applications industrielles, dans les munitions, et dans les dispositifs explosifs improvisés (DEI) qui peuvent être dangereux en stockage et en dehors des zones de conflit. L’ammonium nitrate est un explosif ; son stockage inadéquat a provoqué plusieurs explosions. À titre d’exemple, la détonation massive du 4 août 2020 au port de Beyrouth, Liban, a entraîné un incendie incontrôlé dans un entrepôt voisin déclenchant ~2 750 t d’ammonium nitrate (AN). La pression supersonique et l’onde de souffle ont causé 220 morts et plus de 6 500 blessés, avec des dégâts majeurs aux zones résidentielles et commerciales denses (Al‑Hajj et al., 2021).
+### Résumé des explosifs  
+- **Explosifs primaires** : substances ou mélanges qui peuvent facilement être détonés par une impulsion simple non explosive (flamme, impact, friction, chaleur, électricité ou étincelle). Ils sont principalement utilisés là où l’on souhaite produire une onde de choc pour initier un explosif secondaire moins sensible ou une flamme pour initier des propulseurs. La plupart des explosifs primaires sont très sensibles aux stimuli mécaniques, rendant leur manipulation très dangereuse (Goulart et al., 2022).  
+- **Explosifs secondaires** : composés explosifs individuels ou formulations relativement insensibles aux stimuli non explosifs. Ils sont initiés par un dispositif de déclenchement. Utilisés pour les démolitions et pour obtenir des effets de fragmentation et d’accélération dans de nombreuses applications industrielles et militaires (Goulart et al., 2022).  
+- **Explosifs civils** : explosifs produits commercialement pour un usage non militaire. Exemples : dynamites, ANFO, explosifs à base d’émulsion (Goulart et al., 2022).  
+- **Explosifs de démolition** : terme utilisé pour les explosifs à usage civil, par ex. dans le forage, la construction routière, et la démolition (Goulart et al., 2022).  
+- **Explosifs à base d’émulsion** : explosifs sous forme d’émulsion. Relativement sûrs à utiliser et difficiles à déclencher. L’usage principal est pour les travaux civils dans l’industrie minière et les travaux de construction routière et tunnel (Goulart et al., 2022).  
+- **Matériaux énergétiques** : classe de composés, substances et formulations contenant une grande quantité d’énergie chimique stockée, pouvant être libérée de façon contrôlée. Inclut, mais sans se limiter à, explosifs, propulseurs, pyrotechniques et leurs ingrédients.  
+- **Explosifs binaires** : explosifs à deux composants contenant deux composés sûrs à manipuler. L’explosif final est préparé en mélangeant les deux composés avant utilisation.  
+- **Explosifs faits maison** (HMEs) : rencontrés couramment dans les dispositifs explosifs improvisés (DEI). Deux catégories principales : celles qui préparent ou utilisent les HMEs ; ils peuvent être fabriqués à partir de nombreux précurseurs, dont certains sont inoffensifs et facilement accessibles.  
+- **Attaques DEI** : problème mondial. Faciles et relativement simples à construire.  
 
-Les agents explosifs sont inclus sous la catégorie **E** du CBRNE (produits chimiques, biologiques, radiologiques, nucléaires et explosifs). L’usage malveillant de ces matériaux peut causer des dommages ou perturbations significatifs (Goulart et al., 2022). Ils constituent un sous‑ensemble des armes conventionnelles. Il existe de nombreux types de matériaux explosifs : bombes, obus d’artillerie, grenades, missiles, mines terrestres et DEI, activés par la détonation d’une substance explosive haute (UNODA, sans date).
+### Métriques et limites numériques  
+La masse de charge pour différents types d’**agents explosifs** peut être exprimée en équivalent TNT (kg). L’équivalent TNT se réfère à la quantité d’énergie libérée par une explosion, mesurée en termes de l’énergie libérée par une quantité spécifique de TNT.  
 
-### Types d’armes particulièrement problématiques
+### Convention pertinente de l’ONU  
+Convention sur certains armements conventionnels, Protocole II modifié (United Nations, 2008).  
 
-Les armes à usage indirect et les systèmes de tir en salve, tels que les systèmes multi‑lancement de roquettes, les grosses bombes larguées et les missiles balistiques surface‑vers‑surface, présentent un rayon de destruction important. Ces systèmes, utilisant des munitions à large rayon destructif, sont souvent indiscriminés lorsqu’ils sont déployés dans des zones peuplées, augmentant les pertes civiles et les impacts humanitaires (UNODA, sans date).
+En 2015, l’Afghanistan a pris l’initiative au sein de l’Assemblée générale des Nations Unies pour développer une résolution axée sur la nécessité d’une approche globale, exhaustive et coordonnée pour contrer la prolifération des DEI dans les contextes d’extrémisme violent et d’instabilité. La résolution (70/46), adoptée à consensus, appelait à la collecte cohérente de données, à la sensibilisation, aux options de réglementation des composants, à l’assistance technique internationale et à la coopération, ainsi qu’à l’assistance aux victimes.  
 
-### Principes de base de l’explosion
+### Exemples de facteurs de risque, résultats et gestion du risque  
+#### Facteurs de risque  
+Les facteurs de risque liés aux **agents explosifs** comprennent la manipulation inappropriée, le stockage non sécurisé et le transport non sécurisé (HSE, 2002). De nombreux types d’armes explosives existent et sont actuellement utilisés. Ceux-ci incluent les bombes à largage aérien, les obus d’artillerie, les missiles et fusées, les bombes mortier, et les dispositifs explosifs improvisés (DEI). Certains sont lancés depuis l’air, d’autres depuis la surface. Les caractéristiques techniques dictent leur précision et leur effet explosif, mais ces armes créent généralement une zone d’explosion et de fragmentation pouvant tuer, blesser ou endommager tout être ou objet dans cette zone. Cela rend leur utilisation dans les zones peuplées—telles que villes, marchés, camps de réfugiés et de personnes déplacées ou d’autres concentrations civiles—particulièrement problématique. Les problèmes s’intensifient davantage si l’effet de l’arme s’étend sur une vaste zone, soit par l’échelle de l’explosion, soit par l’inexactitude, soit par l’utilisation de multiples munitions sur une zone, soit par une combinaison. (UNOCHA 2017). L’ammonium nitrate est un **agent explosif** et son stockage inadéquat a causé plusieurs explosions (Al‑Hajj et al., 2021).  
 
-Un explosif peut être décrit par trois composants indispensables :
+#### Impacts  
+La zone de danger doit être évaluée chaque fois qu’un **agent explosif** ou un dispositif potentiellement explosif est trouvé ou utilisé. La zone de danger dépend de la quantité d’explosif. Elle doit prendre en compte les effets de l’onde de choc, les effets d’une charge fragmentatrice (éclats), la source fragmentatrice, la boule de feu, le volume de cratère et l’éjection de fragments. La zone de danger est plus grande pour une plus grande quantité d’explosif ainsi que pour une charge fragmentatrice.  
+La blessure dépend de l’emplacement spécifique de l’explosion et peut intensifier sa gravité, pouvant causer plus de dommages. Les blessures d’explosions sont généralement classées comme suit :  
+1. **Primaire** : causées par une augmentation soudaine de pression après l’explosion, affectant les organes contenant de l’air, tels que les poumons, l’oreille, l’œil, etc.  
+2. **Secondaire** : résultent des fragments d’obus et des débris alimentés par l’explosion. Ils ont des niveaux de létalité variables ; des fragments plus gros peuvent transférer plus d’énergie, augmentant les dommages.  
+3. **Tertiaire** : causées lorsque la victime est projetée par l’explosion et entre en collision avec des objets proches. Elles peuvent avoir des effets locaux et globaux ; déformation locale du plancher d’une structure de protection, par exemple, ou accélération globale de la structure elle‑même avec la victime à l’intérieur.  
+4. **Quaternaire** : liés aux effets thermiques de l’explosion, aux effets toxiques et à tout risque résultant de l’incident, comme l’enfouissement (roulement de véhicule dans une rivière) ou le gel (destruction de l’abri). (UK Parliament POSTNOTE 2011). La nature indiscriminée des explosions signifie que les enfants et les femmes, y compris les femmes enceintes, peuvent être blessés. La perturbation de la placenta et les fractures du crâne fœtal peuvent se produire à la suite de ces événements chez les femmes enceintes. Les enfants subissent une proportion plus élevée de blessures à la tête en raison de leur plus petite taille par rapport au reste du corps (UK Parliament POSTNOTE 2011).  
 
-1. **Carburant** : une substance inflammable pouvant être oxydée pour former des molécules stables (N₂, CO₂, H₂O).  
-2. **Oxydant** : souvent O₂ ou un ion nitrate, en grande quantité.  
-3. **Allumage** : source d’étincelle ou de chaleur élevée.
+### Contexte multi‑risques  
+La figure ci‑dessous résume les interactions courantes entre les **agents explosifs** et d’autres risques. Cette information doit être utilisée avec prudence et ne doit pas être prise comme seule référence en gestion du risque de catastrophe, notamment parce que certaines interactions peuvent ne pas avoir été incluses. Notez que les événements dangereux se produisant ensemble ou localement dans l’espace ou le temps ne causent pas nécessairement, amplifient ou sont liés les uns aux autres. Des exemples spécifiques de contexte multi‑risques se trouvent dans les sections « Facteurs de risque » et « Impacts » ci‑dessus.  
 
-#### Explosifs primaires
+### Gestion du risque  
+Formation à la compréhension du phénomène des explosions, y compris leurs conséquences, les techniques de prévention disponibles, et les exigences réglementaires pour un environnement de travail sûr et conforme. Elle est fournie par de nombreuses organisations. Les mécanismes existent dans de nombreux endroits et, à titre d’exemple, le Réseau européen de détection des engins explosifs (EEODN) est un réseau de spécialistes des explosifs et CBRN provenant des autorités compétentes des États membres de l’UE. Créé par EUROPOL en 2008 afin de faciliter la coopération, de partager les informations techniques et de cas parmi les spécialistes des explosifs et CBRN de l’UE et d’organiser des formations et exercices conjoints.  
+- **Exemples de gestion du risque** : Goulart et al. (2022) décrivent les systèmes de détection d’explosifs dans la sécurité aéroportuaire, généralement constitués d’équipements de contrôle X‑ray pour le bagage de fret (également appelé bagage enregistré).  
+- **Chiens de détection d’explosifs (CDD)** : chiens formés pour la détection d’explosifs et utilisés comme détecteurs mobiles avec une capacité unique à trouver la source, grâce à leur forte sensibilité aux odeurs (1 000‑10 000 000 fois plus élevée que celle d’un être humain, expliquée par la présence de 300 millions de récepteurs olfactifs qui tapissent leurs narines, contre 6 millions chez l’être humain). Cependant, la détection canine a des limites en termes de communication d’une identification de la substance détectée. Les CDD sont autorisés comme méthode de dépistage pour les personnes, le bagage de cabine et le bagage de fret ainsi que le fret dans l’aviation civile. Ils sont également fréquemment utilisés dans la protection des infrastructures.  
+- **Renforcement de la vigilance et des contrôles nationaux** : Les DEI sont souvent fabriqués avec des explosifs provenant de sources militaires ou commerciales. La résolution de l’Assemblée générale des Nations Unies appelle à la mise en place de mesures pour établir des contrôles plus stricts sur les matériaux ou les composants utilisés pour fabriquer des DEI. Ces contrôles pourraient englober les stocks d’armes militaires et les déclencheurs industriels, les cordons de détonation et les explosifs industriels, tels que ceux utilisés dans l’exploitation minière. Les industries et corporations pertinentes pourraient également être encouragées à s’engager dans la réglementation des précurseurs et des composants préfabriqués.  
+- **Renforcement du partage d’informations** : en raison de la conception ad‑hoc des DEI, il existe un besoin impératif pour les États de partager les informations sur la composition et les méthodes de production des DEI capturés, y compris après les attaques DEI. La résolution souligne cette nécessité. Un partage efficace des informations sur les conceptions DEI et les composants entre les États membres peut raccourcir la courbe d’apprentissage que les forces militaires et de sécurité doivent traverser pour identifier et développer des contre‑mesures efficaces. De plus, les civils seront mieux protégés lorsque le partage d’informations efficace sur les nouvelles conceptions DEI conduira à une neutralisation plus rapide.  
+- **Observations du Secrétaire‑général** : Le Secrétaire‑général des Nations Unies a souligné l’impact indiscriminé et grave des armes explosives dans les zones peuplées depuis 2009. Il a constamment utilisé ses rapports au Conseil de sécurité sur la protection des civils en conflit armé pour attirer l’attention sur les effets dévastateurs de l’utilisation d’armes explosives dans les zones peuplées sur les civils ; et continue d’exhorter les parties au conflit armé et les États à éviter l’usage d’armes explosives dans les zones peuplées, à travailler à retirer le conflit des zones urbaines dans leur ensemble et à éviter de localiser des objectifs militaires à l’intérieur ou à proximité de zones densément peuplées (UNODA sans date).  
 
-Substances ou mélanges très sensibles, facilement détontés par une impulsion simple (flamme, impact, friction, chaleur, électricité). Utilisés pour initier des explosifs secondaires ou des propulseurs.  
+### Surveillance  
+La surveillance et le partage de systèmes d’alerte précoce dans l’Union européenne (UE) font partie du plan d’action de l’UE visant à renforcer la sécurité des explosifs. Le système d’alerte précoce de l’UE est utilisé pour échanger des informations entre les autorités des différents États membres, sur, par exemple : menaces immédiates, vol d’explosifs, vol de déclencheurs, découverte de nouveaux modus operandi, etc. (Goulart et al., 2022).  
 
-#### Explosifs secondaires
-
-Composés relativement inertes, initiés par un détonateur. Utilisés pour le forage et l’atteinte de fragments dans de nombreuses applications industrielles et militaires.
-
-### Catégories spécifiques
-
-| Catégorie | Description |
-|-----------|-------------|
-| **Explosifs civils** | Produits commerciaux non militaires (dynamite, ANFO, explosifs à base d’émulsion). |
-| **Explosifs de forage** | Utilisés dans le terrassement, la construction routière, la démolition. |
-| **Explosifs à base d’émulsion** | Formulation à base d’émulsion, plus sûrs et plus difficiles à initier. |
-| **Matériaux énergétiques** | Composés contenant une grande énergie chimique stockée, incluant explosifs, propulseurs et pyrotechniques. |
-| **Explosifs binaires** | Deux composants sûrs, combinés juste avant l’utilisation. |
-| **DEI maison** | Souvent à base de précurseurs accessibles ; menace globale. |
-
-### Métriques et limites numériques
-
-La masse de charge varie en **équivalent TNT** (kg). L’équivalent TNT mesure l’énergie libérée par l’explosion, exprimée par rapport à une quantité donnée de TNT.
-
-### Conventions et traités pertinents
-
-- *Convention sur certaines armes conventionnelles, Protocole II modifié* (UN, 2008).  
-- Résolution de l’Assemblée générale de l’ONU (70/46, 2015) : collecte de données, régulation des composants, assistance internationale.
-
-### Gestion des risques – Enjeux
-
-| Facteur | Impact | Mesures de gestion |
-|---------|--------|--------------------|
-| **Manipulation inappropriée** | Risque d’explosion | Formation, équipements de protection |
-| **Stockage dangereux** | Accumulation de charge | Sécurité accrue, stockage sécurisé |
-| **Transport non sécurisé** | Exposition aux civils | Réglementation stricte, suivi en temps réel |
-| **Usage dans zones peuplées** | Pertes civiles massives | Interdiction, plan de prévention |
-| **DEI** | Attaques ciblées | Surveillance, partage d’informations, désinfluence |
-
-### Contrôle, détection et partage d’information
-
-- **Réseau européen de neutralisation d’explosifs** (EEODN) – coordination entre autorités nationales.  
-- **Chiens de détection d’explosifs (CDD)** – outil mobile de détection.  
-- **Contrôles de stockpile** – renforcés par la résolution de l’ONU.  
-- **Système d’alerte précoce de l’UE** – échange d’informations sur menaces émergentes.
-
-### Surveillance
-
-- **Système d’alerte précoce européen (EU EWS)** – partage d’informations sur vols, défaillances, nouveaux modus operandi.
-
-### Références
-
-- Al‑Hajj, S. et al. (2021). *Beirut Ammonium Nitrate Blast: Analysis, Review, and Recommendations*. Frontiers in Public Health, 9, 10.3389/fpubh.2021.657996.  
-- Goulart De Medeiros, M. et al. (2022). *EU CBRNe Glossary*. Publications Office of the European Union.  
-- Health and Safety Executive (HSE) (2002). *Dangerous Substances and Explosive Atmospheres Regulations 2002*.  
-- UK Parliament POSTNOTE (2011). *Explosive injury Number 395*.  
-- United Nations (2008). *Convention on Certain Conventional Weapons*.  
-- United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA) (2017). *Compilation of Military Policy and Practice*.  
-- United Nations Office for Disarmament Affairs (UNODA) (2014). *Improvised Explosive Devices (IEDs) Publication*.
-
-```
-
-*Note : Tous les termes techniques sont traduits conformément aux usages DRR et aux conventions géologiques/technologiques françaises. Les citations restent formatées en français et les abréviations sont définies une seule fois.*
+## References  
+Al‑Hajj, S., Dhaini, H. R., Mondello, S., Kaafarani, H., Kobeissy, F., DePalma R. G., 2021. Beirut Ammonium Nitrate Blast: Analysis, Review, and Recommendations. Frontiers in Public Health, 9, 10.3389/fpubh.2021.657996, https://www.frontiersin.org/journals/public-health/articles/10.3389/fpu… Accessed 12 March 2025.  
+Goulart De Medeiros, M., Lequarre, A., Geypens, B., Santopolo, D., Daoust‑Maleval, I., Brzozowski, K. and Iatan, A., EU CBRNe Glossary, Publications Office of the European Union, Brussels, 2022. ISBN 978-92-76-58865-8, doi:10.2760/0, JRC128863. Accessed 12 March 2025.  
+Health and Safety Executive (HSE), 2002. Dangerous Substances and Explosive Atmospheres Regulations 2002 SI 2002/2776. Health and Safety Executive (HSE). Accessed 20 May 2025  
+UK Parliament POSTNOTE Explosive injury Number 395 December 2011. Accessed 14 March 2025.  
+United Nations, 2008. Convention on Certain Conventional Weapons. Amended Protocol II. Group of Experts. Accessed 14 March 2025.  
+United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA), 2017. Compilation of Military Policy and Practice: Reducing the humanitarian impact of the use of explosive weapons in populated areas United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA). Accessed 10 March 2025.  
+United Nations Office for Disarmament Affairs (UNODA), no date. Explosive weapons in populated areas. United Nations Office for Disarmament Affairs (UNODA). Accessed 10 March 2025.  
+United Nations Office for Disarmament Affairs (UNODA), 2014. Improvised Explosive Devices (IEDs) Publication. United Nations Office for Disarmament Affairs (UNODA). Accessed 14 March 2025.  
+Cite this [Copy citation]

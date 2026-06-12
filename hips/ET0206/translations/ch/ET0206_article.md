@@ -1,78 +1,87 @@
-> ### 定义  
-> **太空碎片** 指所有人造物体，包括碎片及其部分，位于地球轨道或正在重新进入大气层的，且失效的（COPUOS, 2002；UNOOSA, 2007）。  
->   
-> ### 主要参考文献  
-> - 和平利用外太空委员会（COPUOS），2002。多机构太空碎片协调委员会。*太空碎片减缓指南*。官方报告 A/AC.105/C.1/L.260。访问时间：2025 年 2 月 25 日。  
-> - 国际宇宙事务办公室（UNOOSA），2007。*太空碎片减缓指南*。访问时间：2024 年 6 月 18 日。  
->   
-> ### 说明  
-> #### 产生原因  
-> 1. 在正常操作期间释放。  
-> 2. 任务期间意外破碎。  
-> 3. 发射阶段的意外碰撞。  
-> 4. 故意摧毁任何在轨卫星、运载火箭阶段或其他产生长期碎片的有害活动。  
-> 5. 任务后因储能导致的破碎（UNOOSA, 2007；COPUOS, 2024）。  
->   
-> ### 指标与数值限制  
-> 目前 COPUOS、UNOOSA 或 ITU 尚未在国际层面制定正式指标。一些地区与国家机构已提供估算：  
-> - COPUOS 2024 年报告指出，1957–2023 年共计记录 58,000 个轨道物体，28,000 个仍在轨道上。  
-> - 其中约 12,500 个为卫星，其余为运载火箭残骸或碎片。  
-> - 总质量估计超过 11,500 吨，卫星占约 65 %，运载火箭占约 32 %。  
-> - 约一半质量集中在近地轨道。  
->   
-> ### 关键 UN 公约 / 多边条约  
-> - 太空碎片减缓指南（COPUOS，UNOOSA，2010）。  
-> - 国际电信联盟（ITU）推荐 ITU‑R S.1003‑2（ITU，2010）。  
->   
-> ### 主要驱动因素  
-> 1. 事故与故意破碎，产生长期碎片。  
-> 2. 在运载火箭阶段和卫星运行期间故意释放碎片（UNOOSA，2007；COPUOS，2024）。  
->   
-> ### 影响  
-> 1. 大于数厘米尺寸的碎片对在轨卫星、国际空间站及其他空间站构成危害。  
-> 2. 典型相对速度为 10–15 km/s（NASA，2024）。  
-> 3. ESA（2024）指出，10 cm 以上碎片撞击可能导致卫星毁坏。  
-> 4. 环境影响包括光污染、再入时将铝氧化物沉积至高层大气，改变太阳辐射，潜在影响地球气候。  
-> 5. 也会干扰通信基础设施和功能，削弱空间观测能力。  
->   
-> ### 多灾害情境  
-> 下图概述了太空碎片与其他灾害的常见交互。请谨慎使用，避免过度依赖，尤其在灾害风险管理中，某些交互可能未被涵盖。  
-> （此处插入多灾害图示）  
->   
-> ### 风险管理  
-> 国际努力始于 1980 年代末，源于 Arianne‑1 火箭第二阶段在近地轨道爆炸，产生 400 多个大型碎片。1993 年在莫斯科正式采纳 IADC。2003 年联合国大会通过 COPUOS 建议，STSC 开始将太空碎片列为议题，并成立专项工作组，制定基于 IADC 指南及联合国条约的技术标准。2007 年联合国大会通过《太空碎片减缓指南》（COPUOS，2008）。指南包括：  
-> - 1️⃣ 限制正常操作期间碎片释放。  
-> - 2️⃣ 最小化操作阶段的破碎风险。  
-> - 3️⃣ 限制轨道碰撞概率。  
-> - 4️⃣ 避免有害活动与有意摧毁。  
-> - 5️⃣ 最小化任务后碎片破碎。  
-> - 6️⃣ 限制长期在近地轨道停留。  
-> ITU 在 2010 年发布《GEO 区域环境保护推荐》（ITU‑R S.1003‑2），提出：  
-> 1️⃣ 在 GEO 轨道发射时尽量减少碎片释放。  
-> 2️⃣ 缩短椭圆转移轨道碎片寿命。  
-> 3️⃣ 在轨卫星寿命终止前移除。  
-> 4️⃣ 转移至“墓地轨道”时避免干扰。  
->   
-> ### 监测  
-> 目前没有专门的国际预警系统。美国太空监视网络（SSN）跟踪碎片，并在出现 1/10,000 级别的可信威胁时向国际空间站发出警报，促使其执行规避机动（NASA，2024）。欧空局（ESA，2013）公布咨询委员会（CCSDS）发布首个碰撞警报标准信息格式，供各国空间机构共享。  
->   
-> ### 参考文献  
-> 1. 和平利用外太空委员会（COPUOS），无日期。多机构太空碎片协调委员会。*太空碎片减缓指南*。官方报告 A/AC.105/C.1/L.260。访问时间：2024 年 6 月 10 日。  
-> 2. 和平利用外太空委员会（COPUOS），2024。*联合国系统内关于太空碎片的特殊报告*。官方报告 A/AC.105/1317。2024 年 5 月 20 日。  
-> 3. 欧空局（ESA），无日期。*太空碎片网页*。访问时间：2024 年 6 月 24 日。  
-> 4. 欧空局（ESA），无日期。*按数字划分的太空碎片网页*。访问时间：2024 年 6 月 24 日。  
-> 5. 欧空局（ESA），2024。*太空安全：高超音速撞击与卫星保护网页*。访问时间：2024 年 6 月 25 日。  
-> 6. 欧空局（ESA），2013。*太空安全网页*。访问时间：2024 年 6 月 25 日。  
-> 7. 德国航空航天中心（DLR），无日期。*太空碎片网页*。访问时间：2024 年 6 月 24 日。  
-> 8. 日本宇宙航空研究开发机构（JAXA），无日期。*地球与空间安全网页*。访问时间：2024 年 6 月 24 日。  
-> 9. NASA，2019。*太空碎片*。美国国家航空航天局（NASA）。访问时间：2024 年 6 月 26 日。  
-> 10. 联合国，2003。*联合国大会关于和平利用外太空国际合作主题的决议 57/116*。官方报告 57/116，2003 年 2 月 23 日。访问时间：2024 年 6 月 24 日。  
-> 11. 联合国，2008。*联合国大会关于和平利用外太空国际合作主题的决议 62/217*。官方报告 57/116，2008 年 2 月 1 日。访问时间：2024 年 6 月 24 日。  
-> 12. 国际宇宙事务办公室（UNOOSA），2010。*太空碎片减缓指南*。访问时间：2024 年 6 月 18 日。  
-> 13. 国际宇宙事务办公室（UNOOSA），2024。*太空碎片减缓标准编目*。访问时间：2024 年 6 月 18 日。  
-> 14. 国际电信联盟（ITU），2010。*ITU‑R S.1003‑2（12/2010）*。访问时间：2025 年 5 月 23 日。  
-> 15. 国际电信联盟（ITU），无日期。*指南、行为准则与最佳实践*。访问时间：2024 年 6 月 25 日。  
-> 16. 美国国家航空航天局（NASA），无日期。*轨道碎片网页，常见问题*。访问时间：2024 年 6 月 24 日。  
-> 17. 美国国家航空航天局（NASA），2024。*NASA 轨道碎片计划办公室网页*。访问时间：2024 年 6 月 24 日。  
+### Definition  
+Weltraumschrott bezieht sich auf alle von Menschen hergestellten Objekte, einschließlich Fragmente und Elemente dieser, die sich in Erdumlaufbahnen befinden oder in die Atmosphäre zurückkehren und nicht mehr funktionsfähig sind (COPUOS, 2002 und UNOOSA, 2007).
 
----
+### Primary reference(s)  
+Committee on the Peaceful Uses of Outer Space (COPUOS), 2002. Inter‑Agency Space Debris Coordination Committee. **Weltraumschrottminderungsrichtlinien**. Official report A/AC.105/C.1/L.260. Zugriff 25. Februar 2025  
+United Nations Office for Outer Space Affairs (UNOOSA), 2007. **Weltraumschrottminderungsrichtlinien** der Committee on the Peaceful Uses of Outer Space. Zugriff 18. Juni 2024.
+
+### Annotations  
+
+#### Additional scientific description  
+Weltraumschrott entsteht durch:  
+- Freisetzung während normaler Operationen von Raumschiffen im Weltraum,  
+- Zufällige Brüche von Raumschiffen während operativer Phasen,  
+- Zufällige Kollisionen während der Platzierung von Raumschiffen oder wenn sie bereits im Weltraum sind,  
+- Absichtliche Zerstörung von Raumschiffen und Raketenstufen oder andere schädliche Aktivitäten, die langlebigen Weltraumschrott erzeugen,  
+- Post‑missionale Brüche durch gespeicherte Energie von Raumschiffen (UNOOSA, 2007; COPUOS, 2024).
+
+### Metrics and numeric limits  
+Keine offiziellen Metriken wurden bisher von COPUOS, UNOOSA oder ITU auf internationaler Ebene definiert. Einige regionale und nationale Weltraumagenturen haben Schätzungen veröffentlicht. In einem aktuellen Bericht des Committee on the Peaceful Uses of Outer Space (COPUOS 2024) zeigte das United Nations Office for Outer Space Affairs, dass von 1957 bis 2023 insgesamt 58 000 Orbitalobjekte katalogisiert wurden, von denen 28 000 noch in Umlaufbahn sind. Von den noch in Umlaufbahn befindlichen Objekten waren etwa 12 500 Satelliten, während der Rest Raketenkörper oder Weltraumschrott ausstellte. Die gesamte Masse der Objekte wurde auf über 11 500 Tonnen geschätzt, wobei Satelliten etwa 65 % der Gesamtmasse ausmachen und Raketenkörper etwa 32 %. Etwa die Hälfte der Masse konzentriert sich in der niedrigen Erdumlaufbahn.  
+
+Der Weltraumschrottbüro der Europäischen Weltraumorganisation (ESA) führt ein Register von in den Weltraum gestarteten Objekten und Daten zu Weltraumschrott. Das Büro schätzt, dass es:  
+- 40 500 Weltraumschrottobjekte größer als 10 cm,  
+- 1 100 000 Weltraumschrottobjekte von größer als 1 cm bis 10 cm,  
+- 130 Millionen Weltraumschrottobjekte von größer als 1 mm bis 1 cm gibt.  
+Weltraumschrott erstreckt sich auch auf die niedrige Erdumlaufbahn (LEO), wo Millionen von Schrottstücken gefunden werden. Diese stammen überwiegend anthropogenen Ursprungs, wie Stücke von Raumfahrzeugen, Pinselstreifen von Satelliten, Teile von Raketen oder nicht mehr funktionsfähige Satelliten. Diese Objekte fliegen mit hohen Geschwindigkeiten (bis zu 18 000 Meilen pro Stunde) und stellen Astronauten und Ausrüstung im Weltraum ein erhebliches Risiko dar. Einige der gefährdeten Ausrüstungen sind entscheidend für globale Kommunikations- und Erdbeobachtungssysteme, einschließlich Wetter- und Gefahrenvorhersage sowie Frühwarnsysteme (NASA, 2019).  
+
+Es existiert kein internationales Weltraumgesetz zur Beseitigung von Weltraumschrott in der LEO, wo die Entfernung von Weltraumschrott teuer ist, da sich dort fast 6 000 Tonnen Material befinden. Das NASA Orbital Debris Program begann 1979 im Space Sciences Branch am Johnson Space Center in Houston, Texas. Das Programm sucht nach Wegen, weniger Weltraumschrott zu erzeugen, und entwickelt Ausrüstung zur Verfolgung und Beseitigung bereits vorhandenen Schrott (NASA, 2019).
+
+### Key relevant UN convention / multilateral treaty  
+- **Weltraumschrottminderungsrichtlinien** der United Nations Committee on the Peaceful Uses of Outer Space (COPUOS) (UNOOSA, 2010)  
+- Empfehlung der Internationalen Fernmeldeunion (ITU) ITU‑R S.1003‑2 (ITU, 2010)
+
+### Drivers  
+Die primären Quellen für Weltraumschrott in Erdumlaufbahnen sind:  
+- Zufällige und absichtliche Brüche, die langlebigen Schrott erzeugen,  
+- Schrottfreisetzung absichtlich während der Operation von Raketenstufen und Raumschiffen (UNOOSA, 2007; COPUOS, 2024).
+
+### Impacts  
+Schrott größer als einige Zentimeter stellt eine Gefahr für operative Satelliten, die Internationale Raumstation sowie andere Weltraumstationen in Umlaufbahn dar. Die Gefahr resultiert nicht nur aus der Masse der Objekte, sondern auch aus der relativ hohen Geschwindigkeit, mit der Schrott im Weltraum im Verhältnis zu Satelliten und Stationen reist. Relativgeschwindigkeiten von 10 bis 15 Kilometern pro Sekunde sind typisch für Weltraumschrott (NASA, 2024). Die Europäische Weltraumorganisation (ESA, 2024) weist darauf hin, dass Kollisionen von Schrott der Größe von 10 cm und größer mit einem Raumfahrzeug höchstwahrscheinlich das Raumfahrzeug zerstören. Die Umweltwirkungen von Weltraumschrott umfassen Lichtverschmutzung und den Wiedereintritt von Aluminium in die obere Atmosphäre, mit Änderungen der Solarstrahlung, die das Klima der Erde beeinflussen könnten. Darüber hinaus gibt es Risiken für die Störung der Kommunikationsinfrastruktur und -funktionalität. Es kann auch die Fähigkeit beeinträchtigen, den Weltraum zu beobachten.
+
+### Multi‑hazard context  
+Die nachstehende Abbildung fasst typische Wechselwirkungen zwischen Weltraumschrott und anderen Gefahren zusammen. Diese Informationen sollten mit Vorsicht verwendet und nicht ausschließlich für das Katastrophenrisikomanagement herangezogen werden, insbesondere da einige Interaktionen möglicherweise nicht berücksichtigt wurden. Beachten Sie, dass Gefährdungseignisse, die zusammen oder lokal im Weltraum oder in der Zeit auftreten, nicht zwangsläufig eine Ursache, Verstärkung oder sonstige Beziehung zueinander haben. Spezifische Beispiele für einen Mehrfachgefahrskontext finden Sie in den Abschnitten „Treiber“ und „Auswirkungen“ oben.
+
+#### Multi‑hazard diagram  
+*(Diagramm einfügen – hier wird es im Text nicht reproduziert.)*
+
+### Risk Management  
+Die Ursprünge internationaler Bemühungen zur Bewältigung der Herausforderungen durch Weltraumschrott begannen Ende der 1980er Jahre. Diese Bemühungen ergaben sich aus der Explosion der zweiten Stufe einer Ariane‑1‑Rakete in der niedrigen Erdumlaufbahn, die mehr als 400 große Schrottstücke erzeugte. Der Inter‑Agency Space Debris Coordination Committee (IADC) wurde offiziell in Moskau im Oktober 1993 etabliert. Auf höchster internationaler Ebene der Vereinten Nationen und im Bewusstsein der Notwendigkeit, das Risiko von Weltraumschrott anzugehen, unterstützte die Generalversammlung der Vereinten Nationen die Empfehlung des COPUOS, dass das wissenschaftliche und technische Unterausschuss (STSC) einen Posten zu Weltraumschrott berücksichtige (COPUOS, 2003). Seitdem ist das Thema Weltraumschrott ein fester Bestandteil der Agenda dieses Unterausschusses. Der Unterausschuss stellte eine spezialisierte Arbeitsgruppe ein, um einen Satz empfohlener Richtlinien auf der Grundlage der technischen Inhalte und der grundlegenden Definitionen der IADC‑Richtlinien zur Weltraumschrottminderung zu entwickeln und dabei die UN‑Verträge und Prinzipien zum Weltraum zu berücksichtigen. Auf Empfehlung des Unterausschusses entwickelte das Komitee die Weltraumschrottminderungsrichtlinien des Committee on the Peaceful Uses of Outer Space, die von der Generalversammlung der Vereinten Nationen in ihrer Resolution 62/217 vom 22. Dezember 2007 (COPUOS, 2008) bestätigt wurden.  
+
+Die COPUOS‑Richtlinien zur Weltraumschrottminderung umfassen:  
+1. **Grenzen der Freisetzung** – Weltraumsysteme sollten so ausgelegt sein, dass während normaler Operationen kein Schrott freigesetzt wird. Falls dies nicht möglich ist, muss die Auswirkung einer Freisetzung auf die Weltraumumgebung minimiert werden.  
+2. **Vermeidung von Brüchen** – Raumschiffe und Raketenstufen sollten so ausgelegt sein, dass Fehlermodi, die zu zufälligen Brüchen führen könnten, vermieden werden. Wird ein solches Risiko erkannt, sollten Entsorgungs- und Passivierungsmaßnahmen geplant und umgesetzt werden.  
+3. **Kollisionvermeidung** – Bei der Entwicklung von Design und Missionsprofil für Raumschiffe und Raketenstufen sollte die Wahrscheinlichkeit einer zufälligen Kollision mit bekannten Objekten während der Startphase und der Umlaufzeit geschätzt und begrenzt werden. Bei Indizien für eine potenzielle Kollision sollten Zeitplananpassungen oder manövrierfähige Evakuierungen in Betracht gezogen werden.  
+4. **Vermeidung absichtlicher Zerstörung** – Die Bewältigung des erhöhten Kollisionrisikos erfordert die Vermeidung absichtlicher Zerstörung von Raumschiffen und Raketenstufen sowie sonstiger schädlicher Aktivitäten, die langlebigen Schrott erzeugen.  
+5. **Nachrichtliche Brüche** – Zur Begrenzung des Risikos für andere Raumschiffe und Raketenstufen bei post‑missionen Brüche sollten alle an Bord befindlichen Energiespeicher entladen oder sicher gemacht werden, sobald sie für die Mission nicht mehr benötigt werden.  
+6. **Langzeitpräsenz** – Raumschiffe und Raketenstufen, die ihre operativen Phasen in Umlaufbahnen abgeschlossen haben, die durch die niedrige Erdumlaufbahn (LEO) hindurchgehen, sollten kontrolliert aus der Umlaufbahn entfernt werden. Falls dies nicht möglich ist, sollten sie in Umlaufbahnen entsorgt werden, die ihre langfristige Präsenz in der LEO‑Region vermeiden.  
+
+Die International Telecommunications Union (ITU) hat 2010 ihre Empfehlung zum Umweltschutz der geostationären Satellitenumlaufbahn (ITU, Recommendation ITU‑R S.1003‑2 12/2010) veröffentlicht, die folgende Maßnahmen zur Minimierung von Weltraumschrott beinhaltet:  
+1. **Wenig Schrott freisetzen** – Bei der Platzierung von Satelliten in Umlaufbahn soll so wenig Schrott wie möglich freigesetzt werden.  
+2. **Langlebigkeit reduzieren** – Für Ellipsentransfer-Umlaufbahnen mit Apogeen nahe der GSO‑Höhe sollte die Lebensdauer von Schrott verkürzt werden.  
+3. **Abschaltung vor Ablauf** – Bevor ein geostationärer Satellit am Ende seines Lebens vollständig betankt ist, sollte er aus der GSO‑Region entfernt werden, sodass er sich unter Einfluss von Störkräften in einer Umlaufbahn mit einem Perigäum von mindestens 200 km über der geostationären Höhe befindet.  
+4. **Transfer zur Gräber-Orbit** – Die Entfernung zur Gräber-Orbit sollte mit besonderer Vorsicht erfolgen, um RF‑Störungen mit aktiven Satelliten zu vermeiden.  
+
+Zusätzlich gibt es Bemühungen, Weltraumschrott‑Entfernungsraumfahrzeuge zu entwickeln. Diese befinden sich jedoch nur noch im experimentellen Stadium. Öffentliche Weltraumagenturen und private Unternehmen sind in solche Bemühungen involviert. Zur Nachverfolgung der Umsetzung von Weltraumschrottminderungsmaßnahmen haben mehrere Mitgliedstaaten der Vereinten Nationen ein Kompendium von Weltraumschrottminderungsstandards entwickelt, das von Staaten und internationalen Organisationen angenommen wurde. Das Kompendium sammelt Informationen zu allen Gesetzen oder Standards, die in Bezug auf Weltraumschrottminderung angenommen wurden. Das Kompendium wurde zuletzt im April 2024 aktualisiert (UNOOSA, 2024). Die ITU hat ebenfalls eine dedizierte Webseite eingerichtet, die Links zu Richtlinien, Politiken, Gesetzen, Best Practices und anderen Maßnahmen, die von internationalen und regionalen Organisationen sowie Mitgliedstaaten der Vereinten Nationen umgesetzt wurden, sammelt.
+
+### Monitoring  
+Es gibt kein internationales Frühwarnsystem, das von der Weltraumgemeinschaft eingerichtet wurde, um Weltraumschrott zu adressieren. Jedoch setzen spezifische Weltraumagenturen Maßnahmen um, die viele Elemente von menschenzentrierten Frühwarnsystemen enthalten. Das United States Space Surveillance Network überwacht Weltraumschrott, und wenn eine glaubwürdige Bedrohung vorliegt (Wahrscheinlichkeit im Bereich von 1 zu 10 000), wird das Netzwerk die Internationale Raumstation alarmieren, damit diese Manöver zur Kollisionvermeidung durchführen kann (NASA, 2024). Im Jahr 2013 berichtete die Europäische Weltraumorganisation (ESA, 2013), dass das Consultative Committee for Space Data Standards (CCSDS) das erste standardisierte Nachrichtenformat für Kollisionwarnungen veröffentlicht hat. Der neue Standard ermöglicht es Weltraumagenturen aus verschiedenen Ländern oder Regionen weltweit, Warnungen über standardisierte Texte auszutauschen.
+
+**References**  
+Committee on the Peaceful Uses of Outer Space (COPUOS), no date. Inter‑Agency Space Debris Coordination Committee. Space debris mitigation guidelines. Official report A/AC.105/C.1/L.260. Accessed 10 June 2024.  
+Committee on the Peaceful Uses of Outer Space (COPUOS), 2024. Special report of the Inter‑Agency Meeting on Outer Space Activities on developments within the United Nations system related to space debris. Official report A/AC.105/1317. 20 May 2024. Accessed 26 June 2024.  
+European Space Agency (ESA, no date). Space Debris webpage. Accessed 24 June 2024.  
+European Space Agency (ESA, no date). Space Debris by the numbers webpage. Accessed 24 June 2024.  
+European Space Agency (ESA, 2024). Space Safety: Hypervelocity impacts and protecting spacecraft webpage. Accessed 25 June 2024.  
+European Space Agency (ESA, 2013). Space Safety webpage. Accessed 25 June 2024.  
+German Aerospace Centre (DLR, no date). Space Debris webpage. Accessed 24 June 2024.  
+Japan Aerospace Exploration Agency (JAXA, no date). Safety on Earth and Space webpage. Accessed 24 June 2024.  
+NASA, 2019. Space Debris. National Aeronautics and Space Administration (NASA). Accessed 26 June 2024.  
+United Nations, 2003. Resolution 57/116 of the United Nations General Assembly on the topic of International cooperation in the peaceful uses of outer space. Official Report 57/116, 23 February 2003. Accessed 24 June 2024.  
+United Nations, 2008. Resolution 62/217 of the United Nations General Assembly on the topic of International cooperation in the peaceful uses of outer space. Official Report 57/116, 01 February 2008. Accessed 24 June 2024.  
+United Nations Office for Outer Space Affairs (UNOOSA), 2010. Space Debris Mitigation Guidelines of the Committee on the Peaceful Uses of Outer Space. Accessed 18 June 2024.  
+United Nations Office for Outer Space Affairs (UNOOSA), 2024. Compendium of Space Debris Mitigation Standards adopted by States and International Organizations. Accessed 18 June 2024.  
+United Nations International Telecommunications Union (ITU). 2010. Recommendation ITU-R S.1003-2 (12/2010) Environmental Protection of Geo-Stationary-Satellite Orbit. Accessed 23 May 2025.  
+United Nations International Telecommunications Union (ITU, no date). Guidelines, Codes of Conduct and Best Practices. Accessed 25 June 2024.  
+United States National Aeronautics and Space Administration (NASA, no date). Orbital Debris webpage, frequently asked questions. Accessed 24 June 2024.  
+United States National Aeronautics and Space Administration (NASA, 2024). NASA Orbital Debris Programme Office webpage. Accessed 24 June 2024.  
+Cite this [Copy citation]

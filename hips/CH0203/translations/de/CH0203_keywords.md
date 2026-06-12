@@ -1,0 +1,1 @@
+organic compounds composed entirely of hydrogen and carbon,liquid aromatic hydrocarbon,delocalized π-electron system,hydrocarbon ground gases,flash point,vapour pressure,Alkanes (Saturated Hydrocarbons),Aromatic Hydrocarbons,Occupational Exposure Limit (OEL),OSHA Permissible Exposure Limit (PEL),NIOSH Recommended Exposure Limit (REL)

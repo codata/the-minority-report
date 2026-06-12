@@ -1,0 +1,1 @@
+solar flare explosion,emission of electromagnetic radiation,active regions on the Sun,intense magnetic fields,coronal mass ejections,X-ray brightness,flare classification,solar radio burst,ionosphere disturbance,radio fadeouts,GNSS signal interference,D-Region Absorption Backup systems

@@ -1,0 +1,1 @@
+psychoactive substances, opioid receptors, morphine, codeine, thebaine, synthetic opioids, natural opiates, opioid overdose, respiratory depression, tolerance and dependence, fentanyl analogues, naloxone, opioid agonist maintenance treatment, acetylated derivative of morphine, Blood Brain Barrier

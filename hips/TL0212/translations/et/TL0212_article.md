@@ -1,61 +1,86 @@
-```markdown
-### Definition
+### Määratlus  
+**Kommunikatsioonide pettumised** tekivad, kui sisemine või väline katkestus teineteisega suhtlemisel põhjustab sõnumi edastamisel raskusi vastavalt algsele kavandile (adapted from Dainty et al., 2007).  
 
-Raadio- ja muu telekommunikatsiooni rike tekivad siis, kui üks või mõlemad pooled kogevad sisemist või välist kommunikatsiooni katkestust, mis takistab sõnumi ülekannet soovitud viisil (adaptiivne Dainty et al., 2007).
+### Esialgsed viited  
+Dainty, A., D. Moore ja M. Murray, 2007. Communication in Construction: Theory and Practice. Routledge. Accessed 19 May 2025  
 
-### Primary reference(s)
+### Lisamärkmed  
 
-Dainty, A., D. Moore ja M. Murray, 2007. *Communication in Construction: Theory and Practice*. Routledge. Accessed 19 May 2025
+#### Lisateaduslik kirjeldus  
+Raadio‑ ja kommunikatsioonitehnoloogia on igapäevaelusse integreeritud ning on viimastel aastatel märkimisväärselt arenenud. Kanalid nagu raadio, mobiilseadmed ja satelliidid on eesmärgiga teavitada ja hoiustada rahvast. Õnnetusvastuses on kõigi süsteemide eesmärk maksimeerida osalejate arvu, et nad võiksid võtta õigeaegseid meetmeid varandamiseks ja elavõimaluse tagamiseks (Khaled & Mcheick, 2019; ITU, 2019).  
 
-### Annotations
+Effektiivne ja tõhus suhtluslink on kriitiline enne, ajal ja pärast õnnetuslikku sündmust, eriti tuginedes hädaolukorra spetsialistidele õnnetusvastuse ja taastamise toetamiseks. Kommunikatsioonisüsteemide ebaõnnestumine, olgu see siis täielik või osaline (nt raadio- või satelliidite süsteemid), on põhjustanud tõhususe vähenemist ja hilinemise viivitusi ning viinud elusoleku kaotuse ja ennetatavate vigastuste tekkimiseni.  
 
-#### Additional scientific description
+Kommunikatsioonisüsteemide ebaõnnestumine võib põhjustada katastroofilist kahju inimelu ja majandustegevusega, kuna inimesed ei suuda omavahel õigeaegselt ning kvaliteetselt suhelda (Khaled & Mcheick, 2019).  
 
-Raadio- ja telekommunikatsioonitehnoloogia on igapäevaelus integreeritud ja viimase kümnendi jooksul märkimisväärselt arenenud. Kommunikatsioonikanalid, nagu raadio, mobiilvõrgud ja satelliidisüsteemid, on mõeldud teabe ja hoiatuste edastamiseks elanikkonnale. Katastrofi reageerimisfaasis on kommunikatsioonisüsteemi eesmärk maksimeerida inimeste arv, kes tegutsevad sobiva ja õigeaegse teabe põhjal ning võtavad vajalikke toiminguid varanduse kaitseks ja eluohutuse tagamiseks (Khaled & Mcheick, 2019; ITU, 2019). Tõhusad ja efektiivsed kommunikatsioonielamused on kriitilised enne, käigus ja pärast katastrofi, eriti häirepalve personaliga, et aidata katastrofi reageerimisel ja taastamisel. Siiski on kommunikatsioonisüsteemide rikete – olgu need täielikud või osalised, nagu raadio või satelliitid – tõttu tekkinud tõsised takistused ja viivitused häirepalve ja reageerimisel, mis viivad elulahkumiste ja vältitavate vigastuste suurenemiseni. Kommunikatsioonisüsteemide rikkeid võivad põhjustada katastrofide ajal tõsised mõjud inimelule ja majandusele, kuna inimesed ei saa üksteisega õigeaegselt ja kvaliteetse teenusega suhelda (Khaled & Mcheick, 2019).
+> **2004. aasta India ookeani maavärina ja tsunamiga seotud raadio‑ ja kommunikatsioonide ebaõnnestumine**: 9,0 mahule maavärine löögi Sumatra lääneäärast, tekitas tsunamiväike, mille kõrgus ulatus 2 kuni 30 m. Halduselus oli esimene globaalselt toimunud loodusõnnetus, kus praktikandid ja avalikkus kogesid seda interneti kaudu, kuid kommunikatsioonitehnoloogia kasutamine ei olnud kriitilisel etappidel maksimaalses ulatuses, mis viis inimlikku abi pakkumises vähendamiseni. Peamised põhjused olid tehnoloogilise infrastruktuuri häving, kogunemad jäätmed ja ulatuslikud valud, mis mõjutasid energiavõrku ja baastransceiver seadmeid (BTS).  
 
-Üks märkimisväärne näide raadio- ja kommunikatsiooni rikke oli 2004. aasta India ookeani maavärina ja tsunami tõttu: 9.0 mahulise maavärina jäeti Sumatra läänesammule viirussad tsunamivallad, mille maksimaalne kõrgus ulatus 2–30 m. Kuigi see sündmus oli esimene globaalne loodusõnnetus, kus praktikandid ja avalikkus jagasid oma kogemusi interneti kaudu, ei kasutatud kommunikatsioonitehnoloogiat täielikult kohesel reageerimisel, mis vähendas humanitaarabi kohaletoimetamist. Peamised kommunikatsiooni rikke põhjused olid tehnoloogiainfrastruktuuri häving, jäätmete kogunemine ja ulatuslik satuse, mis mõjutasid elektrisüsteeme ja baastee‑staatusseadmeid (BTS). Lisaks olid teised telekommunikatsiooni piirangud, näiteks piiratud võrgukate, varajase hoiatussüsteemi puudumine ja päästeseadmete puudumine (Khaled & Mcheick, 2019).
+**Peamised põhjused**  
+- **Komponendi kahjustus ja/või hävitamine**  
+- **Võrgukinnistu toetavate elementide kahjustus ja/või häired**  
+- **Kõnesiooni põhjustatud häired**  
 
-#### Key reasons for communications systems failure
+Komponendi kahjustus ja/või hävitamine on kõige levinum ja hästi dokumenteeritud põhjus telekommunikatsiooni ebaõnnestumiseks hiljutistes õnnetustes. Kuna parandamiseks ja asendamiseks vajavad süsteemid aega ja rahastust, on füüsilise kahju tõttu tekkinud häired tihti tõsisemad ja aeglasemad taastamiseks, eriti kui vajalik on keeruka riistvara hooldus või asendamine (nt mobiilteilid, kaablid).  
 
-- **Komponentide kahjustus ja/või hävitamine** – kõige tavalisem ja hästi dokumenteeritud põhjus; komponentide parandamine ja asendamine nõuab aega ja raha, mis võib hõlmata torni või kaabli asendamist.
-- **Toetava võrgustruktuuri kahjustus või häirib** – tõi suurmaala ja kahjuliku mõju katastrofi reageerimisel. Mõned süsteemid sõltuvad paljudest kohalikest ja piirkondlikest tehnilistest süsteemidest.
-- **Kõrvalolek läbi ülekande** – viib blokeeritud kõne ja sõnumitega, mis ei saadeta.
+**Redundantsuse puudumine** põhjustab süsteemide vastuvõtlikkuse (Townsend ja Moss, 2005).  
 
-#### Lessons learned
+**Kõnesiooni põhjustatud häired** on teised suurte õnnetusliku ebaõnnestumise tüübid, mis tekivad võrgu ülevõtulisuse tõttu ja viivad kõnede ja sõnumite blokeerimiseni. Loodusõnnetused on üks intensiivseimad teavitusteed, mille tulemusel suureneb nõudlus, mis võib isegi parimatest võrkudest üle jõu saada, kuid sageli saab suhtlust taastada suhteliselt kiiresti (Khaled & Mcheick, 2019).  
 
-Raadio- ja satelliidipõhised kommunikatsioonid olid kõige tõhusamad; samas kahjustati või üleküllustati traditsioonilised kanalid (nt. traadita telefonid ja landline) paljudes katastrofioskustes, takistades teabe tõhusat ja õigeaegset edastamist (Khaled & Mcheick, 2019).
+Õnnestumised õnnetusvastuses näitavad, et raadio‑ ja satelliidipõhised kommunikatsioonid olid kõige tõhusamad, samas kui tavalised väliseadmed (nt mobiiltelefonid ja satelliidid) olid paljudes õnnetustes kahjustatud või ületöötatud, takistades tõhusat ja õigeaegset informatsiooni edastamist (Khaled & Mcheick, 2019).  
 
-### Metrics and numeric limits
+### Mõõdikud ja numbrilised piirid  
+ITU arendab praegu globaalset juhendit riikidele, et luua Rahvuslikud Hädaolukorra Telekomunikatsioonipläänid (NETS), mis kasutatakse varajase hoiatuse ja hädaolukorra ajal (GMSA, 2021). Rahend keskendub riigi kokkupuute loodusõnnetustega enne hädaandmete ja kommunikatsioonisüsteemide väljatöötamist (ITU, 2019).  
 
-ITU töötab praegu ülemaailmaliste juhiste välja töötamise kallal riikide jaoks, et arendada Rahvuslikud Häirepalve Telekomunikatsiooniplanned (NETS), mida kasutatakse varajase hoiatusena ja häirepalve aegadel (GMSA, 2021). Raamistiku eesmärk on hinnata riigi kokkupuudet loodusohutusega ja katastrofidega enne häirepalve andmete ja kommunikatsiooni süsteemide väljatöötamist (ITU, 2019).
+### Olulised ÜRO konventsioonid/mõõtmete rahvusvahelised lepingud  
+Sustainability Development Goals (SDGs) (UNDESA, 2021).  
 
-### Key relevant UN convention / multilateral treaty
+Tampere’i konventsioon telekommunikatsiooni ressursi pakkumiseks loodusõnnetuse leevendamiseks ja abitegevuseks kehtestati 2005. aastal. See rahvusvaheline leping võimaldab riikidel eemaldada regulatiivsed takistused, et koheselt pakkuda hädaolukorra telekommunikatsiooni, kui õnnetus on toimunud (United Nations Treaty Collection, 1998).  
 
-Sustainability Development Goals (SDGs) (UNDESA, 2021).
+### Juhtumid  
+Loodusõnnetused võivad hävitada telekommunikatsiooni infrastruktuuri ja põhjustada tõsiseid võrgu häireid. Elektrienergia on hädavajalik nende süsteemide toimimiseks ning energiakadud on otseselt seotud selle ohu põhjustajaga (Townsend & Moss, 2005; Chang et al., 2007).  
 
-Tampere’i konventsioon Telecommunication Resources for Disaster Mitigation and Relief Operations, asutatud 2005. aastal, võimaldab riikidel eemaldada regulatiivsed takistused ja pakkuda häirepalve telekommunikatsiooni koheselt katastrofi korral (United Nations Treaty Collection, 1998).
+### Mõjud  
+Raadio‑ ja muu telekommunikatsiooni võrgustik peab suutma seista silmitsi hädaolukorra telekommunikatsiooni ebaõnnestumisega, kuna see võib põhjustada varajase hoiatussüsteemi tõrkeid, suurendades sekundaarsete kahju riski. See vähendab õnnetusvastuse võimet viivitamatult reageerida. Lisaks, kuna see sõltub elektri- ja ICT‑süsteemidest, võib telekommunikatsiooni infrastruktuur olla küberrünnakute sihtmärk, suurendades süsteemi haavatavust (CISA, 2023).  
 
-### Drivers
+Hädaolukorra telekommunikatsiooni võrgustiku ebaõnnestumine avaldab suuremat mõju teistes ohusoludes – näiteks põlenõus on kõige sagedasem ja mõjutab eriti ülekandevõrgustiku tsirkit (Salema & Caldeirinha, 2024).  
 
-Loodusohud võivad hävitada telekommunikatsiooni infrastruktuuri ja põhjustada tõsiseid võrgu häireid. Elektri varustus on hädavajalik nende häirepalve süsteemide toimimiseks, ja pinge katkestused on otseselt seotud rike põhjusega (Townsend & Moss, 2005; Chang et al., 2007).
+Mõjudega seotud riskid tõstavad füüsilise kahju ja finantskahjude riski, kus kiiresti taastatud teenus on hädavajalik õnnetusvastuse tõhustamiseks.  
 
-### Impacts
+### Mitmeohutuse kontekst  
+Allolev diagramm kokkuvõtab raadio‑ ja muu telekommunikatsiooni ebaõnnestumise ning teiste ohutegurite vahelised interaktsioonid. Teavet tuleks kasutada ettevaatlikult ja mitte täielikult toetuda ohutöötamise riskijuhtimises, kuna mõned interaktsioonid võivad olla välja jäetud.  
 
-Raadio ja muud telekommunikatsioonivõrgud peaksid olema valmis asendama, kui häirepalve telekommunikatsiooni rike toimub, kuna see võib põhjustada varajase hoiatussüsteemi rikke, suurendades teise kahju riski. See vähendab ka katastrofi reageerimisvõimet viivituste või tõhususe vähenemise tõttu. Lisaks on telekommunikatsiooni infrastruktuur ohustatud küberrünnakute tõttu, mis suurendab süsteemi haavatavust (CISA, 2023). Raadio ja muud telekommunikatsioonivõrgud võivad omada suuremat mõju teistes ohutest kontekstides, näiteks põuukad, mis on kõige sagedasemad, eriti mõjutades ülekandevõrgud. Tegevused häirepalve telekommunikatsiooni rikete korral suurendavad füüsilise kahjustuse ja rahaliste kahju riski; kiire teenuse taastamine on hädavajalik katastrofi reageerimisvõime parandamiseks.
+> **Tähelepanu:** Ohutegurite koosolu korral ei pruugi need üksteist mõjutada ega tugevdada.  
 
-### Multi‑hazard context
+Mitmeohutuse diagramm (see on placeholder)  
 
-Järgnevas diagrammis on kokkuvõtet raadio- ja telekommunikatsiooni rikete ning teiste ohutega seotud tavapärasest interactionist. Kasutage teavet ettevaatusega ja ärge tugige sellele üksnes katastrofi riskijuhtimisel, kuna mõned interactionid võivad olla puudu. Pange tähele, et ohutusüritused, mis toimuvad samal ajal või kohalikus ruumis või ajas, ei pruugi tingimata põhjustada, suurendada ega olla omavahel seotud. Mitmeohutuse konteksti konkreetseid näiteid leidub ülaltoodud “ohutega andmed” ja “mõjud” sektsioonides.
+### Riskijuhtimine  
+Kogemuste ja juhiste põhjal on oluline välja töötada ja rakendada ühtsed tehnilised standardid raadio kommunikatsioonisüsteemidele varajase hoiatuse ja õnnetusvastuse jaoks, et tõhustada planeerimist ja reageerimist hädaolukorras.  
 
-### Risk Management
+- **UNDP (2010)** lõi juhendi "Raadio kommunikatsioonide standardid hädaolukorra reageerijatele" (UNDP, 2010).  
+- **UNICEF (2017)** välja töötas "Hädaolukorra Telecommunication Handbook" (UNICEF, 2017).  
+- **ITU** on välja töötanud ressursid nagu *Radio Regulations Navigation Tool* ja *Space Networks Systems Database* (ITU, no date).  
 
-Arendada ja rakendada ühist tehnilist iseloomu ja juhiseid raadiokommunikatsiooni süsteemide jaoks varajase hoiatusena ja katastrofi reageerimisel ning toimetamisel, et edendada ühist tehnilist aluse planeerimisel ja tõhusas reageerimisel. Ühendatud juhend „Radio Communications Standards for Emergency Responders“ on välja töötatud ja valmis UNDP ja Euroopa Komisjoni Humanitarian Office'i allulõppeprogramm. Manuaali eesmärgiks on pakkuda tegevusstandardi ja juhendit sõnumite käsitlemise tehnikate ja neti protseduuride koolitamiseks raadiohäirepalve operatsioonijuhidena riiklike ja kohalikate raadiovõrkude jaoks (UNDP, 2010). 2017. aastal arendas UNICEF välja Häirepalve Telekomunikatsiooni käsiraamat, mis sisaldab juhiseid ja üksikasjalikke juhiseid, et toetada meeskondi häirepalve telekommunikatsiooni tõhusal kohaletoimetamisel. Käsiraamat kajastab erinevate telekommunikatsiooni süsteemide integreerimise olemust (UNICEF, 2017). Lisaks on rahvusvaheline telekommunikatsiooni ühendamise ühendus väljastanud palju ressursse, sealhulgas: Radio Regulations Navigation Tool (regulatsioonid, mis valitsevad ülemaailmse raadiotaon spektri ja satelliidi orbiidide kasutamisel) (ITU, no date). Space Networks Systems Database of the Radiocommunication Bureau of the International Telecommunication Union. The database contains AP4 data of geostationary satellite filings, non-geostationary satellite filings and earth station filings (ITU, no date). Definitions of world telecommunication/ICT Indicators (ITU, no date). Radio‑based early warning systems (EWS) are among the oldest and most reliable communication technologies, having been extensively tested in various disaster scenarios. Radio has the unique advantage of reaching large populations in areas where infrastructure has been severely damaged, making it a cost‑effective means of communication. During the immediate response phase of various natural disasters, radio has been instrumental in delivering critical messages, information, and advice to affected communities, often in collaboration with diverse stakeholders. One of the key strengths of radio is its ability to reach individuals in resource‑limited settings, where other forms of communication may not be feasible due to limited infrastructure or high costs. In situations where electricity is unavailable, and thus mobile phones, televisions, or other media channels cannot be used, solar or wind‑powered radios offer a sustainable and easily deployable solution, ensuring that vital early warnings continue to reach communities without requiring advanced technology or significant resources. This makes radio an invaluable tool in ensuring communication continuity, even when other communication infrastructures fail (Hugelius K. et al., 2019).
+Raadio‑põhised varajased hoiatussüsteemid on üheks vanimaks ja usaldusväärsemaks kommunikatsioonitehnoloogiks, mis on laialdaselt testitud erinevates õnnetustest. Raadio on ainulaadne, sest saab jõuda suure hulga inimesi piirkondades, kus infrastruktuur on tugevalt kahjustatud, pakkudes odavat ja lihtsat lahendust.  
 
-### Monitoring
+> **Hugelius K. jt. (2019)** näitas, et raadio on eriti väärtuslik olukordades, kus elektri kasutus on piiratud, võimaldades kasutada päikesekütte või tuuleenergiat, tagades samal ajal kriitilise hoiatuse jätkuva toimimise.  
 
-Häirepalve telekommunikatsiooni rikete tõhendamine suurendab katastrofi riske, takistades suhtlemist ja koordinatsiooni reageerijate vahel, mis võib viia viivitusi või ebaefektiivset häirepalve reageerimist ning suurendada füüsilist ja rahalist kahju. Kiire teenuse taastamine on hädavajalik katastrofi reageerimisvõime suurendamiseks, kuna see võimaldab õigeaegset suhtlemist, teabe jagamist ja koordineeritud toiminguid kahju vähendamiseks ja põletiku mõjutatud elanikkonna abistamiseks (OECD, 2025).
+### Jälgimine  
+Hädaolukorra telekommunikatsiooni ebaõnnestused suurendavad ohte, takistades suhtlust ja koordineerimist vastaseid ning suurendades füüsilist ja finantskahju. Kiire teenuse taastamine on hädavajalik õnnetusvastuse võimekuse tõhustamiseks, võimaldades õigeaegset teabevahetust ja koordineeritud tegevusi (OECD, 2025).  
 
-### References
+---  
 
-*(References remain unchanged – omitted for brevity.)*
-```
+**References**  
+Chang S.E., McDaniels T.L., Mikawoz J., Peterson K. Infrastructure failure interdependencies in extreme events: power outage consequences in the 1998 Ice Storm. Natural Hazards, 41 (2) (2007), pp. 337-358. Accessed 19 May 2025.  
+Cybersecurity and Infrastructure Security Agency (CISA), 2023. Emergency Services sector cyber risk assessment. Cybersecurity and Infrastructure Security Agency (CISA). Accessed 26 January 2025.  
+Hugelius K., Adams M., Romo-Murphy E., 2019. The power of Radio to promote health and resilience in disasters: A review. International Journal of Environmental Research and Public Health. 2019; 16(14):2526. DOI: 10.3390/ijerph16142526. Accessed 26 January 2025.  
+International Telecommunication Union (ITU), 2014. Gap Analysis of Disaster Relief Systems, Network Resilience and Recovery. ITU‑T Focus Group on Disaster Relief Systems, Resilience and Recovery Network. International Telecommunication Union (ITU). Accessed 26 January 2025.  
+International Telecommunication Union (ITU), no date. ITU Radiocommunication Sector. International Telecommunication Union (ITU). Accessed 19 May 2025.  
+Khaled, Z. and H. Mcheick, 2019. Case studies of communication systems during harsh environments: A review of approaches, weaknesses, and limitations to improve quality of service. International Journal of Distributed Sensor Networks, 15(2).  
+Organisation for Economic Co-operation and Development (OECD), 2025. Enhancing the resilience of communication networks. OECD digital economy papers May 2025 No. 374. Organisation for Economic Co-operation and Development (OECD). Accessed 19 May 2025.  
+Salema, C, and Caldeirinha R. 2024. ‘Perspective Chapter: Mobile Radio Emergency Communications for Large-Scale Wildfire Fighting – Portugal as a Case Study’. Fire Safety Engineering - Measures, Policies, and Applications [Working Title]. IntechOpen. doi:10.5772/intechopen.1007773. Accessed 19 May 2025.  
+Townsend, A. and M. Moss, 2005. Telecommunications Infrastructure In Disasters: Preparing Cities for Crisis Communications. Accessed 26 January 2025.  
+United Nations Development Programme (UNDP), 2010. A guide to radio communications standards for emergency responders. Accessed 26 January 2025.  
+United Nations General Assembly (UNGA), 2015. Transforming Our World: The 2030 Agenda for Sustainable Development. United Nations General Assembly (UNGA). Accessed 12 February 2025.  
+United Nations Children's Fund (UNICEF), 2017. Emergency Telecommunications Handbook. Accessed 26 January 2025.  
+United Nations Treaty Collection, 1998.Chapter XXV: Telecommunications: 4. Tampere Convention on the provision of telecommunication resources for disaster mitigation and relief operations. Accessed 10 May 2025.  
+Cite this [Copy citation]

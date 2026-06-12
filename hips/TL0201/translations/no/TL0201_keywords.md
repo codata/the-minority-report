@@ -1,0 +1,1 @@
+failure of load-bearing structural elements, progressive collapse, progressive structural collapse, failure propagation, structural robustness, redundancy, design base shear, Seismic vulnerability index, weak foundations, substandard construction-al materials, failure drivers, multi-hazard context, early warnings of building collapse

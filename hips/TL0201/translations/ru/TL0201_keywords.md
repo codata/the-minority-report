@@ -1,0 +1,1 @@
+progressive collapse, load-bearing structural elements, structural failure, chain reaction, progressive structural collapse, domino-type collapse, failure propagation, structural robustness, building collapse drivers, substandard construction materials, seismic vulnerability index, design base shear

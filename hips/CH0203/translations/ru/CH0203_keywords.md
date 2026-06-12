@@ -1,0 +1,1 @@
+Hydrocarbons, organic compounds, fossil fuels, liquid aromatic hydrocarbon, delocalized π-electron system, Alkanes (Saturated Hydrocarbons), Alkenes (Unsaturated Hydrocarbons), Aromatic Hydrocarbons, Occupational Exposure Limit (OEL), Flash point, excess lifetime cancer risk, bioaccumulation of hydrocarbons, Inhalation exposure

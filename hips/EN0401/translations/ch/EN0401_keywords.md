@@ -1,0 +1,1 @@
+reduction in the pH of the ocean, uptake of carbon dioxide, carbonate chemistry, dissolved carbonate ion concentration, partial pressure of CO2, dissolved bicarbonate ions, hydrogen ions, carbonate ions, calcifying organisms, calcium carbonate structures, dissolved inorganic carbon, total alkalinity, marine food webs, growth and larval survival

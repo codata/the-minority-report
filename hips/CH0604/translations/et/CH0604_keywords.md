@@ -1,0 +1,1 @@
+synthetic opioids, natural opiates, opioid receptors, opioid overdose, respiratory depression, tolerance and dependence, opioid agonist maintenance treatment, opioid antagonists, fentanyl analogues, carfentanil, prescription opioids, opioid use disorder

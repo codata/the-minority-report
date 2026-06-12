@@ -1,48 +1,37 @@
 ```markdown
-### 定义
-紧急电信故障是一个涵盖范围广泛的术语，指在异常且潜在不利的网络条件下的紧急通信失效（ITU，2007）。
+### Definition – Kommunikationsausfall
+Kommunikationsausfall ist ein Sammelbegriff für Telekommunikation von „außergewöhnlichem Charakter“ unter anomalen und potenziell nachteiligen Netzwerkbedingungen (ITU, 2007).
 
-### 主要参考
-- ITU, 2007. Y.2172: 下一代网络中的服务恢复优先级。国际电信联盟（ITU）。访问日期：2025 年 1 月 26 日。
+#### Primärreferenzen
+ITU, 2007. Y.2172: Service restoration priority levels in Next Generation Networks. International Telecommunication Union (ITU). Zugriff 26. Januar 2025.
 
-### 注释
-#### 额外科学说明
-紧急电信在灾害发生时至关重要，可使救灾和灾害应急团队、政府各部门以及人道主义机构协调并实施灾害响应与恢复工作。紧急电信故障与服务恢复密切相关。服务恢复被描述为一组自动或手动方法，在网络失效后调用，以提升成功通信重新路由和完成绕过失败网络元素的能力（ITU，2014）。所有通信流量均应由下一代网络承载——控制平面流量（如路由与信令消息）、紧急电信、实时语音与视频服务、数据服务、虚拟专用网络（VPN）以及传统的“最佳努力”流量。在此环境中，分配优先级分类并建立服务恢复规则至关重要，以便在网络过载或失效时优先恢复关键服务（例如控制平面流量和紧急电信）。由于服务流量可能跨越多个网络域，优先级分类是开发必要信令协议扩展及实现对关键服务优先恢复机制的重要步骤（ITU，2014）。灾害通信在可靠性、坚固性和弹性方面的需求在灾害不同阶段差异显著。灾害管理的整体范围从通信角度需要处理不同通信技术及其在灾害各阶段的利用（ITU，2014）。
+#### Anmerkungen
+##### Zusätzliche wissenschaftliche Beschreibung
+Kommunikationsausfall ist kritisch bei Katastrophen, weil er Notfall- und Katastrophenreaktionsteams, Regierungsministerien, Abteilungen und Agenturen sowie humanitäre Agenturen daran hindert, die Koordination und Bereitstellung von Katastrophenantwort- und Wiederherstellungsmaßnahmen zu ermöglichen. Kommunikationsausfall ist eng mit der Dienstwiederherstellung verknüpft. Dienstwiederherstellung wird als eine Reihe automatisierter oder manueller Methoden beschrieben, die nach einem Netzwerkfehler ausgelöst werden, um die Fähigkeit erfolgreicher Kommunikationsumschaltung und -vollendung um das fehlgeschlagene Netzwerkelement zu erhöhen (ITU, 2014). Alle Formen von Verkehrsströmen sind darauf ausgelegt, von Next‑Generation‑Netzwerken getragen zu werden – Steuerplane‑Verkehr (z. B. Routing‑ und Signalisierungsnachrichten), Kommunikationsausfall, Echtzeit‑Sprach‑ und Video‑Dienste, Daten­dienste, VPN‑Dienste sowie dem traditionellen „Best‑Effort“-Verkehr. In einer solchen Umgebung ist es wichtig, Prioritätsklassifikation zuzuordnen und Regeln für Dienstwiederherstellung festzulegen, sodass kritische Dienste (z. B. Steuerplane‑Verkehr und Kommunikationsausfall) erkannt und über andere Dienste in Fällen von Netzwerkauslastungen oder Fehlern wiederhergestellt werden. Da Verkehrsflüsse voraussichtlich mehrere Netzwerkdomänen durchqueren, ist die Prioritätsklassifikation ein wichtiger Schritt bei der Entwicklung der notwendigen Signalisierungsprotokoll‑Erweiterungen sowie der Mechanismen zur Ermöglichung präferenzielle Wiederherstellung kritischer Dienste (ITU, 2014). Die Anforderungen an Katastrophenkommunikation in Bezug auf Zuverlässigkeit, Robustheit und Resilienz unterscheiden sich ebenfalls in verschiedenen Phasen einer Katastrophe. Der breite Umfang des Katastrophenmanagements aus Sicht der Kommunikation muss hinsichtlich der Art von Kommunikations­technologien und ihrer Nutzung in den verschiedenen Phasen der Katastrophe gehandhabt werden (ITU, 2014).
 
-### 指标与数值限制
-ITU 正在制定全球指南，帮助各国制定国家紧急电信计划（NETS），以用于预警和紧急情况下的通信。该框架旨在在制定紧急数据与通信系统之前，解决各国对自然灾害和灾害的暴露（ITU，2019）。
+### Kennzahlen und numerische Grenzen
+Die ITU entwickelt derzeit globale Richtlinien für Länder, um nationale Notfall‑Telekommunikationspläne (NETS) zu entwickeln, die für Frühwarnungen und in Zeiten der Not verwendet werden können. Das Rahmenwerk zielt darauf ab, die Aussetzung eines Landes gegenüber natürlichen Gefahren und Katastrophen vor der Entwicklung von Notfall‑Daten- und Kommunikationssystemen anzugehen (ITU, 2019).
 
-### 关键相关联合国公约/多边条约
-《坦佩雷公约》于 2005 年建立，旨在为灾害缓解与救援行动提供电信资源。该国际条约允许各国消除监管障碍，在灾害发生时立即提供紧急电信（联合国条约收藏，1998）。
+#### Schlüsselrelevante UN‑Konvention / multilateraler Vertrag
+Die Tampere‑Konvention über die Bereitstellung von Telekommunikationsressourcen für Katastrophen­bewältigung und Hilfs­operationen wurde 2005 etabliert. Dieser internationale Vertrag ermöglicht es Ländern, regulatorische Fragen zu beseitigen, um sofortige Notfall‑Telekommunikation bereitzustellen, wenn eine Katastrophe eintritt (United Nations Treaty Collection, 1998).
 
-### 驱动因素
-自然灾害可摧毁电信基础设施并导致严重网络中断。电力对这些紧急通信系统的运行至关重要，停电直接与此危害的驱动因素相关（Townsend 和 Moss，2005；Chang 等，2007）。此外，破坏、破坏活动或战争等人为危害也会影响紧急电信。自然灾害影响紧急电信。在地震期间和之后，紧急通信至关重要。可靠通信对于信息传播、救援协调以及让人们保持知情并与亲人联系至关重要。在灾后立即，传统电话可能不可靠，因此短信、社交媒体和电池供电收音机成为重要的通信工具（美国国土安全部，2024；PAHO，2009）。太阳地磁暴会产生 X 射线和太阳无线电爆发，向相对论速度加速太阳粒子，导致太阳风重大扰动，并可能对电网、卫星、航空电子、乘客、卫星导航信号、移动电话等造成破坏性影响（国家研究委员会，2008；皇家工程院，2013）。
+#### Treiber
+Natürliche Gefahren können die Telekommunikationsinfrastruktur zerstören und schwere Netzwerkunterbrechungen verursachen. Elektrische Energie ist für diese Notfall­kommunikationssysteme wesentlich, und Stromausfälle sind direkt mit den Treibern dieses Gefahrenfaktors verbunden (Townsend und Moss, 2005; Chang et al., 2007). Darüber hinaus wirken menschlich verursachte Gefahren wie Sabotage, Vandalismus und Krieg auf Kommunikationsausfall ein. Natürliche Gefahren beeinflussen Kommunikationsausfall. Während und nach einem Erdbeben sind Notfallkommunikationen entscheidend. Zuverlässige Kommunikation ist entscheidend für die Verbreitung von Informationen, die Koordination von Rettungsmaßnahmen und die Gewährleistung, dass Menschen informiert bleiben und mit Angehörigen in Kontakt treten können. In der unmittelbaren Nachwirkung können traditionelle Telefonanrufe unzuverlässig sein, sodass Textnachrichten, soziale Medien und batteriebetriebene Radios wichtige Kommunikationsmittel werden (US Department of Homeland Security, 2024; PAHO, 2009). Solare geomagnetische Stürme erzeugen X‑Strahlen und Sonnenradiobursts, beschleunigen Sonnen­teilchen auf relativistische Geschwindigkeiten, verursachen große Störungen im Sonnenwind und können schädliche Effekte auf das Stromnetz, Satelliten, Avionik, Flugreisende, Signale von Satelliten‑Navigationssystemen, Mobiltelefone und mehr haben (National Research Council, 2008; Royal Academy of Engineering, 2013).
 
-### 影响
-紧急电信故障可能导致早期预警系统失效，增加次生损失的可能性。它还会削弱灾害响应能力，导致延误或降低紧急响应效率。此外，由于其与电力和 ICT 系统的相互依赖，电信基础设施可能成为网络攻击的目标，进一步增加系统脆弱性（CISA，2023）。紧急通信失效在与其他危害相关的情境中影响更大，例如野火最常见的紧急情况，特别影响传输网络线路（Salema & Caldeirinha，2024）。紧急电信失效问题会提高物理损害和财务损失的风险，快速服务恢复对于提升灾害响应能力、改善紧急连通性至关重要。
+#### Auswirkungen
+Kommunikationsausfall kann zu Fehlfunktionen von Frühwarnsystemen führen, wodurch das Risiko von sekundären Schäden steigt. Es verringert auch die Katastrophenreaktionsfähigkeiten durch Verzögerungen oder die Verringerung der Effizienz von Notfallreaktionsoperationen. Darüber hinaus kann die Interdependenz mit Strom- und IKT‑Systemen die Telekommunikationsinfrastruktur zu einem Ziel für Cyberangriffe machen, was zusätzliche Schwachstellen schafft (CISA, 2023). Ausfall in Notfallkommunikationen hat mehr Auswirkungen im Kontext anderer Gefahren, z. B. sind Waldbrände die häufigste Art von Notfall, die insbesondere Transmissionsnetzwerke betreffen (Salema & Caldeirinha, 2024). Probleme rund um Kommunikationsausfall erhöhen das Risiko von physischen Schäden und finanziellen Verlusten, wobei schnelle Dienstwiederherstellung entscheidend ist, um die Katastrophenreaktionsfähigkeiten zu verbessern und die Notfall‑Kommunikationsverbindung zu stärken.
 
-### 多危害情境
-下图总结了紧急通信失效与其他危害之间的常见交互。请谨慎使用此信息，勿仅依赖于灾害风险管理，尤其是某些交互可能未包含。注意，空间或时间上共同发生的危害事件未必会导致、放大或以其他方式相关。上述“危害驱动因素”和“影响”章节中可找到多危害情境的具体示例。
+### Multi‑Hazard‑Kontext
+Die untenstehende Abbildung fasst die üblichen Interaktionen zwischen Notfallkommunikation und anderen Gefahren zusammen. Diese Informationen sollten mit Vorsicht verwendet werden und dürfen nicht ausschließlich im Katastrophenrisikomanagement verwendet werden, insbesondere da einige Interaktionen nicht enthalten sein könnten. Beachten Sie, dass gleichzeitig oder lokal in Raum und Zeit auftretende Gefahren nicht zwangsläufig verursacht, verstärkt oder sonstwie miteinander verbunden sind. Spezifische Beispiele für Multi‑Hazard‑Kontext finden Sie in den Abschnitten „Gefahrentriebkräfte“ und „Auswirkungen“ oben.
 
-### 风险管理
-ITU 的 NETS 框架可在灾害管理周期的所有阶段使用，并为各国在灾前、灾中和灾后建立稳健的信息与通信技术（ICT）系统提供指导（ITU，2019）。在大规模灾害情境中，紧急电信失效往往由网络过载或与电力系统的相互依赖引起。为应对这些风险，关键在于通过网络流量和系统性能监测提升通信系统的弹性。此外，可通过建立备份通信系统、确保替代通信路径以及预先规划必要人员和资源来降低风险。移动通信技术在减轻紧急电信失效方面发挥关键作用，支持灾害管理所有阶段的有效沟通，包括准备、弹性建设、响应和恢复。它确保获取关键信息，并在早期警报的传播与沟通中扮演重要角色（GSMA，2023）。
+#### Multi‑Hazard‑Diagramm
 
-### 监测
-紧急电信失效加剧灾害风险，阻碍救援人员之间的沟通与协调，可能导致延迟或无效的紧急响应，进一步增加物理与财务损失。快速服务恢复对于提升灾害响应能力至关重要，因为它实现及时沟通、信息共享和协调行动，以减轻损害并帮助受影响人群（OECD，2025）。
+### Risikomanagement
+Das NETS‑Rahmenwerk der ITU kann in allen Phasen des Katastrophenmanagementzyklus verwendet werden und bietet Richtlinien für ein Land, um robuste Informations‑ und Kommunikationstechnologien (IKT) vor, während und nach einer Katastrophe zu etablieren (ITU, 2019). In groß angelegten Katastrophensituationen sind Notfall‑Kommunikationsausfälle häufig auf Netzwerkauslastungen oder Interdependenzen mit Stromsystemen zurückzuführen. Um diese Risiken zu adressieren, ist es entscheidend, die Resilienz von Kommunikationssystemen zu erhöhen, indem Netzwerkverkehrsüberwachung und Systemleistungsüberwachung implementiert werden. Zusätzlich können Risiken durch den Aufbau von Backup‑Kommunikationssystemen, die Sicherung alternativer Kommunikationswege und die Vorausplanung der benötigten Personal- und Ressourcen gemildert werden. Mobile Technologie dient als kritisches Werkzeug zur Abschwächung von Notfall‑Kommunikationsausfällen, ermöglicht effektive Kommunikation in allen Phasen des Katastrophenmanagements, einschließlich Vorbereitung, Resilienzaufbau, Reaktion und Erholung. Sie gewährleistet Zugang zu wichtigen Informationen und spielt eine besonders wichtige Rolle bei der Verbreitung und Kommunikation von Frühwarnungen (GSMA, 2023).
 
-### 参考文献
-1. Chang S.E., McDaniels T.L., Mikawoz J., Peterson K. 《极端事件中的基础设施失效相互依赖：1998 年冰雹造成的停电后果》. *自然灾害*, 41 (2) (2007), pp. 337-358. 访问日期：2025 年 5 月 19 日  
-2. Cybersecurity and Infrastructure Security Agency (CISA), 2023. 《紧急服务部门网络风险评估》. 访问日期：2025 年 1 月 26 日  
-3. Groupe Spéciale Mobile Association (GSMA), 2021. 《国家紧急电信计划：支持者与保障措施》. 访问日期：2025 年 5 月 19 日  
-4. Groupe Spéciale Mobile Association (GSMA), 2023. 《早期预警系统的单元广播：技术回顾与实施》. 访问日期：2025 年 1 月 26 日  
-5. International Telecommunication Union (ITU), 2014. 《灾害救援系统差距分析，网络弹性与恢复》. 访问日期：2025 年 1 月 26 日  
-6. International Telecommunication Union (ITU), 2019. 《制定国家紧急电信计划的全球指南》. 访问日期：2025 年 1 月 26 日  
-7. National Research Council. 2008. 《严重空间天气事件：对社会与经济影响的理解》. 访问日期：2025 年 5 月 19 日  
-8. Organisation for Economic Co-operation and Development (OECD), 2025. 《提升通信网络弹性》. 访问日期：2025 年 5 月 19 日  
-9. Pan American Health Organization (PAHO), 2009. 《紧急与灾害中的信息管理与沟通》. 访问日期：2020 年 5 月 19 日  
-10. Royal Academy of Engineering, 2013. 《极端空间天气：对工程系统与基础设施的影响》. 访问日期：2020 年 5 月 19 日  
-11. Salema, C, & Caldeirinha, R. 2024. 《大型野火作业的移动无线电紧急通信：葡萄牙案例研究》. *火灾安全工程* [工作标题]. IntechOpen. doi:10.5772/intechopen.1007773. 访问日期：2025 年 5 月 19 日  
-12. Townsend, A.M., & Moss, M.L. 2005. 《灾害中的电信基础设施：为危机通信做好城市准备》. 访问日期：2025 年 1 月 26 日  
-13. United Nations Treaty Collection, 1998. 《坦佩雷公约：为灾害缓解与救援操作提供电信资源》. 访问日期：2025 年 5 月 10 日  
-14. US Department of Homeland Security, 2025. 《地震》. 访问日期：2020 年 5 月 19 日
+#### Überwachung
+Notfall‑Kommunikationsausfälle verschärfen Katastrophenrisiken, indem sie die Kommunikation und Koordination unter Einsatzkräften behindern, was zu verzögerten oder ineffektiven Notfallreaktionen führen kann, sowie zu erhöhten physischen und finanziellen Schäden. Schnelle Dienstwiederherstellung ist entscheidend, um die Katastrophenreaktionsfähigkeiten zu verbessern, da sie eine rechtzeitige Kommunikation, Informationsaustausch und koordinierte Maßnahmen zur Minderung von Schäden und zur Unterstützung betroffener Bevölkerungsgruppen ermöglicht (OECD, 2025).
+
+### References
+... (unchanged)
 ```

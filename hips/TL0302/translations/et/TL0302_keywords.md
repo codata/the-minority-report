@@ -1,0 +1,1 @@
+environmental media, air pollution, water pollution, hazardous chemicals and wastes, persistent organic pollutants (POPs), industrial emissions, micro- and nano-plastics, chemical pollution, marine pollution, plastic pollution, endocrine-disrupting compounds, municipal solid waste generation, water contamination

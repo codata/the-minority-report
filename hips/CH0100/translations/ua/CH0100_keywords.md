@@ -1,0 +1,1 @@
+Heavy metals, trace elements, metallic trace elements, trace element contaminants, biological significance, essential trace elements, non-essential or toxic trace elements, persistent inorganic contaminants, inorganic contaminants, metal health hazard, bioaccumulation of mercury, phytoremediation, arsenic contamination, fluoride and iodide

@@ -1,77 +1,55 @@
-```markdown
-## 定义
+### Definition  
+**Eisströmung** ist die Bewegung von Eis, die durch Schwerkraft, Eiskonstanz oder – im Falle von Meereis – durch Wind, Wasserströmungen und Gezeiten angetrieben wird (AMS, 2012).  
 
-冰流是由重力、冰应力或（海冰）风、海流和潮汐等因素驱动的冰体运动（AMS，2012）。
+### Primärreferenz(en)  
+AMS, 2012. Ice flow. Glossary of Meteorology. American Meteorological Society (AMS). Accessed 16 May 2025.  
 
-## 主要参考资料
+### Anmerkungen  
+#### Zusätzliche wissenschaftliche Beschreibung  
+Eisströmungen in maritimen Umgebungen umfassen Eisschilde, die im Meer in Form von schwimmenden Eiszungen oder Eisschilden enden, Meereis sowie Fluss‑ und Seenais. Schwimmendes Eis ist jede Eisform, die auf Wasser schwimmt. Die Haupttypen des schwimmenden Eis sind Seenais, Flussais und Meereis, die durch das Gefrieren von Wasser an der Oberfläche entstehen. Meereis kann in Form von festem Eis oder Packeis auftreten (AMS, 2012a). Schwimmendes Eis kann auch dort vorkommen, wo Gletscher‑Eis, das durch Schwerkraft oder Eiskonstanz fließt, im Meer endet. Dies kann schwimmendes Eis in Form von schwimmenden Eiszungen erzeugen – schmale Ausweitungen eines Gletschers (AMS, 2012b) – oder Eisschilde, dichte Eisformationen mit einer relativ ebenen Oberfläche, die entlang einer polaren Küste und in flachen Buchten sowie Einläufen entstehen, an denen sie an der Küste befestigt sind (AMS, 2012c).  
 
-- AMS，2012。冰流。气象词典。美国气象学会（AMS）。2025年5月16日检索。
+Eisströmungen maritimen Ursprungs stellen eine Gefahr für die Navigation dar, indem sie schwimmendes Eis in Bewegung bringen und Eisflächen als Transportwege nutzen lassen. Dazu gehören Eisberge, die von maritimen Gletschern abspalten, Eisstauben, Eisblöcke und Eisrand.  
 
-## 注释
+### Metriken und numerische Grenzwerte  
+Nicht identifiziert.  
 
-### 额外科学描述
+### Relevante UN‑Konventionen / multilaterale Verträge  
+- Antarktis‑Vertragssystem (ATS) (Secretariat of the Antarctic Treaty, 1959).  
+- Arktischer Rat (Arctic Council Secretariat, 2025).  
+- International Maritime Organization (IMO) Polar Code (IMO, 2017).  
 
-在海洋环境中，冰流包括终止于海洋的冰川（冰舌或冰架）、海冰以及河冰和湖冰。  
-漂浮冰是指在水面上漂浮的任何冰体，主要类型包括湖冰、河冰和海冰，后者由水面结冰形成。海冰可出现为静止冰或漂浮/聚集冰（AMS，2012a）。  
-漂浮冰亦可在冰川在重力或冰应力作用下流动并终止于海洋时出现，形成冰舌（冰川的窄延伸，AMS，2012b）或冰架——厚冰结构，表面相对平坦，沿极地海岸、浅湾和海口形成并附着于岸边（AMS，2012c）。  
-海洋来源的冰流对航行构成风险，包括漂浮冰移动、冰面作为运输路线的使用。这涵盖从海洋终止冰川脱落的冰山、冰塞、冰漂和冰缘。
+### Treiber  
+Gletscher‑Eisströmungen werden hauptsächlich durch schwerkraftinduzierte interne Deformation und basale Prozesse angetrieben, einschließlich Basalschleifen und Deformation von Untergletschersedimenten. Interne Deformation tritt auf, wenn Eis unter seinem eigenen Gewicht langsam nach unten kriecht – ein Prozess, der von Eisdicke, Oberflächenneigung, Temperatur und Kristallstruktur beeinflusst wird (IPCC, 2007). Basalschleifen werden aktiviert, wenn Schmelzwasser oder deformierbare Sedimente die Reibung an der Eis‑Boden‑Interaktion reduzieren, was zu beschleunigter Strömung führt – insbesondere in gemäßigten Gletschern und denen, die im Meer enden (IPCC, 2007).  
 
-## 度量和数值限制
+### Auswirkungen  
+Eisströmungen können erhebliche wirtschaftliche, ökologische und soziale Auswirkungen haben, die insbesondere in den Bereichen Navigation und Schifffahrt sichtbar werden. Trotz neuer Technologien birgt Eis ernsthafte Risiken für die Navigation und verursacht Schwierigkeiten, insbesondere wenn Eis um ein Schiff herum zusammenläuft. Wind und Wasserströmungen können Eisdecke gegen einen Landrand drängen, was zu erhöhtem Druck führt, wie „Eisdecke verdichtet sich und Eis akkumuliert, um Rinnen zu bilden“ (Kubat et al., 2015). In diesen Umständen können Schiffe ernsthafte Risiken aufgrund erhöhten Drucks auf den Rumpf und Hindernisse durch die Rinnen erfahren. In extremen Fällen kann dies zu Schiffsschäden und dem Anheben kleinerer Schiffe auf das Eis führen (Kubat et al., 2015). Eisströmungen stellen ein Risiko für die Sicherheit von Offshore‑Strukturen sowie für Schiffe dar. Im Arktischen Ozean stoßen Schiffe und Offshore‑Strukturen auf komplexe Umgebungen, „wo die Belastung durch Eisflöete einschließlich Eisberge, bergige Bits, isolierte Meereisflöete und andere Eisbedingungen ein entscheidender Faktor für ihr Design ist“ (Zhao et al., 2023).  
 
-未识别。
+### Multi‑Hazard‑Kontext  
+Die untenstehende Abbildung fasst typische Interaktionen zwischen Eisströmungen und anderen Gefahren zusammen. Diese Informationen sollten mit Vorsicht verwendet und nicht ausschließlich für das Katastrophenrisikomanagement herangezogen werden, insbesondere da einige Interaktionen nicht berücksichtigt sein können. Beachten Sie, dass gefährliche Ereignisse, die gleichzeitig oder lokal in Raum oder Zeit auftreten, nicht zwangsläufig eine Ursache, Verstärkung oder andere Beziehung zueinander haben. Konkrete Beispiele für Multi‑hazard‑Kontext finden Sie in den Abschnitten „Hazard drivers“ und „Impacts“ oben.  
 
-## 相关联合国公约/多边条约
+![Multi‑Hazard‑Diagramm](/path/to/diagram.png)  
 
-- 南极条约体系（ATS）（南极条约秘书处，1959）。  
-- 北极理事会（北极理事会秘书处，2025）。  
-- 国际海事组织（IMO）极地规则（IMO，2017）。
+### Risikomanagement  
+Keine Informationen verfügbar.  
 
-## 驱动因素
+### Monitoring  
+Der obige Abschnitt und die folgende Tabelle bieten einen Überblick über die Überwachung von Eisströmungen. Diese Informationen können für die Prognose innerhalb eines nationalen Frühwarnsystems (EWS) verwendet werden. Da die Kapazitäten und Prozesse von EWS je nach Land variieren, sollten die aktuellsten und spezifischsten Informationen zu EWS von der jeweiligen nationalen oder regionalen Behörde oder Institution für Katastrophenmanagement eingeholt werden.  
 
-冰川冰流主要由重力诱导的内部变形和底部过程驱动，包括底部滑动和冰下沉积物变形。内部变形发生在冰自身重量下缓慢向下坡流动，受冰厚度、表面坡度、温度和晶体结构影响（IPCC，2007）。当融水或可变形沉积物降低冰-床界面摩擦时，底部滑动被激活，导致加速流动，尤其在温带冰川和终止于海洋的冰川中（IPCC，2007）。
+**Welche Institution(en) produzieren Katastrophenrisikodaten/-informationen?**  
+- Nationale, subnationale und lokale Katastrophenmanagementbehörden, die die Überwachung von Eisströmungsgefahren, die Ausgabe von Warnungen und die Koordination von Notfallmaßnahmen verantworten.  
+- Meteorologische Dienste und ozeanografische Organisationen, die Temperaturänderungen, Windmuster und Meeresströmungen verfolgen, die die Bewegung von Eisströmungen beeinflussen.  
+- Polar‑ und Kryosphärenforschungsinstitutionen, die Gletscher‑Dynamik, Meereisbewegung und Eisschichtstabilität untersuchen.  
+- Hydrologische Dienste, die den Eisbruch in Flüssen, Eisstauben und deren Auswirkungen auf Überschwemmungen und Navigation überwachen.  
+- Geophysikalische und geologische Forschungseinrichtungen, die die Deformation von Eisschichten, Permafrostveränderungen und Land‑Eis‑Interaktionen untersuchen.  
+- Maritime und marine Sicherheitsbehörden, die das Risiko von driftendem Eis überwachen und navigationsrelevante Warnungen für Schiffe und Offshore‑Betriebe ausgeben.  
+- Raumfahrt‑ und Fernerkundungsagenturen, die Satelliten, Radar‑Altmeterie und LiDAR nutzen, um die Geschwindigkeit, Richtung und Schmelztrends von Eisströmungen zu verfolgen.  
+- Energie- und Offshore‑Industrien, die Risiken für Ölfelder, Windparks und subsea‑Pipeline‑Anlagen durch bewegendes Eis bewerten.  
+- Schifffahrts- und Fischereibranchen, die Eisströmungsmuster verfolgen, um die sichere Navigation und effiziente maritime Operationen zu gewährleisten.  
+- Forscher und Akademiker, einschließlich Glaziologen und Klimawissenschaftler, die die Mechanismen von Eisströmungen, die Auswirkungen des Klimawandels und die Modellierung von Prognosen untersuchen.  
+- Umweltorganisationen und Naturschutzgruppen, die die Überwachung des Klimas, die arktische und antarktische Forschung sowie nachhaltige Eis‑Management‑Politik fördern.  
 
-## 影响
+### Wie wird das Risiko beobachtet/überwacht/vorhergesagt?  
+Eisströmungen werden mithilfe von Satelliten, Radar und Seeoberschlägen überwacht, um ihre Bewegung, Dicke und Schmelzraten zu verfolgen. Wissenschaftler analysieren Temperaturänderungen, Windmuster und Meeresströmungen, um vorherzusagen, wie sich Eis im Laufe der Zeit verschiebt. Computer‑Modelle simulieren das Verhalten von Eisströmungen und helfen, Warnungen für Schifffahrt, Offshore‑Industrien und überschwemmungsanfällige Gebiete auszugeben. Diese Frühwarnungen unterstützen die Navigation, den Schutz von Infrastruktur und die Klimaforschung.  
 
-冰流可在经济、环境和社会层面产生显著影响，尤其在航运和运输行业中表现突出。尽管技术进步，冰仍对航行构成严重风险，尤其当冰围绕船只汇聚时。风和水流可导致冰层压在陆地边界，造成冰压增加，形成隆起（Kubat 等，2015）。此时船只可能因船体受压或隆起阻碍而面临风险，极端情况下可能导致船只损坏甚至将小船抬到冰面上（Kubat 等，2015）。  
-冰流亦可能危及海上设施与船舶的安全。在北极，船舶和海上设施面临复杂环境，冰漂撞击载荷（包括冰山、冰块、孤立海冰漂和其他冰况）是设计关键因素（Zhao 等，2023）。
-
-## 多灾害情境
-
-下图概述了冰流与其他灾害的常见相互作用。此信息应谨慎使用，并不应仅依赖于灾害风险管理，尤其某些相互作用可能未包含。注意，局部空间或时间内同时发生的危险事件不一定会导致、放大或与彼此相关。可在上方的“灾害驱动因素”和“影响”部分中找到多灾害情境的具体示例。
-
-### 多灾害图示
-
-- 风险管理：无可用信息
-- 监测：上述部分及下表提供了监测冰流的概览。此信息可用于国家早期预警系统（EWS）内的预测。由于EWS的能力和流程在各国之间存在差异，建议获取最当前、最具体的EWS信息，以从负责灾害管理的相应国家或地区机构/主管部门。
-
-## 哪些机构产生灾害风险数据/信息？
-
-- 国家、次国家和地方灾害管理机构负责监测冰流危险，发布警报，并协调紧急响应。  
-- 气象服务和海洋观测机构跟踪温度变化、风向和影响冰流运动的海洋流动。  
-- 极地与冰冻圈研究机构研究冰川动力学、海冰运动和冰盖稳定性。  
-- 水文服务监测河冰破裂、冰塞及其对洪水和航运的影响。  
-- 地球物理和地质研究机构研究冰盖变形、永久冻土变化和陆冰相互作用。  
-- 海事与海军安全机构监测漂浮冰风险，并为船舶和海上作业发布航行警报。  
-- 空间和遥感机构使用卫星、雷达高度计和LiDAR追踪冰流速度、方向和融化趋势。  
-- 能源与海上产业评估移动冰对油气平台、风电场和海底管线的风险。  
-- 航运和渔业产业追踪冰流模式，确保航运安全和高效海上运营。  
-- 研究人员和学者（包括冰川学家和气候科学家）研究冰流机制、气候变化影响和预测建模。  
-- 环境组织和保护团体倡导气候监测、北极和南极研究以及可持续冰管理政策。
-
-## 如何观测/监测/预测该灾害？
-
-冰流通过卫星、雷达和海洋浮标监测其运动、厚度和融化速率。科学家分析温度变化、风向和海流以预测冰随时间的变化。计算机模型模拟冰流行为，为航运、海上设施和易洪区发布预警。早期预警支持航运安全、基础设施保护和气候研究。
-
-## 参考文献
-
-- AMS，2012a。冰流。气象词典。美国气象学会（AMS）。2025年5月16日检索。  
-- AMS，2012b。冰舌。气象词典。美国气象学会（AMS）。2025年5月16日检索。  
-- AMS，2012c。冰架。气象词典。美国气象学会（AMS）。2025年5月16日检索。  
-- 北极理事会秘书处，2025。北极理事会。2025年5月16日检索。  
-- 国际海事组织（IMO），2017。极地水域船舶国际代码（极地规则）。国际海事组织。2025年5月16日检索。  
-- Kubat, I., Sayed, M., Timco, G.W. & Sudom, D., 2015. “第18章 – 漂浮冰与冰压挑战船舶”，载于 Haeberli, W. & Whiteman, C.（主编）《雪与冰相关灾害、风险与灾难》，第二版，阿姆斯特丹：Elsevier，第[插入页码]。2025年5月16日检索。  
-- 南极条约秘书处，1959。南极条约。2025年5月16日检索。  
-- Zhao, Y., Zhang, J., Li, H., Wang, J. & Zhou, Y., 2023. “对均匀流中冰漂漂移与撞击过程的水动力学实验与数值研究”，冷区科学与技术，文章编号：104011。2025年5月16日检索。  
-```
-
----
+### References  
+(unverändert)

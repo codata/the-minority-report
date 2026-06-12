@@ -1,0 +1,1 @@
+blights, wilts, rots, mildews, canker, smuts, rusts, mycelium, spores, anthracnose, late blight, rust diseases, basal rot, grey mould rot, heart rot, downy mildew, powdery mildew, wheat rust, apple scab

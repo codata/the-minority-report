@@ -1,0 +1,1 @@
+vaccine-preventable disease, Hepatitis B virus (HBV), acute and chronic liver disease, perinatal transmission, horizontal transmission, incubation period, jaundice, acute liver failure, hepatocellular carcinoma, chronic hepatitis B infection, infant and childhood vaccination, blood donor screening, transmission via needlestick injury, prevention of MTCT

@@ -1,43 +1,64 @@
-> 
-> ### 定义  
-> 建筑倒塌是承重结构元件失效，导致建筑物坍塌或灾难性失效的过程（改编自美国劳工部，无日期）。  
-> 
-> ### 主要参考文献  
-> 美国劳工部，无日期。结构倒塌指南。职业安全与健康管理局。检索于2025年2月16日。  
-> 
-> ### 额外科学描述  
-> 所有类型的公共和私人建筑可能会受到极端事件的影响，例如飓风、海啸、地震、爆炸、车辆撞击、火灾和人为错误，甚至恐怖袭击。这些事件通常导致建筑结构局部损坏，可能导致完全倒塌。此时出现**级联倒塌**（progressive collapse），即局部损坏引发一系列失效链，导致整个建筑或其大部分倒塌。级联倒塌总是伴随严重的人身和物质损失（Kokot & Solomos，2012）。  
-> 六种级联倒塌类型已被识别：泡沫式倒塌（pancake-collapse）、拉链式倒塌（zipper-collapse）、板条式倒塌（domino-collapse）、分区倒塌（section-collapse）、不稳定性倒塌（instability-collapse）以及混合型倒塌（mixed‑type collapse）。每种倒塌类型在失效传播方面都有其特征，说明失效如何由一个构件扩散至其他构件（Starossek，2007）。  
-> 国家标准技术研究院（NIST）将**进程性倒塌**定义为“类似连锁反应的局部失效扩散，导致建筑部分或全部倒塌”（Ellingwood 等，2007）。  
-> 
-> ### 指标与数值限制  
-> UNESCO列出有63个国家拥有地震抗震设计规范（UNESCO，2008）。许多国家已制定级联倒塌标准，包括欧洲欧码、加拿大国家建筑规范和瑞典设计法规（Ellingwood 等，2007）。其他指标包括室内面积比（FAR）（Metropolitan Council 2015）；设计基准剪力（CMHA 无日期）；地震易损性指数（SVI）（Kassem 等，2019）。  
-> 
-> ### 相关联合国条约 / 多边协议  
-> - 1954年海牙保护文化财产在武装冲突事件中的条约（UNESCO，1954）。  
-> - 国际劳工组织 C167 - 建筑施工安全与健康公约，1988年（ILO，1988）。  
-> - 2015‑2030年 Sendai 框架（UNDRR，2015）。  
-> 
-> ### 影响驱动因素  
-> 与天气相关的结构失效通常由屋顶雨雪堆积、飓风、龙卷风、山体滑坡甚至雪崩引起。洪水可破坏基础，导致结构不稳定和倒塌，例如2013年中欧洪水导致德国、奥地利和捷克共和国建筑与基础设施受到重大损坏。山体滑坡及其相关岩石运动也会影响基础稳定性并导致结构失效。极端天气事件（气旋、强风暴、风暴潮、碎片冲击）对建筑造成广泛破坏，尤其是旧建筑或维护不良时（Hain 等，2023）。海啸可以淹没沿海地区，破坏结构；永冻土融化和后退影响建筑基础，导致损坏甚至倒塌（WHO，2019）。地震、陷坑（难以识别）和地面下沉同样是建筑倒塌的驱动因素。火灾可导致钢结构和混凝土建筑失效，导致平民和消防员死亡（Meacham 等，2010；Ahmadi 等，2020）。沿海侵蚀（Fouad 等，2025）以及建筑老化（Caredda 等，2023）和城市热岛效应（Rotta，2023）也增加倒塌风险。  
-> 在许多低至中等收入国家，建筑倒塌归因于基础薄弱、材料质量低劣、施工人员配料不当、过载以及建筑强度测试不充分（Figueroa Fernandez，2014）。倒塌还与结构失效、监管不力、施工质量差、设计缺陷和未遵守批准图纸有关（Windapo & Rotimi，2012）。其他因素包括缺乏土壤勘察、专业机构与城市规划部门缺乏协调以及现行法规执行不力（Dimuna，2010）。恐怖活动可能增加次级装置、追击攻击以及放射性、生物或化学污染（cf HIPs BI0602 & CH0903）。历史上，恐怖事件导致建筑倒塌，例如2001年9月11日纽约世界贸易中心坍塌、1995年4月19日俄克拉荷马城穆拉哈联邦办公大楼车爆炸等（OSHA，无日期）。  
-> 
-> ### 影响  
-> 建筑倒塌的后果包括对生命、生计和健康的影响，例如建筑中使用石棉时（cf HIP CH0202），以及社会、经济和环境影响（Babtunde，2013）。自联合国国际灾害减缓战略启动城市韧性行动计划（UNDRR，2010）以来，联合国灾害风险减少办公室致力于提高城市韧性，并广泛发布与城市韧性相关的十项要点（UNDRR，2019）。参与该行动对于加强风险管理驱动因素至关重要，其中“四大要素：追求韧性城市发展与设计”呼吁将韧性融入社会经济发展规划与基础设施，以保护发展投资，从而降低建筑倒塌风险（UNDRR，2019）。  
-> 损失的后果因结构而异，取决于：危害性质、结构属性、使用/占用、地点、时间、时间段等。2013年4月24日，孟加拉国达卡的Rana Plaza大楼倒塌，导致至少1132人死亡、2500多人受伤（ILO，无日期）。这与建筑新增层数未获批准的建筑许可证有关（Hira & Benson‑Rea，2017）。仅五个月前，至少112名工人在达卡郊区一家燃烧的服装工厂中死亡。大多数工厂未达到建筑与施工立法规定的标准，导致火灾事故和建筑倒塌死亡频发（ILO，无日期）。  
-> 
-> ### 多灾害背景  
-> 下图概述了建筑倒塌与其他灾害之间的常见相互作用。此信息应谨慎使用，切勿单独依赖于灾害风险管理，尤其是某些相互作用可能未被包含。请注意，空间或时间上同时发生的危险事件不一定会导致、放大或与彼此相关。可在上文的“危害驱动因素”和“影响”章节找到多灾害背景的具体示例。  
-> 
-> ### 风险管理  
-> 为减轻进程性或不成比例倒塌的影响，定量透明的方法侧重于提高结构鲁棒性。这样既能保证新建建筑，也能确保现有建筑在异常荷载下防止倒塌。结构鲁棒性取决于系统特性（如强度、延性、冗余性）以及异常荷载类型（如动态、冲击）。有时被称为“结构完整性”，但该术语特指极端事件后结构的完整性。结构鲁棒性强烈依赖冗余性，即结构在单个或少数构件损坏后重新分配荷载的能力。风险在大多数规范中隐式地通过建筑分类和针对每类或风险类别的设计方法（表5）来考虑。某些规范还包含风险考量，以定义整体设计策略（EN 1991‑1‑7、NBCC 1995、ASCE/SEI 7‑16、UFC 4‑023‑03、GSA 2013）。许多规范的主要缺陷是风险未以透明、系统的方式考虑。世界银行与全球灾害减缓与恢复设施（GFDRR）2026年关于《建筑法规与韧性》的报告呼吁动员建筑规范以降低风险（World Bank & GFDRR，2026）。数据库在识别仅通过大规模数据分析才显现的不成比例风险因素方面具有特殊价值。Carreda（2023）提出一个新的建筑倒塌数据库，系统收集危害、初始失效及其传播机制信息。  
-> 
-> ### 监测  
-> 建筑失效监测聚焦于通过分析温控数据中的异常来预防失效。它可以主动优化系统性能、降低停机时间并减少人力成本（Mesa‑Jiménez 等，2021）。在火灾期间常用于早期预警的物理参数包括频率、温度、声波、位移及位移速度。实时检测这些参数对于有效提供预警至关重要（Li 等，2023）。  
-> 
-> ### 参考文献  
-> (保持原文参考列表不变，英文标题均不变)  
-> 
-> *Ahmadi, M.T., Aghakouchak, A.A., Mirghaderi, R., Tahouni, S., Garivani, S. and Epackachi, S., 2020. Collapse of the 16‑story Plasco Building in Tehran due to fire. Fire Technology, 56, pp.769–799.*  
-> *Babtunde, I.R., 2013. Monumental effects of building collapse in Nigerian cities: The case of Lagos Island, Nigeria. Basic Research Journal of Engineering Innovation, 1, pp.26–31.*  
-> *… (其余参考文献继续保持原始格式)*
+```markdown
+### Definition
+Gebäudeeinsturz ist das Versagen tragender Baukonstruktionselemente, wodurch ein Gebäude fällt oder katastrophal versagt (angepasst vom US Department of Labor, kein Datum).
+
+### Primäre Referenz(en)
+US Department of Labor, kein Datum – Structural Collapse Guide, Occupational Safety and Health Administration. Abgerufen am 16. Februar 2025.
+
+### Anmerkungen
+#### Zusätzliche wissenschaftliche Beschreibung
+Alle Arten von öffentlichen und privaten Gebäuden können extremen Ereignissen ausgesetzt sein, die beispielsweise durch Hurrikane, Tsunamis, Erdbeben, Explosionen, Fahrzeugunfälle, Brände und menschliche Fehler oder sogar terroristische Angriffe verursacht werden. Solche Ereignisse verursachen in der Regel lokale Schäden an der Struktur von Gebäuden, die zu einem vollständigen Einsturz führen können. Hier kommt der Begriff progressiver Einsturz ins Spiel, verstanden als der Prozess, bei dem lokale Schäden eine Kettenreaktion von Versagen auslösen, die zum Einsturz des gesamten Gebäudes oder eines großen Teils davon führt. Ein progressiver Gebäudeeinsturz geht immer mit ernsthaften personellen und materiellen Verlusten einher (Kokot & Solomos, 2012). Sechs Arten von progressiven Einstürzen werden identifiziert: Pancake‑, Zipper‑, Domino‑, Section‑, Instability‑ und Mixed‑Type‑Einstürze. Jede Einsturzart wurde hinsichtlich der Ausbreitung von Versagen charakterisiert, wobei die ausbreitende Aktion, die sich aus dem Versagen eines Bauteils ergibt und zum Versagen weiterer Bauteile führt, beschrieben wird (Starossek, 2007). Progressiver Gebäudeeinsturz wird vom National Institute of Standards and Technology (NIST) als „die Ausbreitung eines anfänglichen lokalen Versagens in einer Weise, die einer Kettenreaktion ähnelt und zu einem partiellen oder vollständigen Einsturz eines Gebäudes führt“ definiert (Ellingwood et al., 2007).
+
+### Metriken und numerische Grenzwerte
+Die UNESCO listet 63 Länder, die seismische Entwurfsbauvorschriften haben (UNESCO, 2008). Viele Länder haben Standards zum progressiven Gebäudeeinsturz, darunter EUROCODE, Canadian National Building Codes und Swedish Design Regulations (Ellingwood et al., 2007). Weitere Metriken umfassen das Floor‑Area‑Ratio (FAR) (Metropolitan Council 2015), Basisquellen (CMHA kein Datum) und den seismischen Verwundbarkeits‑Index (SVI) (Kassem et al., 2019).
+
+### Wichtige relevante UN‑Konvention / multilaterale Verträge
+Die Haager Konvention von 1954 zum Schutz des Kulturguts im Falle bewaffneter Konflikte. Dieser internationale Vertrag verlangt im Frieden Risikomanagementpläne zum Schutz kultureller Vermögenswerte bei einer akuten Situation wie dem Versagen einer Struktur und Feuer (UNESCO, 1954).  
+Die International Labour Organization C167 – Safety and Health in Construction Convention, 1988 (ILO, 1988).  
+Der Sendai‑Rahmen für die Katastrophenrisikoreduktion 2015‑2030 definiert sieben klare Ziele und vier Prioritäten für Maßnahmen zur Verhinderung neuer und Reduzierung bestehender Katastrophenrisiken, einschließlich einer erheblichen Reduzierung von Katastrophenschäden an kritischer Infrastruktur und der Unterbrechung grundlegender Dienste, darunter Gesundheit und Bildung, unter anderem durch die Entwicklung ihrer Widerstandsfähigkeit bis 2030 (UNDRR, 2015).
+
+### Treiber
+Wetterbedingte strukturelle Versagen entstehen typischerweise durch Regen- oder Schneeschichtungen auf Dächern, Hurrikane, Tornados, Erdrutschen und sogar Lawinen. Überschwemmungen können auch Fundamente untergraben, was zu struktureller Instabilität und potenziellem Einsturz führt, wie während der Überschwemmung 2013 in Zentraleuropa, bei der Gebäudeschäden und Infrastruktur in Deutschland, Österreich und der Tschechischen Republik erheblich waren. Erdrutsche und zugehörige Bewegungen von Fels können die Stabilität von Fundamenten beeinflussen und strukturelle Versagen verursachen. Extreme Wetterereignisse wie Zyklone und schwere Stürme können durch hohe Winde, Sturmfluten und Trümmerwirkung weitreichende Schäden an Gebäuden verursachen, wobei die Schäden bei älteren oder schlecht gewarteten Gebäuden verschlimmert werden (Hain et al., 2023). Tsunamis können Küstengebiete überschwemmen und Strukturen beschädigen, und Permafrostschmelze sowie der Rückzug beeinträchtigen die Fundamente von Gebäuden und führen zu Schäden und sogar Einstürzen. Erdbeben, wie das Türkei‑Syrien-Erdbeben im Februar 2023, sowie Hohlräume (die nicht leicht identifizierbar sind) und Bodensenkungen sind ebenfalls Treiber von Gebäudeeinstürzen (WHO, 2019). Feuer ist ein weiterer Treiber, der das strukturelle Versagen von Stahl- und Betonkonstruktionen verursachen kann, was zum Tod von Zivilisten und Feuerwehrleuten führen kann (Meacham et al., 2010; Ahmadi et al., 2020). Zusätzlich tragen Küstenerosion (Fouad et al., 2025) und Probleme wie Gebäudealterung (Caredda et al., 2023) sowie Hitzeinsel‑Effekte (Rotta, 2023) zum Risiko von Gebäudeeinstürzen bei. In vielen einkommensschwachen bis mittleren Ländern wird Gebäudeeinsturz häufig auf schwache Fundamente, minderwertige Baustoffe, schlechte Mischung von Materialien durch Bauarbeiter, übermäßige Belastung der Gebäudestruktur und schlechte Prüfung der Gebäudestruktur zurückgeführt (Figueroa Fernandez, 2014). Gebäudeeinsturz wird auch durch strukturelle Versagen, schlechte Aufsicht und Handwerk, fehlerhafte Planung und Missachtung genehmigter Zeichnungen verursacht (Windapo und Rotimi, 2012). Zusätzliche Faktoren sind das Fehlen von Bodenuntersuchungen vor dem Bau, mangelnde Koordination zwischen Fachverbänden und Stadtplanungsbehörden sowie unzureichende Durchsetzung bestehender Gesetze zur physischen Entwicklung (Dimuna, 2010). Terroristische Aktivitäten können zusätzliche Gefahren wie sekundäre Geräte, Folgeangriffe und verbleibende radioaktive, biologische oder chemische Kontaminationen hinzufügen (cf HIPs BI0602 & CH0903). Historisch haben terroristische Aktivitäten, die zu Einstürzen geführt haben, z. B. das Aufprall von Verkehrsflugzeugen in das World Trade Center in New York City (11. September 2001) und Fahrzeugbomben wie die an der Murrah Federal Office Building in Oklahoma City (19. April 1995) (OSHA, kein Datum).
+
+### Auswirkungen
+Die Auswirkungen von Gebäudeeinstürzen umfassen Auswirkungen auf Leben, Existenzgrundlage und Gesundheit, zum Beispiel wenn Asbest im Gebäude verwendet wird (cf HIP CH0202), sowie soziale, wirtschaftliche und ökologische Auswirkungen (Babtunde, 2013). Seit der Einführung der UN-Strategie für Katastrophenreduzierung und der Kampagne „Städte resilient machen“ (UNDRR, 2010) hat das UN‑Office für Katastrophenrisikoreduktion die Verpflichtung übernommen, Städte resilient zu machen, und hat sich weitreichend engagiert und veröffentlicht, darunter die zehn wesentlichen Prinzipien zur resilienten Stadtentwicklung (UNDRR, 2019). Die Beteiligung an dieser Kampagne ist entscheidend für die Förderung der Treiber des Risikomanagements mit dem „Essential Four: Pursue Resilient Urban Development and Design“, das die Integration von Widerstandsfähigkeit in die sozioökonomische Entwicklungsplanung und Infrastruktur zum Schutz von Investitionen fordert – was dazu beitragen wird, die Risiken von Gebäudeeinstürzen zu reduzieren (UNDRR, 2019). Die Konsequenzen des Versagens variieren erheblich von Struktur zu Struktur und können von Faktoren wie Art des Gefährdungsereignisses, Eigenschaften der Struktur, Nutzung/Belegung, Lage, Tageszeit und betrachteter Zeitraum abhängen. Am 24. April 2013 führte der Einsturz des Rana‑Plaza‑Gebäudes in Dhaka, Bangladesh, das fünf Textilfabriken beherbergte, zum Tod von mindestens 1.132 Personen und zu über 2.500 Verletzten (ILO, kein Datum). Dies geschah aufgrund zusätzlicher Geschosse, die gebaut wurden, ohne die genehmigten Baupläne zu beachten (Hira und Benson‑Rea, 2017). Nur fünf Monate zuvor hatten mindestens 112 Arbeiter ihr Leben bei einem anderen Unfall verloren, gefangen in der brennenden Modefabrik am Stadtrand von Dhaka. Die meisten Fabriken erfüllten nicht die für Bau und Konstruktion vorgeschriebenen Standards. Infolgedessen sind Todesfälle bei Feuerereignissen und Gebäudeeinstürzen häufig (ILO, kein Datum).
+
+### Multi‑Gefahr‑Kontext
+Die untenstehende Abbildung fasst die häufigen Interaktionen zwischen Gebäudeeinsturz und anderen Gefahren zusammen. Diese Informationen sollten mit Vorsicht verwendet und nicht ausschließlich in der Katastrophenrisikomanagementplanung herangezogen werden, da einige Interaktionen möglicherweise nicht einbezogen wurden. Beachten Sie, dass gefährliche Ereignisse, die gleichzeitig oder lokal im Raum oder in der Zeit auftreten, nicht notwendigerweise verursachen, verstärken oder sonst mit einander in Beziehung stehen. Spezifische Beispiele für Multi‑Gefahr‑Kontext finden sich in den Abschnitten „Gefahrtreiber“ und „Auswirkungen“ oben.
+
+### Risikomanagement
+Um die Auswirkungen von progressiven oder unverhältnismäßigen Einstürzen zu mildern, konzentriert sich ein quantitativer und transparenter Ansatz darauf, die strukturelle Robustheit zu erhöhen. Dies stellt sicher, dass sowohl neue als auch bestehende Strukturen unter abnormalen Lasten einen Einsturz verhindern können. Strukturelle Robustheit hängt von Systemcharakteristika (z. B. Festigkeit, Duktilität, Redundanz) und dem Typ der abnormalen Belastung (z. B. dynamisch, impulsiv) ab. Während sie manchmal als „strukturielle Integrität“ bezeichnet wird, bedeutet der Begriff speziell die Ganzheit der Struktur nach einem extremen Ereignis. Strukturelle Robustheit hängt stark von Redundanz ab, die die Fähigkeit der Struktur beschreibt, Lasten nach Beschädigung eines einzelnen oder mehrerer Mitglieder umzuleiten. Risiko wird implizit im Design der meisten Codes in Tabelle 5 durch die Gebäudeklassifizierung und die für jede Klasse oder Risikokategorie empfohlenen Entwurfs­methoden berücksichtigt. Risikobedenken werden auch in einigen Codes aufgenommen, um die gesamte Designstrategie zu definieren (EN 1991‑1‑7, NBCC 1995, ASCE/SEI 7‑16, UFC 4‑023‑03, GSA 2013). Ein Hauptnachteil vieler Codes ist, dass Risiko nicht sehr transparent oder systematisch berücksichtigt wird. Der Bericht „Building Regulation for Resilience – Managing Risks for Safer Cities“ fordert die Mobilisierung von Bauvorschriften zur Risikoreduktion (World Bank & GFDRR, 2026). Datenbanken haben einen besonderen Wert bei der Identifizierung von Faktoren, die ein unverhältnismäßiges Risiko erzeugen, das erst aus der Analyse von Daten in größerem Umfang als einzelne Fälle ersichtlich wird. Caressa schlägt eine neue Datenbank von Gebäudeeinstürzen vor, die systematisch Informationen über Gefahren, Anfangsversagen und deren entsprechende Ausbreitungsmechanismen sammelt (Caressa et al., 2023).
+
+### Überwachung
+Die Überwachung von Gebäudeeinstürzen konzentriert sich auf die Verhinderung von Fehlfunktionen durch Analyse von Anomalien in Temperaturkontrolldaten. Sie kann die Systemleistung proaktiv optimieren, Ausfallzeiten reduzieren und persönliche Kosten minimieren (Mesa‑Jimenez et al., 2021). Die physikalischen Parameter, die üblicherweise zur Bereitstellung von Frühwarnungen für Gebäudeeinsturz während eines Brandes verwendet werden, umfassen Frequenz, Temperatur, akustische Wellen, Verschiebung und Verschiebungsgeschwindigkeit. Es ist entscheidend, diese Parameter in Echtzeit zu detektieren, um effektive Frühwarnungen zu liefern (Li et al., 2023).
+
+### References
+Ahmadi, M.T., Aghakouchak, A.A., Mirghaderi, R., Tahouni, S., Garivani, S. and Epackachi, S., 2020. Collapse of the 16‑story Plasco Building in Tehran due to fire. Fire Technology, 56, pp.769–799.  
+Babtunde, I.R., 2013. Monumental effects of building collapse in Nigerian cities: The case of Lagos Island, Nigeria. Basic Research Journal of Engineering Innovation, 1, pp.26–31.  
+Caredda, G., Makoond, N., Buitrago, M., Sagaseta, J., Chryssanthopoulos, M. and Adam, J.M., 2023. Learning from the progressive collapse of buildings. Developments in the Built Environment, 15, 100194. doi:10.1016/j.dibe.2023.100194. Accessed 19 May 2025.  
+Concrete Masonry & Hardscapes Association (CMHA), no date. Seismic design forces on concrete masonry buildings. Accessed 19 May 2025.  
+Dimuna, K.O., 2010. Incessant incidents of building collapse in Nigeria: A challenge to stakeholders. Global Journal of Researches in Engineering, 10, pp.75–84.  
+Ellingwood, B.R., Smilowitz, R., Dusenberry, D.O., Duthinh, D., Lew, H.S. and Carino, N.J., 2007. Best practices for reducing the potential for progressive collapse in buildings. National Institute of Standards and Technology (NIST). Accessed 19 May 2025.  
+Figueroa Fernandez, R.H., 2014. Strategies to reduce the risk of building collapse in developing countries. Dissertation. Carnegie Mellon University, Pennsylvania, USA. Accessed 19 May 2025.  
+Fouad, S.S., Heggy, E., Amrouni, O., Hzami, A., Nijhuis, S., Mohamed, N. et al., 2025. Soaring building collapses in southern Mediterranean coasts: Hydroclimatic drivers and adaptive landscape mitigations. Earth’s Future, 13, e2024EF004883. Accessed 19 May 2025.  
+Hain, A., Zaghi, A.E., Padgett, J.E. and Tafur, A., 2023. Case studies of multihazard damage: Investigation of the interaction of Hurricane Maria and the January 2020 earthquake sequence in Puerto Rico. Frontiers in Built Environment, 9, 1128573. doi:10.3389/fbuil.2023.1128573. Available at: https://www.frontiersin.org/journals/built-environment/articles/10.3389… Accessed 13 February 2025.  
+Hira, J. and Benson‑Rea, M., 2017. Governing corporate social responsibility in the apparel industry after Rana Plaza. Palgrave Macmillan. Accessed 13 February 2025.  
+International Labour Organization (ILO), no date. The Rana Plaza accident and its aftermath. Accessed 13 February 2025.  
+International Labour Organization (ILO), 1988. C167 – Safety and Health in Construction Convention, 1988 (No. 167). Accessed 13 February 2025.  
+Kassem, M.M., Nazri, F.M. and Farsangi, E.N., 2019. Development of seismic vulnerability index methodology for reinforced concrete buildings based on nonlinear parametric analyses. MethodsX, 6, pp.199–211. Accessed 18 May 2025.  
+Li, J., Li, G.Q. and Zhu, S., 2023. FAST‑AlertNet: Early warning fire‑induced collapse of large‑span steel truss structure. Engineering Applications of Artificial Intelligence, 126 (Part B), 106891. doi:10.1016/j.engappai.2023.106891. Accessed 25 January 2025.  
+Meacham, B., Park, H., Engelhardt, M., Kirk, A., Kodur, V., Straalen, I., Van Weeren, K. and Feijter, R.D., 2010. Fire and collapse, Faculty of Architecture building, Delft University of Technology: Data collection and preliminary analysis. Accessed 30 November 2019.  
+Metropolitan Council, 2015. Calculating floor area ratio. Local Planning Handbook. Accessed 19 May 2025.  
+Mesa‑Jimenez, J.J., Stokes, L., Yang, Q. and Livina, V., 2021. International Journal of Metrology and Quality Engineering. Accessed 25 January 2025.  
+Occupational Safety and Health Administration (OSHA), no date. Structural collapse guide. Accessed 13 February 2025.  
+Rotta Loria, A.F., 2023. The silent impact of underground climate change on civil infrastructure. Communications Engineering, 2, 44. Accessed 18 May 2025.  
+United Nations Office for Disaster Risk Reduction (UNDRR), 2010. Making cities resilient: My city is getting ready! - Campaign kit. Accessed 13 February 2025.  
+United Nations Office for Disaster Risk Reduction (UNDRR), 2015. Sendai Framework for Disaster Risk Reduction 2015–2030. Accessed 13 February 2025.  
+United Nations Office for Disaster Risk Reduction (UNDRR), 2019. The TEN Essentials for Making Cities Resilient. Accessed 13 February 2025.  
+United Nations Office for Disaster Risk Reduction (UNDRR) and Economist Impact, 2022. Building disaster resilience: A study of disaster events and financial lending streams. Accessed 18 May 2025.  
+United Nations Educational, Scientific and Cultural Organization (UNESCO), 1954. 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict. Accessed 18 May 2025.  
+United Nations Educational, Scientific and Cultural Organization (UNESCO), 2008. Regulations for seismic design: A world list – 2008. Accessed 18 May 2025.  
+Windapo, A.O. and Rotimi, J.O., 2012. Contemporary issues in building collapse and its implication for sustainable development. Buildings, 2, pp.283–299.  
+World Health Organization (WHO), 2019. Earthquakes: Technical hazard sheet: Natural disaster profile. Accessed 18 May 2025.  
+World Bank and Global Facility for Disaster Reduction and Recovery (GFDRR), 2016. Building regulation for resilience: Managing risks for safer cities. Accessed 19 May 2025.
+```

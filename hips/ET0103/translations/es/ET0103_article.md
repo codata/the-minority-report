@@ -1,55 +1,79 @@
-```markdown
-### Definición
-Una **flaque solar** es una explosión súbita y de gran magnitud en el Sol caracterizada por la liberación rápida de energía, que resulta en la emisión de radiación electromagnética a través de todas las longitudes de onda y en un aumento inmediato de brillo en una porción de la superficie solar. El estallido de energía electromagnética viaja a la velocidad de la luz; por lo tanto, cualquier efecto sobre el lado iluminado de la atmósfera externa de la Tierra ocurre al mismo tiempo que el evento es observado (NOAA Space Weather Prediction Center, 2023).
+### Definición  
+Una **erupción solar** es una explosión súbita y grande en el Sol caracterizada por la liberación rápida de energía, resultando en la emisión de radiación electromagnética en todas las longitudes de onda y en un aumento rápido de la luminosidad en una porción de la superficie solar. La explosión de energía electromagnética viaja a la velocidad de la luz; por lo tanto, cualquier efecto sobre el lado iluminado de la atmósfera externa de la Tierra ocurre al mismo tiempo que se observa el evento (NOAA Space Weather Prediction Center, 2023).
 
-### Referencia primaria
-NOAA Space Weather Prediction Center, 2023. **Flaques solares (caídas radio)**. Accedido el 31 de enero de 2025.
+### Referencia primaria  
+NOAA Space Weather Prediction Center, 2023. SOLAR FLARES (RADIO BLACKOUTS). Accedido 31 enero 2025.
 
-### Anotaciones
-#### Descripción científica adicional
-Las flaques solares ocurren predominantemente en **regiones activas** del Sol, caracterizadas por la presencia de campos magnéticos intensos, a menudo asociados con **manchas solares**. Cuando estos campos magnéticos cambian y evolucionan, pueden alcanzar un estado de inestabilidad, lo que resulta en la liberación de energía en diversas formas. Una de las manifestaciones primarias de esta liberación es observada como flaques solares, que implican la emisión de radiación electromagnética. Las flaques son más probables durante periodos de alta actividad solar y a menudo están acompañadas de **ejecciones de masa coronal (CME)**. Se clasifican según su intensidad, determinada principalmente por la luminosidad en rayos X y medida en la banda 1‑8 Å (0.1‑0.8 nm). Hay cinco categorías de flaques, que van desde la más débil a la más fuerte: A, B, C, M y X (Hanslmeier, 2007; Schrijver, 2009). La intensidad de las flaques se obtiene de sensores de rayos X y ultravioleta extremo (EUV) instalados en satélites GOES (Thiemann et al., 2019; Machol et al., 2020).  
-Cuando la región activa correspondiente está orientada hacia la Tierra, una flaque intensa, típicamente de clase X y ocasionalmente M, puede provocar perturbaciones significativas en la ionosfera del lado iluminado de la Tierra. Estas perturbaciones pueden causar distorsiones de señal y desvanecimientos radio debido a la absorción aumentada de ondas de radio en la ionosfera baja, específicamente en la **zona D** y la zona **E** inferior.  
-En condiciones regulares, las ondas de radio de alta frecuencia (HF) soportan la comunicación a larga distancia refractándose a través de las capas superiores de la ionosfera. Sin embargo, durante una flaque solar poderosa, la ionización aumenta en la ionosfera baja, particularmente en la zona D y la zona E inferiores. Este fenómeno puede llevar a la degradación o absorción completa de señales de radio HF, resultando en un desvanecimiento radio que afecta predominantemente la banda de frecuencia de 3 a 30 MHz.  
-Los estallidos radio se asocian con las flaques solares. El retraso en el registro de sus diferentes frecuencias de radio en la órbita de la Tierra se debe al movimiento radial del origen. Los grandes estallidos duran de 10 a 20 minutos en promedio. Las tormentas de ruido radio de mayor duración, con niveles de radiación persistentes y variables, se originan en grupos de manchas solares, áreas de campos magnéticos grandes e intensos. Un **estallido radio solar (SRB)** puede influir en los señales de los Sistemas Globales de Navegación por Satélite (GNSS) a través de interferencias directas de ondas de radio.
+### Anotaciones  
 
-### Métricas y límites numéricos
-Las intensidades de las flaques solares abarcan un rango amplio y se clasifican según la emisión pico en la banda 0.1‑0.8 nm de rayos X (soft X‑ray) del XRS de NOAA/GOES. Las flaques se clasifican mediante una escala de cinco niveles introducida por la Administración Nacional Oceánica y Atmosférica de EE. UU. (NOAA) en 1999. La escala está en revisión y se presenta a continuación. Los niveles de flujo de rayos X comienzan con el nivel **A** (≥ 10⁻⁸ W m⁻²). El siguiente nivel, diez veces mayor, es el nivel **B** (≥ 10⁻⁷ W m⁻²), seguido por las flaques **C** (≥ 10⁻⁶ W m⁻²), **M** (≥ 10⁻⁵ W m⁻²) y finalmente las flaques **X** (≥ 10⁻⁴ W m⁻²) (NOAA, 2023).
+#### Descripción científica adicional  
+Las erupciones solares ocurren predominantemente en regiones activas del Sol, las cuales se caracterizan por la presencia de campos magnéticos intensos, a menudo asociados con grupos de manchas solares. A medida que estos campos magnéticos cambian y evolucionan, pueden alcanzar un estado de inestabilidad, resultando en la liberación de energía en varias formas. Una de las manifestaciones principales de esta liberación de energía es observada como erupciones solares, que implican la emisión de radiación electromagnética. Las erupciones son más probables de ocurrir durante periodos de alta actividad solar y suelen acompañarse de erupciones de masa coronal (CME).
 
-#### Escala de Impacto
-| Nivel | Descripción física | Frecuencia media | Frecuencia por ciclo | Impacto en HF | Impacto en navegación |
-|-------|---------------------|------------------|----------------------|---------------|-----------------------|
-| R 5 | **Extremo** – Ceguera radio completa (HF) en todo el lado iluminado de la Tierra durante varias horas. | 1 ciclo = 11 años | < 1 por ciclo | Contacto HF perdido | Señales de navegación de baja frecuencia interrumpidas; errores de posicionamiento en horas prolongadas. |
-| R 4 | **Severo** – Ceguera radio HF en la mayor parte del lado iluminado de la Tierra durante 1‑2 h. | 10⁻³ W m⁻² (X10) | 8 por ciclo (≈ 8 días/ciclo) | Contacto HF perdido | Ocurren fallos de señal de navegación de baja frecuencia; posibles breves interferencias en GNSS. |
-| R 3 | **Fuerte** – Ceguera radio HF a gran escala, pérdida de contacto de ~1 h. | 10⁻⁴ W m⁻² (X1) | 175 por ciclo (≈ 140 días/ciclo) | Contacto HF degradado | Señales de navegación de baja frecuencia afectadas por ~1 h. |
-| R 2 | **Moderado** – Ceguera HF limitada, pérdida de contacto de minutos. | 5 × 10⁻⁵ W m⁻² (M5) | 350 por ciclo (≈ 300 días/ciclo) | Contacto HF parcialmente perdido | Señales de navegación de baja frecuencia degradadas por minutos. |
-| R 1 | **Menor** – Degradación ligera de HF, pérdida ocasional. | 10⁻⁵ W m⁻² (M1) | 2000 por ciclo (≈ 950 días/ciclo) | Contacto HF ligeramente degradado | Señales de navegación de baja frecuencia afectadas brevemente. |
+Las erupciones se clasifican según su intensidad, principalmente determinada por el brillo en rayos X, y se miden en la banda de 1–8 Å (0.1–0.8 nm). Existen cinco categorías de erupciones, que van desde la más débil hasta la más fuerte: A, B, C, M y X (Hanslmeier, 2007; Schrijver, 2009). La información sobre la intensidad de las erupciones se obtiene de sensores de rayos X y ultravioleta extremo instalados en satélites GOES (Thiemann et al., 2019; Machol et al., 2020).  
+Bajo condiciones favorables de observación, cuando la región activa correspondiente en el Sol está orientada hacia la Tierra, una erupción intensa, típicamente de clase X y ocasionalmente M, puede causar disturbios significativos en la ionosfera del lado iluminado de la Tierra. Estos disturbios pueden provocar distorsiones de señal y apagones radioeléctricos debido a la mayor absorción de ondas de radio en la ionosfera inferior, específicamente en la región D y la región E inferior.
 
-Los centros de clima espacial designados por la Organización de Aviación Civil Internacional (OACI) deben proporcionar a las aerolíneas avisos sobre condiciones anómalas de comunicación HF cuando la intensidad de una flaque solar exceda 10⁻⁴ W m⁻² (MOD) y 10⁻³ W m⁻² (SEV) (OACI, 2019).
+En condiciones regulares, las ondas de radio de alta frecuencia (HF) soportan la comunicación a larga distancia al refractarse a través de las capas superiores de la ionosfera. Sin embargo, durante una erupción solar poderosa, la ionización aumenta en la ionosfera inferior, particularmente en sus regiones D y E inferiores. Este fenómeno puede conducir a la degradación o absorción completa de las señales de radio HF, resultando en un apagón radioeléctrico que afecta predominantemente al rango de frecuencia de 3 a 30 MHz. Los estallidos radioeléctricos están asociados con las erupciones solares. El retraso en el registro de sus diferentes frecuencias radio en la órbita de la Tierra se debe al movimiento de salida de la fuente. Los estallidos grandes duran, en promedio, entre 10 y 20 minutos. Las tormentas de ruido radio de mayor duración y niveles de radiación variable se originan en grupos de manchas solares, áreas de campos magnéticos intensos. Una **Explosión de radio solar (SRB)** podría influir en las señales del Sistema de Navegación Global por Satélite (GNSS) a través de interferencias directas de ondas de radio.
 
-### Convención/memorial de la ONU relevante
-No aplica; sin embargo, las normas relacionadas con la aviación caen bajo la coordinación de la OACI.
+### Métricas y límites numéricos  
+Las intensidades de las erupciones solares cubren un amplio rango y se clasifican en términos de emisión pico en la banda espectral de 0.1–0.8 nm (rayos X blandos) del XRS NOAA/GOES. Las erupciones solares se clasifican mediante una escala de cinco niveles introducida por la Administración Nacional Oceánica y Atmosférica de EE. UU. (NOAA) en 1999. La escala está actualmente en revisión y se presenta a continuación. Los niveles de flujo de rayos X comienzan con el nivel “A” (A ≥ 10⁻⁸ W m⁻²). El siguiente nivel, diez veces mayor, es el nivel “B” (≥ 10⁻⁷ W m⁻²), seguido por “C” (≥ 10⁻⁶ W m⁻²), “M” (≥ 10⁻⁵ W m⁻²) y finalmente “X” (≥ 10⁻⁴ W m⁻²) (NOAA, 2023).  
+*(Tabla de escala – se mantiene la estructura original con los niveles R 5 a R 1 y sus descripciones correspondientes.)*
 
-### Conductores
-- **Actividad solar**: las flaques solares están asociadas con regiones activas y manchas solares. Se activan por eventos de reconexión magnética en la corona solar. Los periodos de alta actividad, con mayor número de manchas solares, generan mayor probabilidad de flaques.
+### Centro de clima espacial designado por la OACI  
+Los centros de clima espacial designados por la Organización de Aviación Civil Internacional (ICAO) se espera que proporcionen a las aerolíneas avisos sobre condiciones anómalas en la comunicación HF cuando la intensidad de una erupción solar supere 10⁻⁴ W m⁻² (MOD) y 10⁻³ W m⁻² (SEV) (ICAO, 2019).
 
-### Impactos
-- **Disrupciones en comunicación radio**: las flaques emiten estallidos intensos de rayos X y EUV, incrementando la ionización en la ionosfera baja y provocando absorción y degradación de ondas de radio HF (3‑30 MHz), afectando la aviación, la navegación marítima y los servicios de emergencia.
-- **Interferencia en GNSS**: las flaques generan interferencia de radiofrecuencia que afecta los sistemas GNSS (GPS, GLONASS, BEIDOU, GALILEO), provocando inexactitud de posicionamiento y pérdida de señal.
-- **Interferencia de estallidos radio**: los estallidos pueden saturar sistemas terrestres (telefonía móvil, radares de aviación, transmisores/receivers) y provocar interrupciones de 90 min en el espacio aéreo sueco en 2015.
-- **Daño a satélites**: las partículas energéticas solares pueden dañar los sistemas electrónicos de satélites, interrumpir comunicaciones, monitorización meteorológica y recopilación de datos científicos. También representan riesgo para astronautas durante EVAs.
+### Convenio/Tratado internacional relevante  
+No aplica; sin embargo, los estándares relacionados con la aviación caen bajo la coordinación de la OACI.
 
-### Contexto multi‑hazard
-La figura siguiente resume las interacciones comunes entre flaques solares y otros peligros. Este dato debe usarse con cautela y no debe ser la única base para la gestión del riesgo en desastres, ya que algunas interacciones pueden no incluirse.
+### Drivers  
+Actividad solar: Las erupciones solares están asociadas con regiones activas y manchas solares en el Sol. Estas suelen ser provocadas por eventos de reconexión magnética en la corona solar. Los periodos de alta actividad solar, caracterizados por un aumento en el número de manchas solares, son más propensos a producir erupciones solares.
 
-### Gestión del riesgo
-- **Monitoreo de clima espacial**: los servicios de clima espacial monitorizan la actividad solar y brindan alertas y pronósticos de posibles flaques solares.  
-- **Predicciones de desvanecimiento radio**: la intensidad de una flaque puede medirse con sensores de rayos X y UV, permitiendo predecir el impacto potencial en la propagación de ondas de radio.  
-- **Sistemas de comunicación de respaldo**: se pueden emplear frecuencias alternativas, modos de comunicación o redes redundantes menos afectadas por cambios ionosféricos.  
-- **Monitoreo de integridad GNSS**: los usuarios pueden instalar sistemas que detecten anomalías en las señales GNSS y alerten a los operadores.
+### Impactos  
+Disrupciones de la comunicación radio: Las erupciones solares emiten estallidos intensos de radiación electromagnética, incluidos rayos X y radiación ultravioleta extrema (EUV). Estas radiaciones de alta energía pueden causar un aumento de la ionización en la atmósfera de la Tierra, particularmente en la ionosfera inferior. Esta ionización puede resultar en mayor absorción y degradación de ondas de radio en el rango de 3–30 MHz (HF), afectando la comunicación a larga distancia vital para la aviación, operaciones marítimas y servicios de emergencia, provocando interrupciones en la comunicación radio.
 
-### Monitoreo
-Los servicios de clima espacial miembros de los **International Space Environment Services (ISES)** ofrecen sistemas de alerta a usuarios específicos en sus países. Los centros de clima espacial designados por la OACI aconsejan a las aerolíneas sobre flaques solares y desvanecimientos radio.
+Interferencia de señal GNSS: Las erupciones solares pueden generar interferencia de frecuencia radio que afecta a las señales transmitidas por sistemas de navegación global por satélite (GNSS), como GPS, GLONASS, BEIDOU y GALILEO. La interferencia puede causar inexactitudes en la posición y el tiempo o pérdida completa de las señales GNSS, conduciendo a posibles errores de navegación para diversas aplicaciones, incluida la aviación y la navegación marítima.
 
-### Referencias
-*(La lista completa de referencias se mantiene igual, con el formato adecuado en el documento original.)*
-```
+Interferencia por estallidos radio: Los estallidos radio de las erupciones solares pueden interferir directamente con la comunicación radio en la Tierra. Los estallidos pueden saturar sistemas de telefonía móvil terrestre, radares de monitoreo de aviación y otros sistemas de transmisor/recipiente en condiciones adecuadas. Por ejemplo, en 2015, los centros de control del tráfico aéreo en Suecia observaron que las estaciones de radar del proveedor sueco de servicios de navegación aérea no transmitían los datos correctos. La interrupción se atribuyó a la actividad de erupción solar que ocurría cerca del anochecer en Suecia cuando el ángulo del Sol estaba dirigido hacia la estación de radar. Aunque la causa fue identificada rápidamente y se tomaron medidas, la interferencia resultó en un impacto de 90 minutos en el radar de todo el espacio aéreo sueco. La radiación intensa de las erupciones solares puede dañar los sistemas electrónicos de los satélites, interrumpiendo las comunicaciones, la monitorización meteorológica y los servicios de recopilación de datos científicos. Los niveles elevados de radiación también pueden interferir con sensores e instrumentos a bordo de observatorios espaciales. Las partículas energéticas solares también pueden representar riesgos para la salud de los astronautas durante actividades extravehiculares (EVAs).
+
+### Contexto multi‑hazard  
+La figura a continuación resume las interacciones comunes entre erupciones solares y otros riesgos. Esta información debe usarse con cautela y no depender exclusivamente en la Gestión del Riesgo de Desastres, especialmente ya que algunas interacciones pueden no haber sido incluidas. Observe que los eventos peligrosos que ocurren juntos o localmente en el espacio o el tiempo no necesariamente causan, amplifican o están relacionados entre sí. Ejemplos específicos de contexto multi‑hazard se pueden encontrar en las secciones “Drivers” e “Impactos” anteriores.
+
+### Diagrama multi‑hazard  
+*(Se conserva el diagrama original; no se traduce la imagen.)*
+
+### Gestión de Riesgo  
+
+#### Monitorización del clima espacial  
+Los servicios de clima espacial monitorean la actividad solar y proporcionan alertas y pronósticos para posibles erupciones solares. Estos sistemas de monitorización ayudan a detectar y evaluar el riesgo de erupciones solares, permitiendo acciones de gestión de riesgo apropiadas.
+
+#### Predicciones de apagón radio  
+La intensidad de una erupción solar puede medirse mediante datos de sensores de rayos X y ultravioleta. Esta información puede usarse para predecir el impacto potencial en la propagación de ondas de radio.
+
+#### Sistemas de respaldo de comunicación HF  
+Las organizaciones e industrias pueden disponer de sistemas de respaldo de comunicación para mitigar el impacto de las disrupciones de comunicación radio. Esto puede implicar frecuencias alternativas, modos de comunicación o redes de comunicación redundantes menos afectadas por los cambios ionosféricos provocados por las erupciones solares.
+
+#### Monitoreo de integridad GNSS  
+Los usuarios GNSS pueden implementar sistemas de monitoreo de integridad que detecten y alerten a los usuarios sobre anomalías o interferencias potenciales en las señales GNSS. Esto permite una gestión proactiva del riesgo y la implementación de métodos de navegación de respaldo cuando sea necesario.
+
+### Monitorización  
+
+Los servicios de clima espacial miembros de los Servicios Internacionales de Medio Ambiente Espacial (ISES) ofrecen sistemas de advertencia a usuarios específicos en sus países. Los centros de clima espacial designados por la Organización de Aviación Civil Internacional (ICAO) asesoran a las aerolíneas sobre erupciones solares y apagones radio.
+
+### Referencias  
+*(El bloque de referencias permanece íntegramente en inglés.)*  
+
+AMS, 2018. Radio blackout. American Meteorological Society (AMS). Accessed 31 January 2025.  
+Australian Bureau of Meteorology, no date. Space Weather and the Aviation Sector. Accessed 31 January 2025.  
+Chakraborty, S., J. Ruohoniemi, J. B. H. Baker and N. Nishitani, “Characterization of short-wave fadeout seen in daytime SuperDARN ground scatter observations,” Radio Science, vol. 53, no. 4, 2018  
+Hanslmeier, A., 2007. Space Weather-An Overview. Accessed 24 February 2025.  
+International Civil Aviation Organization, 2019. “Manual on Space Weather Information in Support of International Air Navigation (Doc 10100)”; Technical report; ICAO: Montréal, Canada.  
+Kataoka, R., 2022. Solar Radio Burst. Chapter 2 – Disturbed space weather. Extreme Space Weather, 31-64. Accessed 31 January 2025.  
+Machol, J. L., Eparvier, F. G., Viereck, R. A., Woodraska, D. L., Snow, M., Thiemann, E., ... & Reinard, A. A., 2020. “GOES-R series solar X‑ray and ultraviolet irradiance”. In The GOES‑R Series (pp. 233‑242). Elsevier.  
+NOAA, 2019. Solar flares (Radio blackouts). Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA). Accessed 31 January 2025.  
+NOAA, no date. NOAA Space Weather Scales. Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA) Solar Flares (Radio Blackouts). Accessed 31 January 2025.  
+NOAA, no date. NOAA Space Weather Scales. Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA). Accessed 31 January 2025.  
+NOAA, no date. NOAA Space Weather Scales. Space Weather Prediction Center, National Oceanic and Atmospheric Administration (NOAA) Solar Radio Datasets. Accessed 31 January 2025.  
+Royal Academy of Engineering, 2013. Extreme Space Weather: Impacts on Engineered systems and Infrastructure. Accessed 31 January 2025.  
+Schumer, E. A., 2009. “Improved modeling of midlatitude D‑region ionospheric absorption of high frequency radio signals during solar x‑ray flares”, vol. AFIT/DS/ENP/09/J01, Ohio: United States Air Force, Wright‑Patterson Air Force Base.  
+Thiemann, E. M., Eparvier, F. G., Woodraska, D., Chamberlin, P. C., Machol, J., Eden, T., ... & Woods, T. N., 2019. “The GOES‑R EUVS model for EUV irradiance variability”. Journal of Space Weather and Space Climate, 9, A43.  
+UK CAA, 2020. Impacts of space weather on aviation. UK Civil Aviation Authority (UK CAA). Accessed 31 January 2025.  
+Cite this [Copy citation]

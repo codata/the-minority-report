@@ -1,0 +1,1 @@
+motion of ice driven by gravitational forces, ice flow in a marine setting, floating ice tongues, ice flow shelves, sea ice, fast ice or drift/pack ice, ice flow of marine origin, ice jams, ice floes, ice edge, glacial ice flow, basal sliding
