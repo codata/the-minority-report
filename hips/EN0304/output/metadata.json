@@ -84,7 +84,7 @@
       "description": "The Large Language Model (gpt-oss:latest) used to generate translations."
     }
   ],
-  "datePublished": "2026-06-07T21:11:17.994231",
+  "datePublished": "2026-06-12T11:05:29.919805",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "version": "1.0.0",
   "distribution": [
@@ -95,6 +95,19 @@
       "contentUrl": "hips/EN0304/data/final_translations.csv",
       "encodingFormat": "text/csv",
       "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_pt_keywords",
+      "name": "EN0304_keywords.md",
+      "contentUrl": "hips/EN0304/translations/pt/EN0304_keywords.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "43720805edd356dc8133ac40a346cec76958dc8e1e10de88ba183f68abe55543",
+      "inLanguage": "pt",
+      "dateModified": "2026-06-11T00:05:31.355778Z",
+      "creator": {
+        "@id": "model_deepseek-r1_14b"
+      }
     }
   ],
   "recordSet": [

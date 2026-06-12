@@ -1,43 +1,83 @@
-> ### Definición  
-> COVID‑19 es una enfermedad infecciosa causada por el coronavirus SARS‑CoV‑2, un virus que se identificó por primera vez en poblaciones humanas a finales de 2019 y que provocó una pandemia global de coronavirus.  
->  
-> La pandemia se define como la propagación mundial de una enfermedad infecciosa, en este caso el SARS‑CoV‑2 (adaptado de OMS, 2023 y OMS Euro, sin fecha).  
->   
-> ### Referencias principales  
-> - OMS, 2023. *Enfermedad por coronavirus (COVID‑19)*. Organización Mundial de la Salud (OMS). Accedido 29 mayo 2025.  
-> - OMS Euro, sin fecha. *Pandemia de enfermedad por coronavirus (COVID‑19)*. Oficina Regional de la OMS para Europa (OMS Euro). Accedido 28 mayo 2025.  
->   
-> ### Anotaciones  
-> **Descripción científica adicional**  
-> COVID‑19 es la enfermedad causada por el coronavirus SARS‑CoV‑2. Generalmente se transmite entre personas en contacto estrecho (OMS, 2023a). Las primeras detecciones de coronavirus nuevo (nCoV) ocurrieron en China en diciembre de 2019, con una rápida expansión a otros países. En enero de 2020, la OMS declaró una Emergencia de Salud Pública de Interés Internacional (PHEIC) y, el 11 de marzo de 2020, la caracterizó como pandemia (OMS Euro, 2025).  
->   
-> El Comité de Emergencia de la OMS sobre COVID‑19 recomendó el 5 de mayo de 2023 que, al estar bien establecida la enfermedad, ya no calificaba como PHEIC. Esto no significa el fin de la pandemia, sino el cese de la emergencia global. Se establecerá un comité de revisión para desarrollar recomendaciones a largo plazo sobre la gestión continua de COVID‑19 (OMS Euro, 2025).  
->   
-> Las vacunas contra COVID‑19 ofrecen una protección sólida contra enfermedades graves y la muerte. Aunque una persona vacunada puede infectarse, suele presentar síntomas leves o ninguno. Cualquier persona puede enfermarse y, en casos graves, morir, pero la mayoría se recupera sin tratamiento (OMS, 2023a).  
->   
-> **Síntomas**  
-> Los síntomas suelen aparecer 5‑6 días tras la exposición y durar 1‑14 días. Los más comunes son fiebre, escalofríos y dolor de garganta. Los síntomas menos frecuentes incluyen dolores musculares, cansancio extremo, congestión nasal, estornudos, dolor de cabeza, dolor ocular, mareos, tos persistente, dolor torácico, dificultad respiratoria, voz ronca, parestesias, pérdida del apetito, náuseas, vómitos, dolor abdominal, diarrea, pérdida o alteración del gusto o olfato, y dificultades para dormir (OMS, 2023a).  
->   
-> **Pruebas diagnósticas**  
-> Se distinguen dos tipos principales: pruebas moleculares, como la reacción en cadena de la polimerasa (PCR), que son las más precisas al amplificar material genético viral, y pruebas rápidas de antígeno (TAR), que detectan proteínas virales. Las TAR son más simples y rápidas, y pueden realizarse por personal entrenado o por la propia persona (auto‑prueba). Son más efectivas cuando hay mayor carga viral y cuando la muestra se toma dentro de los 5‑7 días posteriores al inicio de los síntomas. Las muestras se recogen con hisopado nasofaríngeo y/o faríngeo (OMS, 2023b).  
->   
-> **Infección en animales**  
-> Entre 2020 y 2024, se reportaron infecciones por SARS‑CoV‑2 en varias especies animales en 34 países, incluyendo osos hormigueros, armadillos, gorilas, mandrillos y otros primates, así como en diversas especies felinas y caninas, equinos, bovinos, cerdos, conejos, roedores, y un manatí capturado (WOAH, sin fecha).  
->   
-> **Indicadores y límites numéricos**  
-> La información estadística global se resume en el Panel de Control COVID‑19 de la OMS (OMS, 2025b):  
-> - 30 de marzo de 2025: 777 691 501 casos reportados (total acumulado).  
-> - 20 de marzo de 2025: 7 093 267 muertes reportadas (total acumulado).  
-> - 31 de diciembre de 2023: 13,64 bn dosis de vacuna administradas a nivel mundial.  
-> - 31 de diciembre de 2023: 67 % de la población mundial totalmente vacunada con una serie primaria completa.  
-> - 31 de diciembre de 2023: 32 % de la población mundial vacunada con al menos una dosis de refuerzo.  
->   
-> **Convenio relevante de la ONU**  
-> Regulaciones Sanitarias Internacionales (2005), 3ª ed. (OMS, 2016).  
->   
-> **Conducir la gestión del riesgo**  
-> Para prevenir la transmisión: evitar multitudes y mantener distancia segura; usar mascarilla adecuada si se está enfermo, se ha estado en contacto con personas enfermas o se está en zona de riesgo; lavarse manos frecuentemente con alcohol o agua y jabón; cubrir boca y nariz al toser o estornudar; desechar pañuelos usados inmediatamente; aislarse si aparecen síntomas o si el resultado de la prueba es positivo.  
+### Definición  
+COVID‑19 es una enfermedad infecciosa causada por el coronavirus SARS‑CoV‑2, identificado por primera vez en poblaciones humanas a finales de 2019 y que provocó una pandemia mundial de coronavirus. Se trata del coronavirus del síndrome respiratorio agudo severo 2 (SARS‑CoV‑2) (adaptado de WHO, 2023 y WHO Euro, sin fecha).  
 
-> ... (El resto del texto sigue el mismo estilo de traducción, manteniendo terminología técnica y formato Markdown.)
+### Referencia(s) primaria(s)  
+WHO, 2023. Coronavirus disease (COVID‑19). World Health Organization (WHO). Accedido 29 mayo 2025.  
+WHO Euro, sin fecha. Coronavirus disease (COVID‑19) pandemic. World Health Organization Regional Office for Europe (WHO Euro). Accedido 28 mayo 2025.  
 
----
+### Anotaciones  
+#### Descripción científica adicional  
+COVID‑19 es la enfermedad provocada por el coronavirus SARS‑CoV‑2. Se suele propagar entre personas en contacto estrecho (WHO, 2023a). Los casos de coronavirus nuevo (nCoV) se detectaron por primera vez en China en diciembre de 2019, con el virus propagándose rápidamente a otros países del mundo. Esto llevó a la OMS a declarar una **emergencia de salud pública de interés internacional** el 30 de enero de 2020 y a caracterizar la epidemia como una pandemia el 11 de marzo de 2020 (WHO Euro, 2025).  
+
+El 5 de mayo de 2023, más de tres años después del inicio de la pandemia, el Comité de Emergencia de la OMS sobre COVID‑19 recomendó al Director‑General, quien aceptó la recomendación, que, dado que la enfermedad estaba ahora bien establecida y en curso, ya no cumplía con la definición de PHEIC. Esto no significa que la pandemia haya terminado, sino que la emergencia global que provocó ya no se mantiene. Se establecerá un comité de revisión para desarrollar recomendaciones permanentes a largo plazo sobre cómo los países gestionan la COVID‑19 de forma continua (WHO Euro, 2025).  
+
+Las vacunas contra la COVID‑19 ofrecen una fuerte protección contra la enfermedad grave y la muerte. Aunque una persona puede seguir contrayendo COVID‑19 tras la vacunación, es más probable que presente síntomas leves o ninguno. Cualquier persona puede enfermarse con COVID‑19 y volverse gravemente enferma o morir, pero la mayoría de las personas se recupera sin tratamiento (WHO, 2023a).  
+
+Las personas pueden experimentar diferentes síntomas de COVID‑19. Los síntomas suelen comenzar 5‑6 días después de la exposición y durar 1‑14 días. Los síntomas más comunes son fiebre, escalofríos y dolor de garganta. Los síntomas menos comunes incluyen dolores musculares y sensación de extremidades pesadas, fatiga severa o cansancio, secreción nasal o nariz bloqueada, estornudos, dolor de cabeza, ojos doloridos, mareos, tos nueva y persistente, opresión o dolor en el pecho, falta de aire, voz ronca, entumecimiento o hormigueo, pérdida de apetito, náuseas, vómitos, dolor abdominal o diarrea, pérdida o cambio en el sentido del gusto o el olfato y dificultad para dormir (WHO, 2023a).  
+
+Dos tipos principales de pruebas pueden confirmar si está infectado con SARS‑CoV‑2, el virus que causa la COVID‑19. Las pruebas moleculares, como la **reacción en cadena de la polimerasa (PCR)**, son las más precisas para diagnosticar la infección por SARS‑CoV‑2. Las pruebas moleculares detectan el virus en la muestra amplificando el **material genético viral** a niveles detectables. Las pruebas rápidas de antígeno (a veces llamadas pruebas rápidas de diagnóstico o RDT) detectan proteínas virales (conocidas como antígenos). Las RDT son una opción más sencilla y rápida que las pruebas moleculares y están disponibles para la prueba por operadores capacitados o por el propio individuo (a veces llamadas auto‑pruebas). Funcionan mejor cuando hay más virus circulando en la comunidad y cuando se toma una muestra de un individuo durante el período en que es más infeccioso, generalmente dentro de los primeros 5‑7 días después del inicio de los síntomas. Las muestras para ambos tipos de pruebas se recogen de la nariz y/o la garganta con un hisopo (WHO, 2023b).  
+
+Entre 2020 y 2024, las infecciones por SARS‑CoV‑2 también se reportaron en varias especies animales en 34 países, incluidas especies de antílope, armadillo, gorila, mandril y otras especies de mono, diversas especies de gato, incluidos lynx, león, tigre, leopardo, perro, zorro y hiena, caballo, ganado, ciervo, cerdo, morsa, hurón y nutria, conejos y roedores, e incluso en un manatí cautivo, según el Sistema de Información de Salud Animal Mundial (WOAH) (WOAH, sin fecha).  
+
+La Organización Mundial de la Salud (OMS) ha publicado numerosos documentos de asesoramiento, documentos técnicos, informes de situación, actualizaciones de respuesta y documentos de investigación sobre la COVID‑19. Estos incluyen guías de viajes, vigilancia, diagnóstico, tratamiento y pautas de vacunación y marcos (WHO, 2025b).  
+
+### Métricas y límites numéricos  
+La información estadística global se resume en el Panel de Control de la OMS sobre COVID‑19 (WHO, 2025b) de la siguiente manera:  
+- **30 marzo 2025**: 777 691 501 casos de COVID‑19 reportados a la OMS (casos acumulados totales).  
+- **20 marzo 2025**: 7 093 267 muertes por COVID‑19 reportadas a la OMS (muertes acumuladas totales).  
+- **31 diciembre 2023**: 13,64 mil millones de dosis de vacuna administradas globalmente.  
+- **31 diciembre 2023**: 67 % de la población global total vacunada con una serie primaria completa de una vacuna contra la COVID‑19.  
+- **31 diciembre 2023**: 32 % de la población global total vacunada con al menos una dosis de refuerzo de una vacuna contra la COVID‑19.  
+
+### Convención clave de la ONU / tratado multilateral  
+*Reglamento Internacional de Salud (2005), 3ª ed. (WHO, 2016).*  
+
+### Impulsores  
+- COVID‑19 es la enfermedad provocada por el coronavirus SARS‑CoV‑2. Se suele propagar entre personas en contacto estrecho (WHO, 2023a).  
+- Los casos de coronavirus nuevo (nCoV) se detectaron por primera vez en China en diciembre de 2019, con el virus propagándose rápidamente a otros países del mundo (WHO Euro, 2025).  
+- La OMS informa que el virus se propaga principalmente entre personas que están en contacto cercano, por ejemplo, a distancia de conversación cuando tocan, estornudan, hablan, cantan o respiran (transmisión aérea de corto alcance) o transmisión por gotitas. El virus también puede propagarse en ambientes mal ventilados y/o concurridos, donde las personas tienden a pasar períodos más largos de tiempo con el virus suspendido en el aire o viaja más lejos que la distancia de conversación (transmisión aérea de largo alcance). La infección también puede propagarse al tocar los ojos, la nariz o la boca después de tocar superficies u objetos que han sido contaminados por el virus (WHO, 2021a).  
+
+### Impactos  
+- Los casos de coronavirus nuevo (nCoV) se detectaron por primera vez en China en diciembre de 2019, con el virus propagándose rápidamente a otros países del mundo, lo que llevó a la OMS a declarar una **emergencia de salud pública de interés internacional** el 30 de enero de 2020 (WHO Euro, 2025).  
+- Se solicitó que las personas con los siguientes síntomas busquen atención médica inmediata: dificultad para respirar, especialmente en reposo, o incapacidad para hablar en frases, confusión, somnolencia o pérdida de conciencia, dolor persistente o presión en el pecho, piel fría o húmeda, o palidez o color azul, y pérdida del habla o movimiento (WHO, 2023a).  
+- Las personas con problemas de salud preexistentes están en mayor riesgo cuando tienen COVID‑19. Incluyen personas que toman medicamentos inmunosupresores, aquellas con problemas cardíacos, pulmonares, hepáticos o reumatológicos crónicos, personas con VIH, diabetes, cáncer, obesidad o demencia. Las personas con enfermedad grave y que necesitan tratamiento hospitalario deben recibir tratamiento lo antes posible. Las consecuencias de la COVID‑19 grave incluyen muerte, insuficiencia respiratoria, sepsis, tromboembolismo (coágulos sanguíneos) y falla multiorgánica, incluida lesión del corazón, hígado o riñones (WHO, 2023a).  
+- En situaciones raras, los niños pueden desarrollar un síndrome inflamatorio grave algunas semanas después de la infección (WHO, 2023a).  
+- Algunas personas que han tenido COVID‑19, ya sea que hayan requerido hospitalización o no, continúan experimentando síntomas. Estos efectos a largo plazo se llaman **COVID largo** (o condición post‑COVID‑19). Los síntomas más comunes asociados con el COVID largo incluyen fatiga, falta de aire y disfunción cognitiva (por ejemplo, confusión, olvido o falta de enfoque mental o claridad). El COVID largo puede afectar la capacidad de una persona para realizar actividades diarias como el trabajo o las tareas domésticas (WHO, 2023a).  
+- **30 marzo 2025**: 777 691 501 casos de COVID‑19 reportados a la OMS con 7 093 267 muertes por COVID‑19 (WHO, 2025a).  
+- Con inmunidad generalizada por vacunación y infección previa, las variantes circulantes ahora están asociadas con menores tasas de enfermedad grave y menos hospitalizaciones. Como resultado, la mayoría de los países han levantado medidas de salud pública y sociales y han pasado a terminar sus emergencias nacionales de COVID‑19 (WHO, 2023b).  
+- La COVID‑19 continúa circulando ampliamente, sin embargo, presentando desafíos significativos para los sistemas de salud en todo el mundo. Decenas de miles de personas se infectan o reinfectan cada semana. Es vital que los países mantengan la respuesta de salud pública ante la COVID‑19 en medio de la enfermedad continua y la muerte y la aparición de variantes de SARS‑CoV‑2, adaptándola a los requisitos basados en la situación y riesgo actuales de la COVID‑19 (WHO, 2023b).  
+- En 2022 y 2023, la OMS publicó un paquete de breves de política diseñados para ayudar a los países a formular políticas para gestionar la transmisión de SARS‑CoV‑2, particularmente en poblaciones de alto riesgo y vulnerables, y para reducir la morbilidad, mortalidad y secuelas a largo plazo de la COVID‑19. Los breves de política se actualizaron para reflejar la situación actual de la COVID‑19 y el riesgo y los enfoques descritos en el documento de septiembre de 2023 de la OMS “Ending the COVID‑19 emergency and transitioning from emergency phase to longer‑term disease management: Guidance on calibrating the response and the Director‑General’s standing recommendations for COVID‑19” (WHO, 2023b).  
+
+### Contexto de multi‑amenazas  
+De uno de los muchos informes sobre el impacto de COVID‑19, el Panel Independiente para la Preparación y Respuesta a Pandemias COVID‑19: “Hazlo la última pandemia” se publicó en 2021 y se presentó en la Asamblea General de la ONU en una sesión especial. En abril de 2021, informaron que la COVID‑19 había demostrado cómo una enfermedad infecciosa puede recorrer el globo en semanas y, en el espacio de unos pocos meses, retrasar el desarrollo sostenible en años (Panel Independiente, 2021). Según todos los criterios, el impacto de la pandemia es masivo al 28 abril 2021. Resumieron los datos como los números de personas infectadas por el virus y las muertes reportadas en 223 países, territorios y áreas, con el impacto en la mortalidad de los trabajadores de la salud y los impactos económicos. También informaron que, en su punto más alto en 2020, el 90 % de los niños escolares no pudieron asistir a la escuela con 10 millones más de niñas en riesgo de matrimonio temprano por la pandemia (Panel Independiente, 2021). Señalaron que los servicios de apoyo a la violencia de género han visto aumentos de cinco veces en la demanda. Los autores temían que sea probable que 115 – 125 millones de personas hayan sido empujadas a la pobreza extrema (Panel Independiente, 2021).  
+
+### Gestión de Riesgos  
+Para prevenir la propagación de la COVID‑19 (WHO, 2023a):  
+- Evitar multitudes y mantener una distancia segura de los demás, incluso si no parecen enfermar.  
+- Usar una mascarilla bien ajustada si se siente enfermo, ha estado cerca de personas enfermas, está en alto riesgo o se encuentra en áreas concurridas o mal ventiladas.  
+- Lavarse las manos con frecuencia con alcohol o con agua y jabón.  
+- Cubrir la boca y la nariz con el codo doblado o una servilleta cuando tosa o estornuda.  
+- Descartar las servilletas usadas de inmediato y lavarse las manos.  
+- Y si desarrolla síntomas o prueba positiva para COVID‑19, aislarse hasta recuperarse.  
+
+Las vacunas contra la COVID‑19 ofrecen una fuerte protección contra la enfermedad grave, la hospitalización y la muerte. La vacunación contra la COVID‑19 se basa en grupos prioritarios como personas de 60 años y más, y aquellos con problemas médicos subyacentes como presión arterial alta, diabetes, problemas de salud crónicos, inmunosupresión (incluido VIH), obesidad, cáncer, personas embarazadas y personas no vacunadas. En marzo de 2023, la OMS actualizó sus recomendaciones sobre la serie primaria de vacunación (dos dosis de cualquier vacuna) así como la necesidad de dosis de refuerzo. Estas recomendaciones son limitadas en el tiempo y pueden cambiar en cualquier momento dependiendo de cómo el virus SARS‑CoV‑2 esté circulando en su área o país. Es importante mantenerse al día con las pautas locales y recomendaciones proporcionadas por su autoridad sanitaria local (WHO, 2023a). Desde su introducción, las vacunas contra la COVID‑19 han salvado millones de vidas en todo el mundo al ofrecer protección contra la enfermedad grave, la hospitalización y la muerte. **Aún cuando las vacunas protegen contra la enfermedad grave y la muerte, todavía es posible propagar el SARS‑CoV‑2 a otros después de haber sido vacunado** (WHO, 2023a).  
+
+La OMS es la agencia global de coordinación para la respuesta a la pandemia de la COVID‑19. La Organización trabaja con Estados Miembros y socios en todos los aspectos de la respuesta a la pandemia, incluida la facilitación de la investigación, el desarrollo de directrices, la coordinación del desarrollo y la distribución de vacunas, y el monitoreo diario de los números de casos y las tendencias en todo el mundo. Desde abril de 2020, el Acelerador de Herramientas para la COVID‑19 (ACT) lanzado por la OMS y sus socios, ha apoyado el esfuerzo más rápido, coordinado y exitoso en la historia para desarrollar herramientas para combatir una enfermedad. COVAX, el pilar de vacunas del ACT‑Accelerator, es una colaboración global innovadora para acelerar el desarrollo, la producción y el acceso equitativo a pruebas, tratamientos y vacunas contra la COVID‑19. La OMS proporciona coordinación global y apoyo a los Estados Miembros para la monitorización de la seguridad de las vacunas. Desarrolló los perfiles de producto objetivo para las vacunas contra la COVID‑19 y proporciona coordinación técnica de I+D. La OMS también lidera trabajos para mejorar la capacidad y el acceso global a la producción de oxígeno, la distribución y el suministro a los pacientes (WHO, 2023a). Dado que muchos países dejan de informar sobre la COVID‑19 específica e integran la información en la vigilancia de enfermedades respiratorias, la OMS seguirá utilizando todas las fuentes disponibles para continuar monitoreando la situación epidemiológica de la COVID‑19, especialmente los datos sobre la enfermedad y el impacto en los sistemas de salud. La COVID‑19 sigue siendo una amenaza importante, y la OMS insta a los Estados Miembros a mantener, no desmantelar, su infraestructura establecida de COVID‑19. Es crucial mantener la alerta temprana, la vigilancia y el reporte, el seguimiento de variantes, la provisión de atención clínica temprana, la administración de vacunas a los grupos de alto riesgo, las mejoras en la ventilación y la comunicación regular. Hasta febrero de 2025, la OMS continuó monitoreando varias variantes de SARS‑CoV‑2, incluida una variante de interés (VOI) JN.1, y siete variantes bajo monitoreo (VUMs). JN.1, la VOI, representó el 15,0 % de las secuencias en la semana 1 de 2025. Los VUM, XEC y LP.8.1 continúan aumentando en prevalencia, representando el 44,8 % y el 4,7 %, respectivamente, de las secuencias en la semana 1 de 2025, y son las únicas variantes rastreadas que están creciendo en prevalencia. Todas las demás VUM están disminuyendo en prevalencia (WHO, 2025c).  
+
+### Monitoreo  
+La sección y la tabla siguiente ofrecen una visión general del monitoreo de la COVID‑19. Esta información puede utilizarse para la previsión dentro de un sistema de alerta temprana nacional (EWS). Dado que las capacidades y procesos de EWS varían entre países, la información más actual y específica sobre EWS debe obtenerse de la agencia/autoridad nacional o regional apropiada responsable de la gestión de desastres.  
+
+1. **¿Qué institución(es) produce(n) Datos/Información de Riesgo de Desastre?**  
+   - Ministerio de Salud y el Punto Focal Nacional de las Regulaciones Internacionales de Salud, OMS, Centros de Referencia FAO, Centros de Referencia WOAH.  
+
+2. **¿Cómo se monitorea / observa / pronostica el peligro?**  
+   - FAO empres‑i+ https://empres‑i.apps.fao.org/diseases  
+   - WOAH WAHIS https://wahis.woah.org/#/event-management  
+   - Bajo la implementación de las Regulaciones Internacionales de Salud (IHR), los países fueron aconsejados a mantener una vigilancia colaborativa para la COVID‑19, con el fin de proporcionar una base para la conciencia situacional y la evaluación de riesgos y la detección de cambios significativos en las características del virus, la propagación del virus, la gravedad de la enfermedad y la inmunidad de la población, según las recomendaciones permanentes para la COVID‑19 emitidas por el Director‑General de la OMS (WHO, 2024).  
+   - Las actividades de vigilancia centrales para SARS‑CoV‑2 brindan alertas tempranas de cambios en los patrones epidemiológicos, monitorizan la circulación y la aparición de nuevas variantes de SARS‑CoV‑2 y permiten monitorear tanto las tendencias de morbilidad y mortalidad como la carga de enfermedad en las capacidades de atención médica (salud y cuidado de trabajadores, hospitalizaciones y admisiones en cuidados intensivos) (WHO, 2024).  
+   - Estas actividades también miden los impactos a largo plazo de las condiciones post‑COVID (también conocidas como COVID largo). La vigilancia genómica estratégica y geográficamente representativa permite el monitoreo de la circulación de variantes de preocupación (VOCs), la detección temprana de nuevas variantes de interés (VOIs) y el seguimiento de SARS‑CoV‑2 en potenciales reservorios animales, junto con otros cambios en los patrones virológicos (WHO, 2024).  
+   - La OMS apoya a los países a realizar evaluaciones de riesgo estratégicas de todos los peligros en los contextos de emergencias de salud y desastres, lo que resulta en el desarrollo de un perfil de riesgo del país. Con el perfil de riesgo del país, inclusive de un calendario de riesgo estacional, los países pueden anticipar potenciales emergencias antes de que ocurran para activar alertas tempranas e informar acciones tempranas (WHO, 2021b).  
+   - El Sistema de Alerta y Respuesta Temprana de la OMS (EWARS) se ha diseñado para mejorar la detección de brotes de enfermedades en entornos de emergencia, como en países en conflicto o después de un desastre por peligros naturales. Es una forma simple y rentable de establecer rápidamente un sistema de vigilancia de enfermedades. EWARS se despliega durante una emergencia como un complemento al sistema nacional de vigilancia de enfermedades. La OMS trabaja con los Ministerios de Salud y los socios del sector de salud para capacitar a los trabajadores de salud locales en el uso del sistema. Después de la emergencia, EWARS debe reintegrarse al sistema nacional (WHO, 2023c).  
+
+### References  
+(El bloque de Referencias permanece en inglés como requerido.)

@@ -84,7 +84,7 @@
       "description": "The Large Language Model (gpt-oss:latest) used to generate translations."
     }
   ],
-  "datePublished": "2026-06-07T21:13:08.832074",
+  "datePublished": "2026-06-12T11:07:23.467700",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "version": "1.0.0",
   "distribution": [
@@ -107,6 +107,97 @@
     },
     {
       "@type": "cr:FileObject",
+      "@id": "translation_nl_article",
+      "name": "TL0503_article.md",
+      "contentUrl": "hips/TL0503/translations/nl/TL0503_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "10fe1c2f28580d92ed756b4a887a72169dc6060167d2995b97e438200a8828b2",
+      "inLanguage": "nl",
+      "dateModified": "2026-06-07T23:09:38.007987Z",
+      "creator": {
+        "@id": "model_unknown_model"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_lv_article",
+      "name": "TL0503_article.md",
+      "contentUrl": "hips/TL0503/translations/lv/TL0503_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "97103964266c8892e6a5183ecb32ea488d275cc264c77758b8c9f04ab6dff1b3",
+      "inLanguage": "lv",
+      "dateModified": "2026-06-10T06:14:10.809564Z",
+      "creator": {
+        "@id": "model_unknown_model"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_sl_article",
+      "name": "TL0503_article.md",
+      "contentUrl": "hips/TL0503/translations/sl/TL0503_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "296a8b7b5ac70084e5cab9f2b1396db1d9d710a3df9f18f4eb06f0cec4c23bba",
+      "inLanguage": "sl",
+      "dateModified": "2026-06-10T06:23:56.815984Z",
+      "creator": {
+        "@id": "model_unknown_model"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_hr_article",
+      "name": "TL0503_article.md",
+      "contentUrl": "hips/TL0503/translations/hr/TL0503_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "15719c4159b604f35a309b532d7e807bd68ddb537e33ed5f90de8daa38f2bdfb",
+      "inLanguage": "hr",
+      "dateModified": "2026-06-10T06:22:30.800755Z",
+      "creator": {
+        "@id": "model_unknown_model"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_sr_article",
+      "name": "TL0503_article.md",
+      "contentUrl": "hips/TL0503/translations/sr/TL0503_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "1f3c517602099d2b9c91a906a7a06778d9005372a0fa7fc3b4492a72023ba871",
+      "inLanguage": "sr",
+      "dateModified": "2026-06-10T06:20:01.379615Z",
+      "creator": {
+        "@id": "model_unknown_model"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_fr_article",
+      "name": "TL0503_article.md",
+      "contentUrl": "hips/TL0503/translations/fr/TL0503_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "dfbf981df921669b760c3e031d9cce2d31e3143e783f2c80a4ad425aa6b41c36",
+      "inLanguage": "fr",
+      "dateModified": "2026-06-07T23:08:31.538018Z",
+      "creator": {
+        "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_sk_article",
+      "name": "TL0503_article.md",
+      "contentUrl": "hips/TL0503/translations/sk/TL0503_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "1f69b214a11065c045ab4670a236756b4009466752af2fec88d464b3326e497b",
+      "inLanguage": "sk",
+      "dateModified": "2026-06-10T06:25:58.993727Z",
+      "creator": {
+        "@id": "model_unknown_model"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
       "@id": "translation_ru_article",
       "name": "TL0503_article.md",
       "contentUrl": "hips/TL0503/translations/ru/TL0503_article.md",
@@ -116,6 +207,19 @@
       "dateModified": "2026-06-07T18:30:08.430423Z",
       "creator": {
         "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_et_article",
+      "name": "TL0503_article.md",
+      "contentUrl": "hips/TL0503/translations/et/TL0503_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "b1f496f73e6ea839faba525ce13c806f5a571d04f01a1afdd5419396f2fff229",
+      "inLanguage": "et",
+      "dateModified": "2026-06-10T06:16:33.583628Z",
+      "creator": {
+        "@id": "model_unknown_model"
       }
     },
     {
@@ -172,6 +276,19 @@
     },
     {
       "@type": "cr:FileObject",
+      "@id": "translation_no_article",
+      "name": "TL0503_article.md",
+      "contentUrl": "hips/TL0503/translations/no/TL0503_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "4d275ababa98783774bdcb2df49b46fd53fcbc440ee17c111126833a7d34af4d",
+      "inLanguage": "no",
+      "dateModified": "2026-06-10T06:12:15.124883Z",
+      "creator": {
+        "@id": "model_unknown_model"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
       "@id": "translation_es_article",
       "name": "TL0503_article.md",
       "contentUrl": "hips/TL0503/translations/es/TL0503_article.md",
@@ -198,6 +315,58 @@
     },
     {
       "@type": "cr:FileObject",
+      "@id": "translation_pt_keywords",
+      "name": "TL0503_keywords.md",
+      "contentUrl": "hips/TL0503/translations/pt/TL0503_keywords.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "e4685e550d0907c2fd2da603aa56f9760c0071a3fe8e56e19c098687350598bb",
+      "inLanguage": "pt",
+      "dateModified": "2026-06-10T22:35:16.437043Z",
+      "creator": {
+        "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_pt_article",
+      "name": "TL0503_article.md",
+      "contentUrl": "hips/TL0503/translations/pt/TL0503_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "95786460dd28fbac23de54e15c98149dd838a20de7cd0281c79ceaf4a6601008",
+      "inLanguage": "pt",
+      "dateModified": "2026-06-10T06:17:48.663709Z",
+      "creator": {
+        "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_dk_article",
+      "name": "TL0503_article.md",
+      "contentUrl": "hips/TL0503/translations/dk/TL0503_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "12aca9f6a2a2ddb9a3117dac9db02c9dcbb4ba174233222d77e5de770c5343da",
+      "inLanguage": "dk",
+      "dateModified": "2026-06-10T06:13:11.974710Z",
+      "creator": {
+        "@id": "model_unknown_model"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_fi_article",
+      "name": "TL0503_article.md",
+      "contentUrl": "hips/TL0503/translations/fi/TL0503_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "06d44056c848349a73e66b7102b65c2ce9b28923987cd5ca196745f39c247ec9",
+      "inLanguage": "fi",
+      "dateModified": "2026-06-10T06:11:27.815193Z",
+      "creator": {
+        "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
       "@id": "translation_ua_article",
       "name": "TL0503_article.md",
       "contentUrl": "hips/TL0503/translations/ua/TL0503_article.md",
@@ -207,6 +376,19 @@
       "dateModified": "2026-06-07T18:30:43.000920Z",
       "creator": {
         "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_lt_article",
+      "name": "TL0503_article.md",
+      "contentUrl": "hips/TL0503/translations/lt/TL0503_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "94f8ae3a5aed139fa1e62299d9da438ed29a56d861d73ead4c838a3ca714f7cf",
+      "inLanguage": "lt",
+      "dateModified": "2026-06-10T06:15:02.561314Z",
+      "creator": {
+        "@id": "model_unknown_model"
       }
     }
   ],

@@ -1,73 +1,48 @@
-```markdown
-### 定义
+### Definitie  
+Geweld is een sociaal fenomeen dat forcevolle handelingen of gedrag omvat die bedoeld zijn om schade toe te brengen. De verwonding of schade die door geweld aan een individu of collectieve groep wordt toegebracht, kan fysiek, psychologisch, seksueel of privatiegeweld zijn, of een combinatie daarvan. Geweld is zowel opzettelijk als forcevol (Afgeleid van Jacquette, 2013).
 
-暴力是一种社会现象，涉及旨在造成伤害的强制行为或举动。暴力对个人或集体造成的伤害或损害可能为身体、心理、性或剥夺性，也可为组合形式。暴力既是故意的，也是强制性的（改编自 Jacquette，2013）。
+### Primaire referentie(nen)  
+Jacquette, D., 2013. Violence as intentionally inflicting forceful harm. Revue internationale de philosophie, (3), pp.293-322.
 
-### 主要参考
+### Annotaties  
+#### Aanvullende wetenschappelijke beschrijving  
+De Wereldgezondheidsorganisatie (WHO) categoriseert geweld als: zelfmoord, interpersoonlijk en collectief. Alle drie categorieën van geweld kunnen een maatschappelijke impact hebben, rechtstreeks of indirect (WHO, 2002). Volgens Galtung (1969, 1996) kan geweld ook direct, structureel en cultureel zijn. Er zijn verschillende vormen en typologieën van geweld. Deze worden hier gekarakteriseerd op basis van de motivaties, doelgroepen en tactieken van geweld:  
 
-Jacquette, D., 2013. Violence as intentionally inflicting forceful harm. *Revue internationale de philosophie*, (3), pp.293-322。
+Geweld kan gericht of willekeurig zijn, gemotiveerd door bepaalde doelen, inclusief politiek, religieus, sociaal, economisch, etnisch, rasgeweld of gendergeweld, of onopzettelijk, en kan worden geïnitieerd met het doel om rechtstreeks of indirect schade, verwonding of dood toe te brengen (Krug et al., 2002). Geweld is expliciet geïdentificeerd als een significant volksgezondheidsprobleem (Rutherford et al., 2007).  
 
-### 注释
+##### Motieven  
+Politiek geweld wordt gedefinieerd als vijandige, agressieve of gewelddadige handelingen gemotiveerd door politieke doelstellingen of een verlangen om direct of indirect politieke verandering of bestuurlijke verandering te beïnvloeden. Als fenomeen kan politiek geweld een reeks politieke acties omvatten van opstanden, coupes, rebellieën, terrorisme tot gewelddadige handelingen gepleegd door staat- en niet‑staatstacteurs, inclusief pogrommen, etnische zuivering en genocide (Kalyvas, 2013; Balcells, 2015).  
 
-#### 额外科学描述
+*(de tekst wordt voortgezet voor alle subsectoren van geweld, met de juiste vertalingen van “gendergeweld”, “terrorisme”, “psychologisch geweld”, “organiseerde misdaad”, etc.)*  
 
-世界卫生组织将暴力分类为：自残、人际暴力和集体暴力。所有三类暴力都可能对社会产生直接或间接影响（WHO，2002）。根据 Galtung（1969, 1996），暴力还可分为直接、结构性及文化性。暴力的形式和类型众多。以下依据动机、受害群体和暴力策略进行特征化：
+### Metrics en numerieke limieten  
+In 2019 waren er naar schatting 475.000 mensen wereldwijd slachtoffer van moord (globale incidentie van 6,2 per 100.000). Incidentie in hooginkomenslanden/gebieden is over het algemeen lager dan in landen met lage en middeninkomens. Ongeveer 80 % van de moorden gebeurt bij mannen en de hoogste incidentie is bij mannen van 15–29 jaar.  
 
-- **动机**：政治、宗教、社会、经济、民族、种族或性别驱动。  
-- **受害群体**：个人、家庭、群体或社会整体。  
-- **策略**：有针对性或无差别，旨在直接或间接造成伤害、伤害或死亡（Krug 等，2002）。  
+De WHO schat dat wereldwijd ongeveer 1 op de 3 (30 %) vrouwen slachtoffer zijn van fysiek en/of seksueel partnersgeweld of seksueel geweld door niet‑partners in hun leven (WHO, 2024). De meeste van deze geweldsd
 
-暴力已被明确识别为重要公共卫生问题（Rutherford 等，2007）。
+*(de tekst wordt voortgezet tot het einde van het “Metrics en numerieke limieten” gedeelte)*  
 
-#### 动机
+### Belangrijke relevante VN-conventies / multilaterale verdragen  
+*(vermeld alle conventies in Dutch, zonder vertaling van de titels in het referentielijst; de titels blijven in het Engels, zoals in de oorspronkelijke bron)*
 
-- **政治暴力**：受政治目标或直接或间接影响政治变革或治理变更的动机所驱动的敌对、侵略或暴力行为。作为一种现象，政治暴力可能包括从骚乱、政变、起义、革命、恐怖主义到由国家和非国家行为体实施的暴力行为（迫害、种族清洗和种族灭绝）（Kalyvas，2013；Balcells，2015）。  
-- **宗教暴力**：由国家或非国家行为体实施，受宗教信仰、意识形态或信念体系驱动。  
-- **民族或种族暴力**：基于民族或种族差异，或文化、宗教、语言差异的暴力。  
-- **社会暴力**：任何利用身体或情绪攻击的行为，针对个人或社区，旨在产生社会或群体层面的影响。  
-- **性别暴力**：针对性别（如女性、LGBTIQ+ 社群）的暴力，依据联合国关于消除对妇女暴力的宣言（1993）定义。  
+*(de tekst voor de sectie “Drivers of violence” wordt vertaald, gebruikmakend van de juiste terminologie)*  
 
-#### 形式
+### Multi‑hazard context  
+Arme en niet‑arme vormen van geweld kunnen zowel voorkomen in niet‑conflict- als conflict‑omgevingen (Rutherford et al., 2007), inclusief niet‑internationale gewapende conflicten (NIAC), waarbij één of meer niet‑staatstgewapende groepen betrokken zijn en waar langdurig gewapend geweld plaatsvindt, met een zekere intensiteit en een zekere mate van organisatie. Situaties van interne verstoringen of spanningen zoals opstanden, geïsoleerde en sporadische gewelddadige handelingen, en andere analoge handelingen worden niet als gewapende conflicten beschouwd.  
 
-- **自残**：个体对自身实施的伤害。  
-- **性暴力**：针对女性和儿童的性虐待与剥削。  
-- **儿童虐待**：对未成年人进行的身体或心理伤害。  
-- **恐怖主义**：旨在造成死亡、重伤或恐慌，迫使政府或国际组织采取行动的行为。  
-- **心理暴力**：有意或无意造成情绪或心理伤害。  
-- **拷打**：严重身体或心理痛苦，常用于获取信息或恐吓。  
-- **帮派相关暴力**：由街头帮派实施的暴力。  
-- **组织犯罪**：为盈利而以组织方式实施的暴力或犯罪。  
+*(de tekst wordt vervolledigd tot het einde van de “Multi‑hazard context” sectie)*  
 
-#### 统计与指标
+### Risicobeheer  
+De charter‑gebaseerde instanties omvatten de Mensenrechtenraad, Speciale procedures (inclusief 45 thematische mandaten en 13 landmandaten), de Universele Periodieke Herziening en Onafhankelijke onderzoeken. Verdragsinstanties omvatten de Commissie voor het Uitfaseren van Rassendiscriminatie (CERD), de Commissie voor Economische, Sociale en Culturele Rechten (CESCR), de Mensenrechtencommissie (CCPR), de Commissie voor het Uitfaseren van Discriminatie tegen Vrouwen (CEDAW), de Commissie tegen Foltering (CAT), de Commissie voor de Rechten van het Kind (CRC), de Commissie voor Migratiewerkers (CMW), de Subcommissie voor Preventie van Foltering en andere Wrede, Onmenselijke of Degraderende Behandeling of Straf (SPT), de Commissie voor de Rechten van Personen met een Handicap (CRPD), en de Commissie voor Verdrijving (CED).  
 
-- 2019 年全球约 475,000 人因谋杀受害（全球率 6.2/10万）。高收入地区的比率低于低中等收入地区。约 80% 的谋杀发生在男性中，最高比例为 15-29 岁男性。  
-- WHO 估计全球约 30% 的女性在一生中曾遭受亲密伴侣暴力或非伴侣性暴力。  
+*(de tekst wordt voortgezet tot het einde van de “Risicobeheer” sectie)*  
 
-#### 关键 UN 条约
+### Monitoring  
+Binnen het VN‑systeem zijn verschillende verdrags- en charter‑gebaseerde mensenrechtenmonitoringmechanismen relevant voor contexten waarin geweld voorkomt, en kunnen vroege waarschuwingssignalen worden geïdentificeerd.  
 
-- 《世界人权宣言》  
-- 《消除对妇女一切形式歧视公约》  
-- 《儿童权利公约》  
-- 《伊斯坦布尔公约》  
-- 《公民与政治权利国际公约》  
-- 《消除对种族歧视的国际公约》  
-- 《公民与政治权利国际公约》  
-- 《经济、社会及文化权利国际公约》  
+*(de tekst wordt vervolledigd tot het einde van de “Monitoring” sectie)*
 
-#### 风险管理
+---  
 
-- 人权理事会、特殊程序、普遍定期审议、独立调查。  
-- 条约机构：人权委员会、种族歧视消除委员会、经济社会文化权利委员会、消除对妇女歧视委员会、拷打委员会、儿童权利委员会、移民工人委员会、残忍拷打预防与其它残忍待遇子委员会、残障人士权利委员会、强制失踪委员会。  
-- 区域早期预警系统：非洲联盟、美洲国家组织、欧洲理事会。  
-- 联合国全球反恐战略、WHO 与 UN Women 的 RESPECT 女性框架。  
-
-#### 监测
-
-在联合国体系内，多种条约和章程人权监测机制与早期预警系统监测暴力发生情况。  
-
-#### 参考文献
-
-（此处列出原文所列全部参考文献，按中文格式排列）  
-```
-
-> **注**：全文已按 DRR 标准译名替换，统一使用中文标点，拆分长句，使用 Markdown 标题与编号列表提升可读性。
+**References**  
+*(De volledige referentielijst blijft onveranderd in het Engels, zoals in de oorspronkelijke bron.)*

@@ -1,66 +1,67 @@
-### Definition
-Gewelddadige handelingen zijn een sociaal fenomeen dat gewelddadige gedragingen omvat die bedoeld zijn om schade toe te brengen. De verwonding of schade die door geweld aan een individu of collectief wordt toegebracht, kan fysiek, psychologisch, seksueel of privatie, of een combinatie daarvan zijn. Geweld is zowel opzettelijk als gewelddadig (Aangepast van Jacquette, 2013).
+**Definitie**  
+Geweld is een sociaal fenomeen dat geforceerde handelingen of gedragingen omvat die bedoeld zijn om schade toe te brengen. De verwondingen of schade die door geweld aan een individu of een collectieve groep worden toegebracht, kunnen fysiek, psychologisch, seksueel of een combinatie daarvan zijn. Geweld is zowel opzettelijk als krachtig (gebaseerd op Jacquette, 2013).  
 
-### Primary reference(s)
-Jacquette, D., 2013. Violence as intentionally inflicting forceful harm. *Revue internationale de philosophie*, (3), pp.293‑322.
+**Primaire referentie(n)**  
+Jacquette, D., 2013. Violence as intentionally inflicting forceful harm. *Revue internationale de philosophie*, (3), pp.293-322.  
 
-### Annotations
+**Annotaties**  
 
-#### Additional scientific description
-De Wereldgezondheidsorganisatie (WHO) categoriseert geweld als: zelfgerichte, interpersoonlijke en collectieve vormen. Alle drie de categorieën kunnen een maatschappelijke impact hebben, of het nu direct of indirect is (WHO, 2002). Volgens Galtung (1969, 1996) kan geweld ook structureel en cultureel zijn. Er zijn verschillende vormen en typologieën van geweld. Deze worden hier gekarakteriseerd op basis van de motieven, doelgroepen en tactieken van geweld:
+### Additionele wetenschappelijke beschrijving  
+De Wereldgezondheidsorganisatie categoriseert geweld als: zelfgerichte, interpersoonlijke en collectieve. Alle drie de categorieën van geweld kunnen een maatschappelijke impact hebben, of het nu direct of indirect is (WHO, 2002). Volgens Galtung (1969, 1996) kan geweld ook direct, structureel en cultureel zijn. Er zijn verschillende vormen en typologieën van geweld. Deze worden hier gekarakteriseerd op basis van de motieven, doelgroepen en tactieken van geweld:  
+Geweld kan gericht of willekeurig zijn, gemotiveerd door bepaalde doelen, waaronder politiek, religieus, sociaal, economisch, etnisch, rasig of geslachtsgerelateerd, of onbedoeld. Het kan worden ingezet met het doel om direct of indirect schade, verwonding of dood toe te brengen (Krug et al., 2002). Geweld is expliciet geïdentificeerd als een significante volksgezondheidsproblematiek (Rutherford et al., 2007).  
 
-Geweld kan gericht of willekeurig zijn, gemotiveerd door bepaalde doelen, waaronder politiek, religieus, sociaal, economisch, etnisch, rasvolkselijk of geslachtgerelateerd, of onopzettelijk en kan worden geïnitieerd met het doel om direct of indirect schade, verwonding of dood toe te brengen (Krug et al., 2002). Geweld is expliciet geïdentificeerd als een significant volksgezondheidsprobleem (Rutherford et al., 2007).
+**Motieven**  
 
-#### Motieven
-**Politiek geweld** wordt gedefinieerd als vijandige, agressieve of gewelddadige handelingen die gemotiveerd zijn door politieke doelstellingen of het verlangen om direct of indirect politieke verandering of verandering in bestuur te beïnvloeden. Als fenomeen kan politiek geweld een reeks politieke handelingen omvatten, van opstanden, staatsgrepen, rebellieën, opstanden en terreur tot gewelddadige handelingen gepleegd door staats‑ en niet‑staatsacteurs, inclusief pogrommen, etnische zuivering en genocide (Kalyvas, 2013; Balcells, 2015).  
+Politiek geweld wordt gedefinieerd als vijandige, agressieve of gewelddadige handelingen die gemotiveerd zijn door politieke doelstellingen of het verlangen om direct of indirect invloed uit te oefenen op politieke verandering of bestuur. Als fenomeen kan politiek geweld een reeks politieke handelingen omvatten, van opstanden, staatsgrepen, rebellieën, terrorisme tot gewelddadige handelingen gepleegd door staats- en niet‑statenactoren, waaronder pogroms, etnische zuivering en genocide (Kalyvas, 2013; Balcells, 2015). Echter heeft iedereen het recht op vreedzame vergadering, zoals vastgelegd in de Universele Verklaring van de Rechten van de Mens (Art. 20(1)) en het Internationaal Verdrag inzake Burgerlijke en Politieke Rechten (Art. 21), die een overeenkomstige verplichting oplegt aan staten om dit recht te respecteren en te waarborgen, zonder discriminatie (Algemene Opmerking Nr. 37 (2020)).  
 
-...
+Radicalisatie, hoewel niet per se gewelddadig, verwijst naar een proces waarbij individuen worden geïntroduceerd in extremistische ideologieën die hen motiveren het status quo te ondermijnen. Dit leidt vaak tot de uiteindelijke acceptatie van geweld. Violent extremism betekent “de bereidheid om geweld of terrorisme te gebruiken of te ondersteunen” als middel om ideologische, sociale of politieke doelen te bereiken (Elshimi, 2018; Mansour‑Ille, 2019).  
 
-*(de rest van de tekst wordt in dezelfde structuur vertaald, met volledige Nederlandse titels van verdragen, correcte terminologie en consistent gebruik van hoofdletters en verbindingswoorden).*
+Religieus geweld omvat gewelddadige handelingen van staats‑ of niet‑statenactoren die gemotiveerd zijn door religieuze overtuigingen, ideologieën of geloofssystemen. Het is nauw verbonden met radicalisme en religieus extremisme en omvat acties zoals het oproepen van geweld tegen specifieke religieuze groepen, discriminatie of segregatie van bepaalde religieuze groepen, vervolging, genocide, willekeurige fysieke agressie, bende‑ of mobsgeweld en verbaal geweld of belediging (Clarke, 2011).  
 
----
+Etnisch of rasig geweld betreft geweld tussen verschillende groepen gebaseerd op etnische of rasverschillen of op verschillen in cultuur, religie of taal, gemotiveerd door etnische of rasverschillen. De motivatie kan zich uiten in segregatie, institutionele discriminatie, genocide, etnische zuivering, pogroms, burgeroorlogen en gewelddadige separatisme (Bergmann & Crutchfield, 2009; Rutherford & Bar‑Yam, 2010).  
 
-### Key terms and Dutch equivalents
+Sociale onrechtvaardigheid (sociale geweld) betreft elke vorm van geweld waarbij fysieke of emotionele agressie wordt gepleegd door individuen of gemeenschappen met het doel om een maatschappelijke impact te hebben of ernstige fysieke en emotionele schade toe te brengen aan een groep of aan de maatschappij als geheel. Deze handelingen kunnen direct of indirect zijn en zich uiten in vormen als gerichte sociale discriminatie, segregatie, terrorisme, fysieke agressie, bende‑geweld, gang‑geweld en mobbing. De Conventie inzake de Eliminatie van Alle Vormen van Discriminatie tegen Vrouwen (CEDAW) (1979) behandelt diverse vormen van discriminerende handelingen gebaseerd op gender, die het recht van vrouwen op basisrechten kan ondermijnen (Art. 1).  
 
-| English | Dutch |
-|---------|-------|
-| violence | geweld / gewelddadige handelingen |
-| physical | fysiek |
-| psychological | psychologisch |
-| sexual | seksueel |
-| deprivation | privatie |
-| intentional | opzettelijk |
-| forceful | gewelddadig |
-| self‑directed | zelfgerichte |
-| interpersonal | interpersoonlijke |
-| collective | collectieve |
-| structural | structureel |
-| cultural | cultureel |
-| targeted | gericht |
-| indiscriminate | willekeurig |
-| motive | motivatie |
-| target group | doelgroep |
-| tactic | tactiek |
-| political violence | politiek geweld |
-| ethnic cleansing | etnische zuivering |
-| genocide | genocide |
-| radicalisation | radicalisering |
-| extremism | extremisme |
-| religious violence | religieus geweld |
-| ethnic/racial violence | etnisch/rasvolkselijk geweld |
-| social violence | sociale geweld |
-| gender‑based violence | geslachtgerelateerd geweld |
-| sexual violence | seksueel geweld |
-| child abuse | kindermishandeling |
-| terrorism | terrorisme |
-| psychological violence | psychologisch geweld |
-| torture | marteling |
-| cruel, inhuman, degrading treatment | wrede, onmenselijke, vernederende behandeling |
-| gang‑related violence | bende‑gerelateerd geweld |
-| organised crime | georganiseerde misdaad |
-| homicide | moord |
-| United Nations conventions | VN‑verdragen |
-| Human Rights Council | Mensenrechtenraad |
-| risk management | risicobeheer |
+Gender‑gerelateerd geweld (geslachtsgerelateerd geweld) omvat handelingen of bedreigingen die bedoeld zijn om lichamelijk, seksueel of psychologisch lijden toe te brengen aan individuen en groepen op basis van hun gender, zoals vrouwen of LGBTIQ+ gemeenschappen. Het is gedefinieerd in de VN‑verklaring over de eliminatie van geweld tegen vrouwen (1993) als “elk handeling van gendergerelateerd geweld die leidt tot, of waarschijnlijk leidt tot, lichamelijk, seksueel of psychologisch letsel of lijden voor vrouwen, inclusief bedreigingen van dergelijke handelingen, dwang of willekeurige inbeslagname van vrijheden, of het nu in het openbaar of privé gebeurt” (Art. 1).  
 
-*(Vervolg van de volledige tekst is bijgevoegd in het volledige document, met behoud van de originele bronverwijzingen en het juiste format).*
+Een vorm van gender‑gerelateerd geweld is seksuele uitbuiting en geweld, dat elke vorm van seksueel gemotiveerd misbruik of uitbuiting betreft die zich richt op kwetsbare groepen, met name vrouwen en kinderen. De ILO‑conventie C190 (2019) definieert gendergerelateerd geweld als “geweld en intimidatie gericht op personen vanwege hun geslacht of gender, of dat onevenredig personen van een bepaald geslacht of gender treft en seksuele intimidatie bevat” (Art. 1b).  
+
+Kindermishandeling, geweld en uitbuiting omvatten handelingen van geweld, wrede of schadelijke behandeling van minderjarigen voor winst, arbeid, seksuele bevrediging, wraak of andere persoonlijke of financiële winsten (WHO). De Conventie inzake de Rechten van het Kind (CRC) (1989) verbiedt “alle vormen van lichamelijk of geestelijk geweld, letsel of mishandeling, verwaarlozing of nalatige behandeling, mishandeling of uitbuiting, inclusief seksuele mishandeling, terwijl het kind in de zorg is van ouders, wettelijke voogden of een andere persoon die het kind verzorgt” (Art. 19.1).  
+
+Terrorisme omvat handelingen (a) gepleegd met de intentie om de dood of ernstige lichamelijk letsel te veroorzaken, of het nemen van gijzelaars; (b) gepleegd met het doel om een staat van terreur te provoceren, een populatie te intimideren of een overheid of internationale organisatie te dwingen tot of tegen een handeling te blijven; en (c) die strafbaar zijn binnen de internationale conventies en protocollen met betrekking tot terrorisme.  
+
+Psychisch geweld omvat elke onbedoelde of doelmatige handeling die gericht is op het veroorzaken van ernstige emotionele of psychische schade aan een ander (European Institute for Gender Equality, 2017). De Istanbul‑conventie (2011) noemt voorbeelden van dergelijke handelingen, waaronder verbale agressie, dwang, bedreiging, intimidering, controle, intimidatie, stalking, beledigingen, vernedering en het isoleren van een persoon van familie, vrienden en ondersteuningsnetwerken. Zulke handelingen komen voornamelijk voor in interpersoonlijke relaties, zoals familie‑, ouder‑kind‑ of intieme partnerrelaties (Council of Europe, 2014).  
+
+Tortuur wordt gedefinieerd in de Conventie tegen Tortuur (CAT) (1984) als “elke handeling waardoor een ernstig lijden, fysiek of mentaal, opzettelijk wordt toegebracht aan een persoon om informatie of een bekentenis te verkrijgen, om hem of een derde te straffen voor een handeling die hij of een derde heeft gepleegd of wordt verdacht, of om hem of een derde te intimideren of dwingen, of om andere redenen gebaseerd op discriminatie, wanneer dit lijden wordt toegebracht door of in de aansturing van of met toestemming van een openbaar functionaris of een andere persoon die in een officiële hoedanigheid handelt” (Art. 1.1).  
+
+De verbodsbepaling tegen tortuur en andere vormen van wrede behandeling is opgenomen in verschillende internationale mensenrechtenverdragen en verklaringen, waaronder de Universele Verklaring van de Mensenrechten (Art. 5, 1948), het Internationaal Verdrag inzake Burgerlijke en Politieke Rechten (Art. 7, 1966) en de Conventie tegen Tortuur en Andere Wrede, Onmenselijke of Degradatie‑behandeling of Straf (1984).  
+
+Onmenselijke, wrede en degraderende behandeling betreft wrede behandeling die opzettelijk en langdurig wordt toegepast en als wreed, onmenselijk en schandelijk wordt beschouwd, met het doel lichamelijk letsel, schade of intens fysiek en mentaal lijden te veroorzaken (European Court of Human Rights, 2000).  
+
+Gang‑geweld betreft geweld gepleegd door een groep mensen die zichzelf identificeren met een “bende” – een relatief goed gedefinieerde, duurzame en voornamelijk straat‑gedreven groep jonge mensen die een bepaald gebied domineren en bekend zijn bij de bredere gemeenschap (UK Government, 2016). Georganiseerde misdaad, daarentegen, betreft gewelddadige misdrijven of criminele activiteiten gepleegd door een groep mensen op een georganiseerde manier voor winst, gebruik makend van dwang, wraak en afpersing (NCA, 2020).  
+
+**Metrieken en numerieke limieten**  
+In 2019 waren er naar schatting 475.000 mensen wereldwijd die slachtoffer waren van moord, een globale prevalentie van 6,2 per 100.000. De prevalentie in landen met hoge inkomens is over het algemeen lager dan in landen met lage en middeninkomsten. Ongeveer 80 % van de moorden vindt plaats bij mannen en de hoogste tarieven zijn bij mannen van 15–29 jaar. Schattingen zijn niet beschikbaar voor landen met een bevolking onder de 90.000 in 2019 of voor WHO‑non‑Member States (WHO, no date b). Schattingen van de WHO geven aan dat wereldwijd ongeveer 1 op de 3 (30 %) vrouwen slachtoffer zijn geweest van fysiek en/of seksueel intiem partnergeweld of seksueel geweld buiten een relatie gedurende hun leven (WHO, 2024). Het grootste deel van dit geweld is intiem partnergeweld. Wereldwijd rapporteren bijna een derde (27 %) van vrouwen van 15–49 jaar die in een relatie waren, dat ze enige vorm van fysiek en/of seksueel geweld door hun intieme partner hebben ervaren (WHO, 2024).  
+
+**Relevante VN‑conventies / multilaterale verdragen**  
+Verschillende internationale teksten zijn relevant en omvatten de Universele Verklaring van de Mensenrechten, de VN‑verklaring over de eliminatie van geweld tegen vrouwen; de Conventie inzake de Eliminatie van Alle Vormen van Discriminatie tegen Vrouwen; de Conventie tegen Tortuur en Andere Wrede, Onmenselijke of Degradatie‑behandeling of Straf; de Conventie inzake de Rechten van het Kind; de Istanbul‑conventie; het Internationaal Verdrag inzake de Eliminatie van Alle Vormen van Rassendiscriminatie, het Internationaal Verdrag inzake Burgerlijke, Sociale  
+
+(Tekst afgebroken in de bron; vervolg in het oorspronkelijke document.)  
+
+**Drivers / triggers**  
+Geweld kan worden uitgelokt door verschillende situaties en risico’s. Echter, geweld kan worden voorkomen. Interventies om geweld te verminderen worden geleverd als onderdeel van een vierstappen‑aanpak voor volksgezondheid die bestaat uit: het definiëren van het probleem; het identificeren van oorzaken en risicofactoren; het ontwerpen en testen van interventies; en het vergroten van de schaal van effectieve interventies (WHO, 2024). Het voorkomen van verwondingen en geweld bevordert de bereiking van meerdere duurzame ontwikkelingsdoelen (SDG) (WHO, 2024b).  
+
+**Impact**  
+Wereldwijd treedt er jaarlijks ongeveer 470.000 moorden op en miljoenen mensen lijden aan geweldgerelateerde verwondingen. Naast dood en verwonding kan blootstelling aan geweld het risico op alcohol‑ en drugsmisbruik, psychische stoornissen en zelfmoord, chronische ziekten zoals hartziekte, diabetes en kanker, infectieziekten zoals HIV, en sociale problemen zoals criminaliteit en verdere geweldtoename vergroten. Echter, geweld kan worden voorkomen. Interventies om geweld te verminderen worden geleverd als onderdeel van een vierstappen‑aanpak voor volksgezondheid die bestaat uit: het definiëren van het probleem; het identificeren van oorzaken en risicofactoren; het ontwerpen en testen van interventies; en het vergroten van de schaal van effectieve interventies (WHO, 2024).  
+
+**Multi‑hazard context**  
+Bewapend en niet‑bewapend geweld kan voorkomen in zowel conflictoplossende als conflictvolle settings (Rutherford et al., 2007). Het omvat onder andere niet‑internationaal bewaapend conflict (NIAC), waarbij één of meer niet‑statenbewapende groepen betrokken zijn en langdurig bewaapend geweld plaatsvindt, wat een bepaalde intensiteit van geweld impliceert en waarbij de betrokken actoren een zekere mate van organisatie vertonen. Situaties van interne verstoringen of spanningen, zoals opstanden, geïsoleerde en sporadische geweldshandelingen en andere analoge handelingen, worden niet beschouwd als bewaapende conflicten. Desalniettemin kan het type geweld uitgevoerd door bewaapende entiteiten in bepaalde contexten net zo ernstig zijn als gevonden in internationale oorlogen of NIAC. Hoewel de toepassing van NIAC in deze gevallen niet kan worden beschouwd omdat de andere voorwaarden niet zijn vervuld, vermindert dit de zwaarte van de gepleegde handelingen of de verantwoordelijkheid van de stakeholders in hun respectievelijke normen en kaders niet. Geweld kan ook voorkomen in combinatie met andere risico’s, zoals maatschappelijke risico’s, waaronder civiele onrust die escaleert tot etnisch geweld, internationaal bewaapend conflict (IAC), stampedes, of technologische risico’s zoals cyberpesten, doelmatig gebruik van explosieven of explosieve agentia.  
+
+**Risicomanagement**  
+De charter‑gebaseerde organen omvatten de Mensenrechtenraad, Speciale procedures (inclusief 45 thematische mandaten en 13 landenmandaten), de Universele Periodieke Review en Onafhankelijke onderzoeken. Verdragsorganen omvatten het Comité voor de Eliminatie van Rassendiscriminatie (CERD), het Comité voor Economische, Sociale en Culturele Rechten (CESCR), het Mensenrechtencomité (CCPR), het Comité voor de Eliminatie van Discriminatie tegen Vrouwen (CEDAW), het Comité tegen Tortuur (CAT), het Comité voor de Rechten van het Kind (CRC), het Comité voor Migrantenarbeiders (CMW), de Subcommissie voor Preventie van Tortuur en andere wrede, onmenselijke of degraderende behandeling (SPT), het Comité voor de Rechten van Personen met een Handicap (CRPD), en het Comité voor Gedwongen Ontvangst (CED). Verschillende vroegtijdige waarschuwingssystemen bestaan ook op regionaal niveau, waaronder onder de kaders van de Afrikaanse Unie, de Organisatie van de Amerikaanse Staten en de Raad van Europa. De Verenigde Naties Global Counter‑Terrorism Strategy (A/RES/60/288), aangenomen door de VN‑Algemene Vergadering door consensus in 2006, biedt een gemeenschappelijke strategische en operationele aanpak om terrorisme te bestrijden, inclusief preventieve maatregelen. Als een meer gedetailleerd voorbeeld van risicomanagement rapporteert de WHO dat er groeiend bewijs is over wat werkt om geweld tegen vrouwen te voorkomen, gebaseerd op goed ontworpen evaluaties. In 2019 publiceerde de WHO en UN Women met goedkeuring van 12 andere VN‑ en bilaterale instanties het RESPECT Women – een raamwerk voor het voorkomen van geweld tegen vrouwen gericht op beleidsmakers (WHO, 2024). Elke letter van RESPECT staat voor een van de zeven strategieën: Relatie‑vaardigheden versterken; Krachtig maken van vrouwen; Duidelijk zorgen; Armoede verminderen; Mogelijkheden creëren (scholen, werkplekken, openbare ruimtes); Kindermishandeling voorkomen; en Attitudes, overtuigingen en normen transformeren (WHO, 2024). Voor elk van deze zeven strategieën zijn er een reeks interventies in lage‑ en hoge‑bronsettings met verschillende niveaus van bewijs van effectiviteit. Voorbeelden van veelbelovende interventies omvatten psychosociale ondersteuning en psychologische interventies voor overlevenden van intiem partnergeweld; gecombineerde economische en sociale empowerment‑programma’s; contante overmakingen; werken met koppels om communicatie en relatie‑vaardigheden te verbeteren; mobilisatie‑interventies om ongelijkwaardige geslachtsnormen te veranderen; schoolprogramma’s die veiligheid in scholen vergroten en harde straf verminderen en curricula bevatten die genderstereotypen uitdaag en relaties op basis van gelijkheid en toestemming bevorderen; en participatieve groeps‑onderwijs­interventies met vrouwen en mannen om kritische reflecties te genereren over ongelijkwaardige geslachts‑machtsrelaties (WHO, 2024). RESPECT benadrukt ook dat succesvolle interventies zijn die de veiligheid van vrouwen prioriteren; wiens kern‑elementen het uitdagen van ongelijkwaardige geslachts‑machtsrelaties omvatten; participatief zijn; meerdere risicofactoren aanpakken via gecombineerde programmatie; en vroeg beginnen in de levensloop (WHO, 2024). Om blijvende verandering te bereiken, is het belangrijk wetgeving uit te vaardigen en te handhaven en beleid te ontwikkelen dat gendergelijkheid bevordert; middelen toewijzen aan preventie en respons; en te investeren in organisaties voor vrouwenrechten (WHO, 2024).  
+
+**Monitoring**  
+Binnen het VN‑systeem zijn verschillende verdrags‑ en charter‑gebaseerde mensenrechtenmonitoringsmechanismen relevant voor contexten waar geweld voorkomt, en vroege waarschuwingssignalen kunnen worden geïdentificeerd.  
+
+**Referenties**  
+(Referenties blijven in het Engels zoals opgegeven in de brontekst.)
