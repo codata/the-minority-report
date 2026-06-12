@@ -1,0 +1,1 @@
+accumulation of wind-borne sand, wind-borne sand accumulation, burial of infrastructure, sorting mechanism, avalanche effect, saltation process, corrosion of surfaces, wind carrying capacity, soil erosion and weakening, reduced water retention capacity, aeolian processes, transport zones

@@ -1,0 +1,1 @@
+struggles that emerge when wildlife poses a threat,negative impacts on people and wildlife,competition for grazing lands and water,livestock predation,destruction of crops,damage to infrastructure,disease transmission from wildlife to livestock,human-wildlife conflict toolkit,human-wildlife mitigation strategy,conflict between groups of people over resolution

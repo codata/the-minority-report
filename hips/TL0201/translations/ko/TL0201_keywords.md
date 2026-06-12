@@ -1,0 +1,1 @@
+progressive collapse, load-bearing structural elements, chain of failures, progressive structural collapse, domino collapse, pancake collapse, structural robustness, redundancy, seismic vulnerability index, design base shear, ground subsidence, substandard construction materials, dynamic loading, early warnings of building collapse

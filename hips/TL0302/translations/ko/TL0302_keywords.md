@@ -1,0 +1,1 @@
+air pollution, water pollution, marine pollution, persistent organic pollutants,plastic pollution,micro- and nano-plastics,industrial emissions,chemical pollution,waste management,endocrine-disrupting compounds,environmental media,hazardous chemicals and wastes

@@ -1,0 +1,1 @@
+neutron radiation, atomic fission, nuclear fusion, artificial production of neutrons, heavy shielding, dispersal of neutron radiation, improvised nuclear devices, nuclear yield, radiation dispersal devices, blast generated, nuclear fireball, residual radiation, neutron activation, dangerous-radiation zone, fallout deposition, International Monitoring System

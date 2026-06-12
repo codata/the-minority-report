@@ -1,48 +1,53 @@
-### Definition
+## Definīcija
+**Grūstu un fūzīlīvu organismu slimība** ir augu slimību notikumu izpaušana, ko izraisa grūsti plašā reģionā, ar būtisku ietekmi uz augu ražošanu vai dabas biotopiem (pielāgots no Arneson, 2001 un Moore et al., 2019).
 
-**Sēņu uz augļiem** ir augļu saslimšanas notikšana, ko izraisa sēņu aģenti plašās teritorijās, radot būtiskas sekas ražas ražīguma vai dabas habitatu zudumiem (pielāgots no Arneson, 2001 un Moore et al., 2019).
+## Primārās atsauces
+Arneson, P.A., 2001. Plant Disease Epidemiology: Temporal Aspects. The Plant Health Instructor. (Revised 2011). Accessed 7 March 2025.  
+Moore, D., D. Geoffrey, G.D. Robson and A.P.J. Trinci, 2019. 21st Century Guidebook to Fungi. 2nd Edn. Accessed 7 March 2025.
 
-### Primary reference(s)
+## Atsauksmes
+### Papildu zinātniskā apraksts
+Grūsti ir eukarioteiskie organismi ar atšķirīgu šūnu struktūru. Tie tiek klasificēti kā atsevišķs karaliste, līdzīgi kā Animalia un Plantae. Tie ietver daudzas svarīgas speciēdas, kas izraisa augu slimības ar lokālu vai globālu nozīmi, piemēram, smuturi, zāpos, mīkstums, siltums, cankers un rusts. Grūstu struktūra galvenokārt sastāv no šķērsu, ko sauc par mikseliju, un reprodukcija notiek caur dažādiem sporu veidiem (CABI, no date). Grūstu slimnības var izpausties daudzos veidos uz augu vegetatīvā vai reproduktīvā orgānu. Plaši pazīstamo slimību saraksts ietver: anthracnose; melnie koksni; blīta, tostarp dūmu blīta un vēlā rūdniecība; canker; klubu rot; dzīvības nolaišana; Olas elpu slimība; ergo; Fusarium wilt; lapu bruņu; mildews, tostarp ziedoša mildews un pulverizēta mīkstums; loka rūdniecība; mīkstums, tostarp balss mīkstums, pelēka mūdas mīkstums un sirds mīkstums; rust, tostarp kviešu rust, soja rust, kaķa rust, kakava rust un medra‑apelsīnas rust; scab, tostarp ābolu scab; smuturs, tostarp atbrīvošu smuturu un kukurīzes smuturu; sniega mūda; pūķu mūda; un Verticillium wilt (Encyclopaedia Britannica, no date). Kopumā grūsti un fūzīlīvi organismi (FLOs) izraisa augu slimības ar vairāk nekā 8000 speciēdām, kas ir izraisījušas slimības. Dažās pasaules vilēros un cilvēces traucējumos, augu slimību izraisošie grūsti un FLOs ir izraisījuši ievērotus zaudējumus (Williams et al., 2017). Visplažāk pazīstamākais katastrofas piemērs, ko izraisījusi grūstu patogēna, ir kartupeļu late blight epidemiā, kas izraisīja lielu vilēru Īrijā 1840. gados. Šis turpina būt labs piemērs vienas slimnības ietekmei uz kartupeļu ražošanu visā pasaulē (Suo‑meng & Shao‑qun, 2022). Vēl viens piemērs ir kviešu rust slimība. Ir labi zināms, ka nepārtrauktie kviešu rust slimības izaicinājumi atgriežas no senlaikiem, kad tika organizēts īpašs pagatavošanas festivāls `Robigalia`, kas bija paredzēts kviešu kultivāto aizsardzībai pret rust slimībām (Bhavani et al., 2022). Papildus prehāvēšanas un pēchāvēšanas slimību un mīkstuma līdzekļu, daži grūsti var ražot augsti toksiskus, halucinogēnus un kancerogēnus ķīmiskos savienojumus, kas ne tikai ir ietekmējuši milzīgu cilvēku dzīvi vēsturiskā laikā, bet arī turpina radīt problēmas mūsdienās. 2006. gadā desmiti suņi nāva no pārtikas, kas tika piesārņota ar aflatoksini, ķīmisko savienojumu, ko ražo vairāki Aspergillus izemei. Šie grūsti var augt uz daudzām augām, piemēram, kukurīzi, un ražot toksīnus uz graudaugiem, kas ne tikai ietekmē aknas, bet ir viens no viskancerogēnajiem materiāliem (Williams et al., 2017). Papildus grūstu plantes slimnības kaitīgajiem efektam jāatzīmē, ka daži grūsti ir noderīgi zemei, bet daudzi ir galvenie augu slimību izraisītāji gan augšanas, gan pēchāvēšanas procesā. Plašs fungicidu klāsts tiek izmantots grūstu kontrolei un ražošanas zaudējumu novēršanai (FAO, 2017).
 
-- **Arneson, P.A., 2001.** Augļu saslimšanas epidemioloģija: laika aspekti. *The Plant Health Instructor.* (Pārskatīts 2011). Pieprasīts 7. marts 2025.
-- **Moore, D., D. Geoffrey, G.D. Robson un A.P.J. Trinci, 2019.** 21. gadsimta ceļvedis uz sēnēm. 2. izdevums. Pieprasīts 7. marts 2025.
+## Mērījumi un skaitliskie ierobežojumi
+Nav zināms.
 
-### Annotations
+## Galvenā atbilstošā VNB konvencija / daudzpusīgs līgums
+Starptautiskā augu aizsardzības konvencija (1997) ir starptautisks līgums, ko parakstījusi vairāk nekā 180 valstis, ar mērķi aizsargāt pasaules augu resursus no kaitējošo organizmu izplatīšanās un ieviešanas, un veicināt drošu tirdzniecību (FAO, 2011). Konvencija izstrādā un īsteno starptautiskos standartus fytosanitarajiem pasākumiem kā galveno rīku, lai sasniegtu savus mērķus, padarot to par vienīgo globālo standarta izveides organizāciju augu veselībai. IPPC ir viens no “Trīs brāļiem”, ko atzīst Pasaules tirdzniecības organizācija (WTO), kopā ar fytosanitarajiem pasākumiem (SPS) un Codex Alimentarius (FAO un WHO, no date). Starptautiskās veselības regulējums (2005), 3. izdevums (WHO, 2016). WTO un Pasaules dzīvnieku veselības organizācija (OIE) (WTO, 1998). Konvencija par bioloģisko daudzveidību (CBD, 2025). https://www.cbd.int/. Piekļūts 7. martu 2025.
 
-#### Additional scientific description
+## Faktori
+Izturīgi klimatiskie apstākļi, dabas līdzsvara traucēšana un mazs uz augu un meža higiēnas trūkums veicina grūstu inokulumā izaugsmi un izplatīšanos, kas regulāri izraisa būtiskus bojājumus lauksaimniecībā, mežos un citās dabas biotopēs. Izplatīšanās un izcelsmes kontroli vienmēr ir vienkāršāka nekā reaģēt uz epidemiām un to kontrolē. Pielāgojot ilgtspējīgas augu ražošanas, ilgtspējīgas meža pārvaldības un integrēta kaitējošo organizmu pārvaldības principus, ir būtiski uzlabot grūstu un fūzīlīvu organismu slimību kontrolei. Konkrēti pārvaldības metodes ietver koncentrētu ražošanu, augu sliktības atpaliekošo šķirņu izmantošanu, patogēnu bezšūpu sertificētu dāmu materiālu lietošanu, regulāru uzraudzību un ātru ierobežošanu sākotnējos posmos integrētā veidā. Grūsti bieži mutē un ražo jaunas stārus, kas var būt agresīvāki. Tādēļ nepārtraukta uzraudzība un jaunu stāru pieaugušo šķirņu izstrāde ir kritiski svarīga integrētās pārvaldības grūstu un fūzīlīvu organismu kontekstā.
 
-Sēnes ir eukariote organismi ar atšķirīgu jēru, kas klasificēti kā atsevišķs krūts, līdzīgi dzīvniekiem (*Animalia*) un augļiem (*Plantae*). Tās ietver daudzas svarīgas izcelsmes, kas izraisa lokālu vai globālu nozīmi augļu saslimšanas, piemēram, sāpeļēšana, nēca, pūdzēšana, pūzdzināšana, pūzda, smuta vai rusts. Sēņu struktūra galvenokārt sastāv no filamentu šķiedrām, kas saucas *mycelijs*, un reprodukcijas veidā ražo dažādas sporas (CABI, ne datums). Sēņu saslimšana var rasties daudzās formās vegetatīvajos vai reproduktīvajos orgānos. Plaši pazīstamo saslimšanu saraksts ietver:
+## Ietekme
+Daudzas grūstu un fūzīlīvu organismu slimību epidemijas ir ietekmējušas augu ražošanu un mežus daudzās valstīs un reģionos pasaules vēsturē. Šie ietver epidemijas, ko izraisa kartupeļu blīta, kviešu rust slimība, dūmu blīta, rīsu blūšana un banāna Fusarium wilt. Ekonomiskie zaudējumi visām grūstu un fūzīlīvu organismu slimību grupām ir ierobežoti, taču ir dažas pētījumu analīzes par konkrētu slimību ietekmi. Piemēram, kartupeļu late blight, kas izraisīja vilēru Īrijā 1840. gados, radīja līdz 10 miljardiem ASV dolāru zaudējumus ražībā un pārvaldības izmaksās (Suo‑meng & Shao‑qun, 2022). Kviešu rust slimība, iespējams, rada globālās gada zaudējumus aptuveni 15 miljoniem tonnām, vērtējot 2,9 miljardus ASV dolāru (Huerta‑Espino et al., 2020). Grūstu un fūzīlīvu organismu slimību izplūdes var radīt pārtikas drošības izaicinājumus, it īpaši, ja galvenie pārtikas augu kultivāti ir ietekmēti. Tie var arī radīt tirgus vai cenu nestabilitāti. Vēl viens labs piemērs ir kokos ritenis cenu svārstības, ko izraisa kokos uzzelta podu slimība Āfrikā 2024 (Africanews, 2024; J.P. Morgan, 2024). Līdzīgi efekti notiek citos augos dažādās reģionos, bet lielākā daļa paliek nepamanīta vai nepietiekami atspoguļota starptautiskajās forumos. Augu slimību izplūde var arī radīt lielas bažas par darbu zaudējumu farmu darbiniekiem, piemēram, izplūdejam banāna Fusarium wilt TR4 (Altendorf, 2019). Dažos gadījumos grūstu un fūzīlīvu organismu slimības var tieši ietekmēt dzīvnieku un cilvēku veselību. Vispārīgi, jautājumi, kas saistīti ar pesticīdu atlikumiem un toksīnām pārtikā, var pazaudēt uzmanību, it īpaši attīstības valstīs. Izvērtējamo situāciju piemērs: 2006. gadā desmiti suņi nāva no pārtikas, kas tika piesārņota ar aflatoksini, ķīmisko savienojumu, ko ražo vairāki Aspergillus izemei. Šie grūsti var augt uz daudzām augām, piemēram, kukurīzi, un ražot toksīnus uz graudaugiem, kas ne tikai ietekmē aknas, bet ir viens no viskancerogēnajiem materiāliem (Williams et al., 2017).
 
-- **Antraknoze**  
-- **Melna zīme**  
-- **Sāpeļēšana** (pēc tam pievienotas: *cerejas sāpeļēšana*, *lēnas sāpeļēšana*)  
-- **Pūzda**  
-- **Kluba sēru**  
-- **Apstādināšana**  
-- **Holandiešu sēru**  
-- **Ergot**  
-- **Fusarium nēca**  
-- **Lapu nūjas**  
-- **Pūzdzināšana** (tāpat pārpūzdzināšana)  
-- **Pulverīāpa**  
-- **Koksnīšu nēca**  
-- **Pūdzēšana** (*bāzes*, *pelēka mūla*, *sirds*)  
-- **Rusts** (kukurūzas, sojāru, pēknes, kafijas, kreju-ābolu)  
-- **Skab**  
-- **Smuta** (*atbrīvošanas*, *koka*)  
-- **Niecēlu mūl**  
-- **Tūris mūl**  
-- **Verticillium nēca**  
-(Encyclopaedia Britannica, ne datums)
+## Daudzpēdas konteksts
+Zemāk redzamā attēla summa par biežākajiem mijiedarbības stāžiem starp grūstu un fūzīlīvu organismu slimību un citiem bīstamības veidiem. Šīs informācijas izmantošana jāveic piesardzīgi, un tā nedrīkst būt vienīgā atbilstība katastrofiskā risku pārvaldībā, it īpaši, ja dažas mijiedarbības nav iekļautas. Ņemiet vērā, ka bīstamības notikumi, kas notiek kopā vai lokāli telpā vai laika vidē, var nebūt vienmēr izraisīti, pastiprināti vai citādi saistīti ar citiem. Specifiskie daudzpēdas konteksta piemēri atrodami “Hazard drivers” un “Impacts” sadaļās augstāk.
 
-Kopumā sēnes un sēņu līdzīgi organismi (**SLOs**) izraisa augļu saslimšanu ar vairāk nekā 8000 izcelsmēm, kas tiek uzskatītas par cēloņiem pasaules lielās laksmēs (Williams et al., 2017). Pārbaudītākais piemērs – ziemu lēnas sāpeļēšanas epidemija, kas izraisīja lielo laksmu Īrijā 1840. gados. Tā turpina būt piemērs vienas saslimšanas, kas radīja devastējošus zaudējumus ķirbju pasaulē (Suo‑meng & Shao‑qun, 2022). Cits piemērs – kukurūzas rusts. Zināms, ka kukurūzas rusts izaicinājumi sākās senos laikos, kad tika organizēta festivāla “Robigalia”, lai aizsargātu kukurūzas ziedus no rusts (Bhavani et al., 2022). Turklāt kā pre‑harvest un post‑harvest saslimšanas un pūdzēšanas aģenti, daži sēni var ražot ļoti toksiskas, hallucinogēnas un karcinogēnas ķīmiskas vielas, kas ne tikai ietekmēja milzīgu cilvēku grupu vēsturiskā laikā, bet turpina radīt problēmas šodien. 2006. gadā daudzi suņi izdzīvoja no pārtikas, kas ir piepildīta ar **aflatoksīnu**, kas ražo vairākas *Aspergillus* izcelsmes. Šīs sēnes var augt uz daudziem augļiem, piemēram, kukurūzām, un ražo toksīnus uz graudiem, kas ne tikai ietekmē aknās, bet arī ir viens no karcinogēnajiem materiāliem (Williams et al., 2017).
+## Daudzpēdas diagramma
+Risku pārvaldība  
+Starptautiskās augu aizsardzības konvencijas (IPPC) misijas aptver grūstu un fūzīlīvu organismu slimību kā arī citus kaitējošos un slimības. Tā veido starptautisku forumu, kas nodrošina telpu starptautiskajām diskusijām un sarunām par risku pārvaldību, kas radušās augu slimību izplatīšanās (kā arī citos bioloģiskajos aģentūos, kas apdraud augu). Tas nodrošina iespējas starptautisko standartus izveidei, kapacitātes veidošanai un ziņošanu, lai samazinātu šī aģentu izplatīšanās riskus. Valstis sagaida, ka tās ievēros starptautiskos standartus un pastiprinās savas fytosanitarās kapacitātes un biovadības sistēmas. Tās sagatavošanās, uzraudzīšanas un ātrā reakcijas kapacitāte jāpastiprina. Turklāt starptautiskās sadarbības jāizveido vai jāpastiprina, lai risinātu reģionālās vai globālās izaicinājumus, kas saistīti ar invazīviem un transgrenzāmiem augu kaitējumiem un slimību pārvaldību, it īpaši tos, kas ir lidojami, piemēram, kviešu rust slimība un daudzas blītes un mildews daudzos augos.
 
-#### Metrics and numeric limits
+## Uzraudzība
+Sadaļa un tabula zemāk piedāvā pārskatu par grūstu un fūzīlīvu organismu slimību uzraudzību. Šī informācija var tikt izmantota prognozēšanai, iekšējā agrīnā brīdināšanas sistēmas (EWS). Kādas iestādes ražo katastrofu risku datus/informāciju? Ir vairāki agrīnas brīdināšanas sistēmas, it īpaši reģionālajā līmenī, piemēram, Eiropā (Peter et al., 2011) un Ziemeļamerikā (Meissner et al., 2015). Globālā līmenī, IPPC kaitējošo augu patogēnu (kas ietver slimības) izstāžu pārskata sistēma var tikt uzskatīta par visoficiālāko resursu par izplatīšanās notikumu atskaiti, ieskaitot slimības (IPPC, 2025). Lauka līmenī, labs globālais uzraudzības sistēma tika izveidota kviešu rust slimībai (Global Rust Reference Centre, Aarhus University, 2025), sniedzot uzraudzību un agrīnu brīdinājumu, it īpaši jaunajiem rēžiem. Kā tiek novērota, uzraudzīta vai prognozēta bīstamība? Skatīt slimību atskaites no valstīm.
 
-Nezināms.
-
-### Key relevant UN convention / multilateral treaty
-
-**Internacionālā augļu aizsardzības konvencija (1997)** ir intergouvernementāls līgums, par ko paraksta vairāk nekā 180 valstis, mērķējot aizsargāt pasaules augļu resursus no spiediena un ievadīšanas spiediena, kā arī veicināt drošu tirdzniecību (FAO, 2011). Konvencija izstrādā un ievieš **Internacionālos fitosanitāros standartus** kā galveno rīku, lai sasniegtu savus mērķus, padarot to par vienīgo globālo standartu izveidošanas institūtu augļu veselībai. IPPC ir viens no trīs „Trīs mātes“ (Three Sisters), ko atzīst **Pasaules tirdzniecības organizācija (WTO)** Sanitation and Phytosanitary Measures (SPS) Līgums, kopā ar Codex Alimentarius.
-
-*(The remainder of the translation continues in the same consistent style, respecting the controlled vocabulary and technical terminology.)*
+## References
+Altendorf, S. 2024. Banana Fusarium Wilt Tropical Race 4: A mounting threat to global banana markets? Accessed 9 March 2025.  
+Africanews, 2024. Accessed 9 March 2025.  
+Arneson, P.A., 2001. Plant Disease Epidemiology: Temporal Aspects. The Plant Health Instructor. (Revised 2011). Accessed 9 March 2025.  
+Bhavani, S., Singh, R.P., Hodson, D.P., Huerta‑Espino, J., Randhawa, M.S., 2022. Wheat Rusts: Current Status, Prospects of Genetic Control and Integrated Approaches to Enhance Resistance Durability. In: Reynolds, M.P., Braun, HJ. (eds) Wheat Improvement. Springer, Cham. DOI: 10.1007/978-3-030-90673-3_8. Accessed 9 March 2025.  
+CABI, no date. Description of Fungi and bacteria. Accessed 9 March 2025.  
+CBD, 2025. Convention on Biological Diversity. Accessed on 7 March 2025.  
+Encyclopaedia Britannica, no date. List of Plant Diseases. Accessed 9 March 2025.  
+FAO, 2011. International Plant Protection Convention 1997. Food and Agriculture Organisation of the United Nations (FAO). Accessed 9 March 2025.  
+Global Rust Reference Centre, Aarhus University, 2025. Accessed 7 March 2025.  
+FAO, 2017. Global Assessment of the Impact of Plant Protection Products on Soil Functions and Soil Ecosystems. Food and Agriculture Organisation of the United Nations (FAO). Accessed 9 March 2025.  
+FAO and WHO, 2025. About Codex Alimentarius. Food and Agriculture Organization of the United Nations (FAO) and World Health Organization (WHO). Accessed 9 March 2025.  
+Huerta‑Espino J., Singh R., Crespo‑Herrera L.A., Villaseñor‑Mir H.E., Rodriguez‑Garcia M.F., Dreisigacker S., Barcenas‑Santana D., Lagudah E., 2020. Adult plant slow rusting genes confer high levels of resistance to rusts in bread wheat cultivars from Mexico. Front Plant Sci 11:1. DOI: 10.3389/fpls.2020.00824. Accessed 9 March 2025.  
+IPPC, 2025. Pest reporting. Accessed 7 March 2025.  
+J.P. Morgan, 2024. Rising cocoa prices: Will the chocolate crisis continue in 2025? Accessed 7 March 2025.  
+Meissner, H., Fritz, J., Kohl, L., Moylett, H., Moan, M., Emerine, S., Kaye A., 2015. PestLens: an early-warning system supporting US safeguarding against exotic plant pests. Bull. OEPP 45: 304–310.  
+Moore, D., Geoffrey, D., Robson, G.D., Trinci, A.P.J., 2019. 21st Century Guidebook to Fungi. 2nd Ed. Accessed 9 March 2025.  
+Suo‑meng, D., Shao‑qun, Z., 2022. Potato late blight caused by Phytophthora infestans: From molecular interactions to integrated management strategies. Journal of Interactive Agriculture, Elsevier, Vol. 21, Issue 12. Accessed 9 March 2025.  
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Accessed 9 March 2025.  
+Williams, S.D., Boehm, M.J., Mitchell, T.K., 2017. Fungal and Fungal‑like diseases of plants. Accessed 9 March 2025.

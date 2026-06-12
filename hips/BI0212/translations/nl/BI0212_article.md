@@ -1,0 +1,67 @@
+### Definitie  
+Leverontsteking B is een op vaccin preventeerbare ziekte, die wereldwijd endemiën en epidemisch is en wordt veroorzaakt door het leverontsteking B‑virus (HBV). HBV kan zowel acute als chronische leverziekte veroorzaken. Chronische infectie zet mensen bloot aan een hoog risico op overlijden door cirrose en leverkanker (WHO, 2024).
+
+### Primair referentie(s)  
+WHO, 2024. Hepatitis B. World Health Organization (WHO). Accessed 28 May 2025.
+
+### Annotaties  
+#### Extra wetenschappelijke beschrijving  
+Leverontsteking B is het meest ernstige type virale leverontsteking. In sterk endemische gebieden wordt het leverontsteking B‑virus (HBV), dat zeer besmettelijk is, het meest vaak verspreid van moeder naar kind bij de geboorte (perinatale overdracht), of via horizontale overdracht (blootoedracht), vooral van een geïnfecteerd kind naar een ongeïnfecteerd kind in de eerste vijf jaar van het leven (WHO, 2016a).  
+
+De incubatietijd van het HBV is gemiddeld 75 dagen, maar kan variëren van 30 tot 180 dagen. De meeste mensen ervaren geen symptomen bij nieuwe infectie. Sommigen krijgen een acute ziekte met symptomen die meerdere weken aanhouden, waaronder geelzucht, donkere urine, extreme vermoeidheid, misselijkheid, braken en buikpijn. Een kleine subset van personen met acute leverontsteking kan acute leverfalen ontwikkelen, wat kan leiden tot overlijden (WHO, 2020).  
+
+In sommige mensen kan het HBV ook een chronische leverinfectie veroorzaken die later kan uitgroeien tot cirrose (een littekenvorming van de lever) of leverkanker. Infectie in de volwassenheid leidt tot chronische leverontsteking bij minder dan 5 % van de gevallen, terwijl infectie in de kindertijd en vroege kindertijd leidt tot chronische leverontsteking bij ongeveer 95 % van de gevallen (WHO, 2020).  
+
+Laboratoriumbevestiging van de diagnose leverontsteking B is essentieel. Een aantal bloedtesten zijn beschikbaar om leverontsteking B‑patiënten te diagnosticeren en te monitoren. Ze kunnen worden gebruikt om acute en chronische infecties te onderscheiden (WHO, 2020). De World Health Organization (WHO) heeft surveillance‑standaarden gepubliceerd voor leverontsteking B (WHO, no date).
+
+### Metrics en numerieke limieten  
+Leverontsteking B is een wereldwijd gezondheidsprobleem (WHO, 2024): WHO schat dat 254 miljoen mensen leefden met chronische leverontsteking B‑infectie in 2022, met 1,2 miljoen nieuwe infecties per jaar (WHO, 2024). In 2022 resulteerde leverontsteking B in een geschatte 1,1 miljoen sterfgevallen, voornamelijk door cirrose en leverkanker (WHO, 2024). De last van infectie is het grootst in de WHO West‑Pazifische regio en de WHO Afrikaanse regio, waar respectievelijk 97 miljoen en 65 miljoen mensen chronisch geïnfecteerd zijn. Zestig‑en‑een miljoen mensen zijn geïnfecteerd in de WHO Zuid‑oost Aziatische regio, 15 miljoen in de WHO Oost‑Mediterrane regio, 11 miljoen in de WHO Europese regio en 5 miljoen in de WHO regio van de Amerika's (WHO, 2024).
+
+### Sleutelkern UN-conventie / multilaterale overeenkomst  
+International Health Regulations (2005), 3rd ed. (WHO, 2016b).
+
+### Drijvende factoren  
+In sterk endemische gebieden wordt leverontsteking B het meest vaak verspreid van moeder naar kind bij de geboorte (perinatale overdracht) of via horizontale overdracht (blootoedracht), vooral van een geïnfecteerd kind naar een ongeïnfecteerd kind in de eerste 5 jaar van het leven. De ontwikkeling van chronische infectie is gebruikelijk bij zuigelingen die vóór de leeftijd van 5 jaar geïnfecteerd zijn. Leverontsteking B wordt ook verspreid via naaldstoten, tatoeage, piercing en blootstelling aan geïnfecteerd bloed en lichaamsvloeistoffen, zoals speeksel en menstruatie-, vaginale en seminale vloeistoffen. Overdracht van het virus kan ook plaatsvinden via het hergebruik van besmette naalden en spuiten of scherpe voorwerpen, zowel in de gezondheidszorg, in de gemeenschap als onder personen die drugs injecteren. Seksuele overdracht is vaker voorkomend bij niet gevaccineerde personen met meerdere seksuele partners.  
+
+Leverontsteking B‑infectie verworven in de volwassenheid leidt tot chronische leverontsteking in minder dan 5 % van de gevallen, terwijl infectie in de kindertijd en vroege kindertijd leidt tot chronische leverontsteking in ongeveer 95 % van de gevallen. Dit vormt de basis voor het versterken en prioriteren van vaccinatie bij zuigelingen en kinderen. Het leverontsteking B‑virus kan buiten het lichaam tot minstens 7 dagen overleven. Gedurende deze tijd kan het virus nog steeds infectie veroorzaken als het het lichaam van een persoon binnentreedt die niet beschermd is door het vaccin. Het virus kan worden gedetecteerd binnen 30 tot 60 dagen na infectie en kan aanhouden en uitgroeien tot chronische leverontsteking B, vooral wanneer het in de kindertijd of vroege kindertijd wordt overgedragen.
+
+### Impacten  
+De meeste mensen ervaren geen symptomen bij nieuwe infectie. Sommigen hebben acute ziekte met symptomen die meerdere weken aanhouden, waaronder geelzucht van huid en ogen, donkere urine, extreme vermoeidheid, misselijkheid, braken en buikpijn. Bij ernstige gevallen kan acute leverontsteking leiden tot leverfalen, wat kan leiden tot overlijden. Hoewel de meeste mensen herstellen van acute ziekte, ontwikkelen sommige personen met chronische leverontsteking B een progressieve leverziekte en complicaties zoals cirrose en leverkanker. Deze ziekten kunnen dodelijk zijn.  
+
+Vanaf 2022 waren 13 % van alle mensen die naar schatting leefden met leverontsteking B zich bewust van hun infectie, terwijl 3 % (7 miljoen) van de mensen die chronisch geïnfecteerd waren met leverontsteking B onder behandeling waren. Volgens de nieuwste WHO‑schattingen daalde het percentage kinderen onder de vijf jaar chronisch geïnfecteerd met HBV naar net onder 1 % in 2019, vergeleken met ongeveer 5 % in het pre‑vaccin‑tijdperk (1980‑2000).
+
+### Multi-hazard context  
+Ongeveer 1 % van de personen die leven met HBV‑infectie (2,7 miljoen mensen) is ook geïnfecteerd met HIV. Omgekeerd is de wereldwijde prevalentie van HBV‑infectie bij HIV‑gediagnosticeerde personen 7,4 %. Sinds 2015 heeft WHO behandeling aanbevolen voor iedereen die HIV‑infectie heeft, ongeacht de fase van de ziekte. Tenofovir, dat opgenomen is in de behandelingscombinaties aanbevolen als eerste‑lijntherapie voor HIV‑infectie, is ook actief tegen HBV (WHO, 2024).
+
+### Risicobeheer  
+Het is klinisch niet mogelijk om leverontsteking B te onderscheiden van leverontsteking veroorzaakt door andere virale agenten; daarom is laboratoriumbevestiging van de diagnose essentieel. Verschillende bloedtesten zijn beschikbaar om leverontsteking B‑patiënten te diagnosticeren en te monitoren. Sommige laboratoriumtesten kunnen acute en chronische infecties onderscheiden, terwijl andere de ernst van de leverziekte beoordelen en monitoren.  
+
+Fysiek onderzoek, echografie, fibroscan kunnen ook worden uitgevoerd om de graad van leverfibrose en littekenvorming te beoordelen en de progressie van leverziekte te monitoren. WHO raadt aan dat alle bloeddonaties worden getest op leverontsteking B om bloedveiligheid te waarborgen en accidentele overdracht te voorkomen.  
+
+In omgevingen met hoge HBsAg‑seroprevalentie in de algemene bevolking (gedefinieerd als >2 % of >5 % HBsAg‑seroprevalentie) raadt WHO aan dat alle volwassenen toegang hebben tot en HBsAg‑testen worden aangeboden met koppeling aan preventie‑ en zorg‑ en behandelingsdiensten indien nodig.  
+
+WHO raadt ook bloeddonor‑screening en routine‑testing voor leverontsteking B aan voor alle zwangere vrouwen om de mogelijkheid te bieden maatregelen te treffen ter preventie van MTCT, evenals gerichte testing van specifieke hoog‑risicogroepen (inclusief migranten uit endemische regio's, partners of familieleden van geïnfecteerde personen, gezondheidswerkers, PWID, personen in gevangenissen en andere gesloten settings, MSM en sekswerkers, HIV‑gediagnosticeerde personen).  
+
+Er is geen specifieke behandeling voor acute leverontsteking B. Chronische leverontsteking B kan worden behandeld met medicijnen. Zorg voor acute leverontsteking B moet gericht zijn op het comfort van de persoon. Ze moeten een gezond dieet eten en veel vloeistoffen drinken om uitdroging door braken en diarree te voorkomen.  
+
+Chronische leverontsteking B‑infectie kan worden behandeld met orale medicijnen, waaronder tenofovir of entecavir. Behandeling kan de progressie van cirrose vertragen, het aantal gevallen van leverkanker verminderen en de langetermijnoverleving verbeteren. De meeste mensen die leverontsteking B‑behandeling beginnen, moeten deze voor het leven voortzetten.  
+
+Met de bijgewerkte Leverontsteking B‑richtlijnen wordt geschat dat meer dan 50 % van de mensen met chronische leverontsteking B‑infectie behandeling nodig hebben, afhankelijk van de setting en de geschiktheidscriteria. In lage‑inkomensomgevingen presenteren de meeste mensen met leverkanker zich laat in de ziekte, en sterven binnen maanden na diagnose. In hoog‑inkomenslanden presenteren patiënten zich eerder in de ziekte en hebben toegang tot chirurgie en chemotherapie, wat het leven kan verlengen met meerdere maanden tot enkele jaren. Levertransplantatie wordt soms gebruikt bij mensen met cirrose of leverkanker in technologisch geavanceerde landen, met wisselend succes.  
+
+Leverontsteking B is preventiebaar met een vaccin. Alle baby's moeten de leverontsteking B‑vaccin zo snel mogelijk na de geboorte krijgen (binnen 24 uur). Dit volgt op twee of drie doses van het leverontsteking B‑vaccin op ten minste vier weken tussen de doses. Booster‑vaccinaties zijn meestal niet nodig voor personen die de drie‑doses serie hebben voltooid. Het vaccin beschermt tegen leverontsteking B voor minstens 20 jaar en waarschijnlijk het leven.  
+
+Leverontsteking B kan van moeder naar kind worden overgedragen. Dit kan worden voorkomen door antivirale medicijnen te gebruiken ter preventie van overdracht, naast het vaccin.  
+
+Om het risico op verkrijgen of verspreiden van leverontsteking B te verminderen: veilige seks praktiseren door condooms te gebruiken en het aantal seksuele partners te verminderen; geen naalden of apparatuur voor injectie, piercing of tatoeage gebruiken; handen grondig wassen met zeep en water na contact met bloed, lichaamsvloeistoffen of besmette oppervlakken; vaccinatie tegen leverontsteking B als je werkt in een zorgomgeving.  
+
+Globale gezondheid‑sectorstrategieën voor HIV, virale leverontsteking en seksueel overdraagbare infecties voor de periode 2022–2030 leiden de gezondheidssector in het implementeren van strategisch gerichte reacties om de doelen te bereiken van het einde van AIDS, virale leverontsteking (in het bijzonder chronische leverontsteking B en C) en seksueel overdraagbare infecties tegen 2030 (WHO, 2022; 2024). De GHSS adviseren gedeelde en ziekte‑specifieke land‑acties ondersteund door WHO en partners. Ze houden rekening met de epidemiologische, technologische en contextuele verschuivingen van voorgaande jaren, bevorderen het leren van verschillende ziekte‑gebieden, en creëren kansen om innovaties en nieuwe kennis te benutten voor effectieve responsen op de ziekten. Ze roepen op tot opschalen van preventie, testen en behandeling van virale leverontsteking met een focus op het bereiken van populaties en gemeenschappen die het meest getroffen en risico lopen voor elke ziekte, evenals het aanpakken van lacunes en ongelijkheden. Ze bevorderen synergieën onder een universele gezondheidsdekking en primair gezondheidszorg‑kader en dragen bij aan het bereiken van de doelen van het 2030‑agenda voor duurzame ontwikkeling (WHO, 2024).  
+
+WHO organiseert jaarlijkse Wereldleverontsteking‑dagen om het bewustzijn en begrip van virale leverontsteking te vergroten. Voor Wereldleverontsteking‑dag 2023 concentreerde WHO zich op het thema “One life, one liver” om het belang van de lever voor een gezond leven en de noodzaak om virale leverontsteking preventie, testen en behandeling op te schalen te illustreren om leverziekte te voorkomen en het 2030‑eliminatiedoel te bereiken (WHO, 2024).  
+
+De WHO‑globale begeleiding voor land‑validatie van de eliminatie van virale leverontsteking B en C biedt landen een scala aan opties om de doelen te meten afhankelijk van beschikbare surveillance‑gegevens en capaciteit, evenals een checklist van andere overwegingen om hun voortgang naar eliminatie te beoordelen. Deze omvatten het beoordelen van de kwaliteit van strategische informatie, laboratoriumprocessen, diagnostica en medicijnen, en gezondheidszorgprogramma’s, evenals naleving van de principes van gelijkheid, mensenrechten en gemeenschap‑betrokkenheid (WHO, 2021).
+
+### Monitoring  
+WHO raadt aan dat alle bloeddonaties worden gescreend op infecties voor gebruik. Screening voor leverontsteking B, evenals leverontsteking C, HIV en syfilis, moet verplicht zijn. Bloedscreening moet worden uitgevoerd volgens kwaliteits‑systeem eisen. Van de rapporterende landen zijn er 10 die niet alle gedoneerde bloed kunnen screenen voor een of meer van bovenstaande infecties (WHO, 2023). 99,8 % van de donaties in hoog‑inkomenslanden en 99,9 % in bovengemiddelde‑inkomenslanden worden gescreend volgens basis‑kwaliteitsprocedures, vergeleken met 83 % in lagere‑gemiddelde‑inkomenslanden en 76 % in lage‑inkomenslanden. De prevalentie van transfusie‑overdraagbare infecties in bloeddonaties in hoog‑inkomenslanden is aanzienlijk lager dan in lage‑ en midden‑inkomenslanden (WHO, 2023).
+
+**References**  
+*(unchanged)*

@@ -1,0 +1,1 @@
+motion of ice driven by gravitational forces,ice stress,basal sliding,glacier ice flow,floating ice tongues,ice shelves,sea ice,drift/pack ice,ice jams,ice floes,subglacial sediments,ice flow hazards

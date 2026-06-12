@@ -1,0 +1,1 @@
+psychoactive substances, synthetic opioids, natural opiates, opioid receptors, opioid overdose, respiratory depression, morphine, codeine, heroin, fentanyl analogues, prescription opioids, morphinans, methadone, naloxone, opioid agonist maintenance treatment

@@ -1,0 +1,1 @@
+air pollution, water pollution, persistent organic pollutants (POPs), micro- and nano-plastics, marine pollution, water contamination, industrial emissions, heavy metals, sewage and waste water, chemical pollution, plastic pollution, pollution abatement policies

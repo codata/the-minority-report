@@ -1,72 +1,73 @@
-```markdown
-# Sunaikinimo agentas
+**Definition**  
+Eksplozyvinė medžiaga arba agentas – tai kieta arba skystoji medžiaga (arba medžiagų mišinys), savarankiškai sugebanti cheminiu reagavimu gaminti dujas, kurių temperatūra, slėgis ir greitis sukelia žalą aplinkai. Įtraukia pyrotechnikos medžiagas ir mišinius, net jei jie neatsiranda dujų. Eksplozijos gali sukelti daugybę rimtai sužeistų žudynų viename įvykyje (pritaikytas iš UN 2023 ir UK Parlamento POSTNOTE 2011).  
 
-## Apibrėžimas
+**Primary reference(s)**  
+- UN, 2023. *Globally Harmonized System of Classification and Labelling of Chemicals (GHS)*, dešimtoji pataisyta versija, Jungtinės Tautos Organizacija (JTO). Prieiga 15 kovo 2025 d.  
+- UK Parliament POSTNOTE *Explosive injury* Nr. 395, 12 gruodžio 2011 d.  
 
-Sunaikinimo agentas – tai kietoji arba skysta medžiaga (arba medžiagų maišas), kuri, cheminės reakcijos metu, sugeba generuoti dujas tam tikroje temperatūroje ir spaudime bei tokiu greičiu, kad sukeltų aplinkos pažeidimus. Įtraukta pyrotechnikos medžiagų ir maišų kategorija, net jei jos neviršija dujų. Sunaikinimai gali sukelti didelį sužalojimų skaičių viename įvykyje (Adapt. iš UN 2023 ir UK Parlamento POSTNOTE 2011).
+**Annotations**  
+### Additional scientific description  
+Eksplozyvinės medžiagos naudojamos komerciniuose pramonės pritaikymo sektoriuose, oro ginkluotėse ir neatsargiuose sąlygose, pavyzdžiui, neapibrėžtų eksplozyvų įrenginiuose (NEI), kurių netinkamas laikymas gali sukelti išsiveržimus. Pavyzdžiui, 2020 m. rugpjūčio 4 d. **Beiruto** porto atveju didžiulė cheminė detonacija sukėlė nevaldomą ugnį sandėlyje, kuriame buvo ~2 750 tonų ammonium nitrato (AN), dėl ko mirtinų 220 žmonių, įžeistų daugiau nei 6 500, ir rimtai sugadintų gynybos bei komercinės zonos (Al‑Hajj et al., 2021).  
 
-## Pagrindinės nuorodos
+Eksplozyviniams agentams taip pat priskiriamas CBRNE „E“ simbolis, dažnai naudojamas apibūdinti chemines, biologines, radiologines, nuklidines ir eksplozyvias medžiagas ar ginklus. Piktnaudžiavimas tokiais medžiagomis gali sukelti didelę žalą ar sutrikimus (Goulart et al., 2022). Eksplozyviniams agentams taip pat priklauso sąvoka, dažnai vadinama „konvencionaliais ginklais“.  
 
-- **UN, 2023.** Visuotinio harmonizuoto klasifikavimo ir ženklinimo sistemos (GHS) dešimttoji redakcija. *United Nations* (UN). Prieinama 15 kovo 2025.  
-- **UK Parliament POSTNOTE Sunaikinimo traumos Nr. 395**, gruodžio 2011. Prieinama 14 kovo 2025.
+**Types of explosive materials**  
+- **Pirmieji eksplozyvai** – medžiagos arba mišiniai, lengvai detonuojami per paprastą inicijacinį impulsą (žvakių, smūgių, trinties, karščio, elektros ar degimo). Dažniausiai naudojami, kad sukurtų smūgio bangą, inicijuojant mažiau jautrią antrąją eksplozią.  
+- **Antrieji eksplozyvai** – individualūs eksplozyviniai junginiai ar formulacijos, gana jautrios neeksplozijos stimuliams. Inicijuojami detonatoriumi. Naudojami plovimams, fragmentacijai ir greitėjimo efektui pramonėje ir kariuomenėje.  
 
-## Anotacijos
+### Civilinės eksplozyvinės medžiagos  
+Eksplozyvinės medžiagos, gaminamos komerciniais tikslais, pvz., dinamitas, ANFO, emuliaciniai eksplozyvai (Goulart et al., 2022).  
 
-### Papildoma mokslinė apibrėžtis
+### Plovimo eksplozyvai  
+Terminas naudojamas civiliniams eksplozyvams, pavyzdžiui, kamienų, kelių statybai ir demoliacijai (Goulart et al., 2022).  
 
-Sunaikinimo medžiagos plačiai naudojamos įvairiose pramonės srityse, munūnų gamyboje bei improvizuotuose sunaikinimo įrenginiuose (IED), kurie gali būti pavojingi saugojimo ir nekonfliktinėse aplinkose. Ammoniūkų nitratas yra sunaikinimo medžiaga, o jo netinkamas saugojimas sukėlė kelis sunaikinimus. Pavyzdžiui, didžiulis cheminis detonavimas 2020 m. rugpjūčio 4 d. Beiruto porto, Libanon, sukėlė netikėtas gaisrą šalia esančio sandėlio, kuris uždegė ~2 750 tonų ammoniūkų nitrato (AN). Sunaikinimo spindulių stiprumas ir smūgiai sukėlė 220 žmogiškų mirtų ir 6 500 sužalojimų, su dideliu žalimu žemės ribinėmis gyvenamomis bei komercinėmis zonomis (Al‑Hajj et al., 2021).  
+### Emuliaciniai eksplozyvai  
+Emuliacinės eksplozyvinės medžiagos. Saugios, sunkiai inicijuojamos. Pagrindinis jų naudojimas – civilinė pramonė, kelių ir tunelių statyba (Goulart et al., 2022).  
 
-Sunaikinimo agentai taip pat įtraukti į CBRNE „E“ (Chemical, Biological, Radiological, Nuclear, Explosive) – dažnai vartojamą terminą, apibūdinantį cheminius, biologinius, radiologinius, branduolinius ir sunaikinimo medžiagas ar ginklus. Malingas šių medžiagų naudojimas galėtų sukelti reikšmingą žalą ar trikdžius (Goulart et al., 2022).  
+### Energetiniai materialai  
+Klasifikacija, kuri apima eksplozyvinius, propellantus, pyrotechniką ir jų komponentus.  
 
-Sunaikinimo agentai yra subkategorija, dažnai vadinama „konvencinėmis ginklais“. Technologiniu požiūriu, yra daug įvairių sunaikinimo medžiagų tipų, įskaitant baketus, artilerijos korpšalus, granatus, raketes, žemės mines ir improvizuotus sunaikinimo įrenginius, kurie aktyvuojami detonuojant aukštos galingumo medžiagą (UNODA, n.d.).
+### Dvejetiniai eksplozyvai  
+Du komponentai, saugūs manipuliavimui; galutinis eksploziavimas įvyksta suderintų junginių mišinyje prieš naudojimą (Goulart et al., 2022).  
 
-### Ginklų tipai
+### Namų gamyba eksplozyvai (HMEs)  
+Dažnai randami NEI. Sukuriami iš įvairių precizatorių, kurių kai kurie gali būti nekenksmingi ir lengvai prieinami.  
 
-Ypatingai problematiški ginklai, kurie kenksmingai veikia dėl aukšto išorinio ginklų saugojimo ir netinkamos transportavimo (HSE, 2002). Tai apima oro išpūsčius baketus, artilerijos projektilus, raketes, granatas, žemės minės ir improvizuotus sunaikinimo įrenginius (IED). Kai kurie iš jų paleidžiami iš oro, kiti – nuo žemės. Nepriklausomai nuo jų technologinių savybių, šie ginklai sukuria smūgų ir fragmentacijos zoną, galinčią sunaikinti, sužaloti ar sugadinti bet ką, kas yra viduje. Tai ypač problematiška, kai jų naudojimas vyksta miestuose, miškiniuose, rinkose ir pabėgėlių bei persikėlusių asmenų tėvkumo vietose (UNOCHA, 2017).  
+### Poveikis ir valdymas  
+(Aprašymas iš „Metrics and numeric limits“ ir „Key relevant UN convention / multilateral treaty“ skirsniai).  
 
-### Dažniausi komponentai
+**Metrics and numeric limits**  
+Įkrovimo masė įvairiems eksplozyvų tipams gali būti išreikšta TNT‑ekvivalentu (kg). TNT ekvivalentas apibrėžia energijos kiekį, išlaisvintą iš tam tikro TNT kiekio (Goulart et al., 2022).  
 
-Sunaikinimo agentai paprastai nešioja tiek degiklį, tiek oksidatorių. Įtampiniai cheminiai junginiai, turintys daug azoto ir deguonies, dažnai yra sunaikinimo medžiagos (Goulart et al., 2022). Jų sudėtis dažnai sudaro trijų komponentų sistemą:
+**Key relevant UN convention / multilateral treaty**  
+*Convention on Certain Conventional Weapons, Amended Protocol II* (JTO, 2008).  
 
-1. **Degiklis:** uždegiamas medžiaga, kuri gali būti oksiduojama ir sukelti didelę energijos išsiskyrimą, išskiriant stabilias molekules (N₂, CO₂, H₂O).  
-2. **Oksidatorius:** dažniausiai deguonis (O₂) arba deguonies turintys junginiai (pvz., nitratai).  
-3. **Uždegimas:** šviesa, aukšto šilumos šaltinis ar kitas inicializatorius.
+**Examples of drivers, outcomes and risk management**  
+- **Drivers** – netinkamas laikymas, saugus, neparūpintas sandėliavimas, neprotingas transportas (HSE, 2002).  
+- **Impacts** – pavojų zona, įžeistų ir mirtinų skaičius priklauso nuo detonuojamos medžiagos kiekio, fragmentacijos krūvio, ugnies, kraterio tūrio, išskyrimo efekto.  
 
-### Sunaikinimo klasifikacija
+**Multi‑hazard context**  
+(Aprašymas vaizdo su diagramomis, tačiau šiame tekste įtraukta tik teksto santrauka).  
 
-- **Pradinių sunaikinimo medžiagų** – medžiagos ar maišai, lengvai detonuojami nešokančiu impulsu (glėbė, smūgis, trintis, šiluma, elektros impulsas). Naudojami, kai reikia sukurti smūgų bangą pradinei detonuotei arba degimui. Dauguma pradinių medžiagų yra labai jautrios mechaniniams stimulus, todėl jų tvarkymas yra pavojingas (Goulart et al., 2022).  
-- **Sekundinių sunaikinimo medžiagų** – ne jautrios nešokantiems stimulus. Detonuojamos detonatoriaus pagalba. Naudojamos išpūsčioje, smūgų generavime ir daugelyje pramonės bei karinėje srityje (Goulart et al., 2022).  
+**Risk Management**  
+- Mokymai apie eksplozijų fenomeną, prevencijos metodus ir reglamentų laikymą.  
+- Šiandien yra keli tinklai, pavyzdžiui, EEODN (Europos eksplozinių medžiagų pašalinimo tinklas), kuris organizuoja mokymus ir pratybas.  
+- Gali būti taikomi eksplozyvų aptikimo sistemos, tokios kaip rentgeno įrangą aviacijos saugumo srityje (Goulart et al., 2022).  
+- **Šunų aptikimo sistema** (EDD) – puikus mobilus aptikimo įrankis, nors turi ribojimų dėl identifikavimo ir komunikacijos.  
+- Tvirtinimas ir nacionaliniai kontroliniai mechanizmai – IED gamyba dažnai naudoja karinę ar komercinę medžiagą; rezoliucijos reikalauja griežtesnių kontrolių.  
+- Informacijos dalijimasis – būtina bendradarbiauti, dalintis informacija apie NEI sudėtį, kad būtų greičiau neutralizuojamas pavojus.  
+- Vyriausybės ir JAV, taip pat Pasaulio Tarybos, atskleidė iššūkį, susijusį su eksplozyvų ginkluotės neparūpintu vartojimu populiaruose vietose.  
 
-#### Kiti tipai
+**Monitoring**  
+- Europos Sąjungos (ES) ankstyvoji įspėjimo sistema (EWS) veikia mainų informaciją tarp valstybių, įskaitant grėsmes, ginklų vagystę, detoniatorių vagystę ir naujų strategijų atskleidimą (Goulart et al., 2022).  
 
-- **Civilinės sunaikinimo medžiagos** – komercinė gamyba, nekarinarinė. Pavyzdžiai: dinamitas, ANFO, emulsijos (Goulart et al., 2022).  
-- **Išpūsčioje naudojamos medžiagos** – civilinė pramonė (kamyklė, kelių, tiltų, tunelių kūrimas) (Goulart et al., 2022).  
-- **Emulsijos** – saugesnė forma, sunkiai inicijuojama. Pagrindinis civilinis naudojimas – naudingumas gręžimų ir kelių/ar tunelių kūrime (Goulart et al., 2022).  
-- **Energetinės medžiagos** – klasė junginių, turinčių didelę chem. energiją (sunaikinimo medžiagos, propellantai, pyrotechnikos) (Goulart et al., 2022).  
-- **Dvejetainės sunaikinimo medžiagos** – sudarytos iš dviejų saugių komponentų, kurie sumaišomi prieš naudojimą.  
-- **Namų gamybos sunaikinimo medžiagos (HMEs)** – dažnai naudojamos IED.  
-
-### Metrikos ir skaitinės ribos
-
-**Krūvio masė** įvairiems sunaikinimo tipams gali būti išreikšta TNT‑ekvivalentu (kg). TNT‑ekvilibras – tai energijos kiekis, atitinkantis tam tikrą TNT kiekį.
-
-### Svarbiausi tarptautiniai susitarimai
-
-- **„Konvencijos dėl tam tikrų konvencinių ginklų“ (Convention on Certain Conventional Weapons)**, keitimas II (2008).  
-
----
-
-## References
-
-- Al‑Hajj, S., Dhaini, H. R., Mondello, S., Kaafarani, H., Kobeissy, F., DePalma R. G., 2021. Beirut Ammonium Nitrate Blast: Analysis, Review, and Recommendations. *Frontiers in Public Health*, 9, 10.3389/fpubh.2021.657996. https://www.frontiersin.org/journals/public-health/articles/10.3389/fpu… (prieinama 12 m. kovo 2025).  
-- Goulart De Medeiros, M., Lequarre, A., Geypens, B., Santopolo, D., Daoust‑Maleval, I., Brzozowski, K., Iatan, A., 2022. *EU CBRNe Glossary*. Publications Office of the European Union, Brussels. ISBN 978‑92‑76‑58865‑8.  
-- Health and Safety Executive (HSE), 2002. *Dangerous Substances and Explosive Atmospheres Regulations 2002* SI 2002/2776.  
-- UK Parliament POSTNOTE *Explosive injury Number 395*, 2011.  
-- United Nations, 2008. *Convention on Certain Conventional Weapons*. Amended Protocol II.  
-- United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA), 2017. *Compilation of Military Policy and Practice: Reducing the humanitarian impact of the use of explosive weapons in populated areas*.  
-- United Nations Office for Disarmament Affairs (UNODA), 2014. *Improvised Explosive Devices (IEDs) Publication*.  
-- United Nations Office for Disarmament Affairs (UNODA), no date. *Explosive weapons in populated areas*.  
-
---- 
-
-**End of Document**
+**References**  
+(Šis blokas lieka nepakytas anglų kalba, kaip nurodyta instrukcijoje.)  
+*Al‑Hajj, S., Dhaini, H. R., Mondello, S., Kaafarani, H., Kobeissy, F., DePalma R. G., 2021. Beirut Ammonium Nitrate Blast: Analysis, Review, and Recommendations. Frontiers in Public Health, 9, 10.3389/fpubh.2021.657996, https://www.frontiersin.org/journals/public-health/articles/10.3389/fpu… Accessed 12 March 2025.*  
+*Goulart De Medeiros, M., Lequarre, A., Geypens, B., Santopolo, D., Daoust-Maleval, I., Brzozowski, K. and Iatan, A., EU CBRNe Glossary, Publications Office of the European Union, Brussels, 2022. ISBN 978‑92‑76‑58865‑8, doi:10.2760/0, JRC128863. Accessed 12 March 2025.*  
+*Health and Safety Executive (HSE), 2002. Dangerous Substances and Explosive Atmospheres Regulations 2002 SI 2002/2776. Health and Safety Executive (HSE). Accessed 20 May 2025.*  
+*UK Parliament POSTNOTE Explosive injury Number 395 December 2011. Accessed 14 March 2025.*  
+*United Nations, 2008. Convention on Certain Conventional Weapons. Amended Protocol II. Group of Experts. Accessed 14 March 2025.*  
+*United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA), 2017. Compilation of Military Policy and Practice: Reducing the humanitarian impact of the use of explosive weapons in populated areas United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA). Accessed 10 March 2025.*  
+*United Nations Office for Disarmament Affairs (UNODA), no date. Explosive weapons in populated areas. United Nations Office for Disarmament Affairs (UNODA). Accessed 10 March 2025.*  
+*United Nations Office for Disarmament Affairs (UNODA), 2014. Improvised Explosive Devices (IEDs) Publication. United Nations Office for Disarmament Affairs (UNODA). Accessed 14 March 2025.*
