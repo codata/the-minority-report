@@ -1,0 +1,1 @@
+microscopic parasite, cryptosporidiosis, watery diarrhoeal disease, faecal-oral route, Cryptosporidium oocysts, Cryptosporidium parvum, zoonotic waterborne pathogens, transmission through contaminated water, extreme chlorine tolerance, Cryptosporidium hominis and C. parvum

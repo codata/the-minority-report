@@ -1,0 +1,1 @@
+Fire-related technological incidents, effects of fires or explosions, flammable liquids, products of combustion, toxic gases, smoke and vapour, fire-fighting water run-off, hot zone, warm zone, cold zone, primary and secondary contamination, multi-hazard context, Wildfires, flame detectors, Fire Early Warning System

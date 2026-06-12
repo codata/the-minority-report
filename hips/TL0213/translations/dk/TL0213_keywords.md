@@ -1,0 +1,1 @@
+total collapses, partial collapses, excessive deformations, water ingress, fire, explosion, gas incursion, ground instability due to mining activities, tunnelling near weak surface structures, excessive ground settlement, structural collapses, failure during construction, ground support, rock falls and rock bursts

@@ -1,0 +1,1 @@
+total collapses, partial collapses, excessive deformations, water ingress, ground instability, fire and explosion, ground settlement, rock falls and rock bursts, gas incursion, structural collapses, design and construction sequencing, ground support

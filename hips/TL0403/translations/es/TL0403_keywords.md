@@ -1,0 +1,1 @@
+loss of a person from a ship, material damage to a marine vessel, collision, grounding, fire and explosion, engine room flooding, cargo loss, man overboard, operational failure, inadequate risk management, serious marine casualty, Marine incident, Voyage Data Recorders, Safety Management System, Port state control, International Safety Management Code

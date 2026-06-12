@@ -1,0 +1,1 @@
+SARS-CoV-2 coronavirus, droplet transmission, airborne transmission, polymerase chain reaction, rapid antigen tests, nasal/throat swab, Public Health Emergency of International Concern, long COVID, SARS-CoV-2 variants of concern, Early Warning, Alert and Response System, long-range airborne transmission

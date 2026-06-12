@@ -1,0 +1,1 @@
+total collapses, partial collapses, excessive deformations, water ingress, fire, explosion, gas incursion, ground instability due to mining activities, structural collapses, ground settlement leading to damage, design and construction requirements, ground support, water ingress, seismic activity, flooding, operational risks, structural health monitoring

@@ -1,0 +1,1 @@
+precipitation of drops of water,rain develops as a result of small suspended cloud droplets,rainfall intensity,rainfall intensity per hour,rainfall-runoff processes,heavy rain events,rainfall-induced disasters,seasonal variations in rainfall patterns,heavy precipitation,monitoring rain using ground-based rain gauges,waterborne disease outbreaks

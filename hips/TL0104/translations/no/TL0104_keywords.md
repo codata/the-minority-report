@@ -1,0 +1,1 @@
+Denial of service, overwhelming with external inputs, Distributed Denial of Service (DDoS), exhausting computational resources, volume-based attacks, exploiting computational limitations, single source DoS attack, multiple compromised systems, Internet of Things (IoT) devices, flooding the targeted host or network, malicious cyber threat actor, multi-vector attacks

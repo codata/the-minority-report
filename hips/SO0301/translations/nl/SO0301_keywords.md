@@ -1,0 +1,1 @@
+forceful acts or behaviour that are intended to cause harm,physical psychological sexual deprivation,direct structural and cultural violence,political violence,religious violence,ethnic or racial violence,social violence,gender-based violence,violent extremism,gang-related violence,organized crime,psychological violence,torture,intimate partner violence

@@ -1,0 +1,1 @@
+forceful acts or behaviour, physical or emotional acts of aggression, psychological violence, gender-based violence, religious violence, ethnic or racial violence, social violence, gang-related violence, organized crime, terrorism, child abuse and exploitation, torture, sexual violence and exploitation

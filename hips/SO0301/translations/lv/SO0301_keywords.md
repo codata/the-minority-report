@@ -1,0 +1,1 @@
+Violence as intentionally inflicting forceful harm, direct structural violence, political violence, religious violence, ethnic or racial violence, violent extremism, gender-based violence, sexual violence and exploitation, psychological violence, gang-related violence, organised crime, genocide, terrorism

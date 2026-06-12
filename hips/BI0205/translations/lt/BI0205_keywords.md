@@ -1,0 +1,1 @@
+SARS-CoV-2, short-range airborne transmission, droplet transmission, long-range airborne transmission, Public Health Emergency of International Concern, COVID-19 vaccines, polymerase chain reaction, rapid antigen tests, viral genetic material, SARS-CoV-2 variants, Long COVID, genomic surveillance, Early Warning, Alert and Response System

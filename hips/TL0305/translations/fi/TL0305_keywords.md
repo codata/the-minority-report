@@ -1,0 +1,1 @@
+Fire-related technological incidents, effects of fires or explosions, flammable liquids dusts gases and solids, fire-related chemical incident plan, fire damage to buildings, products of combustion and chemicals, monitoring fire, Fire Early Warning System, detect fire hazards, wildfire and fires in urban areas, flame detectors

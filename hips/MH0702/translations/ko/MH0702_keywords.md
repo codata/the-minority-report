@@ -1,0 +1,1 @@
+sea-level oscillations,resonant frequency,standing wave,enclosed body of water,vertical oscillations,node of the wave,strong winds and atmospheric pressure,water rebounds,ocean shelves and ocean harbours,hydrodynamic models,national early warning system

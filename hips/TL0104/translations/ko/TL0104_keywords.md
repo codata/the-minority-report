@@ -1,0 +1,1 @@
+Denial of service, overwhelming with external inputs, Distributed Denial of Service, exploiting computational resources, volume-based attacks, flooding a website, sending malformed requests, initiating infinite loops, single source attack, multiple compromised systems, botnet, denial-of-service condition

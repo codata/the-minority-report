@@ -1,0 +1,1 @@
+microscopic parasite,waterborne pathogens,faecal-oral route,Cryptosporidiosis,Cryptosporidium parvum,oocysts,gastrointestinal tract,zoonotic waterborne pathogens,water distribution systems vulnerability,immunocompromised individuals,shedding of parasites,waterborne outbreaks

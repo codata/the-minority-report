@@ -1,0 +1,1 @@
+vaginal anal and oral sex,mother-to-child transmission,syphilis gonorrhoea chlamydia trichomoniasis,hepatitis B human immunodeficiency virus HIV,herpes simplex virus HSV,human papillomavirus HPV,pelvic inflammatory disease infertility,cervical and anal cancer,antimicrobial resistance AMR of STIs,genital herpes HPV vaccination

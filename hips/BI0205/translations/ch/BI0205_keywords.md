@@ -1,0 +1,1 @@
+SARS-CoV-2 coronavirus, droplet transmission, long-range airborne transmission, Public Health Emergency of International Concern (PHEIC), molecular tests, polymerase chain reaction (PCR), Rapid antigen tests (RDTs), long COVID, SARS-CoV-2 variants of concern (VOCs), Early Warning, Alert and Response System (EWARS), long-term standing recommendations, airborne transmission

@@ -1,0 +1,1 @@
+forceful acts or behaviour,physical or psychological harm,gender-based violence,interpersonal violence,political violence,religious violence,ethnic or racial violence,social violence,psychological violence,gang-related violence,organized crime,intimate partner violence,sexual violence and exploitation

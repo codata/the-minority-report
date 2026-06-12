@@ -1,0 +1,1 @@
+Ebola virus disease (EVD), haemorrhagic fever, zoonotic viral infectious disease, Orthoebolavirus genus, Filoviridae family, reservoir hosts, human-to-human transmission, RT-PCR assay, body fluids, infection prevention and control, wildlife-to-human transmission, contact tracing, monoclonal antibody treatments, Zaire ebolavirus, Ebola pathogenesis

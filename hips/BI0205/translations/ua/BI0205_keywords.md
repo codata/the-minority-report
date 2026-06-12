@@ -1,0 +1,1 @@
+SARS-CoV-2, novel coronavirus (nCoV), Public Health Emergency of International Concern (PHEIC), droplet transmission, airborne transmission, molecular tests, polymerase chain reaction (PCR), rapid antigen tests (RDTs), Long COVID, genomic surveillance, variants of concern (VOCs), Early Warning, Alert and Response System (EWARS), Access to COVID-19 Tools (ACT) Accelerator, COVAX

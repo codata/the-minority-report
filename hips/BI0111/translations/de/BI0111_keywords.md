@@ -1,0 +1,1 @@
+microscopic parasite, cryptosporidiosis, watery diarrhoeal disease, faecal-oral route, Cryptosporidium hominis and C. parvum, environmentally robust oocysts, zoonotic waterborne pathogens, pre-weaning bovine calves, transmission through contaminated drinking water, chlorine tolerance, protozoan parasite, faecally contaminated surfaces, Water distribution systems vulnerability

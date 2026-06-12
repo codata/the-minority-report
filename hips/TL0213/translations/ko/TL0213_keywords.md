@@ -1,0 +1,1 @@
+total collapses, partial collapses, excessive deformations, water ingress, ground instability due to mining activities, structural collapses, excessive ground settlement, fire and explosion risks, gas incursion, failure during construction, inadequate ground support, corrosion of reinforcements

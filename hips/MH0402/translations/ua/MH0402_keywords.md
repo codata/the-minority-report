@@ -1,0 +1,1 @@
+precipitation of drops of water,cloud droplets,rainfall intensity,rainfall-runoff processes,heavy rain events,atmospheric phenomena,monsoon rainfall patterns,one-minute time intervals,measuring accretion,size distribution of raindrops,rainfall hazard criteria,extreme precipitation

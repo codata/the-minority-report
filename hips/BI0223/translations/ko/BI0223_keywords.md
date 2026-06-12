@@ -1,0 +1,1 @@
+Middle East respiratory syndrome coronavirus,zoonotic disease,dromedary camels,natural host,zoonotic reservoir,clinical spectrum of infection,severe acute respiratory disease,respiratory failure,case fatality ratio,health-care-associated outbreaks,human-to-human transmission,cross-contamination

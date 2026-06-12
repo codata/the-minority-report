@@ -1,0 +1,1 @@
+uncontrolled release of water, structural collapse, foundation instability, overtopping, loss of integrity of the dam structure, impounded water release, basal liquefaction, foundation zones, hazard potential classification system, seepage and internal erosion, static and seismic instability, tailings dam failure, hazard creep, risk modeling and flood mapping

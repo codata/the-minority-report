@@ -1,0 +1,1 @@
+Peste des petits ruminants virus,genus Morbillivirus,Family Paramyxoviridae,Order Mononegavirales,live attenuated vaccine,solid immunity,transmission via fomites,spread via bedding feed pasture and water troughs,economic losses,biosecurity,movement control,Global Eradication Programme for PPR,early warning system

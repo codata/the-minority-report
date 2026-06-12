@@ -1,0 +1,1 @@
+physical or psychological harm, political violence, religious violence, ethnic or racial violence, social violence, gender-based violence, sexual violence and exploitation, domestic violence, terrorism, psychological violence, gang-related violence, organized crime, structural violence

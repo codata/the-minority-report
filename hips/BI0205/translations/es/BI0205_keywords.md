@@ -1,0 +1,1 @@
+SARS-CoV-2 coronavirus, droplet transmission, long-range airborne transmission, polymerase chain reaction, rapid antigen tests, viral genetic material, Post-COVID-19 condition, molecular tests, genomic surveillance, SARS-CoV-2 variants of concern, Public Health Emergency of International Concern, long COVID

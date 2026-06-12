@@ -1,0 +1,1 @@
+SARS-CoV-2 coronavirus, droplet transmission, short-range airborne transmission, long-range airborne transmission, polymerase chain reaction (PCR), rapid antigen tests, viral genetic material, nose and/or throat swab, long COVID, Public Health Emergency of International Concern (PHEIC), genomic surveillance, variants of concern (VOCs), thromboembolism

@@ -1,0 +1,1 @@
+MERS-CoV, zoonotic disease, dromedary camels, zoonotic reservoir, human-to-human transmission, health-care-associated outbreaks, case fatality ratio, respiratory failure, pulmonary disease, gastrointestinal symptoms, food hygiene practices, risk management, public health prevention strategies
