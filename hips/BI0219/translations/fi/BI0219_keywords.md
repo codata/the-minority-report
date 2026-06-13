@@ -1,0 +1,1 @@
+Plasmodium parasites,Anopheles mosquitoes,malaria vectors,P. falciparum,P. vivax,malaria-endemic countries,malaria diagnosis,parasite-based diagnostic testing,malaria rapid diagnostic tests,malaria elimination,insecticide-treated nets,indoor residual spraying,antimalarial drug resistance,malaria surveillance,Early Warning, Alert and Response System (EWARS)

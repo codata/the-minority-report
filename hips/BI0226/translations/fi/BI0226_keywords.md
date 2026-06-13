@@ -1,0 +1,1 @@
+Salmonella typhi, contaminated food or water, bloodstream spread, systemic infection, intestinal lining invasion, typhoid conjugate vaccine, typhoid-endemic countries, antibiotic resistance, typhoid vaccination, safe drinking water, sanitation and hygiene, multidrug-resistant strains

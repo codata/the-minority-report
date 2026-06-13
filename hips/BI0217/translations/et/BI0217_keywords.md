@@ -1,0 +1,1 @@
+pathogenic bacterium of the genus Leptospira,direct contact with urine of infected animals,urine-contaminated environment,saprophytic halophilic leptospires,renal tubules of certain animals,disease of epidemic potential,heavy rainfall or flooding,Weil’s syndrome,renal failure and myocarditis,animal reservoir density,exposure to contaminated water,human-to-human transmission

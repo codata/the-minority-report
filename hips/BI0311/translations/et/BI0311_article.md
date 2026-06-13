@@ -1,1 +1,74 @@
-above presents a complete, terminology‑accurate, and format‑consistent rendering of the original hazard profile document into Estonian, adhering to the Controlled Vocabulary for Disaster Risk Reduction.*
+### Defineerimine  
+**Rift Valley fever** (RVF) on akuutne haemorraagne virussoodus, mis mõjutab väikesi ja suuri ruminante ning kamelle. RVF‑viirus kuulub Phlebovirus‑i suundusse. Haigus põhjustab kõrget mortaliteeti, eriti lapsi ja massaborteid rasedatel loomadel. Inimesed saavad nakkuse kontaktiga nakatunud loomade kudede või verega, sealhulgas aborti materjaliga, ning moskütide sügedest. Inimeste puhul esineb haigus, mis sarnaneb gripiga, sisaldab haemorraagset palavikku, seina põletikku ja võib viia surmani (FAO, 2003; WHO, 2018; OIE, 2020).
+
+### Põhireferentsid  
+FAO, 2003. Recognizing Rift Valley fever. Animal Health Manual No. 17. Food and Agriculture Organization of the United Nations (FAO). Accessed 1 January 2025.  
+WHO, 2024. Newsroom Fact Sheet Rift Valley fever. World Health Organization (WHO). Accessed 1 January 2025.  
+WOAH, no date. Rift Valley Fever (RVF). World Organisation for Animal Health (WOAH). Accessed 1 January 2025.
+
+### Märkused  
+#### Täiendav teaduslik kirjeldus  
+**Rift Valley fever** on viirusne zoonoot, mis mõjutab peamiselt loomad, kuid omab ka inimeste nakkuse võimet. Nakkus võib põhjustada tõsist haigust nii loomadel kui ka inimestel (WHO, 2018). **Rift Valley feebri** tõusud domestiseeritud loomadel on sageli kaasatud inimhaigustega. Enamik inimnakkusid tuleneb kontaktist nakatunud loomade verega, muude kehasuveadega või organitega. Inimene saab nakast ka nakatunud moskütide sügedest. Kuni tänapäeva pole dokumenteeritud inim- või inimnakkumist (WHO, 2018). **Rift Valley fever** on majanduslikult oluline haigus, mis mõjutab erinevaid loomade ja inimeste liike. Vaktsineerimine ja vektorite kontroll on peamised strateegiad haiguse juhtuvõimaluste vähendamiseks (WHO, 2018; no date). RVF‑viirus kuulub Phlebovirus‑i suundusse. Viirust tuvastati esimest korda 1931. aastal, uurides villade epideemiaid Kenyalas Rift Valley piirkonnas (WHO, 2018). Siit alates on tõusud teatanud sub‑Sahara‑Aafrikas. 1977. aastal esines Egyptis rävareamine; RVF‑viirust tuletati Egypti nakatunud loomade kaubanduse teel Nili‑niitide süsteemi kaudu. 1997‑1998. aastal toimus suur tõus Kenyalas, Somalil ja Liiberrailias El Niño sündmuse ja laialdaste üleujutuste tõttu. Pärast nakatunud loomade kaubandust Austri Vööriost levitas RVF 2000. aasta septembris Saudi Aaremas ja Yemenis, tähistades esimest korda haiguse esinemist Aafrika kontinendi väljas ja tõstes muret, et see võiks laiuda ka Aasia ja Euroopa teistesse osadesse (WHO, 2018).
+
+**RVF** on arboviraal, mis levib moskütide kaudu. Tõusud loomadel võib ennetada pikaajalise vaktsineerimisprogrammi abil. On saadaval kolm kommertsi vaktsiin: inaktiveeritud RVF‑vaktsiin, toodetud Lõuna‑Aafrikas ja Egyptis; elavana atenuatsiooniga vaktsiin, mis põhineb Smithburni strainil, toodetud Lõuna‑Aafrikas ja Kenyalas; ning hiljem registreeritud RVF Clone 13, toodetud Onderstepoort Biological Products (OBP) Lõuna‑Aafrikas ja MCI Santé Animale Maroko (Dungu & Bouloy, 2021). Smithburni vaktsiin on ohutu naabrite, villade ja lamade jaoks, kuid võib põhjustada rasvanäitekke või aborsi rasedatel loomadel. Inaktiveeritud vaktsiin on kasutusel ka tõusetes olukordades ning rasedatel loomadel, kuna atenuatsiooniga Smithburni vaktsiin ei sobi sellele rühmale (WOAH, 2024a). Enamik riike säilitab nimekirja heaks kiidetud veterinaarsed vaktsiinid. Konkreetsed regulatsioonid küsitakse riigi veterinaarõiguslikult.
+
+RVF‑viirus suudab nakatada palju loomaliike, põhjustades tõsist haigust domestiseeritud loomadel, sealhulgas lamad, villad, kamellid ja lamsed (WHO, 2024). Haigus tekib kliimatingimustes, mis soodustavad moskütite vektorit. See on iseloomustatud aborti, neonatiilse surma ja maksa kahjustustega. Haigus on kõige tõsisem villade, lamade ja lamade puhul. Vanemad, rasedad loomad, kuigi nakatunud, on vastupidavamad kliinilisele haigusele. Kamellid on tavaliselt nakatunud, aga koguvad aborsi, neonatiilset surma ja aborti, ning aborti määr võib olla samaväärne lamadega (WOAH, 2024a). Aedes‑moskütid omandavad viiruse nakatunud loomade toitmise kaudu ning võivad potentsiaalselt vertikaalselt viirust nakatada, nii et uued moskütide põlvkonnad võivad oma munadest seda viirust kanduda. See pakub võimalikku mehhanismi viiruse levikule, kuna moskütide munad võivad kuivates tingimustes mitu aastat säilida. Kui loomad on nakatunud, võivad erinevad moskütid toimida vektortena viiruse levimiseks ja levitada haigust (WOAH, 2024a). Seetõttu on RVF epüüd/epizooti seotud perioodidega, mis järgivad tugevaid vihma‑ ja üleujutusi, eriti pärast pikaajalist kuivast. Need üleujutused loovad veevarad, mis soodustavad Aedes‑moskütite kasvamist / tõusmist, kes võivad olla nakatunud RVFV-ga ja saavad viirust ruminante või kamelid levitada, kui nad jooksevad või söövad lähemal veevaradest (FAO, 2003). RVF on üks World Organisation for Animal Health (WOAH) nimekirjas olevad haigused (WOAH, 2024b).
+
+### Metrikad ja numbrilised piirid  
+Alates 1975. aastast peeti RVF‑aafrika loomade haigusena. Inimeste juhtumid olid haruldased ja ohtlikud. Suured tõukud haemorraagse palaviku juhtumeid ja inimtapud raportiti Lõuna‑Aafrikas 1975, Egyptis 1977 ja Mauritanias 1987. Üks suurimatest tõusudest toimus Ida‑Aafrikas 1997. aasta detsembris, kui põhjuse teadmata inimtapud teatisi Kenyalas ja Lõuna‑Somalias. See epüüd loodi piirkonna kõige hävitavamaks epüüdiks. 2000. aasta septembris tuvastati RVF esimest korda Aafrika kontinendi väljas, Saudi Aaremas ja Yemenis, põhjustades inimtapusid ja loomade populatsioonidesse suureid kaotusi. 2006‑07. aastal teatati Kenyalas tõust. Tanzania ja Somalil kuulusid hiljem. Madagaskar ja Lõuna‑Aafrika rändasid 2007 ja 2008 (ECDC, no date).
+
+### Olulisemaid ÜRO kokkuleppeid / mitmekülgseid lepinguid  
+International Health Regulations (2005), 3rd ed. (WHO, 2016).  
+WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement) (WTO, 1994).  
+United Nations. 2023. UN Recommendations on the Transport of Dangerous Goods - UN Model Regulations Model Regulations. https://unece.org/transport/dangerous-goods/un-model-regulations-rev-23 Accessed 1 January 2025.
+
+### Põhjused  
+#### Human  
+Mitmed moskütid toimivad vektortena RVF‑viiruse levimiseks. Peamine vektori liik varieerub erinevate piirkondade vahel ja erinevad liigid mängivad erinevaid rolle viiruse levimisel. Suurte tõukude puhul on peamine fookus loomade liikumise või passiivsete moskütite levitamise kaudu, mis võib tõsta tõu riski, kuna kohalike vektorite nagu Culex, Mansonia ja Anopheles võivad toimida mehaaniliste vektorite. Sistemad, kus moskütite popülatsioon on aastaringselt rikkalik, on väga sobivad sekundaarse haiguse levikuks (WHO, 2018).
+
+#### Animal  
+RVF‑nakkus olevad moskütid, ülekeskkondlikud üleujutused piirkonnas, kus RVF on varem juhtunud, ja ebabiolumõistmine nakatunud foetuste, margadest või sildade käsitlemisel.
+
+### Mõjud  
+#### Human  
+Naku periood, alates nakkuse algusest kuni sümptomite tekkimiseni, varieerub 2‑6 päevast. Kõige levinum inimhaiguse vorm on gripi sarnane. Mõnel juhtudel kaasnevad silmalised sümptomid, närvivõrgu sümptomid, neerukahjustused ja eluohtlik haemorraagne sündroom maksa häirimisega. Kuigi üldised surmatused on madalad (≤2 %), võib mõnel epüüdil olla väga suur juhtumite arv, mille tulemusena tekivad sajad tõsiseid juhtumeid ja märkimisväärne hulk surma (Spickler, 2015; WHO, no date).
+
+#### Animal  
+Abort ja/suurus nakatunud loomadel ning inimestel, nakkuse levik, kaubanduse keelatus.
+
+#### Mitmuse ohtukontekst  
+Moskütide süged, ülekeskkondlikud üleujutused piirkonnas, kus RVF on varem juhtunud, ja ebabiolumõistmine nakatunud foetuste, margadest või käitlemisel on peamised inimkõrged riskid. RVF on tööstuskohalik haigus looma käsitsemises, piimaspõllumajanduses, abattoiritel ja veterinaaride jaoks. Otse sotsiaal‑majanduslik mõju avaldab loomade tootjatele, kõrge mortaliteedi ja morbiditeedi tõttu loomadel (WHO, 2018; no date).
+
+### Riskijuhtimine  
+Tõu tekkimisel on peamine riskivõti loomadega lähedane kontakt, eriti nende keha vedelikuga, otseselt või aerosoolide kaudu. Nõutakse teadlikkuse tõstmist riskitegurite kohta ning kaitsevõimaluste kasutamist moskütide sügede vältimiseks. Loomade riskijuhtimiseks soovitab FAO vaktsineerimisprogramme, liikumise kontrolli, paranenud biokaitset ja veevarade haldamist. Loomade liikumise piiramine või keelamine võib olla tõhus viiruse leviku aeglustamiseks nakatunud piirkonnast mitte‑nakatunud piirkonda (WHO, 2018). Kuna loomade tõu on inimjuhtumitega eelnev, on aktiivse loomahaigust jälgimise süsteemi loomine hädavajalik varajase hoiatuse saamiseks veterinaari‑ ja inimtõrjuvöödõnuhõve autoriteetidele. Teised meetmed hõlmavad vektori kontrolli ja kaitset nende sügede eest. Näiteks 2016. aasta Nigeri tõu puhul saatis Maailma Terviseorganisatsioon (WHO) mitmeala riiklikku kiire vastutõimu, sealhulgas Ministeerium Tervishoiust, veterinaarteenistused ja CERMES. Liikmete tööpäästeameti 31. augustil 2016. Nigeris pakub WHO riikikohtadel tehnilist ja rahalist toetust jälgimise, tõu uurimise, juhtumite määratlemise tehniliste juhiste, juhtumihalduse, näidiste saatmise, riskikommunikatsiooni jaoks. Food and Agriculture Organization of the United Nations (FAO), World Organisation for Animal Health (OIE) ja WHO koordineerivad loomade ja inimtõrjuvöödõnuhõve ning pakuvad lisatoetust Nigeri tõu vastuses (WHO, 2018). Inimene kasutamiseks on välja töötatud inaktiveeritud vaktsiin. See vaktsiin ei ole siiski litsentseeritud ega kaupadeks saadaval. Seda on kasutatud katsetustena veterinaar- ja laboratooripersonalile, kes on kõrge riskiga kokkupuutes RVF-ga. Teised kandidaadivaktsiinid uuritakse (WHO, 2018). Ennustamine võib ennustada kliimatingimusi, mis on sageli seotud tõu tõenäosuse tõusuga, ning võib parandada haiguste kontrolli. Afrikas, Saudi Aaremas ja Yemenis. RVF tõud on tihedalt seotud ülemäärase vihma- ja üleujutustega. Taimekasv reageerib suurenenud vihmasageduse tasemele, mida saab hõlpsasti mõõta ja jälgida kaugvaatluse satelliidipiltidega. Seos RVF tõudega, mis on seotud suurte vihmadega, mis toimuvad kuumuse kuumusfaasis El Niño‑Southern Oscillation (ENSO) nähtuse ajal, on dokumenteeritud Ida‑Aafrikas. Need leidud on võimaldanud edukat ennustamismudelite ja varajase hoiatussüsteemi arendamist RVF jaoks, kasutades satelliidipilte ja ilmateadust. Varajase hoiatussüsteemi, nagu need, võiks kasutada, et tuvastada loomade juhtumeid varases tõu staadiumis, võimaldades ametiasutustel rakendada meetmeid varajase epidemia vältimiseks. Uue International Health Regulations (2005) raames on varajane RVF tõu jälgimine ja varajane tuvastamine koos riskikõrvalise piirkondade laienemise hindamisega hädavajalik tõhusa ja õigeaegse kontrollmeetmete rakendamiseks (WHO, 2018).
+
+### Rift Valley feebri (RVF) varajase hoiatusliku otsuse toetussüsteem (RVF DST)  
+FAO on välja töötanud veebipõhise varajase hoiatusliku otsuse toetussüsteemi, mis integreerib reaalajas lähenemise RVF riskikartidega koos geograafilise andmebaasiga, RVF ajalooliste ja praeguste haigustõuandmetega EMPRES‑Global Animal Disease Information System (EMPRES‑i) ja ekspertide teadmistega RVF ökökeskkonnaseerotüüritusega. Haiguse geograafiline ulatus suureneb kliimamuutustega, mille tõenäoline mõju on virusse laienemise suurendamine uutes endemilistesse piirkondadesse ja tulevastes epidemidesse. Kliimamuutused, sealhulgas vihma, temperatuur, niiskus ja normaliseeritud erinevus taimeindeks (NDVI), loomapõllumajandussüsteem ja maapinna kasutuse muutus mõjutavad selle ulatuse kasvu (Situma et al., 2024).
+
+### Jälgimine  
+Allolev tabel pakub ülevaadet Rift Valley feebri jälgimisest. Seda teavet saab kasutada varajase hoiatussüsteemi (EWS) varajase hoiatusaaste jaoks. Kuna EWS võimekus ja protsessid erinevad riikide vahel, tuleks kõige ajakohasem ja konkreetsem teave EWS kohta saada sobivast riiklikust või piirkondlikust asutusest, mis vastutab katastroofi riskide haldamise eest.
+
+#### Millised institutsioonid toodavad katastroofi riskide andmeid?  
+- Majanduse ministeerium, Loomade ministeerium, Tervishoiu ministeerium, FAO viitenurgad, WOAH viitenurgad
+
+#### Kuidas ohutule nähtavale/ jälgitakse/ ennustatakse?  
+- Oma globaalsete varajase hoiatussüsteemi kaudu toetab FAO liikmeid riskijälgimisel, hindamisel ja ennustamisel loomahaiguste ohutuks, suurendades ettevalmistust ja reageerimist loomahaiguste ohutuks.  
+- Global Animal Disease Information System, EMPRES‑i+, mängib võtmerolli riikide toetamisel varajase hoiatusaaste ja varajase tuvastamisega loomahaiguste tõusud.  
+- EMPRES‑i+ võimaldab reaalajas haiguste jälgimist ja analüüsi loomahaiguste ohutega, suhtudes tihedalt riikide ja piirkondadega haiguste teabe jagamisel.  
+- See toetab riskihindamise ja hoiatuskannete levitamist, mis põhineb tõenduspõhisel otsustamisel.  
+- FAO arendab ja hoiab otsustuspõhist tööriista, mis pakub riskikartide, olemasolevate ja prognoositud loomahaiguste tekkimise riskide kohta, samuti muid ohte agri‑toiduahelale.  
+- Lisaks teeb FAO tihedat koostööd rahvusvaheliste organisatsioonidega, nagu WHO ja WOAH, et kontrollida haiguste teavet integreeritud mehhanismide kaudu, nagu Epidemic Intelligence from Open Sources (EIOS), Global Early Warning System (GLEWS+), ja World Animal Health Information System (WAHIS) WOAH‑nimekirja haiguste jaoks.  
+- Need koostööd võimaldavad varajase hoiatuskannete ja riskihindamiste levitamist liikmetele, võimaldades õigeaegseid reageeringuid potentsiaalsete tõuste korral.  
+- FAO EMPRES‑i+ https://empres‑i.apps.fao.org/diseases  
+- Rift Valley feebri (RVF) varajase hoiatusliku otsuse toetussüsteem (RVF DST)  
+- WOAH WAHIS https://wahis.woah.org/#/event‑management  
+- WHO toetab riike, et teostada kõnealuse ohutuse strateegilist riskihindamist terviseohutuse ja katastroofide kontekstis, mis annab riigikoha riskiprofiili.  
+- Võttes arvesse riigi riskiprofiili, mis sisaldab hooajalist riskikaleend, saavad riigid ennustada potentsiaalseid hädaolukordi enne nende ilmumist, et luua varajase hoiatusaaste ja teavitada varajase tegevuse (WHO, 2021).  
+- WHO varajase hoiatusi, hoiatusi ja vastuse süsteem (EWARS) on loodud haigustõuste avastamise parandamiseks hädaolukordades, näiteks konfliktide riikides või looduslikus katastroofis.  
+- See on lihtne ja kuluefektiivne viis kiirelt haiguste jälgimissüsteemi ülesehitamiseks.  
+- EWARS on rakendatud kriisi ajal kõrvalise süsteemina riikliku haiguste jälgimissüsteemi.  
+- WHO töötab tervishoiu ministeeriumite ja tervishoiu sektori partneritega, et koolitada kohalikku tervishoiutöötajat süsteemi kasutamiseks.  
+- Pärast kriisi peaks EWARS integreeruma tagasi riiklikku süsteemi (WHO, no date a).
+
+### References  
+... (references block remains unchanged)

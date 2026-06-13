@@ -1,0 +1,1 @@
+soil erosion caused by wind and/or water,deterioration of the physical chemical and biological properties of soil,long-term loss of natural vegetation,soil degradation,vegetation degradation,water degradation,loss of agricultural productivity,soil loss from conventionally tilled land,water erosion,salinisation,land degradation neutrality

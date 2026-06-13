@@ -1,0 +1,1 @@
+suicide cluster definition,time cluster,space-time clusters,point clusters,media-related phenomena,contagion of suicide,clustering and contagion of suicide,geographic hotspots,adolescents and young adults,mass suicide

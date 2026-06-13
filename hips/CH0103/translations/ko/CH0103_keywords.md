@@ -1,0 +1,1 @@
+highly toxic heavy metal,cumulative toxicant,neurological damage,lead poisoning,lead sulfide,lead-acid batteries,leaded petrol,lead-based paints,lead-glazed ceramics,blood lead levels,lead in tap water,lead in soil and sediment,lead-soldered fittings

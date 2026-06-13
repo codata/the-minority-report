@@ -1,0 +1,1 @@
+low-pressure system,latitudes outside the tropics,horizontal temperature contrasts,temperature gradient in meteorology,mid-latitude or baroclinic storms,cold fronts, warm fronts,occluded fronts,strongest winds near the tropopause,warm-core in the stratosphere,cold-core in the troposphere,strong horizontal temperature gradients,jet stream intensity

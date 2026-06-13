@@ -1,0 +1,1 @@
+increased production of organic matter, nitrogen and phosphorus,nutrient loading,algal blooms,hypoxic or anoxic conditions,nutrient runoff,chlorophyll-a concentration,dissolved oxygen percentage saturation,biomagnification,hydrogen sulfide production,persistent organic pollutants (POPs) accumulation,dead zones

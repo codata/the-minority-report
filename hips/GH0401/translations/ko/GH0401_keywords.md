@@ -1,0 +1,1 @@
+volumetric change when subject to mechanical loading,compaction,consolidation,settlement,compressive stress,pore volume changes,organic-rich soils,peat soils,surface ponding of water,differential settlement,compaction-related soil degradation

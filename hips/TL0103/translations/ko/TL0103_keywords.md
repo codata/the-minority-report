@@ -1,0 +1,1 @@
+prolonged and targeted cyber-attack, unauthorized user gains access, observe network activity, steal data, cause disruptions, exploit vulnerabilities, spear-phishing, zero-day vulnerabilities, lateral movement, privilege escalation, deploying backdoors, rootkits, data exfiltration, supply chain attacks, cloud infrastructure

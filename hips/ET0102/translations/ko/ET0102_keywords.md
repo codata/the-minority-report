@@ -1,0 +1,1 @@
+ionospheric parameters, ionospheric variations, radio-wave propagation, free electrons, solar irradiance, particle precipitation, ionospheric storm, electron concentration, F2 region, geomagnetic storm, solar particle events, radio communication disruption, GNSS navigation errors, satellite drag, ionospheric density, space weather events

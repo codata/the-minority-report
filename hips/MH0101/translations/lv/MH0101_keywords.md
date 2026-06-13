@@ -1,0 +1,1 @@
+violent and damaging downdraught, strong downdraft that induces damaging winds, Microburst classification, Macroburst classification, damaging straight-line winds, evaporative cooling and precipitation drag, localized columns of sinking air, non-rotational wind events, downburst-related aviation hazards, monitoring using Doppler radar

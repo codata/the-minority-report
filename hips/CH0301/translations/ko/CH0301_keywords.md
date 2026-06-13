@@ -1,0 +1,1 @@
+reactive gas, corrosive damage to mucous membranes, total ammonia-nitrogen (NH3-N), anhydrous ammonia, ammonium hydroxide, industrial refrigeration systems, bulk quantities transport, emergency response planning guidelines, real-time monitoring sensors, ammonia spillage prevention

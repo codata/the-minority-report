@@ -1,0 +1,1 @@
+land degradation, arid semi-arid zones, drylands, blown and undulating sand sheets, mobile dunes, biomass productivity, arable land loss, overgrazing, unsustainable agricultural practices, deforestation, drought and climatic variations, forced migration, Land Degradation Assessment in Drylands

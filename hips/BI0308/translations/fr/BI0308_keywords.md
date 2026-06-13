@@ -1,0 +1,1 @@
+avian paramyxovirus type 1,NDV infecting humans,zoonotic potential,poultry disease,endemic in village chickens,AOAV-1 serotype,Paramyxoviridae family,reservoir hosts,haemorrhagic lesions,neurotropic,droplets and aerosolised mucus,ingestion of contaminated faeces,live and inactivated vaccines,tropism for respiratory enteric and nervous systems

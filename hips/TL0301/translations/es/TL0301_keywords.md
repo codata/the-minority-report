@@ -1,0 +1,1 @@
+uncontrolled release of a toxic substance, chemical leaks and spillages, corrosion of the container, rough handling of containers, interfaces between transport and storage, pollution of coastal and offshore waters, containment of liquid chemicals, hot zone, warm zone, cold zone, prevention and control measures, environmental monitoring

@@ -1,0 +1,1 @@
+interface/intertidal zone, high salinity, extreme tides, strong winds, high temperatures, muddy, anaerobic soils, sediment erosion, extreme storm surges, coastal protection, climate change mitigation, mangrove deforestation, coastal squeeze, mangrove restoration potential, ecosystem services

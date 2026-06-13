@@ -1,0 +1,1 @@
+acute haemorrhagic viral disease,Phlebovirus genus,viral zoonosis,animal vaccination,vector control,RVF virus (RVFV),arbovirus,Aedes mosquitoes,floods and mosquito pools,livestock trade,Early Warning Decision Support Tool

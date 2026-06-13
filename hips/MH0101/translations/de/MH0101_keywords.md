@@ -1,0 +1,1 @@
+violent and damaging downdraught,strong downdraft,outburst of damaging winds,Microburst,Macroburst,localized columns of sinking air,evaporative cooling and precipitation drag,drivers of hazardous wind events,rapid changes in wind speed and direction,Doppler radar monitoring,downburst-related aviation accidents

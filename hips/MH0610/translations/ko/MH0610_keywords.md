@@ -1,0 +1,1 @@
+snowmelt flood,melting of snowpack,meltwater runoff,rate of melting,severity of meltwater floods,heavy snow cover,frozen ground,snow water equivalent,soil water deficit,flash floods,riverine floods,landslides and debris flows,snowmelt dynamics,snowpack sensors,streamflow observation

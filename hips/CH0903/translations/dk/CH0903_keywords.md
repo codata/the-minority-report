@@ -1,0 +1,1 @@
+chemical warfare agents,dual-use chemicals,blistering agents,mustard gas,blood agents,hydrogen cyanide,choking agents,chlorine and phosgene gas,nerve agents,Sarin and VX gas,Schedule 1 chemicals,Schedule 2 chemicals,Schedule 3 chemicals,precursors,General Purpose Criterion

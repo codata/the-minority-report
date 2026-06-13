@@ -1,0 +1,1 @@
+snowmelt flood,melting of snowpack,meltwater runoff,rate of melting,heavy snow cover,frozen ground,meltwater floods,landslides and debris flows,snow water equivalent,accumulation and ablation model,early warning system,soil moisture conditions

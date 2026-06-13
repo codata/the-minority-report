@@ -1,0 +1,1 @@
+sudden onset of muscle and joint pain, fever, bleeding and shock, haemorrhaging from orifices and internal organs, inadequate infection control practices, vector control programmes, Arenaviridae, Filoviridae, Flaviviridae, reservoir, personal protective equipment (PPE), person-to-person spread, mosquito bites, rodent excreta, Ebola virus

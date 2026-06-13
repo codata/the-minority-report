@@ -1,0 +1,1 @@
+lava flow units, lava flow lobes, lava flow field, pillow lavas, aʻā flows, pāhoehoe flows, lava spines, lava coulées, viscous lava domes, lava dome collapse, block-and-ash flows

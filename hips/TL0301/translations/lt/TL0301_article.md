@@ -1,57 +1,69 @@
-### Apibrėžimas  
-Pūska arba nuotėkis – įvykis, susijęs su nevaldomu toksinės medžiagos išleidimu, galinčiu sukelti sveikatai ir aplinkai žalą. Chemikinių incidentų gali įvykti dėl gamtinių įvykių, atsitiktinių ar ketinamų įvykių. Šie įvykiai gali būti staigi ir akutinis arba turėti lėtą pradžią, kai vyksta „tylus“ chemikalų išleidimas. Pūska ir nuotėkis gali svyruoti nuo mažų išleidimų iki didelių nelaimingų atvejų (pritaikyta pagal WHO, ne data).
+**Definition**  
+Kemos išleidimas – tai įvykis, susijęs su nesaugiu, toksinės medžiagos išleidimu, kuris gali sukelti sveikatai ir aplinkai žalą. Kemos incidentai gali atsirasti dėl gamtinių įvykių arba dėl netyčinio ar ketinančio veiksmo. Šie įvykiai gali būti staigūs ir akūri arba turėti lėtinę pradžią, kai „tiesioginis“ chemikalų išleidimas vyksta tyliai. Kemos išleidimai gali prasidėti nuo nedidelių išleidimų iki pilno masto didelių neskaičiuojamų nelaimingų atvejų (adaptuota iš WHO, be datos).
 
-### Pagrindiniai šaltiniai  
-- WHO, ne data. Chemikų incidentai. World Health Organization (WHO). Prieiga 14 vasario 2025.
+**Primary reference(s)**  
+WHO, no date. Chemical incidents. World Health Organization (WHO). Accessed 14 February 2025  
 
-### Papildoma mokslinė apibrėžtis  
-Skirtingi pavojingi cheminiai junginiai gali būti išleisti per pūska ir nuotėkis, įskaitant, bet neapsiribojant dujomis (CH0300, CH0400), sunkiaisiais metalais (CH0100), pesticidais (CH0501), pastoviais organiniais taršos agentais (CH0500), dioxinais (CH0502) ir hidrokarbūnais (CH0203). Trijų išskirtinių technologinių incidentų pavyzdžiai: Seveso chemikalų nuotėkis, Bhopal chemikalų nuotėkis ir Exxon Valdez naftos nuotėkis.
+**Annotations**  
 
-### Seveso chemikalų nuotėkis  
-Apie 12:37 vasario 10 d. 1976 m. išskyrimo diskas cheminiame reakcijos aparate „Icmesa“ Seveso, Italijoje, sudėjo. Priežiūros personalas išgirdo švytėjimo garsą, o iš dangčio iššvedė garų debesį. Tamsi balta debesė, didelės aukščio, atsirado už vietos. Debesėje buvo nedidelė 2,3,7,8‑tetrachlorodibenzo‑p‑dioxinas (TCDD) dalis, labai toksiška medžiaga. Išleidimas truko dvidešimt minučių. Per kelias dienas iškilo painiava dėl bendravimo trūkumo tarp įmonės ir valdžios, susijusio su tokio tipo situacija. Netoli Seveso (15 mylių nuo Milano) buvo 17 000 gyventojų. TCDD nebuvo susijęs su žmogaus mirtimi, tačiau daugelis žmonių susirgė. Tūkstančiai gyvūnų mirė ir daugybė kitos nuėmėti, kad būtų užkirstas kelią TCDD įgyti maisto grandinę (HSE, ne data).
+### Additional scientific description  
+Skirtingi pavojingi chemikai gali išsiskirti kemos išleidimų metu, įskaitant, bet neapsiribojant, dujomis (CH0300, CH0400), sunkijais metalais (CH0100), piktvaržais (CH0501), terpiniam organiniu taršai (CH0500), dioxinais (CH0502) ir hidrokarbonais (CH0203). Trijų reikšmingų technologinių incidentų pavyzdžiai, susiję su kemos išleidimais, yra Seveso kemos išleidimas, Bhopal kemos išleidimas ir Exxon Valdez naftos išleidimas.
 
-### Bhopal chemikalų nuotėkis  
-1976‑dešimtmetį, 3 gruodžio 1984 m., daugiau nei 40 tonų metilisoikianato dujų išsiveržė pesticidų gamyklos „Bhopal“, Indijoje. Dujos išsivėrė aplinkomis, sužudydamos tūkstančius žmonių iš karto. Įvykis taip pat sukėlė ilgalaikį sveikatos poveikį, nurodant, kad per metus po nuotėkio mirė daugiau nei 15 000 žmonių. Šis įvykis pabrėžė tarptautinių standartų būtinybę aplinkos saugumo srityje, prevencijos strategijų ir pramoninės nelaimingos situacijos paruošimo (Broughton, 2005).
+#### Seveso kemos išleidimas  
+Apie 12:37 balandžio 10‑ąjį 1976‑m. išsivysčio diskas chemikinio reaktoriaus įrenginyje „Icmesa“ „Seveso“, Italija. Priežiūros personalas girdėjo švilpimą, o nuo pastato danga išdūmėjo garų debesys. Didelis balta debesis, kuri buvo aukšto aukščio, judėjo už vietos. Tarp balto debesio medžiagų buvo maža „2,3,7,8‑tetrachlorodibenzo‑p‑dioxin“, labai toksinė medžiaga. Išleidimas truko dvidešimt minučių. Kitų dienų metu kilo painiava dėl komunikacijos trūkumo tarp įmonės ir valdžios institucijų. Artimiausias „Seveso“ miestelis, 15 mylių nuo Milano, turėjo 17 000 gyventojų. Nė vienas žmogus mirė dėl TCDD, tačiau daugelis žmonių įsivargino. Tūkstančiai gyvūnų užterštoje aplinkoje mirė, o daugelis buvo pašalinti, kad TCDD neįžastų į maisto grandinę (HSE, no date).
 
-### Exxon Valdez naftos nuotėkis  
-24 kovo 1989 m. naftos talvis „Exxon Valdez“ sulpijo ant išvardyto uolų, „Bligh Reef“, Alžės „Prince William“ garsioje pakrantėje. Daugiau nei 11 milijonų litrų naftos buvo išsiveržusi, galiausiai užteršusi daugiau nei 30 000 km² pakrantės ir jūrų vandenų (Peterson et al., 2003).
+#### Bhopal kemos išleidimas  
+3‑ąją spalio 1984‑m. daugiau kaip 40 tonų metilisozinato dujos išsiskyrė iš piktvaržų gamyklos „Bhopal“, India. Duja pasiklydo per tankiai apgyvendintus kaimynystes aplink gamyklą, išvyravo tūkstančius žmonių iš karto. Išleidimas taip pat turėjo ilgalaikės sveikatos pasekmių, įskaitant daugiau nei 15 000 žmonių, mirusių po įvykio. Šis įvykis pabrėžė tarptautinių saugumo standartų privalomumą, prevencines strategijas ir pramonės nelaimingų atsitikimų pasirengimą (Broughton, 2005).
 
-### Technologiniai incidentai  
-Chemikalų nuotėkiai ir pūska gali būti staigi ir akutinis, kai pavojingi cheminiai junginiai „išskiriami“ aplinkai. Kai kurie nuotėkiai gali sukelti gaisrus, išsiveržimus ir žemės taršą. Veiksniai, vedantys prie incidentų, apima prastą pramoninės ir saugojimo įrangos priežiūrą, reglamentų trūkumą ar prastos įgyvendinimo praktiką, kelių eismo nusižengimus, žmogaus klaidas, gamtinį įvykį (pavyzdžiui, stipri lietus, žemės drebėjimai, uraganai, potvyniai) ir terorizmą (WHO, ne data).
+#### Exxon Valdez naftos išleidimas  
+24‑ąją birželio 1989‑m. naftos tankeris „Exxon Valdez“ sutyrėjo ant planėto uolės „Bligh Reef“, esamos Alžkio šiauriniame „Prince William“ apskritime. Daugiau nei 11 milijonų litrų grynos naftos išleido, galiausiai užterštų daugiau nei 30 000 km² pakrantės ir užvirkštinant vandenis (Peterson et al., 2003).
 
-### Pagrindiniai terminai ir sąvokos  
-- **Chemical spill** – chemikalų nuotėkis  
-- **Chemical leak** – chemikalų pūska (nevaldomas išleidimas)  
-- **Toxic substance** – toksinė medžiaga  
-- **Hazardous chemicals** – pavojingi cheminiai junginiai  
-- **Exposure pathways** – pažeidimo kelių  
-- **Hot zone** – karšta zona  
-- **Warm zone** – šilta zona  
-- **Cold zone** – šaltas zona  
-- **Decontamination line** – decontaminacijos linija  
+Technologiniai incidentai, tokie kaip kemos išleidimai, gali būti staigūs ir akūri, kai pavojingi chemikai išleidžiami į aplinką. Kai kurie kemos išleidimai gali sukelti gaisrus, detonacijas ir žemės užterštumą. Veiksmai, vedantys prie įvykio, apima prastą gamybos ir saugojimo įrangos priežiūrą, reglamentų trūkumą arba jų prastos įgyvendinimo, kelių transporto nelaimingus atvejus, žmogaus klaidas, gamtinius įvykius, tokius kaip intensyvus lietus, žemės trūkumas, uraganai, potvyniai ir terorizmas (WHO, no date).
 
-### Kontrolės ir prevencijos priemonės  
-- **Tarpų išdėstymas** – cheminės įstaigos turėtų būti atskirtos nuo gyventojų koncentracijų  
-- **Saugos ženklų** – tinkamas ženklinimas visų cheminių medžiagų  
-- **Mokymai ir treniruotės** – periodiniai pasiruošimo planų tikrinimai ir mokymai darbuotojams  
-- **Stebėjimas** – jutiklių, satelito duomenų, dirbtinio intelekto sistemų naudojimas, siekiant įvertinti nuotėkio riziką  
-- **Rizikos komunikacija** – greita ir skaidri informacija, skirta visuomenei ir pagarbos tarnyboms  
+Kemos išleidimai ir išleidimai yra viena iš problemų, kurių sprendžia Jungtinių Tautų maisto ir žemės ūkio organizacija (FAO). Pagrindinė šių išleidimų priežastis yra korozija, kuri silpnina arba sugina jungtis ir uždarymus (kairės, kapukai, tvirtinimo įtaisai). Išleidimai taip pat kyla iš korozijos konteinerio, kuri gali pagreitinti mechaninį pažeidimą. Korozija gali prasidėti viduje, su piktvaržų pačiomis ar jų susidarymo produktais, kurie yra pagrindinė priežastis. Taip pat korozija gali prasidėti išorėje dėl drėgnų saugojimo sąlygų arba užterštumo iš pačio aplinkos (HSE, no date).
 
-### Dėl nuotėkio ir pūsko žinomybės
-- **Saugos linija** – linija, kuri atskiria šiltą ir šaltą zonas  
-- **Hot zone** – zona, kurioje reikia apsaugos aprangos ir skaitmeninės kontroliuojamos procedūros  
-- **Warm zone** – zona, kurią apsaugo apsaugos apranga, bet kuri gali būti tarpyti dėl žmonių judėjimo  
-- **Cold zone** – zona, kuri paprastai yra nepažeista, tačiau turėtų būti nuolat stebima  
+**Key relevant UN convention / multilateral treaty**  
+Nors nėra vieno pasaulinio sutarties, skirtos konkrečiai kemos išleidimų ir išleidimų kontrolės, keli tarptautiniai reglamentai turi susijusias nuostatas:  
+- Basel sutartis dėl pavojingų atliekų transgraniškų judėjimų kontrolės ir jų nušvaistymo (1989). Šiuo metu Basel sutartį sudaro 187 šalys. 14-osios susirinkimo metu „Basilei“ BC‑14/12 sprendimas, kuris keitė II, VIII ir IX priedus, siekiant stiprinti plastiko atliekų transgraniškų judėjimų kontrolę ir išaiškinti jos taikymą.  
+- Europos Sąjungos 2012/18/EU direktyva apie didelio nelaimės pavojų valdymą, susijusią su pavojingomis medžiagomis (2012).  
+- Seveso direktyva (Directive 82/501/EEC) buvo papildyta ir išplėsta.
 
-### Stebėjimas ir prognozavimas  
-- **Jutikliai** – šviesos, garų, drėgmės jutikliai, kurių duomenys realiu laiku perduodami į centrą  
-- **Satelitiniai duomenys** – SAR (syntetinė apertūrinė radarinė) nuotraukos, kurių duomenys leidžia nustatyti naftos lapus ir jų judėjimą (Yang et al., 2024).  
+**Drivers**  
+Kemos išleidimai gali atsirasti dėl gamtinių rizikų, pramoninių nelaimingų atvejų ar infrastruktūros gedimų, dažnai sukeldami kaskadinius pavojus. Kai kurie pavojingi chemikai gali išsiskirti, sukeldami įvairias pasekmes.
 
-### Ištekliai  
-- **WHO** – World Health Organization (WHO).  
-- **FAO** – Food and Agriculture Organization of the United Nations (FAO).  
-- **UNEP/OCHA** – United Nations Environment Programme / United Nations Office for the Coordination of Humanitarian Affairs.  
+**Impacts**  
+Šie įvykiai gali sukelti arba pabloginti daugelį pavojų. Jie dažniausiai veikia aplinkos sveikatą, žmogaus sveikatą arba abu. Oro, vandens ir dirvožemio tarša dažnai sukelia aplinkos degradaciją ir biologinės įvairovės praradimą. Sveikatos žalų tipai priklauso nuo chemikalų išleidimo, įskaitant odos ir akių pažeidimus, kvėpavimo takų problemas, kurie kartais sukelia mirtį iš karto po įvykio arba vėliau.
 
----  
+**Multi-hazard context**  
+Žemiau pateikta diagramė išreiškia bendrą sąveiką tarp kemos išleidimų ir išleidimų bei kitų pavojų. Šią informaciją reikia naudoti atsargiai ir nepasikliauti tik vienu šaltiniu.
 
-**End of Translation**
+**Risk Management**  
+Rizikos valdymo priemonės gali būti grupuojamos pagal kategorijas: prevencija ir kontrolė, pasirengimas ir reakcija.  
+- **Prevencija ir kontrolė**: suvokti chemikalų įvykio rizikas, registruoti visus chemikalus, periodiškai įvertinti planus, stebėti, įgyvendinti saugumo priemones, sumažinti saugomų chemikalų kiekį, tinkamai etiketinti visus chemikalus, organizuoti mokymus, greitai pranešti greitosios pagalbos tarnyboms, stebėti ir sistemingai pranešti įvykius, įskaitant mažus, dažnai pasitaikančius.  
+- **Pasirengimas**: kruopštus planavimas ir pasirengimas reikalauja, kad visos valdžios lygiai ir įrengimų darbuotojai įgyvendintų greitosios pagalbos planus, turintys galimybę greitai aktyvuoti.  
+- **Reakcija**: priklausomai nuo tipo, galima nustatyti rizikos zonas.
+
+**Monitoring**  
+The section and the table below offer an overview of arsenic monitoring. This information can be used for forecasting within a national early warning system (EWS). Since EWS capacities and processes differ across countries, the most current and specific information regarding EWS should be obtained from the appropriate national or regional agency/authority responsible for disaster management. Which institution(s) produce(s) Disaster Risk Data/Information? Private companies managing industrial facilities (production and/or storage); Environmental protection agencies. How is the hazard observed, monitored, or forecasted? Monitoring systems use sensors, satellite data, AI, or remote sensing technologies to identify leaks in pipelines, industrial sites, or natural environments before they cause significant damage. For example, marine oil spills can be detected using synthetic aperture radar (SAR) images captured by the European Sentinel‑1 satellite. A trained deep learning model identifies oil slicks in the SAR images, which are then segmented into binary masks to analyse their extent and characteristics. Finally, the system simulates the trajectory of the oil spill based on wind and ocean currents to predict its movement (Yang et al., 2024).
+
+**References**  
+Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal, 1989. Accessed 13 February 2025.  
+Broughton, E., 2005. The Bhopal disaster and its aftermath: a review. Environmental Health, 4:6. 10.1186/1476-069X-4-6.  
+European Commission, 2020. The Seveso Directive - Technological Disaster Risk Reduction. Accessed 14 February 2025.  
+European Parliament and Council, 2012. Directive 2012/18/EU of the European Parliament and of the Council of 4 July 2012 on the control of major‑accident hazards involving dangerous substances, amending and subsequently repealing Council Directive 96/82/EC Text with EEA relevance. Accessed 14 February 2025.  
+Food and Agriculture Organization of the United Nations (FAO), no date. Spills, leaks and disposal of containers and chemicals. Food and Agriculture Organization of the United Nations (FAO). Accessed 14 February 2025.  
+Health and Safety Executive (HSE), no date. Icmesa chemical company, Seveso, Italy. 10th July 1976. Health and Safety Executive (HSE). Accessed 14 February 2025.  
+National CBRN Centre, 2016. Responding to a CBRN(e) Event: joint operating principles for the emergency services. First edition September 2016. Accessed 14 February 2025.  
+Peterson, C.H., S.D. Rice, J.W. Short, D. Esler, J.L. Bodkin, B.E. Ballachey and D.B. Irons, 2003. Long‑term ecosystem response to the Exxon Valdez oil spill. Science, 302:2082-2086.  
+Public Health England (PHE), 2020. UK Recovery Handbook for Chemical Incidents, 2020. Public Health England (PHE). Accessed 14 February 2025.  
+Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade, 1998. Accessed 13 February 2025.  
+Stockholm Convention on Persistent Organic Pollutions (POPs), 2001. Text of the Convention and its subsequent amendments. Accessed 13 February 2025.  
+United Nations Environment Programme (UNEP), 2020. The Strategic Approach to International Chemicals Management (SAICM). United Nations Environment Programme (UNEP). Accessed 18 May 2025.  
+United Nations Environment Programme and United Nations Office for the Coordination of Humanitarian Affairs (UNEP/OCHA), 2023. Environmental Emergencies Guidelines: Prepare. Respond. Recovery. Voluntary guidelines for the provision and receipt of international humanitarian assistance for environmental emergencies through the United Nations Environment Programme/ United Nations Office for the Coordination of Humanitarian Affairs 2nd Edition UN Environment Programme (UNEP) and Office for the Coordination of Humanitarian Affairs (OCHA). Accessed 19 May 2025.  
+World Health Organization (WHO), 2009. WHO Manual: The Public Health Management of Chemical Incidents. World Health Organization (WHO). Accessed 14 February 2025.  
+World Health Organization (WHO), 2017. Communicating risk in public health emergencies: a WHO guideline for emergency risk communication (ERC) policy and practice ISBN 978-92-4-155020-8. World Health Organization (WHO). Accessed 18 May 2025.  
+World Health Organization (WHO), no date. Chemical incidents. World Health Organization (WHO). Accessed 14 February 2025.  
+World Health Organization and International Programme on Chemical Safety (WHO and IPCS), 2018. Guidance document on evaluating and expressing uncertainty in hazard characterization, 2nd ed. World Health Organization (WHO) and International Programme on Chemical Safety (IPCS). Accessed 14 February 2025.  
+World Health Organization, International Labour Organization and United Nations Environment Programme (WHO, ILO and UNEP), 2011. World Health Organization Human Health Risk Assessment Toolkit: Chemical Hazards. Harmonization Project Document No. 8. Accessed 14 February 2025.  
+Yang Y.J., Singha S., and Goldman R., 2024. A near real‑time automated oil spill detection and early warning system using Sentinel‑1 SAR imagery for the Southeast Asian Mediterranean Sea. International Journal of Remote Sensing, Volume 45, 2024. DOI:10.1080/01431161.2024.2321468. Accessed 5 February 2025.  
+Cite this [Copy citation]

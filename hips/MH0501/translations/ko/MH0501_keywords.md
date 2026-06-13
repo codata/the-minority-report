@@ -1,0 +1,1 @@
+marked, unusual period of hot weather,two or three consecutive days and nights,percentile thresholds,magnitude duration extent severity,strong and slow-moving high-pressure system,atmospheric blocking pattern,soil moisture,sea surface temperatures,heat index,wet-bulb globe temperature,Excess Heat Index-acclimatization,urban heat islands,heatwave monitoring system

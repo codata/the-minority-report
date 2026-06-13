@@ -1,0 +1,1 @@
+viral zoonotic disease, central nervous system, inoculation of infectious saliva, human rabies vaccine, rabies immunoglobulins, furious form, paralytic form, post-exposure prophylaxis, One Health approach, dog-mediated rabies, reservoir hosts, hematophagous bats, canine rabies

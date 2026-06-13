@@ -1,0 +1,1 @@
+highly toxic heavy metal,cumulative toxicant,neurological damage,haematological effects,gastrointestinal disturbances,lead sulfide,ores galena,mining smelting refining,leaded petrol use,lead-acid batteries,lead-based paints,in-utero exposure,childhood lead poisoning,blood lead levels

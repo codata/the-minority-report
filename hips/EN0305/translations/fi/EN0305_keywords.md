@@ -1,0 +1,1 @@
+permafrost thaw, loss of ground ice, active layer, abrupt thaw, thaw slumps, thermokarst landscapes, permafrost carbon pool, ground subsidence, hydrological state, permafrost-thaw feedback, ground ice in permafrost, permafrost ground

@@ -1,0 +1,1 @@
+unusually hot and dry weather, heatwave duration, percentile thresholds, heat index, humidex, wet-bulb globe temperature, heat stress index, Excess Heat Factor, atmospheric blocking pattern, soil moisture, sea surface temperatures, El Niño-Southern Oscillation, urban heat islands, heatwave monitoring system

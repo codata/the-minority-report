@@ -1,0 +1,1 @@
+flow of materials, supply chain disturbances, persistent failure, cascading effect, multi-hazard context, logistical disruptions, demand shocks, panic buying, availability of goods and services, supply chain vulnerability

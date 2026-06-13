@@ -1,0 +1,1 @@
+suspension in the air of dust or small sand particles, dust storm or sandstorm, reduced visibility in the atmospheric boundary layer, suspended particles of soil, medium size particles, particulate matter concentrations, PM10 concentrations, PM2.5, relative humidity levels, silt and clay, visibility thresholds

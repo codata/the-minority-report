@@ -1,0 +1,1 @@
+increased production of organic matter, nitrogen and phosphorus, sewage outfall, agricultural runoff, algal blooms, dissolved oxygen depletion, hypoxia, Dead zones, Chlorophyll-a concentration, Redfield nitrogen-to-phosphorus ratio, persistent organic pollutants (POPs), biomagnification, hydrogen sulfide release

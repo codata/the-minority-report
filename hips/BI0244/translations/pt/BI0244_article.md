@@ -1,1 +1,89 @@
-{}
+**Terminological Analysis**  
+
+| Term in English | Preferred Portuguese Term | Notes (source of term) |
+|-----------------|--------------------------|------------------------|
+| pandemic influenza | **Pandemia de gripe (humana)** | Established Wiki synonym. |
+| influenza virus | **Vírus da gripe** | Established Wiki synonym. |
+| influenza infection | **Infecção por influenza** | Established Wiki synonym. |
+| surges of pandemic influenza | **Surtos de gripe pandêmicos** | Established Wiki synonym. |
+| influenza | **gripe** | Common term. |
+| H1N1, H3N2, H5N1 | **H1N1, H3N2, H5N1** | Acronyms remain unchanged. |
+| WHO | **OMS** | Organização Mundial da Saúde. |
+| CDC | **CDC** | (Centers for Disease Control and Prevention – remains unchanged). |
+| EFSA, ECDC | **EFSA, ECDC** | (Autoridade Europeia de Segurança Alimentar; Centro Europeu de Prevenção e Controle de Doenças – acronyms kept). |
+| GISRS | **GISRS** | (Global Influenza Surveillance and Response System – acronym kept). |
+| PISA | **PISA** | (Pandemic Influenza Severity Assessment – acronym kept). |
+| PIP | **PIP** | (Pandemic Influenza Preparedness – acronym kept). |
+
+All other generic terms (e.g., “population”, “global”, “health”) are left as standard Portuguese equivalents.
+
+---
+
+**Initial Draft**  
+
+### Definição  
+Pandemia de gripe (humana) é a disseminação mundial de um novo vírus da gripe ao qual há pouca ou nenhuma imunidade pré‑existente na população humana (OMS, 2019).  
+
+### Referência Primária  
+OMS, 2019. Estratégia global de gripe 2019‑2030. Genebra: Organização Mundial da Saúde; 2019. Licença: CC BY‑NC‑SA 3.0 IGO. Organização Mundial da Saúde (OMS). Acessado 27 de maio de 2025.  
+
+### Anotações  
+#### Descrição científica adicional  
+A natureza em constante evolução do vírus da gripe torna a gripe um dos principais perigos infecciosos com impacto significativo. Pelo menos cinco pandemias de gripe ocorreram em intervalos irregulares nos últimos 100 anos, variando amplamente em severidade. A mais catastrófica, ocorrida de 1918‑1920 (a denominada “Gripe Espanhola”), matou cerca de 50 milhões de pessoas em todo o mundo. As duas outras pandemias do século XX (1957 e 1968) cada uma matou mais de um milhão de pessoas (OMS EURO, sem data). Em 1996, o vírus da gripe aviária H5N1 altamente patogênico foi identificado pela primeira vez em aves domésticas na China meridional. O vírus recebeu o nome A/goose/Guangdong/1/1996. Em 1997, surtos de gripe aviária H5N1 ocorreram na China e Hong Kong, com 18 casos humanos (6 mortes) em Hong Kong. Este vírus teria causado mais de 860 infecções humanas com taxa de mortalidade superior a 50 %. O vírus se espalhou silenciosamente e foi detectado na Coreia em carne de pato importada da China em 2003 (CDC, 2024). Um caso humano foi confirmado no Vietnã em 13 de janeiro de 2004 (OMS, 2004) e, após o relatório do caso, os países começaram a reportar HPAI consecutivamente. A pandemia de gripe H1N1 de 2009 estimou‑se que causou até 575 000 mortes, não apenas entre os mais vulneráveis, mas também entre indivíduos saudáveis. Devido à natureza dos vírus da gripe, uma futura pandemia de gripe é inevitável e a preparação é vital. Desde a re‑emergência do vírus da gripe aviária A(H5N1) em 2002‑2003, o mundo acelerou suas preparações para a próxima pandemia (OMS, sem data; OMS EURO, sem data).  
+
+Em 2019, surgiu um novo coronavírus (SARS‑CoV‑2) que causou a pandemia COVID‑19. Os enormes custos humanos, sociais e econômicos sublinharam que, embora a ameaça de uma pandemia de gripe permaneça real, as ameaças de outros vírus respiratórios também devem permanecer em nosso radar, e esforços de preparação que vão além da preparação de gripe devem ser reconhecidos como absolutamente vitais (OMS, sem data).  
+
+A atual situação de conhecimento e tecnologia implica que prever a próxima pandemia de gripe — quando, onde, qual cepa de vírus e quão grave será — é impossível. Consequentemente, vacinas de pandemia não podem ser desenvolvidas antes da emergência do vírus de pandemia. A agenda de pesquisa em saúde pública da OMS para a gripe, como mecanismo inovador de pesquisa, é crucial para informar e avançar a preparação para pandemias de gripe (OMS, 2018).  
+
+A OMS, com apoio de inúmeros especialistas ao redor do mundo, continua a desenvolver e atualizar sua gama abrangente de diretrizes, ferramentas e outros recursos para apoiar os países em suas atividades de preparação para pandemias de gripe e para pandemias causadas por outros vírus respiratórios. Esses recursos agora incluem (OMS, sem data):  
+- Planejamento de preparação para pandemias de gripe  
+- Planejamento de preparação para gripe e outras ameaças respiratórias  
+- Medidas de saúde pública e sociais (PHSM) durante uma pandemia  
+- Vigilância durante uma pandemia de gripe.  
+
+### Métricas e limites numéricos  
+Em 2011, o Comitê de Revisão dos IHR sobre Pandemia de Gripe (H1N1) 2009 recomendou que a OMS desenvolvesse e aplicasse medidas que pudessem avaliar a gravidade de cada epidemia de gripe: “Ao aplicar, avaliar e refinar ferramentas para medir a gravidade anualmente, a OMS e os Estados Membros podem estar melhor preparados para avaliar a gravidade na próxima pandemia”. O framework atualizado de avaliação da gravidade da pandemia de gripe da OMS (PISA) estabelecido neste documento fornece uma abordagem sistemática para interpretar dados coletados por sistemas de vigilância existentes e melhorar sua utilidade para comunicação de risco e tomada de decisão. O framework permite avaliar a gravidade da atividade atual de gripe e de doenças respiratórias sintomáticas em relação a anos anteriores usando dados históricos para estabelecer limites que permitem a categorização qualitativa dessas atividades. O PISA é projetado para ser implementado continuamente com base em sistemas de relatório estáveis ou rotina, permitindo a comparação de atividades em períodos epidêmicos e pandêmicos. Informações para avaliar a gravidade especialmente cedo e ao longo do curso de uma pandemia serão fornecidas por investigações, estudos e modelagem (OMS, 2024a).  
+
+### Convenção/mecanismo internacional relevante  
+Regulamentos Internacionais de Saúde (2005), 3ª ed. (OMS, 2016).  
+
+### Drivers  
+Uma pandemia ocorre quando um vírus da gripe emerge ao qual há pouca ou nenhuma imunidade na população humana global e que pode se transmitir eficientemente entre as pessoas. O vírus de pandemia pode ser uma cepa que pula diretamente de animais ou recombina com vírus de animais com ou sem vírus sazonais humanos (OMS, sem data a; OMS EURO, sem data).  
+
+### Impactos  
+Pandemias de gripe, sejam leves, moderadas ou graves, afetam grande proporção da população global, sobrecarregando serviços de saúde e outros serviços essenciais e podendo resultar em perdas econômicas significativas (OMS, sem data a). A OMS recomenda vacinação anual para grupos de alto risco, incluindo profissionais de saúde. As pessoas deveriam idealmente se vacinar antes do início da temporada de gripe para a cobertura mais eficaz, embora a vacinação em qualquer momento da temporada ainda ajude a prevenir infecções por influenza. A melhor maneira de evitar a gripe é se vacinar a cada ano. Os vírus da gripe evoluem constantemente, e duas vezes por ano a OMS faz recomendações para atualizar as composições das vacinas. Para a temporada de gripe do hemisfério norte 2016‑2017, a formulação da vacina foi atualizada em fevereiro de 2016 para conter dois vírus tipo A (H1N1 e H3N2) e um vírus tipo B (OMS, 2020). Em 2018, o mundo observou o centenário do início da pandemia de gripe 1918‑1919. Seu impacto estimado de até 50 milhões de mortes excedeu o da Primeira Guerra Mundial, resultando em queda dramática na expectativa de vida em muitos países no momento da pandemia. Seu impacto levou a mudanças fundamentais nos sistemas de saúde pública, incluindo saúde centralizada e consolidada, maior reconhecimento do papel dos fatores socioeconômicos na saúde e coordenação da saúde pública a nível nacional e global. Desde a pandemia de 1918‑1919, houve avanços significativos na ciência médica, incluindo desenvolvimento de vacinas de gripe, antivirais e diagnósticos melhores. Pandemias subsequentes ocorreram em 1957‑1958, 1968‑1969 e 2009‑2010, resultando em 1‑4 milhões, 1‑4 milhões e 100 000‑400 000 mortes, respectivamente. A pandemia H1N1 de 2009 causou mortes significativas, especialmente em pessoas com menos de 65 anos; também testou os sistemas de resposta de saúde nacionais, em particular a capacidade de resposta de vacina de pandemia, e expôs fraquezas nesses sistemas. Reiterou que vírus da gripe de origem aviária e suína podem causar pandemia, e destacou a importância da colaboração intersetorial para a preparação de pandemias. Embora seja impossível prever quando a próxima pandemia possa ocorrer, sua ocorrência é considerada inevitável e pode ocorrer durante o período deste plano. Dado o aumento da globalização econômica, urbanização e mobilidade, a próxima pandemia se espalhará mais e mais rapidamente e pode causar grandes perturbações. Apesar dos avanços médicos significativos nos últimos 100 anos, ainda haverá populações com acesso limitado ao cuidado e que provavelmente experimentarão altas taxas de mortalidade durante uma pandemia.  
+
+### Contexto de multi‑risco  
+Não aplicável.  
+
+### Gestão de risco  
+Detecção, caracterização e compartilhamento oportunos de informações sobre o vírus de pandemia afetam diretamente os resultados de todas as respostas subsequentes. O GISRS da OMS é a base de tal operação. Em uma pandemia de gripe, o vírus provavelmente se espalhará rapidamente. O desenvolvimento, produção e implantação rápidos de vacinas são críticos para limitar o impacto potencial em populações e serviços essenciais. O acesso à vacina adequada nas fases iniciais da pandemia é amplamente influenciado pela capacidade de produção global e pelo tempo de entrega necessário para produzir vacinas de gripe (OMS, sem data a). Como uma pandemia de gripe pode durar meses ou até anos, pode requerer uma resposta sustentada no setor de saúde, mas também em outros setores que fornecem serviços essenciais, como energia e produção de alimentos (OMS, sem data a; OMS, 2025b). O Quadro de Preparação para Pandemia de Gripe (PIP) é um instrumento inovador de acesso e partilha de benefícios que busca preparar melhor o mundo para responder de forma mais equitativa à próxima pandemia de gripe. O PIP foi adotado em 24 de maio de 2011 pelos 194 Estados Membros da OMS, reconhecendo que uma pandemia de gripe seria um desafio global, e que sua preparação requer uma abordagem holística, coletiva e cooperativa. A OMS implementa o PIP em estreita parceria com os Estados Membros e laboratórios de saúde pública especializados em gripe, indústria e sociedade civil. O PIP permite a partilha pelos Estados Membros de vírus da gripe com potencial pandêmico humano com o GISRS e acesso equitativo a vacinas, medicamentos e outros produtos e tecnologias. Sob o Quadro, os Estados Membros devem compartilhar seus vírus da gripe com potencial pandêmico (IVPPs) de forma rápida, sistemática e oportuna com o GISRS, uma rede global coordenada pela OMS de laboratórios de saúde pública. Além de servir como plataforma de partilha de vírus, o GISRS também desenvolve — entre outras coisas — vírus candidatos a vacina e outras análises, materiais e informações que são compartilhados com os Estados Membros e fabricantes de vacinas de gripe e outros produtos, como antivirais e diagnósticos (OMS, 2024a). A vigilância global da gripe, o compartilhamento oportuno de dados do vírus da gripe e das informações associadas e a pesquisa inovadora são fundamentais para resolver o problema da gripe. A vigilância global da gripe tem sido conduzida por meio do Sistema Global de Vigilância e Resposta à Gripe da OMS (GISRS) desde 1952. O GISRS é um sistema que fomenta a confiança global por mais de meia‑século, por meio de colaboração eficaz e partilha de vírus, dados e benefícios com base no compromisso dos Estados Membros com um modelo de saúde pública global (OMS, 2024b). O objetivo do GISRS é proteger as pessoas da ameaça de gripe, funcionando como um mecanismo global de vigilância, preparação e resposta para gripe sazonal, pandêmica e zoonótica; como uma plataforma global para monitorar epidemiologia e doença da gripe; e como um alerta global para vírus de gripe novos e outros patógenos respiratórios (OMS, 2024b). Medidas One Health para mitigar o risco de pandemia de gripe que se adapta a mamíferos e humanos se concentram em limitar a exposição e prevenir a propagação. Opções-chave de ação incluem aprimorar a vigilância direcionada a humanos e animais, garantir acesso a diagnósticos rápidos, promover a colaboração entre os setores de animais e humanos, e considerar a implementação de medidas preventivas, como vacinação de aves. Comunicação eficaz com diferentes públicos alvo deve ser enfatizada, bem como fortalecimento da infraestrutura veterinária, aplicação de medidas de biossegurança em fazendas e redução do contato de animais silvestres com animais domésticos (EFSA & ECDC, 2024).  
+
+### Monitoramento  
+A vigilância global da gripe tem sido conduzida por meio do Sistema Global de Vigilância e Resposta à Gripe da OMS (GISRS) desde 1952 (OMS, 2024b). O GISRS é um sistema que fomenta a confiança global e confiança por mais de meia‑século, por meio de colaboração eficaz e partilha de vírus, dados e benefícios com base no compromisso dos Estados Membros de um modelo global de saúde pública. A missão do GISRS é proteger as pessoas da ameaça de gripe funcionando continuamente como um: mecanismo global de vigilância, preparação e resposta para gripe sazonal, pandêmica e zoonótica; plataforma global de monitoramento da epidemiologia e doença da gripe; e alerta global para vírus de gripe novos e outros patógenos respiratórios. A tabela abaixo oferece uma visão geral do monitoramento para pandemias de gripe. Esta informação pode ser usada para previsão dentro de um sistema de alerta precoce nacional (SAP). Como as capacidades e processos de SAP diferem entre os países, a informação mais atual e específica sobre SAP deve ser obtida na agência/autoridade nacional ou regional apropriada responsável pela gestão de desastres.  
+
+Qual(s) instituição(ões) produz(em) Dados/Informações de Risco de Desastre?  
+OMS, Ministério da Saúde, Centros de Referência da FAO, Centros de Referência da WOAH, CDC  
+
+Como o Risco é Observado/Monitorado/Previst?  
+FAO empres‑i+ https://empres‑i.apps.fao.org/diseases  
+OMS avaliações de risco e resumos da gripe na interface humano‑animal https://www.who.int/teams/global‑influenza‑programme/avian‑influenza/monthly‑risk‑assessment‑summary (TIPRA)  
+OMS WPRO https://www.who.int/westernpacific/wpro‑emergencies/surveillance/avian‑influenza  
+WOAH WAHIS https://wahis.woah.org/#/event‑management  
+CDC IRAT OMS apoia países a conduzir avaliação de risco estratégica de todos os riscos em contextos de emergências de saúde e desastres, resultando no desenvolvimento de um perfil de risco nacional. Capacitado com o perfil de risco nacional, inclusive um calendário de risco sazonal, os países podem antecipar emergências potenciais antes que ocorram para disparar alertas precoces e informar ações precoces (OMS, sem data b). O Sistema de Alerta, Alerta e Resposta da OMS (EWARS) foi projetado para melhorar a detecção de surtos de doenças em situações de emergência, como em países em conflito ou após um desastre natural. É uma maneira simples e econômica de configurar rapidamente um sistema de vigilância de doenças. O EWARS é implantado durante uma emergência como um complemento ao sistema nacional de vigilância de doenças. A OMS trabalha com Ministérios da Saúde e parceiros do setor de saúde para treinar trabalhadores de saúde locais a usar o sistema. Após a emergência, o EWARS deve reintegrar‑se ao sistema nacional (OMS, sem data, b).  
+
+**Referências**  
+CDC, 2024. Avian Influenza (Bird Flu) Resources. Accessed 27 May 2025.  
+EFSA, ECDC (European Food Safety Authority and European Centre for Disease Prevention and Control), Melidou, A., Enkirch, T., Willgert, K., Adlhoch, C., Alm, E., Lamb, F., Marangon, S., Monne, I., Stegeman, J. A., Delacourt, R., Baldinelli, F., & Broglia, A., 2024. Drivers for a pandemic due to avian influenza and options for One Health mitigation measures. EFSA Journal, 22(4), e8735. Accessed 27 May 2025.  
+WHO EURO, no date. Pandemic influenza: a threat that all countries need to prepare for, World Health Organization Regional Office for Europe. (WHO EURO). Accessed 27 May 2025.  
+WHO, 2004. Influenza A (H5N1) virus – Viet Nam. World Health Organization (WHO). Accessed 27 May 2025.  
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Accessed 27 May 2025.  
+WHO, 2018. WHO Public Health Research Agenda for Influenza. World Health Organization (WHO). Accessed 18 February 2025.  
+WHO, 2019. Global influenza strategy 2019-2030. Geneva: World Health Organization; 2019. Licence: CC BY-NC-SA 3.0 IGO. World Health Organization (WHO). Accessed 27 May 2025.  
+WHO, 2020. How can I avoid getting the flu? World Health Organization (WHO). Accessed 27 May 2025.  
+WHO, 2024a. Influenza: Pandemic influenza preparedness framework. World Health Organization (WHO). Accessed 27 May 2025.  
+WHO, 2024b. Influenza: Global Influenza Surveillance and Response System (GISRS). World Health Organization (WHO). Accessed 27 May 2025.  
+WHO, no date a. Pandemic influenza preparedness - Global Influenza Programme. World Health Organization (WHO.). Accessed 27 May 2025.  
+WHO, no date b. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all-hazards health emergency risk assessment. World Health Organization (WHO). Accessed 13 February 2025.  
+
+Cite this [Copy citation]

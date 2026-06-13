@@ -1,0 +1,1 @@
+heavy metal, lead sulfide, lead-acid batteries, leaded petrol, lead-based paints, lead in water pipes, lead in solder, lead-glazed ceramic, lead-containing dust, lead poisoning, blood lead levels, neurological damage, lead-acid batteries, smelting and refining

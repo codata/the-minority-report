@@ -1,0 +1,1 @@
+Iridovirus of the family Asfarviridae,African wild suids as reservoir hosts,Ornithodoros ticks as vectors,stamping-out policy and quarantine enforcement,transmission via the oronasal route,asymptomatic carriers of the virus,haemorrhagic fever manifestation,fomites and vector-borne transmission,ingestion of contaminated products,subacute and chronic forms of the disease

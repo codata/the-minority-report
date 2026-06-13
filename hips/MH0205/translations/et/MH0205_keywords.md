@@ -1,0 +1,1 @@
+suspension in the air of small particles,smoke from wildfires,smoke dispersion,particulate matter,atmospheric particulates,black carbon,PM2.5,smoke plumes,smoke from fires,indoor burning of solid fuels,smoke pollution

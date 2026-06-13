@@ -1,56 +1,93 @@
-```markdown
-### Definition
+### Definition  
+Rift Valley Fever (RVF) ist eine akute, hämorrhagische virale Zoonose, die kleine und große Wiederkäuer sowie Kamele betrifft. Der RVF‑Virus gehört zur Gattung **Argovirus**. Die Krankheit verursacht hohe Mortalität, insbesondere bei Neugeborenen und massiven Abtreibungen bei trächtigen Tieren. Menschen werden durch Kontakt mit Geweben oder Blut infizierter Tiere, einschließlich abortiver Materialien, sowie durch Mückenstiche infiziert. In Menschen äußert sich die Erkrankung als influenzaähnliche Erkrankung, hämorrhagisches Fieber, Enzephalitis und gelegentlich zum Tod (angepasst von FAO (2003), WHO (2018), OIE (2020)).
 
-Rift Valley Fever (RVF) ist eine akute hämorrhagische Viruskrankheit, die sowohl kleine als auch große Wiederkäuer und Kamele betrifft. Der RVF‑Virus gehört zur Gattung Phlebovirus. Die Krankheit verursacht hohe Mortalität, insbesondere bei Neugeborenen und massiven Fehlgeburten bei trächtigen Tieren. Menschen werden infiziert, wenn sie mit Geweben oder Blut infizierter Tiere in Kontakt kommen, einschließlich abortiver Materialien, und durch Mückenstiche. Die Erkrankung beim Menschen äußert sich als grippeähnliche Erkrankung, hämorrhagisches Fieber, Enzephalitis und gelegentlich Tod (angepasst von FAO, 2003; WHO, 2018; OIE 2020).
+### Primäre Referenzen  
+FAO, 2003. Recognizing Rift Valley fever. Animal Health Manual No. 17. Food and Agriculture Organization of the United Nations (FAO). Abgerufen am 1. Januar 2025.  
+WHO, 2024. Newsroom Fact Sheet Rift Valley fever. World Health Organization (WHO). Abgerufen am 1. Januar 2025.  
+WOAH, no date. Rift Valley Fever (RVF). World Organisation for Animal Health (WOAH). Abgerufen am 1. Januar 2025.
 
-### Primary reference(s)
+### Anmerkungen  
+#### Zusätzliche wissenschaftliche Beschreibung  
+Rift Valley Fever (RVF) ist eine virale Zoonose, die vorwiegend Tiere, aber auch Menschen infiziert. Die Infektion kann schwere Erkrankungen sowohl bei Tieren als auch bei Menschen verursachen (WHO, 2018). Ausbrüche von RVF bei domestizierten Tieren gehen oft mit menschlicher Erkrankung einher. Die Mehrheit der menschlichen Infektionen resultiert aus Kontakt mit Blut, anderen Körperflüssigkeiten oder Organen infizierter Tiere. Menschliche Infektionen treten auch durch Bisse infizierter Mücken auf. Bis heute ist keine menschliche Übertragung von RVF‑Virus dokumentiert (WHO, 2018).  
 
-- FAO, 2003. *Recognizing Rift Valley fever.* Animal Health Manual No. 17. Food and Agriculture Organization of the United Nations (FAO). Zugegriffen am 1. Januar 2025.  
-- WHO, 2024. *Newsroom Fact Sheet Rift Valley fever.* World Health Organization (WHO). Zugegriffen am 1. Januar 2025.  
-- WOAH, kein Datum. *Rift Valley Fever (RVF).* World Organisation for Animal Health (WOAH). Zugegriffen am 1. Januar 2025.
+Rift Valley Fever (RVF) ist eine virale Zoonose, die vorwiegend Tiere, aber auch Menschen infiziert. Die Infektion kann schwere Erkrankungen sowohl bei Tieren als auch bei Menschen verursachen (WHO, 2018). Ausbrüche von RVF bei domestizierten Tieren gehen oft mit menschlicher Erkrankung einher. Die Mehrheit der menschlichen Infektionen resultiert aus Kontakt mit Blut oder Organen infizierter Tiere. Menschliche Infektionen treten ebenfalls durch Bisse infizierter Mücken auf. Bis heute ist keine menschliche Übertragung von RVF‑Virus dokumentiert (WHO, 2018).  
 
-### Annotations
+RVF ist eine wirtschaftlich bedeutende Krankheit und betrifft verschiedene Tierarten sowie Menschen. Impfungen und Vektorkontrolle sind die Hauptstrategien zur Reduktion der RVF‑Inzidenz (WHO, 2018; no date).  
 
-Human:  
-Rift Valley Fever (RVF) ist eine virale Zoonose, die hauptsächlich Tiere betrifft, aber auch Menschen infizieren kann. Die Infektion kann bei beiden Arten schwere Erkrankungen hervorrufen (WHO, 2018). Ausbrüche bei domestizierten Tieren gehen häufig mit menschlichen Erkrankungen einher. Die Mehrheit der Infektionen bei Menschen entsteht durch Kontakt mit Blut, anderen Körperflüssigkeiten oder Organen infizierter Tiere. Außerdem können Mückenstiche an infizierten Tieren die Übertragung ermöglichen. Bis heute wurde keine menschlich‑zu‑menschlichen Übertragung des RVF‑Virus dokumentiert (WHO, 2018).
+Der RVF‑Virus gehört zur Gattung **Argovirus**. Der Virus wurde erstmals 1931 bei einer Untersuchung einer Epidemie bei Schafen auf einer Farm im Rift Valley von Kenia identifiziert (WHO, 2018). Seitdem wurden Ausbrüche in Subsahara‑Afrika berichtet. 1977 wurde ein explosiver Ausbruch in Ägypten gemeldet; der RVF‑Virus wurde über den Viehwarenhandel entlang des Nil‑Irrigation‑Systems nach Ägypten eingeführt. 1997‑1998 ereignete sich ein schwerer Ausbruch in Kenia, Somalia und der Vereinigten Republik Tansania nach einem El Niño‑Ereignis und ausgedehnten Überschwemmungen. Nach Viehwarenhandel aus dem Horn von Afrika verbreitete sich RVF im September 2000 nach Saudi‑Arabien und Jemen, was das erste gemeldete Vorkommen außerhalb des afrikanischen Kontinents markierte und Bedenken aufwarf, dass es sich auf andere Teile Asiens und Europas ausbreiten könnte (WHO, 2018).
 
-Animal:  
-RVF wird durch den RVF‑Virus (RVFV) verursacht, ein Arbovirus, das von Mücken übertragen wird. Ausbrüche bei Tieren können durch ein nachhaltiges Impfprogramm verhindert werden. Drei kommerziell verfügbare Impfstoffe existieren: die inaktivierte RVF‑Impfung, die lebende abgeschwächte Impfstoff auf Basis des Smithburn‑Stamms, sowie die neu registrierte RVF Clone 13. Der lebende abgeschwächte Smithburn‑Impfstoff ist für alle Rind- und Schafrassen sicher, kann jedoch bei trächtigen Tieren Fehlbildungen oder Fehlgeburten verursachen. Inakzivierte Impfstoffe werden ebenfalls in Ausbruchs­situationen verwendet, besonders bei trächtigen Tieren (WOAH, 2024a).  
+### Tier  
+RVF wird durch den RVF‑Virus (RVFV), ein Arbovirus, verursacht und wird von Mücken übertragen. Ausbrüche von RVF bei Tieren lassen sich durch ein dauerhaftes Impfprogramm verhindern. Es gibt drei kommerziell verfügbare Impfstoffe: der inaktive RVF‑Impfstoff, hergestellt in Südafrika und Ägypten; der lebende abgeschwächte Impfstoff, basierend auf dem Smithburn‑Virus‑Stamm, hergestellt in Südafrika und Kenia; sowie der jüngst registrierte RVF Clone 13, produziert von Onderstepoort Biological Products (OBP) in Südafrika und von MCI Santé Animale in Marokko (Dungu & Bouloy, 2021). Der lebende abgeschwächte Smithburn‑RVF‑Impfstoff ist sicher in allen Rind-, Schaf- und Ziegenrassen, kann jedoch fetale Anomalien oder Abtreibungen bei trächtigen Tieren verursachen. Der inaktive RVF‑Impfstoff wird ebenfalls in Ausbruchssituationen verwendet, insbesondere bei trächtigen Tieren, da der abgeschwächte Smithburn‑Impfstoff nicht geeignet ist (WOAH, 2024a). Die meisten Länder führen eine Liste der zugelassenen tierärztlichen Impfstoffe für die Anwendung. Für spezifische Vorschriften konsultieren Sie die tierärztlichen Behörden des Landes.  
 
-### Drivers
+RVF‑Virus kann viele Tierarten infizieren und schwere Erkrankungen bei domestizierten Tieren, einschließlich Rindern, Schafen, Kamelen und Ziegen, verursachen (WHO, 2024). Die Krankheit tritt in klimatischen Bedingungen auf, die die Vermehrung von Mückenvektoren begünstigen, und ist gekennzeichnet durch Abtreibungen, neonataler Mortalität und Leberschäden. Die Krankheit ist bei Schafen, Ziegen und Rindern am schwersten. Ältere nicht trächtige Tiere, obwohl infektiös, sind resistenter gegen klinische Erkrankung. Kamele haben in der Regel eine inapparenten Infektion mit RVF‑Virus (RVFV), jedoch treten plötzliche Mortalität, neonataler Mortalität und Abtreibungen auf, und die Abtreibungsrate kann so hoch sein wie bei Rindern (WOAH, 2024a).  
 
-- **Human:** Mehrere Mückenarten fungieren als Vektoren; die dominante Art variiert regional. Ausbrüche in Primärfokussen können durch Viehbewegungen oder passive Mückenverbreitung in Sekundärfokusse ausgedehnt werden.  
-- **Animal:** Ausbrüche sind eng mit starken Regenfällen während der warmen Phase des El Niño‑Southern Oscillation (ENSO) verbunden. Die Vektorkontrolle, Gewässermanagement und Biosicherheit sind zentrale Maßnahmen zur Eindämmung.  
+Aedes‑Mücken nehmen den Virus durch Fütterung an infizierten Tieren auf und können den Virus potenziell vertikal übertragen, sodass neue Generationen infizierter Mücken aus ihren Eiern schlüpfen. Dies bietet einen potenziellen Mechanismus zur Aufrechterhaltung des Virus in der Natur, da die Eier dieser Mücken unter trockenen Bedingungen für mehrere Jahre überleben können. Sobald Vieh infiziert ist, können verschiedene Mückenarten als Vektoren für die Übertragung von RVFV fungieren und die Krankheit verbreiten (WOAH, 2024a). Aus diesem Grund werden RVF‑Epidemien/epizootien mit Hochwasserperioden nach starkem Regen, insbesondere nach langen Dürren, in Verbindung gebracht. Diese Überschwemmungen schaffen Wasserbecken, die für das Schlüpfen/Erwachen von Aedes‑Mücken günstig sind, die infiziert sein können mit RVFV und den Virus an Wiederkäuer oder Kamele übertragen, wenn sie aus diesen Wasserbecken trinken oder in deren Nähe fressen (FAO, 2003).  
 
-### Impacts
+RVF ist eine von der World Organisation for Animal Health (WOAH) gelistete Krankheit (WOAH, 2024b).
 
-- **Human:** Die Inkubationszeit beträgt 2–6 Tage. Die häufigste Form ist eine selbstlimitierende grippeähnliche Erkrankung. Komplikationen können Augen-, Neurologie‑ oder Nierenprobleme sowie ein lebensbedrohliches hämorrhagisches Syndrom mit Leberfunktionsstörung umfassen. Die globale Todesrate bleibt niedrig (≤ 2 %), aber während Epidemien können sich Tausende schwerer Fälle und viele Todesfälle ereignen (Spickler, 2015).  
-- **Animal:** Fehlgeburten, Tötungen infizierter Tiere, Ausbreitung von Infektionen, Handelssperren.  
+### Metriken und numerische Grenzwerte  
+Bis 1975 wurde RVF als afrikanische, tierische Krankheit betrachtet. Menschliche Fälle waren selten und mit milden klinischen Manifestationen verbunden. Schwere Ausbrüche von hämorrhagischem Fieber und Todesfällen bei Menschen wurden 1975 in Südafrika, 1977 in Ägypten und 1987 in Mauretanien gemeldet. Ein besonders auffälliger Ausbruch ereignete sich 1997 in Ostafrika, als ungeklärte menschliche Todesfälle in der Nordostprovinz Kenias und im Süden Somalias gemeldet wurden. Diese Epidemie wurde als die verheerendste in der Region eingestuft. Im September 2000 wurde RVF zum ersten Mal außerhalb des afrikanischen Kontinents in Saudi-Arabien und Jemen entdeckt, was zu menschlichen Todesfällen und erheblichen Verlusten in Viehpopulationen führte. 2006‑07 wurde ein Ausbruch in Kenia erklärt. Tansania und Somalia wurden später betroffen. Madagaskar und Südafrika wurden 2007 und 2008 getroffen (ECDC, no date).
 
-### Risk Management
+### Relevante UN‑Konvention / multilaterale Verträge  
+International Health Regulations (2005), 3. Auflage (WHO, 2016).  
+WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement) (WTO, 1994).  
+United Nations. 2023. UN Recommendations on the Transport of Dangerous Goods - UN Model Regulations. https://unece.org/transport/dangerous-goods/un-model-regulations-rev-23 Zugriff 1. Januar 2025.
 
-Bei Ausbrüchen ist engen Kontakt mit Tieren, insbesondere mit Körperflüssigkeiten, der größte Risikofaktor. Aufklärung und Schutz vor Mückenstichen sind entscheidend. Für Tiere empfiehlt FAO Impfprogramme, Bewegungs­kontrolle, verbesserte Biosicherheit und Gewässermanagement. Die frühzeitige Erkennung durch ein aktives Tiergesundheits­überwachungssystem ist essenziell, da Tierausbrüche die ersten Anzeichen für mögliche menschliche Fälle liefern.  
+### Treiber  
+**Mensch**  
+Verschiedene Mückenarten können als Vektoren für die Übertragung des RVF‑Virus dienen. Die dominierende Vektorart variiert zwischen Regionen, und Arten können unterschiedliche Rollen bei der Aufrechterhaltung der Virusübertragung spielen. Während großer Ausbrüche in primären Fokusbereichen kann die Krankheit durch Viehmigration oder passive Mückenverbreitung in sekundäre Fokusbereiche gelangen und in naiven Wiederkäuern durch lokale kompetente Mücken wie Culex, Mansonia und Anopheles, die als mechanische Vektoren fungieren, verstärkt werden. Bewässerungsschemata, bei denen Mückenpopulationen über längere Jahreszeiten hinweg zahlreich sind, sind stark begünstigende Orte für die sekundäre Krankheitsübertragung (WHO, 2018). Tier‑RVF‑infizierte Mücken; Überschwemmungen durch ungewöhnlichen Regen in einem Gebiet, in dem RVF in der Vergangenheit aufgetreten ist; Mangel an Biosicherheit bei der Handhabung von abgetriebenen Föten/geslachteten Tieren.  
 
-### Monitoring
+**Tier**  
+Tier‑RVF‑infizierte Mücken; Überschwemmungen durch ungewöhnlichen Regen in einem Gebiet, in dem RVF in der Vergangenheit aufgetreten ist; Mangel an Biosicherheit bei der Handhabung von abgetriebenen Föten/geslachteten Tieren.
 
-Die FAO unterstützt Mitglieder mit Echtzeit‑Risikoüberwachung und Frühwarnung. Das Global Animal Disease Information System (EMPRES‑i) bietet eine Plattform für Echtzeit‑Verfolgung von Tierkrankheiten. Ergänzende Systeme wie EIOS, GLEWS+ und WAHIS (WOAH) gewährleisten die Verifikation von Krankheitshinweisen. Das Frühwarn‑Entscheidungs‑Unterstützungstool (RVF DST) integriert aktuelle Risikokarten, historische Ereignisse und Expertenwissen.  
+### Auswirkungen  
+**Mensch**  
+Die Inkubationszeit (Zeit von Infektion bis Symptombeginn) für RVF variiert von 2 bis 6 Tagen. Die häufigste Form der Krankheit bei Menschen ist eine selbstlimitierende, grippeähnliche Erkrankung. Komplikationen bei einer Minderheit von Fällen umfassen okuläre Erkrankung, neurologische Zeichen, Nierenfunktionsstörung und ein lebensbedrohliches hämorrhagisches Syndrom mit Leberschäden. Obwohl die Gesamtletalitätsrate als gering angesehen wird (≤ 2 %), kann es während einiger Epidemien sehr viele Fälle geben, was zu Hunderten schwerer Fälle und erheblichen Todesfällen führt (Spickler, 2015; WHO, no date).  
 
-### References
+**Tier**  
+Abtreibung und/oder Tod infizierter Tiere, Ausbreitung der Infektion, Handelsverbot.
 
-- Dungu, B., Bouloy, M., 2021. *Newcastle Disease.* In: Metwally, S., Viljoen, G. & El Idrissi, A. (Eds.). *Veterinary vaccines: principles and applications.* Chichester: John Wiley & Sons Limited and FAO. Zugegriffen am 24. Mai 2025.  
-- ECDC, kein Datum. *Facts about Rift Valley fever.* European Centre for Disease Prevention and Control (ECDC). Zugegriffen am 28. Mai 2025.  
-- FAO, 2003. *Recognizing Rift Valley fever.* Animal Health Manual No. 17. FAO. Zugegriffen am 24. Mai 2025.  
-- FAO, 2019. *Rift Valley fever (RVF) Early Warning Decision Support Tool (RVF DST).* Zugegriffen am 1. Januar 2025.  
-- Situma, S., Nyakarahuka, L., Omondi, E., et al., 2024. *Widening geographic range of Rift Valley fever disease clusters associated with climate change in East Africa.* BMJ Global Health, 9:e014737. doi:10.1136/bmjgh-2023-014737. Zugegriffen am 24. Mai 2025.  
-- Spickler, A.R., 2015. *Rift Valley Fever Infectious Enzootic Hepatitis of Sheep and Cattle Factsheet.* Zugegriffen am 24. Mai 2025.  
-- United Nations, 2023. *UN Recommendations on the Transport of Dangerous Goods – UN Model Regulations.* Zugegriffen am 26. Mai 2025.  
-- WHO, 2016. *International Health Regulations (2005), 3rd ed.* World Health Organization. Zugegriffen am 26. April 2024.  
-- WHO, 2018. *Rift Valley fever.* World Health Organization (WHO). Zugegriffen am 24. Mai 2025.  
-- WHO, 2021. *Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all-hazards health emergency risk assessment.* World Health Organization (WHO). Zugegriffen am 26. Mai 2025.  
-- WHO, kein Datum a. *Health Topic: Rift Valley fever.* World Health Organization (WHO). Zugegriffen am 28. Mai 2025.  
-- WHO, kein Datum b. *Early Warning, Alert and Response System (EWARS).* World Health Organization (WHO). Zugegriffen am 18. April 2025.  
-- WOAH, 2024a. *Manual of Diagnostic Tests and Vaccines for Terrestrial Animals,* 13. Ausgabe. World Organisation for Animal Health (WOAH). Zugegriffen am 26. Mai 2025.  
-- WOAH, 2024b. *Terrestrial Animal Health Code,* 32. Ausgabe. WOAH. Zugegriffen am 1. Januar 2025.  
-- WOAH, 2019. *Rift Valley Fever.* Zugegriffen am 28. Mai 2025.  
-- WTO, 1994. *The WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement).* World Trade Organization (WTO). Zugegriffen am 24. Mai 2025.
-```
+### Multi‑Hazard‑Kontext  
+Mückenbisse; Überschwemmungen durch ungewöhnlichen Regen in einem Gebiet, in dem RVF in der Vergangenheit aufgetreten ist; und Mangel an Biosicherheit bei der Handhabung von abgetriebenen Föten/geslachteten Tieren sind die Haupttreiber bei Menschen. RVF‑Ausbrüche in Ostafrika sind eng mit starkem Regen während der warmen Phase der El Niño‑Südlatinen‑Oszillation (ENSO) verbunden. RVF wird als arbeitsbedingte Krankheit von Viehhandhabern, Milcherzeugern, Schlachtplatzarbeitern und Tierärzten betrachtet. Die direkte sozio‑ökonomische Auswirkung von RVF betrifft Viehproduzenten aufgrund hoher Mortalitäts- und Morbiditätsraten bei Tieren (WHO, 2018; no date).
+
+### Risikomanagement  
+Der engere Kontakt mit Tieren, insbesondere mit deren Körperflüssigkeiten, entweder direkt oder über Aerosole, wurde als der wichtigste Risikofaktor für die Infektion mit RVF‑Virus identifiziert. Die Bewusstseinsbildung über Risikofaktoren der RVF‑Infektion sowie die Schutzmaßnahmen, die Individuen ergreifen können, um Mückenstiche zu verhindern, ist der einzige Weg, um menschliche Infektionen und Todesfälle zu reduzieren. Für das Tier‑Risikomanagement empfiehlt die FAO Impfprogramme, Bewegungs‑kontrolle, verbesserte Biosicherheit und Wasser‑management. Die Einschränkung oder das Verbot von Viehbewegungen kann wirksam sein, um die Ausbreitung des Virus von infizierten zu nicht‑infizierten Gebieten zu verlangsamen (WHO, 2018). Da Ausbrüche von RVF bei Tieren vor menschlichen Fällen auftreten, ist die Einrichtung eines aktiven Tiergesundheits‑Überwachungssystems zur Erkennung neuer Fälle entscheidend, um eine frühzeitige Warnung für veterinär- und humanmedizinische Behörden bereitzustellen. Weitere Möglichkeiten zur Kontrolle der Ausbreitung von RVF umfassen die Kontrolle des Vektors und den Schutz vor deren Bissen. Als Beispiel einer koordinierten Reaktion versandte die WHO im Jahr 2016 im Niger ein multisektorales, nationales, schnelles Reaktionsteam, das Mitglieder des Gesundheitsministeriums, tierärztlichen Diensten und des Centre de Recherche Médicale et Sanitaire (CERMES) umfasste. Die Einheit wurde am 31. August 2016 zur Felduntersuchung entsandt. Im Niger unterstützt das WHO Country Office technisch und finanziell die Überwachung, Ausbruchuntersuchung, technische Leitlinien bezüglich Falldefinition, Fallmanagement, Versand von Proben und Risikokommunikation. Die FAO, die World Organisation for Animal Health (OIE) und die WHO koordinieren Tier- und menschliche Gesundheit und stellen zusätzliche Unterstützung für Niger bei der Ausbruchreaktion bereit (WHO, 2018). Ein inaktivierter Impfstoff wurde für die menschliche Anwendung entwickelt. Dieser Impfstoff ist jedoch nicht lizenziert und nicht kommerziell verfügbar. Er wurde experimentell eingesetzt, um tierärztliches und Laborpersonal mit hohem Infektionsrisiko gegen RVF zu schützen. Weitere Kandidat*innen‑Impfstoffe werden untersucht (WHO, 2018). Prognosen können klimatische Bedingungen vorhersagen, die häufig mit erhöhtem Ausbruchsrisiko verbunden sind, und die Krankheitsbekämpfung verbessern. In Afrika, Saudi-Arabien und Jemen. RVF‑Ausbrüche sind eng mit Hochwasserperioden verbunden. Die Reaktion von Vegetation auf erhöhtes Regenniveau kann leicht gemessen und mit Fernerkundung (Remote‑Sensing‑Satellite‑Imagery) überwacht werden. Die Verbindung von RVF‑Ausbrüchen mit starkem Regen während der warmen Phase der El Niño‑Südlatinen‑Oszillation (ENSO) wurde in Ostafrika dokumentiert. Diese Erkenntnisse ermöglichten die erfolgreiche Entwicklung von Prognosemodellen und Frühwarnsystemen für RVF unter Verwendung von Satellitenbildern und Wetter‑/Klimaprognosedaten. Frühwarnsysteme, wie diese, könnten verwendet werden, um die Erkennung von Tierfällen in einem frühen Stadium eines Ausbruchs zu triggern, sodass Behörden Maßnahmen ergreifen können, um drohende Epidemien zu verhindern. Im Rahmen der neuen International Health Regulations (2005) sind die Prognose‑ und frühzeitige Erkennung von RVF‑Ausbrüchen zusammen mit einer umfassenden Bewertung des Risikos der Ausbreitung in neue Gebiete entscheidend, um die Umsetzung effektiver und rechtzeitiger Kontrollmaßnahmen zu ermöglichen (WHO, 2018).
+
+### Rift Valley Fever (RVF) Early Warning Decision Support Tool (RVF DST)  
+Die FAO hat ein webbasiertes Rift Valley Fever (RVF) Early Warning Decision Support Tool (RVF DST) entwickelt, das nahezu Echtzeit‑RVF‑Risiko‑Karten mit geographischen Daten, RVF‑historischen und aktuellen Ereignissen aus dem EMPRES Global Animal Disease Information System (EMPRES‑i) sowie Expertenwissen zur RVF‑Öko‑Epidemiologie integriert. Der zunehmende geografische Bereich der Krankheit ist mit klimatischen Variablen wie Niederschlag, Temperatur, Luftfeuchtigkeit und normalisierten Unterscheidungsgrünflächenindex (NDVI), Viehproduktion und Landnutzungsänderungen verbunden und beeinflusst diese Ausweitung (Situma et al., 2024).
+
+### Monitoring  
+Die nachstehende Tabelle bietet einen Überblick über die Überwachung von Rift Valley Fever. Diese Informationen können für Prognosen innerhalb eines nationalen Frühwarnsystems (EWS) verwendet werden. Da die EWS‑Kapazitäten und Prozesse in verschiedenen Ländern unterschiedlich sind, sollte die aktuellste und spezifische Information zum EWS von der entsprechenden nationalen oder regionalen Behörde für Katastrophenmanagement eingeholt werden.  
+
+Welche Institution(en) erzeugen Katastrophen‑Risiko‑Daten/-Informationen?  
+Ministry of Agriculture, Ministry of Livestock, Ministry of Health, FAO Reference Centres, WOAH Reference Centres  
+
+Wie wird das Risiko beobachtet/überwacht/vorhergesagt?  
+- Durch sein globales Frühwarnsystem unterstützt die FAO Mitglieder mit Risikomanagement, Bewertung und Prognose für Tiergesundheitsbedrohungen, um die Bereitschaft und Reaktion auf Tiergesundheitsbedrohungen zu verbessern:  
+- Die FAO entwickelt und pflegt Entscheidungsunterstützungstools, die Risikokarten von bestehenden und prognostizierten Risiken der Tierkrankheitsentstehung sowie anderer Bedrohungen für die Agrar‑ und Lebensmittelkette bereitstellen.  
+- Zusätzlich arbeitet die FAO eng mit internationalen Organisationen wie WHO und WOAH zusammen, um Krankheitsinformation über integrierte Mechanismen wie Epidemic Intelligence from Open Sources (EIOS), das Global Early Warning System (GLEWS+), und das World Animal Health Information System (WAHIS) für WOAH‑gelistete Krankheiten zu verifizieren. Diese Kooperationen ermöglichen die Verbreitung von Frühwarn‑Alarmen und Risikobewertungen an Mitglieder, um rechtzeitige Reaktionen auf potenzielle Ausbrüche zu ermöglichen.  
+- FAO EMPRES‑i: https://empres-i.apps.fao.org/diseases  
+- Rift Valley fever (RVF) Early Warning Decision Support Tool (RVF DST)  
+- WOAH WAHIS: https://wahis.woah.org/#/event-management  
+- WHO supports countries to conduct all‑hazards strategic risk assessment in the contexts of health emergencies and disasters, which results in the development of a country risk profile. Empowered with the country's risk profile, inclusive of a seasonal risk calendar, countries can anticipate potential emergencies before they occur to trigger early alerts and inform early actions (WHO, 2021).  
+- WHO's Early Warning, Alert and Response System (EWARS) has been designed to improve disease outbreak detection in emergency settings, such as in countries in conflict or following a natural disaster. It is a simple and cost‑effective way to rapidly set up a disease surveillance system. EWARS is deployed during an emergency as an adjunct to the national disease surveillance system. WHO works with Ministries of Health and health sector partners to train local health workers to use the system. After the emergency, EWARS should reintegrate into the national system (WHO, no date a).
+
+### References  
+Dungu, B., Bouloy, M., 2021. Newcastle Disease. In: Metwally, S., Viljoen, G. & El Idrissi, A. eds. Veterinary vaccines: principles and applications. Chichester, John Wiley & Sons Limited and FAO. Accessed 24 May 2025.  
+ECDC, no date. Facts about Rift Valley fever. European Centre for Disease Prevention and Control (ECDC). Accessed 28 May 2025.  
+FAO, 2003. Recognizing Rift Valley fever. Animal Health Manual No. 17. Food and Agriculture Organization of the United Nations (FAO). Accessed 24 May 2025.  
+FAO, 2019. Rift Valley fever (RVF) Early Warning Decision Support Tool (RVF DST). Accessed 1 January 2025.  
+Situma, S., Nyakarahuka, L., Omondi, E., et al., 2024. Widening geographic range of Rift Valley fever disease clusters associated with climate change in East Africa. BMJ Glob Health; 9:e014737. doi:10.1136/bmjgh-2023-014737. Accessed 24 May 2025.  
+Spickler, A.R., 2015. Rift Valley Fever Infectious Enzootic Hepatitis of Sheep and Cattle Factsheet. Accessed 24 May 2025.  
+United Nations, 2023. UN Recommendations on the Transport of Dangerous Goods - UN Model Regulations. Accessed 26 May 2025.  
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization. Accessed 26 May 2024.  
+WHO, 2018. Rift Valley fever. World Health Organization (WHO). Accessed 24 May 2025.  
+WHO, 2021. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all‑hazards health emergency risk assessment. World Health Organization (WHO). Accessed 26 May 2025.  
+WHO, no date a. Health Topic: Rift Valley fever. World Health Organization (WHO). Accessed 28 May 2025.  
+WHO, no date b. Early Warning, Alert and Response System (EWARS). World Health Organization (WHO). Accessed 18 April 2025.  
+WOAH, 2024a. Manual of Diagnostic Tests and Vaccines for Terrestrial Animals, 13th edition. World Organisation for Animal Health (WOAH). Accessed 26 May 2025.  
+WOAH, 2024b. Terrestrial Animal Health Code. 32nd edition. World Organisation for Animal Health (WOAH). Accessed 1 January 2025.  
+WOAH, 2019. Rift Valley Fever. Accessed 28 May 2025.  
+WTO, 1994. The WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement). World Trade Organization (WTO). Accessed 24 May 2025.  
+
+Cite this [Copy citation]

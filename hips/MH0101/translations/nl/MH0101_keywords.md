@@ -1,0 +1,1 @@
+violent and damaging downdraught,strong downdraft,outburst of damaging winds,Microburst,Macroburst,localized columns of sinking air,evaporative cooling and precipitation drag,damaging straight-line winds,non-rotational wind patterns,downburst-related aviation accidents,wind shear and downburst conditions

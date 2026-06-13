@@ -1,0 +1,1 @@
+insect pests, diseases, severe weather events, forest fires, abiotic factors, droughts, forest degradation, insect disturbances, pathogen disturbance, acid rain effects

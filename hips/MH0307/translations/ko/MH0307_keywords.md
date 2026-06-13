@@ -1,0 +1,1 @@
+low-pressure system, horizontal temperature contrasts, mid-latitude or baroclinic storms, cold fronts, warm fronts, and occluded fronts, temperature gradient, strongest winds near the tropopause, warm-core in the stratosphere, cold-core in the troposphere, strong horizontal temperature gradients, jet stream intensity, genesis through to decay lysis

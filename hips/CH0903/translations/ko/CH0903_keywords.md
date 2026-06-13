@@ -1,0 +1,1 @@
+chemical warfare agents, dual-use chemicals, blistering agents, blood agents, choking agents, nerve agents, riot control agents, Schedule 1 chemicals, precursors, General Purpose Criterion, Chemical Weapons Convention, mustard gas, Sarin and VX gas

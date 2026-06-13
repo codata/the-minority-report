@@ -1,0 +1,1 @@
+highly toxic heavy metal, lead sulfide, ores galena, lead-acid batteries, leaded petrol, lead-based paints, lead-soldered food and beverage cans, lead in tap water, childhood lead poisoning, lead exposure to the developing nervous system, lead in dust and soil, lead-glazed ceramic or pottery dinnerware, lead poisoning

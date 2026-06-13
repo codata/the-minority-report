@@ -1,0 +1,1 @@
+human African trypanosomiasis, animal trypanosomosis, Trypanosoma parasites, tsetse flies, vector-borne disease, Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense, tsetse fly bites, African animal trypanosomosis, Nagana, cyclical transmission, mechanical transmission, haemo-lymphatic stage, neurological stage, Trypanosomiasis (tsetse-transmitted)

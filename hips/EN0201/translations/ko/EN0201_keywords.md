@@ -1,0 +1,1 @@
+conversion of forest to other land use,permanent reduction of the tree canopy cover,forest degradation,loss of biodiversity,agricultural expansion,forest fragmentation,large-scale commercial agriculture,cattle ranching and cultivation of soya bean and oil palm,local subsistence agriculture,conversion to cropland and grassland,impact of disturbance

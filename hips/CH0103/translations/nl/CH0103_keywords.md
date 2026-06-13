@@ -1,0 +1,1 @@
+highly toxic heavy metal,lead sulfide,anglesite,cerussite,minum,mining smelting refining of lead,leaded petrol gasoline,lead-acid batteries,lead-based paints,lead-glazed ceramic or pottery,lead in tap water,neurotoxic effects of lead,blood lead levels

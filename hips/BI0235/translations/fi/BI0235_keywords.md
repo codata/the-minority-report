@@ -1,0 +1,1 @@
+variola virus, orthopoxvirus family, smallpox vaccine, cowpox, eradication of smallpox, immunization and surveillance, case classification and surveillance standards, characteristic rash, lesions develop in the mucous membranes, smallpox vaccine emergency stockpile, biosafety and biosecurity, biological attack

@@ -1,0 +1,1 @@
+zoonotic disease,haemorrhagic illness,Lassa virus,Arenaviridae family,Mastomys rat reservoir,urine and faeces transmission,endemic regions,case-fatality rate,patient isolation,viral testing

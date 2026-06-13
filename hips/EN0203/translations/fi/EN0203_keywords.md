@@ -1,0 +1,1 @@
+disturbance by insect pests,disturbance by diseases,severe weather events,forest area affected by fire,disturbance caused by insect pests,disturbance caused by pathogens,abiotic factors,acid rain,nutrient removal,forest degradation,long-term negative changes,insects and diseases

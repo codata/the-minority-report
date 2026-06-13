@@ -1,0 +1,1 @@
+low-pressure system, latitudes outside the tropics, horizontal temperature contrasts, mid-latitude or baroclinic storms, cold fronts, warm fronts, occluded fronts, temperature gradient, strongest winds near the tropopause, warm-core, cold-core, pressure surfaces, horizontal temperature gradients, jet stream, genesis through to decay

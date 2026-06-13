@@ -1,0 +1,1 @@
+low-pressure system, horizontal temperature contrasts, mid-latitude storms, baroclinic storms, cold fronts, warm fronts, occluded fronts, temperature gradient, horizontal temperature gradients, cold or quasi-stationary front, strongest winds near the tropopause, warm-core in the stratosphere, cold-core in the troposphere

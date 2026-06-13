@@ -1,0 +1,1 @@
+latitudes outside the tropics,horizontal temperature contrasts,baroclinic storms,cold fronts,warm fronts,and occluded fronts,temperature gradient in meteorology,strong horizontal temperature gradients,strongest winds near the tropopause,warm-core in the stratosphere,cold-core in the troposphere,genesis through to decay

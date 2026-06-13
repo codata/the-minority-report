@@ -1,0 +1,1 @@
+avian paramyxovirus type 1, Newcastle disease virus (NDV), zoonotic potential, poultry disease, food security implications, endemic in many parts of the world, live and inactivated vaccines, haemorrhagic lesions in the intestinal tract, neurotropic, Paramyxoviridae family, reservoir hosts, gastrointestinal tract, aerosolised mucus, contaminated faeces, vaccination programme

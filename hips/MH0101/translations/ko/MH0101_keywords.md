@@ -1,0 +1,1 @@
+violent and damaging downdraught,strong downdraft that induces damaging winds,Microburst classification,Macroburst classification,Wind speeds within downbursts,evaporative cooling and precipitation drag,downbursts from thunderstorms,downbursts and aviation hazards,powerful, localized columns of sinking air,downbursts and wind shear

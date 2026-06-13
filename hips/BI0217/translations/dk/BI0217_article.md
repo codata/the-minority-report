@@ -1,1 +1,67 @@
-*(All headings and content above are formatted as a well‑structured Markdown document.)*
+```markdown
+### Definition  
+Leptospirose er en infektionssygdom forårsaget af en patogen bakterie af gengen *Leptospira*. Disse bakterier, kaldet leptospirer, påvirker både mennesker og dyr. Mennesker bliver smittet gennem direkte kontakt med urin fra inficerede dyr eller et urin‑forurenet miljø, hvilket kan føre til en alvorlig og undertiden dødelig sygdom (tilpasset fra WHO & ILS, 2003).
+
+### Primære reference(r)  
+WHO and ILS, 2003. Guidance for Diagnosis, Surveillance and Control. World Health Organization (WHO) and International Leptospirosis Society (ILS). Accessed 29 November 2024.
+
+### Annotationer  
+#### Yderligere videnskabelig beskrivelse  
+Leptospirer hos mennesker kan være patogene (dvs. have potentiale for at forårsage sygdom hos dyr og mennesker) eller saprofytiske (dvs. fri‑livende og generelt anset for ikke at forårsage sygdom). Patogene leptospirer opretholdes i naturen i de renal tubuli hos visse dyr. Saprofytiske leptospirer findes i mange typer våde eller fugtige miljøer, fra overfladisk vand og fugtig jord til vand på vandhaner. Saprofytiske halofile leptospirer findes i havvand (WHO & ILS, 2003).  
+
+Mennesker opnår typisk leptospirose gennem direkte kontakt med urin fra inficerede dyr eller et urin‑forurenet miljø. Overførsel fra menneske til menneske forekommer kun meget sjældent. Bakterierne trænger ind i kroppen gennem snit eller ar på huden eller de slimhinder, der indgår i mund, næse og øjne (WHO, no date a).  
+
+Leptospirose forekommer verden over, men er mest almindelig i tropiske og subtropiske områder med høj nedbør. Det er en sygdom med epidemisk potentiale, især efter kraftig nedbør eller oversvømmelser. Sager er rapporteret i de fleste lande i Amerika, og udbrud er rapporteret i Brasilien, Nicaragua, Guyana og flere andre latinamerikanske lande. De fleste rapporterede sager har alvorlige manifestationer, hvor dødeligheden overstiger 10 %. Udbrud kan være forbundet med oversvømmelser og orkaner (WHO, no date b).  
+
+*Leptospira* er globalt enzootisk, men sygdommen ses oftere i varme og fugtige miljøer. *Leptospira*-serovarer er kendt for at forårsage sygdom hos pattedyr og er blevet isoleret fra padder. Nogle serovarer er også blevet isoleret fra invertebrater, reptiler og fugle. En række *Leptospira*-vacciner er tilgængelige for husdyr. De fleste lande har en liste over godkendte veterinærvacciner. For specifikke regler, kontakt landets veterinære myndigheder. Næsten alle pattedyr er sårbare over for patogene *Leptospira*-serovarer i varierende grad. I tilfældige værter kan en alvorlig sygdom med høje vævssamlinger og en robust antistivningsrespons observeres (WOAH, 2020).  
+
+### Metrikker og numeriske grænser  
+Case‑fatalitetsrater i forskellige dele af verden er rapporteret at variere fra <5 % til 30 %. Disse tal er ikke pålidelige, fordi sygdommen ikke er godt dokumenteret i mange områder. Derudover kan milde sager ikke blive diagnosticeret som leptospirose (WHO & ILS, 2003). Det anslås, at 0,1 til 1 per 100.000 mennesker, der bor i tempererede klimaer, påvirkes hvert år, med et tal, der stiger til 10 eller flere per 100.000 mennesker, der bor i tropiske klimaer. Hvis der er en epidemisk situation, kan incidensen stige til 100 eller flere per 100.000 mennesker (WHO & ILS, 2003).  
+
+Sager er rapporteret i de fleste lande i Amerika, og udbrud er rapporteret i Brasilien, Nicaragua, Guyana og flere andre latinamerikanske lande. De fleste rapporterede sager har alvorlige manifestationer, hvor dødeligheden overstiger 10 %. Antallet af menneskelige sager er ikke præcist kendt på grund af undersøgelser eller misdiagnose (PAHO, no date).  
+
+### Vigtig UN-konvention/multilateralt traktat  
+International Health Regulations (2005), 3rd ed. (WHO, 2016).  
+
+### Drivere  
+Leptospirose kan også være en arbejdspladsfare for personer, der arbejder udendørs eller med dyr, såsom ris- og sukkerrørsskrævere, landmænd, kloakarbejdere, dyrlæger, mejeriarbejder og militært personale. Det er også en rekreativ fare for dem, der svømmer eller vandrer i forurenet vand (WHO, no date b). Leptospirose undervurderes af mange årsager, herunder vanskeligheder med at skelne kliniske tegn fra andre endemiske sygdomme og mangel på passende diagnostiske laboratorieydelser (WHO, 2003).  
+
+### Virkninger  
+I de tidlige stadier af sygdommen omfatter symptomer høj feber, svær hovedpine, muskelsmerter, kuldegigt, rødme i øjnene, mavesmerter, gulsot, hæmorager i huden og slimhinder, opkast, diarré og udslæt (WHO & ILS, 2003). Kliniske manifestationer er meget variable. Typisk præsenterer sygdommen sig i fire brede kliniske kategorier: en mild influenza‑lignende sygdom; Weils syndrom karakteriseret ved gulsot, nyresvigt, hæmorager og myocarditis med arytmier; meningitis/meningoenzephalitis; og lungehæmorage med respiratorisk svigt (Yang, 2007). Klinisk diagnose er vanskelig på grund af den varierende og uspecifikke præsentation. Forvirring med andre sygdomme, såsom dengue og andre hæmoragiske fevers, er særligt almindelig i tropiske områder. Det kan præsentere sig med en bred vifte af kliniske manifestationer fra en mild influenza‑lignende sygdom til en alvorlig og undertiden dødelig sygdom. Gulsot er et relativt almindeligt symptom i leptospirose, men findes også i mange andre sygdomme, der involverer leveren, såsom forskellige former for hepatitis (WHO SEARO, no date; WHO & ILS, 2003). Vigtige forbedringer i prognosen for alvorlig leptospirose er opnået i de seneste årtier, takket være brugen af hemodialyse som et middel til at støtte det reversible nyresvigt, der kan forekomme i nogle tilfælde, og til aggressiv støttepleje (WHO & ILS, 2003).  
+
+### Multi‑hazard kontekst  
+Leptospirose er endemisk i mange lande verden over. Det har ofte en sæsonmæssig fordeling, der stiger med øget nedbør eller højere temperatur. Imidlertid kan sygdommen forekomme året rundt. Høj risiko for eksponering kan være relateret til beskæftigelse, miljø eller livsstil. Epidemier kan være forbundet med ændringer i menneskelig adfærd, dyre‑ eller kloakforurening af vand i ris- og sukkerrørsskoler, ændringer i dyresamfundets tæthed eller efter naturlige katastrofer som cykloner, orkaner, kraftig nedbør eller oversvømmelser. De primære arbejdsgrupper i risiko omfatter landmænd og landbrugsarbejdere, dyrebutiksmedarbejdere, dyrlæger, kloakarbejdere, slagterarbejdere, kødbehandlere og militært personale. Det er også en rekreativ fare for dem, der svømmer eller vandrer i forurenet vand. En række dyrehuse er identificeret, herunder rotter, husdyr og andre husdyr, mens mennesker fungerer som tilfældige værter. Vilde og husdyr i bærestatus kan udsende leptospirer periodisk i mange år eller endda i en levetid (PAHO, no date; WHO SEARO, no date a).  
+
+### Risikostyring  
+Under oversvømmelser øges risikoen for leptospirose på grund af forurenet oversvømmelsesvand, der indeholder urin fra dyr, især fra rotter. Kommunikation med personer i risiko skal fokusere på at forhindre kontakt med forurenet vand, med fokus på forholdsregler under og efter oversvømmelser. Dette inkluderer at undgå vandring, svømning eller leg i oversvømmelsesvand, samt at undgå kontakt med forurenet jord eller mudder (WHO, 2023b). Verdenssundhedsorganisationen (WHO) har fastsat flere mål vedrørende leptospirose: at give estimater af den globale belastning af leptospirose efter alder, køn og region, at øge bevidstheden og engagementet i sygdommen i udviklingslande; og at opmuntre udviklingslande til at iværksætte aktiv sygdomsovervågning og styrke kontrolforanstaltninger (WHO, 2011). Disse indsats vil i sidste ende give beslutningstagere og andre interessenter mulighed for at oversætte viden til politik ved at sætte passende evidensbaserede prioriteter inden for leptospirose sygdomskontrol og forebyggelse. For at koordinere og lede global forskning og handling mod human leptospirose har WHO etableret Leptospirose Burden Epidemiology Reference Group (LERG). Den har fået tildelt følgende opgaver: at gennemgå og vurdere epidemiologisk bevis baseret på udarbejdede gennemgange og studier; at udvikle epidemiologiske værktøjer til at estimere sygdomsbebandning; at estimere og udtrykke sygdomsbebandning gennem sammenfattende målinger af befolkningssundhed (inklusive aktivitetsjusterede leveår); og at identificere tekniske huller til forskning (WHO, 2011). WHO Secretariat for LERG er baseret på Department of Food Safety and Zoonoses med funktioner til at lette, koordinere, vejlede og overvåge LERGs arbejde. LERG samarbejder også med andre internationale aktører, herunder Global Burden of Disease (GBD 2005) initiativet, der koordineres af Institute for Health Metrics and Evaluation (WHO, 2011).  
+
+### Biosecurity  
+
+### Overvågning  
+The section and the table below offer an overview of monitoring for leptospirose. This information can be used for forecasting within a national early warning system (EWS). Since EWS capacities and processes differ across countries, the most current and specific information regarding EWS should be obtained from the appropriate national or regional agency/authority responsible for disaster management.  
+
+Which institution(s) produce(s) Disaster Risk Data/Information? Ministry of Health, Ministry of Agriculture, Ministry of Livestock, FAO Reference Centres, WOAH Reference Laboratories, WHO  
+
+How is the Hazard Observed/Monitored/Forecast? WHO supports countries to conduct all‑hazards strategic risk assessment in the contexts of health emergencies and disasters, which results in the development of a country's risk profile. Empowered with the country risk profile, inclusive of a seasonal risk calendar, countries can anticipate potential emergencies before they occur to trigger early alerts and inform early actions (WHO, 2021).  
+
+WHO's Early Warning, Alert and Response System (EWARS) has been designed to improve disease outbreak detection in emergency settings, such as in countries in conflict or following a natural disaster. It is a simple and cost‑effective way to rapidly set up a disease surveillance system. EWARS is deployed during an emergency as an adjunct to the national disease surveillance system. WHO works with Ministries of Health and health sector partners to train local health workers to use the system. After the emergency, EWARS should re‑integrate back into the national system (WHO, 2023a).  
+
+Through its global early warning system, FAO has been supporting Members with risk monitoring, assessment and forecasting for animal health threats to enhance preparedness and response to animal health threats: The Global Animal Disease Information System, EMPRES‑i+, plays a crucial role in supporting countries with early warning and early detection of animal disease outbreaks. By providing a comprehensive platform for real‑time disease tracking, EMPRES‑i+, enables monitoring and analysis of animal health threats effectively, collaborating closely with countries and regions on disease information sharing. This supports the dissemination of risk assessments and alerts for evidence‑based decision‑making. FAO develops and maintains decision support tools that provide risk maps of existing and predicted risks of animal disease emergence, as well as other threats to the agri‑food chain. Additionally, FAO collaborates closely with international organizations like WHO and WOAH to verify disease information through integrated mechanisms such as the Epidemic Intelligence from Open Sources (EIOS), the Global Early Warning System (GLEWS+), and the World Animal Health Information System (WAHIS) for WOAH‑listed diseases. These collaborations allow for the dissemination of early warning alerts and risk assessments to Members, to enable timely responses to potential outbreaks.  
+
+FAO empres‑i+ https://empres‑i.apps.fao.org/diseases WOAH WAHIS https://wahis.woah.org/#/event-management  
+
+**References**  
+PAHO, no date. Topic: Leptospirose. Pan American Health Organization (PAHO)/World Health Organization (WHO). Accessed 26 May 2025.  
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Accessed 256 May 2025.  
+WHO, ILS, 2003. Guidance for Diagnosis, Surveillance and Control. World Health Organization (WHO) and International Leptospirosis Society (ILS). Accessed 26 May 2025.  
+WHO, 2011. Report of the Second Meeting of the Leptospirosis Burden Epidemiology Reference Group. World Health Organization (WHO). Accessed 7 November 2024.  
+WHO, 2021. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all‑hazards health emergency risk assessment. World Health Organization (WHO). Accessed 26 May 2025.  
+WHO, 2023. Early Warning, Alert and Response System (EWARS). World Health Organization (WHO). Accessed 26 May 2025.  
+WHO, 2023b. Public health advice in the aftermath of flooding: how to protect your health and keep safe, World Health Organization (WHO). Accessed 29 May 2025.  
+WHO SEARO, no date. Leptospirose Fact Sheet. World Health Organization Regional Office for South‑East Asia (WHO SEARO). Accessed 26 May 2025.  
+WOAH, no date. Leptospirose (L. interrogans). Accessed 26 May 2025.  
+WOAH, 2020. Leptospira interrogans ssp. (Infection with). Accessed 26 May 2025.  
+WOAH., 2024a. Manual of Diagnostic Tests and Vaccines for Terrestrial Animals, 13th edition. World Organisation for Animal Health (WOAH). Accessed 26 May 2025.  
+Yang, C.W., 2007. Leptospirose renal disease: understanding the initiation by Toll‑like receptors. Kidney Int. 2007 Oct;72(8):918‑25. doi: 10.1038/sj.ki.5002393. Epub PMID: 17687261. Accessed 25 May 2025.  
+Cite this [Copy citation]
+```

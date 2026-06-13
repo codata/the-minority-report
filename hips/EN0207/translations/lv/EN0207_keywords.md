@@ -1,0 +1,1 @@
+interface/intertidal zone, high salinity and extreme tides, muddy anaerobic soils, sediment erosion, extreme storm surges, coastal protection, carbon density, mangrove deforestation, coastal squeeze, aquaculture and agriculture drivers, loss of ecosystem services, reduction in water and sediment quality, natural hazard mitigation

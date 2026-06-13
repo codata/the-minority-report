@@ -1,0 +1,1 @@
+land degradation in arid areas,drylands,arid semi-arid and dry sub-humid areas,mobile dunes,blown sand sheets,fragile ecosystems,unsustainable agricultural practices,overgrazing,deforestation,land degradation and drought,sustainable land management,Land Degradation Assessment in Drylands

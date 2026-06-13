@@ -1,0 +1,1 @@
+uncontrolled release of a toxic substance,chemical incidents,full-scale major emergencies,persistent organic pollutants,hydrocarbons,Seveso chemical leak,Exxon Valdez oil spill,rough handling,corrosion of the container,hot zone,warm zone,cold zone,public health management of chemical incidents,Maximum Contaminant Levels

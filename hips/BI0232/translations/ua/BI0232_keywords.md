@@ -1,0 +1,1 @@
+viral zoonotic disease, central nervous system, inoculation of infectious saliva, furious and paralytic, post-exposure prophylaxis, rabies immunoglobulins, mass dog vaccination, pre-exposure prophylaxis, One Health approach, dog-mediated rabies, reservoir hosts, bat-mediated rabies, Early Warning Alert and Response System

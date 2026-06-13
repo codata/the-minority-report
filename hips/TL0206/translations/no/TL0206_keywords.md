@@ -1,0 +1,1 @@
+disruption of the flow of materials, failure becoming persistent, cascading effect on other parts, supply chain failure in a multi-hazard context, impact on the availability of goods and services, logistical disruptions, demand shocks, inventory has been drained, supply chain risk management, loss of resilience, supply chain disturbances

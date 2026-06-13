@@ -1,0 +1,1 @@
+space-time clusters, point clusters, media-related phenomena, clustering and contagion of suicide, mass suicide, self-induced suicide, hetero-induced suicide, geographic hotspots of suicide, suicide cluster response plan, concentration of unusual number of deaths

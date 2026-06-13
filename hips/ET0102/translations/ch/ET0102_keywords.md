@@ -1,0 +1,1 @@
+irregular variations of ionospheric parameters, space weather events, solar flares, geomagnetic storms, ionospheric pre-reversal enhancement, fast vertical ionospheric drift, radio-wave propagation, electron concentration, ionosphere comprises D E F1 and F2 regions, ionospheric storm, electron concentration within the F2 region, particle precipitation

@@ -1,0 +1,1 @@
+intertidal zone,high salinity,anaerobic soils,sediment erosion,extreme storm surges,coastal protection,fisheries generation,climate change mitigation,mangrove deforestation,coastal squeeze,sea-level rise,natural buffers,ecosystem service valuations,carbon density

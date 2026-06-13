@@ -1,0 +1,1 @@
+hoar frost (proper), advection hoar frost, deposition of water vapour, sublimation, nocturnal radiation, crystalline form, deposition of ice, horizontal surfaces, vertical exposed surfaces, frost damage, frost-point of the advected air, high humidity, light winds, and low temperatures, frost impact on plant growth, grain fill stage

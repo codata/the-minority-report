@@ -1,0 +1,1 @@
+surge of individuals in a crowd, physical compression of the human bodies, localized crowd density, physical compression of the human bodies, traumatic asphyxia, external compression of the thorax, direct crushing injury to intrathoracic or intraabdominal organs, compressive forces, ventilatory failure, traumatic asphyxia as the primary cause of death, posttraumatic stress

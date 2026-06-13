@@ -1,0 +1,1 @@
+soil erosion, soil degradation, vegetation degradation, water degradation, soil fertility decline, forest degradation, rangeland degradation, water erosion, wind erosion, soil loss from conventionally tilled land, salinisation, lowering of the water table, sedimentation of river beds, land-use changes

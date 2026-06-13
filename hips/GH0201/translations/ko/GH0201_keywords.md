@@ -1,0 +1,1 @@
+lava flow versus lava dome,lava flow units,lava flow lobes,lava flow field,pillow lavas,a'ā flow,pāhoehoe flow,blocky lava morphology,lava spines,lava coulées,lava dome collapse,pyroclastic density currents,viscous lava domes,andesitic-dacitic composition,rhyolite volcanoes

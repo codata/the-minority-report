@@ -1,0 +1,1 @@
+malicious software,malware families,malware variants,viruses,worms,trojan horses,ransomware,spyware,wiper,rootkits,fileless malware,phishing attacks,polymorphic malware,network vulnerabilities

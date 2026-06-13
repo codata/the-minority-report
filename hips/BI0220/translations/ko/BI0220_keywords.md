@@ -1,0 +1,1 @@
+Marburg haemorrhagic fever, viral haemorrhagic fever, Marburg virus, Filoviridae family, Rousettus aegyptiacus bats, intermediate hosts, potential amplifier hosts, human-to-human transmission, haemorrhagic manifestations, safe and dignified burials, infection prevention and control

@@ -1,0 +1,1 @@
+avian paramyxovirus type 1,Newcastle disease virus (NDV),zoonotic potential,poultry disease,endemic in village chickens,live and inactivated vaccines,AOAV-1 serotype,droplets and aerosolised mucus,haemorrhagic lesions in the intestinal tract,neurotropic causing high mortality,farm and market biosecurity,vaccination programme

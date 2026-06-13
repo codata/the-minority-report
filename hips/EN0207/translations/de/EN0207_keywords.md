@@ -1,0 +1,1 @@
+intertidal zone, high salinity, anaerobic soils, sediment erosion, extreme storm surges, human clearing, coastal protection, ecosystem services, carbon density, sea-level rise, coastal squeeze, aquaculture and agriculture, mangrove deforestation, water and sediment quality

@@ -1,0 +1,1 @@
+pathogenic bacterium of the genus Leptospira,urine of infected animals,urine-contaminated environment,saprophytic leptospires,saprophytic halophilic leptospires,leptospirosis renal disease,Weil’s syndrome,epidemic potential after flooding,contaminated floodwater,animal reservoir density,human-to-animal transmission,leptospirosis burden epidemiology reference group

@@ -1,0 +1,1 @@
+large variation of wind speed, duration of the order of minutes, wind speed increases to at least 16 knots, sustained at 22 knots or more, sudden onset and sudden decrease in speed, winds cloud mass and precipitation, threat to marine operations, occur during thunderstorms, Doppler radar and weather satellites, numerical weather models

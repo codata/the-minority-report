@@ -1,0 +1,1 @@
+soil erosion, land degradation neutrality, soil degradation, vegetation degradation, water degradation, soil fertility decline, wind erosion, waterlogging, salinisation, lowering of the water table, forest degradation, rangeland degradation, land-use changes, soil loss

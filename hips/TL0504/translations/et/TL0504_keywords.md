@@ -1,0 +1,1 @@
+special handling and disposal procedures, listed waste, characteristic waste, ignitability, corrosivity, reactivity, or toxicity, toxic for reproduction and/or mutagenic properties, heavy metals and strong acids and bases, transboundary movements of hazardous wastes, generation by weight, recycling incineration landfilling, environmental matrices, hazardous waste management

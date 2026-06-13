@@ -1,0 +1,1 @@
+suspension in the air of small particles,smoke from wildfires,particulate matter,major components of atmospheric particulates,black carbon,smoke dispersion,smoke plumes,smoke hazards,smoke exposure,PM2.5

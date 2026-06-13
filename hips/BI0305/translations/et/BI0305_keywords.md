@@ -1,0 +1,1 @@
+Mycoplasma capricolum subsp. capripneumoniae (Mccp), unilateral serofibrinous pleuropneumonia, severe pleural effusion, unilateral hepatisation, accumulation of pleural fluid, unilateral exudative pleurisy, direct contact between infected and healthy animals, PCR to detect Mccp DNA, CCPP vaccine, antibiotic treatment, farm biosecurity, pleurisy and pleuropneumonia

@@ -1,0 +1,1 @@
+severe diarrhoeal disease, watery diarrhoea and vomiting, severe dehydration, oral-faecal route transmission, fluid replacement and zinc supplementation, rotavirus vaccination, poor water sanitation and hygiene, faecal-oral route transmission, gastrointestinal symptoms, case-fatality rate, rotavirus gastroenteritis, serotypes

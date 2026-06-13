@@ -1,0 +1,1 @@
+volumetric change when subject to mechanical loading,primary consolidation,secondary consolidation,compaction,compressive stress,settlement,soil compaction on construction sites,consolidation testing,static cone testing,drainage of peat,soil erosion

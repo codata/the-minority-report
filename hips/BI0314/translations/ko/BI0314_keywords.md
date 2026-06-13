@@ -1,0 +1,1 @@
+Acute hepatopancreatic necrosis disease (AHPND),Vibrio parahaemolyticus,Vibrio species,pirABvp toxin genes,melanised tubules,hepatopancreas atrophy,soft shells and empty stomach,Vibrio bacteria in aquatic environments,biosecurity measures,high stocking density,Vibrio parahemolyticus and related Vibrio species

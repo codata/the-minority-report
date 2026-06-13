@@ -1,49 +1,40 @@
 ```markdown
-## Definition
+### Definição
+Febre tifoide é uma infecção fatal causada pela bactéria **Salmonella typhi**. Ela costuma se espalhar através de comida ou água contaminada. A partir de estimativas de 2019, existem 9 milhões de casos de febre tifoide anualmente, resultando em cerca de 110 000 mortes por ano (OMS, 2023).
 
-**Febre tifóide** é uma infecção potencialmente fatal causada pela bactéria *Salmonella typhi*. A transmissão ocorre principalmente por meio de alimentos ou água contaminados. Em 2019, estimou‑se cerca de 9 milhões de casos e 110 000 mortes anuais (OMS, 2023).
+### Referência Primária
+OMS, 2023. Typhoid. World Health Organization (WHO). Accessed 14 February 2025.
 
-## Primary Reference
+### Anotações
+#### Descrição científica adicional
+Febre tifoide é uma infecção fatal causada pela bactéria **Salmonella typhi**. Quando as bactérias **Salmonella typhi** são ingeridas, elas se multiplicam e se espalham para a corrente sanguínea (OMS, 2023). Urbanização e mudança climática têm potencial para aumentar a carga global de febre tifoide. Além disso, o aumento da resistência a antibióticos facilita a disseminação da febre tifoide em comunidades sem acesso a água potável ou saneamento adequado (OMS, 2023). Condições de vida melhoradas e a introdução de antibióticos reduziram drasticamente a morbidade e mortalidade da febre tifoide em países industrializados. Entretanto, a doença continua sendo um problema de saúde pública em muitas áreas em desenvolvimento das regiões africana, do Mediterrâneo Oriental, Sudeste Asiático e Pacífico Ocidental (OMS, 2023). **Salmonella typhi** afeta apenas humanos. Ela costuma se espalhar através de comida ou água contaminada. Quando as bactérias **Salmonella typhi** são ingeridas, elas se multiplicam e se espalham para a corrente sanguínea, invadindo intestinos, provocando uma resposta inflamatória e causando disseminação sistêmica pela corrente sanguínea. Esse processo envolve vários mecanismos, incluindo a capacidade da bactéria de sobreviver ao ambiente ácido do estômago e invadir a mucosa intestinal, levando a danos teciduais e infecção sistêmica (Khan & Shamim, 2022; OMS, 2023). Pessoas com febre tifoide carregam a bactéria em sua corrente sanguínea e trato intestinal. Sintomas incluem febre prolongada, fadiga, dor de cabeça, náusea, dor abdominal e constipação ou diarreia. Alguns pacientes podem apresentar erupção cutânea. Casos graves podem levar a complicações sérias ou até a morte. A febre tifoide pode ser confirmada por exames de sangue. A febre tifoide pode ser tratada com antibióticos, embora o aumento da resistência a diferentes tipos de antibióticos torne o tratamento mais complicado (OMS, 2023). A emergência de cepas multidrogorresistentes (MDR) e extensivamente resistentes a antibióticos (XDR) em muitos países do mundo gerou grande preocupação com o aumento da resistência a antibióticos em patógenos como **Salmonella typhi** (Khan & Shamim, 2022). A Organização Mundial da Saúde (OMS) publicou diretrizes sobre classificação de casos e padrões de vigilância (OMS, 2018b).
 
-OMS (2023). *Typhoid*. World Health Organization. Acessado em 14 de fevereiro de 2025.
+### Métricas e Limites Numéricos
+Até 2019, estimava‑se que 9 milhões de pessoas adoecem de febre tifoide e 110 000 morrem anualmente (OMS, 2023).
 
-## Annotations
+### Convenção ou Tratado Multilateral Relevante da ONU
+Regulamentos Sanitários Internacionais (2005), 3ª ed. (OMS, 2016).
 
-### Contexto Epidemiológico
-A urbanização e a mudança climática podem aumentar a carga global da febre tifóide. O aumento da **resistência antimicrobiana** facilita a propagação em comunidades com acesso limitado à água potável e saneamento. A doença permanece um problema de saúde pública em regiões africana, do Mediterrâneo Oriental, do Sudeste Asiático e do Pacífico Ocidental (OMS, 2023).
+### Motores
+Febre tifoide é comum em locais com saneamento inadequado e falta de água potável (OMS, 2023). O risco de febre tifoide é maior em populações sem acesso a água potável e saneamento adequado, e crianças estão no maior risco (OMS, 2023).
 
-### Mecanismo de Transmissão
-Após ingestão, *S. typhi* se multiplica, invade o trato gastrointestinal e dissemina‑se pelo sistema circulatório, desencadeando inflamação e sintomas sistêmicos (Khan & Shamim, 2022; OMS, 2023).
+### Impactos
+Até 2019, estimava‑se que 9 milhões de pessoas adoecem de febre tifoide e 110 000 morrem anualmente (OMS, 2023). Sintomas incluem febre prolongada, fadiga, dor de cabeça, náusea, dor abdominal e constipação ou diarreia. Alguns pacientes podem ter erupção cutânea. Casos graves podem levar a complicações sérias ou até a morte. A febre tifoide pode ser tratada com antibióticos, embora o aumento da resistência a diferentes tipos de antibióticos torne o tratamento mais complicado (OMS, 2023).
 
-## Impacto
+### Contexto Multi‑Risco
+Todos os viajantes para áreas endêmicas correm risco potencial de febre tifoide, embora o risco seja geralmente baixo em centros turísticos e de negócios onde os padrões de acomodação, saneamento e higiene alimentar são elevados (OMS, 2023).
 
-- **Incidência (2019)**: 9 milhões de casos.
-- **Mortalidade (2019)**: 110 000 óbitos.
-- **Sintomas**: febre alta prolongada, fadiga, cefaleia, náusea, dor abdominal, constipação ou diarreia. Casos graves podem levar a complicações sérias ou morte.
+### Gestão de Risco
+Acesso a água potável e saneamento adequado, higiene entre manipuladores de alimentos e vacinação contra febre tifoide são todos eficazes na prevenção da febre tifoide (OMS, 2023). A vacina conjugada de febre tifoide, constituída pelo antígeno Vi purificado ligado a uma proteína portadora, é dada como uma única dose injetável em crianças a partir de 6 meses de idade e em adultos até 45 anos ou 65 anos (dependendo da vacina). Duas vacinas adicionais têm sido usadas há muitos anos em crianças e adultos mais velhos em risco de febre tifoide, incluindo viajantes. Essas vacinas não proporcionam imunidade de longa duração (requerem doses de reforço) e não são aprovadas para crianças menores de 2 anos: uma vacina injetável baseada no antígeno purificado para pessoas de 2 anos ou mais e uma vacina oral viva atenuada em cápsula para pessoas com mais de 6 anos (OMS, 2023). Duas vacinas conjugadas de febre tifoide foram pré‑qualificadas pela OMS desde dezembro de 2017 e estão sendo introduzidas nos programas de imunização infantil em países endêmicos de febre tifoide. Todos os viajantes para áreas endêmicas correm risco potencial de febre tifoide, embora o risco seja geralmente baixo em centros turísticos e de negócios onde os padrões de acomodação, saneamento e higiene alimentar são elevados (OMS, 2023). A vacinação contra febre tifoide deve ser oferecida a viajantes para destinos onde o risco de febre tifoide é alto (OMS, 2023). As seguintes recomendações ajudarão a garantir a segurança durante viagens: garantir que a comida seja adequadamente cozida e ainda quente quando servida; evitar leite cru e produtos feitos de leite cru – beber apenas leite pasteurizado ou fervido; evitar gelo a menos que seja feito de água segura; quando a segurança da água potável for questionável, fervê‑la ou, se isso não for possível, desinfira‑a com um agente desinfetante de liberação lenta confiável (geralmente disponível em farmácias); lave bem as mãos frequentemente usando sabão, especialmente após contato com animais domésticos ou de fazenda, ou após ter ido ao banheiro; e lave frutas e vegetais cuidadosamente, especialmente se forem consumidos crus. Se possível, vegetais e frutas devem ser descascados (OMS, 2023). Resposta da OMS para febre tifoide: em outubro de 2017, o Grupo de Especialistas em Estratégia de Imunização (SAGE), que aconselha a OMS, emitiu uma recomendação para que a vacina conjugada de febre tifoide seja adicionada aos programas de imunização infantil de rotina em países endêmicos de febre tifoide. O SAGE também pediu que a introdução de vacinas conjugadas fosse priorizada para países com maior carga de doença de febre tifoide ou altos níveis de resistência a antibióticos em **Salmonella typhi** (OMS, 2023). Em 2019, a Gavi, a Aliança de Vacinas, forneceu financiamento para apoiar o uso da vacina conjugada de febre tifoide em países elegíveis. Até março de 2023, a OMS pré‑qualificou duas vacinas conjugadas para a prevenção da febre tifoide. A vacina conjugada de febre tifoide tem imunidade de longa duração superior às vacinas antigas de febre tifoide e pode ser administrada como uma única dose a crianças a partir de 6 meses de idade. Além de reduzir a carga da doença em países endêmicos e salvar vidas, o uso generalizado da vacina conjugada de febre tifoide em países afetados deverá reduzir a necessidade de antibióticos para tratamento de febre tifoide e retardar o aumento da resistência a antibióticos em **Salmonella typhi** (OMS, 2023).
 
-## Drivers
+### Monitoramento
+A OMS apoia os países a realizarem avaliação estratégica de risco de todos os tipos de perigo no contexto de emergências de saúde e desastres, o que resulta no desenvolvimento do perfil de risco do país. Com o perfil de risco do país, inclusive um calendário de risco sazonal, os países podem antecipar emergências potenciais antes que ocorram, acionando alertas precoces e informando ações antecipadas (OMS, 2021). O Sistema de Alerta, Alerta e Resposta da OMS (EWARS) foi projetado para melhorar a detecção de surtos de doenças em contextos de emergência, como em países em conflito ou após um desastre natural. É uma maneira simples e econômica de montar rapidamente um sistema de vigilância de doenças. O EWARS é implantado durante uma emergência como um complemento ao sistema de vigilância de doenças nacional. A OMS trabalha com os Ministérios da Saúde e parceiros do setor de saúde para treinar trabalhadores de saúde locais no uso do sistema. Após a emergência, o EWARS deve ser reintegrado ao sistema nacional (OMS, no date).
 
-- Baixo saneamento e falta de água potável.
-- Acesso limitado a tratamentos antimicrobianos eficazes.
-- Crescente resistência a antibióticos (MDR, XDR).
-
-## Mitigação e Resposta
-
-### Medidas Preventivas
-- **Acesso a água potável e saneamento adequado**.
-- **Higiene alimentar** e práticas de manipulação segura de alimentos.
-- **Vacinação**: a vacina conjugada contra febre tifóide (antígeno Vi) é recomendada para crianças a partir de 6 meses e adultos, oferecendo imunidade duradoura em uma única dose (OMS, 2023).
-
-### Vigilância
-A OMS apoia a integração do **EWARS (Sistema de Alerta, Alerta e Resposta)** em estratégias de monitoramento de surtos, facilitando a detecção precoce em situações de emergência (OMS, 2021).
-
-## References
-
-- Khan, M., & Shamim, S. (2022). *Understanding the Mechanism of Antimicrobial Resistance and Pathogenesis of Salmonella enterica Serovar Typhi*. Microorganisms, 10(10), 2006. doi:10.3390/microorganisms10102006.  
-- OMS (2016). *Regulamentos Internacionais de Saúde (2005), 3ª ed.*  
-- OMS (2021). *Strategic toolkit for assessing risks (STAR)*.  
-- OMS (2023). *Typhoid*.  
-- OMS (s.d.). *EWARS*.
+### Referências
+Khan M., Shamim S., 2022. Understanding the Mechanism of Antimicrobial Resistance and Pathogenesis of *Salmonella enterica* Serovar Typhi. *Microorganisms*. 10(10):2006. doi: 10.3390/microorganisms10102006. PMID: 36296282; PMCID: PMC9606911. Accessed 29 May 2025.  
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Accessed 14 February 2025.  
+WHO, 2021. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all-hazards health emergency risk assessment. World Health Organization (WHO). Accessed 25 May 2025.  
+WHO, 2023. Typhoid. World Health Organization (WHO). Accessed 25 May 2025.  
+WHO, no date. Early Warning, Alert and Response System (EWARS). World Health Organization (WHO). Accessed 25 May 2025.  
+Cite this [Copy citation]
 ```
-
-The corrected version maintains the controlled vocabulary, eliminates unnecessary domain detail, ensures consistent terminology, and presents the information in a concise, hazard‑profile‑appropriate format.

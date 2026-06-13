@@ -1,0 +1,1 @@
+Viral haemorrhagic fevers,muscle and joint pain,fever and bleeding,shock from loss of blood,haemorrhaging from orifices and internal organs,Arenaviridae,Filoviridae,Flaviviridae,Bunyavirales order,rodent urine and droppings,person to person spread,vector control programmes,Ebola virus,Lassa fever virus,Crimean-Congo haemorrhagic fever,bats as reservoir

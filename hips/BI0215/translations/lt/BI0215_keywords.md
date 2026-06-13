@@ -1,0 +1,1 @@
+zoonotic disease, Lassa virus, Arenaviridae, Mastomys rats, urine or faeces, viral haemorrhagic fever, liver spleen and kidneys, isolation from blood urine or throat washings, direct and indirect contact, person-to-person transmission, endemic in West Africa, case-fatality rate

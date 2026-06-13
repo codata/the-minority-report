@@ -1,0 +1,1 @@
+Marburg haemorrhagic fever, severe viral haemorrhagic fever, Filoviridae family, Marburg virus disease (MVD) causative agents, Rousettus aegyptiacus bats, intermediate hosts, potential amplifier hosts, incubation period, human-to-human transmission, safe and dignified burials, infection prevention and control, bat-to-human transmission

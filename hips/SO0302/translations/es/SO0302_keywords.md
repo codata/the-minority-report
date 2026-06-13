@@ -1,0 +1,1 @@
+surge of individuals in a crowd, physical compression of human bodies, localised crowd density, physical compression, traumatic asphyxia, external compression of the thorax, crushing injury to intrathoracic organs, intraabdominal organs, ventilatory failure, compressive forces applied front to back, compressive forces from side to side, mass casualty management, crowd disasters

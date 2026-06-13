@@ -1,0 +1,1 @@
+acute haemorrhagic viral disease,small and large ruminants and camels,Phlebovirus genus,viral zoonosis,abortion and neonatal mortality,transmission by mosquitoes,inactivated RVF vaccine,live attenuated vaccine,RVF Clone 13,vector control,flood-induced outbreaks

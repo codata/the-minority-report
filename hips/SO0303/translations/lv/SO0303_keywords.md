@@ -1,0 +1,1 @@
+suicide cluster,time cluster,space-time clusters,point clusters,media-related phenomena,contagion of suicide,mass suicide,geographical hotspots,youth suicide clusters,suicide cluster response plan

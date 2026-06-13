@@ -1,1 +1,74 @@
-{}
+### Definition  
+**Pandemisk influenza (menneske)** er den verdensomspændende spredning af en ny influenzavirus, som ingen eller kun meget begrænset forudgående immunitet findes i den menneskelige befolkning (WHO, 2019).  
+
+### Primære reference(r)  
+WHO, 2019. *Global influenza strategy 2019‑2030*. Geneva: World Health Organization; 2019. Licence: CC BY‑NC‑SA 3.0 IGO. World Health Organization (WHO). Accessed 27 May 2025.  
+
+### Anmærkninger  
+...  
+
+### Yderligere videnskabelig beskrivelse  
+Den konstant udviklende natur af influenzavirus gør den til en af de mest farlige infektionshazarder med betydelig indvirkning. Minimum fem influenzapandemier har fundet sted med ujævne intervaller over de sidste 100 år og har varieret meget i deres alvorlighed. Historisk set var den mest katastrofale influenzapandemi i 1918‑1920 (den såkaldte “Spaniske influenza”) og dræbte anslået 50 millioner mennesker verden over. De to øvrige influenzapandemier i det 20. århundrede (i 1957 og 1968) dræbte hver over en million mennesker (WHO EURO, no date).  
+
+I 1996 blev det højt patogene fugleinfluenza H5N1-viruset første gang identificeret hos husvande i Sydkorea. Viruset bærer navnet **A/goose/Guangdong/1/1996**. I 1997 opstod H5N1-fugleepidemier i Kina og Hongkong med 18 tilknyttede menneskelige tilfælde (6 dødsfald) i Hongkong. Dette virus ville senere forårsage mere end 860 menneskelige infektioner med en dødelighed på over 50 %. Viruset spredte sig stille og roligt og blev opdaget af Korea i importeret andekød fra Kina i 2003 (CDC, 2024). En menneskelig case blev bekræftet i Vietnam den 13. januar 2004 (WHO, 2004), og efter Vietnam rapporterede landene HPAI én efter én.  
+
+Den 2009 H1N1‑influenza‑pandemi anslås at have forårsaget op til 575 000 dødsfald, ikke kun blandt dem med højere risiko for komplikationer, men også i ellers sunde individer. På grund af influenzavirussens natur er en fremtidig influenzapandemi uundgåelig, og forberedelse er afgørende. Siden re‑opståelsen af højt patogene fugleinfluenza A(H5N1) i 2002‑2003 har verden accelereret forberedelserne til den næste influenzapandemi (WHO, no date; WHO EURO, no date).  
+
+I 2019 opstod en ny coronavirus (SARS‑CoV‑2) og forårsagede COVID‑19‑pandemien. De enorme menneskelige, samfundsmæssige og økonomiske omkostninger viste tydeligt, at truslen om en influenzapandemi stadig er reel, men at truslen fra andre respiratoriske vira også skal forblive på vores radar, og tilsvarende forberedelsesindsatser, der går ud over influenza, er nu absolut nødvendige (WHO, no date).  
+
+Den nuværende viden og teknologi gør det umuligt at forudsige den næste influenzapandemi – hvornår, hvor, hvilken virusstamme og hvor alvorlig – og derfor kan pandemivacciner ikke udvikles før viruset opstår. Verdenssundhedsorganisationens offentlige sundhedsforskningsagenda for influenza som innovativ forskningsmekanisme er afgørende for at informere og fremme forberedelse til pandemisk influenza (WHO, 2018). WHO, med støtte fra eksperter verden over, har fortsat udviklet og opdateret sin omfattende vifte af retningslinjer, værktøjer og andre ressourcer til at støtte lande i deres forberedelsesaktiviteter til influenzapandemier og andre respiratoriske vira. Disse ressourcer omfatter:  
+
+- Influenza‑pandemi‑forberedelseplanlægning  
+- Planlægning af pandemiforberedelse for influenza og andre respiratoriske virustrusler  
+- Offentlig sundhed og sociale foranstaltninger (PHSM) under en pandemi  
+- Overvågning under en influenzapandemi.  
+
+### Mål og numeriske grænser  
+I 2011 anbefalede IHR‑Review Committee on Pandemic Influenza (H1N1) 2009 WHO at udvikle og anvende målinger, der kan bruges til at vurdere alvorligheden af hver influenzæpidemi: “Ved at anvende, evaluere og forfine værktøjer til at måle alvorlighed årligt, kan WHO og medlemsstater være bedre forberedte til at vurdere alvorlighed i den næste pandemi”. Den opdaterede WHO‑ramme for pandemisk influenza‑alvorlighedsbehov (PISA) fastsætter en systematisk tilgang til fortolkning af data indsamlet gennem eksisterende overvågningssystemer og forbedrer deres anvendelighed til risikokommunikation og beslutningstagning. Tilgangen gør det muligt at vurdere alvorligheden af nuværende influenza og syndromisk respiratorisk sygdom i forhold til tidligere år ved hjælp af historiske data til at sætte tærskler, som derefter muliggør kvalitativ kategorisering af aktiviteten. PISA er designet til at blive implementeret løbende baseret på stabil rutine‑rapportering, hvilket muliggør sammenligning af aktivitet i epidemi- og pandemiperioder. Information til vurdering af alvorlighed, især tidligt og gennem hele pandemien, vil også blive leveret gennem undersøgelser, studier og modeller (WHO, 2024a).  
+
+### Nøgle-relevante FN-konvention/ multilaterale traktat  
+International Health Regulations (2005), 3. udgave (WHO, 2016).  
+
+### Drivere  
+En pandemi opstår, når en influenzavirus dukker op, som ingen eller kun meget begrænset forudgående immunitet findes i den globale menneskelige befolkning, og som kan transmittere effektivt mellem mennesker. Pandemi‑virussen kan være en virusstamme, der springer direkte fra dyr eller er omarrangeret fra dyrevirus med eller uden menneskelige sæsonvirus (WHO, no date a; WHO EURO, no date).  
+
+### Konsekvenser  
+Influenza‑pandemier, uanset om de er milde, moderate eller alvorlige, påvirker en stor del af den globale befolkning, hvilket udgør betydelige belastninger på sundhed og andre vigtige tjenester og kan føre til betydelige økonomiske tab (WHO, no date a). WHO anbefaler årlig vaccination for højrisikogrupper, herunder sundhedspersonale. Folk bør idealt blive vaccineret lige før influenzaseasonen starter for at opnå den mest effektive dækning, selvom vaccination på ethvert tidspunkt i influenzaseasonen stadig kan hjælpe med at forebygge infektioner. Den bedste måde at undgå at få influensa på er at få influensavaccinen hvert år. Influenza‑viruser udvikler sig konstant, og to gange om året giver WHO anbefalinger til opdatering af vaccinkompositionerne. For den nordlige halvkugles influenzaseason 2016‑2017 blev vaccineformuleringen opdateret i februar 2016 til at indeholde to type A‑viruser (H1N1 og H3N2) og en type B‑virus (WHO, 2020).  
+
+I 2018 markerede verden centenæret for starten af influenza‑pandemien 1918‑1919. Den anslåede dødelighed på op til 50 millioner overskred den første verdenskrigs tab og resulterede i et dramatisk fald i levealderen i mange lande på tidspunktet for pandemien. Denne påvirkning førte til fundamentale ændringer i folkesundhed og sundhedsvæsen, herunder centraliseret og konsolideret sundhedsvæsen, større anerkendelse af socioøkonomisk rolle i sundhed og koordinering af folkesundhed på national og globalt niveau. Siden pandemien 1918‑1919 har der været betydelig fremgang inden for medicinsk videnskab, herunder udvikling af influenzavacciner, antivirale lægemidler og bedre diagnostik. Følgende pandemier fandt sted i 1957‑1958, 1968‑1969 og 2009‑2010 og resulterede i henholdsvis 1‑4 millioner, 1‑4 millioner og 100 000‑400 000 dødsfald. Pandemi‑H1N1 2009 forårsagede betydelige dødsfald, især blandt dem under 65 år; den testede også nationale sundhedsresponse-systemer, især kapaciteten til at reagere på pandemivaccin og afsløre svagheder i disse systemer. Den understregede, at influenzaviruser af både fugle- og svineoprindelse kan forårsage en pandemi, og den fremhævede vigtigheden af intersektorielt samarbejde for forberedelse til pandemier. Selvom det er umuligt at forudsige, hvornår den næste pandemi vil opstå, betragtes den som uundgåelig, og den kunne i dette strategiske interval. Givet den stigende økonomiske globalisering, urbanisering og mobilitet vil den næste pandemi sprede sig hurtigere og længere og kan føre til betydelige forstyrrelser. Trods betydelige medicinske fremskridt over de sidste 100 år vil der stadig være befolkninger med begrænset adgang til pleje, som sandsynligvis vil opleve høje dødelighed under en pandemi.  
+
+### Multi‑hazard kontekst  
+Ikke anvendeligt.  
+
+### Risikostyring  
+Tidlig detektion, karakterisering og deling af information om pandemivirussen påvirker direkte resultatet af alle efterfølgende svar. WHO‑GISRS er grundlaget for en sådan operation. I en influenza‑pandemi vil viruset sandsynligvis sprede sig hurtigt. Hurtig udvikling, produktion og udrulning af vacciner er afgørende for at begrænse den potentielle indvirkning på befolkninger og vigtige tjenester. Tilgængeligheden af den rette vaccine i de tidlige faser af en pandemi påvirkes i høj grad af global produktionskapacitet og den nødvendige lead‑time til produktion af influenza‑vacciner (WHO, no date a). Da en influenza‑pandemi kan vare måneder eller endda år, kan den kræve et vedvarende svar i sundhedssektoren, men også i andre sektorer, der leverer vigtige tjenester, som energi og fødevareproduktion (WHO, no date a; WHO; 2025 b). Pandemic Influenza Preparedness Framework, eller PIP‑Framework, er et innovativt adgangs‑ og fordelingsinstrument, der søger at forberede verden bedre på at reagere mere retfærdigt på den næste influenzapandemi. PIP‑Framework blev vedtaget den 24. maj 2011 af de 194 medlemsstater i WHO, og anerkendte, at en influenza‑pandemi ville være en global udfordring, og at forberedelse krævede en helhedsorienteret, kollektiv og samarbejdende tilgang. WHO implementerer PIP‑Framework i tæt partnerskab med medlemsstater og offentlige sundheds­laboratorier specialiseret i influenza, industri og civilsamfund. PIP‑Framework gør det muligt for medlemsstater at dele influenzavirus med menneskelig pandemipotentiale med Global Influenza Surveillance and Response System (GISRS) og at opnå retfærdig adgang til vacciner, lægemidler og andre produkter og teknologier. Under rammeværket forventes medlemsstater at dele deres influenzavirus med pandemipotentiale (IVPPs) hurtigt, systematisk og rettidigt med GISRS, et WHO‑koordineret globalt netværk af offentlige sundheds­laboratorier. Udover at fungere som en virus‑delingsplatform udvikler GISRS – blandt andet – kandidatur‑vaccineviruser og andre analyser, materialer og information, der deles med medlemsstater og producenter af influenza‑vacciner og andre produkter, såsom antivirale og diagnostik (WHO, 2024a). Globalt koordineret overvågning af influenza, rettidig deling af virussdata og tilhørende information og innovativ forskning er nøglen til at håndtere influenzaproblemet. Global influenzaovervågning har været udført gennem Verdenssundhedsorganisationens Global Influenza Surveillance and Response System (GISRS) siden 1952. GISRS er et system, der fremmer global tillid i over halvt århundrede gennem effektivt samarbejde og deling af vira, data og fordele baseret på medlemsstaters engagement i en global folkesundhedmodel (WHO, 2024b). Målet med GISRS er at beskytte folk mod truslen fra influenza ved at fungere som:  
+
+- et globalt overvågnings-, forberedelses- og responsemekanisme for sæsonbestemt, pandemi- og zoonotisk influenza;  
+- en global platform for overvågning af influenza‑epidemiologi og sygdom;  
+- en global alarm for nye influenzavirus og andre respiratoriske patogener (WHO, 2024b).  
+
+One‑Health‑foranstaltninger for at mindske risikoen for, at pandemisk influenza tilpasser sig pattedyr og mennesker, fokuserer på at begrænse eksponering og forhindre spredning. Nøglehandlinger inkluderer styrket overvågning af mennesker og dyr, sikring af hurtig diagnostik, fremme af samarbejde mellem dyre- og menneskesektorer og overvejelse af forebyggende foranstaltninger som fuglevaccination. Effektiv kommunikation med forskellige målgrupper bør understreges, samt styrkelse af veterinærinfrastruktur, håndhævelse af biosikkerhedsforanstaltninger på gårde og reduktion af vildt- og husdyrkontakt (EFSA & ECDC, 2024).  
+
+### Overvågning  
+Global influenzaovervågning har været udført gennem WHO’s Global Influenza Surveillance and Response System (GISRS) siden 1952 (WHO, 2024b). GISRS er et system, der fremmer global tillid og tillid i over halvt århundrede gennem effektivt samarbejde og deling af vira, data og fordele baseret på medlemsstaters engagement i en global folkesundhedmodel. Missionen for GISRS er at beskytte folk mod truslen fra influenza ved at fungere som:  
+
+- et globalt overvågnings-, forberedelses- og responsemekanisme for sæsonbestemt, pandemi- og zoonotisk influenza;  
+- en global platform for overvågning af influenza‑epidemiologi og sygdom;  
+- en global alarm for nye influenzavirus og andre respiratoriske patogener.  
+
+Tabellen nedenfor giver et overblik over overvågning for pandemisk influenza. Disse oplysninger kan bruges til forudsigelse i et nationalt tidlig‑advarsels­system (TAS). Da TAS‑kapaciteter og processer varierer mellem lande, skal den mest aktuelle og specifikke information om TAS indhentes fra den relevante nationale eller regionale myndighed eller autoritet, der er ansvarlig for katastrofeforvaltning.  
+
+**Hvilke institution(er) producerer katastrofretsdata/‑information?**  
+WHO, Ministry of Health, FAO Reference Centres, WOAH Reference Centres, CDC  
+
+**Hvordan observeres/overvåges/forudsiges truslen?**  
+FAO empres-i+ https://empres-i.apps.fao.org/diseases  
+WHO risikovurderinger og sammenfatninger af influenza ved den menneske‑dyr‑grænse https://www.who.int/teams/global-influenza-programme/avian-influenza/monthly-risk-assessment-summary (TIPRA)  
+WHO WPRO https://www.who.int/westernpacific/wpro-emergencies/surveillance/avian-influenza  
+WOAH WAHIS https://wahis.woah.org/#/event-management  
+CDC IRAT WHO støtter lande med at gennemføre alle‑risiko­strategiske vurderinger i sundhedskriser og katastrofer, hvilket resulterer i udviklingen af en landsrisikoprofil. Ved hjælp af landsrisikoprofilen, inklusiv en sæson­risikokalendar, kan lande forudse potentielle nødsituationer før de opstår for at udløse tidlige advarsler og informere om tidlige handlinger (WHO, no date b).  
+
+**WHO’s Early Warning, Alert and Response System (EWARS)** er designet til at forbedre sygdomsmåling i nødsituationer, såsom lande i konflikt eller efter en naturkatastrofe. Det er en simpel og omkostningseffektiv måde at hurtigt oprette et sygdomsovervågningssystem på. EWARS implementeres under en nødsituation som et supplement til det nationale sygdomsovervågningssystem. WHO arbejder med sundhedsministerier og sundheds­sektor­partnere for at træne lokale sundhedspersonale til at bruge systemet. Efter nødsituationen bør EWARS genintegreres i det nationale system (WHO, no date, b).  
+
+### Referencer  
+(Referencelisten beholdes uændret på engelsk, som angivet i originalteksten.)

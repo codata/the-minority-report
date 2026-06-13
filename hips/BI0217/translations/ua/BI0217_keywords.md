@@ -1,0 +1,1 @@
+pathogenic bacterium of the genus Leptospira,urine of infected animals,urine-contaminated environment,saprophytic leptospires,halophilic leptospires,renal tubules of certain animals,wet or humid environments,epidemic potential,heavy rainfall or flooding,sewage contamination of water,Weil’s syndrome,pulmonary haemorrhage with respiratory failure,animal reservoir

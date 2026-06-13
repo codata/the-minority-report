@@ -1,0 +1,1 @@
+zoonotic disease,Lassa virus,Arenaviridae,animal reservoir Mastomys rats,urine or faeces transmission,haemorrhagic illness,liver spleen and kidneys,endemic regions,person-to-person transmission,infection prevention and control practices,viral and serological testing,public health risk assessment,case fatality rate

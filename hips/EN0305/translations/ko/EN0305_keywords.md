@@ -1,0 +1,1 @@
+Permafrost thaw, loss of ground ice, phase change between ice and water, active layer, abrupt thaw, thaw slumps, thermokarst landscapes, permafrost carbon pool, greenhouse gas emissions, ground subsidence, thaw alters drainage patterns

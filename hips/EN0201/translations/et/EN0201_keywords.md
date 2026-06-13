@@ -1,0 +1,1 @@
+conversion of forest to other land use,permanent reduction of the tree canopy cover,areas of forest converted to agriculture,forest converted to pasture,deforestation and forest degradation,loss of forest biodiversity,agricultural expansion,large-scale commercial agriculture,tropical deforestation,forest fragmentation,conversion to other land uses

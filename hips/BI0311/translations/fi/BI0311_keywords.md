@@ -1,0 +1,1 @@
+acute haemorrhagic viral disease,small and large ruminants and camels,Phlebovirus genus,viral zoonosis,contact with blood or organs,mosquito bites,influenza-like illness and haemorrhagic fever,RVF virus as an arbovirus,inactivated and live attenuated vaccine,Aedes mosquitoes,flooding and heavy rainfall,RVF epidemic/epizootic

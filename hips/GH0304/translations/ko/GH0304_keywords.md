@@ -1,0 +1,1 @@
+movement of a mass of rock debris or earth,individualized failure surface,translational slides,rotational slides,pre-existing discontinuity(s),stratification plane,debris avalanche,rock slides and rock falls,high precipitation drivers,active protections,passive protections,slope vegetation,failure surface

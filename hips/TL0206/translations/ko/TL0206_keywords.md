@@ -1,0 +1,1 @@
+flow of materials, supply chain failure,supply chain disturbances,cascading effect,inventory has been drained,on-time delivery,demand shocks,logistical barriers,multi-hazard context,supply chain risk management,availability of goods and services

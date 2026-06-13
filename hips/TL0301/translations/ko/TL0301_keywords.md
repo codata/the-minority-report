@@ -1,0 +1,1 @@
+uncontrolled release of a toxic substance, silent release of a chemical, full-scale major emergencies, chemical leaks and spills, spills and leaks from containers, corrosion of the container, primary and secondary contamination, hot zone warm zone cold zone, air water and soil pollution, containment of liquid chemicals, environmental monitoring, chemical incident plan

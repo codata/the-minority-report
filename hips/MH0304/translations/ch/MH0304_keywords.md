@@ -1,0 +1,1 @@
+atmospheric phenomenon, sudden onset, duration of the order of minutes, sudden decrease in speed,shower or thunderstorm,wind speed of 16 knots or more,sustained wind speed of 22 knots or more,winds, cloud mass and precipitation,thunder and lightning,multi-hazard context,wind shear effects,Doppler radar monitoring,numerical weather models

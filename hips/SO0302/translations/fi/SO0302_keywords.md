@@ -1,0 +1,1 @@
+surge of individuals in a crowd,physical compression of the human bodies,traumatic asphyxia,external compression of the thorax,crushing injury to intrathoracic organs,intraabdominal organs,compressive forces from side to side,ventilatory failure,traumatic asphyxia caused by external compression,mass casualty management

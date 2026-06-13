@@ -1,0 +1,1 @@
+flow of materials, disruption of flow, supply chain disturbances, persistent failure, network resilience, logistical barriers, inventory drain, supply chain performance, cascading effect, multi-hazard context, on-time delivery (OTD), lead time index, Port Congestion Index

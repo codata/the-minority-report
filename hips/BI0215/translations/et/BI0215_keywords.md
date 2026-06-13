@@ -1,0 +1,1 @@
+zoonotic disease,haemorrhagic illness,Lassa virus,Arenaviridae,Mastomys rats,urine and faeces transmission,asymptomatic infection,severe disease organs,blood urine or throat washings,endemic regions,case fatality rate

@@ -1,0 +1,1 @@
+Plasmodium parasites, Anopheles mosquitoes, malaria vectors, P. falciparum, P. vivax, malaria-endemic areas, malaria diagnosis, malaria elimination, insecticide-treated nets, antimalarial drug resistance, malaria surveillance, Early Warning, Alert and Response System (EWARS), chemoprophylaxis, malaria vaccines
