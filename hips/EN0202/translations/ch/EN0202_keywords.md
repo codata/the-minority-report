@@ -1,0 +1,1 @@
+premature loss of tree and stand vigour,gradual deterioration of plant tissues,abiotic stress,biological invasions,predisposing inciting contributing factors,major biomass loss,dieback of twigs and branches,root decay fungi,multi-hazard context,early warning systems

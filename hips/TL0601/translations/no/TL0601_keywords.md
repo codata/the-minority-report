@@ -1,0 +1,1 @@
+radioactive material, radioactive waste, gas liquid or solid form, material for which no further use is foreseen, activity concentrations greater than clearance levels, High-Level Waste, Intermediate-Level Waste, Long-Lived Waste, Low-Level Waste, Short-Lived Waste, Very Low-Level Waste, Very Short-Lived Waste, spent fuel, decommissioning waste, reprocessing waste

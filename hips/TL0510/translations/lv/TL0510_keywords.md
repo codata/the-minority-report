@@ -1,0 +1,1 @@
+impoundments made by excavation or earth fill, biological treatment of animal waste, degrade manure, anaerobic aerobic lagoons, mechanical aeration, physical chemical biological processes, leaching of nitrates into groundwater, eutrophication of surface water, heavy metals in the soil, effluent from livestock production, contamination of soil and water resources, noxious gases

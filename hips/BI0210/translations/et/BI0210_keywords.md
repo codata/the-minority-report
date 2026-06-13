@@ -1,0 +1,1 @@
+Escherichia coli (E. coli),Shiga-toxin producing E. coli (STEC),haemolytic uraemic syndrome (HUS),E. coli O157:H7,faecal-oral transmission,Enterohaemorrhagic E. coli (EHEC),cattle reservoir,foodborne infections,raw or undercooked ground meat products,waterborne transmission,faecal contamination

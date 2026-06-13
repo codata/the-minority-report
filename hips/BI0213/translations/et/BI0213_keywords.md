@@ -1,0 +1,1 @@
+blood-borne liver disease,acute and chronic hepatitis,liver cirrhosis,liver cancer,HCV ribonucleic acid (RNA),anti-HCV antibodies,chronic HCV infection,hepatocellular carcinoma,direct-acting antivirals (DAAs),pan-genotypic direct-acting antivirals,spontaneous viral clearance,jaundice,unsafe injection practices

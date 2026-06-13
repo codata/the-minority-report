@@ -1,0 +1,1 @@
+loss of tree and stand vigour, abiotic stress, climate deregulation, emergence of new pathogens, biological invasions, root decay fungi, predisposing inciting and contributing factors, soil site and climate, insect pest and disease outbreaks, abiotic stressors, biotic stressors, hydraulic failure, reduced carbon and water-use efficiency, NDVI monitoring

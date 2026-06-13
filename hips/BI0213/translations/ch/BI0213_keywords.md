@@ -1,0 +1,1 @@
+blood-borne liver disease, acute and chronic hepatitis, liver cirrhosis, liver cancer, modes of infection via blood exposure, incubation period, jaundice, anti-HCV antibodies, nucleic acid test for HCV RNA, direct-acting antivirals, chronic HCV infection, hepatocellular carcinoma

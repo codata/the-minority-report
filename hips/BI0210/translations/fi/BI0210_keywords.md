@@ -1,0 +1,1 @@
+Shiga-toxin producing E. coli (STEC), E. coli O157:H7, faecal-oral transmission, Enterohaemorrhagic E. coli (EHEC), cattle as the main reservoir, haemolytic uraemic syndrome (HUS), foodborne infections, waterborne transmission, multiply resistant to antibiotics, toxin gene in faeces, cross-contamination during food preparation

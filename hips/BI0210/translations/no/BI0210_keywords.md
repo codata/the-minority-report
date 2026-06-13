@@ -1,0 +1,1 @@
+Escherichia coli (E. coli), Shiga-toxin producing E. coli (STEC), Enterohaemorrhagic E. coli (EHEC), E. coli O157:H7 serotype, faecal-oral transmission, cattle reservoir, haemolytic uraemic syndrome (HUS), foodborne infections, heat-sensitive pathogen, minimum water activity (aW) of 0.95, undercooked ground meat products, contaminated drinking water

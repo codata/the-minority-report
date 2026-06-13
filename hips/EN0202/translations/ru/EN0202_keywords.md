@@ -1,0 +1,1 @@
+premature loss of tree and stand vigour and health,gradual deterioration of plant tissues,abiotic stress,climate deregulation,emergence of new pathogens,biological invasions,root decay fungi,predisposing inciting and contributing factors,major biomass loss,abiotic stressors,biotic stressors,physiological changes,hydraulic failure,ecosystem stress,early warning systems

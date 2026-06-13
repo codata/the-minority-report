@@ -1,1 +1,44 @@
-{}
+```markdown
+### Definição
+As lagoas de tratamento de resíduos podem ser definidas como pântanos construídos por escavação ou aterro de terra para tratamento biológico de resíduos de origem animal e de outros resíduos agrícolas (Spellman & Bieber, 2012).
+
+### Referência Primária
+Spellman, F.R. e R.M. Bieber, 2012. Environmental Health and Science Desk Reference. Government Institutes, 807.
+
+### Anotações
+#### Descrição científica adicional
+Nas últimas décadas, a produção pecuária (ex.: fazendas de suínos, laticínios, indústria avícola) aumentou rapidamente. A produção aumentada decorre de fazendas industriais agrupadas em torno de grandes centros urbanos (FAO, 2007). Os resíduos pecuários são uma principal fonte de gases de efeito estufa, poluentes atmosféricos, patógenos nocivos e odores (Sorathiya et al., 2014). As concentrações de animais, incluindo pecuária intensiva, e resíduos animais próximos a populações humanas densas podem causar problemas ambientais em larga escala, incluindo poluição do solo, água e ar, perda de biodiversidade e impactos negativos à saúde humana. É potencialmente mais perigoso se tal produção concentrada ocorrer em áreas próximas a fontes de água (FAO, 2007). O termo “lagoon” é frequentemente usado de forma errônea, incluindo erroneamente bacias de armazenamento de esterco como lagoas (Hamilton et al., 2006). Bacias de armazenamento de esterco não têm a finalidade de oferecer tratamento biológico significativo ou períodos de armazenamento prolongados (Livestock and Poultry Environmental Learning Community, 2019). As lagoas de tratamento de resíduos podem ser anaeróbicas, aeróbicas, naturalmente aeróbicas, aeradas mecanicamente e facultativas, dependendo de sua carga e design (Miller et al., 2011). Elas dependem de processos físicos, químicos e biológicos para degradar o esterco (Hamilton et al., 2006; Miller et al., 2011).
+
+### Métricas e limites numéricos
+Não disponível.
+
+### Convenção/multilateral relevante da ONU
+O Brief de Política da UN‑Water sobre as convenções globais de água das Nações Unidas: Fomentar desenvolvimento sustentável e paz. (UN‑Water, 2022)
+
+### Impulsionadores
+Os efluentes da produção industrial pecuária são frequentemente descartados no ambiente ou armazenados em “lagoas”, onde o resíduo pode vazar ou infiltrar em riachos e nascentes de água subterrânea próximas. Gases nocivos escapam para a atmosfera, sujeitando vizinhos a odores nauseantes e contribuindo para a formação de aerossóis, acumulação de gases de efeito estufa e chuva ácida (FAO, 2007).
+
+### Impactos
+Os riscos ambientais e à saúde pública associados a estufas industriais e lagoas de tratamento de resíduos podem ser limitados assegurando que não estejam localizados muito próximos uns dos outros, de riachos, de aquíferos e de comunidades densamente povoadas. O dano ambiental pode ser reduzido ainda mais incentivando e fazendo cumprir padrões para o projeto e construção de edifícios e lagoas que estejam em conformidade com sistemas de manejo de esterco aprovados (FAO, 2007). As usinas de processamento de carne produzem grandes quantidades de água residual de matança, tratamento e disposição final (Bustillo‑Lecompte e Mehrvar, 2017). Lagoas de tratamento de resíduos de pecuária e bacias de armazenamento de esterco podem vazar ou infiltrar em riachos e nascentes de água subterrânea próximas. Além disso, rachaduras, construção inadequada, aumento da precipitação, tempestades ou ventos mais fortes que o normal podem causar transbordamento de lagoas. Poças ou lagoas usadas para armazenar efluentes devem ser forradas para reduzir a lixiviação e ser grandes o suficiente para permitir o armazenamento de esterco em períodos em que a aplicação em culturas não é adequada, como durante a estação chuvosa (FAO, 2007). O transbordamento pode espalhar bactérias nocivas, pesticidas, antibióticos animais, estrógenos adicionais, metais pesados e protozoários para a fonte de água subterrânea e contaminar áreas circundantes, podendo ser identificado como sedimentos socio‑econômicos gerados (Sharma e Singh, 2015). A poluição associada ao manejo de resíduos pecuários em produção intensiva inclui (FAO, 2007): lixiviação de nitratos para a água subterrânea, ameaça às fontes de água potável; eutrofização de água superficial, pois nitrogênio, fósforo e outros nutrientes são descartados ou correm para riachos, danificando áreas úmidas e ecossistemas costeiros frágeis e alimentando “erupções” de algas que consomem oxigênio na água, matando peixes e outras formas de vida aquática; acúmulo de nutrientes excessivos e metais pesados no solo, danificando a fertilidade do solo e reduzindo recursos de terras aráveis; contaminação de solo e recursos de água com patógenos, metais pesados ou resíduos de medicamentos; liberação de amônia, sulfeto de hidrogênio, metano, dióxido de carbono e outros gases na atmosfera, alguns dos quais podem impactar negativamente a saúde, danificar culturas e ecossistemas.
+
+### Contexto multi‑risco
+A figura abaixo resume as interações comuns entre lagoas de tratamento de resíduos e outros riscos. Esta informação deve ser usada com cautela e não deve ser usada de forma exclusiva na Gestão de Risco de Desastres, particularmente porque algumas interações podem não ter sido incluídas. Observe que eventos perigosos que ocorrem juntos ou localmente no espaço ou no tempo podem não necessariamente causar, amplificar ou estar de outra forma relacionados. Exemplos específicos de contexto multi‑risco podem ser encontrados nas seções “Impulsionadores de risco” e “Impactos” acima.
+
+### Diagrama multi‑risco
+
+### Gestão de Risco
+Políticas e legislações eficazes para regular operações pecuárias intensivas e apoiar abordagens ambientalmente e economicamente sustentáveis, bem como o uso de práticas e tecnologias adequadas, têm alta importância para abordar esses desafios e mitigar a produção de poluentes. Os resíduos pecuários são uma fonte importante de nutrientes e energia que contribuem para a melhoria da bioeconomia circular. O manejo adequado e o uso de resíduos pecuários como fertilizante ou para conversão em biogás, composto e vermicomposto são meios úteis para aumentar a produtividade das culturas, a sustentabilidade e a renda (Sorathiya et al., 2014).
+
+### Monitoramento
+A FAO fornece orientações sobre sistemas de recirculação e reutilização de águas residuais que devem conter requisitos de projeto e operação necessários para garantir a confiabilidade do tratamento (FAO, data não especificada). Características de confiabilidade, como sistemas de alarme, fonte de energia reserva, processo de tratamento, armazenamento de emergência ou disposição inadequada de águas residuais, dispositivos de monitoramento e controladores automáticos, são importantes. Do ponto de vista da saúde pública, disposições para desinfecção adequada e confiável são as características mais essenciais do processo avançado de tratamento de águas residuais com programa de monitoramento que deve ser sempre incorporado ao projeto de escoamento terrestre tanto para a qualidade de águas residuais e efluentes quanto para as taxas de aplicação (FAO, data não especificada).
+
+### Referências
+Bustillo‑Lecompte, C. e Mehrvar, M., 2017. Slaughterhouse wastewater: treatment, management, and resource recovery. In: Farooq, R. e Ahmad, Z. (eds.) Physico-chemical wastewater treatment and resource recovery. London: IntechOpen.  
+Food and Agriculture Organization of the United Nations (FAO), 2007. Pollution from industrialized livestock production. Food and Agriculture Organization of the United Nations (FAO). Accessed 20 December 2024.  
+Hamilton, D.W., B. Fathepure, C.D. Fulhage, W. Clarkson e J. Lalman, 2006. Treatment lagoons for animal agriculture. In: Rice, J.M., D.F. Caldwell e F.J. Humenik (eds.), Animal Agriculture and the Environment. National Center for Manure and Animal Waste Management, pp. 547-574. Accessed 20 December 2024.  
+Livestock and Poultry Environmental Learning Community (LPELC), 2019. Liquid manure treatment lagoons. Accessed 20 December 2024.  
+Miller, R., J. Major e P. Trinca, 2011. How a lagoon works: For livestock wastewater treatment. Accessed 20 December 2024.  
+Sharma, S. e D.N. Singh, 2015. Characterization of sediments for sustainable development: state of the art. Marine Georesources and Geotechnology, 33(5) 10.1080/1064119X.2014.953232  
+Sorathiya, L.M., Fulsoundar, A.B., Tyagi, K.K., Patel, M.D. e Singh, R.R., 2014. Eco-friendly and modern methods of livestock waste recycling for enhancing farm profitability. International Journal of Recycling of Organic Waste in Agriculture, 3, p.50.  
+UN‑Water, 2020: UN‑Water Policy Brief on the United Nations global water conventions: Fostering sustainable development and peace. Geneva, Switzerland.
+```

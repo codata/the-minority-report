@@ -1,0 +1,1 @@
+blood-borne liver disease,acute and chronic hepatitis,liver cirrhosis,liver cancer,Hepatitis C virus,modes of infection,injecting drug use,unsafe injection practices,transfusion of unscreened blood,nucleic acid test for HCV ribonucleic acid,antiviral medications,pan-genotypic direct-acting antivirals,chronic HCV infection,spontaneous viral clearance,risk assessment

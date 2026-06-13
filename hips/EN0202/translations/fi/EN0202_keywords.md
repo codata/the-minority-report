@@ -1,0 +1,1 @@
+loss of tree and stand vigour and health, premature progressive loss, abiotic stress, climate deregulation, biological invasions, root decay fungi, predisposing inciting contributing factors, major biomass loss, hydraulic failure, critical slowing down, early warning and early action systems, NDVI monitoring

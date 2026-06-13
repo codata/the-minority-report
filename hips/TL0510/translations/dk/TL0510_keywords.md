@@ -1,0 +1,1 @@
+biological treatment of animal waste,manure storage basins,physical chemical and biological processes,anaerobic aerobic lagoon states,effluent storage and discharge,reducing leaching,eutrophication of surface water,build-ups of heavy metals,contamination of soil and water resources,leaching of nitrates into groundwater

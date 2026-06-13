@@ -1,0 +1,1 @@
+premature loss of tree and stand vigour and health,gradual deterioration of plant tissues,abiotic stress and climate deregulation,emergence of new pathogens,interaction of predisposing inciting and contributing factors,root necrosis,major biomass loss,hydraulic failure,invasive insect pests and pathogens,NDVI monitoring,early warning systems for forest decline and dieback

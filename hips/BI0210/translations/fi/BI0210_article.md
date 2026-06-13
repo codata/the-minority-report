@@ -1,1 +1,61 @@
-{}
+```markdown
+# Määritelmä
+Escherichia coli (E. coli) on bakteeri, jota esiintyy yleisesti suolistossa. Jotkin lajit voivat aiheuttaa vakavia ruokatuhoista myrkytyksiä, joihin sisältyy diarree ja joskus elintärkeitä komplikaatioita, mukaan lukien hemolyyttinen uraemiaksia (WHO, 2018a).
+
+## Pääviite(t)
+WHO, 2018. E. coli. World Health Organization (WHO). Accessed 15 February 2025.
+
+## Kommentit
+### Lisätieteellinen kuvaus
+Useimmat E. coli -lajit ovat vaarattomia ja niitä löytyy yleensä ihmisistä ja lämpimän veren eläimistä. Jotkin lajit, kuten **Shiga‑toksiinia tuottava E. coli** (STEC), ovat haitallisia ja voivat johtaa vakaviin ruokamyrkytyksiin. **E. coli O157:H7** on tärkein STEC-serotyyppi, mutta muita serotyyppejä esiintyy satunnaisissa tapauksissa ja laajamittaisissa tartuntoissa (WHO, 2018a). STEC:n siirto tapahtuu fekaalinen‑oralisti, ja naudat ovat pääasiallinen varasto, vaikka lammas ja vuohi kantavat myös **Enterohaemorrhagic E. coli** (EHEC). Se siirtyy ihmisille pääasiassa saastuneen veden ja ruoan kulutuksen kautta, mukaan lukien raaka tai alhainen kypsennys naudan jauhelihaproduktien (esim. hampurilaiset tai kuivattu salami) ja raaka maito (esim. juusto tai jogurtti raaka maidosta) sekä vihannekset, jotka ovat saastuneita fekaalista.
+
+Kontaktit eläimiin (esim. maatilat ja lemmikkialueet) ovat myös siirtoreittejä (WHO, 2018a). Ihmisitä ovat toissijainen, mutta merkittävä EHEC:n varasto. Ihmiset voivat olla oireettomia kantajia (ja siksi eivät näytä kliinisiä oireita), mutta he voivat tartuttaa muita (WHO, 2018a). Oireet ovat yleensä itse rajoittuvia, ja paraneminen tapahtuu kymmenen päivän sisällä. Ne sisältävät vatsakipuja, diarree (jotka voivat olla verisiä – hemorraaginen kolitti), kuumetta ja oksentelua. Pieni osuus potilaista (erityisesti pienet lapset ja ikääntyneet) voi kärsiä hemolyyttisestä uraemiaksista (HUS), joka on elintärkeä. Se on tunnusomaisesti äkillinen munuaisten vajaatoiminta, hemolyyttinen anemia ja trombocytopenia (alhainen verihiutaleiden määrä) (WHO, 2018a). Arvioidaan, että jopa 10 % STEC‑tartunnan potilaista voi kehittää HUS, ja kuolleisuusaste vaihtelee 3 – 5 %. Yleisesti HUS on nuorten lasten yleisin äkillisen munuaisten vajaatoiminnan syy. Se voi aiheuttaa neurologisia komplikaatioita (kuten kohtalontörmäykset, aivohalvaus ja koma) 25 % HUS‑potilaista ja kroonisia munuaisen jälkivaikutuksia, jotka ovat yleensä lieviä, noin 50 % selviytyjistä (WHO, 2018a). Antibiotit eivät ole suositeltavia EHEC‑tartunnan hoidossa, koska ne voivat pahentaa EHEC:n komplikaatioita ja johtaa HUS‑tulokseen. Lisäksi monet lajit ovat moniresistenttejä antibiooteille, kuten ampisilliini, streptomysiini, trimetoprim, sulfonamid ja tetratsikline (Tadesse et al., 2012). Laboratoriotestaus tehdään erottamalla organismi kasvatuskulttuurilla ja/tai tunnistamalla toxin‑gene fekaalissa (ECDC, 2018). Euroopan sairauksien ennaltaehkäisy‑ ja kontrollikeskus (ECDC) on julkaissut tapaustyypin luokittelun tautienhallintaan ja kansalliseen epidemiologiseen valvontaan (ECDC, 2018).
+
+## Mittarit ja numeeriset rajat
+Vuonna 2015 WHO julkaisi ensimmäiset arvioinnit ravintoaineista johtuvien sairauksien globaalista kuormituksesta, jossa arvioitiin, että vuonna 2010 yli 600 miljoonaa ihmistä sairastui ravintoaineista johtuvien sairauksien (mukaan lukien STEC) aiheuttamasta syystä, kuoli 420 000 ihmistä ja syntyi 33 miljoonaa Disability‑Adjusted Life Year (DALY) (FAO & WHO, 2018). Foodborne Disease Burden Epidemiology Reference Group (FERG), joka työskentelee WHO:n puolesta, arvioi, että ravintoaineista johtuvan STEC:n aiheuttama sairaus merkitsi yli 1 miljoonan tapauksen, joista kuoli yli 100 ihmistä ja syntyi lähes 13 000 DALY (FAO & WHO, 2018).
+
+## Keskeiset UN:n sopimukset / monipuoliset traktatit
+International Health Regulations (2005), 3. painos (WHO, 2016).
+
+## Ajurit
+Vaaran ajurit sisältävät infektio, ravitsemattomuuden, vesien saastumisen ja muut syyt, kuten huonon henkilökohtaisen hygieniakäytännön (WHO, 2024).  
+- **Infektio**: Diarree on E. coli:n oire ja se leviää fekaalista saastuneen veden kautta. Infektio on yleisempi, kun puuttuu riittävä saniteetti ja hygienia sekä turvallinen juomavesi, keittiövesi ja puhdistusvesi. Alle viiden vuoden iäisissä lapsissa yleisimpiä virusinfektioita ovat rotavirus, norovirus, adenovirus ja astrovirus (WHO, 2024a).  
+- **Ravitsemattomuus**: Lapsia, jotka kuolevat diarreasta, on usein ravitsemattomuutta, mikä tekee heistä alttiimpia diarrealle. Jokainen diarrea‑tapahtuma pahentaa ravitsemattomuutta. Diarrea on pääasiallinen syy ravitsemattomuudelle alle viiden vuoden iäisten lapsissa (WHO, 2024a).  
+- **Muita syitä**: Diarhea‑tauti voi myös levitä henkilöstä toiseen huonon hygieniaa johtuen. Ruoka on toinen merkittävä diarrea‑syy, kun se on valmistettu tai säilytetty epähygienisissa olosuhteissa. Koti-veden epävarma varastointi ja käsittely ovat myös merkittävä riski. Kalat ja merikalat saastuneesta vedestä voivat myös aiheuttaa taudin leviämistä (WHO, 2024a).  
+- **Kaasun ja veden saasteet**: Ihmisten fekaalista saastettu vesi, esimerkiksi viemäristä, septikupisteistä ja latrineista, on erityisen huolestuttavaa. Eläinten fekaalit sisältävät myös mikro-organismeja, jotka voivat aiheuttaa diarreaa (WHO, 2024a).
+
+## Vaikutukset
+Diarrhea‑taudin vakavin uhka on kuivuminen. Diarrhea‑tapahtuman aikana vesi ja elektrolyytit (natrium, kloori, kalium ja bikarbonaatti) menetetään liukkuvien ulosteiden, oksentelun, hengityksen, virtsan ja hengityksen kautta. Kuivuminen tapahtuu, kun nämä menetykset eivät korvata. WHO (2024a) kuvailee kuivumisen asteita asteikolla 3:  
+- **Suurennainen kuivuminen** (vähintään kaksi seuraavista merkkeistä): väsymys, silmät alhaalla, kyvyttömyys juoda tai huonosti juoda, ihon pinnoitteessa hitaasti paluukelpoinen (≥2 sekuntia).  
+- **Keskisuuri kuivuminen** (kaksi tai useampia seuraavista merkkeistä): levottomuus, ärtyneisyys, silmät alhaalla, juominen, jano.  
+- **Ei kuivuminen** (ei riittävästi merkkejä, jotta luokiteltu joko keskisuuri tai suurennainen kuivuminen).  
+
+Diarrhea johtaa useisiin vakaviin terveysongelmiin, kuten immuunijärjestelmän heikkenemiseen, munuaisten vaurioihin, neurologisiin komplikaatioihin ja pitkäaikaisiin munuaisten jälkivaikutuksiin.
+
+## Monivaarallisuus
+**E. coli O157:H7** siirtyy ihmisille pääasiassa saastuneen ruoan, kuten raaka tai alhainen kypsennys naudan jauhelihaproduktien ja raaka maidon, kulutuksen kautta. Fekaalinen saastuminen sekä veden että muiden ruokien, sekä ristikohtelut ruoan valmistuksessa (kuten naudan ja muiden lihatuotteiden, saastuneiden pintojen ja keittiövälineiden kanssa) johtavat myös tartuntaan. Esimerkkejä ruoista, jotka liittyvät **E. coli O157:H7** -tartuntoihin, ovat alhainen kypsennys hampurilaisten, kuivattu salami, juomattoman tuorepuristetun omenameen, jogurtti ja juusto raaka maidosta (WHO, 2018a).  
+Asti‑tapahtumia yhä useammin liittyy hedelmien ja vihannesten kulutukseen (sis. napostellut, pinaatti, salaatti, kollasalaatti ja salaatit), joissa saastuminen voi johtua kotieläinten tai villieläinten fekaalien kosketuksesta kasvatus- tai käsittelyvaiheessa. STEC on myös havaittu vesistöissä (esim. purot ja joet), kaivukoissa ja veden säiliöissä, ja se on säilynyt useita kuukausia karjan ja vesisäiliön sedimentissa. Vesien kautta tapahtuva siirto on raportoitu sekä saastuneen juomaveden että virkistysveden kautta (WHO, 2018a).
+
+## Riskienhallinta
+Yhteistyössä valvonnan ja nopean reagoinnin kanssa ehkäisy on avain. STEC on lämmönherkkä. WHO:n viisi avainta ruoan turvallisuuteen on tärkeä toimenpide estää ruoka-aineiden patogeeneja, kuten STEC, tartunta kotitalouksissa ja ravintoloissa (WHO, 2006).  
+Kuten muut fekaalinen‑oraliset patogeenit, turvallinen vedenhallinta, mukaan lukien vedenlähteiden suojaaminen fekaalista saastumiselta sekä veden turvallinen varastointi ja käsittely kotona, on tärkeää ehkäisyssä. Lattarat ja WC:t, jotka eristävät suolenpoiston turvallisesti ihmisen kosketuksesta ja hallitsevat fekaalijätettä, ovat tärkeitä toimenpiteitä ympäristön saasteiden ehkäisyssä.  
+Erityisen tärkeää on, että terveydenhuollon laitokset, jotka hoitavat **Enterohaemorrhagic E. coli** -potilaita, tarjoavat perusvesi-, saniteetti- ja hygieniapalvelut (WHO, 2008; 2018a; b; 2019). Pitkän aikavälin ehkäisy vaatii hallintatoimenpiteitä kaikissa elintarviketehojen vaiheissa, maataloudesta tuotannosta, prosessoinnista, valmistuksesta ja ruoan valmistuksesta niin kaupallisissa kuin kotitalouksissa (WHO, 2019).
+
+## Seuranta
+Tartuntojen valvonta ja ajantasainen ja yksityiskohtainen tutkimus ovat olennaisia. WHO tukee tiedon jakamisen koordinointia Kansainvälisten terveysvalvonnan (WHO, 2016), International Food Safety Authority Network (INFOSAN) ja muiden raportointimekanismien kautta; se seuraa **E. coli O104:H4** -tartuntojen tapahtumia ja antaa viimeisimmät tiedot. WHO tekee tiivistä yhteistyötä kansallisten terveysviranomaisten ja kansainvälisten kumppaneiden kanssa havaitsemaan erityisen bakterian lajityypin ja jäljittämään sen lähteen (WHO, 2018a). WHO tukee maita strategisella riskinarvioinnilla terveysuutioiden ja katastrofien yhteydessä, mikä johtaa maakohtaisen riskiprofiilin kehittämiseen. Valtuutetun maakohtaiseen riskiprofiiliin, mukaan lukien kausittainen riskikalenteri, maat voivat ennakoida mahdollisia hätätilanteita ennen niiden tapahtumista ja käynnistää varhaisia varoituksia sekä tiedottaa varhaisia toimia (WHO, 2021). WHO:n varhaisen varoituksen, varoituksen ja reagointijärjestelmän (EWARS) on suunniteltu parantamaan tautien havaitsemista hätätilanteissa, kuten maissa, jotka ovat konfliktin alla tai katastrofin jälkeen. Se on yksinkertainen ja kustannustehokas tapa nopeasti perustaa tautivalvontajärjestelmä. EWARS otetaan käyttöön hätätilanteessa lisätoimenpiteenä kansalliseen tautivalvontajärjestelmään. WHO tekee yhteistyötä terveydenhuollon ministerysten ja terveydenhuoltoalan kumppaneiden kanssa kouluttaakseen paikallisia terveydenhuollon ammattilaisia käyttämään järjestelmää. Häätön jälkeen EWARS tulisi reintegroitu takaisin kansalliseen järjestelmään (WHO, no date).
+
+## References
+ECDC, 2018. Commission implementing decision (EU) 2018/945 of 22 June 2018 on the communicable diseases and related special health issues to be covered by epidemiological surveillance as well as relevant case definitions. European Centre for Disease Prevention and Control (ECDC). Accessed 26 May 2025.
+FAO, WHO, 2018. Shiga toxin-producing Escherichia coli (STEC) and food: attribution, characterization, and monitoring Food and Agriculture Organization of the United Nations (FAO) and World Health Organization (WHO). Accessed 15 February 2025.
+Tadesse, D., Zhao, S., Tong, E., Ayers, S., Singh, A., Bartholomew, M., McDermott, P., 2012. Available from: Antimicrobial Drug Resistance in Escherichia coli from Humans and Food Animals United States 1950-2002. Emerging Infectious Diseases, 18:741-749. doi:10.3201/eid1805.111153. Accessed 15 February 2025.
+WHO, 2006. Five keys to safer food manual. World Health Organization (WHO). Accessed 26 May 2025.
+WHO, 2008. Essential environmental health standards in health care facilities. World Health Organization (WHO). Accessed 15 February 2025.
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Accessed 26 May 2025.
+WHO, 2018a. E. coli. World Health Organization (WHO). Accessed 26 May 2025.
+WHO, 2018b. Guidelines on sanitation and health. World Health Organization (WHO). Accessed 15 February 2025.
+WHO, 2019. WHO Scheme to Evaluate Household Water Treatment Technologies. Round II report. World Health Organization (WHO). Accessed 15 February 2025.
+WHO, 2021. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all-hazards health emergency risk assessment. World Health Organization (WHO). Accessed 13 February 2025.
+WHO, 2024a. Diarrhoeal disease. World Health Organization (WHO). Accessed 26 March 2025.
+WHO no date. Early Warning, Alert and Response System (EWARS). World Health Organization (WHO). Accessed 13 February 2025.
+Cite this [Copy citation]
+```

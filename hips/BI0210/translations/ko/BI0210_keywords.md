@@ -1,0 +1,1 @@
+haemolytic uraemic syndrome, Shiga-toxin producing E. coli, faecal-oral transmission, Enterohaemorrhagic E. coli, E. coli O157:H7, STEC transmission, foodborne infections, Shiga-toxins, waterborne transmission, E. coli O104:H4

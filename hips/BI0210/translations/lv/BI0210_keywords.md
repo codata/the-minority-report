@@ -1,0 +1,1 @@
+Shiga-toxin producing E. coli, E. coli O157:H7, faecal-oral transmission, Enterohaemorrhagic E. coli (EHEC), cattle reservoir, foodborne infections, haemolytic uraemic syndrome (HUS), minimum water activity (aW), heat-sensitive pathogen, cross-contamination, acidic food growth, waterborne transmission

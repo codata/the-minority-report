@@ -1,0 +1,1 @@
+biological treatment of animal waste,impoundments made by excavation,degrade manure,anaerobic aerobic biological treatment,physical chemical biological processes,effluents from livestock production,leaching of nitrates into groundwater,eutrophication of surface water,contamination of soil and water resources,release of noxious gases
