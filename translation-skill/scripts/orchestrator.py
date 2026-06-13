@@ -479,7 +479,7 @@ def _arbitrate_model(term, context, candidates, model, arbitrator_prompt_templat
     else:
         print(f"    [{model}] failed to vote.")
 
-def _query_model_longtext(text, language, model, longtext_prompt_template, method="standard", small_model="gemma4:e2b", keyword_prompt_template="", term="", code="", wiki_expert_prompt_template=""):
+def _query_model_longtext(text, language, model, longtext_prompt_template, method="standard", small_model="gemma4:e2b", keyword_prompt_template="", term="", code="", wiki_expert_prompt_template="", field=""):
     """Helper to query a single model for long text translation (plaintext)."""
     if method == "rl" and keyword_prompt_template:
         cache_path = None
@@ -520,7 +520,7 @@ def _query_model_longtext(text, language, model, longtext_prompt_template, metho
         if wiki_term and wiki_term != "Not provided.":
             text += f"\n\nEstablished Wiki Terms (Synonyms): {wiki_term}"
 
-    print(f"  [Longtext] Translating to {language} using Model: {model}")
+    print(f"  [Longtext] Translating {field} to {language} using Model: {model}")
 
     prompt = longtext_prompt_template.replace("{{target_language}}", language)
     prompt = prompt.replace("{{wiki_term}}", wiki_term)
@@ -541,7 +541,7 @@ def _query_model_longtext(text, language, model, longtext_prompt_template, metho
         if os.path.exists(proofread_path):
             with open(proofread_path, "r", encoding="utf-8") as pf:
                 proofread_template = pf.read()
-            print(f"  [Proofreading] Checking syntax and grammar for {language}...")
+            print(f"  [Proofreading] Checking syntax and grammar for {language} {field}...")
             p_prompt = proofread_template.replace("{{target_language}}", language).replace("{{text}}", response_str)
             proofread_str = mock_llm_call(p_prompt, model=model).strip()
             if proofread_str and len(proofread_str) > len(response_str) * 0.5: # Sanity check
@@ -720,7 +720,7 @@ def process_terms(rows, languages, models, voter_prompt_template, arbitrator_pro
                                             
                                     max_retries = 3
                                     for attempt in range(max_retries):
-                                        translated = _query_model_longtext(field_text, lang, primary_model, longtext_prompt_template, method, small_model, keyword_prompt_template, term, code, wiki_expert_prompt_template)
+                                        translated = _query_model_longtext(field_text, lang, primary_model, longtext_prompt_template, method, small_model, keyword_prompt_template, term, code, wiki_expert_prompt_template, field=field)
                                         if translated:
                                             if len(translated) >= effective_ratio * input_len:
                                                 with open(out_file, "w", encoding="utf-8") as f_out:
@@ -731,6 +731,10 @@ def process_terms(rows, languages, models, voter_prompt_template, arbitrator_pro
                                                 print(f"    [{lang}] {field} translation failed size check ({len(translated)} < {effective_ratio*input_len}). Attempt {attempt+1}/{max_retries}.")
                                                 if attempt == max_retries - 1:
                                                     print(f"    [{lang}] {field} reached max retries. Not saving.")
+                                        else:
+                                            print(f"    [{lang}] {field} translation returned empty text. Attempt {attempt+1}/{max_retries}.")
+                                            if attempt == max_retries - 1:
+                                                print(f"    [{lang}] {field} reached max retries. Not saving.")
                     else:
                         print(f"    Metadata not found at {metadata_path}. Skipping field translation.")
                 except Exception as e:
