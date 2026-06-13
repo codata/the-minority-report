@@ -1,0 +1,1 @@
+emergency telecommunications failure,service restoration,network failure,communications reroute,control plane traffic,network overload,power system interdependencies,cyber-attacks,disaster response capabilities,transmission network circuits,emergency communication systems

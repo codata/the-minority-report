@@ -1,0 +1,1 @@
+human-made objects, fragments, elements thereof, Earth orbit, re-entering the atmosphere, nonfunctional objects, Space debris, fragments and elements, Earth orbit or re-entering

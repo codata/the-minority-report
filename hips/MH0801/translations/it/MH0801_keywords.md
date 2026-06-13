@@ -1,0 +1,1 @@
+mass of snow and ice falling suddenly, loose snow avalanches, slab avalanches, gliding avalanches, powder avalanches, wet-snow avalanches, inverted-V-shaped avalanche, artificial avalanche triggering, snowpack comprises multiple layers of snow, avalanche galleries or tunnels, Spaltkeil, destabilising layers due to meltwater, rapid flow of snow, speed metrics

@@ -1,0 +1,1 @@
+series of long-period travelling waves, long-period waves, ocean floor, earthquakes, disturbances, travelling waves, ocean floor disturbances, wave generation, undersea events, long-period travelling waves

@@ -1,0 +1,1 @@
+mass of snow and ice, falling suddenly, mountain slope, taking with it earth, taking with it rocks, taking with it rubble, mass of snow, mass of ice, falling down, mountain slope and avalanche

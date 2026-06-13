@@ -1,0 +1,1 @@
+localized ground displacements, tensional stresses, compressional stresses, shear stresses, unconsolidated sediment, rock, fault slip, upward continuation of fault slip, distributed deformation, rupture area

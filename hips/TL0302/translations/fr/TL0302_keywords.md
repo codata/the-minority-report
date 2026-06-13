@@ -1,0 +1,1 @@
+presence of substances, heat in environmental media, environmental media, undesirable environmental effects, activities that generates pollutants, pollutants, air, water, land
