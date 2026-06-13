@@ -1,0 +1,1 @@
+particulate matter (PM10 and PM2.5), ozone, nitrogen dioxide, sulphur dioxide, carbon monoxide, photochemical smog, primary secondary particulate matter, nitrogen oxides (NOx), volatile organic compounds (VOCs), acid rain, black carbon, vehicular emissions, urban heat islands

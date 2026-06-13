@@ -1,0 +1,1 @@
+acute diarrhoeal infection, ingestion of contaminated water, Vibrio cholerae, serogroups of V. cholerae, acute watery diarrhoea, rapid diagnostic tests, laboratory testing by PCR, cholera-endemic area, cholera outbreak, water sanitation and hygiene, oral cholera vaccines, oral rehydration solution, disease surveillance systems, Controlled Temperature Chain

@@ -1,0 +1,1 @@
+acute diarrhoeal infection, ingestion of food or water, bacterium Vibrio cholerae, food or water contamination, diarrhoeal infection, global threat to public health, ingestion, public health, Vibrio cholerae, cholera infection

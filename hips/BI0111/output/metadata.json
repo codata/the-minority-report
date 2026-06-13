@@ -84,7 +84,7 @@
       "description": "The Large Language Model (gpt-oss:latest) used to generate translations."
     }
   ],
-  "datePublished": "2026-06-12T11:03:57.830294",
+  "datePublished": "2026-06-13T10:32:50.301122",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "version": "1.0.0",
   "distribution": [
@@ -228,9 +228,22 @@
       "name": "BI0111_article.md",
       "contentUrl": "hips/BI0111/translations/ch/BI0111_article.md",
       "encodingFormat": "text/markdown",
-      "sha256": "c517a50476d3f911e56b9852515665271cb11a235182760b45f2f9964478451c",
+      "sha256": "a0bf3f28102507ab646807a4a767e64da56fae0286423353029449b3d643e2fb",
       "inLanguage": "ch",
-      "dateModified": "2026-06-07T16:41:11.177121Z",
+      "dateModified": "2026-06-12T14:29:42.348573Z",
+      "creator": {
+        "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_ch_keywords",
+      "name": "BI0111_keywords.md",
+      "contentUrl": "hips/BI0111/translations/ch/BI0111_keywords.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "e5806cbf28870a185f2c8d4f87291f07690169686301b2df54ecf4a440e25a7b",
+      "inLanguage": "ch",
+      "dateModified": "2026-06-12T14:27:19.418386Z",
       "creator": {
         "@id": "model_deepseek-r1_14b"
       }
@@ -306,9 +319,22 @@
       "name": "BI0111_article.md",
       "contentUrl": "hips/BI0111/translations/de/BI0111_article.md",
       "encodingFormat": "text/markdown",
-      "sha256": "6de2f674ec8b7371872bb3fbbdc3a69792d1c1723f32667b522016b52337dd87",
+      "sha256": "2d21cf0cb2ef9c76cefceb4d59ff06325126f718a9d92acf46bde9bbc12d67ed",
       "inLanguage": "de",
-      "dateModified": "2026-06-07T22:46:32.756935Z",
+      "dateModified": "2026-06-12T14:26:19.036461Z",
+      "creator": {
+        "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_de_keywords",
+      "name": "BI0111_keywords.md",
+      "contentUrl": "hips/BI0111/translations/de/BI0111_keywords.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "16caaa8d51df3796e6f9360ecbceffabf041244f88a9d18745e6e274d64bebf9",
+      "inLanguage": "de",
+      "dateModified": "2026-06-12T14:24:16.109579Z",
       "creator": {
         "@id": "model_deepseek-r1_14b"
       }
@@ -345,9 +371,22 @@
       "name": "BI0111_article.md",
       "contentUrl": "hips/BI0111/translations/dk/BI0111_article.md",
       "encodingFormat": "text/markdown",
-      "sha256": "836edbfff1631ee2d28d6327cd89ec132b45654ffee57557f36e88f625b1c192",
+      "sha256": "47795fa87b7f3e2461eadebd06e69b3065e4ebab58be3bd38860abd14f9624a7",
       "inLanguage": "dk",
-      "dateModified": "2026-06-10T03:43:21.469617Z",
+      "dateModified": "2026-06-12T14:23:33.339923Z",
+      "creator": {
+        "@id": "model_unknown_model"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_dk_keywords",
+      "name": "BI0111_keywords.md",
+      "contentUrl": "hips/BI0111/translations/dk/BI0111_keywords.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "50dc7a6ac6a956babd641ca2d8421c1cf23b5ea909e16799f5989be4b0434ccb",
+      "inLanguage": "dk",
+      "dateModified": "2026-06-12T14:21:41.235204Z",
       "creator": {
         "@id": "model_unknown_model"
       }
@@ -363,6 +402,32 @@
       "dateModified": "2026-06-10T03:41:11.631546Z",
       "creator": {
         "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_ko_article",
+      "name": "BI0111_article.md",
+      "contentUrl": "hips/BI0111/translations/ko/BI0111_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "bf889ef842aa617af734bf76380107d3cee45358c2b7ed07ebc3cc4949edd896",
+      "inLanguage": "ko",
+      "dateModified": "2026-06-12T14:31:53.124573Z",
+      "creator": {
+        "@id": "model_unknown_model"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_ko_keywords",
+      "name": "BI0111_keywords.md",
+      "contentUrl": "hips/BI0111/translations/ko/BI0111_keywords.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "9369a24614e7c98bc3a674ead985d313a0ef330ae15c846880869059595bdd73",
+      "inLanguage": "ko",
+      "dateModified": "2026-06-12T14:30:15.294077Z",
+      "creator": {
+        "@id": "model_unknown_model"
       }
     },
     {

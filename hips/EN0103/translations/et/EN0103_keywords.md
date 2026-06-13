@@ -1,0 +1,1 @@
+particulate matter (PM10 and PM2.5), ozone, nitrogen dioxide, sulphur dioxide, carbon monoxide, photochemical smog, primary and secondary particulate matter, nitrogen oxides (NOx), black carbon and methane, anthropogenic emissions, temperature inversions

@@ -84,7 +84,7 @@
       "description": "The Large Language Model (gpt-oss:latest) used to generate translations."
     }
   ],
-  "datePublished": "2026-06-12T11:03:57.019621",
+  "datePublished": "2026-06-13T10:32:49.542339",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "version": "1.0.0",
   "distribution": [
@@ -211,13 +211,26 @@
     },
     {
       "@type": "cr:FileObject",
+      "@id": "translation_et_keywords",
+      "name": "BI0110_keywords.md",
+      "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0110/translations/et/BI0110_keywords.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "26955854bbf912187fe86aefb9106b3d38a66e31a6ac5472cd299e94cecc89ef",
+      "inLanguage": "et",
+      "dateModified": "2026-06-12T22:48:11.472498Z",
+      "creator": {
+        "@id": "model_unknown_model"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
       "@id": "translation_et_article",
       "name": "BI0110_article.md",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0110/translations/et/BI0110_article.md",
       "encodingFormat": "text/markdown",
-      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "sha256": "706d4109cbc6256784a375394457d53282aab2017b80affd1f1847fa2e604dfb",
       "inLanguage": "et",
-      "dateModified": "2026-06-10T11:01:17.493007Z",
+      "dateModified": "2026-06-12T22:50:07.098147Z",
       "creator": {
         "@id": "model_unknown_model"
       }
@@ -354,15 +367,54 @@
     },
     {
       "@type": "cr:FileObject",
+      "@id": "translation_fi_keywords",
+      "name": "BI0110_keywords.md",
+      "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0110/translations/fi/BI0110_keywords.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "18c9261f5b98776073557a0611b9700768e0483814d83368bb5d55af6569f279",
+      "inLanguage": "fi",
+      "dateModified": "2026-06-12T22:50:56.999861Z",
+      "creator": {
+        "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
       "@id": "translation_fi_article",
       "name": "BI0110_article.md",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0110/translations/fi/BI0110_article.md",
       "encodingFormat": "text/markdown",
-      "sha256": "d80c67cfd1c3e093856daa6f60e5f06de8a4f55d0d383a581be5f72ec16a42b7",
+      "sha256": "6ef12fef43371ba4534a43028b5e20e897db9f11252d1942c8e1d3634cdddf93",
       "inLanguage": "fi",
-      "dateModified": "2026-06-10T11:03:03.821563Z",
+      "dateModified": "2026-06-12T22:54:03.147531Z",
       "creator": {
         "@id": "model_deepseek-r1_14b"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_ko_keywords",
+      "name": "BI0110_keywords.md",
+      "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0110/translations/ko/BI0110_keywords.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "933f80fef84cf4baabaf80172d4a040d1f65f0fedfeb4f9a59bf7cf0a55459ea",
+      "inLanguage": "ko",
+      "dateModified": "2026-06-12T22:54:52.547242Z",
+      "creator": {
+        "@id": "model_unknown_model"
+      }
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "translation_ko_article",
+      "name": "BI0110_article.md",
+      "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0110/translations/ko/BI0110_article.md",
+      "encodingFormat": "text/markdown",
+      "sha256": "a08c88cb584feb3d8f498170cd66ae154c8da5990f6246d00f3dc2b3bd1333a4",
+      "inLanguage": "ko",
+      "dateModified": "2026-06-12T22:57:06.848177Z",
+      "creator": {
+        "@id": "model_unknown_model"
       }
     },
     {

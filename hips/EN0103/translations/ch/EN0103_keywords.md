@@ -1,0 +1,1 @@
+particulate matter (PM10 and PM2.5), nitrogen dioxide (NO2), sulphur dioxide (SO2), ozone (O3), carbon monoxide (CO), photochemical smog, acid rain, secondary particulate matter, volatile organic compounds (VOCs), black carbon and methane, anthropogenic emissions, urban heat islands, air pollution-related deaths

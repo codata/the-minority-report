@@ -541,7 +541,7 @@ def _query_model_longtext(text, language, model, longtext_prompt_template, metho
         if os.path.exists(proofread_path):
             with open(proofread_path, "r", encoding="utf-8") as pf:
                 proofread_template = pf.read()
-            print(f"  [Proofreading] Checking syntax and grammar for {language} {field}...")
+            print(f"  [Standard Proofreader] Checking syntax and grammar for {language} {field}...")
             p_prompt = proofread_template.replace("{{target_language}}", language).replace("{{text}}", response_str)
             proofread_str = mock_llm_call(p_prompt, model=model).strip()
             if proofread_str and len(proofread_str) > len(response_str) * 0.5: # Sanity check
@@ -639,7 +639,30 @@ def check_resources_ready(term, row, languages, fields_to_translate, method, min
                         
     return True
 
-def process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, longtext_prompt_template, output_csv_path, fields_to_translate=None, output_dir="data", method="standard", small_model="gemma4:e2b", keyword_prompt_template="", wiki_expert_prompt_template="", min_translation_ratio=0.4):
+
+def _query_model_proofread(text, language, model, proofreader_prompt_template):
+    """Helper to query a single model for proofreading the translated text."""
+    prompt = proofreader_prompt_template.replace("{LANGUAGE}", language).replace("{TEXT}", text)
+    print(f"    -> Querying {model} for Expert Proofreading ({language})...")
+    payload = {
+        "model": model,
+        "prompt": prompt,
+        "stream": False,
+        "options": {
+            "temperature": 0.1, # Low temp for deterministic QA
+        }
+    }
+    
+    ollama_host = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+    try:
+        response = requests.post(f"{ollama_host}/api/generate", json=payload)
+        response.raise_for_status()
+        return response.json().get("response", "").strip()
+    except Exception as e:
+        print(f"    Proofreading error: {e}")
+        return ""
+
+def process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, longtext_prompt_template, output_csv_path, fields_to_translate=None, output_dir="data", method="standard", small_model="gemma4:e2b", keyword_prompt_template="", wiki_expert_prompt_template="", min_translation_ratio=0.4, proofreader_prompt_template=""):
     """
     Processes a list of terms and returns translation results with consensus logic.
     A translation is only accepted if at least 2 models agree on it (case-insensitive).
@@ -723,8 +746,27 @@ def process_terms(rows, languages, models, voter_prompt_template, arbitrator_pro
                                         translated = _query_model_longtext(field_text, lang, primary_model, longtext_prompt_template, method, small_model, keyword_prompt_template, term, code, wiki_expert_prompt_template, field=field)
                                         if translated:
                                             if len(translated) >= effective_ratio * input_len:
-                                                with open(out_file, "w", encoding="utf-8") as f_out:
-                                                    f_out.write(translated)
+                                                if proofreader_prompt_template:
+                                                    print(f"    [Expert Proofreader] Running Terminological and formatting check for [{lang}]...")
+                                                    proofread_text = _query_model_proofread(translated, lang, small_model, proofreader_prompt_template)
+                                                    if proofread_text:
+                                                        article_part, sep, changelog_part = proofread_text.partition("## Changelog")
+                                                        with open(out_file, "w", encoding="utf-8") as f_out:
+                                                            f_out.write(article_part.strip())
+                                                        print(f"    Saved proofread {field} ({lang}) to {out_file} (size {len(article_part.strip())}/{input_len})")
+                                                        
+                                                        if changelog_part:
+                                                            changelog_file = out_file.replace(".md", "_changelog.md")
+                                                            with open(changelog_file, "w", encoding="utf-8") as f_log:
+                                                                f_log.write("## Changelog\n" + changelog_part.strip())
+                                                    else:
+                                                        # Fallback if proofreader fails
+                                                        with open(out_file, "w", encoding="utf-8") as f_out:
+                                                            f_out.write(translated)
+                                                        print(f"    Saved {field} ({lang}) to {out_file} (size {len(translated)}/{input_len})")
+                                                else:
+                                                    with open(out_file, "w", encoding="utf-8") as f_out:
+                                                        f_out.write(translated)
                                                     print(f"    Saved {field} ({lang}) to {out_file} (size {len(translated)}/{input_len})")
                                                 break
                                             else:
@@ -898,6 +940,10 @@ def main():
     arbitrator_prompt_template = load_prompt(os.path.join(prompts_dir, "arbitrator_prompt.md"))
     longtext_prompt_template = load_prompt(os.path.join(prompts_dir, "longtext_prompt.md"))
     wiki_expert_prompt_template = load_prompt(os.path.join(prompts_dir, "wiki_expert_prompt.md"))
+    
+    proofreader_prompt_path = os.path.join(prompts_dir, "proofreader_prompt.md")
+    proofreader_prompt_template = load_prompt(proofreader_prompt_path) if os.path.exists(proofreader_prompt_path) else ""
+    
     keyword_prompt_template = ""
     if args.method == "rl":
         kw_prompt_path = os.path.join(prompts_dir, "keyword_extraction_prompt.md")
@@ -1039,7 +1085,7 @@ def main():
         print("Error: Must provide --url, --index-url, --index-file, or --input-file")
         return
             
-    results = process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, longtext_prompt_template, output_csv_path, fields_to_translate, args.output_dir, args.method, args.small_model, keyword_prompt_template, wiki_expert_prompt_template, args.min_translation_ratio)
+    results = process_terms(rows, languages, models, voter_prompt_template, arbitrator_prompt_template, longtext_prompt_template, output_csv_path, fields_to_translate, args.output_dir, args.method, args.small_model, keyword_prompt_template, wiki_expert_prompt_template, args.min_translation_ratio, proofreader_prompt_template)
     
     # Write Results
     save_results_to_csv(results, output_csv_path)
