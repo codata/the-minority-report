@@ -10,6 +10,14 @@ from rdflib import Graph, Namespace, RDFS
 from rdflib.namespace import SKOS
 import mlcroissant as mlc
 
+UNF_SCRIPTS_DIR = "/home/codata/projects/croissant-toolkit/.gemini/skills/unf/scripts"
+if UNF_SCRIPTS_DIR not in sys.path:
+    sys.path.insert(0, UNF_SCRIPTS_DIR)
+try:
+    import unf_hash
+except ImportError:
+    unf_hash = None
+
 
 def compute_sha256(file_path):
     """Return the hex sha256 digest of a file, or 'UNREADABLE' on error."""
@@ -285,6 +293,13 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
         "content_url": csv_url,
         "sha256": csv_sha256
     }
+    if unf_hash:
+        try:
+            csv_unf = unf_hash.compute_unf_file(file_path)
+            if csv_unf:
+                csv_file_kwargs["unf"] = csv_unf
+        except Exception:
+            pass
     if "encoding_formats" in sig.parameters:
         csv_file_kwargs["encoding_formats"] = ["text/csv"]
     else:
@@ -508,6 +523,13 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
                                 "@id": model_id
                             }
                         }
+                        if unf_hash:
+                            try:
+                                trans_unf = unf_hash.compute_unf_file(trans_path)
+                                if trans_unf:
+                                    file_obj["unf"] = trans_unf
+                            except Exception:
+                                pass
                         translations_json_objects.append(file_obj)
     
     # Dynamic Field Generation
@@ -706,6 +728,7 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
             "@id": "sc:processingRequirement",
             "@type": "@json"
         }
+        json_output["@context"]["unf"] = "https://guides.dataverse.org/en/6.9/developers/unf/unf-v6.html"
     json_output["bs4ExtractionPattern"] = {
         "title":    "soup.find('title').get_text().strip()",
         "date":     "soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published')",

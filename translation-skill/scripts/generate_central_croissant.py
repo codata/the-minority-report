@@ -24,6 +24,14 @@ import argparse
 import base64
 import glob
 
+UNF_SCRIPTS_DIR = "/home/codata/projects/croissant-toolkit/.gemini/skills/unf/scripts"
+if UNF_SCRIPTS_DIR not in sys.path:
+    sys.path.insert(0, UNF_SCRIPTS_DIR)
+try:
+    import unf_hash
+except ImportError:
+    unf_hash = None
+
 # ---------------------------------------------------------------------------
 # Paths
 # ---------------------------------------------------------------------------
@@ -197,7 +205,7 @@ def extract_dataset_info(metadata_path):
 # Builder
 # ---------------------------------------------------------------------------
 
-def build_central_croissant(hips_root, output_file, embed=False):
+def build_central_croissant(hips_root, output_file, embed=False, compute_unf=False):
     hips_root = os.path.abspath(hips_root)
     output_file = os.path.abspath(output_file)
 
@@ -239,6 +247,14 @@ def build_central_croissant(hips_root, output_file, embed=False):
             "encodingFormat": "application/ld+json",
             "sha256": info["sha256"],
         }
+        
+        if compute_unf and unf_hash:
+            try:
+                val = unf_hash.compute_unf_file(mpath)
+                if val:
+                    entry["unf"] = val
+            except Exception:
+                pass
 
         # Add convenience flags for quick filtering by AI tools
         entry["cr:hasPart"] = {
@@ -282,7 +298,7 @@ def build_central_croissant(hips_root, output_file, embed=False):
                 f"use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', "
                 f"'Definition')."
             )
-            is_based_on_list.append({
+            html_obj = {
                 "@type": "CreativeWork",
                 "@id": f"html_{code}",
                 "name": os.path.basename(html_file),
@@ -290,11 +306,19 @@ def build_central_croissant(hips_root, output_file, embed=False):
                 "contentUrl": html_rel_path,
                 "encodingFormat": "text/html",
                 "sha256": html_sha256,
-            })
+            }
+            if compute_unf and unf_hash:
+                try:
+                    val = unf_hash.compute_unf_file(html_file)
+                    if val:
+                        html_obj["unf"] = val
+                except Exception:
+                    pass
+            is_based_on_list.append(html_obj)
             
         if txt_file:
             txt_rel_path = os.path.relpath(txt_file, os.path.dirname(output_file))
-            is_based_on_list.append({
+            txt_obj = {
                 "@type": "CreativeWork",
                 "@id": f"text_{code}",
                 "name": os.path.basename(txt_file),
@@ -309,7 +333,15 @@ def build_central_croissant(hips_root, output_file, embed=False):
                 "contentUrl": txt_rel_path,
                 "encodingFormat": "text/plain",
                 "sha256": txt_sha256,
-            })
+            }
+            if compute_unf and unf_hash:
+                try:
+                    val = unf_hash.compute_unf_file(txt_file)
+                    if val:
+                        txt_obj["unf"] = val
+                except Exception:
+                    pass
+            is_based_on_list.append(txt_obj)
 
         # Find metrics JSON files
         metrics_files = sorted(glob.glob(os.path.join(dataset_dir, "CDIF", "*", "*_metrics.json")))
@@ -317,7 +349,7 @@ def build_central_croissant(hips_root, output_file, embed=False):
             rel_path = os.path.relpath(metric_path, os.path.dirname(output_file))
             lang = os.path.basename(os.path.dirname(metric_path))
             metric_sha256 = compute_sha256(metric_path)
-            is_based_on_list.append({
+            metric_obj = {
                 "@type": "CreativeWork",
                 "@id": f"metrics_{code}_{lang}",
                 "name": os.path.basename(metric_path),
@@ -325,7 +357,15 @@ def build_central_croissant(hips_root, output_file, embed=False):
                 "contentUrl": rel_path,
                 "encodingFormat": "application/json",
                 "sha256": metric_sha256,
-            })
+            }
+            if compute_unf and unf_hash:
+                try:
+                    val = unf_hash.compute_unf_file(metric_path)
+                    if val:
+                        metric_obj["unf"] = val
+                except Exception:
+                    pass
+            is_based_on_list.append(metric_obj)
 
         if is_based_on_list:
             entry["isBasedOn"] = is_based_on_list
@@ -350,6 +390,7 @@ def build_central_croissant(hips_root, output_file, embed=False):
                 "@id": "sc:processingRequirement",
                 "@type": "@json"
             },
+            "unf": "https://guides.dataverse.org/en/6.9/developers/unf/unf-v6.html"
         },
         "@type": "sc:Dataset",
         "name": "UNDRR-ISC Hazard Information Profiles — Multilingual Translation Dataset",
@@ -442,12 +483,17 @@ def main():
         "--embed", action="store_true",
         help="Embed individual Croissant files as base64 data URIs (produces a very large file)"
     )
+    parser.add_argument(
+        "--compute-unf", action="store_true",
+        help="Compute UNF-6 fingerprints for all files and embed them into the metadata"
+    )
     args = parser.parse_args()
 
     build_central_croissant(
         hips_root=args.hips_root,
         output_file=args.output_file,
         embed=args.embed,
+        compute_unf=args.compute_unf,
     )
 
 
