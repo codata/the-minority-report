@@ -1,0 +1,1 @@
+Acute Hepatic Pancreatic Necrosis, AHPND, Vibrio parahaemolyticus, Vibrio species, early mortality syndrome, production cycle, mortalities, 30 to 35 days of stocking, virulent strains

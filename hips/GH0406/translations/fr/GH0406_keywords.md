@@ -1,0 +1,1 @@
+accumulation of wind-borne sand, coasts, watercourses, cultivated land, uncultivated land, arid to semi-arid regions,bury towns,bury roads,bury oases,bury crops,irrigation channels,dams,socioeconomic damage

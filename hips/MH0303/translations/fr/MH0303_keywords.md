@@ -1,0 +1,1 @@
+Gale speed, wind speed, 34 and 40 knots, 62–74 km/h, 32–38 mph, Beaufort scale, wind force 8, WMO reference, wind speed range

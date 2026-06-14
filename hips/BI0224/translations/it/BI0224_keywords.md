@@ -1,0 +1,1 @@
+monkeypox virus (MPXV), Orthopoxvirus genus, Poxviridae family, clade I, clade II, subclades Ia and Ib, subclades IIa and IIb, natural reservoir of the virus, respiratory droplets or mucous membranes, skin-to-skin contact, congenital pox, mpox rash, pre-exposure prophylaxis, post-exposure prophylaxis, surveillance and case investigation, infectious period

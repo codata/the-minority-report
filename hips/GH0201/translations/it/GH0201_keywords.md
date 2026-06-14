@@ -1,0 +1,1 @@
+lava flows, lava domes, low-viscosity molten rock, relatively viscous lava, lava flow units, lava flow fields, pillow lavas, lava flow types, lava spines, lava coulées, collapse to generate pyroclastic density currents, rheological properties of lava, lava dome growth rates

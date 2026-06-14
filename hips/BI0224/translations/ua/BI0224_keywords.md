@@ -1,0 +1,1 @@
+monkeypox virus, Orthopoxvirus genus, Poxviridae family, clade I, clade II, transmission via respiratory droplets, transmission via mucous membranes, congenital pox, skin lesions and abscesses, post-exposure prophylaxis, nucleic acid amplification testing, case investigation and contact tracing, infection prevention and control

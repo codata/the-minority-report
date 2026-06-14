@@ -1,0 +1,1 @@
+zoonotic diseases, zoonoses,shared between animals and people,livestock,wildlife,pets,animal health,human health,human-animal-environment interface,shared environment,human-animal interaction

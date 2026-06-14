@@ -1,0 +1,1 @@
+discarded plastic material,polymer derived material,plastic waste mixtures,plastic waste hazardous waste,microplastics formation,non-halogenated polymers,cured resin condensation products,plastic additives and contaminants,impurities or contaminants,plastic pollution life cycle

@@ -1,0 +1,1 @@
+Middle East respiratory syndrome (MERS), viral respiratory disease, Middle East respiratory syndrome coronavirus (MERS-CoV), clinical spectrum of infection, no symptoms, asymptomatic, mild respiratory symptoms, severe acute respiratory disease, respiratory disease and death

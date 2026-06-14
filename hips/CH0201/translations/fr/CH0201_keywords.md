@@ -1,0 +1,1 @@
+mycotoxins,toxic compounds,Aspergillus flavus and A. parasiticus,difuranocoumarin derivatives,Aflatoxin B1 and B2,Aflatoxin G1 and G2,Aflatoxin M1 and M2,aflatoxicosis,damage to the liver,human carcinogens,Codex Alimentarius,Maximum levels for aflatoxins

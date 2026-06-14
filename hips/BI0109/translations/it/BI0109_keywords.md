@@ -1,0 +1,1 @@
+Viral haemorrhagic fevers, muscle and joint pain, bleeding and shock, haemorrhaging from orifices, reservoir of the virus, Arenaviridae, Filoviridae, Flaviviridae, Bunyavirales order, person-to-person spread, rodent excreta contamination, vector control programmes, Ebola virus (EBOV), Marburg virus (MARV), Crimean-Congo haemorrhagic fever, Lassa fever virus, Dengue virus

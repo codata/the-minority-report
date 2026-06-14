@@ -1,0 +1,1 @@
+high-rise cladding fire hazard, combustible composite panels, external cladding or facades, Aluminium Composite Material (ACM) cladding, composite panels, building height, exterior cladding for insulation and rainscreen, façade materials, fire risk assessment of combustible exterior cladding, high-rise residential buildings, building safety programme

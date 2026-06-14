@@ -1,0 +1,1 @@
+glacial lake outburst flood,release of a significant amount of water,water retained in a glacial lake,glacial lake,sudden release of water,outburst flood,release of retained water,significant amount of water,glacial lake system,flood event

@@ -1,0 +1,1 @@
+Electrical and electronic waste, components sub-assemblies and consumables, hazardous waste and non-hazardous waste, persistent organic pollutants (POPs), recyclable and recoverable metals, Basel Convention, transboundary movements of electrical and electronic waste, E-waste dumping and open burning, e-waste management chain, treatment technologies, e-waste early warning systems

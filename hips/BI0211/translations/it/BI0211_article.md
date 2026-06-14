@@ -1,59 +1,43 @@
 ```markdown
 ### Definizione
+Epatite A è una malattia epatica virale acuta prevenibile con vaccino e può causare sintomi da lievi a gravi. L’Epatite A si manifesta in modo sporadico e in epidemie a livello mondiale, con una tendenza a recidive cicliche, poiché il virus persiste nell’ambiente e può resistere ai processi di produzione alimentare comunemente usati per inativare o controllare i patogeni batterici (WHO, 2025a).
 
-L'epatite A è una malattia virale acuta del fegato, prevenibile con vaccino, che può provocare sintomi che vanno dalla lieve alla grave. La sua diffusione avviene in modo sporadico e in epidemie in tutto il mondo, con una tendenza a ricorrenze cicliche, poiché il virus persiste nell'ambiente e può resistere ai processi di produzione alimentare usati per inattivare o controllare i patogeni batterici (OMS, 2025a).
-
-### Riferimenti primari
-
-OMS, 2025a. *Epatite A*. Organizzazione Mondiale della Sanità (OMS). Accesso il 25 febbraio 2025.
+### Riferimento primario
+WHO, 2025a. Hepatitis A. World Health Organization (WHO). Accessed 25 February 2025.
 
 ### Annotazioni
-
 #### Descrizione scientifica aggiuntiva
+Quasi tutti si riprendono completamente dall’Epatite A con immunità permanente. Tuttavia, una piccola percentuale di persone infettate può morire per epatite fulminante. Il rischio di infezione da Epatite A è associato alla mancanza di acqua potabile sicura e alla cattiva sanità e igiene (es. mani contaminate e sporche). Un vaccino sicuro ed efficace è disponibile per prevenire l’Epatite A (WHO, 2025a). L’Epatite A è un’infiammazione del fegato causata dal virus dell’Epatite A (HAV). Il virus si diffonde principalmente quando una persona non infetta (e non vaccinata) ingerisce cibo o acqua contaminati con le feci di una persona infetta. La malattia è strettamente associata a acqua o cibo non sicuri, sanità inadeguata, igiene personale povera e sesso orale‑anal (WHO, 2025a). A differenza dell’Epatite B e C, l’Epatite A non causa malattie epatiche croniche, ma può provocare sintomi da lievi a gravi e raramente epatite fulminante (insufficienza epatica acuta), che è spesso fatale. La WHO stima che nel 2016 7 134 persone siano morte dall’Epatite A a livello mondiale (che rappresenta l’0,5 % della mortalità dovuta a epatiti virali) (WHO, 2025a).
 
-Quasi tutti recuperano completamente dall'epatite A, sviluppando un'immunità a vita. Tuttavia, una piccola percentuale di individui infetti può sviluppare epatite fulminante, che è spesso fatale. Il rischio di infezione è associato a carenza di acqua potabile sicura, scarsa igiene e pratiche di cottura inadeguate. Una vaccinazione sicura ed efficace è disponibile per prevenire l'epatite A (OMS, 2025a).
+L’Epatite A si manifesta in modo sporadico e in epidemie a livello mondiale, con una tendenza a recidive cicliche. Le epidemie legate a cibo o acqua contaminati possono scoppiare esplosivamente, come l’epidemia di Shanghai nel 1988 che ha colpito circa 300 000 persone (Wang et al., 1990). Possono anche durare, colpendo le comunità per mesi tramite trasmissione da persona a persona. I virus dell’Epatite A persistono nell’ambiente e possono resistere ai processi di produzione alimentare comunemente usati per inativare o controllare i patogeni batterici (WHO, 2025a). I casi di Epatite A non sono clinicamente distinguibili da altri tipi di epatiti virali acute. La diagnosi specifica viene effettuata mediante la rilevazione di anticorpi IgM specifici per HAV nel sangue. Altri test includono la reazione a catena della polimerasi con transcriptasi inversa (RT‑PCR) per rilevare l’RNA del virus dell’Epatite A e possono richiedere laboratori specializzati. La PCR può rilevare la presenza di infezione da HAV precocemente, anche prima che il paziente sviluppi anticorpi (IgM anti‑HAV). Questo è particolarmente utile per diagnosticare l’Epatite A nelle prime fasi. La PCR può anche aiutare a monitorare la progressione dell’infezione e la risoluzione (WHO, 2025a). La World Health Organization (WHO) ha pubblicato linee guida sulla classificazione dei casi e gli standard di sorveglianza (WHO, 2018).
 
-#### Trasmissione
+### Metriche e limiti numerici
+L’Epatite A si manifesta in modo sporadico e in epidemie a livello mondiale, con una tendenza a recidive cicliche. Le epidemie legate a cibo o acqua contaminati possono scoppiare esplosivamente (WHO, 2025a). Nel 2016 7 134 persone sono state stimate morire dall’Epatite A a livello mondiale (che rappresenta l’0,5 % della mortalità dovuta a epatiti virali) (WHO, 2025a).
 
-L'epatite A è trasmessa principalmente attraverso la via feco‑orale: l'ingestione di cibo o acqua contaminati dalle feci di una persona infetta. La trasmissione può avvenire anche attraverso contatto fisico ravvicinato (es. rapporti orali‑anal) con una persona infetta, sebbene il contatto casuale di solito non sia un vettore di diffusione.
+### Convenzione UN rilevante / trattato multilaterale
+Regolamenti sanitari internazionali (2005), 3a ed. (WHO, 2016).
 
-### Impatti clinici
+### Motori
+Il virus dell’Epatite A si trasmette principalmente tramite la via feci‑orale; cioè quando una persona non infetta ingerisce cibo o acqua contaminati con le feci di una persona infetta. Nelle famiglie, questo può accadere tramite mani sporche quando una persona infetta prepara cibo per i membri della famiglia. Le epidemie idrotrasmissibili, sebbene infrequenti, sono solitamente associate a acqua contaminata da fognature o trattata inadeguatamente. Il virus può anche essere trasmesso tramite contatto fisico ravvicinato (ad es. sesso orale‑anal) con una persona infetta, sebbene il contatto casuale non trasmetta il virus (WHO, 2025a).
 
-- **Periodo di incubazione:** tipicamente 14–28 giorni.  
-- **Sintomi:** febbre, malessere generale, perdita di appetito, diarrea, nausea, dolore addominale, urine di colore scuro e ittero.  
-- **Gravità:** la maggior parte degli adulti presenta sintomi più marcati rispetto ai bambini; le complicazioni gravi e la mortalità sono più frequenti negli anziani.  
-- **Recidiva:** in alcuni casi l'epatite A può ricadere, con sintomi simili all'episodio iniziale, ma di solito è seguita da una completa recupero.
+### Impatti
+Il periodo di incubazione dell’Epatite A è solitamente di 14–28 giorni. I sintomi dell’Epatite A vanno da lievi a gravi e possono includere febbre, malessere, perdita di appetito, diarrea, nausea, disagio addominale, urina di colore scuro e ittero (ingiallimento degli occhi e della pelle). Non tutti coloro che sono infetti presenteranno tutti i sintomi. Gli adulti hanno sintomi più frequenti rispetto ai bambini. La gravità della malattia e gli esiti letali sono più elevati nei gruppi di età più anziani. I bambini sotto i 6 anni di età di solito non manifestano sintomi evidenti, e solo il 10 % sviluppa ittero. L’Epatite A a volte recede, il che significa che la persona che si è appena ripresa si ammala di nuovo con un altro episodio acuto. Questo è normalmente seguito da recupero (WHO, 2025a). Le aree di distribuzione geografica possono essere caratterizzate da livelli di infezione da HAV ad alto, medio o basso. Tuttavia, l’infezione non implica sempre malattia poiché i bambini giovani infetti non manifestano sintomi evidenti. L’infezione è comune nei paesi a basso e medio reddito con condizioni sanitarie e pratiche igieniche scadenti, e la maggior parte dei bambini (90 %) è stata infettata dal virus dell’Epatite A prima dei 10 anni, di solito senza sintomi. Le percentuali di infezione sono basse nei paesi ad alto reddito con buone condizioni sanitarie. La malattia può verificarsi tra adolescenti e adulti in gruppi ad alto rischio, come persone che si iniettano droghe (PWID), uomini che hanno rapporti sessuali con uomini (MSM), persone che viaggiano in aree ad alta endemia e in popolazioni isolate, come gruppi religiosi chiusi. Negli Stati Uniti d’America, sono stati segnalati grandi epidemie tra persone senza tetto (WHO, 2025a).
 
-### Diagnosi
+### Contesto multi‑pericolo
+Chi non è stato vaccinato o non è stato precedentemente infetto può infettarsi dal virus dell’Epatite A e è a rischio. In aree dove il virus è diffuso (alta endemia), la maggior parte delle infezioni da Epatite A avviene nella prima infanzia (WHO 2025a). Altri fattori di rischio includono: cattiva sanità; mancanza di acqua potabile sicura; vivere in una casa con una persona infetta; essere partner sessuale di qualcuno con infezione acuta da Epatite A; uso di droghe ricreative; sesso tra uomini; e viaggiare in aree ad alta endemia senza essere immunizzato (WHO, 2025a).
 
-- **Anticorpi IgM anti‑HAV:** test sierologici per identificare un'infezione acuta.  
-- **RT‑PCR:** rilevamento dell'RNA virale, utile nelle prime fasi dell'infezione, prima dell'emergere degli anticorpi IgM.  
-- **Procedura:** richiede laboratori specializzati.
-
-### Gestione e trattamenti
-
-Non esiste un trattamento antivirale specifico per l'epatite A; la gestione è di natura di supporto, mirata a alleviare i sintomi e garantire adeguata idratazione e nutrizione. È consigliabile evitare farmaci potenzialmente tossici per il fegato (es. acetaminofene). L'ospedalizzazione è necessaria solo in caso di insufficienza epatica acuta o complicanze gravi.
-
-### Prevenzione
-
-- **Igiene e sanità:** utilizzo di acqua potabile sicura, pratiche igieniche personali (lavaggio frequente delle mani), disposizioni di rifiuti adeguate.  
-- **Sicurezza alimentare:** cottura corretta, manipolazione igienica degli alimenti.  
-- **Vaccinazione:** vaccini iniettivi inataccati (sì) e, in Cina, vaccini vivi attenuati. Nessun vaccino è autorizzato per bambini di età inferiore a 1 anno.  
-- **Controllo delle epidemie:** sorveglianza continua dell'acqua potabile e delle fonti alimentari, con risposta tempestiva in caso di anomalie.
-
-### Contesto multi‑risiko
-
-Individui non vaccinati o non precedentemente infetti sono a rischio. In aree con alta endemia, la maggior parte delle infezioni si verifica nell'infanzia precoce. Altri fattori di rischio includono: scarsa sanità, mancanza di acqua potabile, contatto con persone infette, pratiche sessuali a rischio, uso di droghe ricreative e viaggi in aree ad alta endemia.
+### Gestione del rischio
+I casi di Epatite A non sono clinicamente distinguibili da altri tipi di epatiti virali acute. La diagnosi specifica viene effettuata mediante la rilevazione di anticorpi IgM specifici per HAV nel sangue. Altri test includono la reazione a catena della polimerasi con transcriptasi inversa (RT‑PCR) per rilevare l’RNA del virus dell’Epatite A e possono richiedere laboratori specializzati. La PCR può rilevare la presenza di infezione da HAV precocemente, anche prima che il paziente sviluppi anticorpi (IgM anti‑HAV). Questo è particolarmente utile per diagnosticare l’Epatite A nelle prime fasi. La PCR può anche aiutare a monitorare la progressione dell’infezione e la risoluzione. Non esiste un trattamento antivirale specifico per l’Epatite A. Invece, la gestione dell’Epatite A si concentra su cure di supporto per alleviare i sintomi e garantire adeguata idratazione e nutrizione. Il recupero dai sintomi dopo l’infezione può essere lento e richiedere diverse settimane o mesi. È importante evitare farmaci inutili che possono danneggiare il fegato, ad es. acetaminofene, paracetamolo. L’ospedalizzazione è inutile in assenza di malattia grave o insufficienza epatica acuta. La terapia mira a mantenere comfort e bilancio nutrizionale adeguato, compresa la sostituzione di liquidi persi per vomito e diarrea. Il miglioramento della sanità, la sicurezza alimentare, le pratiche di sesso più sicuro (in particolare il sesso orale‑anal) e l’immunizzazione sono i modi più efficaci per combattere l’Epatite A. La diffusione dell’Epatite A può essere ridotta da: forniture adeguate di acqua potabile sicura; corretta gestione delle fognature nelle comunità; e pratiche di igiene personale come il lavaggio regolare delle mani prima dei pasti e dopo aver usato il bagno. L’uso di pratiche di sesso più sicuro – inclusi preservativi e buone pratiche igieniche. Diversi vaccini iniettabili inattivati da Epatite A sono disponibili a livello internazionale. Tutti offrono protezione simile dal virus e hanno effetti collaterali comparabili. Nessun vaccino è autorizzato per bambini sotto 1 anno di età. In Cina è disponibile anche un vaccino attenuato vivo. La rapida rilevazione e verifica delle emergenze sanitarie è essenziale per salvare vite. Il sistema di sorveglianza globale della WHO rileva minacce per la salute pubblica 24 ore su 24, 365 giorni all’anno. Le epidemie da HAV sono regolarmente notifiche alla WHO e l’organizzazione fornisce una risposta coordinata a 3 livelli in supporto ai suoi stati membri se necessario. Le strategie del settore sanitario globale su HIV, epatiti virali e infezioni sessualmente trasmissibili per il periodo 2022–2030 (GHSSs) guidano il settore sanitario nell’implementare risposte mirate per raggiungere gli obiettivi di eliminazione degli AIDS, delle epatiti virali (in particolare le epatiti B e C croniche) e delle infezioni sessualmente trasmissibili entro il 2030 (WHO GHSSs, 2022). Le GHSS raccomandano azioni condivise e specifiche per il paese supportate da azioni della WHO e dei partner. Considerano le scelte epidemiologiche, tecnologiche e contestuali degli anni precedenti, promuovono l’apprendimento trasversale tra le aree di malattia e creano opportunità per sfruttare innovazioni e nuove conoscenze per risposte efficaci alle malattie. Chiamano a scalare la prevenzione, i test e il trattamento delle epatiti virali con un focus su raggiungere le popolazioni e le comunità più colpite e a rischio per ogni malattia, oltre a colmare le lacune e le disuguaglianze. Promuovono sinergie sotto un’Universal Health Coverage e un framework di cure primarie e contribuiscono a raggiungere gli obiettivi dell’Agenda 2030 per lo Sviluppo Sostenibile (WHO GHSSs, 2022). La WHO organizza la Giornata Mondiale dell’Epatite, tenuta il 28 luglio (WHO, 2025b). Per la Giornata Mondiale dell’Epatite 2024, la WHO si concentra sul tema “È tempo di agire” per illustrare l’urgenza di scalare la prevenzione, i test e il trattamento delle epatiti virali per prevenire le malattie epatiche e il cancro e raggiungere l’obiettivo di eliminazione delle epatiti entro il 2030 (WHO, 2025b).
 
 ### Monitoraggio
+Il monitoraggio dell’acqua potabile è una funzione primaria di salute pubblica e un componente integrale del quadro per l’acqua potabile sicura raccomandato dalle Linee guida della WHO per la qualità dell’acqua potabile. È fondamentale per la fornitura di acqua potabile sicura e la protezione della salute pubblica promuovendo il miglioramento della qualità, quantità, accessibilità, affidabilità e continuità delle forniture di acqua potabile. La sorveglianza dell’acqua potabile basata sul rischio è considerata la migliore pratica in quanto supporta lo sviluppo di programmi di monitoraggio adeguati ed efficienti per le singole forniture. Aiuta anche a prevedere e identificare i cambiamenti a lungo termine e i rischi associati alla fornitura di acqua potabile (WHO, n.d.).
 
-La sorveglianza dell'acqua potabile è un componente fondamentale della protezione della salute pubblica, secondo le linee guida dell'OMS per la qualità dell'acqua potabile. Il monitoraggio basato sul rischio è considerato best practice, supportando programmi di sorveglianza efficienti e la previsione di cambiamenti a lungo termine.
-
-### Risorse e riferimenti
-
-- OMS, 2018. *Standard di sorveglianza per le malattie prevenibili con vaccino: Epatite A*.  
-- OMS, 2025b. *Giornata Mondiale dell'Epatite* (28 luglio).  
-- WHO GHSSs, 2022. *Strategie del settore sanitario globale: HIV, epatiti virali e infezioni sessualmente trasmissibili (2022‑2030)*.  
-
-*(Per ulteriori dettagli consultare la bibliografia completa fornita nel documento originale.)*
+## References
+Wang, J.Y., Hu, S.L., Liu, H.Y., Hong, Y.L., Cao, S.Z., Wu, L.F., 1990. Risk factor analysis of an epidemic of hepatitis A in a factory in Shanghai. Int J Epidemiol. 19(2):435-8. doi: 10.1093/ije/19.2.435. PMID: 2165466. Accessed 25 May 2025.
+WHO GHSSs, 2022. Available from: Global health sector strategies on, respectively, HIV, viral hepatitis and sexually transmitted infections for the period 2022-2030. Geneva: World Health Organization (WHO). Licence: CC BY-NC-SA 3.0 IGO. Accessed 25 February 2025.
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Accessed 13 February 2025.
+WHO, 2018. Vaccine preventable diseases surveillance standards: Hepatitis A. World Health Organization (WHO). Accessed 24 February 2025.
+WHO, 2025a. Hepatitis A. World Health Organization (WHO). Accessed 25 May 2025.
+WHO 2025b. 28 July is World Hepatitis Day. World Health Organization (WHO). Accessed 25 May 2025.
+Cite this [Copy citation]
 ```

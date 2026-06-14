@@ -1,0 +1,1 @@
+forceful acts or behaviour,intended to cause harm,injury or damage,physical harm,psychological harm,sexual harm,deprivation,individual or collective group,intentional violence,forceful violence

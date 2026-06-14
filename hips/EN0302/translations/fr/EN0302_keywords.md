@@ -1,0 +1,1 @@
+seawater infiltration of coastal groundwater, saltwater intrusion,saltwater wedge,aquifer systems,hydraulic and density gradients,aquifer permeability and thickness,confining layers,groundwater abstraction,salinity and alkalinity hazards,groundwater-resource-management scenarios,numerical simulation,monitoring for seawater intrusion

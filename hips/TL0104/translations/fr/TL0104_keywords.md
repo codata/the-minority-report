@@ -1,0 +1,1 @@
+Denial of service, prevention of authorised access, access to resources, delaying of time-critical operations, time-critical operations, milliseconds, hours, resource denial, time-criticality, service provided

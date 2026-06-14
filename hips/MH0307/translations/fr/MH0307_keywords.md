@@ -1,0 +1,1 @@
+extra-tropical cyclone, low-pressure system, latitudes outside the tropics, outside the tropics

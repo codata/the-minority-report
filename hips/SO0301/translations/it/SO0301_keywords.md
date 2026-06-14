@@ -1,0 +1,1 @@
+physical, psychological, sexual, or deprivation,direct, structural, and cultural,political violence,ethnic or racial violence,religious violence,social violence,gender-based violence,intimate partner violence,psychological violence,gang-related violence,organized crime

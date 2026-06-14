@@ -1,2 +1,55 @@
-.**
-```
+### Definitie
+Bodemdegradatie wordt gedefinieerd als een verandering in de status van de bodemkwaliteit die resulteert in een verminderde capaciteit van het ecosysteem om goederen en diensten te leveren aan zijn belanghebbenden (FAO, 2020).
+
+### Primaire referentie(s)
+FAO, 2020. FAO Soils Portal Key definitions. Food and Agriculture Organization of the United Nations (FAO). Toegang 2 oktober 2024.
+
+### Annotaties
+#### Aanvullende wetenschappelijke beschrijving
+Bodemdegradatie is de vermindering van de bodemkwaliteit als gevolg van veranderingen in de fysieke, chemische en biologische condities die de capaciteit van de bodem beïnvloeden als een levendig systeem en het leveren van ecosysteemdiensten (geïntegreerd in de Soil Monitoring Law). Degradatie kan leiden tot het totale verlies van het bodemlichaam, een afname van biodiversiteit, organisch materiaal, bodemvruchtbaarheid en structurele toestand, wat het risico op erosie of overmatige overstromingen verhoogt. Bodemdegradatie kan een natuurlijk proces zijn of het resultaat van ongeschikte of onduurzame landbeheerpraktijken. De degradatieprocessen omvatten onder meer: watererosie (bijv. blad-, rill- en gully-erosie); winderosie; toenemende zoutigheid (inclusief droge landzout, irrigatiezout, stedelijk zout en zeewaterinfiltratie in kustgebieden); de effecten van verontreinigende stoffen; en structurele achteruitgang (inclusief bodemverdichting en oppervlakteafdichting). Deze processen kunnen individueel of samen optreden. De sterke relatie tussen bodemkwaliteit en voedselzekerheid vraagt om strategische en onmiddellijke acties, vooral op lokaal niveau, om bodemdegradatie te keren en zo de voedselproductie te verhogen en voedselonzekerheid te verlichten in de gebieden waar dit het meest nodig is en in de context van klimaatverandering (FAO, 2015). Bovendien spelen gezonde bodems een cruciale rol in het reguleren van zowel het klimaat van de aarde als de watercyclus. Bodemdegradatie kan de capaciteit van de bodem om koolstof op te slaan beïnvloeden, de uitstoot van broeikasgassen verhogen en de veerkracht tegen extreme weersomstandigheden verminderen. Bodem is een essentieel onderdeel van “land” en “ecosystemen”, die beide bredere concepten omvatten. “Land” omvat vegetatie, water en klimaat, terwijl “ecosystemen” ook sociale en economische overwegingen omvatten. Gedegradeerde bodems hebben een staat van gezondheid waardoor ze de normale goederen en diensten van de betreffende bodem in hun ecosysteem niet leveren (FAO, 2020).
+
+### Metrics en numerieke limieten
+Bodemnen met bodemorganische koolstof (BOK) onder de kritische drempel van 10 tot 15 g/kg (1,0 %–1,5 %) worden doorgaans als gedegradeerd beschouwd (Lal, 2015). Land- of bodemdegradatie kan worden beoordeeld met behulp van afstandsdetectie. Satellietobservaties kunnen proxies van landdegradatie leveren zoals ernst, tijdsontwikkeling en ruimtelijke omvang (Olsson et al., 2022). Verschillende indices zijn gebruikt om landcondities te beoordelen, zoals de Normalized Difference Vegetation Index (NDVI), Enhanced Vegetation Index (EVI) en Plant Phenology Index (PPI) (zie Olsson et al., 2022). De NDVI wordt gebruikt om de gezondheid en dichtheid van vegetatie te beoordelen en is een algemeen geaccepteerde proxy voor het beoordelen van bodemdegradatie.
+
+### Belangrijkste relevante VN-conventie / multilateraal verdrag
+- United Nations Convention to Combat Desertification (UNCCD), (UNCDD, 1994)
+- United Nations Convention on Biological Diversity
+- United Nations Framework Convention on Climate Change
+
+### Drivers
+Anthropogene dragers van bodemdegradatie omvatten toenemende consumenten­vraag, urbanisatie, industrialisatie en concurrentie voor land. Deze leiden op hun beurt tot een reeks spanningen, zoals intensieve landbouw (onbalans bemesting, overplukking), bodemafdichting, bodemzoutvorming door irrigatie, ontbossing, bosbranden en vervuiling. Luchtvervuiling kan semi-natuurlijke gebieden en stedelijke bodems beïnvloeden, waarbij het risico-beheer zich richt op afvalstromen of industriële emissies. Studies over antibiotica in het bodemmilieu hebben aangetoond dat antimicrobiële stoffen de bodemmicrobiomen beïnvloeden, wat op zijn beurt de kwaliteit kan beïnvloeden en bodemdegradatie kan versnellen (Cycoń et al., 2019). Klimaatgerelateerde dragers van land- of bodemdegradatie omvatten kortdurende hevige regenval tot geleidelijke stijgingen in temperatuur, neerslag en wind (Olsson et al., 2022). Klimaatverandering versterkt bodemdegradatie door de temperatuur te verhogen, regenpatronen te wijzigen en de intensiteit van neerslag te vergroten (Olsson et al., 2022).
+
+### Impacts
+Bodemdegradatie kan leiden tot verhoogde bodemerosie, verlies van organisch materiaal, voedingsstoffenafname, ophoping van zouten en schadelijke contaminanten, en vermindering van biodiversiteit (Soil Atlas, 2024). Ongeveer 30 % van de wereldbodems is matig tot sterk gedegradeerd. Vierzig procent van deze gedegradeerde bodems bevindt zich in Afrika en het grootste deel van de rest ligt in gebieden die lijden aan armoede en voedselonzekerheid (Soil Atlas 2024). Er wordt geschat dat minstens 60 % van de bodems in de EU wordt beïnvloed door één of meer degradatieprocessen (EU Soil Observatory, 2024). De meeste toekomstige landdegradatie wordt verwacht te plaatsvinden in de gebieden met het grootste aandeel nog beschikbare bebaarde terreinen. Indien huidige trends zich voortzetten, schatten experts dat in 2050 meer dan 90 % van de landgebieden van de aarde substantieel gedegradeerd zal zijn, 4 miljard mensen in droogland zullen wonen, 50–700 miljoen mensen gedwongen zullen worden te migreren, en de wereldwijde gewasopbrengsten gemiddeld met 10 % zullen verminderen en tot 50 % in sommige regio’s (Nachtergaele et al., 2012 geciteerd door Little, 2019; IUCN, 2015; Gomiero, 2016; IPBES, 2018).
+
+### Multi-hazard context
+De onderstaande figuur vat de gebruikelijke interacties tussen bodemdegradatie en andere gevaren samen. Deze informatie moet met voorzichtigheid worden gebruikt en mag niet alleen als basis dienen voor rampenrisicobeheer, vooral omdat sommige interacties mogelijk niet zijn inbegrepen. Let op dat gevaarlijke gebeurtenissen die samen of lokaal in ruimte of tijd optreden niet noodzakelijk causaal, versterkend of anderszins gerelateerd zijn aan elkaar. Specifieke voorbeelden van multi-hazard context kunnen worden gevonden in de secties ‘Hazard drivers’ en ‘Impacts’ hierboven.
+
+### Multi-hazard diagram
+*(afbeelding blijft onveranderd)*
+
+### Risicomanagement
+Voor landbouwbodems wordt risico-beheer via agroecologie toegepast, die begint met het herstellen van bodemleven om de meerdere bodem-gebaseerde biologische processen opnieuw tot stand te brengen en/of te versterken (FAO, 2015). Dit vereist:
+- Het verhogen en monitoren van bodemorgaanstof: Bodemorgaanstof wordt beschouwd als de meest voorkomende tekortkoming in gedegradeerde minerale bodems en de belangrijkste indicator voor bodemkwaliteit. Praktische, toegankelijke indicatoren kunnen lokale beslissingen ondersteunen en grotere landschapmonitoring en analyses voor implementatie op districtniveau bevorderen.
+- Het faciliteren en monitoren van bodembiodiversiteit: Bodembiodiversiteit is direct verantwoordelijk voor meerdere ecosysteemfuncties.
+- Opbouwen op de kennis van lokale boeren: Participatieve wetenschappelijke benaderingen voor het beheer van het bodemecosysteem, zoals boeren-field-scholen, zijn van groot belang om de kennis van boeren te informeren met wetenschappelijke principes van onderzoekers, zodat agroecologische systemen lokaal beter kunnen worden aangepast. Agroforesten kunnen bodemerosie verminderen met tot 100-maal op steile hellingen. Het telen van *Faidherbia albida* in combinatie met *Pennisetum glaucum* verhoogde de graanproductie met 50 % in Burkina Faso en Senegal. In Honduras vermenigvuldigde de adoptie van bodemconserveringspraktijken de maïsopbrengst driemaal of viermaal voor 1200 gezinnen (FAO, 2015). De FAO en haar Global Soil Partnership lanceerden een nieuw programma om de bodemproductiviteit te vergroten en bodemdegradatie te verminderen voor grotere voedsel- en voedingszekerheid in Afrika. Het recent toegekende Africa Union Soil Initiative for Africa biedt een langetermijnkader om investeringen en inspanningen te leiden naar het verbeteren van de gezondheid en veerkracht van Afrikaanse bodem (FARA, 2020).
+
+### Monitoring
+De sectie en de tabel hieronder bieden een overzicht van het monitoren van bodemdegradatie. Deze informatie kan worden gebruikt voor voorspellingen binnen een nationale vroege-waarschuwing-systeem (EWS). Omdat EWS-capaciteiten en -processen per land verschillen, moeten de meest actuele en specifieke informatie over EWS worden verkregen bij de desbetreffende nationale of regionale instantie/autoriteit die verantwoordelijk is voor het rampenbeheer.
+**Welke instelling(en) produceren Rampenrisicodata/informatie?**
+- Landdiensten; Agentschap voor bodem- en waterbeheer; milieudienst; enz.
+**Hoe wordt het gevaar geobserveerd/gecontroleerd/voorspeld?**
+- Meting van het landoppervlak voor bodemerosie; sedimentconcentratie van stroming voor bodemerosie; bodemanalyse voor bodemzoutvorming, enz.
+
+### Referenties
+Cycoń M, Mrozik A, Piotrowska-Seget Z., 2019. Antibiotics in the Soil Environment-Degradation and Their Impact on Microbial Activity and Diversity. Frontiers in Microbiology. 2019 Mar 8;10:338. doi: 10.3389/fmicb.2019.00338. PMID: 30906284; PMCID: PMC6418018.
+EU Soil Observatory, 2024. EUSO Soil Degradation Dashboard. European Commission. Toegang 2 oktober 2024.
+Food and Agriculture Organization of the United Nations (FAO), 2015. Agroecology to Reverse Soil Degradation and Achieve Food Security. Food and Agriculture Organization of the United Nations (FAO). Toegang 2 oktober 2024.
+Food and Agriculture Organization of the United Nations (FAO), 2020. FAO Soils Portal: Soil degradation. Food and Agriculture Organization of the United Nations (FAO). Toegang 2 oktober 2024.
+Forum for Agricultural Research in Africa (FARA), 2020. Soil Initiative for Africa. Forum for Agricultural Research in Africa. Toegang 2 oktober 2024.
+Lal, 2015. Restoring Soil Quality to Mitigate Soil Degradation. Sustainability. 7(5):5875-5895.
+Olsson, L., Barbosa, H., Bhadwal, S., Cowie, A., Delusca, K., Flores-Renteria, D., Hermans, K., Jobbagy, E., Kurz, W., Li, D. and Sonwa, D.J., 2022. Land degradation. In Climate Change and Land: an IPCC special report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems. Cambridge University Press (pp. 345-436).
+Heinrich-Böll-Stiftung and others, 2024. Soil Atlas 2024, Facts and figures about a vital resource. Toegang 1 mei 2025.
+United Nations Convention to Combat Desertification (UNCDD), 1994. About the Convention, UNCCD. Toegang 2 oktober 2024.
+United Nations Environment Programme (UNEP), 2018. Managing soil pollution to achieve sustainable development. UNEP/EA.3/Res.6. UNEP. Toegang 2 oktober 2024.
+Cite this [Copy citation]

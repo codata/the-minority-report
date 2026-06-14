@@ -1,0 +1,1 @@
+collective physical violence, social or political instability, non-violent collective action, peaceful assembly, violent riots, destruction of property and infrastructure, violent and non-violent group acts, organized demonstration, spontaneous violent riot, clash with authority, economic or social changes, civil unrest in armed conflict, risk management for civil unrest

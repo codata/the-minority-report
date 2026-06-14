@@ -1,0 +1,1 @@
+loss of power supply, power transmission and distribution,loss of power supply to some end user,critical systems,equipment breakdowns,failure of control mechanisms,targeted attacks,physical attacks,cyber attacks,natural hazards,electric power domain

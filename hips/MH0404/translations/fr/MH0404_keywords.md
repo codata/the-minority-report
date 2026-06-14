@@ -1,0 +1,1 @@
+particles of ice,hailstones,transparent or opaque,spheroidal form,conical form,irregular form,5–50 mm in diameter,fall from a cloud,agglomerated in irregular lumps,precipitation in the form of ice

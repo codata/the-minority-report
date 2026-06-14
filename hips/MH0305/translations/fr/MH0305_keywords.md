@@ -1,0 +1,1 @@
+rotating column of air, base of a cumuliform cloud, condensation funnel, contact with the ground, circulating dust or debris cloud, column of air, cumuliform cloud, dust or debris cloud, rotating column, condensation funnel, circulating dust

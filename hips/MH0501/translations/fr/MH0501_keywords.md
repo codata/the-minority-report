@@ -1,0 +1,1 @@
+period of hot weather, consecutive days and nights, local climatological conditions, thermal conditions, recorded above given thresholds, persisting for at least two or three days and nights, hot period of the year, thermal conditions recorded, given thresholds, WMO and WHO

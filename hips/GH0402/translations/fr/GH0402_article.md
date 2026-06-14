@@ -1,1 +1,60 @@
-.
+### Définition
+La **dégradation des sols** est définie comme un changement dans l’état de santé des sols entraînant une capacité diminuée de l’écosystème à fournir des biens et services à ses bénéficiaires (FAO, 2020).
+
+### Références primaires
+FAO, 2020. FAO Soils Portal Key definitions. Food and Agriculture Organization of the United Nations (FAO). Consulté le 2 octobre 2024.
+
+### Annotations
+#### Description scientifique supplémentaire
+La **dégradation des sols** est la réduction de la santé des sols résultant de changements dans les conditions physiques, chimiques et biologiques qui affectent la capacité du sol à fonctionner comme un système vivant vital et à fournir des services écosystémiques (adapté de Soil Monitoring Law). La dégradation peut entraîner la perte totale du sol ainsi qu’une baisse de la biodiversité, de la matière organique, de la fertilité des sols et de la condition structurelle, menant à un risque accru d’**érosion hydrique** ou d’inondations excessives. Elle peut être un processus naturel ou le résultat de pratiques de gestion des terres inappropriées ou non durables. Les processus de **dégradation des sols** incluent : l’**érosion hydrique** (ex. érosion par plaques, rills et fosses), l’**érosion éolienne**, l’augmentation de la salinité (incluant la salinité des terres sèches, de l’irrigation et la salinisation urbaine ainsi que les intrusions d’eau de mer dans les zones côtières), les effets des polluants et le déclin de la structure (incluant le **compactage des sols** et l’étanchissement de surface). Ces processus peuvent se produire individuellement ou ensemble. La forte relation entre la santé des sols et la sécurité alimentaire appelle à des actions stratégiques et immédiates, surtout au niveau local, pour inverser la **dégradation des sols** afin d’augmenter la production alimentaire et d’atténuer l’insécurité alimentaire dans les zones où elle est la plus nécessaire et dans le contexte du **changement climatique** (FAO, 2015). De plus, les sols sains jouent un rôle vital dans la régulation du climat de la Terre et du cycle de l’eau. La **dégradation des sols** peut affecter la capacité des sols à stocker le carbone, augmenter les émissions de gaz à effet de serre et réduire la résilience aux événements météorologiques extrêmes. Le sol est un composant essentiel des « terres » et des « écosystèmes » qui sont des concepts plus larges englobant la végétation, l’eau et le climat dans le cas des terres, et en plus de ces trois aspects, également des considérations sociales et économiques dans le cas des écosystèmes. Les sols dégradés n’offrent plus les biens et services normaux de leur écosystème (FAO, 2020).
+
+### Métriques et limites numériques
+Les sols dont les niveaux de carbone organique du sol (SOC) sont inférieurs au seuil critique de 10 à 15 g/kg (1,0 % à 1,5 %) sont généralement considérés comme dégradés (Lal, 2015). La dégradation des terres ou des sols peut être évaluée à l’aide de la **télédétection**. Les observations satellitaires peuvent fournir des indicateurs de la dégradation des terres tels que la gravité, le développement temporel et l’étendue géographique (Olsson et al., 2022). Divers indices ont été utilisés pour évaluer les conditions des terres, tels que l’Indice de différence normalisée de la végétation (NDVI), l’Indice de végétation amélioré (EVI) et l’Indice de phénologie des plantes (PPI) (voir Olsson et al., 2022). Le NDVI est utilisé pour évaluer la santé et la densité de la végétation et est un indicateur largement accepté pour évaluer la **dégradation des sols**.
+
+### Convention / traité multilatéral clé de l'ONU
+Convention des Nations Unies contre la désertification (CNUDC), (UNCCD, 1994)
+Convention des Nations Unies sur la diversité biologique
+Cadre de coopération des Nations Unies sur les changements climatiques
+
+### Conducteurs
+Les conducteurs anthropiques de la **dégradation des sols** incluent la demande de consommation croissante, l’urbanisation, l’industrialisation et la compétition pour les terres. Ceux-ci entraînent un éventail de pressions telles que l’agriculture intensive (déséquilibre de la fertilisation, sur-tillage), l’étanchissement des sols, la salinisation des sols par l’irrigation, la déforestation, les incendies de forêt et la pollution. La pollution atmosphérique peut affecter les zones semi-naturelles et les sols urbains, où la gestion des risques est centrée sur les flux de déchets ou les émissions industrielles. Des études sur les antibiotiques dans l’environnement des sols ont révélé que les antimicrobiens affectent les microbiomes des sols qui, à leur tour, peuvent influencer leur qualité, conduisant à la **dégradation des sols** (Cycoń et al., 2019). Les conducteurs liés au climat de la dégradation des terres ou des sols comprennent les fortes tempêtes de pluie intenses et les augmentations progressives de température, de précipitations et de vent (Olsson et al., 2022). Le **changement climatique** amplifie la **dégradation des sols** en augmentant la température, en modifiant les modèles de précipitations et en intensifiant les précipitations (Olsson et al., 2022).
+
+### Impacts
+La **dégradation des sols** peut entraîner une augmentation de l’**érosion hydrique**, une perte de matière organique, un épuisement des nutriments, une accumulation de sels et de contaminants nocifs, et une réduction de la biodiversité (Soil Atlas, 2024). Environ 30 % des sols du monde sont modérément à fortement dégradés. Quarante pour cent de ces sols dégradés se trouvent en Afrique et la plupart du reste se situent dans des zones frappées par la pauvreté et l’insécurité alimentaire (Soil Atlas 2024). On estime qu’au moins 60 % des sols de l’UE sont affectés par un ou plusieurs processus de dégradation (EU Soil Observatory, 2024). La plupart des futures dégradations des terres sont prévues pour se produire dans les zones disposant de la plus grande quantité de terres arables restantes. Si les tendances actuelles se poursuivent, les experts estiment qu’en 2050, plus de 90 % des zones terrestres de la Terre seront substantiellement dégradées, 4 milliards de personnes vivront dans des terres arides, 50 à 700 millions de personnes seront forcées de migrer, et les rendements globaux des cultures seront réduits d’une moyenne de 10 % et jusqu’à 50 % dans certaines régions (Nachtergaele et al., 2012 cités par Little, 2019 ; IUCN, 2015 ; Gomiero, 2016 ; IPBES, 2018).
+
+### Contexte multi-risque
+La figure ci-dessous résume les interactions courantes entre la **dégradation des sols** et d’autres risques. Ces informations doivent être utilisées avec prudence et ne doivent pas être les seules bases de la gestion du risque de catastrophe, notamment parce que certains risques pouvant se produire ensemble ou localement dans l’espace ou le temps peuvent ne pas nécessairement provoquer, amplifier ou être liés les uns aux autres. Des exemples spécifiques de contexte multi-risque peuvent être trouvés dans les sections « Conducteurs de risques » et « Impacts » ci-dessus.
+
+### Diagramme multi-risque
+*(aucun contenu fourni)*
+
+### Gestion des risques
+Pour les sols agricoles, la gestion du risque par l’**agroécologie** est adoptée, qui commence par la restauration de la vie du sol afin de rétablir et/ou renforcer les multiples processus biologiques basés sur le sol (FAO, 2015). Cela nécessite :
+- **Augmenter et surveiller la matière organique du sol** : la matière organique du sol est considérée comme le déficit le plus courant dans les sols minéraux dégradés et l’indicateur principal de la qualité des sols. Des indicateurs pratiques et accessibles peuvent soutenir les décisions locales, la surveillance et l’analyse à plus grande échelle pour la mise en œuvre au niveau du district.
+- **Faciliter et surveiller la biodiversité des sols** : les communautés biologiques des sols sont directement responsables de multiples fonctions écosystémiques.
+- **Construire sur la connaissance des agriculteurs locaux** : les approches scientifiques participatives à la gestion des écosystèmes des sols, telles que les écoles de terrain pour les agriculteurs, sont d’une grande importance pour transmettre aux agriculteurs les principes scientifiques des chercheurs afin d’adapter plus localement les systèmes agroécologiques.
+- **Adoption à grande échelle de pratiques de gestion des sols durables** : les systèmes agroforestières peuvent réduire l’érosion des sols jusqu’à 100 fois sur les pentes raides. La culture de *Faidherbia albida* en association avec le millet (*Pennisetum glaucum*) a augmenté les rendements des grains de 50 % au Burkina Faso et au Sénégal. Au Honduras, l’adoption de pratiques de conservation des sols a triplé ou quadriplé les rendements du maïs pour 1200 familles (FAO, 2015). La FAO et son partenariat mondial pour les sols ont lancé un nouveau programme pour renforcer la productivité des sols et réduire la **dégradation des sols** pour une plus grande sécurité alimentaire et nutritionnelle en Afrique. L’initiative africaine pour le sol récemment adoptée fournit un cadre à long terme pour guider les investissements et les efforts afin d’améliorer la santé et la résilience des sols africains (FARA, 2020).
+
+### Surveillance
+La section et le tableau ci-dessous offrent un aperçu de la surveillance de la **dégradation des sols**. Ces informations peuvent être utilisées pour la prévision dans un système d’alerte précoce national (SAPP). Puisque les capacités et processus des SAPP varient d’un pays à l’autre, les informations les plus récentes et spécifiques concernant les SAPP doivent être obtenues auprès de l’agence/autorité nationale ou régionale appropriée responsable de la gestion des catastrophes.
+
+**Quelles(s) institution(s) produisent des données/informations sur le risque de catastrophe ?**
+Services fonciers ; agence de conservation des sols et de l’eau ; agence environnementale ; etc.
+
+**Comment le risque est-il observé/monitoré/prévu ?**
+Mesure de la surface terrestre pour l’érosion des sols ; concentration de sédiments dans le débit pour l’érosion des sols ; analyse des sols pour la salinité, etc.
+
+### Références
+Cycoń M, Mrozik A, Piotrowska‑Seget Z., 2019. Antibiotics in the Soil Environment‑Degradation and Their Impact on Microbial Activity and Diversity. Frontiers in Microbiology. 2019 Mar 8;10:338. doi: 10.3389/fmicb.2019.00338. PMID: 30906284; PMCID: PMC6418018.
+EU Soil Observatory, 2024. EUSO Soil Degradation Dashboard. European Commission. Consulté le 2 octobre 2024.
+Food and Agriculture Organization of the United Nations (FAO), 2015. Agroecology to Reverse Soil Degradation and Achieve Food Security. Food and Agricultural Organization of the United Nations (FAO). Consulté le 2 octobre 2024.
+Food and Agriculture Organization of the United Nations (FAO), 2020. FAO Soils Portal: Soil degradation. Food and Agriculture Organization of the United Nations (FAO). Consulté le 2 octobre 2024.
+Forum for Agricultural Research in Africa (FARA), 2020. Soil Initiative for Africa. Forum for Agricultural Research in Africa. Consulté le 2 octobre 2024.
+Lal, 2015. Restoring Soil Quality to Mitigate Soil Degradation. Sustainability. 7(5):5875-5895.
+Olsson, L., Barbosa, H., Bhadwal, S., Cowie, A., Delusca, K., Flores‑Renteria, D., Hermans, K., Jobbagy, E., Kurz, W., Li, D. and Sonwa, D.J., 2022. Land degradation. In Climate Change and Land: an IPCC special report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems. Cambridge University Press (pp. 345-436).
+Heinrich‑Böll‑Stiftung et al., 2024. Soil Atlas 2024, Facts and figures about a vital resource. Consulté le 1er mai 2025.
+United Nations Convention to Combat Desertification (UNCCD), 1994. About the Convention, UNCCD. Consulté le 2 octobre 2024.
+United Nations Environment Programme (UNEP), 2018. Managing soil pollution to achieve sustainable development. UNEP/EA.3/Res.6. UNEP. Consulté le 2 octobre 2024.
+Cite this [Copy citation]
+
+***

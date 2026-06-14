@@ -1,0 +1,24 @@
+## Changelog
+| Section | Original (it) | Corrected (it) | Reason |
+|---|---|---|---|
+| Definizione | Una inondazione improvvisa è un'alluvione di breve durata caratterizzata da un scarico di picco relativamente elevato (WMO, 2021). | Un'inondazione improvvisa è un'alluvione di breve durata caratterizzata da uno scarico di picco relativamente elevato (WMO, 2021). | Miglioramento della fluidità e della sintassi. |
+| Riferimento primario | WMO, 2021. Technical Regulations. Volume III: Hydrology, WMO-No. 49. World Meteorological Organization (WMO). Accessed 15 May 2025. | WMO, 2021. Technical Regulations. Volume III: Hydrology, WMO-No. 49. World Meteorological Organization (WMO). Accesso il 15 maggio 2025. | Correzione della traduzione di "Accessed" e formattazione della data secondo lo standard it. |
+| Annotazioni (Descrizione scientifica aggiuntiva) | (ad esempio da detriti o ghiaccio). | (ad esempio da detriti o ghiaccio). | Nessuna modifica sostanziale, mantenuta la terminologia scientifica. |
+| Annotazioni (Descrizione scientifica aggiuntiva) | (NOAA, no date a; AMS, 2017). | (NOAA, data non specificata; AMS, 2017). | Correzione della traduzione di "no date a" in un contesto formale. |
+| Metriche e limiti numerici | (NOAA, no date b). | (NOAA, data non specificata). | Correzione della traduzione di "no date b" in un contesto formale. |
+| Metriche e limiti numerici | (Liu and Smedt, 2005). | (Liu e Smedt, 2005). | Correzione della forma del riferimento (uso di "e" anziché "and" in italiano). |
+| Motori | L’intensità della pioggia, la posizione e la distribuzione della pioggia, l’uso del suolo e la topografia, i tipi di vegetazione e la loro densità, il tipo di suolo e il contenuto d’acqua del suolo determinano tutti la rapidità con cui può verificarsi una inondazione improvvisa e influenzano dove può verificarsi (NOAA, no date b). | L’intensità della pioggia, la posizione e la distribuzione della pioggia, l’uso del suolo e la topografia, i tipi di vegetazione e la loro densità, il tipo di suolo e il contenuto d’acqua del suolo determinano tutti la rapidità con cui può verificarsi un’inondazione improvvisa e influenzano dove può verificarsi (NOAA, data non specificata). | Miglioramento della fluidità e della sintassi. |
+| Impatti | (WHO, no date). | (WHO, data non specificata). | Correzione della traduzione di "no date" in un contesto formale. |
+| Impatti | (WHO, no date). | (WHO, data non specificata). | Correzione della traduzione di "no date" in un contesto formale. |
+| Impatti | (WHO, no date). | (WHO, data non specificata). | Correzione della traduzione di "no date" in un contesto formale. |
+| Impatti | (WHO, no date). | (WHO, data non specificata). | Correzione della traduzione di "no date" in un contesto formale. |
+| Gestione del rischio | ...per qualsiasi misura di mitigazione. | ...per qualsiasi misura di mitigazione. | Nessuna modifica sostanziale. |
+| Gestione del rischio | Misure non strutturali: ... | Misure non strutturali: ... | Mantenuto il formato elenco. |
+| Gestione del rischio | Misure strutturali: ... | Misure strutturali: ... | Mantenuto il formato elenco. |
+| Monitoraggio | La sezione sopra e la tabella sotto offrono una panoramica della monitorizzazione delle inondazioni improvvise. | La sezione precedente e la tabella sottostante offrono una panoramica del monitoraggio delle inondazioni improvvise. | Miglioramento della fluidità e della precisione terminologica. |
+| Monitoraggio | ...dall’agenzia/autorità nazionale o regionale appropriata responsabile della gestione dei disastri. | ...dall’agenzia/autorità nazionale o regionale appropriata responsabile della gestione dei disastri. | Nessuna modifica sostanziale. |
+| Monitoraggio | ...per valutare il potenziale di inondazioni improvvise. | ...per valutare il potenziale di inondazioni improvvise. | Nessuna modifica sostanziale. |
+| Monitoraggio | ...e i cambiamenti che influenzano il flusso d’acqua durante eventi di pioggia estrema. | ...e i cambiamenti che influenzano il flusso d’acqua durante eventi di pioggia estrema. | Nessuna modifica sostanziale. |
+| Monitoraggio | ...e la diffusione di allerta precoce locale. | ...e la diffusione di allerta precoce locale. | Nessuna modifica sostanziale. |
+| Monitoraggio | ...e i modelli di previsione delle inondazioni improvvise e impatti del cambiamento climatico. | ...e i modelli di previsione delle inondazioni improvvise e gli impatti del cambiamento climatico. | Miglioramento della fluidità. |
+| Come viene osservato/monitorato/previsione il pericolo? | ...e la previsione rapida sono cruciali per emettere avvisi tempestivi per proteggere vite, infrastrutture e comunità. | ...e la previsione rapida sono cruciali per emettere avvisi tempestivi per proteggere vite, infrastrutture e comunità. | Nessuna modifica sostanziale. |

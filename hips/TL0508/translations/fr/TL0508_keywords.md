@@ -1,0 +1,1 @@
+sharps waste, infectious waste, pathological waste, chemical waste, pharmaceutical waste, cytotoxic waste, radioactive waste, blood contaminated items, hazardous waste, waste treatment

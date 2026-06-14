@@ -1,0 +1,1 @@
+melting of snow, melting of ice, snow or ice, temperature rise, 0°C, melting of snow or ice, Earth’s surface, phase change, thermal input, freezing point

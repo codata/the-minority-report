@@ -1,0 +1,1 @@
+discrete flows, rapid flows, gravity-driven flows, water-saturated flows, flows containing water and solid particles, volcanic rock, sediment, ice, wood debris, flows originating at volcanoes

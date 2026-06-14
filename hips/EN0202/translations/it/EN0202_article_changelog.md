@@ -1,0 +1,9 @@
+## Changelog
+| Section | Original (it) | Corrected (it) | Reason |
+|---|---|---|---|
+| Definizione | ...e delle comunità vegetali entro un determinato periodo di tempo... | ...e delle comunità vegetali in un determinato periodo di tempo... | Improved fluency and natural phrasing. |
+| Annotazioni | ...i **fungi di decadimento radicolare** (Manion & Lachance, 1992). | ...i **funghi di decadimento radicale** (Manion & Lachance, 1992). | Corrected the specific biological term for clarity. |
+| Convenzione ONU chiave / Trattato multilaterale | Convenzione Quadro delle Nazioni Unite sul Cambiamento Climatico (UNFCCC) | Convenzione Quadro delle Nazioni Unite sul Cambiamento Climatico (UNFCCC) | Corrected the official UN acronym (UNFCCC). |
+| Gestione del rischio | ...e di azione precoce per insetti e malattie... | ...e di azione precoce per insetti e malattie... | Ensured consistent use of formal terminology. |
+| References | ...and Courty, P.-E. (2020, April). | ...and Courty, P.-E. (2020). | Standardized citation format for journal articles (removed specific month unless necessary for context). |
+| References | ...Morand, S., and Lajaunie, C., 2021. Outbreaks of Vector-Borne and Zoonotic Diseases Are Associated With Changes in Forest Cover and Oil Palm Expansion at Global Scale. Front. Vet. Sci. 8:661063. doi: 10.3389/fvets.2021.661063. Outbreaks of Vector-Borne and Zoonotic Disease. Accessed 13 February 2025. | Morand, S., and Lajaunie, C., 2021. Outbreaks of Vector-Borne and Zoonotic Diseases Are Associated With Changes in Forest Cover and Oil Palm Expansion at Global Scale. Front. Vet. Sci. 8:661063. doi: 10.3389/fvets.2021.661063. Accessed 13 February 2025. | Ensured consistent use of the standard "and" conjunction in academic citations. |

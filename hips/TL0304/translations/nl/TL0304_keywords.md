@@ -1,0 +1,1 @@
+rapid energetic events, blast waves, fragment and debris throw, cratering and ground shock, exposure pathways, hot zone, warm zone, cold zone, Explosion Early Warning System, explosive agents, high explosives, hazardous installations

@@ -1,0 +1,1 @@
+incomplete combustion, anthropogenic soot, naturally occurring soot, pure carbon in several linked forms, absorbing heat in the atmosphere, reducing albedo, deposited on snow and ice, aerosol species, measurement of light absorption, chemical reactivity, thermal stability

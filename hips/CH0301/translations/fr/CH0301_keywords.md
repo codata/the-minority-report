@@ -1,0 +1,1 @@
+Ammonia (NH3), reactive gas, ambient temperature, ambient pressure, public health hazard, colourless, acrid-smelling, reactive gas, ambient conditions, public health hazard

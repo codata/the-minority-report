@@ -1,0 +1,1 @@
+supercooled rain, freezing rain or freezing drizzle, freezing rain on contact with the ground, coating of ice on its surface, Ice storm, black ice, accretion of clear icing, heavy accumulations of ice, utility lines or poles brought down, weight of the ice, accretion of freezing rain on road surfaces, freezing rain formation

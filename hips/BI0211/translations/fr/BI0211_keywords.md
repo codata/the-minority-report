@@ -1,0 +1,1 @@
+acute vaccine-preventable viral liver disease, viral liver disease, epidemics worldwide, cyclic recurrences, virus persists in the environment, food production processes, inactivate bacterial pathogens, control bacterial pathogens, viral persistence, mild to severe illness

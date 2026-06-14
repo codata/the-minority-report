@@ -1,0 +1,1 @@
+permafrost thaw, loss of ground ice, input of heat, ground ice in permafrost, phase change between ice and water, transition from permafrost, thawed ground, temperature fluctuations, progressive loss of ground ice, permafrost loss

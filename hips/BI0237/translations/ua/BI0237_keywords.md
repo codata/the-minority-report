@@ -1,0 +1,1 @@
+Mycobacterium tuberculosis, multi-drug-resistant TB, extensively drug-resistant TB, sputum smear microscopy, rapid molecular tests, Bacille Calmette-Guérin vaccine, MDR-TB treatment, XDR-TB, zoonotic TB, Mycobacterium tuberculosis complex, drug-resistant tuberculosis treatment

@@ -1,0 +1,1 @@
+Explosion-related technological incidents, blast waves, fragment and debris throw, cratering and ground shock, blast injury, primary contamination, secondary contamination, hot zone, warm zone, cold zone, explosive agents, hazardous installations

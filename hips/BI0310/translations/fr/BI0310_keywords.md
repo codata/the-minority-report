@@ -1,0 +1,1 @@
+Peste des petits ruminants, disease of goats and sheep, Peste des petits ruminants virus, genus Morbillivirus, Family Paramyxoviridae, Order Mononegavirales, causative agent, highly contagious disease, devastating disease

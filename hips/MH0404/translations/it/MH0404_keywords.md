@@ -1,0 +1,1 @@
+hailstones, spheroidal or conical form, onion skin formation, giant hail, spongy ice, density of between 0.85 g/cm3 and 0.92 g/cm3, large cavities filled with air, nucleus, cloud droplets, agglomerated in irregular lumps, formation around a nucleus

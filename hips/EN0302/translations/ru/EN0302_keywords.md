@@ -1,0 +1,1 @@
+saltwater infiltrates coastal aquifer,mixing with local freshwater supply,saltwater wedge at the coastline,local hydraulic and density gradients,aquifer characteristics,confining layers,groundwater abstraction,salinisation of groundwater,salinity and alkalinity hazards,unlocking nutrients from fertilisers,seawater intrusion processes,groundwater abstraction

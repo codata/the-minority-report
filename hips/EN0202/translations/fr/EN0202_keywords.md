@@ -1,0 +1,1 @@
+forest declines and diebacks, episodic events, loss of tree and stand vigour, loss of stand health, premature loss, progressive loss, physical disturbance, attack by primary disease, attack by insect, single clearly identifiable causal factor, tree and stand vigour

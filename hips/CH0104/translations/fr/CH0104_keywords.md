@@ -1,0 +1,1 @@
+naturally occurring element, exposure to mercury, health problems, development of the foetus in utero, threat to children early in life, exposure to small amounts, found in air, found in water, found in soil, development in utero

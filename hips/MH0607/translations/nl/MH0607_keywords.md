@@ -1,0 +1,1 @@
+glacial lake outburst flood,release of water,ice-dammed lakes,morainic debris,GLOF-induced debris flow,extreme peak discharges,flow-type movements,ice avalanches,lateral moraines,moraine-dammed lakes,worst-case runout distances,upstream catchment area,early warning system

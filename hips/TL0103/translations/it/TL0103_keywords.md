@@ -1,0 +1,1 @@
+prolonged and targeted cyber-attack,infiltrate systems undetected,lateral movement,privilege escalation,deploying backdoors and rootkits,data exfiltration,spear-phishing,zero-day vulnerabilities,supply chain attacks,cloud infrastructure,observe network activity,Intrusion Detection System (IDS)

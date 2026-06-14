@@ -1,0 +1,1 @@
+incomplete combustion of solid fuels, emission of potentially toxic pollutants, particles of varying sizes, volatile and semi-volatile organic compounds, household fuel combustion, indoor smoke levels, exposure to household air pollution, residential heating and cooking, small soot particles, biological contaminants in indoor spaces, PM2.5 and CO emission rate targets

@@ -1,0 +1,1 @@
+Contagious caprine pleuropneumonia (CCPP), Mycoplasma capricolum subsp. capripneumoniae (Mccp), affecting goats, wild ruminant species, anorexia, fever, respiratory signs, dyspnoea, polypnea, nasal discharges, unilateral serofibrinous pleuropneumonia, pleural effusion

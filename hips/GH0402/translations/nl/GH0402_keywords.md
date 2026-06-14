@@ -1,0 +1,1 @@
+change in soil health status, reduction in soil health, decline in biodiversity, soil organic matter, soil fertility, structural condition, water erosion, wind erosion, soil compaction, surface sealing, soil salinization, soil degradation processes, soil organic carbon, soil microbiomes, soil erosion, nutrient depletion, soil quality

@@ -1,0 +1,1 @@
+air temperature, freezing point of water, freezing point, 0°C, freeze, WMO, freezing point of water, air temperature equal to or less than

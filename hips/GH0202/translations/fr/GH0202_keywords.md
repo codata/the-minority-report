@@ -1,0 +1,1 @@
+volcanic fragments,pyroclasts,fragmentation of fresh magma,fragmentation of pre-existing rocks,ejected into the atmosphere,explosive eruption,volcanic ash,finest particles of tephra,volcanic ballistic projectiles,fragmentation of old rocks

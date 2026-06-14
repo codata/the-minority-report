@@ -1,82 +1,81 @@
-### Definition  
-Сбой дамбы – неконтролируемый выпуск воды вследствие разрушения конструкции, нестабильности фундамента или переотвода, представляющий угрозу для людей и имущества ниже дамбы (ICOLD, 2023; упомянутый в Moreno‑Rodenas et al., 2025).
+### Определение
+Крах плотины – это неконтролируемый разлив воды, возникающий вследствие разрушения структуры, нестабильности фундамента или перелива, который создает риск для людей и собственности внизу реки (ICOLD, 2023, упомянутый в Moreno‑Rodenas et al., 2025).
 
-### Primary reference(s)  
-Moreno‑Rodenas, A.; Mantilla‑Jones, J. D.; Valero, D., 2025. *Age, climate and economic disparities drive the current state of global dam safety.* Nature Water 3, 284‑295. Доступ 15 марта 2025.
+### Основные источники
+Moreno‑Rodenas, A.; Mantilla‑Jones, J. D., Valero, D., 2025. Age, climate and economic disparities drive the current state of global dam safety. Nature Water 3, 284‑295.
 
-### Annotations  
+### Аннотации
+#### Дополнительное научное описание
+Крах плотины – это катастрофическое событие, характеризующееся:
+- неконтролируемым разливом удерживаемой воды;
+- и/или полной потерей целостности конструкции плотины, её фундамента или опор.
 
-#### Additional scientific description  
-Сбой дамбы – катастрофическое событие, характеризующееся:
-- неконтролируемым выпуском задним водоёмом;
-- и/или полной потерей целостности конструкции дамбы, её фундамента или бортов.
+Термин «плотина» относится к любой искусственной барьерной конструкции, способной удерживать воду, сточные воды или жидкие материалы для хранения или регулирования водного потока. Плотина считается высокой, если высота от естественного русла реки до вершины превышает 7,62 м, или если объём хранения превышает 61 625 м³. Большая плотина – это плотина высотой более 15 м от основания до вершины или плотина высотой от 5 м до 15 м, удерживающая более 3 млн м³ (ICOLD, 2019). Такое определение широко применяется во всем мире.
 
-Термин «дамба» относится к любой искусственной барьерной конструкции, способной задерживать воду, сточные воды или жидкостные материалы для хранения или регулирования водного потока. Дамба считается высокой не менее 25 футов (7,62 м) от природного русла или от нижней границы внешнего предела барьера до максимального уровня воды, либо способной хранить минимум 50 акр‑футов (61 625 м³). Большая дамба – дамба высотой ≥ 15 м от нижней основы до вершины или дамба высотой от 5 м до 15 м, удерживающая более 3 млрд м³ (ICOLD, 2019). Это определение широко применяется по всему миру.
+Плотины классифицируются по множеству факторов, включая материал, высоту и объём резервуара. Строятся они из грунта, камня, бетона или отложений (сортовых отложений) от горных добычных предприятий. Даже небольшая плотина может удерживать миллионы литров воды (миллионы галлонов). Сбой в конструкции может привести к опасным ситуациям из‑за высоких скоростей и больших объёмов воды. При крахе плотины потенциальная энергия застывшей воды может нанести серьёзный ущерб собственности и благосостоянию, а также привести к травмам и гибели людей внизу (FEMA, 2017).
 
-Дамбы обычно классифицируются по набору факторов: состав, высота, объём резервуара. Строятся из грунта, камня, бетона или хвостов (свалок) минеральных работ. В зависимости от надмировой топографии даже небольшая дамба может задерживать миллионы литров воды (акр‑футов в миллионах галлонов) (FEMA, 2017). Коллапс или движение, приводящее к разрыву дамбы, может вызвать смертельно опасные паводки из‑за высоких скоростей и больших объёмов воды. При сбое дамбы потенциальная энергия воды, накопленной за счёт дамбы, может нанести существенный ущерб имуществу и жизни людей ниже дамбы (FEMA, 2017).
+Система классификации потенциальной опасности распределяет риски краха плотины по трём уровням: НИЗКАЯ, ЗНАЧИТЕЛЬНАЯ и ВЫСОКАЯ, при этом каждый уровень включает последствия более низких уровней. Эти рамки подчёркивают, что любой крах плотины, независимо от её размеров, может угрожать жизни и имуществу внизу. Они подчёркивают непредсказуемость таких событий и необходимость проактивных мер по управлению рисками.
 
-### Hazard potential classification system  
-Система классификации потенциального риска дамбы делит риски на три уровня: **Низкий**, **Значительный** и **Высокий**, при этом каждый уровень включает последствия более низких уровней (FEMA, 2004). Каждый уровень охватывает последствия более низких уровней.  
+- Низкий потенциал опасности: отсутствие вероятной потери человеческой жизни и низкие экономические и/или экологические потери.
+- Значительный потенциал опасности: отсутствие вероятной потери человеческой жизни, но возможны экономические потери, экологический ущерб, нарушение жизненно‑необходимой инфраструктуры.
+- Высокий потенциал опасности: вероятность потери человеческой жизни.
 
-#### Consequences  
-- **Низкий** – отсутствие вероятного потери жизни и низкие экономические и/или экологические потери.  
-- **Значительный** – отсутствие вероятного потери жизни, но возможные экономические потери, экологический ущерб, нарушение жизненно важных систем или другие проблемы.  
-- **Высокий** – вероятная потеря жизни.  
+### Примеры краха плотины
+1. **Брумадиньо, Бразилия, 2019** – разрыв плотины сортовых отложений привёл к разливу 12 млн м³ хвостов и гибели 270 человек.
+2. **Бассейн красных отложений, Ужка, Венгрия, 2010** – разрушение стенки хранилища с кислым стоком привело к гибели 10 человек и потере 123 человек.
+3. **Плотина Малпасет, Франция, 1959** – обрушение арочной плотины вызвало гибель более 400 человек.
 
-### Summary examples of dam failures  
-1. **Дамба в Брумадиньо (Бразилия, 2019)** – утечка хвостов дамбы «Córrego do Feijão» в 2019 г., ~12 млрд м³ хвостов, более 270 погибших, значительный экологический ущерб (Cambridge & Shaw, 2019; Thompson et al., 2020).  
-2. **Резервуар «Ajka Red Sludge» (Венгрия, 2010)** – обрушение стены резервуара с едким отходом, более 1 млрд м³ щёлочного шламов, 10 погибших, 123 раненых (Ujaczki et al., 2015).  
-3. **Дамба «Malpasset» (Франция, 1959)** – внезапный сбой арочного дамбы, более 400 жертв (Duffaut & Larouzée, 2019).  
+### Метрики и численные пределы
+Многочисленные исследования продолжают обновлять статистику по крахам плотин (ICOLD, 2023).
 
-*(Приведённые примеры можно дополнять остальными случаями из исходного текста.)*  
+### Ключевые международные конвенции
+- **Конвенция о защите и использовании трансграничных водных путей и международных озёр (UNECE, 2013)**
+- **Цели устойчивого развития ООН (UNDESA, 2021)**
+- **Фреймворк Сэнда для снижения риска бедствий (UNDRR, 2015‑2030)**
 
-### Metrics and numeric limits  
-*(Тут следует перевести всю таблицу лимитов и статистики; используйте термины «объём резервуара», «высота дамбы», «потери» и т.д.)*  
+### Факторы риска
+Крах плотины может произойти из‑за:
+- просачивания и внутренней эрозии;
+- плохих условий фундамента;
+- перелива;
+- статической и сейсмической нестабильности;
+- сжатия, избыточного воздействия, землетрясения, засухи, оползня, экстремальной погоды, загрязнения, ядерных и радиологических материалов, аварий с транспортировкой опасных веществ, конструктивных недостатков и т.д.
 
-### Key relevant UN conventions / multilateral treaties  
-- Конвенция об охране и использовании трансграничных водных объектов и международных озёр (UNECE, 2013).  
-- Цели устойчивого развития ООН (SDGs) (UNDESA, 2021).  
-- Фреймворк Sendai по снижению риска от стихийных бедствий, 2015‑2030 (UNDRR, 2015).  
-- Руководство UNDRR по критической инфраструктуре (2023).  
+### Влияние
+Крах плотины приводит к быстрому опустошению резервуара, эрозии и разрушению среды внизу. Это вызывает катастрофический паводок, ущерб инфраструктуре, загрязнение поверхностных и подземных вод, а также вторичные бедствия, такие как оползни и подвижка грунта.
 
-### Drivers  
-Сбой дамбы чаще всего связан с:
-- просачиванием и внутренним эрозионным истощением;
-- плохими условиями фундамента;
-- переотводом;
-- статической и сейсмической нестабильностью;
-- сейсмическими событиями;
-- засухой, изменением уровня воды;
-- земляными движениями и лавинами;
-- экстремальной погодой;
-- загрязнением от промышленности;
-- радиационными инцидентами;
-- транспортными авариями с опасными грузами;
-- проектными и эксплуатационными дефектами.  
+### Многосценарийный контекст
+Диаграмма ниже иллюстрирует типичные взаимодействия между крахом плотины и другими угрозами.
 
-### Impacts  
-Сбой дамбы приводит к:
-- быстрому опустошению резервуара, эрозии и уничтожению среды обитания вверх;
-- внезапному выпуску воды, катастрофическим паводками ниже дамбы;
-- ущербу инфраструктур (транспорт, электроэнергия, коммуникации, водоснабжение);
-- загрязнению поверхностных и грунтовых вод, загрязнению воздуха;
-- вторичным бедствиям (лавины, эрозия почвы, обвал грунта).
+### Управление рисками
+После недавних катастроф страны усилили безопасность, применяя законы о безопасности плотин, стандарты UNECE и рекомендации FEMA P‑1085 (2023).
 
-### Risk creep  
-Постепенное увеличение последствий из‑за развития инфраструктуры в зоне риска, даже без изменения физического состояния дамбы, может «поднять» её до более высокого уровня потенциального риска.
+### Мониторинг
+Сжатие и регулярная деформация плотины могут отслеживаться с помощью спутниковой интерферометрической радиолокации (InSAR).
 
-### Multi‑hazard context  
-*(Перевести схему взаимодействий, пояснить, что некоторые события не обязательно усиливают друг друга.)*  
+## References
+Cambridge, M., Shaw, D., 2019. Preliminary reflections on the failure of the Brumadinho tailings dam in January 2019. Dams and Reservoirs, 29:113‑123.
+Duffaut, P., Larouzée, J., 2019. Geology, engineering & Humanities: 3 sciences behind the Malpasset dam failure (France, Dec. 2, 1959). Quarterly Journal of Engineering Geology and Hydrology. Accessed 15 February 2025.
+Federal Emergency Management Agency (FEMA), 2004. Federal Guidelines for Dam Safety: Hazard Potential Classification System for Dams. Prepared by the Interagency Committee on Dam Safety. Federal Emergency Management Agency (FEMA). Accessed 24 April 2025
+Federal Emergency Management Agency (FEMA), 2012. Assessing the Consequences of Dam Failure – A How to Guide, Federal Emergency Management Agency. Accessed 24 January, 2025
+Federal Emergency Management Agency (FEMA), 2013. Federal Guidelines for Inundation Mapping of Flood Risks Associated with Dam Incidents and Failures (FEMA). Accessed 13 December 2024.
+Federal Emergency Management Agency (FEMA), 2017. Risk Reduction Measures for Dams. Federal Emergency Management Agency (FEMA). Accessed 24 January 2025
+Federal Emergency Management Agency (FEMA), 2017. Risk Exposure and Residual Risk Related to Dams. Federal Emergency Management Agency (FEMA). Accessed 15 February 2025.
+International Commission on Large Dams (ICOLD), no date. Dam-break Problems, Solutions and Case Studies. International Commission on Large Dams (ICOLD). Accessed 3 November 2020.
+International Commission on Large Dams (ICOLD), 2019. Statistical analysis of dam failure. Definition of a Large Dam. International Commission on Large Dams (ICOLD). ICOLD CIGB > Dams Safety. Accessed 15 January 2025.
+International Commission on Large Dams (ICOLD), 2023. ICOLD Bulletin No. 194: Tailings Dam Safety.Accessed 15 January 2025.
+Jonkman, S.N. and J.K. Vrijling, 2008. Loss of life due to floods. Journal of Flood Risk Management, 1:43‑56.
+Lyu, Z., J. Chai, Z. Xu, Y. Qin and J. Cao, 2019. A comprehensive review on reasons for tailings dam failures based on case history. Advances in Civil Engineering. Accessed 15 January 2025.
+Oyekanmi, M. O., Mbossoh, E. R., 2018. Dams and Sustainable Development Goals: A vital interplay for sustainability. Journal of Environment and Earth Science, 8:4. Microsoft Word - JEES-Vol.8 No.4 2018.docx Accessed 15 January 2025.
+Primary and Secondary Causes of Dam Failure in the U.S., no date. Accessed 15 January 2025.
+Thompson, F., de Oliveira, B. C., Cordeiro, M. C., Masi, B. P., Rangel, T. P., Paz, P., Freitas, T., Lopes, G., Silva, B. S., Cabral, A. S., Soares, M., Lacerda, D., dos Santos Vergilio, C., Lopes-Ferreira, M., Lima, C., Thompson, C., de Rezende, C. E., 2020. Severe impacts of the Brumadinho dam failure (Minas Gerais, Brazil) on the water quality of the Paraopeba River. Science of The Total Environment, 705:135914. Accessed 15 January 2025.
+Ujaczki, É., Klebercz, O., Feigl, V., Molnár, M., Magyar, Ádám, Uzinger, N., Gruiz, K., “2015. Environmental Toxicity Assessment of the Spilled Ajka Red Mud in Soil Microcosms for Its Potential Utilisation as Soil Ameliorant”. Periodica Polytechnica Chemical Engineering, 59(4), pp. 253–261, 2015. Accessed 15 January 2025.
+United Nations Department of Economic and Social Affairs (UNDESA), 2021. The 17 Goals. United Nations Department of Economic and Social Affairs (UNDESA). Accessed 15 January 2025.
+United Nations Office for Disaster Risk Reduction (UNDRR), 2015. Sendai Framework for Disaster Risk Reduction. 2015-2030. United Nations Office for Disaster Risk Reduction (UNDRR). Accessed 15 January 2025.
+United Nations Economic Commission for Europe (UNECE), 2013. Convention on the Protection and Use of Transboundary Watercourses and International Lakes – Guide to implementing The Water Convention. United Nations Economic Commission for Europe (UNECE). Accessed 15 January 2025.
+United Nations Economic Commission for Europe (UNECE), 2016. Checklist for contingency planning for accidents affecting transboundary waters. United Nations Economic Commission for Europe (UNECE). Accessed 15 January 2025.
+United Nations Economic Commission for Europe (UNECE), 2018. Conference of the Parties to UNECE Industrial Accidents Convention (2018) sets future direction for technological disaster risk reduction towards 2030. United Nations Economic Commission for Europe (UNECE). Accessed 15 January 2025.
+Wang, Q., Gao, Y., Gong, T., Liu, T., Sui, Z., Fan, J., & Wang, Z., 2023. Dam Surface Deformation Monitoring and Analysis Based on PS-InSAR Technology: A Case Study of Xiaolangdi Reservoir Dam in China. Water, 15(18), 3298. Accessed 15 January 2025.
+Cite this [Copy citation]
 
-### Risk Management  
-- Ставка на безопасность через законы о дамбах и международные стандарты (UNECE, 2016).  
-- Руководство FEMA P‑1085 (2023) для моделирования и картирования риска паводков, связанных с дамбами.  
-- Системы раннего предупреждения (EWS).  
-- План действий при чрезвычайных обстоятельствах, оценка риска, подготовка и восстановление.
-
-### Monitoring  
-Мониторинг деформации дамбы с помощью спутниковой интерферометрической СВРА (InSAR) (Wang et al., 2023).
-
-*(Список ссылок оставлен в оригинальном виде, но переведёнными заголовками.*)
-
----
+***

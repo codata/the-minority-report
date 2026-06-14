@@ -1,0 +1,1 @@
+land degradation, arid areas, semi-arid areas, dry sub-humid areas, climatic variations, human activities, land degradation in arid areas, climatic variations and human activities, aridification, anthropogenic factors

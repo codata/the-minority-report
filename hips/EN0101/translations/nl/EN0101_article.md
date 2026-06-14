@@ -1,0 +1,68 @@
+### Definitie
+Huiselijke luchtvervuiling is vervuiling die voornamelijk ontstaat door de onvolledige verbranding van vaste brandstoffen (bijv. hout, mest, kolen, brandstofolie), resulterend in de emissie van potentieel toxische verontreinigende stoffen, waaronder deeltjes van verschillende groottes, koolmonoxide (CO), stikstofoxiden, vluchtige en semi-vluchtige organische verbindingen (zoals formaldehyde en benzo[a]pyreen), methyleenchloride en dioxines. Het is een van de belangrijkste milieu-risico-factoren voor ziekte en vroegtijdig overlijden en ontstaat door het gebruik van inefficiënte en vervuilende brandstoffen en technologieën in en rondom woningen.
+
+### Primair(e) referentie(s)
+WHO, 2018. Household air pollution and health. World Health Organization (WHO). Toegankelijk op 21 januari 2025. Naeher, L.P., Brauer, M., Lipsett, M., Zelikoff, J.T., Simpson, C.D., Koenig, J.Q., & Smith, K.R., 2007. Woodsmoke health effects: a review. Inhalation toxicology, 19(1), 67-106. DOI: 10.1080/08958370600985875. Toegankelijk op 21 januari 2025.
+
+### Annotaties
+#### Aanvullende wetenschappelijke beschrijving
+Ongeveer 2,4 miljard mensen koken nog steeds met vaste brandstoffen (zoals hout, agrarische afvalstoffen, kolen en mest) en brandstofolie in open vuur en inefficiënte kooktoestellen (IEA, 2023). De meeste van deze mensen zijn arm en wonen in landen met lage en middelinkomens. Deze kookpraktijken zijn inefficiënt en maken gebruik van vervuilende brandstoffen en technologieën die hoge niveaus van huiselijke luchtvervuiling produceren, met een reeks schadelijke verontreinigende stoffen, waaronder kleine asdeeltjes die diep in de longen dringen. In slecht geventileerde woningen kan binnenrook tot 100 keer hoger zijn dan de toegestane niveaus voor fijndeeltjes. Blootstelling is bijzonder hoog bij vrouwen en jonge kinderen, die de meeste tijd bij de binnenhaard doorbrengen (WHO, 2018a).
+
+Blootstelling aan rook van kookvuren veroorzaakte in 2019 3,3 miljoen vroegtijdige sterfgevallen per jaar door ziekten die toe te schrijven zijn aan huiselijke luchtvervuiling, als gevolg van het gebruik van inefficiënte en vervuilende brandstoffen en technologieën voor koken. Van deze 3,3 miljoen sterfgevallen: 23 % waren door longontsteking, 22 % door beroerte, 31 % door ischemische hartziekte, 18 % door chronische obstructieve longziekte (COPD) en 6 % door longkanker (WHO, 2024).
+
+De WHO geeft definities voor schone, overgangs- en vervuilende brandstoffen en technologieën die worden gebruikt voor koken, verwarming en verlichting. Voor koken zijn schone brandstoffen en technologieën die de aanbevolen niveaus van fijndeeltjesmassa (PM2.5) en koolmonoxide (CO) uit de WHO-wereldwijde luchtkwaliteitsrichtlijnen (2021) bereiken. De WHO-richtlijnen voor binnenluchtkwaliteit: huishoudelijke brandstofverbranding (2014) geven emissiedoelen voor PM2.5 en CO voor apparaten, gekoppeld aan de niveaus uit de Luchtkwaliteitsrichtlijnen.
+
+### Metriek en numerieke limieten
+De WHO-luchtkwaliteitsrichtlijnen (WHO, 2021) bieden aanbevolen blootstellingsniveaus voor deeltjesmassa (PM10 en PM2.5), ozon, stikstofoxide, zwaveldioxide en koolmonoxide, evenals een reeks tussentijdse doelen om een progressieve verbetering van de luchtkwaliteit te stimuleren, zoals beschreven in Tabel 1 (WHO, 2021).
+
+| Verontreinigende stof | Gemiddeltijd | Tussentijds doel | AQG-niveau |
+|------------------------|--------------|------------------|------------|
+| PM2.5, µg/m³           | Jaarlijks    | 3,525            | 15–105     |
+| PM10, µg/m³            | Jaarlijks    | 7,050            | 30–201     |
+| O3, µg/m³              | Seizoenspiek | 100              | 70–608     |
+| NO2, µg/m³             | Jaarlijks    | 4,030            | 20–24      |
+| SO2, µg/m³             | 24-uur       | 1,255            | 0–40       |
+| CO, mg/m³              | 24-uur       | 7                | 99e-percentiel (3–4 overschrijdingsdagen per jaar) |
+
+### Belangrijkste relevante VN-conventie / multilateraal verdrag
+Framework van Sendai voor Risicoreductie in de Ongevallen 2015-2030.
+
+### Oorzaken
+Meerdere factoren dragen bij aan de verslechtering van de binnenluchtkwaliteit. Verbrandingsprocessen, waaronder huishoudelijke verwarming, koken en het roken van tabak, geven een reeks verontreinigende stoffen vrij, zoals koolmonoxide, stikstofoxiden en deeltjesmassa, in binnenomgevingen (Naeher et al., 2007). Bouwmaterialen en meubilair geven vluchtige organische verbindingen (VOC's) en formaldehyde af, wat de binnenluchtkwaliteit verder verergert (Harčárová et al., 2020). Biologische contaminanten, waaronder schimmels, bacteriën en allergenen, kunnen zich ook verspreiden binnen binnenruimtes, met name in omgevingen met onvoldoende ventilatie (Kumar et al., 2021).
+
+Het gebruik van biomassa-brandstoffen, die de belangrijkste bron van huiselijke luchtvervuiling in veel landen zijn, draagt bij aan buitenluchtvervuiling (Zuazua-Ros et al., 2023) en klimaatverandering. In sommige regio’s draagt het verzamelen van brandstoffen voor inefficiënte kooktoestellen bij aan milieu-degradatie, waaronder ontbossing en desertificatie (Martin et al., 2013). Bovendien wordt huiselijke luchtvervuiling vaak geassocieerd met energiearmoede, waarbij huishoudens geen toegang hebben tot schone energiebronnen. Dit beperkt economische kansen en onderwijs-toegang, omdat kinderen en volwassenen tijd moeten besteden aan het verzamelen van brandstoffen in plaats van productieve activiteiten (Wang et al., 2022).
+
+### Impacten
+Blootstelling aan huiselijke luchtvervuiling is geassocieerd met diverse negatieve gezondheidsgevolgen. Ademhalingsziekten, waaronder astma en allergieën, worden vaak geassocieerd met slechte binnenluchtkwaliteit. Ernstigere gezondheidsgevolgen, zoals hart- en vaatziekten en kanker, zijn eveneens gekoppeld aan langdurige blootstelling (Lee et al., 2020). Bovendien is huiselijke luchtvervuiling geassocieerd met verminderde cognitieve functie, vooral bij kinderen (Wang et al., 2021).
+
+### Multi-hazard context
+De onderstaande figuur vat de veelvoorkomende interacties tussen huiselijke luchtvervuiling en andere risico’s samen. Deze informatie moet met voorzichtigheid worden gebruikt en mag niet alleen worden vertrouwd in het risico-beheer, vooral omdat sommige interacties mogelijk niet zijn opgenomen. Houd er rekening mee dat gevaarlijke gebeurtenissen die samen of lokaal in ruimte of tijd optreden, niet noodzakelijkerwijs elkaar veroorzaken, versterken of anderszins gerelateerd zijn. Specifieke voorbeelden van een multi-hazard context zijn te vinden in de secties ‘Oorzaken’ en ‘Impacten’ hierboven.
+
+### Risicobeheer
+Het verminderen van de risico’s geassocieerd met huiselijke luchtvervuiling kan worden bereikt via het gebruik van effectieve ventilatie- en luchtfiltersystemen om verontreinigende stoffen uit binnenruimtes te verdunnen en te verwijderen (Chojer et al., 2024). Controlemaatregelen van de bron, zoals het kiezen van bouwmaterialen en meubilair met lage emissies, kunnen de binnenluchtverontreinigende stoffen aanzienlijk verlagen. Publieke bewustmakingscampagnes kunnen individuen in staat stellen gezonde binnenpraktijken te adopteren en hun blootstelling aan huiselijke luchtvervuiling te verminderen (Jung et al., 2023). Carbonfinancieringsincentives voor de adoptie van schone kooktoestellen (IEA, 2023) kunnen een effectief beleidsinstrument zijn. De WHO biedt technische ondersteuning aan landen bij het evalueren en opschalen van gezondheidsbevorderende huishoudelijke brandstoffen en technologieën (WHO, 2018a). Dit wordt verder aangevuld door de ontwikkeling van het Clean Household Energy Solutions Toolkit (CHEST) om landen te ondersteunen bij de implementatie van de WHO-richtlijnen voor binnenluchtkwaliteit: huishoudelijke brandstofverbranding (WHO, 2014). CHEST biedt een reeks tools en informatierekende middelen die landen helpen stakeholders te identificeren die zich bezighouden met huishoudelijke energie en/of volksgezondheid, om beleid te ontwerpen, implementeren en monitoren (WHO, 2018a). De WHO ondersteunt ook internationale initiatieven om luchtvervuiling en gerelateerde gezondheidsgevolgen te verbeteren, zoals de Clean Cooking Alliance en de Climate and Clean Air Coalition (WHO, 2018a).
+
+### Monitoring
+De sectie en de tabel hieronder bieden een overzicht van het monitoren van huiselijke luchtvervuiling. Deze informatie kan worden gebruikt voor het voorspellen binnen een nationaal vroegwaarschuwingssysteem (EWS). Aangezien EWS-capaciteiten en processen verschillen tussen landen, moet de meest actuele en specifieke informatie over EWS worden verkregen bij de bevoegde nationale of regionale instantie/autoriteit die verantwoordelijk is voor rampenbeheer.
+
+| Welke instantie(instanties) produceren rampenrisico-gegevens/informatie? | Milieu-agentschappen, gezondheidsagentschappen |
+| Hoe wordt de risico-waarneming/monitoring/voorspelling uitgevoerd? | Luchtkwaliteits-sensoren die fijndeeltjesmassa (PM2.5) en vluchtige organische verbindingen (VOC's) binnen huishoudens detecteren (Kumar et al., 2021). Deze sensoren leveren continue data, waardoor de identificatie van verontreinigingstrends en acute blootstellings-gebeurtenissen mogelijk is (Chojer et al., 2024). |
+
+## References
+
+Chojer, H., Branco, P.T.B.S., Martins, F.G., Alvim-Ferraz, M.C.M., Sousa, S.I.V., 2024. Source identification and mitigation of indoor air pollution using monitoring data. Current Trends. Environmental Technology & Innovation, 103534. DOI: 10.1016/j.eti.2024.103534. Toegankelijk op 21 januari 2025.
+Harčárová, K., Vilčeková, S., Balintova, M., 2020. Building materials as potential emission sources of VOC in the indoor environment of buildings. In Key Engineering Materials (Vol. 838, pp. 74-80). Trans Tech Publications Ltd. DOI: 10.4028/www.scientific.net/KEM.838.74. Toegankelijk op 21 januari 2025.
+IEA, IRENA, UNSD, World Bank, WHO, 2023. Tracking SDG 7: The Energy Progress Report. World Bank, Washington DC. © World Bank. License: Creative Commons Attribution—NonCommercial 3.0 IGO (CC BY-NC 3.0 IGO). Toegankelijk op 21 januari 2025.
+Jung, C., El Samanoudy, G., 2023. Mitigating indoor air pollution in university dormitory: the need for better ventilation and resident awareness. Buildings, 13(5), 1144. DOI: 10.3390/buildings13051144. Toegankelijk op 21 januari 2025.
+Kumar, P., Kausar, M.A., Singh, A.B., Singh, R., 2021. Biological contaminants in the indoor air environment and their impacts on human health. Air Qual Atmos Health 14, 1723–1736. DOI: 10.1007/s11869-021-00978-z. Toegankelijk op 21 januari 2025.
+Lee, K. K., Bing, R., Kiang, J., Bashir, S., Spath, N., Stelzle, D., Mortimer, K., Bularga, A., Doudesis, D., Joshi, S.S., Strachan, F., Gumy, S., Adair-Rohani, H., Attia, E.F., Chung, M.H., Miller, M.R., Newby, D.E., Mills, N.L., McAllister, D.A., Shah, A. S., 2020. Adverse health effects associated with household air pollution: a systematic review, meta-analysis, and burden estimation study. The Lancet Global Health, 8(11), e1427-e1434. DOI: 10.1016/S2214-109X(20)30343-0. Toegankelijk op 21 januari 2025.
+Martin, W.J., Glass, R.I., Araj, H., Balbus, J., Collins, F.S., Curtis, S., Diette, G.B., Elwood, W.N., Falk, H., Hibberd, P.L., Keown, S.E., Mehta, S., Patrick, E., Rosenbaum, J., Sapkota, A., Tolunay, H.E., Bruce, N.G., 2013. Household air pollution in low- and middle-income countries: health risks and research priorities. PLoS Med.10(6):e1001455. DOI: 10.1371/journal.pmed.1001455. Toegankelijk op 21 januari 2025.
+Naeher, L.P., Brauer, M., Lipsett, M., Zelikoff, J.T., Simpson, C.D., Koenig, J.Q., & Smith, K.R., 2007. Woodsmoke health effects: a review. Inhalation toxicology, 19(1), 67-106. DOI: 10.1080/08958370600985875. Toegankelijk op 21 januari 2025.
+UN, 2015. Sustainable development. Department of Economic and Social Affairs, United Nations (UN). Toegankelijk op 21 januari 2025.
+Wang, C., Zhang, F., Wang, J., Doyle, J.K., Hancock, P.A., Mak, C.M., & Liu, S., 2021. How indoor environmental quality affects occupants’ cognitive functions: A systematic review. Building and environment, 193, 107647. DOI: 10.1016/j.buildenv.2021.107647. Toegankelijk op 21 januari 2025.
+Wang C., Wang J., Norbäck, D.A., 2022. Systematic Review of Associations between Energy Use, Fuel Poverty, Energy Efficiency Improvements and Health. International Journal of Environmental Research and Public Health 19(12):7393. Toegankelijk op 21 januari 2025.
+WHO, 2014. WHO Guidelines for Indoor Air Quality: Household fuel combustion. Executive summary. World Health Organization (WHO). Toegankelijk op 21 januari 2025.
+WHO, 2018a. Household air pollution and health. World Health Organization (WHO). Toegankelijk op 21 januari 2025.
+WHO, 2018b. Burden of disease from the joint effects of household and ambient Air pollution for 2016. World Health organization (WHO). Toegankelijk op 21 januari 2025.
+WHO, 2021. WHO global air quality guidelines. Particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulphur dioxide and carbon monoxide. Geneva: World Health Organization. Toegankelijk op 21 januari 2025.
+WHO, 2024. Development Goal indicator 3.9.1: mortality attributed to air pollution. Geneva, World Health Organization, 2024. Toegankelijk op 21 januari 2025.
+Zuazua-Ros, A., de Brito Andrade, L., Dorregaray-Oyaregui, S., Martin-Gomez, C., Ramos Gonzalez, J.C., Manzueta, R., Saiz-Ezquerra, B.S., Ariño, A.H., 2023. Crosscutting of the pollutants and building ventilation systems: a literature review. Environ Sci Pollut Res 30, 66538–66558 (2023). Toegankelijk op 21 januari 2025.

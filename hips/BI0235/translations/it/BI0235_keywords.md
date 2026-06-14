@@ -1,0 +1,1 @@
+acute contagious disease caused by the variola virus, variola virus family, smallpox vaccine, eradication of smallpox, smallpox vaccine emergency stockpile, case classification and surveillance standards, early symptoms of smallpox, characteristic rash with bumps, lesions in mucous membranes, differential diagnosis of smallpox, biological attack using smallpox

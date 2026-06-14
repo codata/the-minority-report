@@ -1,0 +1,1 @@
+mycotoxins, mould production, Aspergillus flavus and A. parasiticus, soil and decaying vegetation, cereals and oilseeds, warm, damp and humid conditions,difuranocoumarin derivatives,aflatoxin B1 and B2,aflatoxin G1 and G2,aflatoxicosis,human carcinogens,maximum levels in food

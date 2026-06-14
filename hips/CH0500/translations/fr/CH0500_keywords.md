@@ -1,0 +1,1 @@
+Persistent organic pollutants (POPs), long-range transport, persistence in the environment, bio-magnify, bio-accumulate in ecosystems, human health, environmental effects

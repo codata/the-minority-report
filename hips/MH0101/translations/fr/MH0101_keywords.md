@@ -1,0 +1,1 @@
+downburst, downdraught, reaching the ground surface, severe thunderstorm, violent and damaging downdraught

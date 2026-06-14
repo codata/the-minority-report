@@ -1,0 +1,1 @@
+saltwater infiltrates a coastal aquifer,mixing with the local freshwater supply,passive SWI,active SWI,saltwater wedge,aquifer characteristics,confining layers,groundwater abstraction,salinisation of groundwater,concentration of dissolved salts,seawater inclusion,more corrosive,numerical simulation

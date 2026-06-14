@@ -1,0 +1,1 @@
+acute vaccine-preventable viral liver disease,fulminant hepatitis,HAV-specific immunoglobulin G,reverse transcriptase polymerase chain reaction,HAV infection,faecal-oral route,waterborne outbreaks,sewage-contaminated water,immunization and prevention,food safety practices,oral-anal sex

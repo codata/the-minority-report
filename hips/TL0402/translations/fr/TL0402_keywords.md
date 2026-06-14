@@ -1,0 +1,1 @@
+inland waterway transportation accident,inland water vessel operations,sudden event,chain of events,waterway transportation accident,harmful consequences,inland waterway,vessel operations,unwanted event,unintended event

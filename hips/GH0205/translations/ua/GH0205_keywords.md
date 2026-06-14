@@ -1,0 +1,1 @@
+Volcanic gas, Volcanic aerosols, magmatic gases, hydrothermal gases, Sulphate aerosol, PM2.5, SO2, hydrogen sulphide, hydrogen halides, gas-phase substance, condensation of volcanic gases, stratospheric aerosol blanket, diffuse degassing, volcanic-geothermal systems, acid rain

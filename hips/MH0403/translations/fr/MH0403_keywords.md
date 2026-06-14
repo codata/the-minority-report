@@ -1,0 +1,1 @@
+severe snowstorm, poor visibility, high latitudes, mountainous regions

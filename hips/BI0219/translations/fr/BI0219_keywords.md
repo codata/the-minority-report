@@ -1,0 +1,1 @@
+parasites, infected female Anopheles mosquitoes, malaria cases, malaria deaths, life-threatening disease, malaria worldwide, malaria deaths, disease transmission, mosquito bites

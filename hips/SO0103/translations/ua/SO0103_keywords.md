@@ -1,0 +1,1 @@
+collective physical violence,social or political instability,non-violent collective action,peaceful assembly,mass gatherings,violent riots,organized demonstration,spontaneous violent riot,political economic dissatisfaction,clash with authority,direct participation in hostilities,economic losses,public health sector frameworks,social conflict analysis database

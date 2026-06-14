@@ -1,1 +1,72 @@
-above, formatted as a well‑structured Markdown document, has been provided.)*
+### Definition
+La *malattia fungina delle piante* è l’insorgere di malattie delle piante causate da *agenti fungini* su ampie aree con impatti significativi sulla produttività delle colture o sugli habitat naturali (adattato da Arneson, 2001 e Moore et al., 2019).
+
+### Riferimenti principali
+Arneson, P.A., 2001. Plant Disease Epidemiology: Temporal Aspects. The Plant Health Instructor. (Revised 2011). Accesso: 7 marzo 2025.
+Moore, D., Geoffrey, D., Robson, G.D., Trinci, A.P.J., 2019. 21st Century Guidebook to Fungi. 2nd Edn. Accesso: 7 marzo 2025.
+
+### Annotazioni
+#### Descrizione scientifica aggiuntiva
+I *funghi* sono organismi eucariotici con un nucleo distinto e sono classificati come regno separato, così come *animalia* e *plantae*. Comprendono molte specie importanti che causano *malattie fungine delle piante* di rilevanza locale o globale come *blight*, *wilt*, *rot*, *mildew*, *canker*, *smut* o *rust*. La struttura del fungo è principalmente costituita da filamenti chiamati *micelio* e si riproduce tramite diversi tipi di *spore* (CABI, data non specificata). Le malattie fungine possono verificarsi in molte forme sui tessuti vegetativi o riproduttivi delle piante. L’elenco delle malattie più conosciute include molte tipologie come *antracnosi*; *black knot*; *blight*, tra cui *marciume del castagno* e *marciume tardivo*; *canker*; *clubroot*; *damping-off*; *Dutch elm disease*; ergot; *Fusarium wilt*; *leaf blister*; *mildew*, tra cui *downy mildew* e *powdery mildew*; *oak wilt*; *marciume*, tra cui *marciume basale*, *marciume grigio* e *marciume cardiaco*; *malattia rustica del grano*; *scab*, tra cui *apple scab*; *smut*, tra cui *loose smut* e *corn smut*; *snow mould*; *sooty mould* e *Verticillium wilt* (Encyclopaedia Britannica, data non specificata).
+
+Collettivamente, i *funghi* e gli organismi fungiformi (FLOs) causano malattie fungine delle piante con oltre 8000 specie dimostrate in grado di provocare malattia. Alcune delle grandi carestie del mondo e periodi di sofferenza umana possono essere attribuiti a patogeni fungini e FLOs (Williams et al., 2017).
+
+L’esempio più noto di disastro causato da un patogeno fungino è l’epidemia di *marciume tardivo* della patata, che ha causato la grande carestia in Irlanda negli anni 1840. Rimane un buon esempio di perdita devastante di patate in tutto il mondo (Suo-meng & Shao-qun, 2022).
+
+Un altro esempio è la malattia di rust del grano. È noto che le sfide continue delle malattie di rust del grano risalgono a tempi antichi, quando un festival specifico, `Robigalia`, era organizzato per proteggere le colture di grano dalla malattia di rust (Bhavani et al., 2022).
+
+Oltre ad essere agenti di malattie pre-e post-raccolto e di marciume, alcuni *funghi* possono produrre sostanze chimiche altamente tossiche, allucinogene e cancerogene che hanno influenzato non solo la vita di milioni di persone in passato ma continuano a causare problemi oggi. Nel 2006, numerosi cani sono morti per cibo contaminato da aflatossina, una sostanza prodotta da diverse specie di *Aspergillus*. Questi *funghi* possono crescere su molte piante, come mais, e produrre tossine sul grano che non solo colpiscono il fegato ma sono anche una delle sostanze più cancerogene conosciute (Williams et al., 2017).
+
+In aggiunta agli effetti dannosi delle malattie fungine delle piante, è importante notare che alcuni *funghi* hanno ruoli benefici nel suolo, ma molti sono i principali agenti causali di malattie delle piante sia durante la crescita che nel trattamento post-raccolto. Un’ampia gamma di fungicidi è usata per controllare i *funghi* e prevenire perdite di produzione (FAO, 2017).
+
+### Metriche e limiti numerici
+Non noti.
+
+### Convenzione / trattato multilaterale pertinente
+La *Convenzione sulla protezione internazionale delle piante* (1997) è un trattato intergovernativo firmato da oltre 180 paesi, con l’obiettivo di proteggere le risorse vegetali del mondo dalla diffusione e dall’introduzione di parassiti e di promuovere il commercio sicuro (FAO, 2011). Il trattato sviluppa e introduce standard internazionali per le misure fitosanitarie come principale strumento per raggiungere i propri obiettivi, rendendolo l’unico organismo globale di standardizzazione per la salute delle piante. La *Convenzione* è uno dei “Three Sisters” riconosciuti dall’Accordo Sanitario e Fitosanitario (SPS) dell’Organizzazione Mondiale del Commercio (WTO), insieme al *Codex Alimentarius*, alle Regolamentazioni Internazionali sulla Salute (2005) e all’Accordo sulla Applicazione delle Misure Sanitarie e Fitosanitarie (SPS) (1994).
+
+### Fattori scatenanti (Driver)
+Condizioni climatiche favorevoli, disgregazione dell’equilibrio naturale e carenze nella sanificazione di colture e foreste contribuiscono all’accumulo e alla diffusione dell’inoculo di *funghi* che regolarmente causano danni sostanziali a colture, foreste e altri habitat naturali. La prevenzione della diffusione e degli *outbreak* è sempre più efficace rispetto alla risposta a epidemie e controlli. L’adozione dei principi di produzione sostenibile delle piante, gestione forestale sostenibile e pratiche di gestione integrata dei parassiti è fondamentale per il controllo delle malattie fungine delle piante. I metodi di gestione specifici includono un focus sulla produzione diversificata, l’uso di varietà resistenti alla malattia, l’uso di materiali di semina certificati privi di patogeni, la sorveglianza regolare e il contenimento rapido in fase iniziale, tutto in modo integrato. I *funghi* mutano frequentemente e producono nuovi ceppi più aggressivi. Pertanto la sorveglianza continua e lo sviluppo di varietà resistenti a ceppi emergenti sono fondamentali per la gestione integrata dei *funghi* e degli organismi fungiformi.
+
+### Impatti
+Molte epidemie di malattie fungine hanno colpito la produzione di colture e le foreste in numerosi paesi e regioni della storia mondiale. Queste includono epidemie causate da *marciume tardivo* della patata, malattie di rust del grano, *marciume del castagno*, blast del riso e *Fusarium wilt* di banana. L’estimazione delle perdite economiche per l’intero gruppo di malattie fungine è limitata, ma esistono alcuni studi che trattano l’impatto di specifiche malattie. Per esempio, il *marciume tardivo* della patata che causò la carestia in Irlanda negli anni 1840 ha comportato perdite di resa fino a 10 miliardi di USD e costi di gestione (Suo-meng & Shao-qun, 2022). Si stima che le malattie di rust del grano causino perdite annuali globali di circa 15 milioni di tonnellate valutate a 2,9 miliardi di USD (Huerta-Espino et al., 2020). Gli *outbreak* di malattie fungine delle piante possono causare sfide alla sicurezza alimentare soprattutto se le colture di base sono colpite. Possono anche causare instabilità di mercato o di prezzo. Un buon esempio di questo è la fluttuazione dei prezzi del cacao causata dalla malattia del pod nero del cacao in Africa nel 2024 (Africanews, 2024; J.P. Morgan, 2024). Effetti simili si verificano in altre colture in diverse regioni, ma la maggior parte rimane inosservata o non riflessa adeguatamente nei forum internazionali. Gli *outbreak* di malattie delle piante possono anche essere una grande preoccupazione per la perdita di posti di lavoro per i lavoratori agricoli, come nel caso degli *outbreak* di *Fusarium wilt* di banana TR4 (Altendorf, 2019). In alcuni casi, le malattie fungine delle piante possono anche influire direttamente sulla salute di animali e umani. In generale, le questioni relative ai residui di pesticidi e sostanze tossiche nei foraggi e nel cibo possono sfuggire all’attenzione, specialmente nei paesi in via di sviluppo. Ci sono stati alcuni casi critici nella storia a riguardo. Nel 2006, numerosi cani sono morti per cibo contaminato da aflatossina, una sostanza prodotta da diverse specie di *Aspergillus*. Questi *funghi* possono crescere su molte piante, come mais, e produrre tossine sul grano che non solo colpiscono il fegato ma sono anche una delle sostanze più cancerogene conosciute (Williams et al., 2017).
+
+### Contesto multi-rischio
+La figura sottostante riassume le interazioni comuni tra malattie fungine delle piante e altri rischi. Queste informazioni devono essere utilizzate con cautela e non dovrebbero essere l’unico fondamento nella gestione del rischio di disastri, soprattutto perché alcune interazioni potrebbero non essere incluse. Si noti che gli eventi pericolosi che si verificano insieme o localmente nello spazio o nel tempo non necessariamente causano, amplificano o sono in altro modo correlati l’uno all’altro. Esempi specifici di contesto multi-rischio possono essere trovati nelle sezioni “Fattori scatenanti” e “Impatto” sopra.
+
+### Diagramma multi-rischio
+
+### Gestione del rischio
+Le missioni della *Convenzione sulla protezione internazionale delle piante* (IPPC) coprono le malattie fungine delle piante così come altri parassiti e malattie. Forma un forum internazionale che fornisce uno spazio per discussioni e negoziazioni intergovernative sulla gestione dei rischi derivanti dalla diffusione delle malattie delle piante (come anche altri agenti biologici minacciosi delle piante). Fornisce le strutture per l’istituzione di standard internazionali, lo sviluppo delle capacità e la rendicontazione allo scopo di minimizzare i rischi di diffusione di questi agenti. I paesi sono tenuti a rispettare gli standard internazionali e a rafforzare la loro capacità fitosanitaria e i sistemi di biosicurezza. Le loro capacità di preparazione, sorveglianza e risposta rapida dovrebbero essere anche rafforzate. Inoltre, la cooperazione internazionale dovrebbe essere stabilita o rafforzata per affrontare le sfide regionali o globali relative alla gestione di parassiti e malattie invasive e transfrontaliere, in particolare quelle che sono aeree come le malattie di rust del grano e molte tipologie di *blight* e *mildew* di molte colture.
+
+### Monitoraggio
+La sezione e la tabella sottostanti offrono una panoramica della sorveglianza per le malattie fungine delle piante. Queste informazioni possono essere utilizzate per la previsione all’interno di un sistema di allerta precoce nazionale (EWS). Poiché le capacità e i processi degli EWS variano nei paesi, le informazioni più recenti e specifiche riguardo agli EWS devono essere ottenute dall’agenzia/autorità nazionale o regionale appropriata responsabile della gestione dei disastri.
+
+**Quale istituzione(ioni) produce(n) i dati/informazioni sul rischio di disastro?**
+Esistono diversi sistemi di allerta precoce, in particolare a livello regionale, ad esempio per l’Europa (Peter et al., 2011) e per l’America del Nord (Meissner et al., 2015). A livello globale, il sistema di reporting dei parassiti dell’IPPC può essere considerato la risorsa più ufficiale per i rapporti sull’incidenza di parassiti di piante da quarantena incluse le malattie (IPPC, 2025). Sebbene tali rapporti vengano depositati ben dopo l’istituzione di un parassita, possono essere considerati risorse di allerta precoce per altri paesi interessati. A livello di campo, un buon sistema di sorveglianza globale è stato sviluppato per le malattie di rust del grano (Global Rust Reference Centre, Aarhus University, 2025) fornendo sorveglianza e allerta precoce, in particolare per le nuove razze.
+
+**Come è osservato/sorvegliato/previsione il rischio?**
+Attraverso i rapporti sulle malattie pubblicati dai paesi.
+
+**Riferimenti**
+Altendorf, S. 2024. Banana Fusarium Wilt Tropical Race 4: A mounting threat to global banana markets? Accesso: 9 marzo 2025.
+Africanews, 2024. Accesso: 9 marzo 2025.
+Arneson, P.A., 2001. Plant Disease Epidemiology: Temporal Aspects. The Plant Health Instructor. (Revised 2011). Accesso: 9 marzo 2025.
+Bhavani, S., Singh, R.P., Hodson, D.P., Huerta-Espino, J., Randhawa, M.S., 2022. Wheat Rusts: Current Status, Prospects of Genetic Control and Integrated Approaches to Enhance Resistance Durability. In: Reynolds, M.P., Braun, HJ. (eds) Wheat Improvement. Springer, Cham. DOI: 10.1007/978-3-030-90673-3_8. Accesso: 9 marzo 2025.
+CABI, data non specificata. Description of Fungi and bacteria. Accesso: 9 marzo 2025.
+CBD, 2025. Convention on Biological Diversity. Accesso: 7 marzo 2025.
+Encyclopaedia Britannica, data non specificata. List of Plant Diseases. Accesso: 9 marzo 2025.
+FAO, 2011. International Plant Protection Convention 1997. Food and Agriculture Organisation of the United Nations (FAO). Accesso: 9 marzo 2025.
+Global Rust Reference Centre, Aarhus University, 2025. Accesso: 7 marzo 2025.
+FAO, 2017. Global Assessment of the Impact of Plant Protection Products on Soil Functions and Soil Ecosystems. Food and Agriculture Organization of the United Nations (FAO). Accesso: 9 marzo 2025.
+FAO e WHO, 2025. About Codex Alimentarius. Food and Agriculture Organization of the United Nations (FAO) e World Health Organization (WHO). Accesso: 9 marzo 2025.
+Huerta-Espino J., Singh R., Crespo-Herrera L.A., Villaseñor-Mir H.E., Rodriguez-Garcia M.F., Dreisigacker S., Barcenas-Santana D., Lagudah E., 2020. Adult plant slow rusting genes confer high levels of resistance to rusts in bread wheat cultivars from Mexico. Front Plant Sci 11:1. DOI: 10.3389/fpls.2020.00824. Accesso: 9 marzo 2025.
+IPPC, 2025. Pest reporting. Accesso: 7 marzo 2025.
+J.P. Morgan, 2024. Rising cocoa prices: Will the chocolate crisis continue in 2025? Accesso: 7 marzo 2025.
+Meissner, H., Fritz, J., Kohl, L., Moylett, H., Moan, M., Emerine, S., Kaye A., 2015. PestLens: an early-warning system supporting US safeguarding against exotic plant pests. Bull. OEPP 45: 304–310.
+Moore, D., Geoffrey, D., Robson, G.D., Trinci, A.P.J., 2019. 21st Century Guidebook to Fungi. 2nd Ed. Accesso: 9 marzo 2025.
+Suo-meng, D., Shao-qun, Z., 2022. Potato late blight caused by Phytophthora infestans: From molecular interactions to integrated management strategies. Journal of Interactive Agriculture, Elsevier, Vol. 21, Issue 12. Accesso: 9 marzo 2025.
+WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Accesso: 9 marzo 2025.
+Williams, S.D., Boehm, M.J., Mitchell, T.K., 2017. Fungal and Fungal-like diseases of plants. Accesso: 9 marzo 2025.
+
+***

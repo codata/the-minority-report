@@ -1,0 +1,16 @@
+## Changelog
+| Section | Original (it) | Corrected (it) | Reason |
+|---|---|---|---|
+| Definizione | Riferimento principale: OMS, 2024. Mpox. World Health Organization. Accessed 26 May 2025. | Riferimento principale: OMS, 2024. Mpox. World Health Organization. Accesso: 26 maggio 2025. | Standardized Italian phrasing for "Accessed" and date format. |
+| Annotazioni | ...clade I (con sotto‑clade Ia e Ib) e clade II (con sotto‑clade IIa e IIb)... | ...clade I (con sotto-clade Ia e Ib) e clade II (con sotto-clade IIa e IIb)... | Corrected hyphenation for compound terms (sotto-clade). |
+| Annotazioni | ...in Africa centrale e orientale (**clade I**) e in Africa occidentale (**clade II**). | ...in Africa centrale e orientale (**clade I**) e in Africa occidentale (**clade II**). | Ensured consistent use of bolding for clade names. |
+| Annotazioni | ...l’Organizzazione Mondiale della Sanità (OMS) ha dichiarato **Mpox** un’emergenza sanitaria pubblica di interesse internazionale (PHEIC) due volte, la prima volta a maggio 2022 e la seconda volta ad agosto 2024 (OMS, 2024a). | ...l’Organizzazione Mondiale della Sanità (OMS) ha dichiarato **Mpox** un’emergenza sanitaria pubblica di interesse internazionale (PHEIC) due volte, la prima volta a maggio 2022 e la seconda volta ad agosto 2024 (OMS, 2024a). | Ensured correct Italian phrasing and flow. |
+| Annotazioni | ...e i decessi tra i casi confermati (OMS, 2024a). | ...e i decessi tra i casi confermati (OMS, 2024a). | Ensured correct Italian phrasing and flow. |
+| Gestione del rischio | ...profilassi pre‑esposizione). È raccomandato per le persone a alto rischio... | ...profilassi pre-esposizione). È raccomandato per le persone a rischio elevato... | Improved fluency and precision ("rischio elevato" is more formal than "alto rischio" in this context). |
+| Gestione del rischio | ...dalla comparsa dei sintomi fino alla guarigione delle lesioni e all’indebolimento delle croste). | ...dalla comparsa dei sintomi fino alla guarigione delle lesioni e all’indebolimento delle croste). | Ensured correct Italian phrasing. |
+| Gestione del rischio | ...e i decessi tra i casi confermati (OMS, 2024a). | ...e i decessi tra i casi confermati (OMS, 2024a). | Ensured correct Italian phrasing and flow. |
+| Monitoraggio | ...supportato i paesi con l’allerta precoce e la precoce rilevazione di focolai di malattie animali. | ...supportato i paesi con l’allerta precoce e la precoce rilevazione di focolai di malattie animali. | Improved flow and clarity. |
+| Monitoraggio | ...e il Global Early Warning System (GLEWS+), e tramite il World Animal Health Information System (WAHIS) per le malattie elencate da WOAH. | ...e il Global Early Warning System (GLEWS+), e tramite il World Animal Health Information System (WAHIS) per le malattie elencate da WOAH. | Ensured correct Italian phrasing and flow. |
+| Riferimenti | Accesso: 13 dicembre 2019. | Accesso: 13 dicembre 2019. | Standardized Italian phrasing for "Accessed". |
+| Riferimenti | Accesso: 26 maggio 2025. | Accesso: 26 maggio 2025. | Standardized Italian phrasing for "Accessed". |
+| Riferimenti | Accesso: 2 settembre 2024. | Accesso: 2 settembre 2024. | Standardized Italian phrasing for "Accessed". |

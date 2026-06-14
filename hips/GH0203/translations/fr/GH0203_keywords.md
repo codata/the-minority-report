@@ -1,0 +1,1 @@
+hot, fast-moving mixtures,volcanic particles and gas,gravitational collapse,explosive eruption columns,lava domes,lava-flow fronts,explosive lateral blasts,flow according to density,density relative to surrounding medium,Earth's gravity

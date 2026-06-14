@@ -1,0 +1,1 @@
+marked, unusual period of hot weather,duration of at least two or three days and nights,thermal conditions recorded above given thresholds,percentile thresholds,90th or 95th percentile,magnitude duration extent severity,high-pressure system,atmospheric blocking pattern,soil moisture,heat index,humidex,wet-bulb globe temperature,Excess Heat Index-acclimatization,Excess Heat Factor

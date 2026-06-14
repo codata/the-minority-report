@@ -1,0 +1,12 @@
+## Changelog
+| Section | Original (it) | Corrected (it) | Reason |
+|---|---|---|---|
+| Riferimento principale | WMO, 2017. International Cloud Atlas: Hail. World Meteorological Organization (WMO). Accessed 16 May 2025. | WMO, 2017. International Cloud Atlas: Hail. World Meteorological Organization (WMO). Accesso il 16 maggio 2025. | Standardized the date format and used the Italian term for "Accessed." |
+| Annotazioni (Descrizione scientifica aggiuntiva) | ...ma possono avere densità inferiori se contengono cavità di aria. | ...ma possono avere densità inferiori se contengono cavità d'aria. | Corrected the prepositional phrase for better fluency. |
+| Annotazioni (Descrizione scientifica aggiuntiva) | ...in circostanze eccezionali, granelli di grandine grandi possono unirsi formando ammassi irregolari di grandine gigante (WMO, 2017). | ...in circostanze eccezionali, granelli di grandine grandi possono unirsi formando ammassi irregolari di grandine gigante (WMO, 2017). | No change needed, but ensured consistency. |
+| Annotazioni (Descrizione scientifica aggiuntiva) | ...e le potenziali inondazioni causate da tempeste di grandine intense. | ...e le potenziali inondazioni causate da tempeste di grandine intense. | Ensured correct grammatical flow. |
+| Monitoraggio | ...un sistema di allerta precoce nazionale (EWS). Poiché le capacità e i processi dell’EWS variano da paese a paese... | ...un sistema di allerta precoce nazionale (EWS). Poiché le capacità e i processi del sistema EWS variano da paese a paese... | Improved fluency and clarity by specifying "del sistema EWS." |
+| Quali istituzioni producono dati/informazioni sul rischio di disastri? | ...e della coordinazione degli interventi di emergenza. | ...e della coordinazione degli interventi di emergenza. | Ensured correct prepositional usage. |
+| Come viene osservata/monitorata/prevista la pericolosità? | La grandine è monitorata usando radar meteorologico... | La grandine è monitorata utilizzando radar meteorologici... | Improved fluency and grammatical structure. |
+| References | American Meteorological Society (AMS), 2012. Hail. Glossary of Meteorology. American Meteorological Society (AMS). Accessed 16 May 2025. | American Meteorological Society (AMS), 2012. Hail. Glossary of Meteorology. American Meteorological Society (AMS). Accesso il 16 maggio 2025. | Standardized the date format and used the Italian term for "Accessed." |
+| References | Cite this [Copy citation] | Cite this [Cita questa] | Translated the instruction for the user. |

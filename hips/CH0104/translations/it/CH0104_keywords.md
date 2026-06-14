@@ -1,0 +1,1 @@
+elemental mercury, inorganic mercury compounds, organic mercury compounds, methylmercury, dental amalgam, methylmercury in food, bioaccumulates, biomagnifies, Minamata Convention on Mercury, Artisanal and Small-Scale Gold Mining, mercury vapour, neurodevelopmental problems

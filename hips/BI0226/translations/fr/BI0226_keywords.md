@@ -1,0 +1,1 @@
+Typhoid fever,Salmonella typhi,bacterium Salmonella typhi,life-threatening infection,contaminated food,contaminated water,annual cases,deaths per year,infection,epidemiological estimates

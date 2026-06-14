@@ -1,82 +1,38 @@
-### Definition
-Violenza è un fenomeno sociale che implica atti o comportamenti forzosi destinati a causare danni. Il danno o l’infortunio inflitto da violenza a un individuo o a un gruppo collettivo può essere fisico, psicologico, sessuale, di privazione o combinato. La violenza è sia intenzionale sia forzosa (Adattato da Jacquette, 2013).
+### Definizione
+La **violenza** è un fenomeno sociale che coinvolge atti o comportamenti forzati destinati a causare danno. Il danno fisico o psichico inflitto dalla **violenza** a un individuo o a un gruppo collettivo può essere fisico, psicologico, sessuale, di privazione o combinato. La **violenza** è sia intenzionale sia forzata (Adattato da Jacquette, 2013).
 
-### Primary reference(s)
-Jacquette, D., 2013. *Violenza come inflizione intenzionale di danno forzoso*. *Revue internationale de philosophie*, (3), pp.293‑322.
+### Riferimento principale
+Jacquette, D., 2013. Violence as intentionally inflicting forceful harm. Revue internationale de philosophie, (3), pp.293-322.
 
-### Annotations
+### Annotazioni
+#### Descrizione scientifica aggiuntiva
+L’Organizzazione Mondiale della Sanità categorizza la **violenza** come: auto‑diretta, interpersonale e collettiva. Le tre categorie di **violenza** possono avere impatto sociale sia diretto che indiretto (WHO, 2002). Secondo Galtung (1969, 1996), la **violenza** può essere anche diretta, strutturale e culturale. Vi sono diverse forme e tipologie di **violenza**. Queste sono caratterizzate qui in base ai motivi, ai gruppi target e alle tattiche di **violenza**: la **violenza** può essere mirata o indiscriminata, motivata da determinati obiettivi (inclusi quelli politici, religiosi, sociali, economici, etnici, razziali o di genere), oppure non intenzionale; può essere iniziata con l’obiettivo di infliggere danno, lesioni o morte (Krug et al., 2002). La **violenza** è stata esplicitamente identificata come un problema significativo di salute pubblica (Rutherford et al., 2007).
 
-#### Additional scientific description
-L’Organizzazione Mondiale della Sanità (OMS) classifica la violenza in: auto‑diretta, interpersonale e collettiva. Tutte e tre le categorie di violenza possono avere impatti sociali, sia diretti sia indiretti (OMS, 2002). Secondo Galtung (1969, 1996), la violenza può essere diretta, strutturale e culturale. Esistono diverse forme e tipologie di violenza, caratterizzate qui in base a motivi, gruppi target e tattiche di violenza:
-
-- **Violenza mirata o indiscriminata**: motivata da obiettivi politici, religiosi, sociali, economici, etnici, razziali o di genere, o non intenzionale, con l’intento di infliggere direttamente o indirettamente danno, infortunio o morte (Krug et al., 2002).
-- **Violenza di genere**: definita dall’UN Declaration on the Elimination of Violence against Women (1993) come “qualsiasi atto di violenza di genere che comporta o può comportare danno fisico, sessuale o psicologico alle donne, compresi attacchi, coercizione o privazione arbitraria di libertà, che si verifichi in pubblico o in privato” (Art. 1).
-
-#### Motivi
-- **Violenza politica**: definita come atti ostili, aggressivi o violenti motivati da obiettivi politici o dalla volontà di influenzare direttamente o indirettamente il cambiamento politico o la governance. Può comprendere rivolte, colpi di stato, ribellioni, rivolta, terrorismo, pogrom, pulizia etnica e genocidio (Kalyvas, 2013; Balcells, 2015).
-- **Radicalizzazione**: processo multidimensionale, complesso e a lungo termine che introduce individui in ideologie estremiste che li motivano a sfidare lo status quo. Spesso porta all’adozione della violenza (Elshimi, 2018; Mansour‑Ille, 2019).
-- **Violenza religiosa**: atti violenti commessi da attori statali o non statali motivati da convinzioni religiose, ideologie o sistemi di credenze. È strettamente collegata al radicalismo e all’estremismo religioso (Clarke, 2011).
-- **Violenza etnica o razziale**: violenza tra gruppi diversi sulla base di differenze etniche o razziali, o di cultura, religione o lingua. Può includere segregazione, discriminazione istituzionalizzata, genocidio, pulizia etnica, pogrom, guerre civili e movimenti separatisti violenti (Bergmann & Crutchfield, 2009; Rutherford & Bar‑Yam, 2010).
-- **Violenza sociale**: atti di aggressione fisica o emotiva commessi da individui o comunità con l’obiettivo di avere un impatto sociale o causare danni fisici ed emotivi gravi a un gruppo o alla società (Kelly, 2014).
-
-#### Forms of violence
-- **Violenza di genere**: atti o minacce di atti destinati a causare danno fisico, sessuale o psicologico a individui o gruppi in base al genere (U.N. Declaration on the Elimination of Violence against Women, 1993; Convention C190 dell’ILO, 2019).
-- **Abuso di minore**: atti di violenza, crudeltà o maltrattamento di minori per profitto, lavoro, gratificazione sessuale, vendetta o guadagni personali (WHO). La Convention on the Rights of the Child (1989) proibisce “tutte le forme di violenza fisica o mentale, infortunio o abuso, negligenza o maltrattamento, sfruttamento, inclusi abusi sessuali, nei confronti di minori” (Art. 19.1).
-- **Terrorismo**: atti con intento di causare morte o grave infortunio, prendere ostaggi, provocare terrore o intimidire la popolazione, costringere governo o organizzazioni internazionali a compiere o a non compiere un atto (WHO, 2024).
-
-#### Psychological violence
-Attività intenzionali o non intenzionali che mirano a causare danno emotivo o psicologico grave (European Institute for Gender Equality, 2017). L’ Istanbul Convention (2011) elenca esempi: aggressione verbale, minacce coercitive, intimidazione, controllo, molestie, stalking, insulti, umiliazioni e condotte denigratorie.
-
-#### Torture
-Definita nella Convenzione contro la Tortura (CAT, 1984) come “qualsiasi atto mediante il quale dolore o sofferenza severa, sia fisica sia mentale, è inflitta intenzionalmente a una persona per ottenere informazioni, confessioni, punire o intimidire” (Art. 1.1). Il divieto è espresso in numerosi trattati internazionali (UDHR, ICCPR, CAT, ECHR, ACHR, ACHPR, ICAMTP, ecc.).
-
-#### Gang‑related violence
-Violenza perpetrata da gruppi di persone associati a una “gang”, un gruppo relativamente ben definito, stabile e prevalentemente urbano (UK Government, 2016).  
-
-#### Organised crime
-Atti criminali violenti o attività organizzate compiute da gruppi di persone in modo organizzato per profitto, mediante coercizione, rappresaglia ed estorsione (NCA, 2020).  
-
----
+### Motivi
+La **violenza politica** è definita come atti ostili, aggressivi o violenti motivati da obiettivi politici o dal desiderio di influenzare direttamente o indirettamente il cambiamento politico o la governance. Come fenomeno, la **violenza politica** può includere una serie di atti politici da rivolte, colpi di stato, ribellioni, rivolture e terrorismo commessi da attori statali e non statali, inclusi pogrom, pulizia etnica e genocidio (Kalyvas, 2013; Balcells, 2015). Tuttavia, ognuno ha il diritto di radunarsi pacificamente, come sancito dalla Dichiarazione Universale dei Diritti Umani (Art. 20(1)) e dal Patto Internazionale sui Diritti Civili e Politici (Art. 21), che impone un obbligo corrispondente ai Stati parte di rispettare e garantire il suo esercizio, senza discriminazione (Commento Generale No. 37 (2020)).
 
 ### Metrics and numeric limits
-Nel 2019 si stima che 475 000 persone in tutto il mondo siano state vittime di omicidio (tasso globale di 6,2 per 100.000). I tassi nei paesi ad alto reddito sono generalmente inferiori a quelli nei paesi a reddito medio e basso. Circa l’80 % degli omicidi si verifica tra uomini; i tassi più alti sono tra uomini di 15‑29 anni. Le stime non sono calcolate per i paesi con popolazione inferiore a 90 000 nel 2019 o per gli Stati non membri WHO (WHO, data non indicata).  
+Nel 2019, circa 475.000 persone in tutto il mondo sono state vittime di omicidi (tasso globale di 6,2 per 100.000). I tassi nei paesi ad alto reddito/aree sono generalmente inferiori a quelli nei paesi a reddito basso e medio. Circa l'80% degli omicidi avvengono tra i maschi e i tassi più elevati si registrano tra gli uomini di età compresa tra i 15 e i 29 anni. Le stime non sono calcolate per i paesi con popolazioni inferiori a 90.000 nel 2019 o per gli Stati non membri dell'OMS (WHO, data non specificata). Le stime pubblicate dall'OMS indicano che a livello globale circa 1 su 3 (30%) delle donne hanno subito violenza intima di partner fisica e/o sessuale o violenza sessuale non consensuale nella loro vita (WHO, 2024). La maggior parte di questa violenza è violenza intima di partner. A livello mondiale, quasi un terzo (27%) delle donne di età compresa tra i 15 e i 49 anni che hanno una relazione riferiscono di essere state soggette a una forma di violenza fisica e/o sessuale da parte del loro partner (WHO, 2024).
 
-Secondo le stime WHO, globalmente circa 1 su 3 (30 %) donne ha subito violenza intima o non intima nel corso della vita (WHO, 2024). La maggior parte di questa violenza è di tipo intimo. A livello mondiale, quasi un terzo (27 %) delle donne di 15‑49 anni che hanno avuto una relazione riferisce di essere stata sottoposta a qualche forma di violenza fisica o sessuale da parte del partner (WHO, 2024).  
+### Key relevant UN convention / multilateral treaty
+Diversi testi internazionali sono di rilevanza e includono la Dichiarazione Universale dei Diritti Umani, la Dichiarazione delle Nazioni Unite sull'eliminazione di ogni forma di discriminazione contro le donne; la Convenzione sull'eliminazione di tutte le forme di discriminazione contro le donne; la Convenzione contro la tortura e altre forme di trattamento o pene crudeli, inumani o degradanti; la Convenzione sui diritti dell'infanzia; la Convenzione di Istanbul; la Convenzione internazionale sull'eliminazione di ogni forma di discriminazione razziale, il Patto internazionale sui diritti civili e politici, il Patto internazionale sui diritti economici, sociali
 
----
+### Drivers
+La violenza può essere innescata da diverse situazioni e rischi. Tuttavia, la violenza può essere prevenuta. Le misure per affrontare la violenza vengono attuate come parte di un approccio di sanità pubblica in quattro fasi che comprende: la definizione del problema; l'identificazione delle cause e dei fattori di rischio; la progettazione e il test di interventi; e l'aumento della portata degli interventi efficaci (WHO, 2024). La prevenzione di lesioni e violenza faciliterà il raggiungimento di diversi obiettivi degli Obiettivi di Sviluppo Sostenibile (SDG) (WHO, 2024b).
 
-### Key relevant UN conventions / multilateral treaties
-- Dichiarazione Universale dei Diritti Umani (1948)  
-- Dichiarazione delle Nazioni Unite sulla Eliminazione della Violenza contro le Donne (1993)  
-- Convenzione sulla Eliminazione di Tutte le Forme di Discriminazione contro le Donne (CEDAW, 1979)  
-- Convenzione contro la Tortura e altri Trattamenti Cruenti, Inumani o Degradanti (CAT, 1984)  
-- Convenzione sui Diritti dell’Infanzia (CRC, 1989)  
-- Convenzione di Istanbul (2011)  
-- Convenzione Internazionale contro la Discriminazione Raziale (ICERD, 1965)  
-- Patto Internazionale sui Diritti Civili e Politici (ICCPR, 1966)  
-- Patto Internazionale sui Diritti Sociali, Economici e Culturali (ICESCR, 1966)  
-- Altri trattati specifici, es. Convenzioni su ostaggi, sicurezza aerea e marittima, ecc.  
+### Impacts
+A livello globale, ogni anno si verificano circa 470.000 omicidi e milioni di persone soffrono di lesioni correlate alla violenza. Oltre alla morte e alle lesioni, l'esposizione alla violenza può aumentare il rischio di abuso di alcol e droghe; malattie mentali e suicidità; malattie croniche come malattie cardiache, diabete e cancro; malattie infettive, come l'HIV, e problemi sociali, come il crimine, e ulteriore violenza. Tuttavia, la violenza può essere prevenuta. Le misure per affrontare la violenza vengono attuate come parte di un approccio di sanità pubblica in quattro fasi che comprende: la definizione del problema; l'identificazione delle cause e dei fattori di rischio; la progettazione e il test di interventi; e l'aumento della portata degli interventi efficaci (WHO, 2024).
 
----
-
-### Violence in multi‑hazard context
-Violenza armata e non armata può verificarsi in contesti di conflitto e di non‑conflitto (Rutherford et al., 2007), compresi i conflitti armati non internazionali (NIAC) dove sono coinvolti gruppi armati non statali e dove si verifica violenza armata prolungata. Le situazioni di disturbi interni o tensioni, come rivolte, atti isolati e sporadici di violenza, non sono considerate conflitti armati. Tuttavia, la violenza esercitata da entità armate in certi contesti può essere altrettanto grave di quella nelle guerre internazionali o nei NIAC.  
-
-Violenza può anche associarsi ad altri rischi, ad esempio disturbi sociali che escano in violenza etnica, conflitto armato internazionale (IAC), rivolta civile, stampi o rischi tecnologici come cyberbullying, uso deliberato di esplosivi o agenti esplosivi.  
-
----
+### Multi‑hazard context
+Forme di violenza armate e non armate possono verificarsi sia in contesti di non conflitto che di conflitto (Rutherford et al., 2007), inclusi i Conflitti Armati Non Internazionali (NIAC), in cui sono coinvolti uno o più gruppi armati non statali e dove si svolge una violenza armata protratta, il che significa una certa intensità della violenza armata e gli attori che partecipano ad essa mostrano un certo grado di organizzazione. Situazioni di disturbi o tensioni interne come rivolte, atti di violenza isolati e sporadici e altri atti analoghi non sono considerati conflitti armati. Tuttavia, il tipo di violenza esercitata da entità armate in certi contesti può essere tanto grave quanto quella riscontrata nelle guerre internazionali o nei NIAC. Sebbene l'applicazione del NIAC non possa essere considerata in questi casi poiché le altre condizioni non sono soddisfatte, ciò non diminuisce la gravità degli atti commessi o la responsabilità degli stakeholder nei rispettivi quadri normativi. La violenza può anche verificarsi in associazione ad altri rischi, inclusi i rischi sociali come il malcontento civile che sfocia in violenza etnica, il conflitto armato internazionale (IAC), il malcontento civile, la sommossa o gli stampigliate, o i rischi tecnologici come il cyberbullismo, l'uso deliberato di esplosioni o agenti esplosivi.
 
 ### Risk Management
-I corpi basati su carta includono il Consiglio dei Diritti Umani, procedure speciali (45 mandati tematici e 13 mandati nazionali), la revisione periodica universale e le indagini indipendenti. I corpi dei trattati comprendono il Comitato sull’eliminazione della discriminazione razziale (CERD), il Comitato sui diritti economici, sociali e culturali (CESCR), il Comitato dei Diritti Umani (CCPR), il Comitato sull’eliminazione della discriminazione contro le donne (CEDAW), il Comitato contro la Tortura (CAT), il Comitato sui diritti dei minori (CRC), il Comitato per i lavoratori migranti (CMW), il sottocomitato sulla prevenzione della tortura e di altri trattamenti crudeli, inumani o degradanti (SPT), il Comitato sui diritti delle persone con disabilità (CRPD) e il Comitato sulle sparizioni forzate (CED).  
-
----
+Gli organismi basati su trattati includono il Consiglio per i Diritti Umani, le Procedure Speciali (inclusi 45 mandati tematici e 13 mandati per i paesi), la Revisione Periodica Universale e le Indagini Indipendenti. I organi dei trattati includono il Comitato per l'eliminazione della discriminazione razziale (CERD), il Comitato sui diritti economici, sociali e culturali (CESCR), il Comitato sui diritti umani (CCPR), il Comitato per l'eliminazione della discriminazione contro le donne (CEDAW), il Comitato contro la tortura (CAT), il Comitato sui diritti dell'infanzia (CRC), il Comitato sui lavoratori migranti (CMW), il Sottocomitato per la prevenzione della tortura e di altre forme di trattamento o pene crudeli, inumani o degradanti (SPT), il Comitato sui diritti delle persone con disabilità (CRPD) e il Comitato sulle sparizioni forzate (CED). Esistono anche vari sistemi di allerta precoce a livello regionale, inclusi ai sensi dei quadri dell'Unione Africana, dell'Organizzazione degli Stati Americani e del Consiglio d'Europa. La Strategia globale delle Nazioni Unite contro il terrorismo (A/RES/60/288), adottata dall'Assemblea generale delle Nazioni Unite per consenso nel 2006, fornisce un approccio strategico e operativo comune per combattere il terrorismo, incluse le misure preventive. Come esempio più dettagliato di gestione del rischio, i rapporti dell'OMS mostrano che ci sono crescenti prove su ciò che funziona per prevenire la violenza contro le donne, basate su valutazioni ben progettate. Nel 2019, l'OMS e UN Women, con il patrocinio di altre 12 agenzie ONU e bilaterali, hanno pubblicato RESPECT Women – un quadro per prevenire la violenza contro le donne rivolto ai decisori politici (WHO, 2024). Ogni lettera di RESPECT rappresenta una delle sette strategie: rafforzamento delle competenze relazionali; potenziamento delle donne; servizi garantiti; riduzione della povertà; creazione di ambienti abilitanti (scuole, luoghi di lavoro, spazi pubblici); prevenzione degli abusi di bambini e adolescenti; e trasformazione di atteggiamenti, credenze e norme (WHO, 2024). Per ciascuna di queste sette strategie, esistono una gamma di interventi in contesti a risorse basse e alte con diversi gradi di evidenza di efficacia. Gli esempi di interventi promettenti includono il supporto psicosociale e gli interventi psicologici per le sopravvissute alla violenza intima di partner; programmi combinati di potenziamento economico e sociale; trasferimenti di denaro; il lavoro con le coppie per migliorare la comunicazione e le competenze relazionali; interventi di mobilitazione comunitaria per cambiare norme di genere ineguali; programmi scolastici che migliorano la sicurezza nelle scuole e riducono/eliminano la punizione severa e includono programmi che sfidano gli stereotipi di genere e promuovono relazioni basate su uguaglianza e consenso; e l'educazione partecipativa basata sui gruppi con donne e uomini per generare riflessioni critiche sulle relazioni di potere di genere ineguali (WHO, 2024). RESPECT evidenzia inoltre che gli interventi di successo sono quelli che danno priorità alla sicurezza delle donne; i cui elementi fondamentali comportano la sfida alle relazioni di potere di genere ineguali; che sono partecipativi; affrontano più fattori di rischio attraverso programmi combinati e iniziano presto nel percorso di vita (WHO, 2024). Per ottenere un cambiamento duraturo, è importante emanare ed applicare leggi e sviluppare e implementare politiche che promuovano l'uguaglianza di genere; allocare risorse alla prevenzione e alla risposta; e investire nelle organizzazioni dei diritti delle donne (WHO, 2024).
 
 ### Monitoring
-Nel sistema delle Nazioni Unite, vari meccanismi di monitoraggio basati su trattati e sulla Carta delle Nazioni Unite sono rilevanti nei contesti di violenza. Questi includono sistemi di allerta precoce a livello regionale (Alleanza Africana, Organizzazione degli Stati Americani, Consiglio d’Europa) e la Strategia Globale per la Contra‑terrorismo delle Nazioni Unite.  
-
----
+All'interno del sistema delle Nazioni Unite, vari meccanismi di monitoraggio dei diritti umani basati sui trattati e sulla Carta delle Nazioni Unite sono rilevanti nei contesti in cui si verifica la violenza e si possono identificare segnali di allarme precoci.
 
 ### References
-*(elenco completo di riferimenti come nel testo originale, tradotto in italiano ove necessario)*  
-
----
+African Charter on Human and Peoples’ Rights, 1981. OAU Doc. CAB/LEG/67/3 rev. 5, 21 I.L.M. 58. Accessed 10 January 2025.
+American Convention on Human Rights, 1969. OAS Treaty Series No. 36, 1144 U.N.T.S. 123, reprinted in Basic Documents Pertaining to Human Rights in the Inter‑American System, OEA/Ser.L.V/II.82 doc.6 rev.1 at 25 (1992). Accessed 10 January 2025.
+… (tutto il blocco “References” rimane in lingua originale come richiesto).

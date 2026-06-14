@@ -1,0 +1,1 @@
+viral zoonotic disease, central nervous system, bites licks and scratches, infected mammals, public health problem, clinical signs, fatal outcome, zoonotic disease, viral disease, public health problem

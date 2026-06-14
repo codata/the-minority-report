@@ -1,0 +1,1 @@
+Chemical agents, chemical warfare agents, chemical weapons, dual-use chemicals, toxic properties, intentional death or harm, public hazard, chemical weapons classification, chemical use, toxic properties of chemicals
