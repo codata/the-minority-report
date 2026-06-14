@@ -1,0 +1,1 @@
+naturally occurring mineral, dose intake, dental caries, tooth enamel, skeletal fluorosis, prolonged high exposure, fluoridated water, improved dental health, fluoride exposure, iodine intake
