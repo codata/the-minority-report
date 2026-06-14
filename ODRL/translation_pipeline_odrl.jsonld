@@ -193,7 +193,7 @@
           ]
         },
         {
-          "dc:description": "Step 6.5: Proofreading. The translated text must be explicitly checked for language syntax, grammar, and natural flow by the model to correct any semantic or structural mistakes.",
+          "dc:description": "Step 6.5: Proofreading. The translated text must be explicitly checked for authoritative terminology, formatting, completeness, and natural flow using the Language-Agnostic Hazard Classification Proofreader protocol.",
           "action": [
             {
               "rdf:value": { "@id": "odrl:review" },
@@ -201,7 +201,7 @@
                 {
                   "leftOperand": "ai:validationGoal",
                   "operator": "odrl:eq",
-                  "rightOperand": "syntax-and-grammar-check"
+                  "rightOperand": "terminology-and-grammar-proofread"
                 },
                 {
                   "leftOperand": "ai:modelSelection",

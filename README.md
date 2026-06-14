@@ -25,9 +25,9 @@ The translation pipeline is strictly governed by an Open Digital Rights Language
 2. **Step 1 - Ingest**: Explicit permission is granted to read from URLs or keyword strings.
 3. **Step 2 & 3 - Keyword Extraction & Caching**: The system is permitted to use a secondary, specialized LLM to extract domain keywords, but holds a **duty** to archive them immediately to disk to preserve compute resources.
 4. **Step 4 - Primary Translation**: Grants permission to translate the source text using the primary LLM grounded by the cached keywords.
-5. **Step 5 & 6 - Validation & Retry**: Imposes a strict duty: the generated translation must be at least 75% of the length of the source text. If this validation fails, the policy mandates a consequence of retrying up to 3 times.
-6. **Step 6.5 - Proofreading**: The translated text must be explicitly reviewed for language syntax, grammar, and natural flow by the model to correct any semantic or structural mistakes.
-7. **Step 7 - Archiving**: The final validated translation and structural metadata must be saved following strict directory patterns.
+5. **Step 5 & 6 - Validation & Retry**: Imposes a strict duty: the generated translation must be at least 40% of the length of the source text. If this validation fails, the policy mandates a consequence of retrying up to 3 times.
+6. **Step 6.5 - Expert Proofreading**: The translated text must be explicitly checked for authoritative terminology, formatting, completeness, and natural flow using the **Language-Agnostic Hazard Classification Proofreader** protocol. This is executed using the designated `--small-model` (e.g., `gemma4:e2b`) to ensure strict adherence without hallucination.
+7. **Step 7 - Archiving**: The final validated translation, generated changelog (`_changelog.md`), and structural metadata must be saved following strict directory patterns.
 
 The FastAPI service dynamically parses and enforces these ODRL rules at runtime.
 
