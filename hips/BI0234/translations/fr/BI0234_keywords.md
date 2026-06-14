@@ -1,0 +1,1 @@
+acute invasive enteric infection, bacteria belonging to the genus Shigella, enteric infection, bloody diarrhoea, genus Shigella, acute infection, enteric infection caused by Shigella, bloody diarrhoea cases, deaths each year, enteric infection

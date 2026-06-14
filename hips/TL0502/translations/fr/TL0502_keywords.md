@@ -1,0 +1,1 @@
+discarded materials,solid or liquid state,owner or user,solid waste,wastewater,small particulate matter,released into the atmosphere,discarded materials,solid waste,materials no longer required

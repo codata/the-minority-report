@@ -94,8 +94,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0221/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -104,8 +103,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0221/data/distribution/BI0221_Measles_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "5308bb99a4bc3337ebb00fe992405c763b5097741f0c73f92f06ff21e64b3f04",
-      "description": "Clean plaintext extract of the original HIPS HTML document for BI0221, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:x8CgdAdWuvruC6WGs/87kA=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for BI0221, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -119,7 +117,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:mchE5wkTdvY2Aw7jNKzX7g=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'nl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -133,7 +131,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'lv'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -147,7 +145,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:mFfybYQH34xhfIzgqITxyA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'sl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -161,7 +159,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Dzt+udmNgdrq37zEEnX5UQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'hr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -175,7 +173,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:+wAfWkukc+dYyxYR6X2aVA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'sr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -189,7 +187,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:xAHaamoAeQDyk9vRJLSKiQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'fr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -203,7 +201,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:2IyFKS3rJk8JqwORrPQLPw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'sk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -217,7 +215,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:k8wqD0lIHzaR5T+TNl+pvg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'ru'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -231,7 +229,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'et'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -245,7 +243,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:ASPWM8+uP0qDYmWkeejZhQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'ch'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -259,7 +257,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:BqsHdnlzxTWIuphBlpSDjA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'it'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -273,7 +271,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:o/RAiUBCodjgghBsIHzbiw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'tr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -287,7 +285,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'no'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -301,7 +299,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:GMVKkYrtrqeClLOJ4EoOmg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'es'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -315,7 +313,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -329,7 +327,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:jH/KrpR8PwMnLXIwIh18mA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -343,7 +341,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'dk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -357,7 +355,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'fi'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -371,7 +369,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Y2Cy64fZurrYA2zGK6LE9g=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'ua'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -385,7 +383,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0221 Hazard Information Profile in language 'lt'. Contains the authoritative translation of the original context."
     }
   ],
   "recordSet": [
@@ -525,8 +523,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for BI0221: Measles. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0221. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0221/data/distribution/BI0221_Measles.html",
       "encodingFormat": "text/html",
-      "sha256": "595fb2a144fde3798a50ce442003d8fafa148994d8bd0316b32bc3ba496af4dd",
-      "unf": "UNF:6:a89UGZ496J6YvrbNp0BTAw=="
+      "sha256": "595fb2a144fde3798a50ce442003d8fafa148994d8bd0316b32bc3ba496af4dd"
     },
     {
       "@type": "CreativeWork",
@@ -535,8 +532,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for BI0221, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0221/data/distribution/BI0221_Measles_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "5308bb99a4bc3337ebb00fe992405c763b5097741f0c73f92f06ff21e64b3f04",
-      "unf": "UNF:6:x8CgdAdWuvruC6WGs/87kA=="
+      "sha256": "5308bb99a4bc3337ebb00fe992405c763b5097741f0c73f92f06ff21e64b3f04"
     }
   ],
   "https://schema.org/identifier": "BI0221",

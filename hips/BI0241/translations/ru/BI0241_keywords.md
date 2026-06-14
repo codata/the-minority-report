@@ -1,0 +1,1 @@
+acute viral haemorrhagic disease,arbovirus of the flavivirus genus,Aedes and Haemogogus mosquitoes,sylvatic yellow fever cycle,intermediate yellow fever,urban yellow fever,mosquito breeding sites,larvicides application,vector surveillance and control,yellow fever vaccine stockpile,Eliminate Yellow Fever Epidemics strategy

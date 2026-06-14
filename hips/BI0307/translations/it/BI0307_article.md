@@ -1,0 +1,46 @@
+### Definizione
+La **Malattia della pelle nodulare** è una malattia a trasmissione vettoriale di tipo pox che colpisce bovini domestici e bufali d’acqua asiatici ed è caratterizzata dall’apparizione di noduli cutanei su tutte le superfici del corpo, compreso il latte (FAO, 2017).
+
+### Riferimenti primari
+FAO, 2017. *Lumpy Skin Disease: A field manual for veterinarians*. Food and Agriculture Organization of the United Nations (FAO) Animal Production and Health Manual No. 20. Accessed 28 May 2025.
+
+### Annotazioni
+#### Descrizione scientifica aggiuntiva
+La **Malattia della pelle nodulare** (LSD) è causata dal **virus della Malattia della pelle nodulare (LSDV)**, appartenente al genere **Capripoxvirus** (CaPV) della famiglia **Poxviridae**, con una morbidità significativa nei bovini che ha effetti drammatici sul reddito rurale (FAO, 2017). Il LSDV condivide il genere con il virus della pox ovina (SPPV) e il virus della pox caprina (GTPV), che sono strettamente correlati ma filogeneticamente distinti. LSD è una delle malattie elencate dalla World Organisation for Animal Health (WOAH) (WOAH, 2024b). Il tasso di morbidità di LSD varia tra il 10 % e il 20 %, sebbene in alcune aree sia stato riportato fino al 45 %, con tassi di mortalità da 1 % a 5 % considerati usuali (WOAH, 2022). LSD si diffonde principalmente tramite trasmissione meccanica da vettori artropodi. Oltre ai vettori, la trasmissione può avvenire attraverso il consumo di foraggio o acqua contaminati, contatto diretto, accoppiamento naturale o inseminazione artificiale (FAO, 2017). Sebbene tradizionalmente limitata all’Africa subsahariana, LSD si è diffusa rapidamente in nuovi territori dal 2015, inclusi il Medio Oriente e la Turchia, e la maggior parte dei paesi balcanici, del Caucaso e della Federazione Russa, causando perdite economiche sostanziali e una seria minaccia alla sicurezza alimentare. Inoltre, nel 2019, LSD è stato riportato anche in Bangladesh, Cina e India, e nel 2020 ha raggiunto Taiwan (WOAH, no date a). LSD può propagarsi rapidamente oltre i confini nazionali e raggiungere proporzioni epidemiche, richiedendo quindi cooperazione regionale nella prevenzione, nel controllo e nell’eradicazione (FAO, 2017). LSD è prevenibile tramite misure di controllo, inclusa la vaccinazione (Metwally et al., 2021). La vaccinazione su larga scala è il modo più efficace per prevenire e controllare la diffusione della malattia. I vaccini vivi attenuati più comunemente usati contro LSD commercialmente disponibili sono i più efficaci, e quanto prima vengono impiegati, minore è l’impatto economico di un’epidemia (FAO, 2017). Ogni paese mantiene tipicamente un elenco di vaccini veterinari registrati approvati per l’uso. Per regolamenti specifici, consultare le autorità veterinarie del paese. Non vi è evidenza che LSDV possa infettare gli esseri umani (FAO, 2017).
+
+### Metriche e limiti numerici
+LSD è una malattia elencata dalla WOAH e deve essere segnalata all’Organizzazione, come indicato nel Terrestrial Animal Health Code. Il World Animal Health Information System (WAHIS) è il database di riferimento globale sulla salute animale dell’Organizzazione Mondiale per la Salute Animale (WOAH). I dati WAHIS riflettono le informazioni validate dal 2005 riportate dai Servizi Veterinari di Paesi e Territori Membri e Non Membri su malattie terrestri e acquatiche elencate in animali domestici e selvatici, nonché su malattie emergenti e zoonosi. WAHIS include strumenti di mappatura interattiva e cruscotti per supportare la consultazione dei dati, la visualizzazione e l’estrazione di dati ufficiali di salute animale (WOAH, no date b).
+
+### Convenzione UN chiave / trattato multilaterale
+- WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement) (WTO, 1994). https://www.wto.org/english/res_e/booksp_e/agrmntseries4_sps_e.pdf Accessed 1 January 2025.
+- United Nations. 2023. Recommendations on the Transport of Dangerous Goods - UN Model Regulations. https://unece.org/transport/dangerous-goods/un-model-regulations-rev-23 Accessed 1 January 2025.
+
+### Fattori scatenanti
+LSD si diffonde facilmente in aree che sperimentano tempeste, inondazioni, conflitti civili, insicurezza, spostamenti di persone e maggiori esigenze di mobilità, a causa delle difficoltà nel mantenere una biosecurità elevata. Altri fattori includono la mancanza di biosecurità e la presenza di vettori (FAO, 2017).
+
+### Impatti
+Morte di animali infetti, diffusione dell’infezione, boicottaggio commerciale (FAO, 2017). Sebbene il tasso di mortalità sia generalmente basso, le perdite economiche derivano dalla perdita di condizione, dalla diminuzione della produzione di latte, aborti, infertilità e pelle danneggiata.
+
+### Contesto multi‑rischio
+LSDV è straordinariamente stabile, sopravvivendo per lunghi periodi a temperatura ambiante, soprattutto nelle croste secche. LSDV è molto resistente all’inattivazione, sopravvivendo in noduli cutanei necrotici fino a 33 giorni o più, nelle croste secche fino a 35 giorni e almeno 18 giorni in pelle secca. Può rimanere vivace per lunghi periodi nell’ambiente. Il virus è suscettibile alla luce solare e a detergenti contenenti solventi lipidici, ma in condizioni ambientali scure, come le stalle di animali contaminati, può persistere per molti mesi (WOAH, 2022).
+
+### Gestione del rischio
+Programma di vaccinazione, controllo dei vettori, controllo del movimento, biosecurità agricola (FAO, 2017). L’Organizzazione delle Nazioni Unite per l’Alimentazione e l’Agricoltura (FAO) fornisce linee guida sulle misure preventive (FAO, no date). È difficile impedire che i bovini vengano attaccati da vettori infetti (mosse, ecc.) una volta che l’infezione è presente in un’area. I comportamenti a rischio aumentano la probabilità che l’infezione venga trasportata tra le località. La vaccinazione su larga scala è il modo più efficace per prevenire e controllare la diffusione della malattia (FAO, 2017). Le linee guida FAO sulle misure preventive che possono migliorare il livello di protezione di un gregge da LSD e da altre malattie infettive includono quanto segue (FAO, no date):
+- Implementare misure di biosecurità: poiché il bestiame e i veicoli possono trasportare vettori vivi (mosse, zanzare, ecc.) tra le aree, evitare l’ingresso o l’apertura di tali veicoli all’interno o nelle vicinanze delle tenute, a meno che non siano disinfettati con prodotti approvati.
+- Proteggere gli animali dagli insetti (es. trattamento con repellenti approvati, spostare gli animali in aree della tenuta dove ci sono meno mosse).
+- Cambiare gli aghi quando si trattano gli animali.
+- Misure generali per ridurre il rischio di LSD e di altre malattie: bagno di disinfezione a piedi all’ingresso del bestiame; copertura di stivali monouso e indumenti per i visitatori; disinfezione e disinfestazione dei veicoli prima e dopo i movimenti; sensibilizzare i proprietari di bestiame, i veterinari sul campo e gli operatori di salute animale e incoraggiare la segnalazione all’autorità veterinaria centrale; evitare contatti tra animali di greggi diversi (es. sul pascolo); aree di pascolo dove le mosse fastidiose sono molto abbondanti; condividere animali, attrezzi, veicoli e personale con altre aziende. La consapevolezza del gregge può essere a rischio. È molto importante controllare regolarmente tutti gli animali e riferirlo a un veterinario o servizio veterinario.
+
+### Monitoraggio
+La sezione e la tabella di seguito offrono una panoramica del monitoraggio della malattia della pelle nodulare. Queste informazioni possono essere utilizzate per la previsione all’interno di un sistema di allerta precoce nazionale (EWS). Poiché le capacità e i processi EWS variano da paese a paese, le informazioni più aggiornate e specifiche riguardanti l’EWS dovrebbero essere ottenute dall’agenzia o dall’autorità nazionale o regionale appropriata responsabile della gestione dei disastri.
+**Quali istituzioni producono dati/informazioni sul rischio di disastro?** FAO Reference Centres, WOAH Reference Centres.
+**Come viene osservato/monitorato/previsto l’evento?** FAO empres‑i+ https://empres‑i.apps.fao.org/diseases; WOAH WAHIS https://wahis.woah.org/#/event‑management
+
+## References
+FAO, no date. Lumpy skin disease. Accessed 1 January 2025.
+WOAH, 2022. Lumpy Skin Disease technical disease card: Aetiology Epidemiology Diagnosis Prevention and Control. World Organisation for Animal Health (WOAH). Accessed 28 May 2025.
+WOAH, 2024a. Manual of Diagnostic Tests and Vaccines for Terrestrial Animals, 13th edition. World Organisation for Animal Health (WOAH). Accessed 1 January 2025.
+WOAH, 2024b. Terrestrial Animal Health Code, 32nd edition. World Organisation for Animal Health (WOAH). Accessed 1 January 2025.
+WOAH, no date a. Lumpy Skin Disease. World Organisation for Animal Health (WOAH). Accessed 1 January 2025.
+WOAH, no date b. WAHIS: World Animal Health Information System World Organisation for Animal Health (WOAH). Accessed 28 May 2025.
+Cite this [Copy citation]

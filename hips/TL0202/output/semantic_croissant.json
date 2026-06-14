@@ -94,8 +94,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0202/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -104,8 +103,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0202/data/distribution/TL0202_Building,_highrise,_cladding_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "819d33b7dd0b379e5c9ad712907c57b6ff0833a6e18125f9fac0381d82a51e62",
-      "description": "Clean plaintext extract of the original HIPS HTML document for TL0202, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:2+aU4FCuvdzj/XYcDafCaA=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for TL0202, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -119,7 +117,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:yBG4XYp2A4G6I8ck2dpi4g=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'nl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -133,7 +131,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'lv'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -147,7 +145,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:clsyCZzIKM/1CqC4/lWv/Q=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'sl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -161,7 +159,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:vxUmRqsGxXSO/nTiizwCow=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'hr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -175,7 +173,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:ZAjm0klys1m1ixnt7RsWKg=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'sr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -189,7 +187,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:/ZU2mIlUT4TjrUvS1besgg=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'fr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -203,7 +201,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:DEoN0Mi5Rth3nKACtoa3eg=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'sk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -217,7 +215,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:QAhajlyIRfEilRy7Vnu9Fw=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'ru'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -231,7 +229,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'et'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -245,7 +243,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:ZCKp0EtAy5dY5BVO2FsuFg=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'ch'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -259,7 +257,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:TqV4sRiPLWNJHQh5Ttv85Q=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'it'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -273,7 +271,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:CMhTI6/gt2pH12015IIulQ=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'ar'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -287,7 +285,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:x6J3fFZEdXfIByTht1gtHA=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'tr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -301,7 +299,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'no'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -315,7 +313,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:T/uQaMQDzFCI39TbCbRl+A=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'es'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -329,7 +327,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Hah/dwUjkM4KA5iFHwP9Hw=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'de'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -343,7 +341,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -357,7 +355,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:X6HYOsClZHsJqO/ZYfZATQ=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -371,7 +369,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'dk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -385,7 +383,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'fi'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -399,7 +397,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:85lJpxLp3CGQQwRWLALTAQ=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'ua'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -413,7 +411,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0202 Hazard Information Profile in language 'lt'. Contains the authoritative translation of the original context."
     }
   ],
   "recordSet": [
@@ -553,8 +551,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for TL0202: Building, highrise, cladding. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0202. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0202/data/distribution/TL0202_Building,_highrise,_cladding.html",
       "encodingFormat": "text/html",
-      "sha256": "7a9c127816ac47105f183f3b20eef5c24697416f0476aea954d311fe992f155a",
-      "unf": "UNF:6:QFX0BUC1uRCut/Z1xbvecA=="
+      "sha256": "7a9c127816ac47105f183f3b20eef5c24697416f0476aea954d311fe992f155a"
     },
     {
       "@type": "CreativeWork",
@@ -563,8 +560,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for TL0202, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0202/data/distribution/TL0202_Building,_highrise,_cladding_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "819d33b7dd0b379e5c9ad712907c57b6ff0833a6e18125f9fac0381d82a51e62",
-      "unf": "UNF:6:2+aU4FCuvdzj/XYcDafCaA=="
+      "sha256": "819d33b7dd0b379e5c9ad712907c57b6ff0833a6e18125f9fac0381d82a51e62"
     }
   ],
   "https://schema.org/identifier": "TL0202",

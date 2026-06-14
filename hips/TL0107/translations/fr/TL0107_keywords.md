@@ -1,0 +1,1 @@
+techniques aimed at persuading, revealing specific information, performing a specific action, illegitimate reasons, target, specific information, specific action, social engineering, information extraction, action execution

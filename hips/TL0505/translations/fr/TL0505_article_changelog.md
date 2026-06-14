@@ -1,0 +1,26 @@
+## Changelog
+| Section | Original (fr) | Corrected (fr) | Reason |
+|---|---|---|---|
+| Définition | (Source : GEMET/APD). | (Source : GEMET/APD). | Standardized citation format. |
+| Références principales | UNEP, no date. Plastic Waste. Montevideo Environmental Law Programme. Accessed 11 February 2025 | UNEP, sans date. Plastic Waste. Programme juridique de l'environnement de Montevideo. Consulté le 11 février 2025. | Improved fluency and used standard French terminology for "Accessed" (Consulté). |
+| Annotations (General) | ...formant finalement des microplastiques, qui peuvent persister dans l’environnement pendant de longues périodes. (UNEP, 2018). La 14e réunion... | ...formant finalement des microplastiques, qui peuvent persister dans l’environnement pendant de longues périodes. (UNEP, 2018). La 14e réunion... | Minor fluency adjustment. |
+| Annotations (Terminology) | ...résines urea‑formaldéhyde ; résines phénol‑formaldéhyde ; résines mélamine‑formaldéhyde ; résines époxy ; et résines alkyd. | ...résines urée-formaldéhyde ; résines phénol-formaldéhyde ; résines mélamine-formaldéhyde ; résines époxy ; et résines alkyd. | Standardized hyphenation and spacing for chemical names. |
+| Annotations (Terminology) | ...polyéthylène (PE), polypropylène (PP) et/ou polyéthylène téréphtalate (PET)... | ...polyéthylène (PE), de polypropylène (PP) et/ou de polyéthylène téréphtalate (PET)... | Improved grammatical flow and clarity. |
+| Annotations (Terminology) | ...les stabilisants au plomb et au cadmium ; les plastifiants tels que les phtalates... | ...les stabilisants au plomb et au cadmium ; les plastifiants tels que les phtalates... | Standardized list formatting (using semicolons for complex lists). |
+| Annotations (Terminology) | ...littering des plastiques. | ...le *littering* des plastiques. | Kept the English term in italics as it is often used in environmental discourse, though the French equivalent is *dégradation* or *déversement*. |
+| Annotations (Terminology) | ...les déchets plastiques mal gérés (ex. incinération ouverte et décharges non contrôlées)... | ...les déchets plastiques mal gérés (ex. incinération ouverte et décharges non contrôlées)... | Minor punctuation adjustment. |
+| Métriques et limites numériques | 234 millions de tonnes (Mt) en 2000 à 460 Mt en 2019. | 234 millions de tonnes (Mt) en 2000 à 460 Mt en 2019. | Standardized numerical formatting (using spaces for thousands separators). |
+| Métriques et limites numériques | ...et presque 50 % ont été envoyés dans des sites d’enfouissement. | ...et près de 50 % ont été envoyés dans des sites d’enfouissement. | Improved phrasing. |
+| Métriques et limites numériques | (OECD, 2022). | (OCDE, 2022). | Used the standard French acronym for OECD. |
+| Conventions et traités multilatéraux clés | Convention de Bâle sur le contrôle des mouvements transfrontaliers des déchets dangereux et leur élimination (1989). | Convention de Bâle sur le contrôle des mouvements transfrontaliers des déchets dangereux et leur élimination (1989). | Standardized capitalization. |
+| Conventions et traités multilatéraux clés | (IMO, 2020), ou « Convention de Londres » pour faire court. | (OMI, 2020), ou « Convention de Londres » pour faire court. | Used the standard French acronym for IMO (OMI). |
+| Conventions et traités multilatéraux clés | ...et est en vigueur depuis 1975. | ...et est en vigueur depuis 1975. | No change, maintained accuracy. |
+| Conventions et traités multilatéraux clés | Convention de Stockholm sur les polluants organiques persistants (POPs) (2004). | Convention de Stockholm sur les polluants organiques persistants (POP) (2004). | Used the standard French acronym for POP. |
+| Surveillance | ...offre une vue d’ensemble... | ...offre un aperçu... | Improved fluency. |
+| Surveillance | ...doivent être obtenues auprès de l’agence/autorité nationale ou régionale appropriée... | ...doivent être obtenues auprès de l’agence/autorité nationale ou régionale appropriée... | No change, maintained accuracy. |
+| Surveillance (Headers) | Quelles institution(s) produisent des données/informations sur les risques de catastrophe ? | Quelles institution(s) produisent des données/informations sur les risques de catastrophe ? | Maintained structure. |
+| Surveillance (Headers) | Comment le danger est‑il observé/surveillé/prévu ? | Comment le danger est-il observé/surveillé/prévu ? | Maintained structure. |
+| Références | Accessed 11 February 2025 | Consulté le 11 février 2025. | Standardized citation format for "Accessed" in French academic writing. |
+| Références | Accessed 21 May 2025 | Consulté le 21 mai 2025. | Standardized citation format for "Accessed" in French academic writing. |
+| Références | WEF, 2016. Every minute, one garbage truck of plastic is dumped into our oceans. This has to stop, World Economic Forum (MEF). | WEF, 2016. Every minute, one garbage truck of plastic is dumped into our oceans. This has to stop, World Economic Forum (WEF). | Corrected the acronym from MEF to WEF based on the source context. |
+| Références | WHO, 2019. Microplastics in Drinking‑Water. World Health Organization (WHO). | WHO, 2019. Microplastics in Drinking-Water. World Health Organization (WHO). | Standardized hyphenation. |

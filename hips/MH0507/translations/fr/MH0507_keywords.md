@@ -1,0 +1,1 @@
+smooth compact deposit of ice, freezing of super-cooled drizzle droplets, freezing of raindrops, surface temperature below 0°C, surface temperature slightly above 0°C, freezing of drizzle droplets, freezing of raindrops on objects, ice formation process, transparent ice deposit

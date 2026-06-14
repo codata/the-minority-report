@@ -1,0 +1,1 @@
+Sinkholes (also known as dolines), depressions or holes in the ground, dissolution of rock, collapse of rock, erosion of rock, dissolution, collapse or erosion, subsidence, lowering of the ground, collapse of the ground, lowering or collapse of the ground

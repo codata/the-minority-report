@@ -1,0 +1,1 @@
+ionizing radiation,particle radiation,electro-magnetic waves,radioactive substance,human health,magnitude of exposure,regulatory control,national regulatory authorities,hazard to the environment,animal health

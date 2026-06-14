@@ -1,0 +1,1 @@
+point source of air pollution, human-generated point source, primary pollutants, secondary pollutants, particulate matter (PM10 and PM2.5), air pollutants from fixed locations, emissions from incinerators, pollutants from chemical production, smoke from wildfires, ash from volcanic eruptions, acid rain, air quality monitoring stations, spatiotemporal resolution air quality data

@@ -94,8 +94,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0238/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -104,8 +103,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0238/data/distribution/BI0238_Trypanosomiasis_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "710abb0750b521dc654da4350a1698c092d7faf28be473f3cfe91d188a330180",
-      "description": "Clean plaintext extract of the original HIPS HTML document for BI0238, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:bA/7+uDaOsY/FCiACiJloA=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for BI0238, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -119,7 +117,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:K4ufolsVrwREWW9dtywFdA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'nl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -133,7 +131,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:kYiuHH2SNJdS3qoyCk3nMw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'lv'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -147,7 +145,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:QSCUapXYAcVWwSg3gxAE1w=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'sl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -161,7 +159,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'hr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -175,7 +173,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:cx8hzfD96y6dbm0mXthLSw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'sr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -189,7 +187,7 @@
       "creator": {
         "@id": "model_gemini-3_5"
       },
-      "unf": "UNF:6:k9Z8z78Oes22X7Vbjelq6Q=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'fr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -203,7 +201,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:9ZYCquoUZ2iA1bAKmDIyvA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'sk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -217,7 +215,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:AlmLtBrVBt2ywYC3xV82jA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'ru'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -231,7 +229,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:6OGE4wsxTrL+rWkGknhtlQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'et'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -245,7 +243,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:uS2uI9o2dGGxe5LZy7P+4w=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'ch'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -259,7 +257,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Rglw5jkAt/+W4CHGXVFiaw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'it'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -273,7 +271,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Vwh65bLGMaNo/sNv0BmAyw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'ar'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -287,7 +285,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:F3Yln29qxvmgpbXyF/lZeg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'tr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -301,7 +299,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:4thHG46vMi4lkTW3L1OPgw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'no'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -315,7 +313,7 @@
       "creator": {
         "@id": "model_gemini-3_5"
       },
-      "unf": "UNF:6:uuMjmSG2eTx3dmW0ceKYZw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'es'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -329,7 +327,7 @@
       "creator": {
         "@id": "model_gemini-3_5"
       },
-      "unf": "UNF:6:UfeuJFgD/cRkPIb3KLHLSA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'de'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -343,7 +341,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:ZRHmsHEc36VcpAhPfne9Cg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -357,7 +355,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:lHO6Jb6R6piURASguGJwkQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -371,7 +369,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:DgQn6AUU2Acu4zQ6MIDanw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'dk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -385,7 +383,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:tsN16F8ioKdbz62i9FHc0A=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'fi'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -399,7 +397,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:4iiOQv0q5p6rvSF8wb36sQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'ua'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -413,7 +411,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:iXm/WmlSTPg3KgjVrvKMbA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0238 Hazard Information Profile in language 'lt'. Contains the authoritative translation of the original context."
     }
   ],
   "recordSet": [
@@ -553,8 +551,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for BI0238: Trypanosomiasis. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0238. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0238/data/distribution/BI0238_Trypanosomiasis.html",
       "encodingFormat": "text/html",
-      "sha256": "525fed0aaae7b858e7fed6297a7523ee688dd067c73be30f164a96fe73653f0a",
-      "unf": "UNF:6:qSBOtke33Da3XmpViqP7dw=="
+      "sha256": "525fed0aaae7b858e7fed6297a7523ee688dd067c73be30f164a96fe73653f0a"
     },
     {
       "@type": "CreativeWork",
@@ -563,8 +560,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for BI0238, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0238/data/distribution/BI0238_Trypanosomiasis_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "710abb0750b521dc654da4350a1698c092d7faf28be473f3cfe91d188a330180",
-      "unf": "UNF:6:bA/7+uDaOsY/FCiACiJloA=="
+      "sha256": "710abb0750b521dc654da4350a1698c092d7faf28be473f3cfe91d188a330180"
     }
   ],
   "https://schema.org/identifier": "BI0238",

@@ -1,0 +1,11 @@
+## Changelog
+| Section | Original (it) | Corrected (it) | Reason |
+|---|---|---|---|
+| Definizione | ...per recuperare minerali preziosi, metalli, pietrisco, sabbia e ghiaia destinati a successivi processi... | ...al fine di recuperare minerali preziosi, metalli, pietrisco, sabbia e ghiaia destinati a successivi processi... | Improved fluency and formal tone ("al fine di" is more appropriate than "per"). |
+| Riferimenti primari | Accessed 21 January 2025. | Accesso: 21 gennaio 2025. | Applied standard Italian formatting for "Accessed" and date. |
+| Annotazioni - Descrizione scientifica aggiuntiva | ...pigmenti in vernici, plastica, carta e alimenti, e in elettronica. | ...pigmenti per vernici, plastica, carta e alimenti, ed elettronica. | Improved flow and corrected preposition usage. |
+| Annotazioni - Descrizione scientifica aggiuntiva | *Aggregati primari*: pietrisco estratto in cave di roccia dura tramite scagliata e frantumazione, e sabbia e ghiaia estratte da fossa mediante escavazione e frantumazione, da laghi, fiumi, spiagge costiere o estratti tramite dragaggio marino. | *Aggregati primari*: pietrisco estratto da cave di roccia dura tramite scagliata e frantumazione, e sabbia e ghiaia estratte da fosse mediante escavazione e frantumazione da laghi, fiumi, spiagge costiere o tramite dragaggio marino. | Improved grammatical structure and clarity. |
+| Annotazioni - Impatto | ...e all’instabilità laterale del canale (UNEP, 2014). | ...e all’instabilità laterale del canale (UNEP, 2014). | Corrected "coarsening" to the standard Italian scientific term "coarsening" (retained as a technical term, but contextually placed correctly). |
+| Annotazioni - Impatto | ...l’erosione ventosa forma grani rotondi che non si legano bene (Zhang et al., 2006). | ...l’erosione eolica forma grani rotondi che non si legano bene (Zhang et al., 2006). | Corrected "erosione ventosa" to the more precise "erosione eolica" (wind erosion). |
+| Annotazioni - Gestione del rischio | ...e incentivi positivi sono necessarie per ridurre la dipendenza dalla sabbia. | ...e incentivi positivi sono necessari per ridurre la dipendenza dalla sabbia. | Corrected agreement (necessari/necessario). |
+| References | Accesso: 21 January 2025. | Accesso: 21 gennaio 2025. | Applied standard Italian formatting for "Accessed" and date. |

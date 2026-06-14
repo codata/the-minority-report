@@ -94,8 +94,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0610/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -104,8 +103,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0610/data/distribution/MH0610_Snowmelt_Flooding_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "8532b7b44104f701940b6a6a8d62485cabcfec090f8d956b99f411e848f29270",
-      "description": "Clean plaintext extract of the original HIPS HTML document for MH0610, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:Bp/7aX+/REFBjdfw0DGf9w=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for MH0610, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -119,7 +117,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:a/QgEGG7SgjEPA+wLxRLCQ=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'nl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -133,7 +131,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:QszbpzRpg6I4Ilc6HKQqmQ=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'lv'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -147,7 +145,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:tNbRf5pLWeY3AP9qsGmggg=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'sl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -161,7 +159,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:wU55Nv1p8b3lA5ZvBIoUFA=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'hr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -175,7 +173,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:9hXg7U7xMU4UrfOJBKUh7g=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'sr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -189,7 +187,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:vE8jY+Yeeezx16Lvn7tFQw=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'fr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -203,7 +201,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:ky32rITYnj2DB5RXXDY4kA=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'sk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -217,7 +215,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:L5bJNFkBIIzUTulSyGW2RA=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'ru'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -231,7 +229,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:JnAWBPy+LK7YBqmm0aRW7A=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'et'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -245,7 +243,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:eYD4vYqmSEC6r87TGGHsaw=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'ch'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -259,7 +257,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:z/XNl3vSqFldKIsr0ecb9Q=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'it'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -273,7 +271,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:jILU03SujN2Ei1e8A9PNgA=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'ar'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -287,7 +285,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:+xq2A+kSJVW6ZAxI2c5oGw=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'tr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -301,7 +299,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:8vzcdKYtprvBIUizwQTQlA=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'no'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -315,7 +313,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Fh8sDzGUPvX5A+xDpp18Kw=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'es'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -329,7 +327,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Y8GjrghoqJek627ll/e+/Q=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'de'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -343,7 +341,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:y7zs8rQudON6ytlzg6c1ZA=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -357,7 +355,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:qM4+BvgzhDUSmoFSh3+ILA=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -371,7 +369,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:eaD3Vnq4Ys0P/ufnQW2qzQ=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'dk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -385,7 +383,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:6Muyl6lwFA29KrSvWc9MBg=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'fi'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -399,7 +397,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:HhxUT+KpyLcR3adoe9I16A=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'ua'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -413,7 +411,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:4Hg1ZwH9ogy0Oxs85liR9A=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0610 Hazard Information Profile in language 'lt'. Contains the authoritative translation of the original context."
     }
   ],
   "recordSet": [
@@ -553,8 +551,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for MH0610: Snowmelt Flooding. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0610. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0610/data/distribution/MH0610_Snowmelt_Flooding.html",
       "encodingFormat": "text/html",
-      "sha256": "3041cb84d5aeacab596e2c85892b60b345491ff11171017534f55492a52b0041",
-      "unf": "UNF:6:2KcqjhGbT821xQ2jPMsRHA=="
+      "sha256": "3041cb84d5aeacab596e2c85892b60b345491ff11171017534f55492a52b0041"
     },
     {
       "@type": "CreativeWork",
@@ -563,8 +560,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for MH0610, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0610/data/distribution/MH0610_Snowmelt_Flooding_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "8532b7b44104f701940b6a6a8d62485cabcfec090f8d956b99f411e848f29270",
-      "unf": "UNF:6:Bp/7aX+/REFBjdfw0DGf9w=="
+      "sha256": "8532b7b44104f701940b6a6a8d62485cabcfec090f8d956b99f411e848f29270"
     }
   ],
   "https://schema.org/identifier": "MH0610",

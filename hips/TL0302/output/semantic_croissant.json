@@ -94,8 +94,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0302/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -104,8 +103,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0302/data/distribution/TL0302_Pollution_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "612ab6819a7dfee284c3fb24f06115685982f2eaa27f4dfab467fdb9d7dd5718",
-      "description": "Clean plaintext extract of the original HIPS HTML document for TL0302, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:sLz5m7LuUHPuqn084YDXoQ=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for TL0302, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -119,7 +117,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:XY1qppyceP2qn0cs3g+vbA=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'nl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -133,7 +131,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:qI1xFeKg9g2plv5mck9Yqg=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'nl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -147,7 +145,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:UDND9+Dmxm4poYotAN75SA=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'lv'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -161,7 +159,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:qDAAZQ4OrTZ1ts/fL7+a1A=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'lv'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -175,7 +173,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:c4k5xWsDzKwyIVGj9wF8Rw=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'sl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -189,7 +187,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:DaTe1JPKWKpKex+ettlgvA=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'hr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -203,7 +201,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:KT+LM8eZAa8P6Y+ORCpbKg=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'sr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -217,7 +215,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:XLpEdMlcB5yMpO6yAslObw=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'fr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -231,7 +229,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:h+lBSCgpvpraSvSqcCDOtg=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'sk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -245,7 +243,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:NRxjpAql+jm+JhPzqwM98A=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'ru'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -259,7 +257,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:qxIfcYDq6dw32/CnFbGgpQ=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'ru'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -273,7 +271,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:mKGJMbNCYwxYyeGG/VYXlw=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'et'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -287,7 +285,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Hz8Bs8HgHv9b4nZ89/bMTg=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'et'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -301,7 +299,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:j2RBp/cIt3KwereXnPOIQw=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'ch'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -315,7 +313,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:yeFejruy2RQLMyph6Cn8Dg=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'ch'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -329,7 +327,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:bTtWC+LaJgxxEauWTQJkdQ=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'it'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -343,7 +341,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Tr8tluKo31owXPSL2XamYg=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'ar'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -357,7 +355,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:oAtu5butaLzAcrpEQ8yllw=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'tr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -371,7 +369,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:cQRGF8D3Nq9cgUMF8HTETg=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'no'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -385,7 +383,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:eY5O07JJ3k0Gt9HZY+360Q=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'es'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -399,7 +397,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:4q59Ijqwr5pCdoNJAG1X0A=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'es'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -413,7 +411,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:M/UiXgg0vfs+8Pp66gmZKw=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'de'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -427,7 +425,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:fw4kMp83azYdGzoA4VqbqA=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'de'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -441,7 +439,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:RtGYmfmOPD77rD/qnbbk4g=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -455,7 +453,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Y2es+dMJ42qrJAKribR0GQ=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -469,7 +467,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:fY7jV5AgyCCrnFVNlIiZGg=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'dk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -483,7 +481,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:QHAdegqv7YyuXukRtMq+UQ=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'fi'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -497,7 +495,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:MlgAiEFGqZgCyKCGLORykw=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'fi'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -511,7 +509,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:gs+UxNObOsgG8aPX/8YJEw=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'ko'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -525,7 +523,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:2JcvwYT52URaNd1lYTEisw=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'ko'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -539,7 +537,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Y4sm0CddTJiqGWoqr2NjgA=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'ua'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -553,7 +551,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:JEgoDcQFTeqoPuRHOQheAA=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'lt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -567,7 +565,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:FmypmVYCSKwt0qQ6JkR5hQ=="
+      "description": "Full markdown translation of the UNDRR/ISC TL0302 Hazard Information Profile in language 'lt'. Contains the authoritative translation of the original context."
     }
   ],
   "recordSet": [
@@ -707,8 +705,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for TL0302: Pollution. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0302. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0302/data/distribution/TL0302_Pollution.html",
       "encodingFormat": "text/html",
-      "sha256": "29111e78686d258d77ba441184c51b4605f8b37fa813dec4acd0f47c48c4d7c8",
-      "unf": "UNF:6:eFDnAjXZ8rTn4/zET7CjQA=="
+      "sha256": "29111e78686d258d77ba441184c51b4605f8b37fa813dec4acd0f47c48c4d7c8"
     },
     {
       "@type": "CreativeWork",
@@ -717,8 +714,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for TL0302, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0302/data/distribution/TL0302_Pollution_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "612ab6819a7dfee284c3fb24f06115685982f2eaa27f4dfab467fdb9d7dd5718",
-      "unf": "UNF:6:sLz5m7LuUHPuqn084YDXoQ=="
+      "sha256": "612ab6819a7dfee284c3fb24f06115685982f2eaa27f4dfab467fdb9d7dd5718"
     }
   ],
   "https://schema.org/identifier": "TL0302",

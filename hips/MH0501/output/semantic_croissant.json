@@ -94,8 +94,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0501/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -104,8 +103,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0501/data/distribution/MH0501_Heatwave_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "74ed70c801ad859167ddf2fa1ac4620ca37f90c5d375a75a91deb274125146e4",
-      "description": "Clean plaintext extract of the original HIPS HTML document for MH0501, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:gBD3J6vciMAy8xkUqY7f6w=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for MH0501, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -119,7 +117,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:CEgB6pawj2N+I07iXBuZOA=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'nl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -133,7 +131,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:QOd235eFvkihdriIdIg0Lg=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'lv'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -147,7 +145,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:OFcxkVspBj8SKlqLrYvbSw=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'sl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -161,7 +159,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:8HLEFwN0Q6mFvgeH+UE/cg=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'hr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -175,7 +173,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:OTvB1SiYqyORawnf3PiLOA=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'sr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -189,7 +187,7 @@
       "creator": {
         "@id": "model_gemini-3_5"
       },
-      "unf": "UNF:6:LUC2n276X/a5ZUkPyzA+4A=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'fr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -203,7 +201,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:fsbgSl+y9V7YLTJhzrrrDA=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'sk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -217,7 +215,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:9MQ/hP390lQvBgARrDPzQw=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'ru'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -231,7 +229,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:1mZ0tfJuFSlUBMEzx5kePw=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'et'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -245,7 +243,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:3cW9M9m0gyvMRRouoyoEog=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'ch'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -259,7 +257,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:cUVY90wS8fyI9zhl3CobRQ=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'it'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -273,7 +271,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:FgxUcuFy5ZgwC46HMsAE/g=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'tr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -287,7 +285,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:hETLLdj2IL8Lmh6gCmR1gw=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'no'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -301,7 +299,7 @@
       "creator": {
         "@id": "model_gemini-3_5"
       },
-      "unf": "UNF:6:PX47wwuXY/dJG9HxRHrGhw=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'es'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -315,7 +313,7 @@
       "creator": {
         "@id": "model_gemini-3_5"
       },
-      "unf": "UNF:6:eXx7OnEcx9beewc1203sxg=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'de'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -329,7 +327,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:75TSfvX0sPlr3eRrrRS+Hw=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -343,7 +341,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:lG0lPmBrDgFwFbxKUjiwrQ=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -357,7 +355,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Zk/E+teswzc793JJZtZ6aw=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'dk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -371,7 +369,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:oub9WYj0qDqibI9zvX6pCA=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'fi'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -385,7 +383,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:HwVfFbMf5zV23UogsRtlSw=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'ua'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -399,7 +397,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:0llB5bxOZh+UkLoXUBbrXw=="
+      "description": "Full markdown translation of the UNDRR/ISC MH0501 Hazard Information Profile in language 'lt'. Contains the authoritative translation of the original context."
     }
   ],
   "recordSet": [
@@ -539,8 +537,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for MH0501: Heatwave. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0501. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0501/data/distribution/MH0501_Heatwave.html",
       "encodingFormat": "text/html",
-      "sha256": "0758dea14d755f86b7030824cb2eb0bd8efe16c98f82d11a9be5452ce96bd8e2",
-      "unf": "UNF:6:ZwtwDa36S2cRelz0E9sYHA=="
+      "sha256": "0758dea14d755f86b7030824cb2eb0bd8efe16c98f82d11a9be5452ce96bd8e2"
     },
     {
       "@type": "CreativeWork",
@@ -549,8 +546,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for MH0501, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0501/data/distribution/MH0501_Heatwave_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "74ed70c801ad859167ddf2fa1ac4620ca37f90c5d375a75a91deb274125146e4",
-      "unf": "UNF:6:gBD3J6vciMAy8xkUqY7f6w=="
+      "sha256": "74ed70c801ad859167ddf2fa1ac4620ca37f90c5d375a75a91deb274125146e4"
     }
   ],
   "https://schema.org/identifier": "MH0501",

@@ -1,0 +1,1 @@
+combined with chemical elements, pollutants in the atmosphere, weak acid solution, reaches the Earth’s surface, atmospheric pollutants, chemical elements, acid rain, weak acid, acid rain history

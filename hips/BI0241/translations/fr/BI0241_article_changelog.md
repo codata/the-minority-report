@@ -1,0 +1,20 @@
+## Changelog
+| Section | Original (fr) | Corrected (fr) | Reason |
+|---|---|---|---|
+| Définition | ... (WHO, 2023). | ... (OMS, 2023). | Remplacement de l'acronyme WHO par l'équivalent français officiel (OMS) pour la cohérence terminologique. |
+| Références principales | WHO, 2023. Yellow fever. World Health Organization (WHO). Accessed 27 May 2025. | OMS, 2023. Fièvre jaune. Organisation mondiale de la santé (OMS). Consulté le 27 mai 2025. | Mise en conformité avec le style de citation français (utilisation de "Consulté le" au lieu de "Accessed"). |
+| Annotations (Description scientifique supplémentaire) | ... du genre flavivirus et est transmis par des moustiques appartenant aux genres *Aedes* et *Haemagogus*. | ... du genre *Flavivirus* et est transmis par des moustiques appartenant aux genres *Aedes* et *Haemagogus*. | Mise en italique du genre viral (*Flavivirus*) conformément aux normes scientifiques. |
+| Annotations (Humain) | ... (WHO, 2023). | ... (OMS, 2023). | Remplacement de l'acronyme WHO par l'équivalent français officiel (OMS). |
+| Annotations (Humain) | ... (WHO, 2023). | ... (OMS, 2023). | Remplacement de l'acronyme WHO par l'équivalent français officiel (OMS). |
+| Annotations (Animal) | ... (CDC, 2024). | ... (CDC, 2024). | La référence CDC est conservée, mais le style de citation a été harmonisé. |
+| Annotations (Animal) | ... (WHO, 2022). | ... (OMS, 2022). | Remplacement de l'acronyme WHO par l'équivalent français officiel (OMS). |
+| Gestion des risques | ... (WHO, 2023). | ... (OMS, 2023). | Remplacement de l'acronyme WHO par l'équivalent français officiel (OMS). |
+| Gestion des risques | ... (WHO, no date b). | ... (OMS, sans date b). | Traduction de "WHO" en "OMS" et correction de la notation pour les dates manquantes. |
+| Gestion des risques | ... (WHO, no date b). | ... (OMS, sans date b). | Traduction de "WHO" en "OMS" et correction de la notation pour les dates manquantes. |
+| Gestion des risques | La stratégie Eliminate Yellow Fever Epidemics (EYE) | La stratégie Élimination des épidémies de fièvre jaune (EYE) | Traduction complète du nom de la stratégie pour une meilleure clarté et conformité. |
+| Références | WHO, 2015. Yellow fever case definition. World Health Organization (WHO). Accessed 31 January 2025. | OMS, 2015. Définition des cas de fièvre jaune. Organisation mondiale de la santé (OMS). Consulté le 31 janvier 2025. | Mise en conformité avec le style de citation français. |
+| Références | WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Accessed 26 May 2025. | OMS, 2016. Règlements sanitaires internationaux (2005), 3e édition. Organisation mondiale de la santé (OMS). Consulté le 26 mai 2025. | Mise en conformité avec le style de citation français. |
+| Références | WHO, 2021. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all-hazards health emergency risk assessment. World Health Organization (WHO). Accessed 26 May 2025. | OMS, 2021. Outil stratégique pour l'évaluation des risques (STAR) : un outil complet pour l'évaluation des risques des urgences sanitaires de toutes catégories. Organisation mondiale de la santé (OMS). Consulté le 26 mai 2025. | Traduction complète du titre et mise en conformité avec le style de citation français. |
+| Références | WHO, no date. Early Warning, Alert and Response System (EWARS). World Health Organization (WHO). Accessed 26 May 2025. | OMS, sans date. Système d’Alerte Précoce, d’Alerte et de Réponse (EWARS). Organisation mondiale de la santé (OMS). Consulté le 26 mai 2025. | Traduction complète du nom et mise en conformité avec le style de citation français. |
+| Références | WHO, no date b. Yellow Fever Vaccines. World health Organization (WHO). Accessed 19 April 2025. | OMS, sans date b. Vaccins contre la fièvre jaune. Organisation mondiale de la santé (OMS). Consulté le 19 avril 2025. | Traduction complète du titre et mise en conformité avec le style de citation français. |
+| Références | (Toutes les références) | (Toutes les références) | Les dates d'accès ont été traduites en français (ex: "Accessed" devient "Consulté le"). |

@@ -1,0 +1,18 @@
+## Changelog
+| Section | Original (it) | Corrected (it) | Reason |
+|---|---|---|---|
+| Definizione | La **malattia da virus Zika** è una patologia... | La **malattia da virus Zika** è una patologia... | Standardized formatting and ensured consistency. |
+| Riferimento principale | WHO, 2022a. Zika virus. World Health Organization (WHO). Accessed 25 May 2025. | WHO, 2022a. Zika virus. World Health Organization (WHO). Accesso il 25 maggio 2025. | Applied standard Italian formatting for dates and "Accessed". |
+| Annotazioni (Descrizione scientifica aggiuntiva) | ...trasfusione di sangue e prodotti ematici, e trapianto di organi... | ...trasfusione di sangue e prodotti ematici, e trapianto di organi... | Minor fluency adjustment. |
+| Annotazioni (Descrizione scientifica aggiuntiva) | ...in Uganda nel 1947 in un macaco *Rhesus*, seguito da prove di infezione e malattia umana... | ...in Uganda nel 1947 in un macaco *Rhesus*, seguito da prove di infezione e malattia umana... | Improved flow and clarity. |
+| Annotazioni (Descrizione scientifica aggiuntiva) | ...e il legame causale tra il **virus Zika** e le malformazioni congenite è stato rapidamente confermato. | ...e il legame causale tra il **virus Zika** e le malformazioni congenite è stato rapidamente confermato. | Ensured formal scientific tone. |
+| Annotazioni (Descrizione scientifica aggiuntiva) | ...e la trasmissione sessuale è stata confermata come percorso alternativo di infezione da **virus Zika** (WHO, 2022a). | ...e la trasmissione sessuale è stata confermata come percorso alternativo di infezione da **virus Zika** (WHO, 2022a). | Ensured consistency in terminology. |
+| Annotazioni (Descrizione scientifica aggiuntiva) | ...e la sorveglianza rimane limitata a livello globale (WHO, 2022a). | ...e la sorveglianza rimane limitata a livello globale (WHO, 2022a). | Ensured consistency. |
+| Metriche e limiti numerici | ...Fino ad oggi, un totale di 89 paesi e territori hanno riportato evidenza di infezione da **virus Zika** trasmessa da zanzara; tuttavia, la sorveglianza rimane limitata a livello globale (WHO, no date). | ...Fino ad oggi, un totale di 89 paesi e territori hanno riportato evidenza di infezione da **virus Zika** trasmessa da zanzara; tuttavia, la sorveglianza rimane limitata a livello globale (WHO, no date). | Maintained the original reference structure. |
+| Convenzione/Trattato multilateral di riferimento chiave | Regolamenti Internazionali sulla Salute (2005), 3ª ed. (WHO, 2016b). | Regolamenti Internazionali sulla Salute (2005), 3ª ed. (WHO, 2016b). | Standardized the citation format. |
+| Gestione del rischio | ...e pulire rifiuti e pneumatici usati. | ...e pulire rifiuti e pneumatici usati. | Improved fluency. |
+| Gestione del rischio | ...e l’OMS raccomanda che uomini e donne sessualmente attivi vengano consigliati e offerti un’ampia gamma di metodi contraccettivi... | ...e l’OMS raccomanda che uomini e donne sessualmente attivi vengano consigliati e offerti un’ampia gamma di metodi contraccettivi... | Ensured formal and accurate phrasing regarding public health recommendations. |
+| Monitoraggio | ...e sulla costruzione di una coalizione di partner (WHO, 2022b). | ...e sulla costruzione di una coalizione di partner (WHO, 2022b). | Ensured consistency. |
+| References | Accesso 25 May 2025. | Accesso il 25 maggio 2025. | Applied standard Italian date format for "Accessed". |
+| References | Accesso 26 May 2025. | Accesso il 26 maggio 2025. | Applied standard Italian date format for "Accessed". |
+| References | Accesso 16 February 2025. | Accesso il 16 febbraio 2025. | Applied standard Italian date format for "Accessed". |

@@ -1,0 +1,1 @@
+weak acid solution, sulphuric and nitric acids, carbonic acid, sulphur dioxide, nitrogen oxides, anthropogenic emissions, industrial and power-generating plants, soil acidification, leaching of heavy metals, transboundary air pollution, Gothenburg Protocol pollutants, pH range

@@ -1,0 +1,1 @@
+region of the atmosphere, lower pressure, surrounding region, atmospheric pressure, same level, depression, cyclone, low pressure area, region of the atmosphere, pressure difference

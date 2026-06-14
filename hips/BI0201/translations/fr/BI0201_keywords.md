@@ -1,0 +1,1 @@
+Bacillus anthracis, spore-forming bacteria, cutaneous anthrax, gastrointestinal anthrax, inhalational anthrax, zoonosis, handling infected carcasses, industrial anthrax, enzootic area, carcass disposal, anthrax outbreak

@@ -1,0 +1,1 @@
+Asphyxiant gases, displacing oxygen from air, cause unconsciousness or death by suffocation, simple asphyxiants, lowering the percentage of oxygen in air, oxygen in air, high concentrations, percentage of oxygen, displacing oxygen, harmful to humans

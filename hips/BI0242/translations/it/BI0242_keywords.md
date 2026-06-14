@@ -1,0 +1,1 @@
+Aedes mosquitoes, A. aegypti transmission, mosquito-borne virus, mother to foetus transmission, congenital malformations, microcephaly, congenital Zika syndrome, Guillain-Barré syndrome, vector control, sexual transmission, blood products transfusion, fetal loss, stillbirth, preterm birth, public health emergency of international concern

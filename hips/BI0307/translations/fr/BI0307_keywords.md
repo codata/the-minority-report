@@ -1,0 +1,1 @@
+vector-borne pox disease, domestic cattle, Asian water buffalo, skin nodules, body surfaces, skin nodules on all body surfaces, skin nodules on the udder, pox disease of domestic cattle, skin nodules on all body surfaces, appearance of skin nodules

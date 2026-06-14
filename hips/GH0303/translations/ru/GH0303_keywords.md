@@ -1,0 +1,1 @@
+gravitational mass movements down a slope in the form of a fluid, fan-shaped deposit, debris flows and earth flows, mud flow, rock avalanche, landslide material, fragmented rock, entrainment of slope material, debris avalanche, channelized debris flow, bulk of the rock fragments move together

@@ -1,0 +1,1 @@
+infectious and contagious respiratory disease, Mycoplasma mycoides subsp. mycoides (Mmm), livestock production, mortality rate of up to 50%,subacute or unapparent infections,chronic carriers,direct contact transmission,inhaling droplets disseminated by coughing,hyperacute form,acute form,subacute form,chronic form,sequestrum,stamping-out policy,farm biosecurity

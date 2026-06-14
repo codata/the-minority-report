@@ -1,0 +1,1 @@
+infectious disease, bacterium Corynebacterium diphtheriae, toxin they produce, vaccine-preventable disease, throat and upper airways, epidemics, life-threatening, severe infectious disease, Corynebacterium diphtheriae, infectious disease, potential for epidemics

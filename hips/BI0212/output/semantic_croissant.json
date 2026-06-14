@@ -94,8 +94,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0212/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -104,8 +103,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0212/data/distribution/BI0212_Hepatitis_B_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "0157e12d8ec64be0e9d0f88632dba0be8a8f30bc0b9cb3e1d5cd9e268accc925",
-      "description": "Clean plaintext extract of the original HIPS HTML document for BI0212, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:GhLdneoxieyD5c9I22fJcA=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for BI0212, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -119,7 +117,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:1Fcz7jguZScO206NOexG+Q=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'nl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -133,7 +131,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:h1N4wc0fAPYJsOu6aQE1rg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'nl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -147,7 +145,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:4g/RzsJoLl5M8oxH3IGfKw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'lv'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -161,7 +159,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:uW/CSBajmzqTaClQsOJQAw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'lv'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -175,7 +173,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Wx4s0yZra9c5LtcXrb3XvA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'sl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -189,7 +187,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Bi/iWGbD+m27BzKXO/zjyg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'hr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -203,7 +201,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:YDLzvGoPdUvgL3wJOYfbJw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'sr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -217,7 +215,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:98We1vGz+D5sV5pz5jP6IA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'fr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -231,7 +229,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:2E29S3fE9VbwClS0E/9K7A=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'sk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -245,7 +243,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:S30fU8zZBEw+nbqPv8zv7Q=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'ru'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -259,7 +257,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:lYlOeF1PY8/XjVkW27M6HQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'et'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -273,7 +271,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:5dXJvphf6Amw9HdcInVCrg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'et'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -287,7 +285,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:4tZlfJFN3NTaZUF7RQpusQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'ch'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -301,7 +299,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:VY0kVeguga+InHLxg4QLSQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'ch'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -315,7 +313,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:jM15qtu0jmtHFz8KEVzwUA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'it'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -329,7 +327,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:2orl+c/1TZhtOwPK4JKPCA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'ar'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -343,7 +341,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:j6o5bHOCC9n81TRMJP0Twg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'tr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -357,7 +355,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:fgw929oZk890aawgtCxBuA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'no'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -371,7 +369,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:dxvCBovsTw2JLOisid5w/A=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'no'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -385,7 +383,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:xrowzlk+9FoUHayn5W6LWQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'es'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -399,7 +397,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:1VAkyBvYwpymIGoPpLbX4w=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'de'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -413,7 +411,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:BFMWGhdsePOhPu79qqELAw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'de'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -427,7 +425,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:AILHjyrfLMLjIumLAS76iQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -441,7 +439,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:5HTqB0t/s6TcyVlgVm0bRg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -455,7 +453,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:pZTR6HkwbYE5JscdoEY1WQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'dk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -469,7 +467,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:tlFvAJO/dkfGuxixYn/r+g=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'dk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -483,7 +481,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:aKd186QtfjS5OqpDJr/l6g=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'fi'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -497,7 +495,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:YK3bK3fbOL93dd6dUcYslw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'ko'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -511,7 +509,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:IVntPCyfAsLobgzJpBk2Yg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'ko'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -525,7 +523,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:83l8R08xII+DwZYWOK785Q=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'ua'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -539,7 +537,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:17m2aku6U7jc18G+UffReg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'lt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -553,7 +551,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:qC5OBktQqOch64pMH330yg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0212 Hazard Information Profile in language 'lt'. Contains the authoritative translation of the original context."
     }
   ],
   "recordSet": [
@@ -693,8 +691,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for BI0212: Hepatitis B. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0212. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0212/data/distribution/BI0212_Hepatitis_B.html",
       "encodingFormat": "text/html",
-      "sha256": "d0b267901619110abef356d9560fd6d82568cfe52500d6c5113617ef5b0721e1",
-      "unf": "UNF:6:Vvy2WMmdCUPg7/A5+RlcIw=="
+      "sha256": "d0b267901619110abef356d9560fd6d82568cfe52500d6c5113617ef5b0721e1"
     },
     {
       "@type": "CreativeWork",
@@ -703,8 +700,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for BI0212, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0212/data/distribution/BI0212_Hepatitis_B_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "0157e12d8ec64be0e9d0f88632dba0be8a8f30bc0b9cb3e1d5cd9e268accc925",
-      "unf": "UNF:6:GhLdneoxieyD5c9I22fJcA=="
+      "sha256": "0157e12d8ec64be0e9d0f88632dba0be8a8f30bc0b9cb3e1d5cd9e268accc925"
     }
   ],
   "https://schema.org/identifier": "BI0212",

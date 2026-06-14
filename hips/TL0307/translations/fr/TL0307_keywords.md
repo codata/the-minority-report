@@ -1,0 +1,1 @@
+ground collapse, subsidence, fault reactivation and fissures, mine water rebound, acid mine water drainage, mine gas emissions, mining-induced landslides, mining-induced seismicity, toxic gas leaks, silicosis or pneumoconiosis, mercury exposure, cyanide use, dust and fine particles, hearing loss, explosion risks

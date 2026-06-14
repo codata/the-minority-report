@@ -1,0 +1,1 @@
+acute viral haemorrhagic disease,arbovirus of the flavivirus genus,Aedes and Haemogogus genus,sylvatic yellow fever,urban yellow fever,jaundice,Polymerase chain reaction testing,vector surveillance and control,mosquito breeding sites,yellow fever vaccination,transmission cycles

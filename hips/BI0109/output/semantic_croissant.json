@@ -94,8 +94,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0109/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -104,8 +103,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0109/data/distribution/BI0109_Viral_Haemorrhagic_Fevers_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "29932317df83eb68359f262cfa126acd295718b1ee1128fea2b1b283a61c096e",
-      "description": "Clean plaintext extract of the original HIPS HTML document for BI0109, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:xPA4TZXI4BaIkF4i1j9HDg=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for BI0109, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -119,7 +117,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Sb7nwoKHGVhflz4wH1CjfA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'nl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -133,7 +131,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:SDk74Ylhns/UVqbTBrrCjQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'lv'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -147,7 +145,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:qoShrWLT+CSa4aUV7se75w=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'sl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -161,7 +159,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:jT0vUpn8Azi540/K62tmpA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'hr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -175,7 +173,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:4nJQUIcsMEpykwM9Fig7dQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'sr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -189,7 +187,7 @@
       "creator": {
         "@id": "model_gemini-3_5"
       },
-      "unf": "UNF:6:RbYsaV6oZtg2EQU/wyY/mg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'fr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -203,7 +201,7 @@
       "creator": {
         "@id": "model_gemini-3_5"
       },
-      "unf": "UNF:6:8KGNKXdZ9rT6Sn6EJIc8wQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'fr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -217,7 +215,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:6+8I3twCNf7y+QSMZd9U2g=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'sk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -231,7 +229,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:vAN/eMmmc02SD4e2aab2rA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'ru'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -245,7 +243,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:jBGi9udNJA5m1eLrsPpoZQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'et'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -259,7 +257,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:/HVkZfsL92aB61UT65ljWA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'ch'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -273,7 +271,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:BNzLvbEuryG63OVJgDSf1w=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'it'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -287,7 +285,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:0iv822TcRPr7n6C14G3J2A=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'ar'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -301,7 +299,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:KCTvyqpzF9GwsPuO2RQqjg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'tr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -315,7 +313,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:H3pZ7vCnM5YHUxhjnnjO7Q=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'no'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -329,7 +327,7 @@
       "creator": {
         "@id": "model_gemini-3_5"
       },
-      "unf": "UNF:6:Fe1nbRmtj0xKC0k0OXBnGw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'es'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -343,7 +341,7 @@
       "creator": {
         "@id": "model_gemini-3_5"
       },
-      "unf": "UNF:6:PCFGm+8bSXvfD25sWSf/dw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'de'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -357,7 +355,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:FZmWuRnz2fgVVTbPac6kYw=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -371,7 +369,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:rK6fJWX4wqYAuMokbNqQEQ=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -385,7 +383,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:GH6nXrdHsjEEMnZwKrX08Q=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'dk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -399,7 +397,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:URFRioH13EhjPjzhqzRcEA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'dk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -413,7 +411,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:CXIRlX5MTT2wCXQxAjg3Mg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'fi'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -427,7 +425,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Rh+YmocHEmRa4coWcbwx6Q=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'ko'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -441,7 +439,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Zyxi1KWPjEuOFzeKLsS7Pg=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'ko'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -455,7 +453,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:qTm7uEHHsixj+Rc6JuM9+A=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'ua'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -469,7 +467,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:KAt9T4O0Eaz7PGOMRNSNjA=="
+      "description": "Full markdown translation of the UNDRR/ISC BI0109 Hazard Information Profile in language 'lt'. Contains the authoritative translation of the original context."
     }
   ],
   "recordSet": [
@@ -609,8 +607,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for BI0109: Viral Haemorrhagic Fevers. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0109. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0109/data/distribution/BI0109_Viral_Haemorrhagic_Fevers.html",
       "encodingFormat": "text/html",
-      "sha256": "776dbc8754f499aadf539e19dfcd51a2d575594b32524f484b60d4bd42f73fe7",
-      "unf": "UNF:6:wuilHPRlPG9Q/HkJ7uKuXg=="
+      "sha256": "776dbc8754f499aadf539e19dfcd51a2d575594b32524f484b60d4bd42f73fe7"
     },
     {
       "@type": "CreativeWork",
@@ -619,8 +616,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for BI0109, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0109/data/distribution/BI0109_Viral_Haemorrhagic_Fevers_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "29932317df83eb68359f262cfa126acd295718b1ee1128fea2b1b283a61c096e",
-      "unf": "UNF:6:xPA4TZXI4BaIkF4i1j9HDg=="
+      "sha256": "29932317df83eb68359f262cfa126acd295718b1ee1128fea2b1b283a61c096e"
     }
   ],
   "https://schema.org/identifier": "BI0109",

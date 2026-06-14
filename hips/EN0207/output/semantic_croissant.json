@@ -94,8 +94,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/EN0207/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -104,8 +103,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/EN0207/data/distribution/EN0207_Loss_of_Mangroves_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "e52f4eb1d2fc238d6fcf27ef07f2eb7ed3f3f7a4f90f7d8452fefd9fb2c69ccc",
-      "description": "Clean plaintext extract of the original HIPS HTML document for EN0207, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:BZOz5ujyfPTkH29e6KHSoQ=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for EN0207, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -119,7 +117,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:14UxQAGHffumqB4W87KOXA=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'nl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -133,7 +131,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:OrtC5dA5hVYmjFRAjg1kWA=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'lv'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -147,7 +145,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:vOlCfpg4ELXGR84+v6TtAA=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'sl'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -161,7 +159,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:A5oqJcIoQepc8mKIlV2bYw=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'hr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -175,7 +173,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:lMfNDY+4tf2zgjC4vRWpwg=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'sr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -189,7 +187,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:PDNX/MvP/NQ51A/aCEI3bg=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'fr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -203,7 +201,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:q2zwUnV+wtmcfaXx8OYN/g=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'sk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -217,7 +215,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:G2wlvc6B33dGBZ8MM2gYsg=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'ru'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -231,7 +229,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:bTp6RP4NxBo4m33s7m0/HA=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'et'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -245,7 +243,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:kUPrKKMwwBX2MVXJb3YPuA=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'ch'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -259,7 +257,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:nOkn90EExOb1szFH9aQtHw=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'it'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -273,7 +271,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:dbgvp+sNtUbQ8+jFlWsgog=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'ar'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -287,7 +285,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:rXSnrM7nutYa/LcM3VigzQ=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'tr'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -301,7 +299,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Wo1dJglpJkebabNeBeFxEA=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'no'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -315,7 +313,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Qipw6R2q69xX5TFYxbYYug=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'es'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -329,7 +327,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:lj6BkIp1OdZQbmYctovULw=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'de'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -343,7 +341,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:YeLUrKwSkU19jcJ8flStMQ=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -357,7 +355,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:B2J6sx0SiaTFDd1+s9FWSw=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'pt'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -371,7 +369,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:4dX/L+8cTLRHQvJWAeuBBw=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'dk'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -385,7 +383,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:A8vspeUnrDj4O9YbxrkXHg=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'fi'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -399,7 +397,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Goe3njU9kTerB33zt8VNDw=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'ua'. Contains the authoritative translation of the original context."
     },
     {
       "@type": "cr:FileObject",
@@ -413,7 +411,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:yakRFpsZIUPBNfsoJgoAZA=="
+      "description": "Full markdown translation of the UNDRR/ISC EN0207 Hazard Information Profile in language 'lt'. Contains the authoritative translation of the original context."
     }
   ],
   "recordSet": [
@@ -553,8 +551,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for EN0207: Loss of Mangroves. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0207. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/EN0207/data/distribution/EN0207_Loss_of_Mangroves.html",
       "encodingFormat": "text/html",
-      "sha256": "e780350afd1d481f1419ff3c2622876f3dcf51ef02f9e676cfdbfc4ff1cf5cf2",
-      "unf": "UNF:6:Ticf5lQx8RAhBWq9QV/sRg=="
+      "sha256": "e780350afd1d481f1419ff3c2622876f3dcf51ef02f9e676cfdbfc4ff1cf5cf2"
     },
     {
       "@type": "CreativeWork",
@@ -563,8 +560,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for EN0207, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/EN0207/data/distribution/EN0207_Loss_of_Mangroves_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "e52f4eb1d2fc238d6fcf27ef07f2eb7ed3f3f7a4f90f7d8452fefd9fb2c69ccc",
-      "unf": "UNF:6:BZOz5ujyfPTkH29e6KHSoQ=="
+      "sha256": "e52f4eb1d2fc238d6fcf27ef07f2eb7ed3f3f7a4f90f7d8452fefd9fb2c69ccc"
     }
   ],
   "https://schema.org/identifier": "EN0207",

@@ -1,0 +1,1 @@
+mud flows, rock avalanches, debris flows, earth flows, debris avalanche, channelized debris flow, hill slope debris flow, flow-like motion, fragmented rock, bulk of the rock fragments, debris basin/catchment basin, avalanche tunnels, deformable wire-mesh

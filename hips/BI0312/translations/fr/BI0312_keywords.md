@@ -1,0 +1,1 @@
+viral disease of wild and domesticated ruminants and pigs, oculonasal discharges, necrotic stomatitis, gastroenteritis, paramyxovirus in the genus Morbillivirus, domestic cattle and buffalos, cloven-hoofed animals, cattle plague, herd immunity, trade ban, Global Rinderpest Action Plan, bioterrorism, surveillance systems

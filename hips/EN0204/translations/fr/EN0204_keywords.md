@@ -1,0 +1,1 @@
+non-native to a forest ecosystem,socio-cultural economic environmental harm,insect pests,woody species,invasive plant spread pathways,horticulture spread,forestry spread,agroforestry spread,invasive vertebrate herbivores,ecosystem health alteration,nutrient cycling disruption,phylum Ascomycota pathogens,invasive alien species
