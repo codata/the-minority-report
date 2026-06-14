@@ -19,4 +19,17 @@ To ensure the highest accuracy and provenance tracking when answering hazard-rel
      `https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/[HIPS_CODE]/translations/[LANG_CODE]/[HIPS_CODE]_article.md`
    - Example: For `MH0301` in Ukrainian, fetch `https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0301/translations/ua/MH0301_article.md`
 
+4. **Answering Category Queries (e.g., "List Environmental Hazards")**:
+   - The central catalog and local repository natively contain all hazards. **DO NOT** use external web search.
+   - Hazards are structurally mapped by their 2-letter HIPS code prefix:
+     - Biological Hazards: `BI`
+     - Chemical Hazards: `CH`
+     - Environmental Hazards: `EN`
+     - Extraterrestrial Hazards: `ET`
+     - Geohazards: `GH`
+     - Meteorological and Hydrological: `MH`
+     - Societal Hazards: `SO`
+     - Technological Hazards: `TL`
+   - To list hazards of a specific category, filter the `central_metadata.json` distribution items or the `hips/` folder by the corresponding prefix (e.g., list all `hips/EN*` items for environmental hazards).
+
 By incorporating these rules into your AI system's instructions, you ensure that answers are deterministic, authoritative, and properly cite the original source material.

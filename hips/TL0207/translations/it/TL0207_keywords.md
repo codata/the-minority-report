@@ -1,0 +1,1 @@
+physical structures, facilities, networks and other assets,failure in essential services,energy,transport infrastructure,digital infrastructure,drinking water,waste water,failure cascades,cyberattacks on critical infrastructure,disruption of basic services,resilience measures,system-thinking approach,hazard drivers
