@@ -1,0 +1,1 @@
+Widespread and heavy infestations of crops and natural vegetation,plague of locusts,locust swarms,transboundary pest,locust preventive control strategy,ground surveillance and impact assessments,early warning and forecasts,ground control operations (hopper-stage locusts),air control operations (adult-stage locusts),recession area,food security challenges,mortality of livelihoods

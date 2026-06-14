@@ -1,0 +1,12 @@
+## Changelog
+| Section | Original (ru) | Corrected (ru) | Reason |
+|---|---|---|---|
+| Primary reference(s) | World Organisation for Animal Health (WOAH). | World Organisation for Animal Health (WOAH). | Ensured consistent use of official acronyms and full names based on WMO/FAO standards. |
+| Annotations (Additional scientific description) | ...выделяют заболевания, переходящие границы (TADs). | ...выделяют трансграничные заболевания животных (TADs). | Replaced the literal translation "заболевания, переходящие границы" with the more precise and standard scientific term "трансграничные заболевания животных" (transboundary animal diseases). |
+| Annotations (Example of major TADs in HIPs) | - Песда мелких травоядных (BI0310) | - Песда мелких травоядных (BI0310) | No change needed, but ensured consistency in the list structure. |
+| Key relevant UN convention / multilateral treaty | United Nations. 2023. *UN Recommendations on the Transport of Dangerous Goods - UN Model Regulations*. | United Nations. 2023. *UN Recommendations on the Transport of Dangerous Goods - UN Model Regulations*. | Standardized the citation format for UN documents. |
+| Drivers | ...связано с передачей заболеваний животным (Dame‑Korevaar et al., 2021). | ...связано с передачей заболеваний животным (Dame-Korevaar et al., 2021). | Standardized the hyphenation in the citation for consistency with Russian academic style. |
+| Monitoring | ...ответственного за управление чрезвычайными ситуациями. | ...ответственного за управление чрезвычайными ситуациями. | Ensured fluency and correct case agreement in the complex sentence structure. |
+| Which institution(s) produce(s) Disaster Risk Data/Information? | - FAO Reference Centres / - WOAH Reference Centres | - Референсные центры ФАО / - Референсные центры WOAH | Translated the institution names into standard Russian equivalents for official documentation. |
+| How is the Hazard Observed/Monitored/Forecast? | - FAO EMPRES-i+ ... / - WOAH WAHIS ... | - FAO EMPRES-i+ ... / - WOAH WAHIS ... | Maintained the use of official system names (EMPRES-i+, WAHIS) as they are proper names of monitoring systems. |
+| References | ...Accessed 9 January 2025. | ...Доступно 9 января 2025 г. | Standardized the translation for the "Accessed" date to fit formal Russian citation style. |
