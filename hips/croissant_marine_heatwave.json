@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Marine Heatwave",
   "description": "A period of extreme warm near-sea surface temperature (SST) that persists for days to months and can extend up to thousands of kilometres (IPCC, 2019).",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

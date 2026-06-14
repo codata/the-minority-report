@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Debris and earth (mud)flows and rock avalanches",
   "description": "Flows are gravitational mass movements down a slope in the form of a fluid. Flows often leave behind a distinctive, fan-shaped deposit where the landslide material has stopped moving (cf. British G...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

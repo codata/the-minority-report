@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Water Supply Failure",
   "description": "Water supply failure is the physical shortage or scarcity in access of water supply due to the failure of institutions to ensure a regular supply or due to a lack of adequate infrastructure (adapte...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

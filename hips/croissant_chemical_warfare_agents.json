@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Chemical Warfare Agents",
   "description": "Chemical agents or \u2018chemical warfare agents\u2019 (chemical weapons) are chemicals, including dual -use chemicals, used to cause intentional death or harm through their toxic properties, and are a major...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

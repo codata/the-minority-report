@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Crimean-Congo Haemorrhagic Fever",
   "description": "Crimean-Congo haemorrhagic fever (CCHF) is a tick-borne viral infection caused by the CCHF virus. It causes severe viral haemorrhagic fever outbreaks and epidemics. CCHF outbreaks have a case fatal...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

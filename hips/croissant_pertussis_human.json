@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Pertussis (Human)",
   "description": "Pertussis is a highly contagious disease, which can be fatal, of the respiratory tract caused by the bacteriumBordetella pertussis(WHO, no date a).",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Infectious Animal Diseases (Not Zoonoses)",
   "description": "Non-zoonotic infectious animal diseases are not shared between animals and humans (WHO, FAO, & OIE, 2019).",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

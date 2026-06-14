@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Heavy Metals and Other Trace Elements",
   "description": "Heavy metals are metallic trace elements with either high relative atomic weights or occurring in materials with high densities. \u00a0Trace Elements is the term used for elements that are generally fou...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

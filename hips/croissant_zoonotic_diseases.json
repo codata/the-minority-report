@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Zoonotic Diseases",
   "description": "Zoonotic diseases, or zoonoses, are diseases shared between animals \u2013 including livestock, wildlife, and pets \u2013 and people. They can pose serious risks to both animal and human health and may have ...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

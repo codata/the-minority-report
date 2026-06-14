@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Invasive Species, Including Weeds",
   "description": "\u2018Invasive species\u2019, also known as \u2018alien invasive species\u2019, are species whose introduction, establishment and spread into new areas threaten ecosystems, habitats or other species and cause social, ...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

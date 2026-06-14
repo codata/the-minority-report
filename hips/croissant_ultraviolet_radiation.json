@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Ultraviolet Radiation",
   "description": "Ultraviolet radiation (UVR) exposure, either from the sun or from artificial sources such as sunbeds, is primarily responsible for skin cancers. Globally in 2020, over 1.5 million cases of skin can...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

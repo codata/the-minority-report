@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Contagious Bovine Pleuropneumonia (CBPP)",
   "description": "Contagious bovine pleuropneumonia (CBPP) is an infectious and contagious respiratory disease of cattle and water buffalo caused byMycoplasma mycoidessubsp.mycoides(Mmm) with a major impact on lives...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

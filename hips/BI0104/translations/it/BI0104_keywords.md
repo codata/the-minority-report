@@ -1,0 +1,1 @@
+contamination of food and consumption chain, pathogenic bacteria, foodborne pathogens, mycotoxins, Persistent organic pollutants (POPs), heavy metals, foodborne parasites, prion diseases, enterohaemorrhagic Escherichia coli, Listeria infections, Norovirus, foodborne viruses, mycotoxins and aflatoxin, Vibrio cholerae, foodborne illnesses

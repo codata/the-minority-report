@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Shigellosis",
   "description": "Shigellosis is an acute invasive enteric infection caused by bacteria belonging to the genus Shigella and is estimated to cause at least 80 million cases of bloody diarrhoea and 700,000 deaths each...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Leprosy",
   "description": "Leprosy is a curable infectious disease, endemic in many countries, caused by the bacteriumMycobacterium leprae(M. leprae). It mainly affects the skin, peripheral nerves, mucosa of the upper respir...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Groundwater Flooding",
   "description": "A groundwater flood is the emergence of groundwater at the ground surface away from perennial river channels or the rising of groundwater into man-made ground, under conditions where the \u2018normal\u2019 r...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

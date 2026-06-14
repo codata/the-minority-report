@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Gravitational Mass Movement (\u2018Landslide\u2019)",
   "description": "A gravitational mass movement (\u2018landslide\u2019) is the downslope movement of soil, rock and organic materials under the effects of gravity, which occurs when the gravitational driving forces exceed the...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

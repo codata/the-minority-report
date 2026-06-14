@@ -1,0 +1,1 @@
+persistent, manufactured or processed solid material, marine and coastal environment, marine litter, material lost at sea in bad weather, derelict fishing gear and vessels, discarded consumer plastics, microplastics, anthropogenic nanoparticles, land-based sources, accumulation in subtropical convergence zones or gyres, floating debris, breakdown of plastics in marine debris

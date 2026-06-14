@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Submarine Gravitational Mass Movement (\u2018Landslide\u2019)",
   "description": "A submarine gravitational mass movement (\u2018Landslide\u2019) is\u00a0 the downslope movement of sediment or rock due to gravity, occurring when the downslope forces exceed the sediment's resistance to movement...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

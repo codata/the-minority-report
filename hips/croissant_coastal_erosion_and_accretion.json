@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Coastal Erosion and Accretion",
   "description": "Coastal erosion is the process of removal of material at the shoreline which leads to the loss of land as the shoreline retreats landward.\u00a0 Coastal accretion is the product of deposition of materia...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

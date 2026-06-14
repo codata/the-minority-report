@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Extra-tropical Cyclone",
   "description": "An extra-tropical cyclone is a low-pressure system, which develops in latitudes outside the tropics (WMO, 1992).",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

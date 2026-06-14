@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Contagious Caprine Pleuropneumonia (CCPP)",
   "description": "Contagious caprine pleuropneumonia (CCPP) is a disease affecting goats and some wild ruminant species, caused byMycoplasma capricolum subsp. capripneumoniae(Mccp). In goats, it is manifested by ano...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Seiche",
   "description": "Seiches are sea-level oscillations at the resonant frequency of enclosed bodies of water (WMO, 2011).",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

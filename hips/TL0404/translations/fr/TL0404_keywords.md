@@ -1,0 +1,1 @@
+Significant accident, Extensive disruption to traffic, Collision of rail vehicles, Derailment, Accidents to persons caused by rolling stock in motion, Fires in rolling stock, Level crossing accidents, Accident involving the transport of dangerous goods, Serious injury accident, Injury accident, Rail passenger, Employees or contractor, Level crossing user

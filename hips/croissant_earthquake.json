@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Earthquake",
   "description": "Earthquake is a term used to describe the sudden slip on a fault and the ground shaking that occurs from the radiated seismic energy during the slipping event. The sudden slip can be caused by stre...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

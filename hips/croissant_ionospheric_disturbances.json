@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Ionospheric Disturbances",
   "description": "Ionospheric disturbances refer to the state of the ionosphere characterized by irregular variations of ionospheric parameters without a systematic pattern. These disturbances can be of different sp...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

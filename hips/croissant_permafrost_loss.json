@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Permafrost Loss",
   "description": "Permafrost is defined as ground that remains frozen at or below 0\u00b0C for a minimum of two consecutive years. Permafrost loss, also known as permafrost thaw, is the progressive loss of ground ice in ...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

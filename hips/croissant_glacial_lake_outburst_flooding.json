@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Glacial Lake Outburst Flooding",
   "description": "A \u2018glacial lake outburst flood\u2019 is a phrase used to describe a sudden release of a significant amount of water retained in a glacial lake, irrespective of the cause (Emmer, 2017).",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

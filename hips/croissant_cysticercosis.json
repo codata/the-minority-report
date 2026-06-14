@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Cysticercosis",
   "description": "Cysticercosis is a preventable infection in humans and pigs caused by the larval stages of the parasiteTaenia solium(pork tapeworm). Human cysticercosis can result in devastating effects when the l...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

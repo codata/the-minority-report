@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Q Fever",
   "description": "Q fever is a common zoonosis (infection that could transmit from animals to humans), caused by Coxiella burnetii. Natural reservoirs include several domestic and wild animals, most of which show no...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

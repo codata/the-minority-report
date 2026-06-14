@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Escherichia Coli (STEC)",
   "description": "Escherichia coli(E. coli) is a bacterium commonly found in the gut. Some strains can cause serious food poisoning, leading to diarrhoea and sometimes to life-threatening complications including hae...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

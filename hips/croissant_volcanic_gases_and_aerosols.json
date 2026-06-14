@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Volcanic Gases and Aerosols",
   "description": "Volcanic gas\u00a0includes\u00a0any gas-phase substance that is emitted by\u00a0volcanic\u00a0or volcanic-geothermal\u00a0activity.\u00a0Volcanic\u00a0aerosols\u00a0include\u00a0liquid\u00a0or\u00a0solid\u00a0particles that are small enough to be suspended ...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

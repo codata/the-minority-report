@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Smoke",
   "description": "Smoke is a suspension in the air of small particles produced by combustion (WMO, 2017).",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "New World Screwworm (NWS)",
   "description": "The New World screwworm (NWS),Cochliomyia hominivorax(Coquerel), is an obligate parasite of mammals, including humans, during their larval stages. Larvae feeding on the skin and underlying tissues ...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

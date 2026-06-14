@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Shrimp disease (bacterial) - Acute Hepatic Pancreatic Necrosis",
   "description": "Shrimp acute hepatopancreatic necrosis disease (AHPND) is caused by virulent strains ofVibrio parahaemolyticusand related Vibrio species. AHPND-associated mortalities occur early in the production ...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

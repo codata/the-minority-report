@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Subsidence and Uplift",
   "description": "Subsidence is a lowering or collapse of the ground (BGS, 2020). Uplift is the converse.",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

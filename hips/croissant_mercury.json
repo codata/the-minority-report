@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Mercury",
   "description": "Mercury is a naturally occurring element that is found in air, water and soil. Exposure to mercury \u2013 even small amounts \u2013 may cause serious health problems and is a threat to the development of the...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

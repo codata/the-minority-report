@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Safety Hazards Associated with Oil and Gas",
   "description": "Oil and gas extraction, and associated servicing activities involve many types of equipment and materials. Identifying and controlling hazards is critical to preventing injuries and deaths (US Depa...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

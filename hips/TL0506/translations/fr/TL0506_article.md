@@ -1,1 +1,51 @@
-adheres to the Controlled Vocabulary for Disaster Risk Reduction, uses consistent geological terminology, and is formatted as a well‑structured Markdown document.
+### Définition
+Les **débris marins** sont tout matériau solide persistant, fabriqué ou transformé, jeté, éliminé ou abandonné dans l’environnement marin et côtier. La **litière marine** comprend des objets fabriqués ou utilisés par les humains et volontairement jetés dans la mer, les rivières ou sur les plages ; introduits indirectement dans la mer par les rivières, les eaux usées, les eaux pluviales ou le vent ; ou perdus accidentellement, y compris le matériel perdu en mer sous mauvais temps (adapté d’UN Environment, sans date ; NOAA, sans date).
+
+#### Référence(s) principale(s)
+UN Environment, sans date. Marine Litter. Consulté le 18 février 2025.
+NOAA, sans date. National Ocean Service. What are microplastics? National Oceanic and Atmospheric Administration (NOAA). Consulté le 18 février 2025.
+
+### Annotation
+#### Description scientifique supplémentaire
+Les **débris marins** proviennent de nombreuses sources et entraînent un large éventail d’impacts environnementaux, économiques, de sécurité, sanitaires et culturels. Le taux de dégradation très lent des articles de la **litière marine**, principalement les plastiques, associé à l’augmentation constante des **débris plastiques**, entraîne une hausse graduelle de la **litière marine** en mer et sur les rivages (United Nations, 2017). Les **débris marins** se trouvent dans tous les habitats marins, des régions densément peuplées aux zones reculées loin des activités humaines, des plages aux eaux peu profondes, jusqu’aux tranchées océaniques profondes (Wang et al., 2016). La densité moyenne des **débris marins** varie de 13 000 à 18 000 pièces par kilomètre carré (UNEP, 2017).
+
+Les **débris marins** prennent de nombreuses formes, notamment les **engins de pêche abandonnés**, les équipements récréatifs abandonnés, les **débris plastiques**, les métaux, le caoutchouc, le papier et les textiles. Les plastiques sont de loin l’élément de débris le plus fréquent, représentant environ 60 % à 80 % de tous les **débris marins**. Les **débris plastiques** continuent de s’accumuler dans l’environnement marin (voir Profil d’information sur les microplastiques - CH0504). La densité des **microplastiques** dans le **gyre central du Pacifique Nord** a augmenté de deux ordres de grandeur au cours des quatre dernières décennies. La plupart des **débris marins** proviennent d’activités côtières et récréatives, du transport maritime commercial et de la pêche, et du déversement en mer. Environ 80 % des **débris marins** entrant dans la mer sont considérés comme provenant de sources terrestres.
+
+Les **nanoparticules** constituent une forme de **débris marins** dont la signification ne fait que maintenant émerger. Ce sont de minuscules particules dimensionnées de 1 à 100 nanomètres (un nanomètre est un millionième de millimètre). Une grande proportion des **nanoparticules** trouvées dans l’océan sont d’origine naturelle. Ce sont les **nanoparticules anthropogènes** qui suscitent des inquiétudes. Elles proviennent de deux sources : des **nanoparticules** créées intentionnellement pour divers procédés industriels et cosmétiques, et de la dégradation des plastiques dans les **débris marins**, des fragments de tissus synthétiques rejetés dans les eaux usées urbaines et de la lixiviation des sites d’enfouissement terrestres. Des recherches récentes ont mis en évidence les impacts environnementaux potentiels des **nanoparticules plastiques** : elles semblent réduire la production primaire et l’absorption de nourriture par le zooplancton et les filtres alimentaires (United Nations, 2017).
+
+### Métriques et limites numériques
+Non disponible.
+
+### Convention/Traité multilatéral pertinent
+Convention sur la prévention de la pollution marine par le dépôt de déchets et d’autres matières (OMI, 2019).
+
+### Conduits
+Les catastrophes naturelles telles que les cyclones, les inondations, les glissements de terrain et les tsunamis, ainsi que les accidents causés par l’homme, peuvent augmenter considérablement l’afflux de **débris marins** naturels et artificiels dans les environnements marins. Selon le ministère japonais de l’Environnement (2012), le tsunami de 2011 au Japon a libéré environ 5 millions de tonnes de **débris marins** dans l’océan en quelques heures. Sur ces 5 millions de tonnes, 3,5 millions ont coulé sur le fond marin, endommageant gravement l’écosystème benthique. De plus, l’événement radioactif de la catastrophe nucléaire de Fukushima a eu des effets dévastateurs sur l’industrie de la pêche locale. Les 1,5 million de tonnes restantes – équivalentes à presque une année entière d’apports terrestres de plastiques – sont devenues des **débris flottants**, avec des parties dérivant vers l’Amérique du Nord et Hawaï. Comprenait quatre quais flottants de 20 m, environ 1 000 embarcations (Maximenko et al., 2018), et d’autres grands objets présentant des risques de navigation pour les côtes éloignées. De nombreuses exploitations de mariculture côtières ont également été déplacées, entraînant une hausse significative des **débris flottants**.
+
+### Impacts
+Les **débris marins** peuvent entraîner des pertes économiques, des dommages aux habitats (y compris les récifs coralliens fragiles), des dangers pour le transport maritime (dégâts coûteux aux navires), le transport de plantes et d’espèces invasives pouvant avoir des impacts dévastateurs sur les écosystèmes, ainsi que des blessures, maladies et décès chez la faune (NOAA, sans date). Les **débris marins** affectent une large gamme de la vie marine, des micro-organismes aux baleines à bosse. Les animaux peuvent accidentellement ingérer des **débris marins** ou s’en embourber. Par exemple, les sacs plastiques constituent une menace courante pour les tortues marines, qui les prennent souvent pour des méduses, un aliment commun. Les **débris marins** affectent également d’autres espèces, comme le phoque monachon d’Hawaï, dont une seule mortalité due aux **débris marins** représente une perte importante (NOAA, sans date).
+
+### Contexte multi-risques
+La figure ci-dessous résume les interactions courantes entre les **débris marins** et d’autres risques. Cette information doit être utilisée avec prudence et ne doit pas être utilisée comme seule base dans la gestion des risques de catastrophe, notamment parce que certaines interactions peuvent ne pas avoir été incluses. Notez que les événements dangereux se produisant simultanément ou localement dans l’espace ou le temps peuvent ne pas nécessairement causer, amplifier ou être liés entre eux. Des exemples spécifiques de contexte multi-risques se trouvent dans les sections « Conduits » et « Impacts » ci-dessus.
+
+### Gestion des risques
+Les déchets de microplastiques persistants, provenant de diverses sources et transportés par les rivières vers l’océan, ont eu des impacts biologiques, écologiques et chimiques significatifs sur les écosystèmes marins et sont reconnus comme un problème mondial. Au cours de la dernière décennie, de nombreuses études ont employé des technologies de télédétection pour détecter, surveiller et suivre les **débris plastiques** en milieu côtier et océanique ouvert (Waqas et al., 2023). Par exemple, le Système intégré d’observation des **débris marins** (IMDOS) vise à guider et coordonner un système de surveillance mondial soutenu pour les **débris marins**, comblant les lacunes de connaissances et répondant aux besoins variés des parties prenantes en fournissant des données fiables et des informations (IOCCP, sans date).
+
+#### Surveillance
+Par exemple, l’initiative du projet NOAA de surveillance et d’évaluation des **débris marins** (2025) pour mesurer la quantité et les types de **débris marins** sur les côtes utilise une méthode de collecte standardisée, avec une suite de ressources et de données publiques disponibles, pour aider les participants et les bénévoles à détecter les variations des **débris marins** au fil du temps (NOAA, 2025).
+
+## Références
+Carlton, J. T., Chapman, J. W., Geller, J. B., Miller, J. A., Carlton, D. A., McCuller, M. I., et al., 2017. Tsunami-driven rafting, transoceanic species dispersal and implications for marine biogeography. Science 357, 1402–1406. Consulté le 3 février 2025.
+OMI, 2019. Convention sur la prévention de la pollution marine par le dépôt de déchets et d’autres matières. Organisation maritime internationale (OMI). Consulté le 17 février 2025.
+International Ocean Carbon Coordination Project, 2025. Système intégré d’observation des débris marins (IMDOS). Consulté le 3 février 2025.
+Ministère de l’Environnement du Japon, 2012. Estimation du montant total des débris emportés par le tremblement de terre du Japon de l’Est. Consulté le 3 février 2025.
+Law, K.L., Moret-Ferguson, S., Maximenko, N.A., Proskurowski, G., Peacock, E.A., Hafner, J., et Reddy, C.M., 2010. Plastic accumulation in the North Atlantic subtropical gyre. Science, 329:1185-1118. DOI: 10.1126/science.1192321.
+Maximenko, N. A., Hafner, J., Kamachi, M., et MacFadyen, A., 2018. Numerical simulations of debris drift from the 2011 tsunami in Japan, verified with boat reports. Mar. Pollut. Bull. 132, 5–25. Consulté le 3 février 2025.
+NOAA, 2025. Marine Debris Monitoring and Assessment Project. National Oceanic and Atmospheric Administration (NOAA). Consulté le 8 juillet 2025.
+NOAA, sans date. Marine Debris. Office for Coastal Management. National Oceanic and Atmospheric Administration (NOAA). Consulté le 17 février 2025.
+UNEP, 2017. UN Environment contribution to Concept Papers for Partnership Dialogues of The Ocean Conference. Programme des Nations Unies pour l'environnement (PNUE). Consulté le 17 février 2025.
+United Nations, 2017. The First Global Integrated Marine Assessment: World Ocean Assessment I. Cambridge University Press. Consulté le 17 février 2025.
+Wang, J., Kiho, K., Ofiara, D., Zhao, Y., Bera, A., Lohmann, R., et Baker, M.C., 2016. First Global Integrated Marine Assessment: World Ocean Assessment I. Consulté le 17 février 2025.
+Waqas, M., Wong, M.S., Stocchino, A., Abbas, S., Hafeez, S., Zhu, R., 2023. Marine plastic pollution detection and identification by using remote sensing-meta analysis, Marine Pollution Bulletin, Volume 197, 115746, ISSN 0025-326X. DOI: 10.1016/j.marpolbul.2023.115746. Consulté le 17 février 2025.
+
+***

@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Landfilling",
   "description": "Landfill is the final placement of waste in or on the land in a controlled or uncontrolled way according to different sanitary, environmental protection and other safety requirements (UN Data, no d...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

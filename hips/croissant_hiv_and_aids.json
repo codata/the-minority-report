@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "HIV and AIDS",
   "description": "Human immunodeficiency virus (HIV) is a virus that attacks the body\u2019s immune system. Acquired immunodeficiency syndrome (AIDS) occurs at the most advanced stage of infection. HIV targets the body\u2019s...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

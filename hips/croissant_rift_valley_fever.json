@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Rift Valley Fever",
   "description": "Rift Valley fever (RVF) is an acute haemorrhagic viral disease, affecting small and large ruminants and camels. RVF virus is a member of thePhlebovirusgenus. The disease causes high mortality, espe...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

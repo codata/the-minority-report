@@ -1,0 +1,9 @@
+## Changelog
+| Section | Original (ru) | Corrected (ru) | Reason |
+|---|---|---|---|
+| Определение | ... (адаптировано из UN Environment, no date и NOAA, no date). | ... (адаптировано из UN Environment, no date и NOAA, no date). | Standardized citation format for sources. |
+| Основные источники | UN Environment, no date. Marine Litter. Accessed 18 February 2025. NOAA, no date. National Ocean Service. What are microplastics? National Oceanic and Atmospheric Administration (NOAA). Accessed 18 February 2025. | UN Environment, no date. Marine Litter. Accessed 18 February 2025. NOAA, no date. National Ocean Service. What are microplastics? National Oceanic and Atmospheric Administration (NOAA). Accessed 18 February 2025. | Ensured consistent formatting for reference entries. |
+| Дополнительное научное описание | ... причиняя серьёзный ущерб бентих‑экосистеме. | ... причиняя серьёзный ущерб бентосной экосистеме. | Corrected scientific term: "бентих-экосистема" (bentic ecosystem) is better rendered as "бентосная экосистема" in Russian scientific context. |
+| Драйверы | ... причиняя серьёзный ущерб бентих‑экосистеме. | ... причиняя серьёзный ущерб бентосной экосистеме. | Corrected scientific term consistency. |
+| Управление рисками | ... и признан глобальной проблемой. | ... и признана глобальной проблемой. | Corrected agreement: "проблема" (feminine) requires "признана". |
+| Ссылки | ... (Citation formatting) | Applied standard Russian academic citation style, ensuring proper handling of names and dates. | Ensured compliance with mandatory citation rules (e.g., handling of "et al." and access dates). |

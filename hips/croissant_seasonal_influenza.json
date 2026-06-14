@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Seasonal Influenza",
   "description": "Seasonal influenza is an acute respiratory infection caused by influenza viruses which circulate in all parts of the world with around a billion cases of seasonal influenza annually, including 3\u20135 ...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

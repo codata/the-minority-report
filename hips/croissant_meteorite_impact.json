@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Meteorite Impact",
   "description": "A meteorite is an object that survives a trip through Earth\u2019s atmosphere and hits the ground (adapted from NASA, no date).",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

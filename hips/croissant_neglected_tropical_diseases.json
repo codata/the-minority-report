@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Neglected Tropical Diseases",
   "description": "Neglected tropical diseases (NTDs) are a diverse group of conditions\u202fcaused by a variety of pathogens (including viruses, bacteria, parasites, fungi and toxins) and associated with devastating heal...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Vector-borne diseases (VBD)",
   "description": "Vector-borne diseases encompass a variety of illnesses that are caused by the spread of pathogens by living organisms known as vectors. These infectious diseases can be transmitted via vectors amon...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

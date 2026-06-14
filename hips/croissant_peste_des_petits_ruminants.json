@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Peste Des Petits Ruminants",
   "description": "Peste des petits ruminants is a highly contagious and devastating disease of goats and sheep. The causative agent, Peste des petits ruminants virus, is a member of the genusMorbillivirus, FamilyPar...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

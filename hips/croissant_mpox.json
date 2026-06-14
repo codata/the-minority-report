@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Mpox",
   "description": "Mpox, previously known as monkeypox, is a viral illness caused by the monkeypox virus, a species of the genus\u202fOrthopoxvirus. There are two distinct clades of the virus: clade I (with subclades Ia a...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

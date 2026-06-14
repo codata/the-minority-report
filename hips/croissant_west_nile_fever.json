@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "West Nile Fever",
   "description": "West Nile virus disease is a potentially fatal neurological disease caused by a virus transmitted through the bites of infected mosquitoes. The virus is a member of theflavivirusgenus and belongs t...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

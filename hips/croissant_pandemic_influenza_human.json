@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Pandemic Influenza (Human)",
   "description": "Pandemic influenza is the worldwide spread of a new influenza virus to which there is little or no pre-existing immunity in the human population (WHO, 2019).",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Household Air Pollution",
   "description": "Household air pollution is pollution primarily resulting from the incomplete combustion of solid fuels (e.g. wood, dung, charcoal, coal, kerosene), resulting in the emission of potentially toxic po...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "COVID-19 (SARS-CoV-2)",
   "description": "COVID-19 is an infectious disease caused by the SARS Coronavirus 2 (SARS-CoV-2), a virus first identified in human populations in late 2019 which caused a global outbreak of coronavirus \u2013 an infect...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Perfluoroalkyl and Polyfluoroalkyl Substances",
   "description": "Polyfluoroalkyl substances (PFAS) are a large family of chemicals in which \u200bmultiple fluorine atoms are attached to an alkyl chain within a molecule\u200b. If all possible sites of an alkyl chain are oc...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

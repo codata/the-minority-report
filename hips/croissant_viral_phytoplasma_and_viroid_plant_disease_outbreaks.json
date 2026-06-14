@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Viral, Phytoplasma and Viroid Plant Disease Outbreaks",
   "description": "Viral, phytoplasma and viroid plant disease outbreaks refer to sudden occurrence of plant diseases caused by viruses, phytoplasma (syn. mycoplasma-like organisms) and viroids over large areas with ...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

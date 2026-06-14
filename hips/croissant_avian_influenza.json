@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Avian Influenza",
   "description": "Avian influenza is an infectious disease of birds caused by type A influenza viruses of theOrthomyxoviridaefamily. Naturally occurring among wild bird populations, avian influenza viruses can infec...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

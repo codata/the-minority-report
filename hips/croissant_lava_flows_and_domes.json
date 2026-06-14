@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Lava Flows and Domes",
   "description": "Lava flows and lava domes form from molten rock that erupts and cools on or near the Earth\u2019s surface. A lava flow is an outpouring of fluid, relatively low-viscosity molten rock, whereas a lava dom...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

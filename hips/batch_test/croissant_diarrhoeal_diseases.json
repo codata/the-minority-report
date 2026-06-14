@@ -97,7 +97,7 @@
       "sha256": "TODO:CALCULATE_HASH"
     }
   ],
-  "cr:conformance": "http://mlcommons.org/croissant/1.0",
+  "cr:conformance": "http://mlcommons.org/croissant/1.1",
   "recordSet": [
     {
       "@type": "cr:RecordSet",

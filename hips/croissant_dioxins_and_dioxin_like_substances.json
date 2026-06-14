@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Dioxins and Dioxin-like Substances",
   "description": "Dioxins and dioxin-like substances, including polychlorinated biphenyls (PCBs), polychlorinated dibenzo-p-dioxins (PCDDs) and polychlorinated dibenzofurans (PCDFs) are \u200b\u200b\u200b\u200bpersistent organic pollut...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

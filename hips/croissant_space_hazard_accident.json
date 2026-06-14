@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Space Hazard / Accident",
   "description": "A space accident is any accident involving space objects that cause damage (adapted from UNGA, 1971).",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

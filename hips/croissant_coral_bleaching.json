@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Coral Bleaching",
   "description": "Corals are subject to \u2018bleaching\u2019 when the seawater temperature is too high: they lose the symbiotic algae that give coral its colour and part of its nutrients. Severe, prolonged or repeated bleach...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

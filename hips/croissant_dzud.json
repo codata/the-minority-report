@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Dzud",
   "description": "A dzud (a Mongolian term that describes \u2018severe winter conditions\u2019\u2019, sometimes spelled zud) is a cold-season disaster in which anomalous climatic (i.e., heavy snow and severe cold) and/or land-surf...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

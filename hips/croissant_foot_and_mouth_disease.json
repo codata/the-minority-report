@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Foot-and-mouth disease",
   "description": "Foot-and-mouth disease is caused by a virus of the familyPicornaviridae, genusAphthovirus. It is a highly contagious and economically important disease of cloven-hoofed domestic animals (cattle, bu...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

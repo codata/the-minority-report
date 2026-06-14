@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Chlorine",
   "description": "Chlorine is a reactive pale green gas with many uses including disinfection of water. Chlorine is approximately 2.4 times heavier than air and has a characteristic odour similar to bleach. Most sig...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

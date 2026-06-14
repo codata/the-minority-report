@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Smallpox",
   "description": "Smallpox is an acute contagious disease caused by the variola virus. Before its eradication, smallpox was one of the world\u2019s most devastating diseases known and was fatal in up to 30% of cases (WHO...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

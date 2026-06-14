@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Suicide Cluster",
   "description": "The term \u2018suicide cluster\u2019 describes a situation in which more suicides than expected occur in terms of time, place, or both (PHE, 2019). Two types of suicide clusters can be distinguished (Joiner,...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

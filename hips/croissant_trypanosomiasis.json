@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Trypanosomiasis",
   "description": "Trypanosomiasis, human African (sleeping sickness) and animal trypanosomosis (nagana) are caused by protozoan parasites belonging to the genus Trypanosoma transmitted by infected tsetse flies and i...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Radio and Other Telecommunication Failures",
   "description": "Radio and other telecommunication failures occur when there is an internal or external interruption of communications by either party that results in difficulty transporting a message as it was int...",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",

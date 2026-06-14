@@ -1,0 +1,1 @@
+rail accident,unwanted or unintended sudden event,accident precursor,significant accident,extensive disruption to traffic,significant damage to stock,track,other installations,injury accident,serious injury accident,collision of two or more rail vehicles,derailment,level crossing accidents,fires in rolling stock,accident involving the transport of dangerous goods

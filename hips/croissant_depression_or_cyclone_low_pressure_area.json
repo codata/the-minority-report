@@ -47,7 +47,7 @@
   "@type": "sc:Dataset",
   "name": "Depression or Cyclone (Low Pressure Area)",
   "description": "A depression or cyclone is a region of the atmosphere in which the pressure is lower than that of the surrounding region at the same level (WMO, 1992).",
-  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
   "creator": [
     {
       "@type": "sc:SoftwareApplication",
