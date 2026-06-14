@@ -356,7 +356,11 @@ def _query_model(term, context, languages, model, voter_prompt_template, method=
             print(f"  [Keyword Extraction] Reading keywords from cache: {cache_path}")
             with open(cache_path, "r", encoding="utf-8") as f:
                 keywords = f.read().strip()
-        else:
+            if not keywords or keywords == "{}":
+                print("  [Keyword Extraction] Cache is empty or invalid. Re-extracting...")
+                keywords = ""
+        
+        if not keywords:
             kw_prompt = keyword_prompt_template.replace("{{text}}", context)
             kw_prompt = kw_prompt.replace("{{term}}", term)
             print(f"  [Keyword Extraction] Using Model: {small_model}")
@@ -492,7 +496,11 @@ def _query_model_longtext(text, language, model, longtext_prompt_template, metho
             print(f"  [Keyword Extraction] Reading keywords from cache: {cache_path}")
             with open(cache_path, "r", encoding="utf-8") as f:
                 keywords = f.read().strip()
-        else:
+            if not keywords or keywords == "{}":
+                print("  [Keyword Extraction] Cache is empty or invalid. Re-extracting...")
+                keywords = ""
+        
+        if not keywords:
             kw_prompt = keyword_prompt_template.replace("{{text}}", text)
             kw_prompt = kw_prompt.replace("{{term}}", term)
             print(f"  [Keyword Extraction] Using Model: {small_model}")
