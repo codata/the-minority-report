@@ -1,0 +1,1 @@
+subsidence and shrinking and swelling soils, glacial isostatic adjustment, hydro-isostatic adjustment, mantle flow, tectonic uplift and subsidence, ground deformation warping, surface rupture and fissures, volcanic uplift and subsidence, erosional/depositional-isostatic deformation, groundwater fluctuations, isostatic subsidence, localized ground displacements
