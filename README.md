@@ -17,6 +17,14 @@ An agentic pipeline for generating high-quality multilingual technical translati
 - **Batch Processing**: Scrape entire indexes of terms and generate metadata in bulk.
 - **Dockerized**: Easy deployment and execution without local environment headaches.
 
+## The Golden Standard for AI-Ready Data
+
+The Minority Report's Semantic Croissant Catalog has been independently evaluated by four state-of-the-art LLMs, cementing its status as an elite, "AI-Native" dataset architecture. You can read the full evaluations in the `testimonials/` directory.
+
+- **Gemini 3.1 (Score: 9.8 / 10)**: Rated as "Tier-1 AI-Ready resource." Highlighted the combination of DIDs and UNF signatures as the "Killer Feature" that allows an AI to transition from guessing based on context to knowing based on cryptographic evidence.
+- **Gemma4:26b (Score: 9.8 / 10)**: Praised the catalog as an exceptional example of data designed *for* AI. Noted the self-documenting BS4 parsing patterns and the imperative guidance in the `instruction` fields that heavily reduces RAG hallucinations.
+- **ChatGPT (Score: 9.0 / 10)**: Characterized the catalog as an evolutionary step beyond standard metadata. Highlighted the integration of Croissant + CDIF + ODRL + DID alongside multi-agent generation provenance, effectively turning dataset descriptions into an "AI execution context."
+- **Claude Sonnet 4.6 (Score: 7.4 / 10)**: Confirmed the Croissant 1.0 + JSON-LD stack as the current gold standard. While praising the deterministic URL routing and SHA-256 integrity checks, it correctly observed that the dataset deliberately utilizes specialized language codes (e.g., `ch` instead of `zh`) to test an agent's ability to rigidly adhere to provided structured instructions over its pre-training biases.
 ## ODRL Policy Governance
 
 The translation pipeline is strictly governed by an Open Digital Rights Language (ODRL) policy (`ODRL/translation_pipeline_odrl.jsonld`). This policy mathematically enforces security, workflow, and quality constraints on the AI agents:
