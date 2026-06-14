@@ -1,6 +1,15 @@
 import json
 import os
 import sys
+import argparse
+
+UNF_SCRIPTS_DIR = "/home/codata/projects/croissant-toolkit/.gemini/skills/unf/scripts"
+if UNF_SCRIPTS_DIR not in sys.path:
+    sys.path.insert(0, UNF_SCRIPTS_DIR)
+try:
+    import unf_hash
+except ImportError:
+    unf_hash = None
 
 def update_content_urls(data, base_url):
     if isinstance(data, dict):
@@ -17,6 +26,10 @@ def update_content_urls(data, base_url):
         return data
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--compute-unf", action="store_true", help="Compute UNF-6 fingerprints for all files and embed them")
+    args = parser.parse_args()
+
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(os.path.dirname(script_dir))
     central_input_file = os.path.join(project_root, "hips", "central_metadata.json")
@@ -110,6 +123,36 @@ def main():
                 with open(local_meta_in, "r", encoding="utf-8") as f:
                     local = json.load(f)
                 
+                if args.compute_unf and unf_hash:
+                    # Compute UNF for files in the dataset distribution
+                    for dist_item in local.get("distribution", []):
+                        if "contentUrl" in dist_item and not str(dist_item["contentUrl"]).startswith("http"):
+                            file_path = os.path.normpath(os.path.join(project_root, dist_item["contentUrl"]))
+                            if os.path.exists(file_path):
+                                try:
+                                    unf_val = unf_hash.compute_unf_file(file_path)
+                                    if unf_val:
+                                        dist_item["unf"] = unf_val
+                                except Exception:
+                                    pass
+                    
+                    # Compute UNF for files in isBasedOn
+                    if "isBasedOn" in local:
+                        is_based_on = local["isBasedOn"] if isinstance(local["isBasedOn"], list) else [local["isBasedOn"]]
+                        for item in is_based_on:
+                            if "contentUrl" in item and not str(item["contentUrl"]).startswith("http"):
+                                file_path = os.path.normpath(os.path.join(project_root, item["contentUrl"]))
+                                if os.path.exists(file_path):
+                                    try:
+                                        unf_val = unf_hash.compute_unf_file(file_path)
+                                        if unf_val:
+                                            item["unf"] = unf_val
+                                    except Exception:
+                                        pass
+
+                if "description" in local and "UNF-6 fingerprint" not in local["description"]:
+                    local["description"] += " The UNF-6 fingerprint is intended to provide models with information about the consistency and origin of the file, ensuring its integrity in case it is modified by third parties."
+
                 local = update_content_urls(local, base_url)
                 
                 with open(local_meta_out, "w", encoding="utf-8") as f:

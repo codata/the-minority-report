@@ -659,7 +659,10 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
         " BS4 Extraction Pattern (generic for all HIPS HTML pages): "
         "(1) Title: soup.find('title').get_text().strip(), "
         "(2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), "
-        "(3) Article Content: soup.find('article', class_='custom-full-content') (with scripts, styles, noscript, and iframe tags decomposed)."
+        "(3) Article Content: soup.find('article', class_='custom-full-content') (with scripts, styles, noscript, and iframe tags decomposed). "
+        "The UNF-6 fingerprint is intended to provide models with information "
+        "about the consistency and origin of the file, ensuring its integrity "
+        "in case it is modified by third parties."
     )
     full_description = description.rstrip(".") + "." + pattern_suffix
 
