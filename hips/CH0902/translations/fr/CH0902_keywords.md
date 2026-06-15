@@ -1,0 +1,1 @@
+high nitrogen content fertilizer,industrial explosives,improvised explosive devices,contamination of drinking water,GHS Classification,oxidising agents,rocket propellants,decomposition releasing toxic gases,detonation resistance tests,explosive tendencies,fine powders,molten mass confinement,Nitrate run-off

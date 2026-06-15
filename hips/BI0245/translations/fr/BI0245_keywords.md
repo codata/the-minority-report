@@ -1,0 +1,1 @@
+infectious disease of birds, type A influenza viruses, Orthomyxoviridae family, wild bird populations, domestic poultry, bird species, infect mammals, zoonotic, pandemic, novel influenza virus

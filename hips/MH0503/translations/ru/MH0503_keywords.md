@@ -1,0 +1,1 @@
+cold-season disaster,severe winter conditions,anomalous climatic conditions,land-surface snow/ice cover,reduced availability of forage,high livestock mortality,White dzud,Iron or glass dzud,Black dzud,Storm and cold dzuds,Hoof dzud,multi-hazard context,human-induced vulnerability

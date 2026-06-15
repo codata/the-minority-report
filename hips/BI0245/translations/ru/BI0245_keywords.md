@@ -1,0 +1,1 @@
+Type A influenza viruses,Orthomyxoviridae family,zoonotic infections,highly pathogenic avian influenza (HPAI),haemagglutinin and neuraminidase,H5N1 virus subtype,migratory wild bird movements,biosecurity measures,live poultry markets,H5 and H7 subtypes

@@ -1,0 +1,1 @@
+Bloodborne viruses,Direct contact with infected blood or other body fluids,Bloodborne pathogens,Human immunodeficiency virus (HIV),Hepatitis B virus (HBV),Hepatitis C virus (HCV),Routes of transmission,Sharing injecting equipment,Skin puncture by blood-contaminated sharp objects,Needlestick injuries,Blood transfusion risk,Standard precautions in health care

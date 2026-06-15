@@ -1,0 +1,1 @@
+Viral, phytoplasma and viroid plant disease outbreaks, sudden occurrence of plant diseases, plant diseases caused by viruses, plant diseases caused by phytoplasma, plant diseases caused by viroids, mycoplasma-like organisms, impact on crop production, impact on natural habitats, large areas

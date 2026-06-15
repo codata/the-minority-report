@@ -49,6 +49,8 @@
       "@id": "sc:processingRequirement",
       "@type": "@json"
     },
+    "did": "https://www.w3.org/ns/did/v1",
+    "unf": "https://guides.dataverse.org/en/6.9/developers/unf/unf-v6.html",
     "odrl": "http://www.w3.org/ns/odrl/2/",
     "cdif": "https://cdif.org/1.1/"
   },
@@ -96,7 +98,8 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0502/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
+      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
     },
     {
       "@type": "cr:FileObject",
@@ -105,7 +108,8 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0502/data/distribution/MH0502_Cold_Wave_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "38828784cd962fb69a8ad318ac1f35aa78f67b48e84387cb4419b9e9c2f525e3",
-      "description": "Clean plaintext extract of the original HIPS HTML document for MH0502, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
+      "description": "Clean plaintext extract of the original HIPS HTML document for MH0502, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
+      "unf": "UNF:6:krwa9b0w/0R+HlO1FRstSQ=="
     },
     {
       "@type": "cr:FileObject",
@@ -119,6 +123,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:kZcGwfv1xq5/fF9/hUe0MA==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context."
     },
     {
@@ -133,6 +138,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:ZkLp1vDQxP0zJl63+3vFLQ==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
     },
     {
@@ -147,6 +153,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:+oQCMda1JC2fIQ0OgKjiIA==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context."
     },
     {
@@ -161,6 +168,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:6NZqmyyB97t0C3IVm+Q9/A==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context."
     },
     {
@@ -175,6 +183,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:Xzt2sN8UMOKmxqxEYAzZvA==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context."
     },
     {
@@ -189,6 +198,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:bzMa6VfttM8rd+BwfoHb6w==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in French. Contains the authoritative translation of the original context."
     },
     {
@@ -203,6 +213,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:h8LW0LjCIffW5TenGRbrGQ==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context."
     },
     {
@@ -217,6 +228,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:EtInd7kQ+06Nqa12aof9kQ==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Russian. Contains the authoritative translation of the original context."
     },
     {
@@ -231,6 +243,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:03baVmvvCNrkea90UcXViw==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context."
     },
     {
@@ -245,6 +258,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:PL6dk0alRGEM6LowULgdyA==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
     },
     {
@@ -259,6 +273,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:FkuZQ6ZmsXqd7rZwlwXs2g==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
     },
     {
@@ -273,6 +288,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:XFQX906PxmAe4X9gxJVF/A==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Italian. Contains the authoritative translation of the original context."
     },
     {
@@ -287,6 +303,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:8Bdjzc4hcGdhkZjeov0G+Q==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context."
     },
     {
@@ -301,6 +318,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:StIF+CuOlpqvsIxrwYkNGg==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Turkish. Contains the authoritative translation of the original context."
     },
     {
@@ -315,6 +333,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:vxPJ9njWeCDA5ub7KrQZAQ==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context."
     },
     {
@@ -329,6 +348,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:PeULqX8oGQ7Fzp8OsxjERg==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context."
     },
     {
@@ -343,6 +363,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:5GruWY/cfzVEiCDPJlkvzw==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in German. Contains the authoritative translation of the original context."
     },
     {
@@ -357,6 +378,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:1mk6YZr6kSLpt0YGwN3e3Q==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -371,6 +393,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:fPmpDtqPkePzeLl1cbZjvw==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -385,6 +408,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:+aEA5SYmemr2MUSf1ITj9g==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
     },
     {
@@ -399,6 +423,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:yN+8IMT9wiHIo7odI9R/Pg==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
     },
     {
@@ -413,6 +438,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:6lcFkQJvfs8zUcjfnTxEkg==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in ko. Contains the authoritative translation of the original context."
     },
     {
@@ -427,6 +453,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:3VoZpWnr10hJrETEnBSZVg==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in ko. Contains the authoritative translation of the original context."
     },
     {
@@ -441,6 +468,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:kG1SeDrc0CypeOeAqpZ5pg==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context."
     },
     {
@@ -455,6 +483,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:IW5R/sQStvamA8fykXOC9g==",
       "description": "Full markdown translation of the UNDRR/ISC MH0502 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context."
     }
   ],
@@ -595,7 +624,8 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for MH0502: Cold Wave. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0502. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0502/data/distribution/MH0502_Cold_Wave.html",
       "encodingFormat": "text/html",
-      "sha256": "68ba94a47f0a69388808001f7ae4341b2b443823e7d0b2d7eec46cd4f463caea"
+      "sha256": "68ba94a47f0a69388808001f7ae4341b2b443823e7d0b2d7eec46cd4f463caea",
+      "unf": "UNF:6:0iL9Lhm7+nU9HvUEUA0Kxw=="
     },
     {
       "@type": "CreativeWork",
@@ -604,7 +634,8 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for MH0502, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0502/data/distribution/MH0502_Cold_Wave_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "38828784cd962fb69a8ad318ac1f35aa78f67b48e84387cb4419b9e9c2f525e3"
+      "sha256": "38828784cd962fb69a8ad318ac1f35aa78f67b48e84387cb4419b9e9c2f525e3",
+      "unf": "UNF:6:krwa9b0w/0R+HlO1FRstSQ=="
     }
   ],
   "https://schema.org/identifier": "MH0502",
@@ -615,5 +646,103 @@
     "article": "soup.find('article', class_='custom-full-content').find('div', class_='col-md-9') (with scripts, styles, noscript, and iframe tags decomposed)",
     "fulltext": "soup.find('article', class_='custom-full-content') (with scripts, styles, noscript, and iframe tags decomposed)"
   },
-  "odrl:hasPolicy": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/ODRL/translation_pipeline_odrl.jsonld"
+  "odrl:hasPolicy": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/ODRL/translation_pipeline_odrl.jsonld",
+  "did": {
+    "@type": "PropertyValue",
+    "identifier": "did:oyd:zQmXTZ4NvCvJbgbStGZndSX8R8Ny8drKCAoYPGwnfuxc8Wu",
+    "creator": "CODATA, the International Science Council",
+    "description": "UNDRR/ISC Hazard Information Profile (HIP) concept MH0502",
+    "link": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0502/output/semantic_croissant.json",
+    "availableLanguages": {
+      "nl": {
+        "url": "hips/MH0502/translations/nl/MH0502_article.md",
+        "unf": "UNF:6:kZcGwfv1xq5/fF9/hUe0MA=="
+      },
+      "lv": {
+        "url": "hips/MH0502/translations/lv/MH0502_article.md",
+        "unf": "UNF:6:ZkLp1vDQxP0zJl63+3vFLQ=="
+      },
+      "sl": {
+        "url": "hips/MH0502/translations/sl/MH0502_article.md",
+        "unf": "UNF:6:+oQCMda1JC2fIQ0OgKjiIA=="
+      },
+      "hr": {
+        "url": "hips/MH0502/translations/hr/MH0502_article.md",
+        "unf": "UNF:6:6NZqmyyB97t0C3IVm+Q9/A=="
+      },
+      "sr": {
+        "url": "hips/MH0502/translations/sr/MH0502_article.md",
+        "unf": "UNF:6:Xzt2sN8UMOKmxqxEYAzZvA=="
+      },
+      "fr": {
+        "url": "hips/MH0502/translations/fr/MH0502_article.md",
+        "unf": "UNF:6:bzMa6VfttM8rd+BwfoHb6w=="
+      },
+      "sk": {
+        "url": "hips/MH0502/translations/sk/MH0502_article.md",
+        "unf": "UNF:6:h8LW0LjCIffW5TenGRbrGQ=="
+      },
+      "ru": {
+        "url": "hips/MH0502/translations/ru/MH0502_article.md",
+        "unf": "UNF:6:EtInd7kQ+06Nqa12aof9kQ=="
+      },
+      "et": {
+        "url": "hips/MH0502/translations/et/MH0502_article.md",
+        "unf": "UNF:6:03baVmvvCNrkea90UcXViw=="
+      },
+      "ch": {
+        "url": "hips/MH0502/translations/ch/MH0502_article.md",
+        "unf": "UNF:6:PL6dk0alRGEM6LowULgdyA=="
+      },
+      "it": {
+        "url": "hips/MH0502/translations/it/MH0502_article.md",
+        "unf": "UNF:6:XFQX906PxmAe4X9gxJVF/A=="
+      },
+      "ar": {
+        "url": "hips/MH0502/translations/ar/MH0502_article.md",
+        "unf": "UNF:6:8Bdjzc4hcGdhkZjeov0G+Q=="
+      },
+      "tr": {
+        "url": "hips/MH0502/translations/tr/MH0502_article.md",
+        "unf": "UNF:6:StIF+CuOlpqvsIxrwYkNGg=="
+      },
+      "no": {
+        "url": "hips/MH0502/translations/no/MH0502_article.md",
+        "unf": "UNF:6:vxPJ9njWeCDA5ub7KrQZAQ=="
+      },
+      "es": {
+        "url": "hips/MH0502/translations/es/MH0502_article.md",
+        "unf": "UNF:6:PeULqX8oGQ7Fzp8OsxjERg=="
+      },
+      "de": {
+        "url": "hips/MH0502/translations/de/MH0502_article.md",
+        "unf": "UNF:6:5GruWY/cfzVEiCDPJlkvzw=="
+      },
+      "pt": {
+        "url": "hips/MH0502/translations/pt/MH0502_article.md",
+        "unf": "UNF:6:1mk6YZr6kSLpt0YGwN3e3Q=="
+      },
+      "dk": {
+        "url": "hips/MH0502/translations/dk/MH0502_article.md",
+        "unf": "UNF:6:+aEA5SYmemr2MUSf1ITj9g=="
+      },
+      "fi": {
+        "url": "hips/MH0502/translations/fi/MH0502_article.md",
+        "unf": "UNF:6:yN+8IMT9wiHIo7odI9R/Pg=="
+      },
+      "ko": {
+        "url": "hips/MH0502/translations/ko/MH0502_article.md",
+        "unf": "UNF:6:6lcFkQJvfs8zUcjfnTxEkg=="
+      },
+      "ua": {
+        "url": "hips/MH0502/translations/ua/MH0502_article.md",
+        "unf": "UNF:6:kG1SeDrc0CypeOeAqpZ5pg=="
+      },
+      "lt": {
+        "url": "hips/MH0502/translations/lt/MH0502_article.md",
+        "unf": "UNF:6:IW5R/sQStvamA8fykXOC9g=="
+      }
+    },
+    "instruction": "Models must read the linked semantic_croissant.json file to access the authoritative translations and data directly from the verified source."
+  }
 }

@@ -48,7 +48,9 @@
     "bs4ExtractionPattern": {
       "@id": "sc:processingRequirement",
       "@type": "@json"
-    }
+    },
+    "did": "https://www.w3.org/ns/did/v1",
+    "unf": "https://guides.dataverse.org/en/6.9/developers/unf/unf-v6.html"
   },
   "@type": "sc:Dataset",
   "name": "Multilingual Dataset",

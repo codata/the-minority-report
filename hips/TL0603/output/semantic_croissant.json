@@ -49,6 +49,8 @@
       "@id": "sc:processingRequirement",
       "@type": "@json"
     },
+    "did": "https://www.w3.org/ns/did/v1",
+    "unf": "https://guides.dataverse.org/en/6.9/developers/unf/unf-v6.html",
     "odrl": "http://www.w3.org/ns/odrl/2/",
     "cdif": "https://cdif.org/1.1/"
   },
@@ -96,7 +98,8 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0603/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
+      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
     },
     {
       "@type": "cr:FileObject",
@@ -105,7 +108,8 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0603/data/distribution/TL0603_Nuclear_Agents_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "6a2d277fa130d61a3b926dc8b064f8292c817090d5d4d5c1df56da9ecccff1b4",
-      "description": "Clean plaintext extract of the original HIPS HTML document for TL0603, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
+      "description": "Clean plaintext extract of the original HIPS HTML document for TL0603, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
+      "unf": "UNF:6:chMhxbzWvf9nocZsyOoQrg=="
     },
     {
       "@type": "cr:FileObject",
@@ -119,6 +123,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:8Tew3SXNtXJIs/K8Z814cQ==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context."
     },
     {
@@ -133,6 +138,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:MiVh5Nqo244aS78Poj1KjA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
     },
     {
@@ -147,6 +153,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:NC4/OQiO2QQaDbjiEaickg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
     },
     {
@@ -161,6 +168,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:Q7QCIXv2lsc2QmdW5ApzBg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context."
     },
     {
@@ -175,6 +183,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:0VYhKikp+HniwueYQZ7Enw==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context."
     },
     {
@@ -189,6 +198,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:9xp4KakMNPRgnV2KIZ9x4g==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context."
     },
     {
@@ -203,6 +213,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:xQAZyPMcf6e4fQR/QObk+A==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in French. Contains the authoritative translation of the original context."
     },
     {
@@ -217,6 +228,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:svizpNrtsShMUrLNMISy7w==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context."
     },
     {
@@ -231,6 +243,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:Ixw4IaMntkvBxA/bCJfLKA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Russian. Contains the authoritative translation of the original context."
     },
     {
@@ -245,6 +258,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:3gvNgFkS8eERpqcE11sdgg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context."
     },
     {
@@ -259,6 +273,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:S2QobbprvNg3mdHimFxhXw==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
     },
     {
@@ -273,6 +288,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:8ZNFMzBVdmi3xq2oglI4tg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
     },
     {
@@ -287,6 +303,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:/W4JJcxjJhmR0vXtU/MKNw==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Italian. Contains the authoritative translation of the original context."
     },
     {
@@ -301,6 +318,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:kTEQThjc20NctCwNnqIKkA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context."
     },
     {
@@ -315,6 +333,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:H4wMmcFCdRYdbQHSWdi5SQ==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Turkish. Contains the authoritative translation of the original context."
     },
     {
@@ -329,6 +348,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:Va0dMYQxGCBicujJRSKtWw==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context."
     },
     {
@@ -343,6 +363,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:frmB+b3JPUDp9/3+LC9CMg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context."
     },
     {
@@ -357,6 +378,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:1Br9a8H+Y0x/eTPjByBBfw==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in German. Contains the authoritative translation of the original context."
     },
     {
@@ -371,6 +393,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:8GApnm1ijvfr3/J4HWfB8g==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -385,6 +408,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:BzIMPYr06zDS+XAGgS0/hA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -399,6 +423,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:HRdhtdqet72OnYEqB01C0w==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
     },
     {
@@ -413,6 +438,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:UhmRBeKiPo/yj6u3Y7HDMg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
     },
     {
@@ -427,6 +453,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:hpK6JTm8XjvSKEOYRU75eA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
     },
     {
@@ -441,6 +468,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:c7KMJRZr9XE/dmvBa42FOA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
     },
     {
@@ -455,6 +483,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:53d4EYBNG5sfEiqDvsTXPA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in ko. Contains the authoritative translation of the original context."
     },
     {
@@ -469,6 +498,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:tFMl63rYYxRwdQh7KCmovQ==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in ko. Contains the authoritative translation of the original context."
     },
     {
@@ -483,6 +513,7 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
+      "unf": "UNF:6:X1LhLAedtsqKNwGWoUWwGw==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context."
     },
     {
@@ -497,6 +528,7 @@
       "creator": {
         "@id": "model_unknown_model"
       },
+      "unf": "UNF:6:iK6FIMUUQeWIv3sR2Qpd8Q==",
       "description": "Full markdown translation of the UNDRR/ISC TL0603 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context."
     }
   ],
@@ -637,7 +669,8 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for TL0603: Nuclear Agents. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0603. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0603/data/distribution/TL0603_Nuclear_Agents.html",
       "encodingFormat": "text/html",
-      "sha256": "5880d310118b92d6d27ca5a6937ad8a85f862dc6ca7ebb8cfe6c096e07ca90bd"
+      "sha256": "5880d310118b92d6d27ca5a6937ad8a85f862dc6ca7ebb8cfe6c096e07ca90bd",
+      "unf": "UNF:6:FlNDkUS1pYOj9UhnC6h/yw=="
     },
     {
       "@type": "CreativeWork",
@@ -646,7 +679,8 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for TL0603, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0603/data/distribution/TL0603_Nuclear_Agents_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "6a2d277fa130d61a3b926dc8b064f8292c817090d5d4d5c1df56da9ecccff1b4"
+      "sha256": "6a2d277fa130d61a3b926dc8b064f8292c817090d5d4d5c1df56da9ecccff1b4",
+      "unf": "UNF:6:chMhxbzWvf9nocZsyOoQrg=="
     }
   ],
   "https://schema.org/identifier": "TL0603",
@@ -657,5 +691,103 @@
     "article": "soup.find('article', class_='custom-full-content').find('div', class_='col-md-9') (with scripts, styles, noscript, and iframe tags decomposed)",
     "fulltext": "soup.find('article', class_='custom-full-content') (with scripts, styles, noscript, and iframe tags decomposed)"
   },
-  "odrl:hasPolicy": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/ODRL/translation_pipeline_odrl.jsonld"
+  "odrl:hasPolicy": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/ODRL/translation_pipeline_odrl.jsonld",
+  "did": {
+    "@type": "PropertyValue",
+    "identifier": "did:oyd:zQmbKigawFRoXfk8dhdC5SLjDDNmBfXiotu776Fip7BYz11",
+    "creator": "CODATA, the International Science Council",
+    "description": "UNDRR/ISC Hazard Information Profile (HIP) concept TL0603",
+    "link": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0603/output/semantic_croissant.json",
+    "availableLanguages": {
+      "nl": {
+        "url": "hips/TL0603/translations/nl/TL0603_article.md",
+        "unf": "UNF:6:8Tew3SXNtXJIs/K8Z814cQ=="
+      },
+      "lv": {
+        "url": "hips/TL0603/translations/lv/TL0603_keywords.md",
+        "unf": "UNF:6:MiVh5Nqo244aS78Poj1KjA=="
+      },
+      "sl": {
+        "url": "hips/TL0603/translations/sl/TL0603_article.md",
+        "unf": "UNF:6:Q7QCIXv2lsc2QmdW5ApzBg=="
+      },
+      "hr": {
+        "url": "hips/TL0603/translations/hr/TL0603_article.md",
+        "unf": "UNF:6:0VYhKikp+HniwueYQZ7Enw=="
+      },
+      "sr": {
+        "url": "hips/TL0603/translations/sr/TL0603_article.md",
+        "unf": "UNF:6:9xp4KakMNPRgnV2KIZ9x4g=="
+      },
+      "fr": {
+        "url": "hips/TL0603/translations/fr/TL0603_article.md",
+        "unf": "UNF:6:xQAZyPMcf6e4fQR/QObk+A=="
+      },
+      "sk": {
+        "url": "hips/TL0603/translations/sk/TL0603_article.md",
+        "unf": "UNF:6:svizpNrtsShMUrLNMISy7w=="
+      },
+      "ru": {
+        "url": "hips/TL0603/translations/ru/TL0603_article.md",
+        "unf": "UNF:6:Ixw4IaMntkvBxA/bCJfLKA=="
+      },
+      "et": {
+        "url": "hips/TL0603/translations/et/TL0603_article.md",
+        "unf": "UNF:6:3gvNgFkS8eERpqcE11sdgg=="
+      },
+      "ch": {
+        "url": "hips/TL0603/translations/ch/TL0603_keywords.md",
+        "unf": "UNF:6:S2QobbprvNg3mdHimFxhXw=="
+      },
+      "it": {
+        "url": "hips/TL0603/translations/it/TL0603_article.md",
+        "unf": "UNF:6:/W4JJcxjJhmR0vXtU/MKNw=="
+      },
+      "ar": {
+        "url": "hips/TL0603/translations/ar/TL0603_article.md",
+        "unf": "UNF:6:kTEQThjc20NctCwNnqIKkA=="
+      },
+      "tr": {
+        "url": "hips/TL0603/translations/tr/TL0603_article.md",
+        "unf": "UNF:6:H4wMmcFCdRYdbQHSWdi5SQ=="
+      },
+      "no": {
+        "url": "hips/TL0603/translations/no/TL0603_article.md",
+        "unf": "UNF:6:Va0dMYQxGCBicujJRSKtWw=="
+      },
+      "es": {
+        "url": "hips/TL0603/translations/es/TL0603_article.md",
+        "unf": "UNF:6:frmB+b3JPUDp9/3+LC9CMg=="
+      },
+      "de": {
+        "url": "hips/TL0603/translations/de/TL0603_article.md",
+        "unf": "UNF:6:1Br9a8H+Y0x/eTPjByBBfw=="
+      },
+      "pt": {
+        "url": "hips/TL0603/translations/pt/TL0603_keywords.md",
+        "unf": "UNF:6:8GApnm1ijvfr3/J4HWfB8g=="
+      },
+      "dk": {
+        "url": "hips/TL0603/translations/dk/TL0603_keywords.md",
+        "unf": "UNF:6:HRdhtdqet72OnYEqB01C0w=="
+      },
+      "fi": {
+        "url": "hips/TL0603/translations/fi/TL0603_keywords.md",
+        "unf": "UNF:6:hpK6JTm8XjvSKEOYRU75eA=="
+      },
+      "ko": {
+        "url": "hips/TL0603/translations/ko/TL0603_keywords.md",
+        "unf": "UNF:6:53d4EYBNG5sfEiqDvsTXPA=="
+      },
+      "ua": {
+        "url": "hips/TL0603/translations/ua/TL0603_article.md",
+        "unf": "UNF:6:X1LhLAedtsqKNwGWoUWwGw=="
+      },
+      "lt": {
+        "url": "hips/TL0603/translations/lt/TL0603_article.md",
+        "unf": "UNF:6:iK6FIMUUQeWIv3sR2Qpd8Q=="
+      }
+    },
+    "instruction": "Models must read the linked semantic_croissant.json file to access the authoritative translations and data directly from the verified source."
+  }
 }

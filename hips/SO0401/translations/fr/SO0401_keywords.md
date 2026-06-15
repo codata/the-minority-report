@@ -1,0 +1,1 @@
+financial sector, unexpected disturbance, significant effect, economic impact, national impact, regional impact, global impact, negative impacts, financial system, economic disturbance

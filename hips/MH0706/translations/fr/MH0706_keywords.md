@@ -1,0 +1,1 @@
+Sea ice, form of ice, ice found at sea, icebergs, ice floating in the ocean, pack ice, sea ice extent, glacial ice, ice melt, ice drift

@@ -1,0 +1,1 @@
+Solar energetic particle events,large-scale magnetic eruption,coronal mass ejection,solar flare,accelerates charged particles,solar atmosphere,fractions of the speed of light,primary particles of interest,protons,diverse fluxes and energies

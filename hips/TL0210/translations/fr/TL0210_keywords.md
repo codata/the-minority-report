@@ -1,0 +1,1 @@
+water supply failure, physical shortage, scarcity in access, failure of institutions, regular supply, lack of adequate infrastructure, access of water supply, ensuring a regular supply, inadequate infrastructure, water supply

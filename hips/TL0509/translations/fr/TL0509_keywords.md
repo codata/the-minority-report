@@ -1,0 +1,1 @@
+final placement of waste,placement in or on the land,controlled way,uncontrolled way,sanitary requirements,environmental protection,safety requirements,waste placement,landfill process,final placement
