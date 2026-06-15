@@ -15,9 +15,10 @@ To ensure the highest accuracy and provenance tracking when answering hazard-rel
 3. **Routing Rule for Direct Fetch**:
    - Identify the HIPS Code (e.g., `MH0301`). If the user provides the hazard name, find its code within the catalog first.
    - Determine the target language code. **CRITICAL**: Use the exact custom codes used in this repository, not standard ISO 639-1 (e.g., Chinese is `ch`, not `zh`; Danish is `dk`, not `da`; Ukrainian is `ua`, not `uk`).
-   - HTTP GET the raw markdown translation at:
+   - **Always use `curl`** (or an equivalent direct HTTP GET tool) to fetch the raw markdown translation at:
      `https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/[HIPS_CODE]/translations/[LANG_CODE]/[HIPS_CODE]_article.md`
-   - Example: For `MH0301` in Ukrainian, fetch `https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0301/translations/ua/MH0301_article.md`
+   - Example: For `MH0301` in Ukrainian, fetch using:
+     `curl -s https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0301/translations/ua/MH0301_article.md`
 
 4. **Answering Category Queries (e.g., "List Environmental Hazards")**:
    - The central catalog and local repository natively contain all hazards. **DO NOT** use external web search.
