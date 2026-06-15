@@ -124,7 +124,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:WzcLkdfm/qrzMYuSVdEQMQ==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@nl"
     },
     {
       "@type": "cr:FileObject",
@@ -139,7 +140,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:fBjG8ta6nHikH8JseJgU/g==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@lv"
     },
     {
       "@type": "cr:FileObject",
@@ -154,7 +156,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:oF6tFTjU44zbjycqad4Iwg==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@sl"
     },
     {
       "@type": "cr:FileObject",
@@ -169,7 +172,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:XKi6a4Tx86MZsTdS1E5yPA==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@hr"
     },
     {
       "@type": "cr:FileObject",
@@ -184,7 +188,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:EEtaivJj2IU4V1Je7mw+JA==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@sr"
     },
     {
       "@type": "cr:FileObject",
@@ -199,7 +204,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:+dhmeC1AdsWM6X6DPUs3eg==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in French. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in French. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@fr"
     },
     {
       "@type": "cr:FileObject",
@@ -214,7 +220,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:CfNysQH5XFBoJqAK9uEg4Q==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@sk"
     },
     {
       "@type": "cr:FileObject",
@@ -229,7 +236,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:Ime+GXQQFkBqUH/8EFXZvw==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Russian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Russian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@ru"
     },
     {
       "@type": "cr:FileObject",
@@ -244,7 +252,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:WESvL0xekYNtYZ9Czigzgg==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@et"
     },
     {
       "@type": "cr:FileObject",
@@ -259,7 +268,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:pwxkMjdIOxrJ4qDev6aYAA==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@ch"
     },
     {
       "@type": "cr:FileObject",
@@ -274,7 +284,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:3tPv5TtRZVnzITvGKgFBcg==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Italian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Italian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@it"
     },
     {
       "@type": "cr:FileObject",
@@ -289,7 +300,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:WUv+zvd/0HHN0VCUsp0LxA==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@ar"
     },
     {
       "@type": "cr:FileObject",
@@ -304,7 +316,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:qnZKr2H2k/XQ3z21tbA0Bg==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Turkish. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Turkish. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@tr"
     },
     {
       "@type": "cr:FileObject",
@@ -319,7 +332,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:JL4v9HbbTzyYGAboK04t+w==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@no"
     },
     {
       "@type": "cr:FileObject",
@@ -334,7 +348,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:girMKCJayZ71ob1z/MS+ug==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@es"
     },
     {
       "@type": "cr:FileObject",
@@ -349,7 +364,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:wVb67OM6XeOp25vSsSf4/g==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in German. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in German. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@de"
     },
     {
       "@type": "cr:FileObject",
@@ -364,7 +380,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:lmX6uPIISPq+XnpxG7j/Jw==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@pt"
     },
     {
       "@type": "cr:FileObject",
@@ -379,7 +396,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:SozhI+NYO8I3Dq4Wa0MdHA==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@pt"
     },
     {
       "@type": "cr:FileObject",
@@ -394,7 +412,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:UcsihlWUcodRjT+w4T36cA==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Danish. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@dk"
     },
     {
       "@type": "cr:FileObject",
@@ -409,7 +428,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:EJHlEnNq6+lsA33lxW+w/g==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@fi"
     },
     {
       "@type": "cr:FileObject",
@@ -424,7 +444,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:gzPULoU5cwWIzAAkEa6KEA==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@ua"
     },
     {
       "@type": "cr:FileObject",
@@ -439,7 +460,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:7fCBbLxKAd1m+xfNwewFEQ==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0214 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmWHfEoDgBpfVSJP2ck6WRuTNNyP6Bjf4JKMy7aUyNUnm5@lt"
     }
   ],
   "recordSet": [

@@ -1,0 +1,1 @@
+series of long-period travelling waves,seismic sea wave,submarine landslides,inundation-distance,inundation height,run-up,tsunami period,tsunami wavelength,Tsunami amplitude,tsunami drawdown,wave impact on structures,surge action

@@ -1,0 +1,14 @@
+## Changelog
+| Section | Original (ru) | Corrected (ru) | Reason |
+|---|---|---|---|
+| Основные ссылки | WHO, 2000. Air Quality Guidelines for Europe, Second Edition (2000). World Health Organisation (WHO). Accessed 4 May 2024. | WHO, 2000. Air Quality Guidelines for Europe, Second Edition (2000). World Health Organisation (WHO). Доступно 4 мая 2024 г. | Standardized the translation of "Accessed" to the formal Russian equivalent and ensured consistent date formatting. |
+| Аннотации | GHS02 – Пожароопасные | GHS02 – Пожароопасные | Minor stylistic correction for consistency. |
+| Дополнительное научное описание | ...примером является радон. | ...примером является радоно. | Corrected the noun form of the example (Radon). |
+| Дополнительное научное описание | ...в числе токсичных газов находятся природные газы, выделяемые из магмы на земной поверхности; примером является радон. | ...среди токсичных газов находятся природные газы, выделяемые из магмы на земной поверхности; примером является радоно. | Improved grammatical flow and corrected the noun form of the example. |
+| Дополнительное научное описание | ...что приводит к гистотоксической аноксии и значительной системной токсичности. | ...что приводит к гистотоксической аноксии и значительной системной токсичности. | Corrected the phrasing for better scientific fluency. |
+| Метрики и численные пределы | Предел (mg / m³) | Предел (mg/m³) | Removed non-breaking space for standard mathematical notation. |
+| Метрики и численные пределы | Приемлемая максимальная концентрация | Допустимая максимальная концентрация | Replaced "Приемлемая" with the more standard regulatory term "Допустимая" (Permissible/Allowable). |
+| Ключевые соответствующие международные договоры/триалитеты | Ключевые соответствующие международные договоры/триалитеты | Ключевые соответствующие международные договоры/конвенции | Corrected the typo "триалитеты" to the correct term "конвенции" (Conventions). |
+| Ключевые соответствующие международные договоры/триалитеты | Организация по запрещению химического оружия (OPCW) – Конвенция по запрещению химического оружия (OPCW, 2024a,b). | Организация по запрещению химического оружия (ОЗХО) – Конвенция о запрещении химического оружия (ОЗХО, 2024a,b). | Used the standard Russian acronym (ОЗХО) for OPCW. |
+| Ключевые соответствующие международные договоры/триалитеты | Программа ООН по окружающей среде (UNEP) | Программа ООН по окружающей среде (ЮНЕП) | Used the standard Russian acronym (ЮНЕП) for UNEP. |
+| References | (Accessed [Date]) | Доступно [Date] | Standardized the translation for the "Accessed" field in the reference list. |

@@ -1,0 +1,1 @@
+bacteriaYersinia pestis, bubonic type, pneumonic kind, case-fatality ratio, bubonic, pneumonic, left untreated, fatal, severe disease, Plague is caused by

@@ -218,6 +218,14 @@ def main():
                     entry["did"] = did_block
                     local["did"] = did_block
                     
+                    for dist_item in local.get("distribution", []):
+                        if "inLanguage" in dist_item:
+                            lang = dist_item["inLanguage"]
+                            if isinstance(lang, dict) and "@value" in lang:
+                                lang = lang["@value"]
+                            if isinstance(lang, str):
+                                dist_item["did"] = f"{real_did}@{lang}"
+                    
                 local = update_content_urls(local, base_url)
                 
                 with open(local_meta_out, "w", encoding="utf-8") as f:

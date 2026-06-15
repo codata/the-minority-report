@@ -1,0 +1,1 @@
+extreme warm, near-sea surface temperature,SST,period of extreme warm,persists for days to months,extend up to thousands of kilometres,near-sea surface,surface temperature,marine heatwave,persistence,duration,spatial extent

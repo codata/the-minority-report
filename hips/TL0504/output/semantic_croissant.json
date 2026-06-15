@@ -124,7 +124,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:ErLcgrnUyO1Zl/rFgxw4RQ==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@nl"
     },
     {
       "@type": "cr:FileObject",
@@ -139,7 +140,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:tmdAcpADshOG1gVoyPMoaw==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@lv"
     },
     {
       "@type": "cr:FileObject",
@@ -154,7 +156,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:7eNr7s9m1U+kHyMDILfLwQ==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@sl"
     },
     {
       "@type": "cr:FileObject",
@@ -169,7 +172,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:TB+TRkLv2RX3UZrm5j4Obw==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@hr"
     },
     {
       "@type": "cr:FileObject",
@@ -184,7 +188,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:5oM4eerInI/qarR7rT4s9w==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@sr"
     },
     {
       "@type": "cr:FileObject",
@@ -199,7 +204,8 @@
         "@id": "model_gemini-3_5"
       },
       "unf": "UNF:6:Sxetd022WuEzG3mTT3gK1A==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in French. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in French. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@fr"
     },
     {
       "@type": "cr:FileObject",
@@ -214,7 +220,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:Vhj4YEZQj8EV2+ZcoHR5Og==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@sk"
     },
     {
       "@type": "cr:FileObject",
@@ -229,7 +236,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:bbeiAV8S85OdBRo74DzCDw==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Russian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Russian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@ru"
     },
     {
       "@type": "cr:FileObject",
@@ -244,7 +252,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:+Oj+mfGmQa8WlyuolYKe3g==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@et"
     },
     {
       "@type": "cr:FileObject",
@@ -259,7 +268,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:BOzj6hJYEYaGbp8mrCs25Q==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@ch"
     },
     {
       "@type": "cr:FileObject",
@@ -274,7 +284,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:T+wRCZJBZhV5vkycS4y6SQ==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Italian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Italian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@it"
     },
     {
       "@type": "cr:FileObject",
@@ -289,7 +300,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:O23dYDw7Ey57Z2LZD/+jGA==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@ar"
     },
     {
       "@type": "cr:FileObject",
@@ -304,7 +316,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:9Nvs2U+Se68uanoHGWaOXg==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@no"
     },
     {
       "@type": "cr:FileObject",
@@ -319,7 +332,8 @@
         "@id": "model_gemini-3_5"
       },
       "unf": "UNF:6:8LF+wRBK1ZmeYSFlaHi6tw==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@es"
     },
     {
       "@type": "cr:FileObject",
@@ -334,7 +348,8 @@
         "@id": "model_gemini-3_5"
       },
       "unf": "UNF:6:HD/znbTea7jBzcHtFbu4aQ==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in German. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in German. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@de"
     },
     {
       "@type": "cr:FileObject",
@@ -349,7 +364,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:IL3LSL+1lMjZUQk78D3Zng==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@pt"
     },
     {
       "@type": "cr:FileObject",
@@ -364,7 +380,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:iTR0DeRXplciipH/U9adqw==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@pt"
     },
     {
       "@type": "cr:FileObject",
@@ -379,7 +396,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:MWch4rZKsx7L6q2hMK78+w==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Danish. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@dk"
     },
     {
       "@type": "cr:FileObject",
@@ -394,7 +412,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:0bN0nTa4jEklYO+dEyjYhw==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@fi"
     },
     {
       "@type": "cr:FileObject",
@@ -409,7 +428,8 @@
         "@id": "model_deepseek-r1_14b"
       },
       "unf": "UNF:6:xolrsQV7+0eIte/RIAIg/Q==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@ua"
     },
     {
       "@type": "cr:FileObject",
@@ -424,7 +444,8 @@
         "@id": "model_unknown_model"
       },
       "unf": "UNF:6:P+QEEmeOgmitN0qOB3a6AQ==",
-      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context."
+      "description": "Full markdown translation of the UNDRR/ISC TL0504 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context.",
+      "did": "did:oyd:zQmY2AVdueBSBv4J6FWUwk5Vo84DzrDDNTheVaRDK3q5nTt@lt"
     }
   ],
   "recordSet": [

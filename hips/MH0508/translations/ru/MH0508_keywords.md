@@ -1,0 +1,1 @@
+sublimation of water vapour,ice formation on surfaces,freezing point of water,extracellular ice formation,plant tissue dehydration,freeze injury to crops,passive protection methods,active protection methods,ground frost monitoring,early warning system (EWS),cold air drainage

@@ -1,0 +1,1 @@
+fast-moving bands of thunderstorms,straight-line wind damage,widespread convectively induced straight-line windstorm,family of particularly damaging downburst clusters,mesoscale convective system,downburst clusters,downbursts and microbursts,serial derechos,progressive derechos,hybrid derechos,low-point derechos,straight-line winds

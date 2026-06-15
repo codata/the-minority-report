@@ -1,0 +1,1 @@
+reactive pale green gas, disinfection of water, heavier than air, characteristic odour similar to bleach, loss of containment, storage and transport, human exposure, pulmonary oedema, public health hazard, chlorine hazard

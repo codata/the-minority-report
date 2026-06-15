@@ -1,0 +1,1 @@
+Salt-affected soils, saline soils, sodic soils, soluble salts, osmotic pressure, soil solution

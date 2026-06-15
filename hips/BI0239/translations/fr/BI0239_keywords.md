@@ -1,0 +1,1 @@
+varicella-zoster virus,acute disease,latent in neural ganglia,reactivated to cause herpes zoster,herpes zoster,shingles,immunocompromised individuals,persons over 50 years of age,varicella,herpes zoster

@@ -293,11 +293,12 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
         "content_url": csv_url,
         "sha256": csv_sha256
     }
+    csv_unf_val = None
     if unf_hash:
         try:
             csv_unf = unf_hash.compute_unf_file(file_path)
             if csv_unf:
-                csv_file_kwargs["unf"] = csv_unf
+                csv_unf_val = csv_unf
         except Exception:
             pass
     if "encoding_formats" in sig.parameters:
@@ -707,6 +708,11 @@ def generate_croissant_metadata(dataset_name, description, file_path, num_record
         json_output["distribution"].extend(translations_json_objects)
     else:
         json_output["distribution"] = translations_json_objects
+
+    if csv_unf_val and "distribution" in json_output:
+        for item in json_output["distribution"]:
+            if item.get("@id") == "csv_file":
+                item["unf"] = csv_unf_val
 
     # Inject description for the clean_text FileObject in distribution
     if "distribution" in json_output:
