@@ -1,0 +1,1 @@
+foodborne infection caused by Listeria monocytogenes,non-invasive listeriosis,invasive listeriosis,zoonotic disease,Listeria monocytogenes foodborne pathogen,ready-to-eat meat products,soft cheeses and unpasteurised milk,high-risk food products,septicaemia and meningitis,Listeria monocytogenes in food chain

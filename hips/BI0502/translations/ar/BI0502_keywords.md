@@ -1,0 +1,1 @@
+fungal plant disease, fungal agents, mycelium, fungal spores, blight, wilt, rot, mildew, canker, smuts, rusts, potato late blight, wheat rust diseases, basal rot, grey mould rot and heart rot, Aspergillus species, plant disease-causing fungi, integrated pest management practices

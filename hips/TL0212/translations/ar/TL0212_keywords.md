@@ -1,0 +1,1 @@
+damage and/or destruction of communication system components,damage and/or disruption in supporting network infrastructure,disruption due to congestion,lack of redundancy,failure of communication systems,destruction of technology infrastructure,base transceiver station (BTS) equipment,communication outages,network congestion or overload,radio-based early warning systems
