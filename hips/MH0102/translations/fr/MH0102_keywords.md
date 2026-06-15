@@ -1,0 +1,1 @@
+luminous manifestation, electrical discharge, discharge from a cloud, discharge from high structures, discharge from mountains, lightning from within a cloud, lightning from the ground, electrical discharge event, lightning manifestation, electrical storm

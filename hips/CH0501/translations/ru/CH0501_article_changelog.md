@@ -1,0 +1,11 @@
+## Changelog
+| Section | Original (ru) | Corrected (ru) | Reason |
+|---|---|---|---|
+| Annotations Header | **GHS Classification** | **Классификация GHS** | Translation for official terminology. |
+| Additional scientific description | Пестициды можно также классифицировать по видам вредителей, которых они уничтожают: инсектициды (насекомые); гербициды (растения); родентициды (грызуны); бактерицида (бактерии); фунгициды (грибы); и ларвициды (личинки) (WHO and FAO, 2016). | Пестициды также можно классифицировать по видам вредителей, которых они уничтожают: инсектициды (насекомые); гербициды (растения); родентициды (грызуны); бактерициды (бактерии); фунгициды (грибы); и ларвициды (личинки) (WHO и FAO, 2016). | Corrected grammatical agreement (бактерициды instead of бактерицида) and improved flow. |
+| Additional scientific description | ...в основном на мозг. Они также связаны с риском рака. | ...в основном мозга. Они также связаны с риском развития рака. | Improved fluency and scientific precision. |
+| Additional scientific description | ...дольше сохраняются в среде (ATSDR, 2003; CDC, 2019). | ...дольше сохраняются в окружающей среде (ATSDR, 2003; CDC, 2019). | Replaced "в среде" with the more formal "в окружающей среде" (ecosystem context). |
+| Методы и механизмы воздействия | **Пестициды** – химические или биологические вещества, направленные на вредителей. | **Пестициды** – химические или биологические вещества, направленные на вредителей. | Standardized capitalization for section headers. |
+| Мультирисковые контексты | ...усиливая их влияние (см. раздел «Multi‑hazard diagram»). | ...усиливая их влияние (см. раздел «диаграмма мультирисков»). | Translated the English placeholder term into authoritative Russian. |
+| Управление рисками | **Техники мониторинга** – EU Pesticide Monitoring Programme, PAN, местные программы IPM. | **Техники мониторинга** – Европейская программа мониторинга пестицидов (EU Pesticide Monitoring Programme), PAN, местные программы IPM. | Provided the full Russian translation for the specific monitoring program for clarity and compliance. |
+| Ссылки | [References] | [References] | Standardized the header for the reference list. |

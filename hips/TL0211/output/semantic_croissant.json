@@ -96,8 +96,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0211/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -106,8 +105,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0211/data/distribution/TL0211_Emergency_Telecommunications_Failure_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "1cbe4287109f2d3a74234001ffad99c35385452319828a0acf34353c1a53a654",
-      "description": "Clean plaintext extract of the original HIPS HTML document for TL0211, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:fLlM6xjDAcDxEPaR5V8IXw=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for TL0211, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -121,7 +119,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Xa866+7d/TrNlwC00kjA9w==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context."
     },
     {
@@ -136,7 +133,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:ZB+eSdo06KlkIUipqlcwcA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
     },
     {
@@ -151,7 +147,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:6coUgzNgGTv/DlgRYDUpqQ==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
     },
     {
@@ -166,7 +161,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:IkvVHbT3sAHt0SJe+v9g4A==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context."
     },
     {
@@ -181,7 +175,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:WOVubWs891msJZjcZ7wR3A==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context."
     },
     {
@@ -196,7 +189,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:UzDOBm8vJDgi9hAQV+WrwA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context."
     },
     {
@@ -211,7 +203,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:0IYJkLenjUB/M+OVuKe7tA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in French. Contains the authoritative translation of the original context."
     },
     {
@@ -226,7 +217,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Z4NPBrKyJ8HoAui9EwnOpg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context."
     },
     {
@@ -241,7 +231,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:KcOTibm6kOj+LCJPOLTyVg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Russian. Contains the authoritative translation of the original context."
     },
     {
@@ -256,7 +245,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:lH9VKNXQa7qiJGuxPTZ2oA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context."
     },
     {
@@ -271,7 +259,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:NGYutHoZEhz8db3VCOeTMg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
     },
     {
@@ -286,7 +273,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:4fTppBm3fippiH+uFvo48A==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
     },
     {
@@ -301,7 +287,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:AtSCLi+EVZAVSUeDBpFeow==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Italian. Contains the authoritative translation of the original context."
     },
     {
@@ -316,7 +301,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:rZ+sqSMIQYoBIiFzuLnWVQ==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context."
     },
     {
@@ -331,7 +315,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:S+mbP6+QRT8kXDn1KGxoSA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Turkish. Contains the authoritative translation of the original context."
     },
     {
@@ -346,7 +329,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Rj5xk2Mxi6A7gA2YIIysgw==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context."
     },
     {
@@ -361,7 +343,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:DSIyK+VphW1N9PbG5oMvCg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context."
     },
     {
@@ -376,7 +357,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:jtDHbjoyB7bLeqXeHw32tA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in German. Contains the authoritative translation of the original context."
     },
     {
@@ -391,7 +371,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Ynd3Ry1Edn5h584eyFStGg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -406,7 +385,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:k8taZApBve7MSz7DLNi25g==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -421,7 +399,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Qt/61B4WTmtS+1YFfr2VRg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
     },
     {
@@ -436,7 +413,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:MFNOXCoQyVzSY9p478j6cg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
     },
     {
@@ -451,7 +427,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Y6m0KgmgSOL1yFlhZ7Vbow==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
     },
     {
@@ -466,7 +441,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:33md9p4MdMcBPivWMqwfzA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
     },
     {
@@ -481,7 +455,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:d7dFcUTo0A/7KcQgKZDWkQ==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in ko. Contains the authoritative translation of the original context."
     },
     {
@@ -496,7 +469,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:PyjRdBszHdELpxX7g/Yojg==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in ko. Contains the authoritative translation of the original context."
     },
     {
@@ -511,7 +483,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:6s1ra5oxLhPWSsU/AETofw==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context."
     },
     {
@@ -526,7 +497,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:KE321fahKfCznypZQXUcgw==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context."
     },
     {
@@ -541,7 +511,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:9lnhvtwdRqY92gE5HVFwNA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0211 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context."
     }
   ],
@@ -682,8 +651,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for TL0211: Emergency Telecommunications Failure. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0211. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0211/data/distribution/TL0211_Emergency_Telecommunications_Failure.html",
       "encodingFormat": "text/html",
-      "sha256": "b9fe67997b629ba35a464220e08b85a57cab98ad43acb8bba3399ef6cc8bc29e",
-      "unf": "UNF:6:5NB1OigJ4AAvV47szy0lcg=="
+      "sha256": "b9fe67997b629ba35a464220e08b85a57cab98ad43acb8bba3399ef6cc8bc29e"
     },
     {
       "@type": "CreativeWork",
@@ -692,8 +660,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for TL0211, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0211/data/distribution/TL0211_Emergency_Telecommunications_Failure_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "1cbe4287109f2d3a74234001ffad99c35385452319828a0acf34353c1a53a654",
-      "unf": "UNF:6:fLlM6xjDAcDxEPaR5V8IXw=="
+      "sha256": "1cbe4287109f2d3a74234001ffad99c35385452319828a0acf34353c1a53a654"
     }
   ],
   "https://schema.org/identifier": "TL0211",

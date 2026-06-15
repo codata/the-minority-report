@@ -1,0 +1,1 @@
+Highly Hazardous Pesticides,Insecticides,Herbicides,Rodenticides,Fungicides,Larvicides,Organochlorines,Carbamates/Organophosphates,Pyrethroids/Pyrethrins,Pesticide residue,Nanopesticide formulations,Integrated Pest Management,Maximum residue limits

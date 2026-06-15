@@ -96,8 +96,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0217/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -106,8 +105,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0217/data/distribution/BI0217_Leptospirosis_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "98cbe81d7bc173751ecfd7229da261e01cde6c51d8bc3485c36617edd0aced2c",
-      "description": "Clean plaintext extract of the original HIPS HTML document for BI0217, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:IfzPZ9hxcavfr61WrZ88jw=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for BI0217, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -121,7 +119,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:SzTHFEVOVM4sGmf1svuD+Q==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context."
     },
     {
@@ -136,7 +133,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Nr4f5a2gon75GdO65MFW2Q==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
     },
     {
@@ -151,7 +147,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:QI8Hn4USIG4nQjRfzNGKqQ==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context."
     },
     {
@@ -166,7 +161,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:3u5vvp6sJrXPbVtBON5UOw==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context."
     },
     {
@@ -181,7 +175,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:/9mskR/x7Clb2kaLU7hYKg==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context."
     },
     {
@@ -196,7 +189,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:s9vUd4aimyDeaco/uwMBZg==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in French. Contains the authoritative translation of the original context."
     },
     {
@@ -211,7 +203,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:dGA9vttQ6MB+vibYeuIwCA==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context."
     },
     {
@@ -226,7 +217,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:o8mq/PwwAC+Iy/GvIlO1ew==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Russian. Contains the authoritative translation of the original context."
     },
     {
@@ -241,7 +231,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:7/c7s/1Ydclu7nNRY2y+rA==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context."
     },
     {
@@ -256,7 +245,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Dx1WGnn0RAtmoSzduCDjfw==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
     },
     {
@@ -271,7 +259,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:KSArPUVbB7yuiIKHYZbdrA==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Italian. Contains the authoritative translation of the original context."
     },
     {
@@ -286,7 +273,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:644HhaPHSff5Euq/ToB1hQ==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context."
     },
     {
@@ -301,7 +287,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:1u2zZwQNSfcsUZGp9QFaAQ==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Turkish. Contains the authoritative translation of the original context."
     },
     {
@@ -316,7 +301,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:d6ZvpGyzD26cQl4rmhVESA==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context."
     },
     {
@@ -331,7 +315,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:k8TW5mFmSCuZs5nLFUrw5A==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context."
     },
     {
@@ -346,7 +329,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:ETPsYT2PWATL8wlYuB/Vog==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in German. Contains the authoritative translation of the original context."
     },
     {
@@ -361,7 +343,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:fZ4FzzHrsHl/OFoyCOGYEw==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -376,7 +357,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:FP/fhygGeJXIZaevIZqjNA==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -391,7 +371,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:9OFDe4NeaLWqYmyeue/1UQ==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
     },
     {
@@ -406,7 +385,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:0A3TzbOLMo+AnwiOKjPwAg==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
     },
     {
@@ -421,7 +399,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Li8uKl1LqOTtR4tmqYeD2w==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context."
     },
     {
@@ -436,7 +413,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:5P/tPM8TFvn6rZ9ErpuJrA==",
       "description": "Full markdown translation of the UNDRR/ISC BI0217 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context."
     }
   ],
@@ -577,8 +553,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for BI0217: Leptospirosis. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0217. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0217/data/distribution/BI0217_Leptospirosis.html",
       "encodingFormat": "text/html",
-      "sha256": "5c4420883f849a7f77e1578f16b1d3d1832a664591fd9420dba12b50d8b9a566",
-      "unf": "UNF:6:zQqtc8yI2G3+lRXg5PyiCQ=="
+      "sha256": "5c4420883f849a7f77e1578f16b1d3d1832a664591fd9420dba12b50d8b9a566"
     },
     {
       "@type": "CreativeWork",
@@ -587,8 +562,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for BI0217, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0217/data/distribution/BI0217_Leptospirosis_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "98cbe81d7bc173751ecfd7229da261e01cde6c51d8bc3485c36617edd0aced2c",
-      "unf": "UNF:6:IfzPZ9hxcavfr61WrZ88jw=="
+      "sha256": "98cbe81d7bc173751ecfd7229da261e01cde6c51d8bc3485c36617edd0aced2c"
     }
   ],
   "https://schema.org/identifier": "BI0217",

@@ -1,0 +1,1 @@
+substance or mixture, chemical ingredients, biological ingredients, repelling pests, destroying pests, controlling pests, regulating plant growth, pest control, plant growth regulation, chemical or biological ingredients

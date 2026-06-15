@@ -96,8 +96,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/EN0304/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -111,7 +110,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:QcGh0/mqb3po+40Z30Qf8w==",
       "description": "Full markdown translation of the UNDRR/ISC EN0304 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     }
   ],

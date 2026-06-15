@@ -1,0 +1,1 @@
+meteorite impacts,meteoroid entry into atmosphere,fireballs or shooting stars,shockwave from exploding object,overpressure shock,thermal radiation,cratering,seismic shaking,ejecta deposition,airbursts and shock waves,localized hazard potential,large craters formation,impact effects on human populations

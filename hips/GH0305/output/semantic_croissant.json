@@ -96,8 +96,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/GH0305/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -106,8 +105,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/GH0305/data/distribution/GH0305_Rock,_debris_and_earth_topples_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "49b5863dd223c4c2b72cdc6500729a4be54027506be94051cfa244e2f7c60cc7",
-      "description": "Clean plaintext extract of the original HIPS HTML document for GH0305, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:dBSYRN03mqVo6536p+etmA=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for GH0305, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -121,7 +119,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:A4baJHuChGFcJA+Gcjfhgw==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context."
     },
     {
@@ -136,7 +133,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:/m+fASdKgfog06cLvgrIRQ==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
     },
     {
@@ -151,7 +147,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Mw/H/MaPXZ4wcIwxwYCa7w==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context."
     },
     {
@@ -166,7 +161,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:nF2bgei7ue+V1ndWW9Fm5w==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context."
     },
     {
@@ -181,7 +175,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:xIB8+nUpYStU+QorpfPawg==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context."
     },
     {
@@ -196,7 +189,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:+l7O+cpogpJFQfUtF6KQeg==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in French. Contains the authoritative translation of the original context."
     },
     {
@@ -211,7 +203,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:utaOt1+Ir5W/ijP3zF+Stg==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context."
     },
     {
@@ -226,7 +217,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:LTgY5PDeYZRzhmS8SCCIRQ==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Russian. Contains the authoritative translation of the original context."
     },
     {
@@ -241,7 +231,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:efpqLPSz2kb3cadAUSZ10A==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context."
     },
     {
@@ -256,7 +245,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:pevOfd3cCfBttge90TRf/A==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
     },
     {
@@ -271,7 +259,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:veE2CwEtJvBh6EA3hui1FQ==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Italian. Contains the authoritative translation of the original context."
     },
     {
@@ -286,7 +273,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:LrhdYOn8X/OVRedoV1Zf2A==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context."
     },
     {
@@ -301,7 +287,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:MndzrTExTSTHy5vrXtM4cg==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Turkish. Contains the authoritative translation of the original context."
     },
     {
@@ -316,7 +301,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:p6twBRX0++zPBp+WEEMR0Q==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context."
     },
     {
@@ -331,7 +315,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:6RSQ6vZtygiiarRqKptHYg==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context."
     },
     {
@@ -346,7 +329,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:LyKwcC9SidD50Z1UzY8WHA==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in German. Contains the authoritative translation of the original context."
     },
     {
@@ -361,7 +343,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:GyFYB3lWE1mSCZcUlfo3lA==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -376,7 +357,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:L6+uRuGXjQpX0y4r7TMJNQ==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -391,7 +371,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:H7ifRrNYm8DnQTiv0eO6fA==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
     },
     {
@@ -406,7 +385,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:ux/cyKvcqgFHMUxTAXGLEw==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
     },
     {
@@ -421,7 +399,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:y0vYrvm2EbzB84CvI4Rksw==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context."
     },
     {
@@ -436,7 +413,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:q5iOnufF22FOk6I7plrlzA==",
       "description": "Full markdown translation of the UNDRR/ISC GH0305 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context."
     }
   ],
@@ -577,8 +553,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for GH0305: Rock, debris and earth topples. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0305. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/GH0305/data/distribution/GH0305_Rock,_debris_and_earth_topples.html",
       "encodingFormat": "text/html",
-      "sha256": "653949d813409b79da4e0f98f82904830e2e07745ff5fdf535d450f5f64d65cb",
-      "unf": "UNF:6:/pdEvygeh3fPeENAO8PuuQ=="
+      "sha256": "653949d813409b79da4e0f98f82904830e2e07745ff5fdf535d450f5f64d65cb"
     },
     {
       "@type": "CreativeWork",
@@ -587,8 +562,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for GH0305, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/GH0305/data/distribution/GH0305_Rock,_debris_and_earth_topples_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "49b5863dd223c4c2b72cdc6500729a4be54027506be94051cfa244e2f7c60cc7",
-      "unf": "UNF:6:dBSYRN03mqVo6536p+etmA=="
+      "sha256": "49b5863dd223c4c2b72cdc6500729a4be54027506be94051cfa244e2f7c60cc7"
     }
   ],
   "https://schema.org/identifier": "GH0305",

@@ -1,85 +1,71 @@
-> (The following is the fully corrected, well‑structured Markdown translation. Legacy formatting has been removed and all headings converted to Markdown syntax. All terms comply with the DRR Controlled Vocabulary and geological context.)
+### Définition
+Un accident de la circulation implique au moins un véhicule routier en mouvement sur une route publique ou privée accessible au public, entraînant au moins une personne blessée ou tuée. Environ 1,19 million de personnes meurent chaque année à la suite d’accidents de la circulation, qui constituent la principale cause de mortalité chez les enfants et les jeunes adultes âgés de 5 à 29 ans. 92 % des décès routiers dans le monde se produisent dans les pays à revenu faible ou intermédiaire, même si ces pays possèdent environ 60 % des véhicules mondiaux (adapté de UNECE, Eurostat, ITF, 2019 et OMS, 2023a).
 
-```markdown
-## Définition
+### Référence(s) primaire
+UNECE, Eurostat, ITF 2019. *Glossary for transport statistics*. 5e édition. United Nations, European Union and the International Transport Forum at the OECD (2019). Consulté le 21 février 2025. WHO 2023a *Road Traffic Injuries*. World Health Organization (WHO). Consulté le 17 mars 2025.
 
-Un accident de circulation routière impliquant au moins un véhicule routier en mouvement sur une route publique ou privée accessible au public, entraînant au moins une personne blessée ou tuée. Environ 1,19 million de personnes meurent chaque année à cause d’accidents de circulation routière, qui constituent la principale cause de décès chez les enfants et les jeunes adultes âgés de 5 à 29 ans. Près de 92 % des décès routiers mondiaux se produisent dans les pays à revenu faible et intermédiaire, bien que ces pays possèdent environ 60 % des véhicules mondiaux (adapté de l’UNECE, Eurostat, ITF, 2019 et OMS, 2023a).
+### Annotations
+#### Description scientifique supplémentaire
+Plus de 90 % des décès liés à la circulation se produisent dans les pays à revenu faible ou intermédiaire. Les taux de mortalité routière sont les plus élevés dans la région africaine de l’OMS et les plus faibles dans la région européenne. Même au sein des pays à revenu élevé, les personnes issues de milieux socio-économiques plus modestes sont plus susceptibles d’être impliquées dans des accidents de la circulation. Les blessures routières sont la principale cause de mortalité chez les enfants et les jeunes adultes âgés de 5 à 29 ans. Deux tiers des décès liés à la circulation surviennent chez les personnes en âge de travailler (18–59 ans). Les hommes sont généralement trois fois plus susceptibles d’être tués dans des accidents routiers que les femmes (OMS, 2023a).
 
-## Références principales
+Des définitions statistiquement acceptées pour les accidents de la route (United Nations, European Union and the International Transport Forum at the OECD, 2019) sont les suivantes :
+- **Accident blessé** : tout accident impliquant au moins un véhicule routier en mouvement sur une route publique ou privée accessible au public, entraînant au moins une personne blessée ou tuée.
+  (Un suicide ou une tentative de suicide n’est pas un accident, mais un incident causé par un acte délibéré de se blesser. Si toutefois un suicide ou une tentative de suicide cause une blessure à un autre usager de la route, l’incident est considéré comme un accident blessé.)
+- Les accidents blessés comprennent les collisions entre véhicules routiers ; entre véhicules routiers et piétons ; entre véhicules routiers et animaux ou obstacles fixes et un seul véhicule routier. Les collisions entre véhicules routiers et trams sont inclus.
+- Les collisions multivehiculées ne sont comptées qu’une seule fois si les collisions successives ont lieu dans un très court laps de temps.
+- Les accidents blessés excluent les accidents ne causant que des dommages matériels.
+- Les accidents blessés excluent les actes terroristes mais incluent :
+  - **Accident mortel** : tout accident blessé entraînant une personne tuée.
+  - **Accident non mortel** : tout accident blessé autre que mortel.
+  - **Victime** : toute personne tuée ou blessée à la suite d’un accident blessé.
+  - **Personne tuée** : toute personne tuée immédiatement ou décédant dans les 30 jours à la suite d’un accident blessé, excluant les suicides.
+  - **Personne blessée** : toute personne qui n’a pas été tuée immédiatement ou décédant dans les 30 jours mais qui a subi une blessure nécessitant normalement un traitement médical, excluant les tentatives de suicide.
+  - **Personne gravement blessée** : toute personne blessée hospitalisée plus de 24 heures.
+  - **Personne légèrement blessée** : toute personne blessée excluant celles tuées ou gravement blessées.
 
-- UNECE, Eurostat, ITF 2019. *Glossaire pour les statistiques de transport*, 5ᵉ édition. Nations‑Unies, Union européenne et Forum international du transport à l’OECD (2019). Consulté le 21 février 2025.  
-- OMS 2023a. *Blessures routières*. Organisation mondiale de la santé (OMS). Consulté le 17 mars 2025.
+- **Échelle abrégée maximale des blessures (MAIS)** : classification médicale de la gravité des blessures. MAIS 1–2 est considéré comme léger, MAIS 3–6 comme grave.
 
-## Annotations
+- **Conducteur impliqué** : toute personne impliquée dans un accident blessé qui conduisait un véhicule routier au moment de l’accident.
+- **Passager impliqué** : toute personne impliquée dans un accident blessé, autre qu’un conducteur, qui se trouvait dans ou sur un véhicule routier, ou en train d’entrer ou de sortir d’un véhicule routier.
+- **Piéton impliqué** : toute personne impliquée dans un accident blessé autre qu’un passager ou conducteur.
 
-### Description scientifique supplémentaire
+- **Accident entre véhicule routier et piéton** : tout accident blessé impliquant un ou plusieurs véhicules routiers et un ou plusieurs piétons.
+- **Accident à véhicule unique** : tout accident blessé dans lequel un seul véhicule routier est impliqué.
+- **Accident multivehiculé** : tout accident blessé impliquant deux ou plusieurs véhicules routiers. Les types d’accidents multivehiculés sont :
+  - Collision arrière,
+  - Collision frontale,
+  - Collision par déviation ou tournant,
+  - Autres collisions, y compris les collisions avec véhicules stationnés.
 
-- Plus de 90 % des décès de circulation routière se produisent dans les pays à revenu faible et intermédiaire.  
-- Les taux de mortalité liés à la circulation routière sont les plus élevés dans la région africaine de l’OMS et les plus faibles dans la région européenne.  
-- Même dans les pays à revenu élevé, les personnes issues de milieux socio‑économiques inférieurs sont plus susceptibles d’être impliquées dans des accidents de circulation routière.  
-- Les blessures routières sont la principale cause de décès chez les enfants et les jeunes adultes âgés de 5 à 29 ans.  
-- Deux tiers des décès de circulation routière surviennent chez les personnes de l’âge de travail (18‑59 ans).  
-- Les hommes sont généralement trois fois plus susceptibles d’être tués dans un accident routier que les femmes (OMS 2023a).  
+- **Accident avec conducteurs sous l’influence** : tout accident blessé où au moins un conducteur est sous l’influence d’alcool, de drogues ou de médicaments altérant la conduite.
+- **Suicide** : acte volontaire d’automutilation menant à la mort.
+- **Tentative de suicide** : acte volontaire d’automutilation menant à une blessure grave mais pas à la mort.
 
-### Définitions acceptées (Nations‑Unies, Union européenne et Forum international du transport à l’OECD 2019)
+### Métriques et limites numériques
+Environ 1,19 million de personnes meurent chaque année à la suite d’accidents de la circulation, qui constituent la principale cause de mortalité chez les enfants et les jeunes adultes âgés de 5 à 29 ans, avec 92 % des décès routiers dans le monde se produisant dans les pays à revenu faible ou intermédiaire, même si ces pays possèdent environ 60 % des véhicules mondiaux (adapté de UNECE, Eurostat, ITF, 2019 et OMS, 2023a).
 
-| Terme | Définition | Exclusions |
-|-------|------------|------------|
-| **Accident de circulation** | Tout accident impliquant au moins un véhicule routier en mouvement sur une route publique ou privée accessible au public, entraînant au moins une personne blessée ou tuée. | Accidents ne causant que des dommages matériels. |
-| **Accident fatal** | Accident de circulation entraînant une personne tuée. | Aucun. |
-| **Accident non‑fatal** | Accident de circulation non‑fatal (i.e., toutes les autres catégories). | Aucun. |
-| **Personne blessée** | Toute personne qui, à la suite d’un accident, n’est pas tuée immédiatement ou n’est pas décédée dans les 30 jours, mais a subi une blessure nécessitant un traitement médical, excluant les tentatives de suicide. | Personnes blessées par tentative de suicide. |
-| **Personne gravement blessée** | Toute personne blessée hospitalisée plus de 24 h. | Aucun. |
-| **Personne légèrement blessée** | Toute personne blessée excluant les personnes tuées ou gravement blessées. | Aucun. |
-| **Échelle abrégée maximale des blessures (MAIS)** | Classification médicale de la gravité des blessures. MAIS 1‑2 = légère, MAIS 3‑6 = grave. | Aucun. |
-| **Conducteur impliqué** | Toute personne impliquée dans un accident de circulation conduisant un véhicule routier au moment de l’accident. | Aucun. |
-| **Passager impliqué** | Toute personne impliquée dans un accident de circulation, autre qu’un conducteur, se trouvant dans ou sur un véhicule routier, ou en train de monter ou descendre d’un véhicule routier. | Aucun. |
-| **Piéton impliqué** | Toute personne impliquée dans un accident de circulation, autre qu’un passager ou conducteur. | Aucun. |
+### Convention ou traité multilatéral pertinent
+Conférence de La Haye sur le droit international privé 19 : Convention du 4 mai 1971 sur le droit applicable aux accidents de la circulation (1971). Collection de traités des Nations Unies TRANSPORT ET COMMUNICATIONS B. Circulation routière 14. Accord concernant le transport international de marchandises dangereuses par route (ADR) Genève, 30 septembre 1957.
 
-### Types d’accidents
+### Conducteurs
+Les facteurs humains et les conditions dangereuses sont les causes principales des accidents. Il a été estimé que les erreurs humaines représentaient 95 % des causes des 5 519 accidents de la circulation en Chine de 2008 à 2012. Les accidents liés à la fatigue du conducteur représentaient environ 40 % des accidents majeurs ; les violations des règles de circulation étaient les principaux facteurs affectant la sécurité routière. De plus, des facteurs externes tels que les variations saisonnières de la météo peuvent également influencer la sécurité routière ; environ 5 % des accidents de la circulation ont eu lieu à cause de facteurs liés aux diverses conditions météorologiques, telles que les pluies, le brouillard, le vent et l’ensoleillement (Yan et al., 2021). Les risques géologiques tels que les tremblements de terre (Mason & Brabhaharan, 2021) et les glissements de terrain (Yao et al., 2023). Les facteurs de risque incluent également la vitesse, la conduite sous l’influence de l’alcool et d’autres substances psychoactives, le non-port de casques, le non-port de ceintures de sécurité et de dispositifs de retenue pour enfants, la distraction au volant (telle que l’utilisation du téléphone portable), l’infrastructure routière dangereuse, les véhicules dangereux, les soins post-accident insuffisants et l’application insuffisante des lois de circulation (OMS, 2023a). Le plan d’aménagement urbain et l’environnement bâti influencent significativement les modèles d’accidents de la circulation. Les recherches montrent que la conception du réseau routier, le mélange d’utilisation des sols et la densité urbaine sont associés à la fréquence et à la gravité des accidents (Fang et al., 2024). Bien que les véhicules électriques (VE) offrent de nombreux avantages, des inquiétudes concernant la sécurité de leurs batteries lithium-ion ont été soulevées, notamment en ce qui concerne les risques potentiels d’incendie et d’explosion. Les incendies de VE sont relativement rares par rapport aux incendies de véhicules à essence ; le potentiel de gaz toxiques et les défis d’extinction ont conduit à la mise en place de protocoles de sécurité et à des recherches visant à améliorer la sécurité des batteries (DfT, 2023).
 
-| Type | Description | Exclusions |
-|------|-------------|------------|
-| **Collision arrière** | Collision avec un autre véhicule sur la même voie, se déplaçant dans la même direction, ralenti ou temporairement arrêté. | Collision avec un véhicule arrêté. |
-| **Collision frontale** | Collision avec un autre véhicule sur la même voie, se déplaçant dans la direction opposée, ralenti ou temporairement arrêté. | Collision avec un véhicule arrêté. |
-| **Collision due à l’intersection ou au virage** | Collision avec un autre véhicule se déplaçant latéralement à cause d’une intersection, sortie ou entrée de route. | Collision avec un véhicule en attente d’un virage classée dans les catégories (a) ou (b). |
-| **Autres collisions** | Collisions lors de dépassement, changement de voie, ou avec un véhicule arrêté ou garé sur le bord de la chaussée, l’accotement, les places de stationnement, les trottoirs ou les sites de stationnement. | Aucun. |
+### Impacts
+En tant que cause principale de mortalité et de handicap, les blessures routières imposent également un coût économique énorme aux sociétés, estimé entre 1 % et 3 % du produit intérieur brut (PIB) et, dans certains cas, jusqu’à 6 % (OMS, 2023). En tant que tel, elles constituent un défi majeur en matière de santé et de développement (OMS, 2023b). Plus d’une moitié de tous les décès liés à la circulation concernent les usagers vulnérables, notamment les piétons, les cyclistes et les motocyclistes. Les accidents de la circulation coûtent à la plupart des pays 3 % de leur PIB (OMS, 2023a).
 
-### Facteurs de risque supplémentaires
+### Contexte multi-risque
+La figure ci-dessous résume les interactions courantes entre les accidents de la circulation et d’autres risques. Cette information doit être utilisée avec prudence et ne doit pas être l’unique base de gestion du risque de catastrophe, notamment parce que certaines interactions peuvent ne pas avoir été incluses. Notez que les événements dangereux se produisant ensemble ou localement dans l’espace ou le temps ne sont pas nécessairement des causes, des amplificateurs ou liés d’une autre manière. Des exemples spécifiques de contexte multi-risque peuvent être trouvés dans les sections « Piliers de risque » et « Impacts » ci-dessus.
 
-- **Fatigue du conducteur** (≈ 40 % des accidents majeurs).  
-- **Violations du code de la route** (facteur principal).  
-- **Conditions météorologiques** (≈ 5 % des accidents).  
-- **Activités humaines** (conduite sous l’effet d’alcool, de drogues, ou de médicaments).  
-- **Infrastructure routière** (mesures de calmar le trafic, routes complètes).  
-- **Véhicules** (usage de casques, ceintures, dispositifs de retenue pour enfants).  
-- **Véhicules électriques** (risque d’incendie des batteries lithium‑ion).  
-- **Développement urbain** (densité urbaine, réseau routier, mix de land‑use).
-
-### Impacts économiques
-
-Les blessures de circulation routière imposent un coût économique estimé entre 1 % et 3 % du PIB, pouvant atteindre 6 % dans certains pays (OMS, 2023). En 2021, l’OMS a rapporté qu’environ 1,19 million de personnes ont perdu la vie sur les routes mondiales.
-
-### Contexte multi‑risque
-
-Les accidents de circulation routière peuvent interagir avec d’autres hazards (ex: séismes, glissements de terrain, inondations). Les interactions ne sont pas toujours amplificatrices et peuvent être indépendantes. Le diagramme multi‑risque ci‑dessus illustre les interactions fréquentes.
+### Diagramme multi-risque
+*(figure non fournie dans le texte source)*
 
 ### Gestion des risques
+L’approche « système sûr » vise à assurer un système de transport sûr pour tous les usagers de la route. Cette approche prend en compte la vulnérabilité des personnes à des blessures graves et reconnaît que le système doit être conçu pour tenir compte des erreurs humaines. Les piliers de cette approche sont des routes sûres et des berges sûres, des vitesses sûres, des véhicules sûrs et des usagers de la route sûrs, qui doivent tous être abordés afin d’éliminer les accidents mortels et de réduire les blessures graves (OMS, 2023a). L’Agenda 2030 pour le développement durable a fixé un objectif ambitieux de réduire de moitié le nombre mondial de morts et de blessures liées aux accidents de la circulation d’ici 2030 (Nations Unies, sans date). L’Assemblée générale des Nations Unies a fixé un objectif ambitieux de réduire de moitié le nombre mondial de morts et de blessures liées aux accidents de la circulation d’ici 2030 (A/RES/74/299) (UNGA, 2020). Le Rapport mondial sur la sécurité routière 2023 de l’OMS présente des informations sur la sécurité routière provenant de 172 pays et territoires (OMS, 2023). Ce rapport est le cinquième d’une série et fournit un aperçu de la situation de la sécurité routière dans le monde. Les rapports mondiaux de statut sont l’outil officiel pour surveiller la décennie d’action pour la sécurité routière (2021–2030). La World Health Organization (WHO) a rapporté qu’environ 1,19 million de personnes ont perdu la vie sur les routes du monde en 2021 – une baisse de 5 % par rapport aux 1,25 million de morts en 2010 – et jusqu’à 50 millions sont blessées (OMS, 2023). En septembre 2020, l’Assemblée générale des Nations Unies a adopté la résolution A/RES/74/299 « Améliorer la sécurité routière mondiale », proclamant la Décennie d’action pour la sécurité routière 2021–2030, avec l’objectif ambitieux de prévenir au moins 50 % des morts et blessures liées à la circulation d’ici 2030. L’OMS et les commissions régionales des Nations Unies, en coopération avec d’autres partenaires dans la Collaboration OMS sur la sécurité routière, ont développé un Plan mondial pour la Décennie d’action, qui a été publié en octobre 2021 (OMS, 2021). Le Plan mondial s’aligne sur la Déclaration de Stockholm, en mettant l’accent sur l’importance d’une approche holistique de la sécurité routière et en appelant à des améliorations continues dans la conception des routes et des véhicules ; l’amélioration des lois et de l’application des lois ; et la fourniture de soins d’urgence rapides et salvateurs pour les blessés (OMS, 2021). Le Plan mondial reflète également la promotion des politiques visant à promouvoir la marche, le vélo et l’utilisation des transports publics comme modes de transport naturellement sains et respectueux de l’environnement (OMS, 2020). Les progrès réalisés pendant la précédente Décennie d’action pour la sécurité routière 2011–2020 ont posé les bases d’une action accélérée dans les années à venir. Parmi les réalisations figurent l’inclusion de la sécurité routière dans l’agenda mondial de la santé et du développement, la diffusion large de lignes directrices scientifiques sur ce qui fonctionne, le renforcement des partenariats et des réseaux, et la mobilisation de ressources. Cette nouvelle Décennie d’action offre une opportunité de tirer parti des succès et des leçons des années précédentes et de les mettre en œuvre pour sauver plus de vies. En résumé, l’OMS travaille avec les États membres et les partenaires de tous les secteurs pour soutenir l’évaluation, la mise en œuvre et la planification de la sécurité routière. En tant qu’agence principale de la sécurité routière dans les Nations Unies, l’OMS joue un rôle clé en guidant les efforts mondiaux en plaidant pour la sécurité routière au plus haut niveau, en compilant et partageant de bonnes pratiques et en sensibilisant à la sécurité routière (OMS, 2023a). L’OMS est la secrétaire de la Décennie d’action pour la sécurité routière 2021–2030, qui vise à réduire les décès et les blessures liés à la circulation de 50 % d’ici 2030. Cela inclut la convocation d’un réseau mondial de chefs d’agences nationales de sécurité routière, la production de rapports mondiaux de statut pour suivre les progrès et la fourniture d’assistance technique (OMS, 2023b). L’OMS travaille avec un éventail de partenaires pour fournir un soutien technique aux pays. Par exemple, l’OMS travaille avec l’Initiative Bloomberg pour la sécurité routière mondiale (BIGRS) afin de réduire les décès et les blessures liés à la circulation dans une gamme de pays à revenu faible ou intermédiaire (OMS, 2023a). L’OMS préside le mécanisme de Collaboration OMS sur la sécurité routière et organise et accueille, avec les principaux partenaires, des événements de plaidoyer de haut profil tels que les Semaines de la sécurité routière de l’ONU et la Journée mondiale de commémoration des victimes de la circulation (OMS, 2023a). La 4e conférence ministérielle, organisée par le gouvernement du Maroc en février 2025, a établi de nouveaux engagements de sécurité routière nationaux et les ministres de 100 pays ont approuvé la Déclaration de Marrakech qui appelle les gouvernements à faire de la sécurité routière une priorité politique, à garantir un financement soutenu et à promouvoir des actions visant à atteindre l’objectif de réduire de moitié les décès routiers d’ici 2030 (OMS, 2025). De nombreux accidents impliquant le transport de marchandises dangereuses se produisent encore dans les pays du monde entier. L’UNECE est prête à soutenir tous les pays pour mettre en œuvre les instruments des Nations Unies qui ont fait leurs preuves pour prévenir de tels accidents et réduire la gravité de leurs conséquences (UNECE, 2023). Depuis 75 ans, l’UNECE fournit une plateforme intergouvernementale où les pays du monde entier se réunissent pour créer des outils de coopération économique et négocier et adopter des conventions et recommandations des Nations Unies sur le transport terrestre et élaborer des mises à jour et des mises en œuvre des conventions. Les 59 conventions des Nations Unies sont considérées comme indispensables pour développer des systèmes de transport terrestre sûrs, efficaces et durables. Parmi elles, sept conventions fournissent des cadres juridiques qui construisent des routes plus sûres et des véhicules plus sûrs, la manipulation sûre des marchandises dangereuses et garantissent que nous avons des conducteurs plus sûrs et des usagers de la route plus sûrs (UNECE, 2023). Le Accord concernant le transport international de marchandises dangereuses par route (ADR) est l’une de ces sept conventions des Nations Unies pour améliorer la sécurité routière mondiale. La stratégie d’urbanisme pour réduire les accidents de la circulation comprend des mesures d’apaisement du trafic, la conception de rues complètes et l’intégration de la planification des transports et de l’utilisation des sols. Les modèles prédictifs peuvent aider à identifier des zones à haut risque pour des interventions ciblées avant qu’un accident ne se produise (Yu et al., 2024 ; Fang et al., 2022).
 
-L’approche « safe system » vise à garantir un système de transport sûr pour tous les usagers. Les piliers sont : routes sûres, limites de vitesse sûres, véhicules sûrs et usagers routiers sûrs. Les objectifs mondiaux (Agenda 2030) visent à réduire de moitié les décès et les blessures liés à la circulation routière d’ici 2030.
+### Suivi
+Des caméras de surveillance 24 heures et d’autres capteurs sont disponibles sur de nombreuses routes. Cependant, un suivi efficace des accidents de la circulation nécessite l’intégration sophistiquée de données et d’outils analytiques avancés. Les recherches démontrent que la combinaison des enquêtes de déplacement traditionnelles avec des données massives basées sur la localisation et des modèles de choix discrets peut produire des estimations de schémas de déplacement plus précises (Wan et al., 2021), qui sont essentielles pour comprendre les contextes de flux de circulation où les accidents se produisent. Ces approches de données multisources devraient être complétées par des systèmes d’intelligence planifiée alimentés par l’IA capables d’évaluer les configurations du réseau routier pour les implications de sécurité (Fang et al., 2022). Ensemble, ces méthodologies permettent la création de systèmes de suivi dynamiques qui non seulement identifient les points chauds d’accidents actuels mais peuvent également prédire des zones de risque émergentes basées sur les changements de schémas de déplacement et de configuration d’infrastructure, permettant des interventions de sécurité proactives plutôt que réactives.
 
----
-
-## Références
-
-- Département des transports (DfT), 2023. *Recovery operators: working with electric vehicles*. Accédé le 21 mai 2025.  
-- CCE, 1971. *Convention on the law applicable to traffic accidents*. Accédé février 2025.  
-- Fang, Z. et al., 2021. *Incorporating planning intelligence into deep learning: A planning support tool for street network design*. Journal of Urban Technology, 29(2), 99–114. Accédé le 21 mai 2025.  
-- ... *(les références restantes suivent le même format)*
-
-*(La liste complète est disponible dans le document original.)*
+### Références
+*(bloc non traduit, laissé tel-quel en anglais)*
 
 ---
-
-> **Note**  
-> Toutes les traductions respectent la terminologie DRR et le contexte géologique où applicable. Les sections techniques (statistiques, définitions, facteurs de risque) sont conservées dans le même ordre et format que le texte source, mais rédigées en français académique et conforme aux exigences du vocabulaire contrôlé.

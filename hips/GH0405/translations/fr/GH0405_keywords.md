@@ -1,0 +1,1 @@
+Coastal erosion, removal of material, shoreline, loss of land, shoreline retreats landward, coastal accretion, deposition of material, gain of land, coast advances seaward, removal of material at the shoreline

@@ -1,0 +1,1 @@
+Crimean-Congo haemorrhagic fever,tick-borne viral infection,CCHF virus,viral haemorrhagic fever,CCHF outbreaks,epidemics,case fatality rate

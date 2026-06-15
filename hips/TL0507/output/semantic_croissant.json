@@ -96,8 +96,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0507/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -106,8 +105,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0507/data/distribution/TL0507_Electronic_Waste_(E-Waste)_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "2b72ca2b018d2ccd8fe46a3bd8407c0fc48f877be6d253998aae9afb9de1780f",
-      "description": "Clean plaintext extract of the original HIPS HTML document for TL0507, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:wg70VVBh6xeOrkAAdcumCQ=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for TL0507, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -121,7 +119,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:wp1FhpSUHhvuFeNzdi+FoQ==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context."
     },
     {
@@ -136,7 +133,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
     },
     {
@@ -151,7 +147,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Uj8DZ/3beab1/84qV2K3dA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context."
     },
     {
@@ -166,7 +161,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:yIQryBeJb+jXZyVkIdMsxQ==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context."
     },
     {
@@ -181,7 +175,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:AQtK567W7vnCv1Qe3FlU/Q==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context."
     },
     {
@@ -196,7 +189,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:088Der28oUfaF8UaQY8o1w==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in French. Contains the authoritative translation of the original context."
     },
     {
@@ -211,7 +203,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:XtawMHSbp9kPEGCmiMKvOA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context."
     },
     {
@@ -226,7 +217,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:DIn9vp0my41DF+WfvXphew==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Russian. Contains the authoritative translation of the original context."
     },
     {
@@ -241,7 +231,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context."
     },
     {
@@ -256,7 +245,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:sUzkP4d+bR4kmF4saW88+Q==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
     },
     {
@@ -271,7 +259,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:VOqXHIuJo5xbcSf5WRpH9Q==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Italian. Contains the authoritative translation of the original context."
     },
     {
@@ -286,7 +273,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:2neAocKxP8dmeXE+PDDR+w==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context."
     },
     {
@@ -301,7 +287,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:AKIoBfmlmA7KJt+YGAkh+w==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Turkish. Contains the authoritative translation of the original context."
     },
     {
@@ -316,7 +301,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context."
     },
     {
@@ -331,7 +315,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:3KPzPLsB2T+KIIYYGsXunA==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context."
     },
     {
@@ -346,7 +329,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:E9hw0tBj5LQ6+Uluh4QcpQ==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in German. Contains the authoritative translation of the original context."
     },
     {
@@ -361,7 +343,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:iMzf/oaE27tAG4cImBUwZQ==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -376,7 +357,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -391,7 +371,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
     },
     {
@@ -406,7 +385,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
     },
     {
@@ -421,7 +399,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:eWODmyXx0BCdHMlb6Ichog==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context."
     },
     {
@@ -436,7 +413,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC TL0507 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context."
     }
   ],
@@ -577,8 +553,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for TL0507: Electronic Waste (E-Waste). This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/tl0507. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0507/data/distribution/TL0507_Electronic_Waste_(E-Waste).html",
       "encodingFormat": "text/html",
-      "sha256": "f5e0e67d7955da95d1581f2d88571aa06026f515287838dc45c937d72f5cb25d",
-      "unf": "UNF:6:Euymd92Sve6ROEIOiBF0rQ=="
+      "sha256": "f5e0e67d7955da95d1581f2d88571aa06026f515287838dc45c937d72f5cb25d"
     },
     {
       "@type": "CreativeWork",
@@ -587,8 +562,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for TL0507, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0507/data/distribution/TL0507_Electronic_Waste_(E-Waste)_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "2b72ca2b018d2ccd8fe46a3bd8407c0fc48f877be6d253998aae9afb9de1780f",
-      "unf": "UNF:6:wg70VVBh6xeOrkAAdcumCQ=="
+      "sha256": "2b72ca2b018d2ccd8fe46a3bd8407c0fc48f877be6d253998aae9afb9de1780f"
     }
   ],
   "https://schema.org/identifier": "TL0507",

@@ -96,8 +96,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/GH0300/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -106,8 +105,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/GH0300/data/distribution/GH0300_Gravitational_Mass_Movement_(‘Landslide’)_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "06dcfd63bde16d8a3a2f39273808e1db57f69beb59213968e0998d5dcc385374",
-      "description": "Clean plaintext extract of the original HIPS HTML document for GH0300, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:+kriTtjys8WaN9dCNYHzaw=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for GH0300, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -121,7 +119,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:DjxeMpuLfBV0PT7iO/8lmw==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context."
     },
     {
@@ -136,7 +133,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
     },
     {
@@ -151,7 +147,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:CAoytNwEWs/XFbGIRGeYqw==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context."
     },
     {
@@ -166,7 +161,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:+d0gMZQjZSdH322gPpWtwA==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context."
     },
     {
@@ -181,7 +175,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:GVO70Zv4kRQqdUDEwuygDA==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context."
     },
     {
@@ -196,7 +189,6 @@
       "creator": {
         "@id": "model_gemini-3_5"
       },
-      "unf": "UNF:6:viNr+b/QUzy8iqPcekmLUA==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in French. Contains the authoritative translation of the original context."
     },
     {
@@ -211,7 +203,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:5uwMXCvekNhqlYebAxdvSQ==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Russian. Contains the authoritative translation of the original context."
     },
     {
@@ -226,7 +217,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context."
     },
     {
@@ -241,7 +231,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:ocp5FRGaOilhgOTgLNbabA==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
     },
     {
@@ -256,7 +245,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:QmqPTnptAhnkn2Iqtp2sxA==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Italian. Contains the authoritative translation of the original context."
     },
     {
@@ -271,7 +259,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:k8yLri2Oe5QQCVH0c/yTuQ==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context."
     },
     {
@@ -286,7 +273,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:X1nGZkhlRdV1Mq4cNh58bA==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Turkish. Contains the authoritative translation of the original context."
     },
     {
@@ -301,7 +287,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context."
     },
     {
@@ -316,7 +301,6 @@
       "creator": {
         "@id": "model_gemini-3_5"
       },
-      "unf": "UNF:6:XtVm0slQnuLnQqpJN0efiA==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context."
     },
     {
@@ -331,7 +315,6 @@
       "creator": {
         "@id": "model_gemini-3_5"
       },
-      "unf": "UNF:6:/FXjQ6+kk02uBfjGwOQpWw==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in German. Contains the authoritative translation of the original context."
     },
     {
@@ -346,7 +329,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Yp+WRhdq/NMNktfOWUHCPg==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -361,7 +343,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -376,7 +357,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
     },
     {
@@ -391,7 +371,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
     },
     {
@@ -406,7 +385,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:aeginKHMb+B1nMgbps0Xvg==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context."
     },
     {
@@ -421,7 +399,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC GH0300 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context."
     }
   ],
@@ -562,8 +539,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for GH0300: Gravitational Mass Movement (‘Landslide’). This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/gh0300. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/GH0300/data/distribution/GH0300_Gravitational_Mass_Movement_(‘Landslide’).html",
       "encodingFormat": "text/html",
-      "sha256": "da3591764ee4e70ac3879bffd245f1de696eecad5114a42457d2918637ba0240",
-      "unf": "UNF:6:eywvmOprH+vfTjcomAj8nQ=="
+      "sha256": "da3591764ee4e70ac3879bffd245f1de696eecad5114a42457d2918637ba0240"
     },
     {
       "@type": "CreativeWork",
@@ -572,8 +548,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for GH0300, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/GH0300/data/distribution/GH0300_Gravitational_Mass_Movement_(‘Landslide’)_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "06dcfd63bde16d8a3a2f39273808e1db57f69beb59213968e0998d5dcc385374",
-      "unf": "UNF:6:+kriTtjys8WaN9dCNYHzaw=="
+      "sha256": "06dcfd63bde16d8a3a2f39273808e1db57f69beb59213968e0998d5dcc385374"
     }
   ],
   "https://schema.org/identifier": "GH0300",

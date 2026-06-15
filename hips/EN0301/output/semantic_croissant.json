@@ -96,8 +96,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/EN0301/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -106,8 +105,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/EN0301/data/distribution/EN0301_Land_Degradation_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "fa436670af92a68d4679be10d6cba2bc6b443c35d4ed0fd3be283ad0d3b8a9ff",
-      "description": "Clean plaintext extract of the original HIPS HTML document for EN0301, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:mbOtPQNa0MqfDQWPxVQAVg=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for EN0301, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -121,7 +119,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:0nWLiRJEVHwglLPiLA5JPA==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context."
     },
     {
@@ -136,7 +133,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:3OjTurrKiJo5oNTPhBN1NQ==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
     },
     {
@@ -151,7 +147,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:LGj+1Sm9MYunzGQvSBZcEQ==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context."
     },
     {
@@ -166,7 +161,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:R7TZDxTx8c+abxbGrG33aQ==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context."
     },
     {
@@ -181,7 +175,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:3bXY4ksJ9usSy7DpQ0qg7g==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context."
     },
     {
@@ -196,7 +189,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:IEAUCEPJAXz9I1lJDQ2ZJQ==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in French. Contains the authoritative translation of the original context."
     },
     {
@@ -211,7 +203,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:F8ltAiLMz4+mVA5mBbWVAQ==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context."
     },
     {
@@ -226,7 +217,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:IEEZmLGW0p0J9wozwnIEcg==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Russian. Contains the authoritative translation of the original context."
     },
     {
@@ -241,7 +231,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:pK4Clw0kFdI2n3vXlp1lwg==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context."
     },
     {
@@ -256,7 +245,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:TeeFiocVb2kUXUEu94AG/A==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
     },
     {
@@ -271,7 +259,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:sCGJIl9b7o4f8VhyN8cyPA==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Italian. Contains the authoritative translation of the original context."
     },
     {
@@ -286,7 +273,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:UKZx3VhgSTh9UFTR5gIJqA==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context."
     },
     {
@@ -301,7 +287,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:ZxEd4369BDoxabvRdX0GrQ==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Turkish. Contains the authoritative translation of the original context."
     },
     {
@@ -316,7 +301,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:0TU/LYA5njorFiQSZoxceA==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context."
     },
     {
@@ -331,7 +315,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:xYv4raZ55YoQW00Bww+new==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context."
     },
     {
@@ -346,7 +329,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:lTDpIs9JFN+2ge2Ric4gnw==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in German. Contains the authoritative translation of the original context."
     },
     {
@@ -361,7 +343,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:gIZeqVq3O432T9SpxQ3GwQ==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -376,7 +357,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:SrKQoA6jEsFpVVmWM/A7aA==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -391,7 +371,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:hSad77wAd24k4Rl3MdBEcA==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
     },
     {
@@ -406,7 +385,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:8rV7zNT9LKHCx6log7mAwg==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
     },
     {
@@ -421,7 +399,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:4R72L67TzmLowP9csuqnbA==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context."
     },
     {
@@ -436,7 +413,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:prp0gJqaINRMXMeOr8IcQQ==",
       "description": "Full markdown translation of the UNDRR/ISC EN0301 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context."
     }
   ],
@@ -577,8 +553,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for EN0301: Land Degradation. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/en0301. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/EN0301/data/distribution/EN0301_Land_Degradation.html",
       "encodingFormat": "text/html",
-      "sha256": "89a1b6276adee2533882e6cbd8fd5bf6786a36521a29e5d9291db9f93735a205",
-      "unf": "UNF:6:MiqwTfqkR1KD7WU+Ymn8UQ=="
+      "sha256": "89a1b6276adee2533882e6cbd8fd5bf6786a36521a29e5d9291db9f93735a205"
     },
     {
       "@type": "CreativeWork",
@@ -587,8 +562,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for EN0301, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/EN0301/data/distribution/EN0301_Land_Degradation_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "fa436670af92a68d4679be10d6cba2bc6b443c35d4ed0fd3be283ad0d3b8a9ff",
-      "unf": "UNF:6:mbOtPQNa0MqfDQWPxVQAVg=="
+      "sha256": "fa436670af92a68d4679be10d6cba2bc6b443c35d4ed0fd3be283ad0d3b8a9ff"
     }
   ],
   "https://schema.org/identifier": "EN0301",

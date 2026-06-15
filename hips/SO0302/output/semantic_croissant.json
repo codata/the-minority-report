@@ -96,8 +96,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/SO0302/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -106,8 +105,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/SO0302/data/distribution/SO0302_Stampede_or_Crushing_(Human)_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "b2722675a33aba53abc72f97b8b211b986e79b0842a1f2c8e838de0bbd7cfa1f",
-      "description": "Clean plaintext extract of the original HIPS HTML document for SO0302, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:Tm6nyiZsY1q/8Qndd4eFJQ=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for SO0302, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -121,7 +119,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:+f/94LOQJR0k4XB7sMbarg==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context."
     },
     {
@@ -136,7 +133,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:eIqBtw4/CR8+9SmPKOhGIg==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
     },
     {
@@ -151,7 +147,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:h2RfnDf0VhFTA3Fbf+H5Dw==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context."
     },
     {
@@ -166,7 +161,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:I4IQPgYM0lZHsHjTns4b9g==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context."
     },
     {
@@ -181,7 +175,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Yr7pDDqfBFFmqPxQ2bx0MA==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context."
     },
     {
@@ -196,7 +189,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:KIbz2liZDQHdmrcX3b6OIQ==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in French. Contains the authoritative translation of the original context."
     },
     {
@@ -211,7 +203,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:q9waDORZ51bzbVrhH2PgKg==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context."
     },
     {
@@ -226,7 +217,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:oa3Tfw5FiCjnwve3JRRgug==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Russian. Contains the authoritative translation of the original context."
     },
     {
@@ -241,7 +231,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:kHfF8xksa2rRYKcCGsiXFw==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context."
     },
     {
@@ -256,7 +245,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:jRVUsjetpyFN5iCtNguDaA==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
     },
     {
@@ -271,7 +259,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:56mu7/izqqmPCTn27QSDbA==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Italian. Contains the authoritative translation of the original context."
     },
     {
@@ -286,7 +273,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:iW+9p1LIB1+uL+iJoydKhg==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context."
     },
     {
@@ -301,7 +287,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:HeHNkW4w1N6vp4nK1NxldQ==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Turkish. Contains the authoritative translation of the original context."
     },
     {
@@ -316,7 +301,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:p3v+q+eUDUySKQAyO8Vzug==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context."
     },
     {
@@ -331,7 +315,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:GBvAe3lpfVppnTdylKLq6g==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context."
     },
     {
@@ -346,7 +329,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:i3sXcaQpaDrCBoxc8kojHw==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in German. Contains the authoritative translation of the original context."
     },
     {
@@ -361,7 +343,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:9MXYQiz94k1WvzNI+BWiWw==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -376,7 +357,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:BlPyiAAsWVCmMIH0fcHfrg==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -391,7 +371,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:W8wIzDB6sbrBsmRGrPXLVQ==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
     },
     {
@@ -406,7 +385,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:nnLOifWjbOYye6fyP56diA==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
     },
     {
@@ -421,7 +399,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:V4K+sEU00Ukkdiov7VqPBA==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context."
     },
     {
@@ -436,7 +413,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:eik+wgVly4o6YZyhYQA9eA==",
       "description": "Full markdown translation of the UNDRR/ISC SO0302 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context."
     }
   ],
@@ -577,8 +553,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for SO0302: Stampede or Crushing (Human). This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/so0302. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/SO0302/data/distribution/SO0302_Stampede_or_Crushing_(Human).html",
       "encodingFormat": "text/html",
-      "sha256": "c6402ce42b08098c1166c9bfeb93de213567a90ccbe4faa00eef9bde478f273d",
-      "unf": "UNF:6:/8+jOZ4wICoPxc9S5gpHdQ=="
+      "sha256": "c6402ce42b08098c1166c9bfeb93de213567a90ccbe4faa00eef9bde478f273d"
     },
     {
       "@type": "CreativeWork",
@@ -587,8 +562,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for SO0302, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/SO0302/data/distribution/SO0302_Stampede_or_Crushing_(Human)_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "b2722675a33aba53abc72f97b8b211b986e79b0842a1f2c8e838de0bbd7cfa1f",
-      "unf": "UNF:6:Tm6nyiZsY1q/8Qndd4eFJQ=="
+      "sha256": "b2722675a33aba53abc72f97b8b211b986e79b0842a1f2c8e838de0bbd7cfa1f"
     }
   ],
   "https://schema.org/identifier": "SO0302",

@@ -1,0 +1,1 @@
+colourless gas, odourless gas, poisonous to humans, public health hazard, carbon monoxide, human hazard, public health, gas hazard

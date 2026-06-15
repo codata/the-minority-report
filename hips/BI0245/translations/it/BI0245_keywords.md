@@ -1,0 +1,1 @@
+type A influenza viruses, Orthomyxoviridae family, zoonotic, pandemic, migratory wild bird movements, haemagglutinin neuraminidase, HxNy combination, Highly Pathogenic Avian Influenza (HPAI), avian influenza strains, biosecurity measures, live poultry markets, H5N1 virus, A(H7N9) virus

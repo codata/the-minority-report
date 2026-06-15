@@ -96,8 +96,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0605/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -106,8 +105,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0605/data/distribution/BI0605_Snakebite_envenoming_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "4d008b5a66c8f6d8bf402f0328a28b2fc2155a72dd3c7383783bbc8cfb02d8b3",
-      "description": "Clean plaintext extract of the original HIPS HTML document for BI0605, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:bxFVDjb9BKJqf14ixE+R0g=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for BI0605, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -121,7 +119,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:WWZ/f9EPgXGPOjdPeWyRlw==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context."
     },
     {
@@ -136,7 +133,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context."
     },
     {
@@ -151,7 +147,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:Nq051vo3tKJ7LmBzE/8PPA==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context."
     },
     {
@@ -166,7 +161,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:jJ2WYV3XnCC66hdMClJoKQ==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context."
     },
     {
@@ -181,7 +175,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:pDnp/F6su4yNGqZeEKbLYA==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context."
     },
     {
@@ -196,7 +189,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:hNNMFdcu+MEXw8SYIQGqzg==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in French. Contains the authoritative translation of the original context."
     },
     {
@@ -211,7 +203,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:bhs3/ozXI8Gxbhgo2GQdBQ==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context."
     },
     {
@@ -226,7 +217,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context."
     },
     {
@@ -241,7 +231,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:OjukrmXszLuoKufg/y69Ug==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context."
     },
     {
@@ -256,7 +245,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:s5oRu0WpMgLGexAaHhMqpA==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Italian. Contains the authoritative translation of the original context."
     },
     {
@@ -271,7 +259,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:68FjoesyMwTZKqtEGfnzSw==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context."
     },
     {
@@ -286,7 +273,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context."
     },
     {
@@ -301,7 +287,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:KnQ6Bv/DDnC6VfS/kumDYQ==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context."
     },
     {
@@ -316,7 +301,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:s1Ixk+KNaXc/+hK0NqP/gQ==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in German. Contains the authoritative translation of the original context."
     },
     {
@@ -331,7 +315,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -346,7 +329,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:O+Z2dIQcXg0HQAbyo6E8lQ==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context."
     },
     {
@@ -361,7 +343,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Danish. Contains the authoritative translation of the original context."
     },
     {
@@ -376,7 +357,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context."
     },
     {
@@ -391,7 +371,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:5l/0Dfr3j/RpU8E3qTi9Aw==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context."
     },
     {
@@ -406,7 +385,6 @@
       "creator": {
         "@id": "model_unknown_model"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC BI0605 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context."
     }
   ],
@@ -547,8 +525,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for BI0605: Snakebite envenoming. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/bi0605. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0605/data/distribution/BI0605_Snakebite_envenoming.html",
       "encodingFormat": "text/html",
-      "sha256": "dd280edbe35e1d11a59ca186a8a2891adb100b57d23a528e4a7117d55fc85ad9",
-      "unf": "UNF:6:QKO3qs8e1fKBuHU8LzdyjQ=="
+      "sha256": "dd280edbe35e1d11a59ca186a8a2891adb100b57d23a528e4a7117d55fc85ad9"
     },
     {
       "@type": "CreativeWork",
@@ -557,8 +534,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for BI0605, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/BI0605/data/distribution/BI0605_Snakebite_envenoming_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "4d008b5a66c8f6d8bf402f0328a28b2fc2155a72dd3c7383783bbc8cfb02d8b3",
-      "unf": "UNF:6:bxFVDjb9BKJqf14ixE+R0g=="
+      "sha256": "4d008b5a66c8f6d8bf402f0328a28b2fc2155a72dd3c7383783bbc8cfb02d8b3"
     }
   ],
   "https://schema.org/identifier": "BI0605",

@@ -1,0 +1,1 @@
+Non-International Armed Conflict, International humanitarian law, non-state party/parties, armed conflict conditions, sufficiently intense violence, organized non-state parties, classification of a conflict, threshold or condition, political motivations, non-state party organization

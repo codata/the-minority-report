@@ -1,0 +1,1 @@
+physical structures facilities networks assets, essential services functioning, energy infrastructure, transport infrastructure, digital infrastructure, health facilities, water services, waste water, financial market infrastructure, cyberattacks on critical infrastructure, cascading effects, business continuity measures, risk and crisis management protocols, resilience measures
