@@ -98,8 +98,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -108,8 +107,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/data/distribution/MH0603_Flash_Flooding_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "20f2e76b13cf9f6c91ca43893e36f690081725548102483837e62a68d1c98f8a",
-      "description": "Clean plaintext extract of the original HIPS HTML document for MH0603, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:w6kpCTJjhWVaF8ZZ55U9pA=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for MH0603, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -123,7 +121,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:d6MXmWz///TJsOvFeAdkrA==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@nl"
     },
@@ -139,7 +136,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@lv"
     },
@@ -155,7 +151,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:bH8/HphSBkaNMDBceuHn0A==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@sl"
     },
@@ -171,7 +166,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:g1LkUvPkL/9jqqGsrZQsdQ==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@hr"
     },
@@ -187,7 +181,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:ORQLUeWaS5XjguSiI5x60A==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@sr"
     },
@@ -203,7 +196,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:GIYq46Owkv7PwWYOb3ejnQ==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in French. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@fr"
     },
@@ -219,7 +211,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:Gc15tg5g8f8ZWySS7QuEfw==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@sk"
     },
@@ -235,7 +226,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:Azq2URVV1Oq09EuD2apb9Q==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Russian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@ru"
     },
@@ -251,7 +241,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@et"
     },
@@ -267,7 +256,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:YCY1KARenolDEHjmmbhNYw==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@ch"
     },
@@ -283,7 +271,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:WSEX45GI/ICjtTsLuy075A==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Italian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@it"
     },
@@ -299,7 +286,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:z7cUgoQtr0uRZD1X7FW52w==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@ar"
     },
@@ -315,7 +301,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:jdNi2ciTtvL8qqwe5PlXQA==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Turkish. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@tr"
     },
@@ -331,7 +316,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@no"
     },
@@ -347,7 +331,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:UAlox3snOMezLyAjTF8Mqw==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@es"
     },
@@ -363,7 +346,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:8G27sETQdZkX/WQS9TEHmQ==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in German. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@de"
     },
@@ -379,7 +361,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@pt"
     },
@@ -395,7 +376,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:xqHr2YiWDm3DzhgLcrD46w==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@pt"
     },
@@ -411,7 +391,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Danish. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@dk"
     },
@@ -427,7 +406,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@fi"
     },
@@ -443,7 +421,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A==",
       "description": "Full markdown translation of the UNDRR/ISC MH0603 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVF2bMaUJ431yannWw7j9VBKEuxTamca8zS4t6g4ywiSC@lt"
     }
@@ -585,8 +562,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for MH0603: Flash Flooding. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/mh0603. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/data/distribution/MH0603_Flash_Flooding.html",
       "encodingFormat": "text/html",
-      "sha256": "bc310eb825b3ce6f3adc8b16fec77c757f9955c2d5e84b7b2390aa480aca78d1",
-      "unf": "UNF:6:29zjE9fxJHUVG/9dwxw6eA=="
+      "sha256": "bc310eb825b3ce6f3adc8b16fec77c757f9955c2d5e84b7b2390aa480aca78d1"
     },
     {
       "@type": "CreativeWork",
@@ -595,8 +571,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for MH0603, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/data/distribution/MH0603_Flash_Flooding_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "20f2e76b13cf9f6c91ca43893e36f690081725548102483837e62a68d1c98f8a",
-      "unf": "UNF:6:w6kpCTJjhWVaF8ZZ55U9pA=="
+      "sha256": "20f2e76b13cf9f6c91ca43893e36f690081725548102483837e62a68d1c98f8a"
     }
   ],
   "https://schema.org/identifier": "MH0603",
@@ -616,84 +591,64 @@
     "link": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/output/semantic_croissant.json",
     "availableLanguages": {
       "nl": {
-        "url": "hips/MH0603/translations/nl/MH0603_article.md",
-        "unf": "UNF:6:d6MXmWz///TJsOvFeAdkrA=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/nl/MH0603_article.md"
       },
       "lv": {
-        "url": "hips/MH0603/translations/lv/MH0603_article.md",
-        "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/lv/MH0603_article.md"
       },
       "sl": {
-        "url": "hips/MH0603/translations/sl/MH0603_article.md",
-        "unf": "UNF:6:bH8/HphSBkaNMDBceuHn0A=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/sl/MH0603_article.md"
       },
       "hr": {
-        "url": "hips/MH0603/translations/hr/MH0603_article.md",
-        "unf": "UNF:6:g1LkUvPkL/9jqqGsrZQsdQ=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/hr/MH0603_article.md"
       },
       "sr": {
-        "url": "hips/MH0603/translations/sr/MH0603_article.md",
-        "unf": "UNF:6:ORQLUeWaS5XjguSiI5x60A=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/sr/MH0603_article.md"
       },
       "fr": {
-        "url": "hips/MH0603/translations/fr/MH0603_article.md",
-        "unf": "UNF:6:GIYq46Owkv7PwWYOb3ejnQ=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/fr/MH0603_article.md"
       },
       "sk": {
-        "url": "hips/MH0603/translations/sk/MH0603_article.md",
-        "unf": "UNF:6:Gc15tg5g8f8ZWySS7QuEfw=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/sk/MH0603_article.md"
       },
       "ru": {
-        "url": "hips/MH0603/translations/ru/MH0603_article.md",
-        "unf": "UNF:6:Azq2URVV1Oq09EuD2apb9Q=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/ru/MH0603_article.md"
       },
       "et": {
-        "url": "hips/MH0603/translations/et/MH0603_article.md",
-        "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/et/MH0603_article.md"
       },
       "ch": {
-        "url": "hips/MH0603/translations/ch/MH0603_article.md",
-        "unf": "UNF:6:YCY1KARenolDEHjmmbhNYw=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/ch/MH0603_article.md"
       },
       "it": {
-        "url": "hips/MH0603/translations/it/MH0603_article.md",
-        "unf": "UNF:6:WSEX45GI/ICjtTsLuy075A=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/it/MH0603_article.md"
       },
       "ar": {
-        "url": "hips/MH0603/translations/ar/MH0603_article.md",
-        "unf": "UNF:6:z7cUgoQtr0uRZD1X7FW52w=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/ar/MH0603_article.md"
       },
       "tr": {
-        "url": "hips/MH0603/translations/tr/MH0603_article.md",
-        "unf": "UNF:6:jdNi2ciTtvL8qqwe5PlXQA=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/tr/MH0603_article.md"
       },
       "no": {
-        "url": "hips/MH0603/translations/no/MH0603_article.md",
-        "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/no/MH0603_article.md"
       },
       "es": {
-        "url": "hips/MH0603/translations/es/MH0603_article.md",
-        "unf": "UNF:6:UAlox3snOMezLyAjTF8Mqw=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/es/MH0603_article.md"
       },
       "de": {
-        "url": "hips/MH0603/translations/de/MH0603_article.md",
-        "unf": "UNF:6:8G27sETQdZkX/WQS9TEHmQ=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/de/MH0603_article.md"
       },
       "pt": {
-        "url": "hips/MH0603/translations/pt/MH0603_article.md",
-        "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/pt/MH0603_article.md"
       },
       "dk": {
-        "url": "hips/MH0603/translations/dk/MH0603_article.md",
-        "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/dk/MH0603_article.md"
       },
       "fi": {
-        "url": "hips/MH0603/translations/fi/MH0603_article.md",
-        "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/fi/MH0603_article.md"
       },
       "lt": {
-        "url": "hips/MH0603/translations/lt/MH0603_article.md",
-        "unf": "UNF:6:i6V/mh1/7flCe+qLZ7Jn2A=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/MH0603/translations/lt/MH0603_article.md"
       }
     },
     "instruction": "Models must read the linked semantic_croissant.json file to access the authoritative translations and data directly from the verified source."

@@ -98,8 +98,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/GH0202/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -113,7 +112,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:BzFEx+rVp76/Jyn3NhPrvQ==",
       "description": "Full markdown translation of the UNDRR/ISC GH0202 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmfBLbc9tW8MSyKRSHrsVu9TirLCanTm7QHKeJWG4eZthR@pt"
     }
@@ -264,8 +262,7 @@
     "link": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/GH0202/output/semantic_croissant.json",
     "availableLanguages": {
       "pt": {
-        "url": "hips/GH0202/translations/pt/GH0202_keywords.md",
-        "unf": "UNF:6:BzFEx+rVp76/Jyn3NhPrvQ=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/GH0202/translations/pt/GH0202_keywords.md"
       }
     },
     "instruction": "Models must read the linked semantic_croissant.json file to access the authoritative translations and data directly from the verified source."

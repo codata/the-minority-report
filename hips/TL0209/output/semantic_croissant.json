@@ -98,8 +98,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0209/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727",
-      "unf": "UNF:6:PZMTTKW+TlR2EhQmEqmBkw=="
+      "sha256": "b8315590a9747659b2d84a9039f72d14c1d2c5f19ff6878b748c54a1f32ce727"
     },
     {
       "@type": "cr:FileObject",
@@ -113,7 +112,6 @@
       "creator": {
         "@id": "model_deepseek-r1_14b"
       },
-      "unf": "UNF:6:xH8i2pDvt+eVeZ2b/Pd23w==",
       "description": "Full markdown translation of the UNDRR/ISC TL0209 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmVpks7wjNyqRwN2gknLXdpQaFz5nJsspXZ3b7dhoBrG1T@pt"
     }
@@ -264,8 +262,7 @@
     "link": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0209/output/semantic_croissant.json",
     "availableLanguages": {
       "pt": {
-        "url": "hips/TL0209/translations/pt/TL0209_keywords.md",
-        "unf": "UNF:6:xH8i2pDvt+eVeZ2b/Pd23w=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/TL0209/translations/pt/TL0209_keywords.md"
       }
     },
     "instruction": "Models must read the linked semantic_croissant.json file to access the authoritative translations and data directly from the verified source."

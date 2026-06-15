@@ -75,8 +75,7 @@
       "name": "final_translations.csv",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/data/final_translations.csv",
       "encodingFormat": "text/csv",
-      "sha256": "8319b5da71d244ba846449b07d732a450eeff9a35759bd7a6c729c26ac5f2ff4",
-      "unf": "UNF:6:C60gVzsEn3eveta+P+lBVA=="
+      "sha256": "8319b5da71d244ba846449b07d732a450eeff9a35759bd7a6c729c26ac5f2ff4"
     },
     {
       "@type": "cr:FileObject",
@@ -85,8 +84,7 @@
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/data/distribution/ET0206_Space_Debris_clean.txt",
       "encodingFormat": "text/plain",
       "sha256": "a9d9a6e469f1bd90e07e0d631cd75df1588714ffabdb8912cfc2951ae22aca53",
-      "description": "Clean plaintext extract of the original HIPS HTML document for ET0206, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
-      "unf": "UNF:6:8EcXKNcSYNtJmczKf20hLw=="
+      "description": "Clean plaintext extract of the original HIPS HTML document for ET0206, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed)."
     },
     {
       "@type": "cr:FileObject",
@@ -100,7 +98,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:s+/qxcfEgPWWh99zCzw6PA==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@nl"
     },
@@ -116,7 +113,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:+xA2CjaKBTpeng7MuFtuqw==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Dutch. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@nl"
     },
@@ -132,7 +128,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:/Cj36J9g3KJsYl3ACaBCHg==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@lv"
     },
@@ -148,7 +143,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:zmLe/9gopaROsNdSD/3kHA==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Latvian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@lv"
     },
@@ -164,7 +158,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:OKAFDnbTrTVnPdg4Ymwg+w==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Slovenian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@sl"
     },
@@ -180,7 +173,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:IgaybmDtIkvokBaimvCG+w==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Croatian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@hr"
     },
@@ -196,7 +188,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:66g2QRnvhNOryvI8t9Stcg==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Serbian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@sr"
     },
@@ -212,7 +203,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:0vx9hLpWPKQ4lNRb+zlvJg==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in French. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@fr"
     },
@@ -228,7 +218,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:mqAyS/J4xgcJYmLtc1LLoA==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Slovak. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@sk"
     },
@@ -244,7 +233,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:dP0FizJYyLXofWjkL7BJtg==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Russian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@ru"
     },
@@ -260,7 +248,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:h9d5HibuPtow1LaLgtKqow==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Russian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@ru"
     },
@@ -276,7 +263,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:2KOHlalmVg7WSJEP5cxjtg==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@et"
     },
@@ -292,7 +278,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:REU1ctLXPb5QSMZt6bzxxg==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Estonian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@et"
     },
@@ -308,7 +293,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:q0skIibUsf4S1gQVXSxNTA==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@ch"
     },
@@ -324,7 +308,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:oDdPq3NYnDjbkFWV01U3sQ==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Chinese. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@ch"
     },
@@ -340,7 +323,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:upGqGn+NzO1SVGeMhgs5sQ==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Italian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@it"
     },
@@ -356,7 +338,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:BGxmq46jp6u0MXy1SkYPZQ==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Arabic. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@ar"
     },
@@ -372,7 +353,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:Xh73+u2Mq9w743mvNa30fQ==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Turkish. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@tr"
     },
@@ -388,7 +368,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:P2Os67Al5GBQjMz4NZ2EeA==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Norwegian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@no"
     },
@@ -404,7 +383,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:/QPhsb+0Ojoe3qHzplX8mQ==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Spanish. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@es"
     },
@@ -420,7 +398,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:yz/r75F1fUfgGSgLTBUlLw==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in German. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@de"
     },
@@ -436,7 +413,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:OHTj2sE+HUb9El+GP6+RGg==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@pt"
     },
@@ -452,7 +428,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:ppgAyWfe8SQvmYvQPnUPdg==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Portuguese. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@pt"
     },
@@ -468,7 +443,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:HsmGc0TNVlLElrO2ajsAbQ==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Danish. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@dk"
     },
@@ -484,7 +458,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:Bi5NzDHa4EIdULzLNHHp6g==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@fi"
     },
@@ -500,7 +473,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:XJXCPZz1ScFUNaBKKuX+0w==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Finnish. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@fi"
     },
@@ -516,7 +488,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:C6vrhMEPVpLwByJJb3WhaQ==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in ko. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@ko"
     },
@@ -532,7 +503,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:uqFlaShDV1/DhwOeciPwcQ==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in ko. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@ko"
     },
@@ -548,7 +518,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:8tGKPnj3QbU4FDZXucZX8g==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Ukrainian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@ua"
     },
@@ -564,7 +533,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:SRxDzKBrR3GLxJGXQqJxxQ==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@lt"
     },
@@ -580,7 +548,6 @@
       "creator": {
         "@id": "model_gpt-oss_latest"
       },
-      "unf": "UNF:6:WR+qHXe+/8cvvC3g39tZCw==",
       "description": "Full markdown translation of the UNDRR/ISC ET0206 Hazard Information Profile in Lithuanian. Contains the authoritative translation of the original context.",
       "did": "did:oyd:zQmQ1Vamh2aPkse1dCgKSMcaisuW3wCrvG76oYLmencpnhU@lt"
     }
@@ -722,8 +689,7 @@
       "description": "Original UNDRR/ISC Hazard Information Profile (HIPS) page for ET0206: Space Debris. This self-contained HTML document (base64-encoded) preserves the full authoritative content as published at https://www.preventionweb.net/understanding-disaster-risk/terminology/hips/et0206. It includes: (1) the official SKOS concept definition with skos:prefLabel, skos:definition, skos:scopeNote, skos:broader, and skos:altLabel; (2) structured JSON-LD metadata embedded in a <script type='application/ld+json'> block; (3) thematic sections covering hazard drivers, impacts, risk metrics, multi-hazard context, monitoring/early-warning guidance, and risk management measures; (4) bibliographic references and provenance (dct:source, prov:wasQuotedFrom, prov:wasInfluencedBy). Parsing Tip: The core technical content can be extracted from the HTML structure by targeting the <article class='custom-full-content'> (or fallback <div class='main-container'>) container and decomposing boilerplate script, style, noscript, and iframe tags. Section titles follow repeated patterns: major sections use <h2> and <h3> tags with class 'field-label-above' or 'field-group-title' (e.g., 'Primary reference(s)', 'Annotations', 'Drivers', 'Impacts', 'Risk Management', 'Monitoring', 'References'), and inline field labels use <div> with class 'field--label' or 'field-label-inline' (e.g., 'Unique identifier / Notation', 'Synonyms', 'Definition'). Intended uses: AI model training on technical disaster-risk terminology, multilingual controlled-vocabulary generation, information extraction, and semantic enrichment of the UNDRR-ISC Hazard Information Profiles dataset.",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/data/distribution/ET0206_Space_Debris.html",
       "encodingFormat": "text/html",
-      "sha256": "cf183a61c7e1f7711b57a1a5301e79a66fb370c0a181d0370865b4bbd62ce20b",
-      "unf": "UNF:6:i1KjlCBQXek8J9PHZkPjtA=="
+      "sha256": "cf183a61c7e1f7711b57a1a5301e79a66fb370c0a181d0370865b4bbd62ce20b"
     },
     {
       "@type": "CreativeWork",
@@ -732,8 +698,7 @@
       "description": "Clean plaintext extract of the original HIPS HTML document for ET0206, omitting template headers, footers, navigation, styles, and scripts. BS4 Extraction Pattern: (1) Title: soup.find('title').get_text().strip(), (2) Date: soup.find('meta', property='article:published_time')['content'] (or name='vf:date-published-v2' / 'vf:date-published'), (3) Article Content: soup.find('article', class_='custom-full-content') (scripts, styles, noscript, and iframe tags decomposed).",
       "contentUrl": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/data/distribution/ET0206_Space_Debris_clean.txt",
       "encodingFormat": "text/plain",
-      "sha256": "a9d9a6e469f1bd90e07e0d631cd75df1588714ffabdb8912cfc2951ae22aca53",
-      "unf": "UNF:6:8EcXKNcSYNtJmczKf20hLw=="
+      "sha256": "a9d9a6e469f1bd90e07e0d631cd75df1588714ffabdb8912cfc2951ae22aca53"
     }
   ],
   "https://schema.org/identifier": "ET0206",
@@ -753,92 +718,70 @@
     "link": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/output/semantic_croissant.json",
     "availableLanguages": {
       "nl": {
-        "url": "hips/ET0206/translations/nl/ET0206_keywords.md",
-        "unf": "UNF:6:s+/qxcfEgPWWh99zCzw6PA=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/nl/ET0206_keywords.md"
       },
       "lv": {
-        "url": "hips/ET0206/translations/lv/ET0206_keywords.md",
-        "unf": "UNF:6:/Cj36J9g3KJsYl3ACaBCHg=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/lv/ET0206_keywords.md"
       },
       "sl": {
-        "url": "hips/ET0206/translations/sl/ET0206_article.md",
-        "unf": "UNF:6:OKAFDnbTrTVnPdg4Ymwg+w=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/sl/ET0206_article.md"
       },
       "hr": {
-        "url": "hips/ET0206/translations/hr/ET0206_article.md",
-        "unf": "UNF:6:IgaybmDtIkvokBaimvCG+w=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/hr/ET0206_article.md"
       },
       "sr": {
-        "url": "hips/ET0206/translations/sr/ET0206_article.md",
-        "unf": "UNF:6:66g2QRnvhNOryvI8t9Stcg=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/sr/ET0206_article.md"
       },
       "fr": {
-        "url": "hips/ET0206/translations/fr/ET0206_article.md",
-        "unf": "UNF:6:0vx9hLpWPKQ4lNRb+zlvJg=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/fr/ET0206_article.md"
       },
       "sk": {
-        "url": "hips/ET0206/translations/sk/ET0206_article.md",
-        "unf": "UNF:6:mqAyS/J4xgcJYmLtc1LLoA=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/sk/ET0206_article.md"
       },
       "ru": {
-        "url": "hips/ET0206/translations/ru/ET0206_keywords.md",
-        "unf": "UNF:6:dP0FizJYyLXofWjkL7BJtg=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/ru/ET0206_keywords.md"
       },
       "et": {
-        "url": "hips/ET0206/translations/et/ET0206_keywords.md",
-        "unf": "UNF:6:2KOHlalmVg7WSJEP5cxjtg=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/et/ET0206_keywords.md"
       },
       "ch": {
-        "url": "hips/ET0206/translations/ch/ET0206_keywords.md",
-        "unf": "UNF:6:q0skIibUsf4S1gQVXSxNTA=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/ch/ET0206_keywords.md"
       },
       "it": {
-        "url": "hips/ET0206/translations/it/ET0206_article.md",
-        "unf": "UNF:6:upGqGn+NzO1SVGeMhgs5sQ=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/it/ET0206_article.md"
       },
       "ar": {
-        "url": "hips/ET0206/translations/ar/ET0206_article.md",
-        "unf": "UNF:6:BGxmq46jp6u0MXy1SkYPZQ=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/ar/ET0206_article.md"
       },
       "tr": {
-        "url": "hips/ET0206/translations/tr/ET0206_article.md",
-        "unf": "UNF:6:Xh73+u2Mq9w743mvNa30fQ=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/tr/ET0206_article.md"
       },
       "no": {
-        "url": "hips/ET0206/translations/no/ET0206_article.md",
-        "unf": "UNF:6:P2Os67Al5GBQjMz4NZ2EeA=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/no/ET0206_article.md"
       },
       "es": {
-        "url": "hips/ET0206/translations/es/ET0206_article.md",
-        "unf": "UNF:6:/QPhsb+0Ojoe3qHzplX8mQ=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/es/ET0206_article.md"
       },
       "de": {
-        "url": "hips/ET0206/translations/de/ET0206_article.md",
-        "unf": "UNF:6:yz/r75F1fUfgGSgLTBUlLw=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/de/ET0206_article.md"
       },
       "pt": {
-        "url": "hips/ET0206/translations/pt/ET0206_keywords.md",
-        "unf": "UNF:6:OHTj2sE+HUb9El+GP6+RGg=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/pt/ET0206_keywords.md"
       },
       "dk": {
-        "url": "hips/ET0206/translations/dk/ET0206_article.md",
-        "unf": "UNF:6:HsmGc0TNVlLElrO2ajsAbQ=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/dk/ET0206_article.md"
       },
       "fi": {
-        "url": "hips/ET0206/translations/fi/ET0206_keywords.md",
-        "unf": "UNF:6:Bi5NzDHa4EIdULzLNHHp6g=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/fi/ET0206_keywords.md"
       },
       "ko": {
-        "url": "hips/ET0206/translations/ko/ET0206_keywords.md",
-        "unf": "UNF:6:C6vrhMEPVpLwByJJb3WhaQ=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/ko/ET0206_keywords.md"
       },
       "ua": {
-        "url": "hips/ET0206/translations/ua/ET0206_article.md",
-        "unf": "UNF:6:8tGKPnj3QbU4FDZXucZX8g=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/ua/ET0206_article.md"
       },
       "lt": {
-        "url": "hips/ET0206/translations/lt/ET0206_keywords.md",
-        "unf": "UNF:6:SRxDzKBrR3GLxJGXQqJxxQ=="
+        "url": "https://raw.githubusercontent.com/codata/the-minority-report/refs/heads/main/hips/ET0206/translations/lt/ET0206_keywords.md"
       }
     },
     "instruction": "Models must read the linked semantic_croissant.json file to access the authoritative translations and data directly from the verified source."
