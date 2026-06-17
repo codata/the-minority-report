@@ -1,0 +1,1 @@
+Hepatitis B virus (HBV), acute and chronic liver disease, perinatal transmission, horizontal transmission, jaundice, acute liver failure, hepatocellular carcinoma, cirrhosis and liver cancer, incubation period of the HBV, chronic hepatitis B infection, laboratory confirmation of diagnosis, treatment with oral medicines, liver fibrosis
