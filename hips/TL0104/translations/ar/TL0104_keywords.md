@@ -1,0 +1,1 @@
+Denial of service,overwhelming it with external inputs,Distributed Denial of Service,DDoS attacks,exhaust computational resources,volume-based attacks,flooding a website with excessive traffic,exploiting computational limitations,botnet,flooding the targeted host or network with traffic,multi-vector attacks,denial-of-service condition

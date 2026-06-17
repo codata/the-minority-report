@@ -1,0 +1,1 @@
+storm surges, waves and swell, sea-level rise, tsunamis, riverine and flash floods, storm surge and high tides, shallowing of the seabed, retarding of return flow, land subsidence, direct flooding, overtopping of a barrier, breaching of a barrier, seawall construction, coastal erosion, bathymetry of the coastal area

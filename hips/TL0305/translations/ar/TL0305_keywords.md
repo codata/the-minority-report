@@ -1,0 +1,1 @@
+fire-related technological incidents,flammable liquids,dusts,gases and solids,fire and explosion,wildfires and fires,products of combustion and chemicals,acute effects,delayed effects,hot zone,warm zone,cold zone,fire-fighting water run-off,flame detectors,fire early warning system

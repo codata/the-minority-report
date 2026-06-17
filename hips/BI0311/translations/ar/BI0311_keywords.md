@@ -1,0 +1,1 @@
+acute haemorrhagic viral disease, Phlebovirus genus,viral zoonosis,contact with tissues/blood,mosquito bites,influenza-like illness,haemorrhagic fever,encephalitis,arbovirus,vector control,live attenuated vaccine,inactivated RVF vaccine,Aedes mosquitoes,flooding following heavy rainfall,RVF Early Warning Decision Support Tool

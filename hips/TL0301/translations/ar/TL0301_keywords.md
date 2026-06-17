@@ -1,0 +1,1 @@
+uncontrolled release of a toxic substance, silent release of a chemical, full-scale major emergencies, chemical leaks and spills, persistent organic pollutants, hydrocarbon release, crude oil spill, container damage, corrosion of the container, public health management of chemical incidents, hot zone warm zone cold zone
