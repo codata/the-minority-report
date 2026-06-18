@@ -1,0 +1,1 @@
+Ebola virus disease, zoonotic viral infectious disease, haemorrhagic fever, fatal in humans, high case-fatality rates, Ebola virus, viral infectious disease, epidemics, severe zoonotic disease, case-fatality rates

@@ -1,0 +1,1 @@
+neutron radiation, unstable nucleus, atomic fission, nuclear fusion, neutron emission, beta-radiation, gamma-radiation, neutron radiation, heavy shielding, cosmic rays

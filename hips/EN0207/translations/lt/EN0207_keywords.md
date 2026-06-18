@@ -1,0 +1,1 @@
+tropical and sub-tropical, intertidal zone, high salinity, anaerobic soils, sediment erosion, extreme storm surges, mangrove habitat, mangrove diversity and coverage, coastal communities, socio-economic activities

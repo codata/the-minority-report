@@ -1,0 +1,1 @@
+rapid energetic events, blast waves, fragment and debris throw, cratering and ground shock, interfaces between transport and storage, hazardous installations, explosive agents, ammonium nitrate, explosion early warning systems, hot zone and cold zone, primary and secondary contamination

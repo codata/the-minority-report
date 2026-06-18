@@ -1,0 +1,1 @@
+Taenia solium larval stages, human cysticercosis, neurocysticercosis, central nervous system, convulsions and epileptic seizures, preventable epilepsy, pork tapeworm, preventable infection, main cause of epilepsy, parasite presence in CNS

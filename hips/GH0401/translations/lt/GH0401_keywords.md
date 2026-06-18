@@ -1,0 +1,1 @@
+Compressive soils, volumetric change, mechanical loading, collapsible soils, volumetric change (collapse), wetting and loading, prone to volumetric change, collapse, metastable soils

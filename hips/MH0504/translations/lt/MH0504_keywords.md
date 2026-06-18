@@ -1,0 +1,1 @@
+freezing point of water, freezing injury, freezing of dew, phase change from vapour to ice, extracellular water within the plant freezes, freezing damage to crops, freeze event, supercooling and concentration of ice nucleating bacteria, freeze-thaw cycles, monitoring freeze, ice formation on rivers and lakes, freezing temperatures

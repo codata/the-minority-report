@@ -1,0 +1,1 @@
+Newcastle Disease (ND), highly contagious, severe disease, affects birds, virulent strains, avian paramyxovirus type 1, strains of avian paramyxovirus type 1, disease found worldwide, avian paramyxovirus type 1, avian paramyxovirus

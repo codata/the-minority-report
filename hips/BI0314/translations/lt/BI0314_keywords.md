@@ -1,0 +1,1 @@
+Shrimp acute hepatopancreatic necrosis disease,AHPND,Acute hepatopancreatic necrosis,Vibrio parahaemolyticus,Vibrio species,Virulent strains,AHPND-associated mortalities,Production cycle,days of stocking,early mortality syndrome

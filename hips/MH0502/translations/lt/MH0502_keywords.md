@@ -1,0 +1,1 @@
+marked and unusual cold weather, sharp and significant drop in air temperatures, drop in air temperatures near the surface, maximum minimum and daily average, persisting below certain thresholds, two consecutive days, cold season, drop in air temperatures, over a large area

@@ -1,0 +1,1 @@
+collapses, fires, explosions, water ingress, damage tunnel facilities, human casualties, underground structures, tunnel facilities, tunnel damage, artificial confined structures

@@ -1,0 +1,1 @@
+bacterial plant disease, plant diseases caused by bacterial microorganisms, bacterial microorganisms, crop productivity, forest productivity, natural habitat, significant impacts, large areas, plant diseases, bacterial microorganisms

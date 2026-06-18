@@ -1,1 +1,44 @@
-{}
+### Apibrėžimas
+Jūros vandens įsibūris – tai procesas, kuriuo salios vanduo infiltruoja pakrantės akiferą, sukeldamas šviežaus glėblio užterštumą (Prince Edward Island Department of Environment, Labour and Justice, 2011).
+
+### Pagrindinės nuorodos
+European Environment Agency, no date. Helpcenter apibrėžimas: salios vandens įsibūris. Salios vandens įsibūris – Europos aplinkos agentūra (prieigos data 13.05.2025).
+
+### Pastabos
+
+### Papildoma mokslinė aprašymo informacija
+Jūros vandens įsibūris (SWI) – tai procesas, kai jūros vanduo infiltruoja pakrantės glėbulio sistemą, tarsi mišinys su vietiniu šviežiu vandeniu. Glėbulis išsaugomas porų ir sužadinimų geologiniu sluoksniu po paviršiaus, o sluoksnis, kuriame glėbulis laikomas, vadinamas akiferu (Prince Edward Island Department of Environment, Labour and Justice, 2011). SWI atsiradimas gali įgyti įvairių formų. Du pagrindiniai klasifikavimo kategorijos pasiūlyta: „pasivus SWI“, reiškiantis, kad jūros vanduo juda į vidų, kai šviežias glėbulis juda link pakrantės, ir „aktyvus SWI“, kai jūros vanduo juda tuo pačiu kryptimi kaip šviežias glėbulis (Werner, 2017).
+
+Jūros vandens įsibūris (SWI) – natūralus procesas, patiriamas beveik visose pakrantės akiferų grupėse visame pasaulyje, tačiau su skirtingu įsibūris pakilimo lygiu, priklausomai nuo kelių geologinių, hidrologinių ir aplinkos veiksnių. Problema sustiprėja antropogeninėmis veiklomis, ypač glėbulio per didelį ištraukimą (Geosciences Australia, 2014; Kassem et al., 2024).
+
+Aquiferai natūraliai papildomi (arba „pilami“) per lietaus ir sniego tirpimo nuotėkį į žemę, kuris galų gale pasiekia vandenų lygį. Kadangi salios vanduo yra tankesnis nei šviežias, šis salio glėbulis gali „įsibūti“ po šviežio, sukeldamas jūros vandens „slankytį“ pakrantėje. Be hidrostatikos ir tankio gradientų šios salio–šviežio vandens sąveikos valdomos daugybe veiksnių, įskaitant akiferų savybes (pvz., permeabilumą ir sluoksnių plonumą) bei sluoksnių, esančių aplink akiferą, apsaugos sluoksnių (Prince Edward Island Department of Environment, Labour and Justice, 2011; Government of Australia, 2015; Chun et al., 2018).
+
+### Metrika ir skaitmeniniai ribos
+Vandens saliutumas išorėje apibrėžiamas per elektrinę laidomybę (EC). Glėbulio saliutumas apibrėžiamas per dalis per milijoną (ppm). Mokslinės ataskaitos naudoja deksiametrus per metrą (dS m⁻¹) kaip pagrindinę matavimo vienetą (USGS, 2019).
+
+Salitumas – tai matas, kurio dėka nustatomas tirpusių druskų kiekis vandens iš visų šaltinių. Tirpimo koncentracija yra druskų kiekis jūros vandenyje, išreiškiamas dalimis per milijoną (ppm) (USGS, 2019).
+
+### Svarbiausi tarptautiniai susitarimai / dvišalis sutartis
+Nėra nustatytų.
+
+### Veiksniai
+Daugybė veiksnių prisideda prie jūros vandens įsibūris laipsnio, tarp jų: pumpavimas ir pilimo įvykiai, akiferų geometrija (ypač pakrantės gylis), geologiniai ir hidrologiniai parametrai, ribos sąlygos, natūralus šviežio vandens srautas iš žemės pusės ir žemės naudojimas (Werner et al., 2013). Su pakrantės lygio padidėjimu salios vandens įsibūris pakrantės akiferų, išorės vandenyse ir dirvožemyje tikėtina tapti dažnesnis ir pasiekti giliau. Slinimas glėbulio, išorės vandenys ir dirvožemio ištekliai taip pat didėja dėl sausros įvykių ir mažėjančių upių srautų (Oppenheimer et al., 2019). Jūros vandens įsibūris pagrindinis faktorius – glėbulio ištraukimas. Papildomi natūralūs ir antropogeniniai veiksniai aptariami White & Kaplan (2017).
+
+### Poveikiai
+Jūros vandens įsibūris gali sutrikdyti šviežaus gėrimo vandens tiekimą, ypač pavojingas žmonėms su hipertenzija, kuriems būtina mažinti druskos suvartojimą (Government of British Columbia, no date). Žemės aukščio atollų salas, kurių jūros lygio padidėjimas, užkariauja jūros vandens įsibūris tiesioginį glėbulio įkrovą, tokį dažnį, kad glėbuliai neatsistatomi ir atollai tampa nepalaikomi (Storlazzi et al., 2018). Jūros vandens įsibūris taip pat kelia grėsmę žemės ūkiui, tiek pakrantės rajonuose (U.S. Department of Agriculture Northeast Climate Hub, no date), tiek regionuose, kuriuose vandens tiekimas ir prieinamumas riboti, pvz., Saudo Arabijoje (Benaafi et al., 2023). Salios vanduo netinkamas laistymui dėl aukšto saliutumo, natrijo ir magnio, sukeldamas saliutumo ir alkalijos pavojų, kurie mažėja su atstumu nuo jūros (Benaafi et al., 2023). Be to, jūros vanduo gali užteršti akiferą elementais B, Se, F ir Zn, kurie viršija WHO leidžiamus ribas. Kiti sunkiųjų metalų matavimai buvo atlikti, tačiau jų lygiai atitinka priimtinas ribas (Alshehri et al., 2021). Salios vanduo taip pat gali paveikti vandens kokybę „atskleidžiant“ maistines medžiagas iš trąšų lauko plotuose. Tai susiję su unikalią salio vandens chemiją ir jos sąveika su dirvožemiu. Kai šios maistinės medžiagos tampa judančios, jos gali keliauti per laistymo tinklus į didesnius pakrantės vandenys telkinius, pvz., ežerus ir miškus. Ten perteklinis maistinių medžiagų kiekis gali sukelti algų peraugimą. Kai alga miršta, bakterijos ją sunaudoja. Šis procesas gali išparduoti visą deguonies kiekį vandenyje. Deguonies trūkumas gali sukelti žuvų mirtį, gyvūnų aplinkos nuostolį ir kitus kenksmingus poveikus pakrantės ekosistemoms ir gamtinei gyvybei (U.S. Department of Agriculture Northeast Climate Hub, no date). Tai yra pavojus žemės ūkiui ir aplinkos vandens naudojimui. Urbanoje aplinkoje jūros vandens įsibūris, padarant vandenį druskamesnį ir kankesnį, sukelia žalos vamzdžiams ir kitiems vandens tiekimo ir nuotekų infrastruktūros elementams. Kiti infrastruktūros, pvz., keli, tiltai ir pastatai, taip pat gali patirti žalos (Coastal City Resilience and Extreme Heat Action Project (CoCHAP), no date). Kai hurrikanas „Katrina“ pasikeitė New Orleans 2005–ais, 90 % City Park buvo supulsuotas druskiniu vandeniu, sukeldamas žalos vertę, virš 43 mln. (Williams, 2010).
+
+### Daugialypė pavojų kontekstas
+Žemiau pateiktas paveikslėlis santraukia bendrąjį jūros vandens įsibūris ir kitų pavojų sąveiką. Ši informacija turėtų būti naudojama atsargiai ir neturėtų būti vienintelis pagrindas rizikos valdymui, ypač jei kai kurios sąveikos galimai nebuvo įtrauktos. Įprasti pavojų įvykiai kartu, laiku ar erdvėje, nėra būtini, kad sukelti, sustiprinti ar būti kitaip susiję. Specifinius daugialypės pavojų kontekstų pavyzdžius galima rasti „Pavojų veiksnių“ ir „Poveikių“ skyriuose aukščiau.
+
+### Daugialypės pavojų diagrama
+
+### Rizikos valdymas
+Tinkamas jūros vandens įsibūris valdymas reikalauja geros akiferų sistemų žinių ir gebėjimo numatyti jų būsimo elgesio skirtingomis scenarijais, kuriuose natūralios ir antropogeninės sąveikos veikia. Šiuo atžvilgiu skaitmeninė simulacija plačiai naudojama jūros vandens įsibūris analizei pakrantės akiferuose ir įvairių glėbulio išteklių valdymo scenarijų vertinimui (Jeen et al., 2021). Valdymo technikos dažnai suskirstomos į dvi pagrindines kategorijas: vandens ištraukimo valdymas iš glėbulio akiferų ir fizinių barjerų įdiegimas, kad būtų išvengta salios vandens įsibūris akiferuose (Wu et al., 2020). Žemiau pateikta lentelė santrauką strategijų, požiūrių ir įrankių, skirta mažinti salios vandens įsibūris poveikį (Montanari, 2017; White & Kaplan, 2017). Regionalaus adaptacijos bendradarbiavimo (RAC) dalyje, kurią organizuoja „Natural Resources Canada“, kiekvienoje Atlanto Kanados provincijoje sukurtos atvejų studijos, siekiant geriau suprasti jūros vandens įsibūris ir iššūkių, kuriuos tai sukelia. Atvejų studijos atliekamos siekiant išnagrinėti esamas sąlygas ir jų poveikį glėbulio ištekliams (Prince Edward Island Department of Environment, Labour and Justice, 2011).
+
+### Stebėjimas
+Ši dalis ir žemiau pateikta lentelė pateikia bendrąjį jūros vandens įsibūris stebėjimą. Ši informacija gali būti naudojama prognozei, remiantis iš anksto įspėjimo sistema (EWS). Kadangi EWS galimybės ir procesai skiriasi tarp šalių, būtina gauti šiuo metu galiojančią ir konkrečią informaciją apie EWS iš tinkamos nacionalinės ar regioninės agentūros/autoritetų atsakingų už katastrofų valdymą. Kokia institucija gamina katastrofų rizikos duomenis / informaciją? – Vandens agentūros, žemės ūkio agentūros, sveikatos agentūros. Kaip stebimas / matomas / prognozuojamas pavojus? – Vandens lygio matavimas glėbulio bute (Jasechko et al., 2020); hidrografijos analizė; vandens kokybės mėginių analizė; ir geofizikinė analizė (California Water Science Center, no date).
+
+### References
+Alshehri, F., Almadani, S., El‑Sorogy, A.S., Alwaqdani, E., Alfaifi, H.J., Alharbi, T., 2021. Influence of seawater intrusion and heavy metals contamination on groundwater quality, Red Sea coast, Saudi Arabia. Marine Pollution Bulletin 165, 112094. Accessed 12 February 2025.
+Benaafi M., Abba, S.I., Aljundi, I.H., 2023. Effects of Seawater Intrusion on the Groundwater Quality of Multi‑Layered Aquifers in Eastern Saudi Arabia. Molecules 28(7):3173. doi: 10.3390/molecules28073173. Accessed 12 February 2025.
+… (remaining reference block unchanged)

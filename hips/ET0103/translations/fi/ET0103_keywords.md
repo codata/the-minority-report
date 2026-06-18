@@ -1,0 +1,1 @@
+sudden and large explosion, rapid release of energy, emission of electromagnetic radiation, across all wavelengths, rapid increase in brightness, outburst of electromagnetic energy, speed of light, sunlit side of Earth’s exposed outer atmosphere, electromagnetic energy, Sun's surface

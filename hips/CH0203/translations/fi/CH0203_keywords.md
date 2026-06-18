@@ -1,0 +1,1 @@
+organic compounds, hydrogen and carbon atoms,fossil fuels,aromatic hydrocarbon,molecular formula C6H6,delocalized π-electron system,highly flammable and volatile,hydrocarbon ground gases,hydrocarbon molecules,simplest form of organic molecules

@@ -1,0 +1,1 @@
+Salmonella typhi, life-threatening infection, bacterial infection, contaminated food, contaminated water, spread through contaminated food, spread through contaminated water, typhoid fever annual cases, mortality estimates

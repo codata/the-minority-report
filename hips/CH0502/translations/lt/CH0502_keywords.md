@@ -1,0 +1,1 @@
+polychlorinated biphenyls,polychlorinated dibenzo-p-dioxins,polychlorinated dibenzofurans,persistent organic pollutants,by-products of combustion,chlorine bleaching of paper pulp,smelting,bioaccumulate in food chains,adverse health effects,long-term adverse health effects

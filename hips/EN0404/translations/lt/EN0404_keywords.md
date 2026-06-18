@@ -1,0 +1,1 @@
+seawater temperature is too high, lose the symbiotic algae, symbiotic algae, give coral its colour, part of its nutrients, severe bleaching, prolonged bleaching, repeated bleaching, death of coral colonies, coral colonies

@@ -1,0 +1,1 @@
+microscopic parasite, live in water, live in food, live in soil, contaminated with infected faeces, watery diarrhoeal disease, cryptosporidiosis, waterborne transmission, diarrhoeal disease, parasite

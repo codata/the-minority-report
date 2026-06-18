@@ -1,0 +1,1 @@
+perturbations in Earth's magnetosphere, solar wind's speed, solar wind's density, solar wind's magnetic properties, intensity of a geomagnetic disturbance, geomagnetic indexes, global phenomenon, intensities vary, characteristics vary, geographic locations

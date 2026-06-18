@@ -1,0 +1,1 @@
+colourless acrid-smelling, reactive gas, ambient temperature and pressure, public health hazard, reactive substance, gaseous state, NH3, WHO hazard classification, PHE regulation, ambient conditions

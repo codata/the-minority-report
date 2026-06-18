@@ -1,0 +1,1 @@
+Dioxins and dioxin-like substances, polychlorinated biphenyls (PCBs), polychlorinated dibenzo-p-dioxins (PCDDs), polychlorinated dibenzofurans (PCDFs), persistent organic pollutants (POPs), by-products of combustion, chlorine bleaching of paper pulp, smelting, bioaccumulate in food chains, adverse health effects and diseases

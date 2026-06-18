@@ -1,0 +1,1 @@
+soil health status, soil organic carbon, soil erosion, soil compaction, soil salinization, soil sealing, water erosion, wind erosion, soil biodiversity, nutrient depletion, soil fertility

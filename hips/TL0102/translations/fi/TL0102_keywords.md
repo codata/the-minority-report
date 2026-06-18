@@ -1,0 +1,1 @@
+data breach, PII breach, security incident, breach of confidentiality, breach of availability, breach of integrity, data responsibility, company responsibility, confidentiality breach, availability breach, integrity breach, data suffering

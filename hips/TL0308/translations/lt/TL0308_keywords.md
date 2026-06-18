@@ -1,0 +1,1 @@
+Vehicle collision, Struck-by/caught-in/caught-between, Explosions and fires, Falls, Confined spaces, Ignition of flammable vapours or gases, Asphyxiation and exposure to harmful chemicals, Ergonomic hazards, High-pressure line and equipment, Electrical and other hazardous energy, Machine hazards, Job safety analysis

@@ -1,0 +1,1 @@
+mass of snow and ice, falling suddenly, mountain slope, earth, rocks and rubble, snow and ice mass, sudden descent, mountain slope dynamics, avalanche debris, earth and rock material

@@ -1,0 +1,1 @@
+lava flows, lava domes, low-viscosity molten rock, relatively viscous lava, lava flow units, lava flow lobes, lava flow field, pillow lavas, aʻā flows, pāhoehoe flows, lava dome collapse, pyroclastic density currents, block-and-ash flows, viscous lava domes, lava coulées, rheological properties of lava

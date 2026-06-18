@@ -1,0 +1,1 @@
+precipitation of drops of water, falls from a cloud, extreme rainfall, secondary hazards, flooding, landslides, soil erosion, environmental degradation, sustaining life and ecosystems, damage to infrastructure

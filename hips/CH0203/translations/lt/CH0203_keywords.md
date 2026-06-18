@@ -1,0 +1,1 @@
+organic compounds, hydrogen and carbon atoms,fossil fuels,natural gas,petroleum,aromatic hydrocarbon,delocalized π-electron system,molecular formula C6H6,highly flammable and volatile,hydrocarbon ground gases

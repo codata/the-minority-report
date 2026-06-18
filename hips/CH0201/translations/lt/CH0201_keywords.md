@@ -1,0 +1,1 @@
+Aflatoxins are mycotoxins, Aflatoxins are difuranocoumarin derivatives, Aspergillus flavus and A. parasiticus, Aflatoxin B1 and B2, Aflatoxin G1 and G2, Aflatoxin M1 and M2, aflatoxicosis, mould growth on food, exposure to mycotoxins, maximum levels for aflatoxin in foods, human carcinogens

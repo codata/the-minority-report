@@ -1,0 +1,1 @@
+air motion, motion relative to the Earth’s surface, horizontal component, air motion relative, Earth’s surface, horizontal component of wind, relative motion, air motion, WMO standard, surface motion
