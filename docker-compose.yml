@@ -4,7 +4,7 @@ services:
   orchestrator:
     build: .
     environment:
-      - OLLAMA_HOST_2=${OLLAMA_HOST_2:-http://10.147.18.37:11434}
+      - OLLAMA_HOST_2=${OLLAMA_HOST_2:-http://10.147.18.24:11434}
       - OLLAMA_HOST=${OLLAMA_HOST:-http://host.docker.internal:11434}
       - GEMINI_API_KEY
       - ODRL_POLICY_PATH=./ODRL/translation_pipeline_odrl.jsonld

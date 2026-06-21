@@ -1,0 +1,1 @@
+extreme warm near-sea surface temperature,persistent anomalously warm ocean temperatures,SST anomaly,heatwave category,SST anomalies exceed the climatological threshold,ocean currents as cause,warm water and air-sea heat flux,localized events,basin-wide events,species migration and mass die-offs,coral bleaching,fisheries and aquaculture impacts,ocean warming from the atmosphere

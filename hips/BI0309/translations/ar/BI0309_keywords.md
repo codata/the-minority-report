@@ -1,0 +1,1 @@
+New World screwworm, Cochliomyia hominivorax, obligate parasite of mammals, wound or traumatic myiasis, infestation of tissue by fly larvae, myiasis, skin wounds or sores, secondary bacterial infections, economic losses due to screwworm infestation, sterile insect technique, control programme using sterile insect technique, screwworm eradication programmes

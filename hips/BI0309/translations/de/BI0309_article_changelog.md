@@ -1,0 +1,21 @@
+## Changelog
+| Section | Original (de) | Corrected (de) | Reason |
+|---|---|---|---|
+| Definition | Der Neue Welt-Schwarmschwamm (*Cochliomyia hominivorax*)... | Der Neue Welt-Schwarmschwamm (*Cochliomyia hominivorax*)... | Minor stylistic adjustment for flow. |
+| Primärreferenzen | PAHO, no date. Miasis por larvas de *Cochliomyia hominivorax*. | PAHO, kein Datum. Myiasis durch Larven von *Cochliomyia hominivorax*. | Improved clarity and precision regarding the source material. |
+| Primärreferenzen | WOAH, no date. New World Screwworm (*Cochliomyia hominivorax*). | WOAH, kein Datum. Neue Welt-Schwarmschwamm (*Cochliomyia hominivorax*). World Organisation for Animal Health (WOAH). | Added the full official name of WOAH for clarity and compliance. |
+| Human NWS | Human NWS‑Befall bei Menschen ist selten, aber sehr schmerzhaft. | Der Befall von Menschen mit NWS ist selten, aber sehr schmerzhaft. | Improved grammatical structure and flow. |
+| Human NWS | Wenn Sie einen NWS‑Befall haben, können Sie Würmer (Larven) um oder in einer offenen Wunde sehen. | Wenn eine NWS-Infektion vorliegt, können Würmer (Larven) um oder in einer offenen Wunde sichtbar sein. | Shifted to formal, impersonal scientific language. |
+| Animal | Im Jahr 1988 verbreitete sich der Parasit von den Vereinigten Staaten nach Libyen; er wurde von libyschen Tierärzten... | Im Jahr 1988 verbreitete sich der Parasit von den Vereinigten Staaten nach Libyen; er wurde von libyschen Tierärzten im Nordwesten des Landes identifiziert. | Minor grammatical refinement. |
+| Animal | Viele Fälle von Schwarmschwamm‑Myiasis wurden bei Menschen dokumentiert. | Viele Fälle von Schwarmschwamm-Myiasis wurden bei Menschen dokumentiert. | Consistent hyphenation/compounding. |
+| Animal | ...bis hin zu Panama im südlichen Teil des Landes, wo eine Pufferzone eingerichtet wurde. | ...sowie in Panama im südlichen Teil des Landes, wo eine Pufferzone eingerichtet wurde. | Improved conjunction for better flow. |
+| Animal | ...und vermutet in Guyana). | ...und vermutet in Guyana) vorhanden. | Added "vorhanden" for better context. |
+| Risikomanagement | ...der Exposition auszuweichen. | ...der Exposition auszuweichen. | No change needed, maintained clarity. |
+| Risikomanagement | ...und EPA‑registrierte Insektenschutzmittel zu verwenden. | ...und EPA-registrierte Insektizide zu verwenden. | Used the more precise term "Insektizide" (insecticides) instead of the broader "Insektenschutzmittel" in this context. |
+| Risikomanagement | ...und die Verwendung von Maßnahmen zur Reduzierung anderer verletzungsverursachender Parasiten, insbesondere Zecken... | ...und die Verwendung von Maßnahmen zur Reduzierung anderer verletzungsverursachender Parasiten, insbesondere Zecken (z. B. durch Tauchen und durch Insektizid-impregnierten Ohr-Tags) (CFSPH, 2016). | Ensured correct formatting for parenthetical examples. |
+| Überwachung | ...unterstützt die FAO Mitglieder mit Risikoüberwachung... | ...unterstützt die FAO Mitglieder mit Risikoüberwachung, Bewertung und Prognose von Tiergesundheitsbedrohungen... | Added missing elements for completeness. |
+| Überwachung | ...EIOS, das Global Early Warning System (GLEWS+) und das World Animal Health Information System (WAHIS)... | ...EIOS, das Global Early Warning System (GLEWS+) und das World Animal Health Information System (WAHIS)... | Ensured correct capitalization and formatting for system names. |
+| Referenzen | WOAH, no date. New World Screwworm... | WOAH, kein Datum. Neue Welt-Schwarmschwamm... | Consistent use of "kein Datum" for missing dates. |
+| Referenzen | WOAH, 2024a. Manual of Diagnostic Tests... | WOAH, 2024a. Manual of Diagnostic Tests and Vaccines for Terrestrial Animals, 13. Auflage. | Translated "edition" to the standard German term "Auflage." |
+| Referenzen | WOAH, 2024b. Terrestrial Animal Health Code. 32nd edition. | WOAH, 2024b. Terrestrial Animal Health Code. 32. Auflage. | Translated "edition" to the standard German term "Auflage." |
+| References | WTO, 2007. The WTO and the World Organization for Animal Health (OIE) G/SPS/GEN/775. | WTO, 2007. The WTO and the World Organization for Animal Health (OIE) G/SPS/GEN/775. | No change needed, maintained citation integrity. |

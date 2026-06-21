@@ -1,0 +1,1 @@
+substances in the gaseous state, respiratory irritants, systemic/chemical asphyxiants, volatile compounds, highly reactive compounds, naturally occurring ground gases, industrial process byproducts, hazardous air pollutants, hydrogen cyanide, phosgene, sulphur dioxide, carbon monoxide

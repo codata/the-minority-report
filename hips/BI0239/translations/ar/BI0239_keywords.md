@@ -1,0 +1,1 @@
+varicella- zoster virus,latent in neural ganglia,reactivated to cause herpes zoster,herpes zoster or shingles,varicella zoster virus (VZV),transmission via droplets,aerosols,or direct contact,complications like pneumonia or encephalitis,immunocompromised individuals,antiviral medicines,live attenuated VZV (Oka strain),secondary bacterial infection,rash of small blisters

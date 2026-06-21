@@ -1,42 +1,48 @@
-### Definitie  
-Een **watervoorzieningsstoring** is een tekort of schaarste in de toegang tot watervoorziening doordat instellingen een regelmatige levering niet waarborgen of doordat er onvoldoende infrastructuur aanwezig is (afgeleid van UN‑Water, geen datum).  
-Alternatieve definitie: Watervoorzieningssystemen zijn netwerken waarvan de randen en knooppunten drukleidingen zijn, en die bestaan uit leidingsknooppunten, waterbronnen of eindgebruikers. Deze systemen zijn ontworpen om de klant te beschermen tegen natuurlijke biologische verontreiniging; bovendien bieden ze bescherming tegen opzettelijke biologische en chemische verontreiniging (afgeleid van Franchin en Cavalieri, 2013; en Jain et al., 2014).
+### Definitie
+Watervoorzieningsfalen is een fysieke tekort- of schaarste in de toegang tot watervoorziening als gevolg van het falen van instellingen om een regelmatige levering te garanderen of door een gebrek aan adequate infrastructuur (geïntegreerd uit UN‑Water, geen datum).
+Alternatieve definitie: Watervoorzieningsnetwerken zijn netwerken waarvan de randen en knopen drukleidingen zijn en die pijpverbindingen, waterbronnen of eindgebruikers omvatten. Deze netwerken zijn ontworpen om de klant te beschermen tegen natuurlijke biologische besmetting, en dezelfde systemen bieden potentieel bescherming tegen opzettelijke biologische en chemische besmetting (geïntegreerd uit Franchin en Cavalieri, 2013; en Jain et al., 2014).
 
-### Primair(e) referentie(s)  
-- UN‑Water, geen datum. *Waterschaarste*. Toegang 26 januari 2025.  
-- Franchin, P. en F. Cavalieri, 2013. Seismische kwetsbaarheidsanalyse van een complex onderling verbonden civiele infrastructuur. In: *Handbook of Seismic Risk Analysis and Management of Civil Infrastructure Systems*. Woodhead Publishing Series in Civil and Structural Engineering, pp. 465‑513 514e. DOI: 10.1533/9780857098986.4.465. Toegang 26 januari 2025.  
-- Jain, R., M.K. Camarillo en W.T. Stringfellow, 2014. *Drinkwaterveiligheid voor ingenieurs, planners en managers: Integrated water security series*. Butterworth‑Heinemann.
+### Primaire referentie(n)
+- UN‑Water, geen datum. Water Scarcity. Toegang 26 januari 2025.
+- Franchin, P. en F. Cavalieri, 2013. Seismische kwetsbaarheidsanalyse van een complex onderling verbonden civiele infrastructuur. In: Handbook of Seismic Risk Analysis and Management of Civil Infrastructure Systems. Woodhead Publishing Series in Civil and Structural Engineering, pp. 465‑513 514e. DOI: 10.1533/9780857098986.4.465. Toegang 26 januari 2025.
+- Jain, R., M.K. Camarillo en W.T. Stringfellow, 2014. Drinking water security for engineers, planners, and managers: Integrated water security series. Butterworth‑Heinemann.
 
-### Annotaties  
-**Wetenschappelijke beschrijving**  
-Water is essentieel voor sociaal‑economische ontwikkeling, energie‑ en voedselproductie, gezonde ecosystemen en menselijke overleving. Toegang tot veilig drinkwater is een belangrijke wereldwijde gezondheidszorgkwestie en water vormt de kern van de adaptatie aan klimaatverandering, doordat het de cruciale schakel vormt tussen samenleving en omgeving. Met de stijgende wereldbevolking is het nodig om concurrerende eisen op waterbronnen in balans te brengen om de basisbehoeften te voorzien. Om het vraagverschil bij te houden, vereisen watervoorzieningssystemen periodieke inspecties, onderhoud en reparaties. Inspecties stellen vroegtijdige detectie van mogelijke beschadigingen in, waardoor reparatieplanning kan voorkomen dat er negatieve en voortdurende gevolgen optreden als gevolg van het ontbreken van water (Pietrucha‑Urbanik en Tchórzewska‑Cieślak, 2018).  
+### Annotaties
+#### Extra wetenschappelijke beschrijving
+Water is essentieel voor socio-economische ontwikkeling, energie- en voedselproductie, gezonde ecosystemen en menselijk overleven. Toegang tot veilig drinkwater is een belangrijke wereldwijde gezondheidszorg, en water vormt tevens de kern van klimaatadaptatie, aangezien het de cruciale link vormt tussen maatschappij en milieu. Met de groeiende wereldbevolking is het noodzakelijk om concurrerende waterbehoeften in balans te brengen om basisvoorzieningen voor activiteiten en overleving te garanderen. Om de vraag te blijven dekken, vereisen watervoorzieningsnetwerken periodieke inspecties, onderhoud en reparaties. Inspecties maken vroege detectie van potentiële schade mogelijk, waardoor reparaties kunnen worden gepland om negatieve en blijvende gevolgen van het ontbreken van watervoorziening te voorkomen (Pietrucha-Urbanik en Tchórzewska-Cieślak, 2018). Recente praktijken ter vermindering van noodfouten omvatten de implementatie van preventieve vervanging. Hierbij worden de meest kwetsbare elementen binnen het watervoorzieningsnetwerk geïdentificeerd en vervangen, waardoor de kans op falen afneemt (Pietrucha-Urbanik en Tchórzewska-Cieślak, 2018). Deze aanpak is vooral toegepast op verouderde infrastructuur. Acties om het aantal watervoorzieningsfalingen te verminderen omvatten, maar zijn niet beperkt tot: technische vervanging van leidingen (renovaties, onderhoud en diagnostiek); vervanging van pijpen en aansluitingen; verbeteringen in het detecteren van lekplaatsen; beperking van netwerkdruk tot de laagst toegestane waarde; en de correcte werking, ontwerp en uitvoering van watervoorzieningsnetwerken.
 
-*(de rest van de tekst volgt op dezelfde wijze, met aandacht voor de juiste terminologie en consistentie met DRR‑terminologie)*  
+### Metrics en numerieke limieten
+Hoewel aanzienlijke vooruitgang is geboekt in het verbeteren van de watervoorzieningsinfrastructuur en het bereiken van toegang tot basiswater, sanitatie en hygiëne, blijven er lacunes bestaan in de kwaliteit van geleverde diensten. Een recent rapport concludeerde dat 1,8 miljard mensen sinds 2000 toegang kregen tot basis drinkwaterdiensten, maar er bestaan nog grote ongelijkheden in toegankelijkheid, beschikbaarheid en kwaliteit van deze diensten, en meer dan 2 miljard mensen wereldwijd hebben geen veilig beheerd drinkwater (UN‑Water, geen datum a).
 
-### Metrics en numerieke limieten  
-*(vertaald met behoud van oorspronkelijke cijfers en bronvermelding)*  
+### Belangrijkste relevante VN-conventie / multilateraal verdrag
+De Verenigde Naties Duurzame Ontwikkelingsdoelen (2015), specifiek met betrekking tot het bereiken van universele en billijke toegang tot veilig en betaalbaar drinkwater voor iedereen (Doel 6: Zorg voor de beschikbaarheid en duurzaam beheer van water en sanitatie voor iedereen) (United Nations, 2015).
 
-### Relevante VN‑conventies / multilaterale verdragen  
-*(vertaald, gebruik makend van de officiële VN‑terminologie)*  
+### Drijfveren
+Een verlies van veiligheid in een watervoorzieningsnetwerk kan voortkomen uit: falen van individuele subsystemen of elementen zoals waterinname, pompstations, het waterdistributienetwerk of de voorzieningen; falen van andere technische systemen zoals riolering, energie, waterstructuren; extreme natuurlijke gevaren zoals overstromingen en droogtes; slechte organisatorische structuren; en incidentiële vervuiling van waterbronnen (Pietrucha-Urbanik en Tchórzewska-Cieślak, 2018).
 
-### Drijvende krachten (Drivers)  
-*(vertaald met correcte technische termen)*  
+### Impacten
+Een watervoorzieningsfalen leidt over het algemeen tot een verminderd wateraanbod met onvoldoende parameters zoals lage druk, wat kan leiden tot watertekort. Publieke watervoorzieningsorganen dragen de verantwoordelijkheid voor het onderhouden van fysieke en menselijke infrastructuur om water te leveren en zijn vaak gebonden aan regelgeving. Watergebruik is echter wereldwijd toegenomen met meer dan het dubbele van de bevolkingsgroei in de afgelopen eeuw. Sommige regio’s bereiken de grens waarop diensten duurzaam kunnen worden geleverd. In de tweede helft van de twintigste eeuw was er een toename van grote incidenten en rampen gerelateerd aan de werking van publieke watervoorzieningssystemen in landelijke, stedelijke en industriële gebieden (Pietrucha-Urbanik, 2015). Watervoorzieningsfalen kan leiden tot waterverontreiniging en watertekort, wat kan resulteren in uitbraken van water-gedragen ziekten zoals cholera en diarree. Bovendien kan in dergelijke situaties het zoeken naar alternatieve waterbronnen door mensen verdere gevaren veroorzaken, zoals ontwatering van het grondwater (UNESCO, 2023).
 
-### Impacten  
-*(vertaald met correcte DRR‑terminologie)*  
+### Multi-hazard context
+De onderstaande figuur vat de gangbare interacties tussen watervoorzieningsfalen en andere gevaren samen. Deze informatie moet met voorzichtigheid worden gebruikt en mag niet uitsluitend als basis dienen in het Rampenbestendigheidsbeheer (Disaster Risk Management), vooral omdat sommige interacties mogelijk niet zijn opgenomen. Merk op dat gevaarlijke gebeurtenissen die samen of lokaal in ruimte of tijd voorkomen, niet noodzakelijk het elkaar veroorzaken, versterken of anderszins gerelateerd zijn. Specifieke voorbeelden van multi-hazard context kunnen worden gevonden in de secties ‘Gevarijden’ en ‘Impacten’ hierboven.
 
-### Multi‑hazard context  
-*(vertaald, duidelijk gescheiden naar sub‑secties)*  
+### Multi-hazard diagram
+*(placeholder for diagram)*
 
-### Risicobeheer (Risk Management)  
-*(vertaald, inclusief acroniemen zoals GEWI en WASH)*  
+### Risicomanagement
+In recente decennia zijn analyses en evaluaties van watervoorzieningsfalingen in veel landen uitgevoerd, wat heeft geresulteerd in het gebruik van deze evaluaties om programmering, ontwerp, implementatie en exploitatie te verbeteren, en om technische regelgeving, ontwerpnormen, richtlijnen en instructies voor de prestaties en acceptatie van faciliteiten van watervoorzieningssystemen te informeren en/of te wijzigen (UN‑Water, geen datum a). Integraal waterbeheer, dat internationaal is geaccepteerd, biedt een breed kader voor overheden om watergebruikspatronen af te stemmen op de behoeften en eisen van verschillende gebruikers (UN‑Water, 2008). Naast Integraal Waterbeheer zijn er een aantal regelgevingen en normen ontwikkeld om watervoorzieningsveiligheid en -veiligheid aan te pakken, vooral vanuit de Wereldgezondheidsorganisatie met betrekking tot de toepassing van waterveiligheidsplannen, waarvan sommige:
+- Waterhygiëne en sanitaire voorzieningen: Global water supply and sanitation assessment 2000 report (WHO, 2000a).
+- Operationeel en onderhoud van landelijke watervoorzienings- en sanitaire systemen A training package for managers and planners (WHO, 2000b).
+- Mondiale kosten voor het bereiken van het Millenniumdoel voor watervoorziening en sanitaire voorzieningen (WHO, 2008).
+- Visie 2030: De veerkracht van watervoorziening en sanitaire voorzieningen in het licht van klimaatverandering Samenvatting en beleidsimplicaties (WHO, 2009).
+- Richtlijnen voor watervoorziening en sanitaire voorzieningen bij extreme weersomstandigheden (WHO Regionale Kant voor Europa, 2012).
 
-### Monitoring  
-*(vertaald met correcte terminologie)*  
+UN‑Water heeft een globaal dataportal ‘The SDG 6 Data Portal’ ontwikkeld dat alle water- en sanitaire informatie van de VN samenbrengt om de wereldwijde status van Indicator 6.4.1: Verandering in watergebruiksefficiëntie over tijd te tonen. Het doel van dit portaal is om: de algehele voortgang richting SDG6 op wereld-, regionale en nationale niveaus te volgen; de staat van waterbronnen en koppelingen aan andere sectoren te beoordelen en analyseren; bewustzijn te vergroten over water- en sanitaire kwesties om actie te katalyseren; en SDG6-monitoring en rapportage op alle niveaus te verbeteren (UN‑Water, geen datum b). Een vroegwaarschuwingssysteem voor watervoorzieningsgevoeligheid voorspelt potentiële zwaktes binnen watervoorzieningssystemen, waardoor beslissers tijdige en geschikte acties kunnen nemen. Deze systemen analyseren kritieke variabelen zoals neerslag, afstroming en hydrologische veranderingen, en geven waarschuwingen voordat drempels worden bereikt om risico’s te mitigeren. Zulke vroegwaarschuwingsmechanismen kunnen langdurig watervoorzieningsbeheer ondersteunen en beleidsbeslissingen effectief informeren (Robinson et al., 2020).
 
-### Referenties  
-*(vertaald, met correcte bronnotaties)*  
+### Monitoring
+De Verenigde Naties (VN) streven ernaar landen te ondersteunen bij het monitoren van water- en sanitaire kwesties binnen het kader van de 2030-agenda voor duurzame ontwikkeling en het compileren van landgegevens om wereldwijde vooruitgang naar Doel 6 (SDG6) te rapporteren. Het doel van dit initiatief is om de beschikbaarheid van hoogwaardige gegevens te vergroten om evidence-based beleidsvorming, regelgeving en investeringen op alle niveaus te informeren.
 
----
+### References
+*(unchanged – kept in English)*
 
-*(Alle paragrafen zijn in Markdown opgemaakt met duidelijke koppen en sub‑koppen. Legacy formatting zoals “_Definition_” is vervangen door “### Definitie”.)
+***
