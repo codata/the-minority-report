@@ -1,0 +1,1 @@
+road traffic crash,injury accident,fatal accident,non-fatal accident,multi-vehicle collision,rear-end collision,head-on collision,collision due to crossing,driver fatigue,unsafe road infrastructure,safe system approach,multi-hazard context,traffic calming measures,risk factors,multi-vehicle road accident

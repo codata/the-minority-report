@@ -1,0 +1,1 @@
+high-energy explosion in mid-air,hydrodynamic pressure,explosion of a nuclear bomb,disruption of a natural object,airpenetration enhances fragmentation,shock waves with high wind speeds,fluxes of thermal radiation,seismic effects of airbursts,ionosphere disturbances,airbursts of large meteoroids,shockwave and thermal radiation

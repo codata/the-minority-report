@@ -1,0 +1,1 @@
+invasive alien species, non-native species, plant species, weeds, aquatic weeds, poisonous weeds, invasive plant species, long seed germination capacity, ecosystem harm, biodiversity loss, invasive plant and animal species, introduction and spread, plant pests

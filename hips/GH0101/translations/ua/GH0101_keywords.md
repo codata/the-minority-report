@@ -1,0 +1,1 @@
+sudden slip on a fault, ground shaking, surface rupture, subsidence/uplift, landslides, liquefaction, tsunami, seismic intensity, peak ground acceleration, elastic spectral acceleration, Modified Mercalli intensity scale, Moment magnitude, earthquake hazard maps, seismic building codes, early warning systems

@@ -1,0 +1,1 @@
+Explosion-related technological incidents, blast waves, fragment and debris throw, cratering and ground shock, flammable liquids, dusts, gases and solids, release of hazardous chemicals, Explosion Early Warning System, hot zone, warm zone, cold zone, hazardous installations, explosive agents, secondary contamination

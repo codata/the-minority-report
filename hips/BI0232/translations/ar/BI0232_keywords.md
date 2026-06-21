@@ -1,0 +1,1 @@
+viral zoonotic disease, rabies virus, Rhabdoviridae and Lyssavirus, central nervous system, infectious saliva, post-exposure prophylaxis, rabies immunoglobulins (RIG), furious form, paralytic form, mass dog vaccination, dog-mediated rabies, One Health approach, reservoir hosts

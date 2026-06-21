@@ -1,0 +1,1 @@
+Beaufort scale wind force 8, wind speed of between 34 and 40 knots, Beaufort wind force scale, monitoring gales, national early warning system, multi-hazard context, gale-force wind risks, National Alerting Parameters for Gale, ground-based wind sensors, forecasting wind patterns

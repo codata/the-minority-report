@@ -1,0 +1,1 @@
+exceedance of ultimate limit state, structural stability, progressive structural collapse, local failure, chain reaction, structural load-bearing design, tunnel deflection, ground settlement, progressive collapse types, structural anomalies, structural failure of buildings

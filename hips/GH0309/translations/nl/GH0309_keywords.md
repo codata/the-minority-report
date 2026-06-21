@@ -1,0 +1,1 @@
+subsidence and shrinking and swelling soils, karst collapse, groundwater fluctuations, glacial isostatic adjustment, hydro-isostatic adjustment, mantle flow, tectonic uplift and subsidence, volcanic unrest, erosional/depositional-isostatic deformation, groundwater dewatering

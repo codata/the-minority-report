@@ -1,0 +1,1 @@
+Bacillus anthracis, cutaneous anthrax, gastrointestinal anthrax, inhalational anthrax, anthrax spores, handling infected carcasses, industrial anthrax, zoonosis, enzootic area, anthrax control procedures

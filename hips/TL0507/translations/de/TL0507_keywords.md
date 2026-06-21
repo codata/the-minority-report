@@ -1,0 +1,1 @@
+Electrical and electronic waste, Hazardous waste classification, Basel Convention, Persistent Organic Pollutants (POPs), Recyclable and recoverable metals, Treatment technologies, WEEE/E-waste management chain, Reverse logistics network, Early Warning System, Transboundary movements

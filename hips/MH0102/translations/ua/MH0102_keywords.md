@@ -1,0 +1,1 @@
+luminous manifestation, electrical discharge, intracloud discharges, cloud-to-ground lightning, cloud-to-cloud lightning, cloud-to-air discharges, cloud discharges, positively charged bolts, ball lightning, high-current electric discharge, cloud-to-ground lightning

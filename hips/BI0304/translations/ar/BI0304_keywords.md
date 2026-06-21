@@ -1,0 +1,1 @@
+infectious and contagious respiratory disease,Mycoplasma mycoides subsp. mycoides (Mmm),livestock production,vaccination,direct contact,inhaling droplets disseminated by coughing,subacute or unapparent infections,chronic carriers,hyperacute form,acute form,subacute form,chronic form,sequestrum,farm biosecurity,movement control

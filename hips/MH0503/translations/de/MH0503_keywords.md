@@ -1,0 +1,1 @@
+cold-season disaster, anomalous climatic conditions, land-surface conditions, reduced availability of forage/pastures, high livestock mortality, White dzud, Iron or glass dzud, Black dzud, Storm and cold dzuds, Hoof dzud, growing-season drought, cascading hazard to succeeding climatic hazards, mass livestock mortality, early warning system

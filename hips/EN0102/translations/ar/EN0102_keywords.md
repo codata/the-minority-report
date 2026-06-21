@@ -1,0 +1,1 @@
+point source of air pollution, stationary location, fixed facility, human-generated point source, primary pollutants, secondary pollutants, smoke from wildfires, ash from volcanic eruptions, sand particles from deserts, point sources of air pollution, industrial activities, chimney stack emissions, incinerators

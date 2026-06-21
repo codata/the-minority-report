@@ -1,0 +1,1 @@
+glacial lake outburst flood, catastrophic release of a water reservoir, ice-dammed lakes, GLOF-induced debris flow, dam structures composed of glacial ice, flow-type movements, downstream torrent characteristics, moraine-dammed lakes, worst-case runout distances, remote sensing information, early warning system

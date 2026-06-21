@@ -1,0 +1,1 @@
+rotating column of air,condensation funnel,dust or debris cloud,wedge tornado,rope funnel,suction vortices,supercell thunderstorms,landspout,waterspout,cold-air funnel,Enhanced Fujita Scale,International Fujita Scale

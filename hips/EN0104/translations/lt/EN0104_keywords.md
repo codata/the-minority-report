@@ -1,0 +1,1 @@
+incomplete combustion of fossil fuels, anthropogenic sources, soot, aerosol species, PM₂.₅, reducing albedo, thermal optical analysis, laser-induced incandescence, indoor black carbon, open biomass burning, aerosol–radiation interactions, snow darkening

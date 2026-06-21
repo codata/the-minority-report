@@ -1,0 +1,1 @@
+Viral, phytoplasma and viroid plant disease outbreaks,mycoplasma-like organisms,plant viruses,viroids,obligate prokaryotic plant pathogens,insect vectors,integrated management approaches,plant disease agents,phytoplasma transmission,plant disease outbreaks

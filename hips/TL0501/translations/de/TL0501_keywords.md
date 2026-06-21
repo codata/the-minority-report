@@ -1,0 +1,1 @@
+hazardous building materials,spillage of tailings,industrial toxic and hazardous waste,household furnishings,waste from relief operations,unexploded ordnance,waste from munitions and military installations,food waste and excreta,hazardous pesticides and fertilisers,equipment containing polychlorinated biphenyls

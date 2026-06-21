@@ -1,0 +1,1 @@
+vector-borne pox disease,skin nodules,lumpy skin disease virus,Capripoxvirus,mechanical transmission,arthropod vectors,contaminated feed or water,live attenuated vaccines,necrotic skin nodules,farm biosecurity,vector control,disinfestation of vehicles,large-scale vaccination,transmission by arthropod vectors

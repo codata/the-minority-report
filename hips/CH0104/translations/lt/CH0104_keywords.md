@@ -1,0 +1,1 @@
+elemental mercury,inorganic mercury compounds,organic mercury compounds,methylmercury,dental amalgam,bioaccumulates,biomagnifies,ASGM,Minamata Convention on Mercury,Methylmercury in food,neurodevelopmental problems,Minamata disease,Lowest-observed-adverse-effect level

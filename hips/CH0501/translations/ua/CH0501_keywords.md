@@ -1,0 +1,1 @@
+Highly Hazardous Pesticides, insecticide, herbicide, rodenticide, fungicide, larvicide, Carbamates/Organophosphates, Organochlorines, Pyrethroids/Pyrethrins, Pesticide residue, Maximum residue limits, Integrated Pest Management, Environmental monitoring, Risk mitigation measures, soil contamination

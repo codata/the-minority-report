@@ -1,0 +1,1 @@
+acute viral haemorrhagic disease, arbovirus of the flavivirus genus, Aedes and Haemogogus genus, sylvatic yellow fever cycle, intermediate yellow fever, urban yellow fever, jaundice and abdominal pain, Polymerase chain reaction testing, vector surveillance and control, mosquito-borne vaccine-preventable disease, endemic in tropical areas

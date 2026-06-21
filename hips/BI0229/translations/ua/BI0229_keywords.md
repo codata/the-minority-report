@@ -1,0 +1,1 @@
+viral disease, faecal-oral route, nervous system invasion, Acute Flaccid Paralysis, laboratory testing, polymerase chain reaction, vaccine-derived poliovirus, wild poliovirus, Oral polio vaccine, inactivated polio vaccine, Early Warning, Alert and Response System, Global Polio Eradication Initiative

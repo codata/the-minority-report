@@ -1,0 +1,1 @@
+glacial lake outburst flood (GLOF), release of a water reservoir, dam structures, glacial ice, morainic debris, or bedrock, GLOF-induced debris flow, downstream torrent, ice-dammed lakes, lateral moraines, worst-case runout distances, early warning system (EWS), cryospheric environment

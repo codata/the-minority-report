@@ -1,7 +1,9 @@
 ## Changelog
 | Section | Original (ua) | Corrected (ua) | Reason |
 |---|---|---|---|
-| Первинне посилання | Accessed 30 May 2025. | Доступно 30 травня 2025 р. | Standardized date format for academic citation in Ukrainian. |
-| Аннотація | Інтернаціональним комітетом Червоного Хреста (ICRC) | Інтернаціональним комітетом Червоного Хреста (МКЧ) | Used the official Ukrainian abbreviation for ICRC (МКЧ). |
-| Аннотація | Загальний коментар No. 37 (2020) | Загальний коментар № 37 (2020) | Corrected the numeral formatting for official references. |
-| Аннотація | Заворушення можуть виникати під час збройного конфлікту: «Під час збройного конфлікту політичні демонстрації, вогневі заворушення та інші форми заворушень часто характеризуються високим рівнем насильства й часто відповідають військовій силі. Насправді заворушення можуть… навіть допомогти загальній воєнній справі сторони конфлікту, підривати територіальну владу та контроль іншої сторони через політичний тиск, економічну нестабільність, руйнування та безлад. Тому важливо розрізняти пряме залучення до бойових дій, що конкретно спрямоване на підтримку однієї сторони збройного конфлікту проти іншої, від насильницьких форм заворушень, основна мета яких — висловити незадоволеність з боку територіальних чи арештуючих органів». | (No change needed) | The text was grammatically sound and flowed correctly. |
+| Визначення | Accessed 30 May 2025. | Доступно 30 травня 2025 р. | Standardized the date format for official reference style. |
+| Первинні посилання | Accessed 30 May 2025. | Доступно 30 травня 2025 р. | Standardized the date format for official reference style. |
+| Анотації / Додатковий науковий опис | Комітетом Червоного Хреста (ICRC). | Комітетом Червоного Хреста (МКЧ). | Used the standard Ukrainian abbreviation for ICRC (МКЧ). |
+| Анотації / Додатковий науковий опис | General Comment No. 37 (2020). | General Comment No. 37 (2020). | Kept the English reference as it is a specific legal/UN document identifier, ensuring fidelity to the source citation style. |
+| Анотації / Додатковий науковий опис | World Report on Violence and Health. Office of the United Nations High Commissioner for Refugees (UNHCR). | World Report on Violence and Health. Office of the United Nations High Commissioner for Refugees (UNHCR). | Maintained the proper naming convention for international bodies. |
+| Управління ризиками | Всесвітньою організацією охорони здоров’я (Krug et al., 2002). | Всесвітньою організацією охорони здоров’я (ВООЗ, Krug et al., 2002). | Introduced the standard Ukrainian abbreviation for WHO (ВООЗ) for consistency and official terminology. |

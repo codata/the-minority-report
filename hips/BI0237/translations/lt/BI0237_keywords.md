@@ -1,0 +1,1 @@
+Mycobacterium tuberculosis, multi-drug-resistant TB, extensively drug-resistant TB, sputum smear microscopy, Tuberculin skin test, rapid molecular tests, Bacille Calmette-Guérin vaccine, zoonotic TB, Mycobacterium tuberculosis complex, latent tuberculosis infection, drug-resistant tuberculosis treatment, HIV co-infection

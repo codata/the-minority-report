@@ -1,0 +1,1 @@
+toxic heavy metal, cadmium oxide, cadmium sulphide, cadmium chloride, cadmium sulphate, cadmium-containing batteries, cadmium-containing phosphate fertilisers, cadmium-plated steel scrap, occupational exposure, Itai-Itai Disease, tolerable monthly intake, cadmium exposure

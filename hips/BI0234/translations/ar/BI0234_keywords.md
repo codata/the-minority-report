@@ -1,0 +1,1 @@
+acute invasive enteric infection, bloody diarrhoea, abdominal cramps and tenesmus, Shigella dysenteriae type 1 (Sd1), patchy destruction of the colonic epithelium, micro-ulcers and inflammatory exudates, polymorphonuclear leucocytes (PMNs), multi-drug resistant (MDR) shigellosis, antimicrobial resistance (AMR), serotyping the isolate, Shigella spreads from person to person

@@ -1,0 +1,1 @@
+virus of the family Picornaviridae,genus Aphthovirus,cloven-hoofed domestic animals,transmission by direct contact,aerosol transmission,vesicles in the oral cavity,depression lameness,excessive salivation,reduced milk yield and fertility,biosecurity measures,Progressive Control Pathway for FMD control,movement control,FMD-free status

@@ -1,0 +1,1 @@
+tick-borne viral infection, CCHF virus, viral haemorrhagic fever outbreaks, case fatality rate, tick-borne virus (Nairovirus), tick-vertebrate-tick cycle, human-to-human transmission, zoonotic disease, tick bites (Hyalomma), hospital-acquired infections, tick control with acaricides, incubation period, blood or tissues contact, livestock animals

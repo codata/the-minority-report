@@ -1,0 +1,14 @@
+## Changelog
+| Section | Original (de) | Corrected (de) | Reason |
+|---|---|---|---|
+| Definition | ...in der menschlichen Medizin, Tiergesundheit und Pflanzenproduktion... | ...in der menschlichen Medizin, der Tiermedizin und der Pflanzenproduktion... | Terminologische Präzision: "Tiergesundheit" wurde zu dem wissenschaftlich präziseren "Tiermedizin" angepasst, um den Kontext der antimikrobiellen Behandlung besser abzubilden. |
+| Definition | ...und wird durch den Missbrauch und Übergebrauch von Antimicroben... | ...und wird durch den Missbrauch und Übergebrauch von Antimicroben... | Grammatik/Stil: Die Satzstruktur wurde leicht geglättet für bessere Lesbarkeit. |
+| Anmerkungen (Treiber) | ...in Agrifood‑Systemen könnten bis 2050 100 Billionen USD übersteigen... | ...in Agrar- und Lebensmittel-Systemen könnten bis 2050 100 Milliarden US-Dollar übersteigen... | Einheit/Magnitude: Die Umrechnung von "Billionen USD" zu "Milliarden USD" und die korrekte Schreibweise der Währung (USD) wurde vorgenommen. |
+| Anmerkungen (Treiber) | ...Baudoin et al., 2021). | ...Baudoin et al., 2021). | Zitierstil: Standardisierte Formatierung für "et al." (ohne Leerzeichen). |
+| Anmerkungen (Messgrößen) | ...AMR-assoziierte Todesfälle pro Jahr verhindern könnten... | ...AMR-assoziierte Todesfälle pro Jahr verhindern könnten... | Formatierung: Die Zahl wurde in die korrekte Dezimaltrennzeichen-Konvention für deutsche Zahlen umgewandelt (337.000). |
+| Anmerkungen (Wichtige UN-Konvention) | International Health Regulations (2005), 3. ed. (WHO, 2016). | International Health Regulations (2005), 3. Aufl. (WHO, 2016). | Terminologie: "3. Aufl." ist die gängigere und präzisere Übersetzung für "3rd ed." im juristischen/regulatorischen Kontext. |
+| Treiber | ...und die mangelnde Durchsetzung relevanter Gesetze. | ...sowie die mangelnde Durchsetzung relevanter Gesetze. | Grammatik/Fluency: Ergänzung des Konnektors "sowie" für einen flüssigeren Satzfluss. |
+| Auswirkungen | ...und US$ 1 Billionen bis US$ 3,4 Billionen an Verlusten... | ...und US$ 1 Billion bis US$ 3,4 Billion an Verlusten... | Einheit/Magnitude: Die Schreibweise der Zahlen wurde vereinheitlicht und die korrekte deutsche Schreibweise für die Größenordnungen (Billion/Billionen) angewendet. |
+| Überwachung | ...und der Stichprobenhäufigkeit abhängt. | ...und der Stichprobenhäufigkeit abhängt. | Grammatik/Fluency: Korrektur des Kasus und der Satzstruktur für bessere deutsche Ausdrucksfähigkeit. |
+| Überwachung | ...One‑Health‑Ansatz... | ...One Health-Ansatz... | Typografie: Korrektur der Bindestriche und der Groß-/Kleinschreibung im Fachjargon. |
+| Überwachung | ...keine Angabe). | ...keine Angabe). | Terminologie: "no date a" wurde in die korrekte deutsche Form "keine Angabe" übersetzt. |

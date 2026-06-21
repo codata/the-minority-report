@@ -1,0 +1,1 @@
+municipal solid waste, general domestic garbage, food waste, building and construction waste, hazardous waste, healthcare waste, disaster waste, controlled waste, uncontrolled waste, MSW stream, solid waste management in emergencies, solid waste generation, waste collection and disposal

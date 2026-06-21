@@ -1,0 +1,1 @@
+Asphyxiant gases, displacing oxygen from air, simple asphyxiant gases, Low Molecular Weight Alkanes, Inert gases, Carbon Dioxide asphyxiation, confined spaces, asphyxiation hazards, exposure to asphyxiant gases, flammability of asphyxiant gases, accidental releases

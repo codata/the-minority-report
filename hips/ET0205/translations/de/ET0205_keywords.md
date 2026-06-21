@@ -1,0 +1,1 @@
+near-Earth object definition,orbital evolution,gravitational perturbations,impact probability,absolute magnitude H<22 mag,probable size or luminosity,airbursts and meteorite impacts,risk corridor,International Asteroid Warning Network,orbit determination and impact monitoring,deflection missions,atmospheric effects,multi-hazard context

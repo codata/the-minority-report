@@ -1,0 +1,1 @@
+river bank erosion, river accretion, fluvial scour, mass failure, subaerial erosion, riverbank mass wasting, sediment flux, suspended sediment loads, channel bars, deposition of riverine sediments, river bank resilience

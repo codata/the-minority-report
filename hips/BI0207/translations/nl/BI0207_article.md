@@ -1,68 +1,43 @@
-```markdown
-## Definition
+### Definitie
+Dengue is een **vectorgestuurde ziekte** die wordt veroorzaakt door een virus uit de familie *Flaviviridae* en wordt overgedragen door vrouwelijke muggen, voornamelijk van het soort **Aedes aegypti** en, in mindere mate, **Aedes albopictus**. De incidentie van Dengue is in de afgelopen decennia wereldwijd dramatisch toegenomen, met meldingen bij de WHO van 505 430 gevallen in 2000 tot 5,2 miljoen in 2019 (aanpass. WHO, 2024).
 
-Dengue is een door muggen overgedragen ziekte die wordt veroorzaakt door een virus van de familie Flaviviridae en wordt overgedragen door vrouwelijke muggen, voornamelijk van de soort *Aedes aegypti* en, in mindere mate, *Aedes albopictus*. De incidentie van dengue is de afgelopen decennia wereldwijd dramatisch toegenomen, met gevallen gerapporteerd aan de WHO die zijn gestegen van 505 430 in 2000 tot 5,2 miljoen in 2019 (aangepast van WHO, 2024).
+### Primaire referentie(nen)
+WHO, 2024. Dengue and severe dengue. World Health Organization (WHO). Ontvangen 29 Mei 2025
 
-## Primary reference(s)
+### Annotaties
+#### Aanvullende wetenschappelijke beschrijving
+Dengue is een **vectorgestuurde ziekte** die wordt overgedragen door vrouwelijke muggen, voornamelijk van het soort **Aedes aegypti**. Andere soorten binnen het geslacht *Aedes* kunnen ook als vectoren fungeren, maar hun bijdrage is meestal secundair aan **Aedes aegypti**. In 2023 is echter een stijging van lokale overdracht van Dengue door **Aedes albopictus** (tigermug) waargenomen in Europa (WHO, 2024a). Deze muggen zijn eveneens vectoren voor chikungunya, gele koorts en Zika-virus. Dengue is wijdverspreid in de tropen, met lokale variaties in risico die worden beïnvloed door neerslag, temperatuur, relatieve vochtigheid en ondoordachte snelle verstedelijking (WHO, 2024a). Dengue vormt een steeds groter volksgezondheidsdreiging, met een geschatte 3,8 mrd. mensen (95 % betrouwbaarheidsinterval [CI]: 3,5 mrd.–4,1 mrd.) die in risicogebieden wonen, waarvan de meeste zich in Azië, Afrika en de Amerika’s bevinden in 2015. Verstedelijking met toenemende bevolkingsdichtheden, bevolkingsmobiliteit en klimaatverandering hebben geleid tot de geografische uitbreiding van de vectorsoorten **Aedes aegypti** en **Aedes albopictus**, waardoor de incidentie van Dengue is toegenomen. Er wordt geschat dat jaarlijks 100–400 mln. infecties voorkomen (WHO, 2024b). De ziekte is nu endemisch in meer dan 100 landen in de WHO-regio’s Afrika, Amerika’s, het Oost-Mediterrane, Zuidoost-Azië en het West-Pacifisch. De regio’s Amerika’s, Zuidoost-Azië en West-Pacifisch worden het meest getroffen; Azië vertegenwoordigt ongeveer 70 % van de wereldwijde ziektebelasting. Dengue verspreidt zich naar nieuwe gebieden in Europa, het Oost-Mediterrane en Zuid-Amerika (WHO, 2024a). Dengue is een ernstige, griepachtige ziekte die zuigelingen, jonge kinderen en volwassenen treft, maar zelden dodelijk is. Symptomen duren gewoonlijk 2–7 dagen, na een incubatietijd van 4–10 dagen na de beet van een geïnfecteerde mug (WHO, 2024a). Dengue veroorzaakt een breed spectrum van ziekten, van subklinische infectie (mensen weten niet dat ze geïnfecteerd zijn) tot ernstige griepachtige symptomen bij geïnfecteerde personen. Hoewel zeldzamer, ontwikkelen sommige mensen ernstige Dengue, met een aantal complicaties gerelateerd aan ernstige bloedingen, orgaanfalen en/of plasmalekkage. Ernstige Dengue brengt een hoger sterfte-risico met zich mee bij ongeschikte behandeling (WHO, 2024a).
 
-WHO, 2024. Dengue and severe dengue. World Health Organization (WHO). Geraadpleegd 29 mei 2025.
+Muggen kunnen geïnfecteerd raken door mensen die viraal zijn met het Dengue-virus. Dit kan iemand zijn met een symptoomcluster, iemand die nog geen symptomen heeft (pre-symptomatische fase) of iemand die geen tekenen van ziekte vertoont (asymptomatisch). Mens-naar-muggen overdracht kan tot 2 dagen vóór het optreden van symptomen en tot 2 dagen na herstel van koorts plaatsvinden. Het risico op muggeninfectie is positief gerelateerd aan hoge viremie en hoge koorts; omgekeerd zijn hoge niveaus van DENV-specifieke antilichamen geassocieerd met een verlaagd risico op muggeninfectie. De meeste mensen zijn 4–5 dagen viraal, maar viremie kan tot 12 dagen aanhouden. Na infectie met één DENV-serotype worden antilichamen geactiveerd die serotype-specifiek (homotypisch) en kruisreactief (heterotypisch) zijn. Na een primaire infectie met één DENV-serotype wordt langdurige homotypische bescherming geïnitieerd. Crossreactieve heterotypische bescherming is echter kortdurend en neemt snel af binnen 2 jaar. Wanneer heterotypische bescherming afneemt, bestaat er een risico op ernstige Dengue na een tweede infectie met een ander serotype. Er is geen specifieke antivirale behandeling voor Dengue; preventieve maatregelen richten zich op het voorkomen van ernstige ziekte en sterfte, voornamelijk door ondersteunende behandeling met volumevervanging. Patiënten met ernstige Dengue hebben vaak een ziekenhuisopname in de intensive care om klinische uitkomsten die veroorzaakt worden door vasculaire lekkage of ernstige bloedingen te beperken. De WHO raadt drie methoden aan voor Dengue-surveillance: epidemiologische surveillance, vector-surveillance en monitoring van gedragsimpact.
 
-## Annotations
+### Metrics en numerieke grenzen
+Sinds het begin van 2023 is de doorlopende transmissie, gecombineerd met een onverwachte piek in Dengue-gevallen, geleid tot een historisch hoogtepunt van meer dan 6,5 mln. gevallen en meer dan 7 300 Dengue-gerelateerde sterfgevallen (WHO, 2024a). De WHO-Regio Amerika’s meldde 4,5 mln. gevallen met 2 300 sterfgevallen. Een hoog aantal gevallen werd gemeld in Azië: Bangladesh (321 000), Maleisië (111 400), Thailand (150 000) en Vietnam (369 000) (WHO, 2024a).
 
-### Additionele wetenschappelijke beschrijving
+### Belangrijkste relevante VN-conventie / multilateraal verdrag
+Internationale gezondheidsregels (2005), 3e uitg. (WHO, 2016).
 
-Dengue is een door muggen overgedragen virale ziekte die wordt overgedragen door vrouwelijke muggen, voornamelijk van de soort *Aedes aegypti*. Andere soorten binnen het geslacht *Aedes* kunnen ook als vectoren fungeren, maar hun bijdrage is normaal gesproken secundair aan *Aedes aegypti*. Echter, in 2023 is een toename van lokale transmissie van dengue door *Aedes albopictus* (tijgermug) waargenomen in Europa (WHO, 2024a). Deze muggen zijn ook vectoren van chikungunya, gele koorts en Zika-virussen. Dengue is wijdverspreid over het tropische gebied, met lokale variaties in risico beïnvloed door neerslag, temperatuur, relatieve vochtigheid en onvoorziene snelle urbanisatie (WHO, 2024a). Dengue vormt een steeds grotere volksgezondheiddreiging, met een geschatte 3,8 miljard mensen (95 % betrouwbaarheidsinterval [CI]: 3,5 miljard‑4,1 miljard) die in 2015 in risicogebieden woonden, waarvan de meeste zich bevinden in Azië, Afrika en de Amerika's.
+### Drijfveren
+De primaire transmissievorm van het Dengue-virus tussen mensen betreft vectormuggen. Er is echter bewijs van mogelijke moederlijke overdracht (van een zwangere moeder naar haar baby). Tegelijkertijd lijken verticale overdrachtsraten laag, en lijkt het risico op verticale overdracht gekoppeld aan de timing van Dengue-infectie tijdens de zwangerschap. Wanneer een moeder Dengue heeft tijdens de zwangerschap, kunnen baby's lijden aan vroeggeboorte, laag geboortegewicht en foetale stress (WHO, 2024a). Zeldzame gevallen van overdracht via bloedproducten, orgaantransplantatie en transfusies zijn geregistreerd. Evenzo is transovariaal virusoverdracht binnen muggen ook geregistreerd. Voorgaande infectie met DENV verhoogt het risico op ernstige Dengue (WHO, 2024a).
 
-### Risicos en epidemiologische gegevens
+### Impacten
+Het hoogste aantal Dengue-gevallen werd gemeld in 2023, met impact op meer dan 80 landen in alle WHO-regio’s. Sinds het begin van 2023 is doorlopende transmissie gecombineerd met een onverwachte piek in Dengue-gevallen. Meerdere factoren zijn gerelateerd aan het toenemende risico op verspreiding van de Dengue-epidemie: de wijzigende verspreiding van vectoren (voornamelijk **Aedes aegypti** en **Aedes albopictus**), vooral in voorheen Dengue-naïve landen; de gevolgen van het El Niño-fenomeen in 2023 en klimaatverandering die leiden tot toenemende temperaturen en hoge neerslag en vochtigheid; kwetsbare gezondheidsystemen midden in de COVID-19-pandemie; en politieke en financiële instabiliteit in landen met complexe humanitaire crises en hoge bevolkingsmobiliteit (WHO, 2024a). Community-risico’s voor Dengue hangen ook af van kennis, houding en praktijk van de bevolking ten opzichte van Dengue; de blootstelling is nauw gerelateerd aan gedragingen zoals watervoorziening, plantenonderhoud en zelfbescherming tegen muggenbeten. Routine vector-surveillance en controlemethoden die gemeenschappen betrekken, vergroten de veerkracht van de gemeenschap (WHO, 2024a).
 
-- **Incidence**: 100–400 miljoen infecties per jaar (WHO, 2024b).  
-- **Geografische verspreiding**: Endemisch in meer dan 100 landen binnen de WHO-regio's Afrika, Amerika's, het Oost-Mediterrane gebied, Zuidoost-Azië en het West-Pacifische gebied.  
-- **Regionale druk**: De regio's Amerika's, Zuidoost-Azië en West-Pacifisch zijn het zwaarst getroffen; Azië vertegenwoordigt ongeveer 70 % van de mondiale last.  
-- **Noodtoestand**: In 2023 waren er meer dan 6,5 miljoen gevallen en 7 300 dodelijke incidenten gerapporteerd.
+### Multi-hazard context
+Verstedelijking met toenemende bevolkingsdichtheden, bevolkingsmobiliteit en klimaatverandering hebben geleid tot de geografische uitbreiding van de vectorsoorten **Aedes** en hebben bijgedragen aan de toename van Dengue-incidentie. Vectoren kunnen zich aanpassen aan nieuwe omgevingen en klimaat. De interactie tussen het Dengue-virus, de gastheer en het milieu is dynamisch. Derhalve kunnen ziekte-risico’s veranderen en verschuiven met klimaatverandering in tropische en subtropische gebieden, in combinatie met verstedelijking en bevolkingsverplaatsingen (WHO, 2024a).
 
-### Risicogebieden
+### Risicobeheer
+De muggen die Dengue verspreiden, zijn overdag actief. Het risico op Dengue verminderen door bescherming tegen muggenbeten via het dragen van kleding die zo veel mogelijk bedekt; muggennetten als u overdag slaapt, bij voorkeur netten bespot met insecticida; raamgordijnen; muggenwerende middelen (bevatten DEET, Picaridin of IR3535); en coils en vaporisers (WHO, 2024a). Muggenbroed kan worden voorkomen door het beperken van toegang tot eierplaatsen via milieubeheer en modificatie; het correct afvoeren van vaste afvalstoffen en het verwijderen van kunstmatige wateropslagplaatsen; het regelmatig bedekken, leegmaken en reinigen van huishoudelijke watertanks; en het toepassen van geschikte insecticiden op buitenwatertanks (WHO, 2024a). Er zijn momenteel 2 licentie-gegeven Dengue-vaccins: CYD-TDV (Dengvaxia, Sanofi); en TAK-003 (Qdenga, Takeda). Beide zijn tetravalente levend-verzwakkende vaccins, maar verschillen in de mate van chimerisatie en het genomische back-bone, alsook in effectiviteit en veiligheid. Vaccinatie tegen Dengue moet worden gezien als onderdeel van een geïntegreerde strategie voor ziektecontrole, waaronder vectorcontrole, juiste casemanagement, gemeenschapsonderwijs en -betrokkenheid (WHO, 2024b). Dengue-preventie en -controle zijn afhankelijk van effectieve vectorcontrolemaatregelen. Doorlopende gemeenschapsbetrokkenheid kan de vectorcontrole aanzienlijk verbeteren. Er is een voortdurende behoefte aan naleving van andere preventieve maatregelen, zoals een goed uitgevoerde en duurzame vectorcontrole met behulp van de WHO Integrated Vector Management (IVM)-aanpak, die een rationele besluitvormingsprocedure is voor optimaal gebruik van middelen voor vectorcontrole (WHO Western Pacific, 2019). Onlangs hebben sommige landen met succes de incidentie van arbovirus-infecties zoals Dengue verlaagd via vectorcontrole met Wolbachia-infectorende muggen die hun vermogen om arboviroten over te dragen verminderen. De WHO reageert op Dengue op de volgende manieren: ondersteunt landen bij de bevestiging van uitbraken via zijn samenwerkende laboratoriumnetwerk; biedt technische ondersteuning en begeleiding aan landen voor effectief beheer van Dengue-uitbraken; ondersteunt landen bij het verbeteren van hun meldingssystemen en het vastleggen van de werkelijke last van de ziekte; biedt training op klinisch beheer, diagnose en vectorcontrole op landelijk en regionaal niveau met enkele van zijn samenwerkende centra; formuleert evidence-based strategieën en beleidsmaatregelen; ondersteunt landen bij het ontwikkelen van Dengue-preventie- en -controlestrategieën en het adopteren van de Global Vector Control Response (2017–2030); evalueert de ontwikkeling van nieuwe instrumenten, inclusief insecticiden en toepassingstechnologieën; verzamelt officiële gegevens over Dengue en ernstige Dengue van meer dan 100 lidstaten; en publiceert richtlijnen en handboeken voor surveillance, casemanagement, diagnose, Dengue-preventie en -controle voor lidstaten (WHO, 2024a).
 
-- **Europe**: Toename van lokale transmissie, vooral door *Aedes albopictus*.  
-- **Oost-Mediterrane**: Nieuwe uitbraken, versterkt door El Niño en klimaatverandering.  
-- **Suid-Amerika**: Verhoogde incidentie, gekoppeld aan stedelijke groei en migratie.
+### Monitoring
+WHO ondersteunt landen bij het uitvoeren van all-hazards strategische risico-beoordeling in de context van gezondheidsnoodgevallen en rampen, wat leidt tot de ontwikkeling van het risico-profiel van het land. Met het land-risico-profiel, inclusief een seizoensrisico-kalender, kunnen landen potentiële noodgevallen anticiperen voordat ze zich voordoen, om vroege waarschuwingen en acties te triggeren (WHO, 2021). Het Early Warning, Alert and Response System (EWARS) van de WHO is ontworpen om ziekte-uitbraken te detecteren in noodsituaties, zoals landen in conflict of na een ramp door natuurlijke gevaren. Het is een eenvoudige en kosteneffectieve manier om snel een ziekte-surveillance-systeem op te zetten. EWARS wordt tijdens een noodgeval ingezet als aanvulling op het nationale ziekte-surveillance-systeem. WHO werkt samen met ministeries van gezondheid en partners in de gezondheidssector om lokale gezondheidswerkers te trainen in het gebruik van het systeem. Na het noodgeval moet EWARS opnieuw worden geïntegreerd in het nationale systeem (WHO, 2023).
 
-### Symptomen en behandeling
+### Referenties
+WHO, 2009. Dengue Control: Monitoring and evaluation of programmes. World Health Organization (WHO). Ontvangen 25 Mei 2025.
+WHO, 2016. International Health Regulations (2005), 3e uitg. World Health Organization (WHO). Ontvangen 26 Mei 2025.
+WHO, 2021. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all-hazards health emergency risk assessment. World Health Organization (WHO). Ontvangen 26 Mei 2025.
+WHO, 2023. Early Warning, Alert and Response System (EWARS). World Health Organization (WHO). Ontvangen 26 Mei 2025.
+WHO, 2024a. Dengue and severe dengue. World Health Organization (WHO). Ontvangen 25 Mei 2025.
+WHO, 2024b. WHO position paper on dengue vaccines – Mei 2024. Weekly Epidemiological Record. World Health Organization (WHO). Ontvangen 28 Januari 2025.
+WHO Western Pacific, 2019. Integrated Vector Management. World Health Organization (WHO). Ontvangen 29 Mei 2025.
 
-- **Symptomen**: 2–7 dagen, na een incubatietijd van 4–10 dagen na beet.  
-- **Complicaties**: Sepsis, ernstige bloedingen, orgaanfalen en plasma‑lek.  
-- **Therapie**: Geen specifiek antiviraal; ondersteunend management met volumevervanging.  
-- **Zorg**: Intensieve zorg bij ernstige gevallen, met focus op vasculaire lekkage en bloedingen.
-
-### Vaccinatie
-
-- **Actieve vaccins**: CYD‑TDV (Dengvaxia, Sanofi) en TAK‑003 (Qdenga, Takeda).  
-- **Strategie**: Beschouwd als onderdeel van geïntegreerd vectorenbeheer (IVM).
-
-### Preventie en controle
-
-- Bescherming tegen beet: kleding, muskietennet, insectenwerende middelen (DEET, Picaridin, IR3535), coils, vaporisers.  
-- Milieu‑management: Verwijderen van kunstmatige waterreservoirs, regulieren van stortplaatsen.  
-- Vectormonitoring: Regelmatige surveillance, community‑gebaseerde activiteiten.
-
-### WHO‑inspanningen
-
-- Ondersteuning bij outbreak‑confirmatie, technische begeleiding, rapportagesystemen, training, beleidsontwikkeling, en de Global Vector Control Response (2017–2030).  
-- Implementatie van EWARS voor vroege detectie van uitbraken.
-
-## Monitoring
-
-- **Strategische risico‑analyse**: WHO ondersteunt landen bij het opzetten van all-hazards assessments en de ontwikkeling van een risicoprofiel.  
-- **EWARS**: Een kosteneffectieve, snelle opzet voor ziekte‑surveillance in noodsituaties, geïntegreerd in het nationale systeem na de crisis.
-
-## Referenties
-
-- WHO, 2009. Dengue Control: Monitoring and evaluation of programmes. World Health Organization (WHO). Geraadpleegd 25 mei 2025.  
-- WHO, 2016. International Health Regulations (2005), 3rd ed. World Health Organization (WHO). Geraadpleegd 26 mei 2025.  
-- WHO, 2021. Strategic toolkit for assessing risks (STAR): a comprehensive toolkit for all-hazards health emergency risk assessment. World Health Organization (WHO). Geraadpleegd 26 mei 2025.  
-- WHO, 2023. Early Warning, Alert and Response System (EWARS). World Health Organization (WHO). Geraadpleegd 26 mei 2025.  
-- WHO, 2024a. Dengue and severe dengue. World Health Organization (WHO). Geraadpleegd 25 mei 2025.  
-- WHO, 2024b. WHO position paper on dengue vaccines – May 2024. Weekly Epidemiological Record. World Health Organization (WHO). Geraadpleegd 28 januari 2025.  
-- WHO Western Pacific, 2019. Integrated Vector Management. World Health Organization (WHO). Geraadpleegd 29 mei 2025.
-```
-
-The translation above adheres to Dutch scientific terminology, maintains consistency across sections, and follows the Markdown format requested.
+Cite this [Copy citation]

@@ -1,0 +1,1 @@
+Asphyxiant gases, displacing oxygen from air, simple asphyxiant gases, lowering the percentage of oxygen in air, inert gases, Low Molecular Weight Alkanes, confined spaces, asphyxiation, displacement of oxygen, Carbon Dioxide asphyxiation hazard, Methane asphyxiation, Propane asphyxiation

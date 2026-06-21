@@ -1,0 +1,1 @@
+Mycobacterium leprae, chronic infectious disease, multidrug therapy (MDT), acid-fast bacilli, paucibacillary (PB) leprosy, multibacillary (MB) cases, interruption of transmission, Leprosy Elimination Framework, neglect tropical disease (NTD), skin lesions and nerve involvement

@@ -1,0 +1,1 @@
+water-saturated flows,volcanic rock sediment ice debris,primary and secondary lahars,debris flows and volcanic mudflows,flow routing channel networks,sediment concentration by volume,topographically confined flows,pyroclastic density currents,flow speed and runout distance,flow modeling and dynamic pressure,triggering factors rainfall

@@ -1,0 +1,1 @@
+physical structures, facilities, networks and other assets,Energy systems,Transport infrastructure,Digital Infrastructure,Water infrastructure,Health facilities,Financial market infrastructure,Cyberattacks on critical infrastructure,transport accident,infrastructure failure cascades,business continuity measures

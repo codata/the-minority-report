@@ -1,0 +1,1 @@
+ice and snow melt, spring thaw, freeze-thaw episodes, thaw-induced flooding, snowmelt rates, permafrost thawing, runoff, ice and snowmelt, soil stability, freeze-thaw cycles, warming to the melting point

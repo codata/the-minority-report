@@ -1,0 +1,1 @@
+vector-borne pox disease,skin nodules on all body surfaces,lumpy skin disease virus (LSDV),genus Capripoxvirus (CaPV),Poxviridae family,mechanical transmission by arthropod vectors,consumption of contaminated feed or water,direct contact or artificial insemination,farm biosecurity,effective live attenuated vaccines,vector control,movement control,skin nodules

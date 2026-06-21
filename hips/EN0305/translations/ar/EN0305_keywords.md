@@ -1,0 +1,1 @@
+permafrost thaw, loss of ground ice, active layer, gradual permafrost loss, abrupt thaw, thermokarst landscapes, permafrost carbon pool, positive feedback cycle, ground subsidence, permafrost degradation, meltwater-dependent ecosystems

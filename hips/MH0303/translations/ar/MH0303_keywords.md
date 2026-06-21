@@ -1,0 +1,1 @@
+Beaufort scale wind force 8,wind speed measurement,knots,Beaufort wind force scale,windstorms,impact phase of a storm,pre- and post-impact phases,early warning system,atmospheric pressure gradients,ground-based wind sensors

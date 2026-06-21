@@ -1,0 +1,1 @@
+wetland loss/degradation, negative trend in wetland condition, human-induced processes, biological productivity, ecological role, value to humans, areas of marsh, peatland, static or flowing water, fresh brackish or salt water, riparian and coastal zones, marine water depth

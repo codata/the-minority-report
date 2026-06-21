@@ -1,0 +1,1 @@
+Meteoroid entering Earth's atmosphere,fireballs or shooting stars,explosion energy release,wind blasts,overpressure shock,thermal radiation,cratering,seismic shaking,ejecta deposition,airbursts,parent bodies,Near-Earth Objects

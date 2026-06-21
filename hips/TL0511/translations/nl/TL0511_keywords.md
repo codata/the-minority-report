@@ -1,0 +1,1 @@
+fine-grained waste material,liquid slurry,tailings storage facilities,tailings dams,particle size range,chemical composition,acid mine drainage,toxic elements,tailings storage methods,leachate,operations maintenance and surveillance

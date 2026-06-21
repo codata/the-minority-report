@@ -1,0 +1,1 @@
+by-product of mining,fine-grained waste material,liquid slurry made of fine mineral particles,particle size range,chemical composition of tailings,acid mine drainage,tailings storage facilities (TSFs),tailings dams,tailings management,leachate coming out of the ponds/dams,tailings storage methods

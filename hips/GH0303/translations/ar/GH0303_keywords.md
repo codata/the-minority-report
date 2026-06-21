@@ -1,0 +1,1 @@
+gravitational mass movements, debris flows, rock avalanches, mud flows, earth flows, channelized debris flow, debris avalanche, fine sediment, dry rock fragmentation, flow-like motion

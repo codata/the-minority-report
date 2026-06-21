@@ -1,0 +1,1 @@
+avian paramyxovirus type 1,Newcastle disease virus (NDV),zoonotic potential,poultry disease,endemic in village chickens,live and inactivated vaccines,live attenuated vaccines,mode of transmission,ingestion of contaminated faeces,farm and market biosecurity,clinical signs

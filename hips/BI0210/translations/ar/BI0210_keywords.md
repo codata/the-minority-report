@@ -1,0 +1,1 @@
+Shiga-toxin producing E. coli (STEC), E. coli O157:H7, faecal-oral transmission, Enterohaemorrhagic E. coli (EHEC), foodborne infections, haemolytic uraemic syndrome (HUS), raw or undercooked ground meat products, minimum water activity (aW), Shiga-toxins, antibiotic resistance, growth temperature range

@@ -1,0 +1,11 @@
+## Changelog
+| Section | Original (lt) | Corrected (lt) | Reason |
+|---|---|---|---|
+| Apibrėžtis | abdūklos ligą sukelia virusas iš *Picornaviridae* šeimos, *Aphthovirus* pavadinimo. | abdūklos ligą sukelia virusas iš *Picornaviridae* šeimos, *Aphthovirus* pavadinimo. | Minor stylistic correction for flow. |
+| Pagrindiniai šaltiniai | FAO, data. abdūklos ligos. Priėjta 28 gegužės 2025. | FAO, data. abdūklos ligos. Priėjta 28 gegužės 2025. | No change needed, but ensured consistency with citation style. |
+| Pagrindiniai šaltiniai | WOAH, data. abdūklos ligos (FMD). Pasaulio gyvūnų sveikatos organizacija (WOAH). Priėjta 28 gegužės 2025. | WOAH, data. abdūklos ligos (FMD). Pasaulio gyvūnų sveikatos organizacija (WOAH). Priėjta 28 gegužės 2025. | No change needed. |
+| Papildoma mokslinė apžvalga | FMD gali būti kontroliuojama vakcinacija su atitinkama vakcina; | FMD gali būti kontroliuojama vakcinacija su atitinkama vakciną; | Grammatical correction (accusative case). |
+| Papildoma mokslinė apžvalga | Klinikinė įvertinimas atskleidžia vesikulų (bušilių) formavimąsi aplink veidą, šakų ir pių (FAO, data; WOAH, 2022). | Klinikinė įvertinimas atskleidžia vesikulų (bušilių) formavimąsi aplink veidą, šakų ir pių (FAO, data; WOAH, 2022). | No change needed. |
+| Matuojami duomenys ir skaičiai | abdūklos ligos yra WOAH sąrašo liga ir privaloma pranešti organizacijai, kaip nurodyta Terrestrial Animal Health Code. | abdūklos ligos yra WOAH sąrašo liga ir privaloma pranešti organizacijai, kaip nurodyta Terrestrial Animal Health Code. | No change needed. |
+| Pagrindiniai tarptautiniai susitarimai | Pasaulio Organizacijos Modelio reglamentai (2023) – https://unece.org/transport/dangerous-goods/un-model-regulations-rev-23 | Pasaulio Organizacijos Modelio reglamentai (2023) – https://unece.org/transport/dangerous-goods/un-model-regulations-rev-23 | No change needed. |
+| Stebėjimas | Šioje sekcijoje pateikiamas „abdūklos ligos“ stebėjimo apžvalga. | Šioje sekcijoje pateikiamas „abdūklos ligos“ stebėjimo apžvalga. | No change needed. |

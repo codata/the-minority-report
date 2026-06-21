@@ -1,0 +1,1 @@
+discarded plastic,material derived from polymers,photodegrade,microplastics,mixtures of such waste,non-halogenated polymer,cured resin or condensation product,food residues,residual metals,plastic pollution,leakage into the ocean,microplastics in drinking-water,plastic waste management,material circularity,environmental sound manner

@@ -1,0 +1,1 @@
+long-range transport, persistence in the environment, bio-magnify and bio-accumulate, organochlorine pesticides, polychlorinated biphenyls (PCB), polychlorinated dibenzo-p-dioxins (PCDD), polychlorinated dibenzofurans (PCDF), dioxins, toxic equivalency factors (TEFs), Stockholm Convention, bio-accumulation in food chains, PCDDs and PCDFs

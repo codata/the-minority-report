@@ -1,0 +1,1 @@
+virus from the paramyxovirus family, transmitted via droplets, high fever, runny nose, conjunctivitis, cough, rash develops on face and neck, complications include blindness and encephalitis, severe diarrhoea and related dehydration, pneumonia, population immunity gaps, routine immunisation coverage, measles outbreak Incident Management Support system, Vitamin A supplements

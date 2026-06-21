@@ -1,0 +1,1 @@
+physical structures, facilities, networks and assets,Energy systems,Transport infrastructure,Digital Infrastructure,Water and waste water,Health facilities,Financial market infrastructure,cyberattacks on critical infrastructure,disruption of basic services,infrastructure failure cascades,subsea infrastructures

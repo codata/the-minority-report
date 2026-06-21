@@ -1,0 +1,1 @@
+Antimicrobial-resistant microorganisms, Drug-resistant pathogens, Genetic changes in pathogens, Multidrug-resistant TB (MDR-TB), HIV drug resistance, One Health approach, Antimicrobial stewardship, Foodborne antimicrobial resistance, Antimicrobial Use (AMU), Genomic Surveillance & Databases, Global Antimicrobial Resistance Surveillance System (GLASS)

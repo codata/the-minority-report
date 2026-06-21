@@ -1,0 +1,1 @@
+collective physical violence, social or political instability, non-violent collective action, mass gatherings, violent riots, destruction of property, violent and non-violent group acts, organized demonstration, spontaneous demonstration, organized violent riot, general strike, limited strike, political demonstrations, direct participation in hostilities

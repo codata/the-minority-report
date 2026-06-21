@@ -1,0 +1,1 @@
+vector-borne pox disease,skin nodules on all body surfaces,lumpy skin disease virus,Capripoxvirus genus,mechanical transmission by arthropod vectors,consumption of contaminated feed or water,direct contact,artificial insemination,live attenuated vaccines,farm biosecurity,movement control,epidemic proportions

@@ -1,0 +1,10 @@
+## Changelog
+| Section | Original (ua) | Corrected (ua) | Reason |
+|---|---|---|---|
+| Definition | Блискавка – яскрава явність, що супроводжується раптовим електричним розрядом, що відбувається з хмари або, рідше, з високих споруд на землі або з гір (WMO, 2017). | Блискавка – яскрава явність, що супроводжується раптовим електричним розрядом, що відбувається з хмари або, рідше, з високих споруд на землі або з гір (WMO, 2017). | No change needed. |
+| Primary reference(s) | WMO, 2017. International Cloud Atlas: Lightening. World Meteorological Organization (WMO). Accessed 15 May 2025. | WMO, 2017. International Cloud Atlas: Lightening. World Meteorological Organization (WMO). Accessed 15 May 2025. | Formatting maintained. |
+| Additional scientific description | ...зазвичай *cumulonimbus*... | ...зазвичай *cumulonimbus*... | Italicized the Latin term for scientific accuracy. |
+| Impacts | Під час 2003‑2012 блискавка спричинила середньо 35 смертей щорічно у Сполучених Штатах (CDC, no date). | Під час 2003–2012 років блискавка спричинила середньо 35 смертей щорічно у Сполучених Штатах (CDC, no date). | Corrected date range formatting for better flow in Ukrainian. |
+| Risk Management | ...у стандарті NFPA 780 (NFPA, 2024). | ...у стандарті NFPA 780 (NFPA, 2024). | Removed the non-breaking space for standard formatting. |
+| Monitoring | ...відповідного національного чи регіонального агентства/органу відповідального за управління ризиками. | ...відповідного національного чи регіонального агентства/органу, відповідального за управління ризиками. | Corrected grammatical case agreement for fluency. |
+| Monitoring | Як спостерігається/моніториться/прогнозується небезпека? | Як спостерігається/моніториться/прогнозується небезпека? | Added a colon for clarity before the sub-questions. |

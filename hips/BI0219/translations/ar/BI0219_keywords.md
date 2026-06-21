@@ -1,0 +1,1 @@
+Plasmodium parasites, Anopheles mosquitoes, malaria vectors, P. falciparum, malaria elimination, malaria surveillance, parasite-based diagnostic testing, malaria rapid diagnostic tests, insecticide-treated nets, antimalarial drug resistance, malaria vaccines, malaria-endemic countries, cerebral malaria

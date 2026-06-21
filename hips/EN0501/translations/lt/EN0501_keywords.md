@@ -1,0 +1,1 @@
+reduction of biological diversity, extinction, habitat destruction and fragmentation, loss of ecosystem services, decline in total diversity, functional diversity, genetic diversity decline, drivers of biodiversity loss, pollution and contaminants, invasive species, planetary boundaries, ecosystem resilience

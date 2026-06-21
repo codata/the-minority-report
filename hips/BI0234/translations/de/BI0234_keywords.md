@@ -1,0 +1,1 @@
+acute invasive enteric infection, bloody diarrhoea, Shigella dysenteriae type 1, patchy destruction of the colonic epithelium, micro-ulcers and inflammatory exudates, polymorphonuclear leucocytes, PMNs, multi-drug resistant shigellosis, isolation from stool and serotyping the isolate, antimicrobial resistance, bloody diarrhoea or dysentery, Shigella vaccine

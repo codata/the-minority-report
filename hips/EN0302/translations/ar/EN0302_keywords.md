@@ -1,0 +1,1 @@
+seawater infiltrates coastal aquifer,saltwater intrusion (SWI),mixing with local freshwater supply,passive SWI,active SWI,saltwater wedge,aquifer geometry,confining layers,groundwater abstraction,salinisation of groundwater,seawater intrusion physical models

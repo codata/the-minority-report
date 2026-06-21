@@ -1,0 +1,1 @@
+strong acids and strong bases,donation of protons,proton donation,acceptance of protons,hydrolysis reactions,nucleophilic substitution reactions,decomposition of biological molecules,Bronsted Acid,Lewis Acid,Brønsted base,Lewis base,hydronium ions,hydroxide ions,acidity/ionisation constants,pH measurement,conjugate acid-base pairs,strong acid-base reactions

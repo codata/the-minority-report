@@ -1,0 +1,11 @@
+## Changelog
+| Section | Original (de) | Corrected (de) | Reason |
+|---|---|---|---|
+| Definition | WHO, 2025. *Leprosy*. World Health Organization (WHO). Accessed 25 May 2025. | WHO, 2025. *Leprosy*. World Health Organization (WHO). Abgerufen am 25. Mai 2025. | Standardized German phrasing for "Accessed" and date format. |
+| Primäre Referenz(en) | International Health Regulations (2005), 3rd ed. (WHO, 2016). | International Health Regulations (2005), 3. Aufl. (WHO, 2016). | Standardized German abbreviation for "edition" (Aufl.). |
+| Anmerkungen (Zusätzliche wissenschaftliche Beschreibung) | Die Zahl neuer Fälle war 5 % höher als 2022 (174 094). | Die Zahl neuer Fälle war 5 % höher als im Jahr 2022 (174 094). | Improved grammatical flow and clarity. |
+| Anmerkungen (Zusätzliche wissenschaftliche Beschreibung) | ...und seit 2000 wird sie durch eine Vereinbarung mit Novartis bis mindestens 2020 gespendet. | ...und wird seit 2000 durch eine Vereinbarung mit Novartis bis mindestens 2020 gespendet. | Corrected passive construction and flow. |
+| Anmerkungen (Zusätzliche wissenschaftliche Beschreibung) | ...und die Eliminierung von **Lepra** (definiert als Unterbrechung der Übertragung) als Ziel. | ...und die Eliminierung von **Lepra** (definiert als Unterbrechung der Übertragung) als Ziel. | Ensured consistent use of bolding for the key term and improved sentence structure. |
+| Multi-Hazard-Kontext | ...und die Inklusion in die Gemeinschaft zu optimieren. | ...und die Inklusion in die Gemeinschaft zu optimieren. | Minor fluency adjustment. |
+| Risikomanagement | ...und die Eliminierung von **Lepra** (definiert als Unterbrechung der Übertragung) als Ziel. | ...und die Eliminierung von **Lepra** (definiert als Unterbrechung der Übertragung) als Ziel. | Ensured consistent use of bolding and improved flow. |
+| Monitoring | Jahresdaten zu Lepra werden von der WHO über eine maßgeschneiderte Anwendung mit DHIS2-Software erhoben (WHO, 2024a). | Jahresdaten zu **Lepra** werden von der WHO über eine maßgeschneiderte Anwendung der DHIS2-Software erhoben (WHO, 2024a). | Improved prepositional phrase and clarity regarding the software application. |

@@ -1,0 +1,1 @@
+type A influenza viruses of the Orthomyxoviridae family, zoonotic, Highly Pathogenic Avian Influenza (HPAI), haemagglutinin and neuraminidase, H5N1 virus subtype, migratory wild bird movements, biosecurity measures, poultry products trade, pandemic preparedness, Global Influenza Surveillance and Response System (GISRS), human-animal interface

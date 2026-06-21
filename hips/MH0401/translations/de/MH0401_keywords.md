@@ -1,0 +1,1 @@
+Meteorological drought, Hydrological drought, Agricultural drought, Socioeconomic drought, Soil water deficits, Precipitation shortfalls, Drought indicators and indices, Surface water availability, Soil moisture, Drought monitoring and early warning, Integrated Drought Management Programme

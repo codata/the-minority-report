@@ -1,0 +1,1 @@
+road traffic accident,collisions between road vehicles,road vehicle and pedestrians,multi-vehicle collisions,rear-end collision,head-on collision,collision due to crossing or turning,multi-hazard context,driver fatigue,distracted driving,unsafe road infrastructure,Maximum Abbreviated Injury Scale

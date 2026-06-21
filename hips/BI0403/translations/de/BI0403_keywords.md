@@ -1,0 +1,1 @@
+alien invasive species, plant and animal species, human-mediated introduction, invasive plant species, aquatic weeds, poisonous weeds, long seed germination capacity, costs of biological invasions, early warning systems, Global Invasive Species Database, invasive alien species, International Plant Protection Convention

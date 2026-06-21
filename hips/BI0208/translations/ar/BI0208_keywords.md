@@ -1,0 +1,1 @@
+Corynebacterium diphtheriae, diphtheria toxin, vaccine-preventable disease, upper respiratory tract symptoms, diphtheria antitoxin, pseudo membrane, acute respiratory obstruction, diphtheria outbreaks, diphtheria-containing vaccine, diphtheria-specific antitoxin, Case fatality rates

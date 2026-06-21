@@ -1,0 +1,1 @@
+Vehicle collision, Struck-by/caught-in/caught-between hazards, Explosions and fires, Flammable gas release, Falls from height, Confined spaces, Asphyxiation in confined spaces, Ergonomic hazards, High-pressure line hazards, Machine hazards, Electrical energy hazards

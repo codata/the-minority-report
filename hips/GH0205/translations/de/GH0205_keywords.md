@@ -1,0 +1,1 @@
+Volcanic gas, Volcanic aerosols, gas-phase substance, liquid or solid particles, magmatic gases, hydrothermal gases, Sulphate formation, PM2.5, SO2 conversion, aerosol blanket, volcanic gas haze

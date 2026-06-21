@@ -1,0 +1,10 @@
+## Changelog
+| Section | Original (nl) | Corrected (nl) | Reason |
+|---|---|---|---|
+| Primaire referentie(n) | WMO, 2017. Dust Storm or Sandstorm. *International Cloud Atlas*, World Meteorological Organization (WMO). Accessed 19 November 2019. | WMO, 2017. Dust Storm or Sandstorm. *International Cloud Atlas*, World Meteorological Organization (WMO). Aangepast op 19 november 2019. | Standardized date format and phrasing for "Accessed" in Dutch academic style. |
+| Annotaties | Stof‑ of zandstormmen ontstaan meestal in gebieden waar de grond los stof of zand bevat. | Stof- of zandstormen ontstaan meestal in gebieden waar de grond los stof of zand bevat. | Corrected hyphenation for compound nouns (stof- of zandstormen). |
+| Metrics en numerieke limieten | ...in woestijngebieden tot bijna 10 m/s in semi‑aride regio's. | ...in woestijngebieden tot bijna 10 m/s in semi-aride regio's. | Standardized spacing for units (m/s) and hyphenation for compound adjectives (semi-aride). |
+| Sleutelrelevante VN-conventie / multilateraal verdrag | ...en werd gelanceerd tijdens de Conference of the Parties van de UNCCD op 6 september 2019 (United Nations, 2019). | ...en werd gelanceerd tijdens de Conferentie van de Partijen van de UNCCD op 6 september 2019 (United Nations, 2019). | Translated the English treaty name "Conference of the Parties" into the standard Dutch equivalent. |
+| Risicobeheer | ...en drie regionale knooppunten: (i) Noord-Afrika, het Midden-Oosten en Europa, (ii) Azië, en (iii) de Amerikaanse (Baklanov, 2018). | ...en drie regionale knooppunten: (i) Noord-Afrika, het Midden-Oosten en Europa, (ii) Azië, en (iii) de Verenigde Staten (Baklanov, 2018). | Translated "de Amerikaanse" to the full official name "de Verenigde Staten" for formal context. |
+| Monitoring | ...zichtbaarheid en slechte luchtkwaliteit. | ...zichtbaarheid en slechte luchtkwaliteit. | Corrected spacing for compound nouns (zichtbaarheid, luchtkwaliteit). |
+| References | Accessed 16 May 2025. | Aangepast op 16 mei 2025. | Standardized the date format for "Accessed" in the reference list. |

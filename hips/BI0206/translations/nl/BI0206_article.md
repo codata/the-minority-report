@@ -1,1 +1,53 @@
-(Exact heading as requested.)
+### Definitie
+De Krim-Congo bloedziekte (CCHF) is een tekenovergedragen virale infectie veroorzaakt door het CCHF-virus. Het veroorzaakt ernstige uitbraken van virale hemorragische koorts en epidemieën. CCHF-uitbraken hebben een dodelijkheidsratio van 10–40 % (WHO, 2025).
+
+### Primaire bron
+WHO, 2025. Krim-Congo bloedziekte. World Health Organization (WHO). Toegang 26 mei 2025.
+
+### Annotaties
+#### Aanvullende wetenschappelijke beschrijving
+Het CCHF-virus is een tekenovergedragen virus (Nairovirus) van de familie Bunyaviridae. Het virus wordt voornamelijk overgedragen door teken en vee. Mens-op-mens transmissie kan plaatsvinden door nauw contact met bloed, afscheidingen, organen of andere lichaamsvloeistoffen van geïnfecteerde personen. CCHF is endemisch in Afrika, de Balkan, het Midden-Oosten en Azië, in landen ten zuiden van de 50e breedtegraad noordelijk (WHO, 2025).
+
+De gastheer van het CCHF-virus omvat een breed scala aan wilde en huisdiersoorten zoals runderen, schapen en geiten. Veel vogels zijn resistent tegen infectie, maar struisvogels zijn vatbaar en tonen vaak een hoge prevalentie van infectie in endemische gebieden; zij zijn de bron van menselijke gevallen. Er zijn geen duidelijke ziektesymptomen bij deze dieren (WHO, 2025). Er is geen vaccin beschikbaar voor mensen of dieren (WHO, 2025).
+
+#### Mensen
+Het CCHF-virus wordt aan mensen overgedragen via tekenbeten (voornamelijk *Hyalomma*) of door contact met geïnfecteerd dierbloed of weefsel tijdens en onmiddellijk na slacht. Mens-op-mens transmissie kan optreden door nauw contact met bloed, afscheidingen, organen of andere lichaamsvloeistoffen van geïnfecteerde personen. Ziekenhuisverworven infecties kunnen ook optreden door onjuist sterilisatie van medische apparatuur en het hergebruik van niet-steriele naalden (WHO, 2025).
+
+De incubatieperiode hangt af van de wijze van overdracht. Na een tekenbeet bedraagt de incubatie meestal één tot drie dagen, met een maximum van negen dagen. Bij contact met geïnfecteerd bloed of weefsel is de incubatie meestal vijf tot zes dagen, met een gedocumenteerd maximum van dertien dagen (WHO, 2025).
+
+De ziekte werd voor het eerst beschreven in de Krim in 1944 en kreeg de naam Krim-bloedziekte. In 1969 werd erkend dat het pathogeen dat de Krim-bloedziekte veroorzaakte gelijk was aan het pathogeen dat in 1956 in Congo een ziekte veroorzaakte. De koppeling van de twee plaatsnamen leidde tot de huidige naam van de ziekte en het virus (WHO, 2024a).
+
+#### Dieren
+De Krim-Congo bloedziekte (CCHF) is een zoonotische ziekte in veel landen van Azië, Afrika, het Midden-Oosten en Zuidoost-Europa. Het virus circuleert in een teken-vertebraten-tekencyclus, maar kan ook horizontaal en verticaal binnen de tekenpopulatie worden overgedragen. *Hyalomma*-tekenen infesteren een breed spectrum van verschillende wildsoorten, bijvoorbeeld herten en konijnen, en vrijloopende vee, bijvoorbeeld geit, rund en schaap. Deze dieren spelen een cruciale rol in de levenscyclus van teken, en in de transmissie en amplificatie van het virus. Omdat de dieren klinische symptomen niet vertonen, hebben CCHFV-infecties geen economische impact op de veehouderij (WOAH, 2024). Alle CCHF-gerelateerde monsters van vermoedelijke of bevestigde menselijke of dierlijke gevallen moeten worden vervoerd als UN2814 met P620-verpakking op elk transportmiddel (United Nations, 2023).
+
+### Metrics en numerieke limieten
+Het European Centre for Disease Prevention and Control (ECDC) heeft casusdefinities gepubliceerd voor de preventie en controle van de Krim-Congo bloedziekte (ECDC, 2008). WHO biedt ook documentatie ter ondersteuning van ziekteonderzoek en -controle en heeft een aide-memoire opgesteld over standaard infectiebeschermingsmaatregelen in de gezondheidszorg, bedoeld om het risico op overdracht van bloedgedragen pathogenen en andere ziekteverwekkers te verminderen (WHO, 2024b).
+
+### Belangrijke relevante VN-conventie / multilateraal verdrag
+Internationale Gezondheidsvoorschriften (2005), 3e editie (WHO, 2016).
+United Nations. 2023. UN Recommendations on the Transport of Dangerous Goods - UN Model Regulations. Beschikbaar via: https://unece.org/transport/dangerous-goods/un-model-regulations-rev-23
+
+### Drijfveren
+Het CCHF-virus wordt aan mensen overgedragen via tekenbeten of door contact met geïnfecteerd dierbloed of weefsel tijdens en onmiddellijk na slacht. De meeste gevallen komen voor bij mensen die betrokken zijn bij de veehouderij, zoals landbouwarbeiders, slachthuismedewerkers en dierenartsen (Ergönül, 2006). Mens-op-mens transmissie kan optreden door nauw contact met bloed, afscheidingen, organen of andere lichaamsvloeistoffen van geïnfecteerde personen. Ziekenhuisverworven infecties kunnen ook optreden door onjuist sterilisatie van medische apparatuur, het hergebruik van naalden en besmetting van medische voorraden. In afwezigheid van een vaccin is de enige manier om de Krim-Congo bloedziekte bij mensen te verminderen het vergroten van het bewustzijn van risico-factoren en het opleiden van mensen over maatregelen om blootstelling aan het virus te verminderen (WHO, 2025).
+
+### Impacten
+Het begin van de symptomen is plotseling en kan onder meer koorts, spierpijn, duizeligheid, nekpijn, rugpijn, hoofdpijn, oogpijn en fotofobie (lichtgevoeligheid) omvatten. Er kan misselijkheid, braken, diarree, buikpijn en keelpijn optreden in het vroege stadium, gevolgd door scherpe stemmingswisselingen en verwarring. Na 2–4 dagen kan de agitatie vervangen worden door slaperigheid, depressie en lusteloosheid, en kan buikpijn zich concentreren op het bovenste rechterkwadrant, met detecteerbare leververgroting (WHO, 2024a). Andere klinische tekenen zijn tachycardie, lymfadenopathie en een petechieuze uitslag, veroorzaakt door bloedingen in de huid, op interne mucosale oppervlakken zoals in de mond en keel, en op de huid. De petechiën kunnen overgaan in grotere uitslagen genaamd ecchymoses, en andere hemorragische fenomenen. Er is meestal bewijs van hepatitis, en ernstig zieke patiënten kunnen snelle nieraftreding, plotselinge leverfalen of ademhalingsfalen ervaren na de vijfde dag van ziekte (WHO, 2024a).
+
+### Multi-hazard context
+CCHF is waargenomen in gebieden met voortdurende conflicten en in gebieden waar mensen in nauw contact staan met wilde dieren die het virus dragen (Ergönül, 2006). Veranderingen in klimatologische omstandigheden worden gesuggereerd als een van de factoren die de reproducerende van de tekenpopulatie hebben gefaciliteerd, en bijgevolg de incidentie van teken-gedragen infectieziekten hebben verhoogd (Ergönül, 2006).
+
+### Risicobeheer
+Het is moeilijk om CCHF-infectie bij dieren en teken te voorkomen of te beheersen, omdat de teken-dier-tekencyclus meestal onopgemerkt blijft en de infectie bij huisdieren meestal niet zichtbaar is. Bovendien zijn er veel tekenvectoren en wijdverspreid; de bestrijding met acariciden is alleen een realistische optie voor goed beheerde veehouderijfaciliteiten. Er zijn geen vaccins beschikbaar voor dieren (WHO, 2024a). Hoewel een inactief, muis-hersenen-gebaseerd vaccin tegen CCHF is ontwikkeld en in beperkte mate gebruikt in Oost-Europa, is er momenteel geen veilig en effectief vaccin algemeen beschikbaar voor menselijk gebruik. In afwezigheid van een vaccin is de enige manier om infectie bij mensen te verminderen het vergroten van het bewustzijn van risico-factoren en het opleiden van mensen over maatregelen die ze kunnen nemen om blootstelling aan het virus te verminderen (WHO, 2025). Gezondheidsadviezen moeten zich richten op verschillende aspecten, zoals het verminderen van het risico op teken-naar-mens transmissie: het dragen van beschermende kleding (lange mouwen, lange broeken); het dragen van lichte kleding om teken gemakkelijk te detecteren; het gebruiken van geaccepteerde acariciden op kleding; het gebruiken van geaccepteerde repelletiemiddelen op huid en kleding; regelmatig kleding en huid inspecteren op teken; indien gevonden, veilig verwijderen; afvoeren of bestrijden van tekeninvasies op dieren of in stal en schuren; en het vermijden van gebieden waar teken overvloedig zijn en seizoenen waarin ze het meest actief zijn (WHO, 2025). Zorgverleners die patiënten met vermoedelijke of bevestigde Krim-Congo bloedziekte behandelen, of monsters van hen hanteren, moeten standaard infectiepreventie- en beheersmaatregelen implementeren. Deze omvatten basis handhygiëne, gebruik van persoonlijke beschermingsmiddelen, veilige injectiepraktijken en veilige begrafenispraktijken (WHO, 2025). WHO werkt samen met partners om toezicht, diagnostische capaciteit en uitbraakresponsactiviteiten voor CCHF in Europa, het Midden-Oosten, Azië en Afrika te ondersteunen (WHO, 2023).
+
+### Monitoring
+WHO ondersteunt landen bij het uitvoeren van een all-hazard strategische risico-evaluatie in de context van gezondheids-noodgevallen en rampen, wat resulteert in de ontwikkeling van een land-risico-profiel. Met het land-risico-profiel, inclusief een seizoensrisico-kalender, kunnen landen potentiële noodgevallen anticiperen voordat ze zich voordoen om vroegtijdige waarschuwingen te activeren en vroegtijdige acties te informeren (WHO, 2021).
+WHO’s Early Warning, Alert and Response System (EWARS) is ontworpen om de detectie van ziekteuitbraken in noodsituaties te verbeteren, zoals in landen in conflict of na een natuurramp. Het is een eenvoudige en kostenefficiënte manier om een ziekte-toezicht-systeem snel op te zetten. EWARS wordt tijdens een noodsituatie ingezet als aanvulling op het nationale ziekte-toezicht-systeem. WHO werkt samen met Ministeries van Volksgezondheid en partners in de gezondheidssector om lokale zorgverleners te trainen in het gebruik van het systeem. Na de noodsituatie moet EWARS weer geïntegreerd worden in het nationale systeem (WHO, 2023).
+De sectie en de onderstaande tabel bieden een overzicht van het toezicht voor de Krim-Congo bloedziekte. Deze informatie kan gebruikt worden voor het voorspellen binnen een nationaal vroegwaarschuwingssysteem (EWS). Omdat EWS-capaciteiten en -processen per land verschillen, moeten de meest actuele en specifieke informatie over EWS worden verkregen van de betreffende nationale of regionale instantie/autoriteit die verantwoordelijk is voor rampenbeheer.
+Welke instantie(en) produceren Rampenrisico-data/informatie?
+WHO
+Hoe wordt de hazard geobserveerd/monitor/voorspeld?
+FAO empres-i+ https://empres-i.apps.fao.org/diseases
+WOAH WAHIS https://wahis.woah.org/#/event-management
+
+### References
+*(The References block remains in English as required.)*

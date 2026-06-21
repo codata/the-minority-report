@@ -1,0 +1,1 @@
+precipitation of ice crystals, snowflakes, small droplets of frozen water, snow flurries, snow showers, snow squalls, blowing snow, blizzards, wet snow, snow and ice formation, snowpack levels
