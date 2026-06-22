@@ -1,0 +1,1 @@
+cyclone of tropical origin, minimum surface pressure, organized deep convection, closed surface wind circulation, maximum sustained wind speed, Tropical depression, Tropical storm, very severe cyclonic storm, storm surges, water- and vector-borne diseases, numerical weather prediction models, Regional Specialised Meteorological Centres

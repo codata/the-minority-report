@@ -1,0 +1,1 @@
+disinfection of water,loss of containment during storage and transport,pulmonary oedema,corrosive strong oxidant,reaction with water or steam,formation of hydrochloric acid,formation of phosgene,chlorinated hydrocarbon solvents,chlorine gas evaporation,acute exposure guideline values,chlorine and carbon-containing materials

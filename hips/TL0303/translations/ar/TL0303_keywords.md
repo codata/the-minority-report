@@ -1,0 +1,1 @@
+presence of a chemical or substance out of place, higher-than-normal concentration, remnants of hazardous materials, soil contamination, microplastics, per- and polyfluoroalkyl substances (PFAS), soil structure, microbial communities, enhanced microbial degradation, phytoremediation, soil screening values (SSVs), predicted no-effect concentrations (PNECs)

@@ -1,0 +1,1 @@
+Polyfluoroalkyl substances (PFAS), perfluoroalkyl substance, perfluorooctanoic acid (PFOA), perfluorooctanesulfonic acid (PFOS), carbon-fluorine bonds, environmental persistence, bioaccumulation, surfactant properties, drinking-water quality, firefighting foams, Stockholm Convention on Persistent Organic Pollutants, early warning systems
